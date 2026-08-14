@@ -1,6 +1,12 @@
 # segredos — NUNCA commitar
 config.local.yml
 
+# material de referência com dado pessoal de colega (nome/e-mail) — fica só local,
+# não faz sentido num repositório agora público
+ENC_ Notícias diárias _ 11_08_2026.eml
+referencia/email-original.html
+INSTRUCAO-CLAUDE-CODE-clipping-lets.md
+
 # ambiente Python
 .venv/
 __pycache__/
