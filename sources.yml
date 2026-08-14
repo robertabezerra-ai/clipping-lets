@@ -1,0 +1,318 @@
+# Configuração das 22 fontes do Clipping LETS.
+#
+# ordem = ordem fixa das linhas do e-mail (ver INSTRUCAO §4). Não reordenar.
+# estrategia = rss | gov_br_rss | json_api | scrape
+#   rss         feed RSS/Atom padrão (RSS 2.0), <pubDate> em RFC 822
+#   gov_br_rss  RSS 1.0/RDF que os portais gov.br "clássicos" (Plone) publicam
+#               em <url>/RSS — cada <item> tem <dc:date> e <dc:type>; só
+#               <dc:type>collective.nitf.content</dc:type> é notícia de
+#               verdade (o resto do feed é pasta/imagem do mesmo diretório)
+#   json_api    endpoint JSON que o próprio site consome (wp-json, Volto
+#               ++api++, API própria) — cada um tem formato diferente,
+#               tratado em coletor/parsers.py por fonte
+#   scrape      sem feed utilizável; varre <a href> da página de listagem
+#               que casam com padrao_link e lê a data no texto ao redor
+#
+# padrao_link = regex (aplicada à URL absoluta do link) usada só quando
+#   estrategia = scrape. seletores_css é alternativa quando o link/data não
+#   dá para achar por regex de URL + contexto (caso do CNJ).
+#
+# status_validacao = ok | instavel | falhou — resultado real de
+#   `python -m coletor.validar_fontes` em 12/08/2026. Fontes "falhou" têm
+#   o motivo em observacao; não são fabricadas nem adivinhadas.
+
+- id: stf
+  nome: "STF"
+  ordem: 1
+  estrategia: json_api
+  url: "https://noticias.stf.jus.br/wp-json/wp/v2/postsnoticias?per_page=50&orderby=date&order=desc"
+  url_fallback: "https://noticias.stf.jus.br/"
+  alerta: false
+  status_validacao: ok
+  observacao: >
+    Corrigido em 14/08/2026: o protótipo usava /wp/v2/posts (tipo genérico
+    "Post" do WordPress), que traz outra coisa. O conteúdo real do
+    noticias.stf.jus.br/postsnoticias/... fica no tipo customizado
+    "postsnoticias" ("Posts de Notícias"), endpoint /wp/v2/postsnoticias.
+    Confirmado comparando com o e-mail real de 13/08: os 2 itens do STF que
+    faltavam apareceram certinho com a URL corrigida. Atenção: o site é
+    protegido por AWS WAF — bater na API muitas vezes em poucos minutos
+    (como em testes manuais repetidos) devolve 202 com corpo vazio
+    (x-amzn-waf-action: challenge) até esfriar. Na cadência real de
+    produção (poucas vezes por dia) isso não deve acontecer.
+
+- id: stj
+  nome: "STJ"
+  ordem: 2
+  estrategia: scrape
+  url: "https://www.stj.jus.br/sites/portalp/Inicio"
+  url_fallback: null
+  alerta: false
+  status_validacao: falhou
+  observacao: >
+    Portal em SharePoint (www.stj.jus.br redireciona para
+    /sites/portalp/Inicio), conteúdo renderizado por JavaScript — a página
+    HTML crua não traz nenhum link de notícia. Não achei RSS nem API JSON
+    pública. Precisaria de navegador headless, que a instrução pede para
+    não usar. Não inventei URL — documentando como não encontrado.
+
+- id: tst
+  nome: "TST"
+  ordem: 3
+  estrategia: rss
+  url: "https://www.tst.jus.br/rss"
+  url_fallback: null
+  alerta: false
+  status_validacao: ok
+  observacao: "RSS 2.0 padrão, <pubDate> confiável."
+
+- id: trt2
+  nome: "TRT-2"
+  ordem: 4
+  estrategia: scrape
+  url: "https://ww2.trt2.jus.br/noticias/noticias"
+  url_fallback: null
+  padrao_link: "/noticias/noticias/noticia/[a-z0-9-]{10,}$"
+  alerta: false
+  status_validacao: ok
+  observacao: "Sem RSS. Listagem HTML estática, data dd/mm/aaaa no entorno do link."
+
+- id: trt15
+  nome: "TRT-15"
+  ordem: 5
+  estrategia: rss
+  url: "https://trt15.jus.br/noticias/rss.xml"
+  url_fallback: "https://trt15.jus.br"
+  alerta: false
+  status_validacao: ok
+  observacao: "RSS 2.0 padrão."
+
+- id: tjsp
+  nome: "TJSP"
+  ordem: 6
+  estrategia: scrape
+  url: "https://www.tjsp.jus.br/Noticias"
+  url_fallback: null
+  padrao_link: "Noticia\\?codigoNoticia=\\d+"
+  alerta: false
+  status_validacao: ok
+  observacao: "Sem RSS (/Noticias/rss e /RSS/Noticias devolvem a home). Scraping com data dd/mm/aaaa."
+
+- id: pgfn
+  nome: "PGFN"
+  ordem: 7
+  estrategia: scrape
+  url: "https://www.gov.br/pgfn/pt-br/assuntos/noticias"
+  url_fallback: null
+  padrao_link: "/pgfn/pt-br/assuntos/noticias/\\d{4}/[a-z0-9-]{8,}$"
+  alerta: false
+  status_validacao: ok
+  observacao: "/RSS e /@@rss devolvem 404. Portal gov.br clássico (Plone), sem a API Volto do ANPD. Scraping funciona."
+
+- id: senado
+  nome: "Senado"
+  ordem: 8
+  estrategia: scrape
+  url: "https://www12.senado.leg.br/noticias/ultimas"
+  url_fallback: null
+  padrao_link: "senado\\.leg\\.br/noticias/(materias|audios|videos)/"
+  alerta: false
+  status_validacao: ok
+  observacao: >
+    Já validado no protótipo. Existe /noticias/materias/rss, mas devolve só
+    7 links de arquivo por ano com título e data vazios/zerados — inútil.
+    Mantido em scrape.
+
+- id: camara
+  nome: "Câmara dos Deputados"
+  ordem: 9
+  estrategia: scrape
+  url: "https://www.camara.leg.br/noticias/ultimas"
+  url_fallback: null
+  padrao_link: "camara\\.leg\\.br/noticias/\\d{5,}-"
+  alerta: false
+  status_validacao: ok
+  observacao: >
+    Já validado no protótipo. /noticias/rss.xml devolve 405 (rota morta) e
+    a API de Dados Abertos não tem recurso de notícias, só proposições/
+    votações/deputados. Scraping é o caminho certo.
+
+- id: receita_federal
+  nome: "Receita Federal"
+  ordem: 10
+  estrategia: gov_br_rss
+  url: "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS"
+  url_fallback: "https://www.gov.br/receitafederal/pt-br/assuntos/noticias"
+  alerta: true
+  status_validacao: ok
+  observacao: >
+    Trocado de scraping (protótipo) para o RSS/RDF real, que existe e
+    funciona — mais robusto que HTML. Precisa filtrar
+    dc:type=collective.nitf.content: o mesmo feed devolve pastas e imagens
+    do diretório junto com as notícias de verdade.
+
+- id: fazenda
+  nome: "Ministério da Fazenda"
+  ordem: 11
+  estrategia: scrape
+  url: "https://www.gov.br/fazenda/pt-br/assuntos/noticias"
+  url_fallback: null
+  padrao_link: "/fazenda/pt-br/assuntos/noticias/\\d{4}/[^/]+/[a-z0-9-]{8,}$"
+  alerta: false
+  status_validacao: ok
+  observacao: "/RSS e /@@rss devolvem 404. Scraping com data dd/mm/aaaa funciona bem."
+
+- id: anpd
+  nome: "ANPD"
+  ordem: 12
+  estrategia: json_api
+  url: "https://www.gov.br/anpd/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effective&sort_order=descending"
+  url_fallback: null
+  alerta: false
+  status_validacao: ok
+  observacao: >
+    ANPD já migrou para o portal gov.br novo (Volto/React) — a página
+    normal só tem um app JS vazio, sem link nenhum no HTML. Achei a REST
+    API do Plone (plone.restapi) por trás: <site>/++api++/<caminho>/@search.
+    Campo de data é "effective", ISO 8601, limpo.
+
+- id: anbima
+  nome: "Anbima"
+  ordem: 13
+  estrategia: scrape
+  url: "https://www.anbima.com.br/pt_br/noticias/noticias.htm"
+  url_fallback: null
+  alerta: false
+  status_validacao: falhou
+  observacao: >
+    CMS Lumis, lista renderizada via JS (chamada AJAX para
+    lumis/api/rest/<nome>/lumgetdata/list.json, mas o <nome> do recurso da
+    listagem de notícias não aparece em nenhum lugar do HTML estático — só
+    achei os dos banners de menu). Sem RSS. Não inventei o endpoint.
+
+- id: cvm
+  nome: "CVM"
+  ordem: 14
+  estrategia: gov_br_rss
+  url: "https://www.gov.br/cvm/pt-br/assuntos/noticias/RSS"
+  url_fallback: "https://www.gov.br/cvm/pt-br/assuntos/noticias"
+  alerta: false
+  status_validacao: ok
+  observacao: "Mesmo caso da Receita Federal: RSS/RDF real existe, trocado de scraping para gov_br_rss."
+
+- id: bacen
+  nome: "Bacen"
+  ordem: 15
+  estrategia: json_api
+  url: "https://www.bcb.gov.br/api/servico/sitebcb/noticias?quantidade=30"
+  url_fallback: null
+  alerta: false
+  status_validacao: ok
+  observacao: >
+    Site é SPA; a página não tem HTML útil. Achei o endpoint JSON que o
+    próprio front-end consome (inspecionei via requests, sem inspetor de
+    rede de navegador mesmo). O item não traz link — a URL do artigo é
+    montada como bcb.gov.br/detalhenoticia/<Id>/nota (confirmado: devolve
+    200), que bate com o padrão observado no e-mail de referência.
+
+- id: coaf
+  nome: "Coaf"
+  ordem: 16
+  estrategia: scrape
+  url: "https://www.gov.br/coaf/pt-br/assuntos/noticias"
+  url_fallback: null
+  alerta: false
+  status_validacao: falhou
+  observacao: >
+    Portal devolve 401 para toda requisição sem navegador real (RSS,
+    scraping da página e a própria API Volto — testei os três, inclusive
+    com espera entre tentativas para descartar limite de taxa). Parece
+    bot-protection específico deste subsite gov.br. Não contornei.
+
+- id: cade
+  nome: "Cade"
+  ordem: 17
+  estrategia: scrape
+  url: "https://www.gov.br/cade/pt-br/assuntos/noticias"
+  url_fallback: null
+  padrao_link: "/cade/pt-br/assuntos/noticias/[a-z0-9-]{15,}$"
+  alerta: false
+  status_validacao: ok
+  observacao: "/RSS e /@@rss devolvem 404. Scraping com data dd/mm/aaaa funciona."
+
+- id: cnj
+  nome: "CNJ"
+  ordem: 18
+  estrategia: scrape
+  url: "https://www.cnj.jus.br/category/noticias/"
+  url_fallback: null
+  seletores:
+    item: "article"
+    titulo: "h3.elementor-post__title a"
+    data: "span.elementor-post-date"
+  formato_data: "extenso_pt"   # "11 de agosto de 2026" — não é dd/mm/aaaa
+  alerta: false
+  status_validacao: ok
+  observacao: >
+    WordPress, mas /feed/ e /category/noticias/feed/ redirecionam para a
+    página HTML normal (feed desligado). Tema usa Elementor: notícia é
+    <article>, título em h3.elementor-post__title a, data por extenso em
+    span.elementor-post-date ("11 de agosto de 2026") — precisa de parser
+    de mês por nome, não do regex dd/mm/aaaa usado nas outras fontes.
+
+- id: mjsp
+  nome: "MJSP"
+  ordem: 19
+  estrategia: scrape
+  url: "https://www.gov.br/mj/pt-br/assuntos/noticias-1"
+  url_fallback: null
+  padrao_link: "/mj/pt-br/assuntos/noticias-1/[a-z0-9-]{10,}$"
+  alerta: false
+  status_validacao: ok
+  observacao: >
+    Sigla do e-mail é MJSP mas o slug gov.br é "mj" (Ministério da
+    Justiça e Segurança Pública) — "gov.br/mjsp" não existe (404). A seção
+    de notícias também não se chama "noticias" e sim "noticias-1".
+    /assuntos/noticias/RSS (o nome óbvio) redireciona para tela de login;
+    a página HTML normal funciona.
+
+- id: carf
+  nome: "CARF"
+  ordem: 20
+  estrategia: scrape
+  url: "https://www.gov.br/carf/pt-br/assuntos/novas-noticias"
+  url_fallback: null
+  padrao_link: "/carf/pt-br/assuntos/novas-noticias/[a-z0-9-]{10,}$"
+  alerta: false
+  status_validacao: ok
+  observacao: >
+    Slug de notícias é "novas-noticias", não "noticias" (/RSS no caminho
+    óbvio dá 404). Publica pouco — só 2 itens na listagem no momento desta
+    validação (jan/2026 e dez/2024). Isso é o site real, não um bug do
+    coletor: CARF divulga a maior parte da atividade em "avisos e
+    comunicados" (pautas de julgamento), que não é notícia editorial e
+    fica de fora por não ter valor de pauta para escritórios.
+
+- id: governo_federal
+  nome: "Governo Federal"
+  ordem: 21
+  estrategia: scrape
+  url: "https://agenciagov.ebc.com.br/noticias"
+  url_fallback: null
+  padrao_link: "agenciagov\\.ebc\\.com\\.br/noticias/\\d{6}/[a-z0-9-]{8,}$"
+  alerta: false
+  status_validacao: ok
+  observacao: "Sem RSS público (testei 3 caminhos, todos 404). Scraping com data e hora no próprio texto do link."
+
+- id: congresso_em_foco
+  nome: "Congresso em Foco"
+  ordem: 22
+  estrategia: rss
+  url: "https://congressoemfoco.com.br/feed/"
+  url_fallback: "https://www.congressoemfoco.com.br/wp-json/wp/v2/posts?per_page=30"
+  alerta: false
+  status_validacao: ok
+  observacao: >
+    wp-json (usado no protótipo) hoje devolve 404 — parece ter sido
+    desativado. /feed/ é RSS 2.0 padrão e funciona bem; virou a
+    estratégia principal, com o wp-json antigo como fallback.

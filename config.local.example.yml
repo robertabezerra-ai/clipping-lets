@@ -1,0 +1,13 @@
+# Copie este arquivo para config.local.yml e preencha.
+# config.local.yml NUNCA vai para o Git.
+
+smtp:
+  host: smtp.office365.com
+  porta: 587
+  usuario: "contato@letsmarketing.com.br"
+  senha: "SENHA-DE-APP"        # senha de aplicativo, nao a senha da conta
+  remetente: "contato@letsmarketing.com.br"
+
+alerta_rfb:
+  destinatarios:
+    - "contato@letsmarketing.com.br"

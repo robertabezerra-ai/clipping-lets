@@ -1,0 +1,1087 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Clipping LETS — curadoria de notícias</title>
+<style>
+  :root{
+    --creme:#EEE7D6;
+    --vermelho:#D10A11;
+    --preto:#1D1D1B;
+    --cinza:#5C5C5A;
+    --borda:#DDD5C2;
+    --branco:#fff;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;background:var(--creme);color:var(--preto);
+    font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  a{color:var(--preto)}
+  .wrap{max-width:1360px;margin:0 auto;padding:0 20px 80px}
+
+  /* ---------- cabecalho ---------- */
+  header{background:var(--preto);color:var(--creme);padding:18px 0}
+  header .wrap{padding-bottom:0}
+  .marca{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap}
+  .marca h1{margin:0;font-size:20px;letter-spacing:-.3px}
+  .marca h1 b{color:var(--vermelho)}
+  .marca .dia{color:#B9B2A2;font-size:13.5px}
+  .modo{margin-top:6px;font-size:12px;color:#B9B2A2}
+
+  /* ---------- alerta RFB ---------- */
+  #alertaRfb{
+    display:none;background:var(--vermelho);color:#fff;
+    padding:13px 20px;font-weight:600;font-size:14.5px;
+    border:0;width:100%;text-align:left;cursor:pointer;
+  }
+  #alertaRfb:hover{background:#b00810}
+  #alertaRfb .wrap{padding-bottom:0;display:flex;gap:10px;align-items:center;justify-content:space-between}
+  #alertaRfb small{font-weight:400;opacity:.85}
+
+  /* ---------- shell: barra lateral + conteudo ---------- */
+  .shell{max-width:1360px;margin:0 auto;display:flex;align-items:flex-start}
+  .barra{
+    flex:0 0 272px;width:272px;align-self:flex-start;
+    position:sticky;top:0;height:100vh;
+    display:flex;flex-direction:column;
+    background:var(--branco);border-right:1px solid var(--borda);
+  }
+  .barra-rolavel{flex:1;min-height:0;overflow-y:auto;padding:18px 16px 12px}
+  .barra-fixa{
+    flex:0 0 auto;padding:14px 16px;border-top:1px solid var(--borda);
+    display:flex;flex-direction:column;gap:8px;background:var(--branco);
+  }
+  .secao{margin-bottom:20px}
+  .secao:last-child{margin-bottom:0}
+  .rotulo-secao{
+    margin:0 0 9px;font-size:11px;font-weight:700;letter-spacing:.06em;
+    text-transform:uppercase;color:var(--cinza);
+  }
+  .linha-dia{display:flex;gap:6px;align-items:center;margin-bottom:8px}
+  .linha-dia input[type=date]{flex:1;min-width:0;padding:8px 6px}
+  .full{width:100%}
+  .chips-coluna{display:flex;flex-direction:column;gap:6px}
+  .chips-coluna .chip{width:100%;text-align:left;border-radius:8px}
+
+  .linha{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .linha+.linha{margin-top:10px}
+  input[type=date],input[type=search]{
+    font:inherit;padding:8px 10px;border:1px solid var(--borda);
+    border-radius:6px;background:var(--branco);color:var(--preto);
+  }
+  input[type=search]{min-width:0;flex:1}
+  button{font:inherit;cursor:pointer;border-radius:6px;border:1px solid var(--borda);
+    background:var(--branco);color:var(--preto);padding:8px 12px;
+    display:inline-flex;align-items:center;justify-content:center;gap:7px}
+  button:hover{border-color:var(--cinza)}
+  button.primario{background:var(--vermelho);border-color:var(--vermelho);color:#fff;font-weight:600}
+  button.primario:hover{background:#b00810}
+  button.ativo{background:var(--preto);border-color:var(--preto);color:var(--creme)}
+  .chip{padding:5px 11px;font-size:13px;border-radius:999px}
+  .contador{font-size:13.5px;color:var(--cinza);text-align:center}
+  .ajuda-inline{font-size:12.5px;color:var(--cinza)}
+  .contador b{color:var(--vermelho);font-size:15px}
+  label.toggle{display:flex;align-items:center;gap:7px;font-size:13.5px;
+    background:var(--creme);border:1px solid var(--borda);border-radius:6px;padding:7px 11px;cursor:pointer}
+  label.toggle+label.toggle{margin-top:8px}
+  :focus-visible{outline:3px solid var(--vermelho);outline-offset:2px}
+
+  /* ---------- area principal ---------- */
+  .area-principal{flex:1;min-width:0;padding:20px 24px 80px}
+
+  /* ---------- responsivo: sidebar vira topo em telas estreitas ---------- */
+  @media (max-width:880px){
+    .shell{display:block}
+    .barra{
+      position:static;height:auto;width:100%;flex:none;
+      border-right:0;border-bottom:1px solid var(--borda);
+    }
+    .barra-rolavel{overflow-y:visible;padding:16px}
+    .chips-coluna{flex-direction:row;flex-wrap:wrap}
+    .chips-coluna .chip{width:auto}
+    .area-principal{padding:16px 16px 60px}
+  }
+
+  /* ---------- lista ---------- */
+  .veiculo{background:var(--branco);border:1px solid var(--borda);border-radius:10px;margin-bottom:14px;overflow:hidden}
+  .veiculo>h2{
+    margin:0;padding:11px 16px;font-size:14px;letter-spacing:.04em;text-transform:uppercase;
+    background:#F7F3E9;border-bottom:1px solid var(--borda);display:flex;gap:10px;align-items:center;
+  }
+  .veiculo>h2 .qtd{font-weight:400;color:var(--cinza);text-transform:none;letter-spacing:0;font-size:12.5px}
+  .veiculo.vazio>h2{background:var(--branco);border-bottom:0}
+  .nada{padding:6px 16px 14px;color:var(--cinza);font-size:13.5px;font-style:italic}
+  .item{display:flex;gap:12px;padding:11px 16px;border-top:1px solid #F0EADB;align-items:flex-start}
+  .item:first-of-type{border-top:0}
+  .item.marcado{background:#FDF6F6}
+  .item input[type=checkbox]{width:24px;height:24px;margin:0;accent-color:var(--vermelho);flex:0 0 auto;cursor:pointer}
+  .item .corpo{flex:1;min-width:0}
+  .item .tit{display:block;font-size:14.5px;line-height:1.4;cursor:pointer}
+  .item .meta{margin-top:4px;font-size:12px;color:var(--cinza);display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .selo{font-size:10.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;
+    padding:2px 7px;border-radius:4px;background:#FBE3E4;color:var(--vermelho)}
+  .selo.novo{background:var(--preto);color:var(--creme)}
+  .selo.manual{background:var(--borda);color:var(--preto)}
+  .item .abrir{font-size:12px;color:var(--cinza);text-decoration:underline}
+  .item.foco{box-shadow:inset 3px 0 0 var(--vermelho)}
+
+  .vazio-geral{background:var(--branco);border:1px dashed var(--borda);border-radius:10px;
+    padding:36px 20px;text-align:center;color:var(--cinza)}
+
+  /* ---------- painel do alerta RFB ---------- */
+  details.cartao{background:var(--branco);border:1px solid var(--borda);border-radius:10px;
+    margin-bottom:16px;overflow:hidden}
+  details.cartao summary{padding:12px 16px;cursor:pointer;font-size:14px}
+  details.cartao[open] summary{border-bottom:1px solid var(--borda)}
+  details.cartao .conteudo{padding:14px 16px 16px}
+  .ajuda{margin:0 0 10px;font-size:13px;color:var(--cinza);max-width:70ch}
+  .ajuda code{background:#F7F3E9;padding:1px 5px;border-radius:3px;font-size:12.5px}
+
+  /* ---------- saude das fontes ---------- */
+  main#lista{display:block;margin-top:4px}
+  details.saude{margin-top:26px;font-size:13.5px}
+  details.saude summary{cursor:pointer;color:var(--cinza)}
+  details.saude table{border-collapse:collapse;margin-top:10px;background:var(--branco);width:100%}
+  details.saude td,details.saude th{border:1px solid var(--borda);padding:6px 10px;text-align:left;font-size:13px}
+  .st-ok{color:#1a7a3a;font-weight:600}
+  .st-instavel{color:#a86b00;font-weight:600}
+  .st-falhou{color:var(--vermelho);font-weight:600}
+
+  /* ---------- modal ---------- */
+  .modal{display:none;position:fixed;inset:0;z-index:60;background:rgba(29,29,27,.6);padding:24px}
+  .modal.abre{display:flex;align-items:flex-start;justify-content:center}
+  .painel{background:var(--branco);border-radius:12px;max-width:900px;width:100%;
+    max-height:calc(100vh - 48px);display:flex;flex-direction:column;overflow:hidden}
+  .painel header{background:var(--branco);color:var(--preto);padding:16px 20px;
+    border-bottom:1px solid var(--borda);display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+  .painel header h2{margin:0;font-size:17px;flex:1}
+  .painel .preview{overflow:auto;padding:20px;background:#fff;flex:1}
+  .painel .pe{padding:14px 20px;border-top:1px solid var(--borda);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .aviso{font-size:12.5px;color:var(--cinza);flex:1;min-width:180px}
+  .ok{color:#1a7a3a;font-weight:600}
+  pre.codigo{white-space:pre-wrap;word-break:break-word;font:12px/1.5 ui-monospace,Menlo,Consolas,monospace;
+    background:#F7F3E9;padding:14px;border-radius:8px;margin:0}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <div class="marca">
+      <h1>Clipping <b>LETS</b></h1>
+      <span class="dia" id="tituloDia"></span>
+    </div>
+    <div class="modo" id="modoTexto"></div>
+  </div>
+</header>
+
+<button id="alertaRfb" type="button">
+  <span class="wrap">
+    <span id="alertaTexto"></span>
+    <small>clique para ir até a seção</small>
+  </span>
+</button>
+
+<div class="shell">
+<aside class="barra">
+  <div class="barra-rolavel">
+    <div class="secao">
+      <h2 class="rotulo-secao">Dia</h2>
+      <div class="linha-dia">
+        <button type="button" id="btnAnterior" aria-label="Dia anterior">‹</button>
+        <input type="date" id="seletorDia" aria-label="Dia das notícias">
+        <button type="button" id="btnProximo" aria-label="Dia seguinte">›</button>
+      </div>
+      <button type="button" id="btnHoje" class="full">Hoje</button>
+    </div>
+
+    <div class="secao">
+      <h2 class="rotulo-secao">Buscar no título</h2>
+      <input type="search" id="busca" placeholder="Buscar no título…" class="full" aria-label="Buscar no título">
+    </div>
+
+    <div class="secao">
+      <h2 class="rotulo-secao">Veículos</h2>
+      <div class="chips-coluna" id="chips" role="group" aria-label="Filtrar por veículo"></div>
+    </div>
+
+    <div class="secao">
+      <label class="toggle"><input type="checkbox" id="soAlta"> Só alta relevância</label>
+      <label class="toggle"><input type="checkbox" id="mostrarVazios"> Listar cada veículo sem novidade</label>
+    </div>
+  </div>
+
+  <div class="barra-fixa">
+    <span class="contador" id="contador"></span>
+    <button type="button" id="btnBuscar" class="full">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+        <circle cx="7" cy="7" r="5.25" stroke="currentColor" stroke-width="1.5"/>
+        <path d="M11 11L14.5 14.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+      </svg>
+      Buscar
+    </button>
+    <button type="button" id="btnLimpar" class="full">Limpar seleção</button>
+    <button type="button" class="primario full" id="btnGerar">Gerar HTML para Outlook</button>
+  </div>
+</aside>
+
+<div class="area-principal">
+  <details class="cartao" id="painelManual">
+    <summary><b>Adicionar notícia manualmente</b> — quando o coletor não achou sozinho</summary>
+    <div class="conteudo">
+      <p class="ajuda">
+        Preencha veículo, título e link de uma notícia do dia selecionado. Ela entra
+        na seção do veículo (ou cria uma seção nova, se não for um dos 22), pode ser
+        marcada e vai para o e-mail no mesmo formato das outras.
+      </p>
+      <div class="linha">
+        <select id="manualVeiculo" style="min-width:220px" aria-label="Veículo"></select>
+        <input type="text" id="manualVeiculoNovo" placeholder="Nome do veículo novo"
+               style="display:none;min-width:200px" aria-label="Nome do veículo novo">
+      </div>
+      <div class="linha">
+        <input type="text" id="manualTitulo" placeholder="Título da notícia"
+               style="flex:1;min-width:260px" aria-label="Título da notícia">
+      </div>
+      <div class="linha">
+        <input type="url" id="manualLink" placeholder="https://…"
+               style="flex:1;min-width:260px" aria-label="Link da notícia">
+        <button type="button" class="primario" id="btnAdicionarManual">Adicionar</button>
+      </div>
+      <p class="ajuda" id="statusManual"></p>
+      <div id="listaManual"></div>
+    </div>
+  </details>
+
+  <main id="lista" aria-live="polite"></main>
+
+  <details class="saude">
+    <summary>Saúde das fontes nesta coleta</summary>
+    <div id="tabelaSaude"></div>
+    <p style="color:var(--cinza)">Fonte com falha significa que o “Nada” pode ser “não coletado”. Confira antes de enviar.</p>
+  </details>
+  <p style="color:var(--cinza);font-size:12.5px">
+    Atalhos: <b>J</b> / <b>K</b> navegam · <b>Espaço</b> marca · <b>Ctrl/Cmd + Enter</b> gera o e-mail
+  </p>
+</div>
+</div>
+
+<!-- ---------------- modal de export ---------------- -->
+<div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitulo">
+  <div class="painel">
+    <header>
+      <h2 id="modalTitulo">E-mail pronto</h2>
+      <button type="button" id="abaVisual" class="ativo">Visual</button>
+      <button type="button" id="abaTexto">Texto puro</button>
+      <button type="button" id="btnFechar">Fechar</button>
+    </header>
+    <div class="preview" id="preview"></div>
+    <div class="pe">
+      <span class="aviso" id="avisoCopia">Copie e cole direto no Outlook (Ctrl+V / Cmd+V).</span>
+      <button type="button" class="primario" id="btnCopiar">Copiar formatado</button>
+      <button type="button" id="btnCopiarTexto">Copiar texto puro</button>
+      <button type="button" id="btnBaixar">Baixar .html</button>
+    </div>
+  </div>
+</div>
+
+<script src="data/noticias.js?v=1786733390"></script>
+<script>
+(function(){
+  "use strict";
+
+  /* =========================================================
+     CONFIG
+     ========================================================= */
+
+  // Ordem oficial das 22 linhas do e-mail. Nao alterar.
+  var VEICULOS_22 = ["STF","STJ","TST","TRT-2","TRT-15","TJSP","PGFN","Senado",
+    "Câmara dos Deputados","Receita Federal","Ministério da Fazenda","ANPD","Anbima",
+    "CVM","Bacen","Coaf","Cade","CNJ","MJSP","CARF","Governo Federal","Congresso em Foco"];
+
+  // Paleta LETS (Logos RGB.pdf)
+  var CREME = "#EEE7D6", VERMELHO = "#D10A11", PRETO = "#1D1D1B",
+      CINZA = "#5C5C5A", BORDA = "#DDD5C2";
+
+  var FONTE_EMAIL = "Aptos,Aptos_EmbeddedFont,Aptos_MSFontService,Calibri,Helvetica,sans-serif";
+  var ID_RFB = "receita_federal";
+
+  var D = window.DADOS || {noticias:[],fontes:[],fontes_status:[]};
+  var NOTICIAS = D.noticias || [];
+  var FONTES = (D.fontes || []).slice().sort(function(a,b){return a.ordem-b.ordem;});
+  // limite e base vem do coletor, para nao existirem dois valores diferentes no projeto
+  var ALTA = D.limite_alta_relevancia || 50;
+  var relevancia_base_manual = D.base_relevancia || 40;
+
+  /* =========================================================
+     ESTADO
+     ========================================================= */
+
+  var estado = {
+    dia: null,
+    busca: "",
+    veiculos: {},       // fonte_id -> true quando filtrado
+    soAlta: false,
+    mostrarVazios: false,   // false = resume no rodapé; true = uma linha "Nada" por veículo
+    foco: -1
+  };
+
+  // A selecao vive em memoria (fonte da verdade) e é ESPELHADA no localStorage,
+  // que pode nao existir dependendo de como a pagina foi aberta (file://).
+  var selecao = {};   // dia -> { id: true }
+
+  function chaveSel(){ return "clipping-lets:selecao:" + estado.dia; }
+
+  function lerSel(){
+    if(!selecao[estado.dia]){
+      var recuperado = {};
+      try {
+        JSON.parse(localStorage.getItem(chaveSel()) || "[]")
+          .forEach(function(id){ recuperado[id] = true; });
+      } catch(e){ /* sem localStorage: segue só com a memória */ }
+      selecao[estado.dia] = recuperado;
+    }
+    return Object.keys(selecao[estado.dia]);
+  }
+
+  function gravarSel(ids){
+    var mapa = {};
+    ids.forEach(function(id){ mapa[id] = true; });
+    selecao[estado.dia] = mapa;
+    try { localStorage.setItem(chaveSel(), JSON.stringify(ids)); } catch(e){}
+  }
+
+  // Notícias adicionadas à mão (quando o coletor não achou sozinho) —
+  // por dia, igual à seleção. Somam-se às notícias coletadas em todo
+  // lugar que olha "as notícias do dia" (itensDoDia).
+  function chaveManual(){ return "clipping-lets:manual:" + estado.dia; }
+
+  function lerManual(){
+    try { return JSON.parse(localStorage.getItem(chaveManual()) || "[]"); }
+    catch(e){ return []; }
+  }
+
+  function gravarManualLista(lista){
+    try { localStorage.setItem(chaveManual(), JSON.stringify(lista)); } catch(e){}
+  }
+
+  function itensDoDia(){
+    return NOTICIAS.filter(function(n){ return n.dia === estado.dia; }).concat(lerManual());
+  }
+
+  // Filtros (busca, veiculos, soAlta, mostrarVazios) tambem ficam em
+  // localStorage, para nao perder ao fechar e voltar — mas globais, nao
+  // por dia: filtro de veiculo/relevancia costuma valer pra rotina toda.
+  var CHAVE_FILTROS = "clipping-lets:filtros";
+
+  function carregarFiltros(){
+    try {
+      var salvo = JSON.parse(localStorage.getItem(CHAVE_FILTROS) || "{}");
+      estado.busca = salvo.busca || "";
+      estado.veiculos = salvo.veiculos || {};
+      estado.soAlta = !!salvo.soAlta;
+      estado.mostrarVazios = !!salvo.mostrarVazios;
+    } catch(e){ /* sem localStorage: segue com os padroes */ }
+  }
+
+  function gravarFiltros(){
+    try {
+      localStorage.setItem(CHAVE_FILTROS, JSON.stringify({
+        busca: estado.busca, veiculos: estado.veiculos,
+        soAlta: estado.soAlta, mostrarVazios: estado.mostrarVazios
+      }));
+    } catch(e){}
+  }
+
+  function aplicarFiltrosNaUI(){
+    $("#busca").value = estado.busca;
+    $("#soAlta").checked = estado.soAlta;
+    $("#mostrarVazios").checked = estado.mostrarVazios;
+  }
+
+  /* =========================================================
+     HELPERS
+     ========================================================= */
+
+  var $ = function(s){ return document.querySelector(s); };
+
+  function esc(s){
+    return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;")
+                    .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+  }
+  function brDia(iso){
+    if(!iso) return "";
+    var p = iso.split("-");
+    return p[2] + "/" + p[1] + "/" + p[0];
+  }
+  function hora(iso){
+    var m = /T(\d{2}):(\d{2})/.exec(iso || "");
+    return m ? m[1] + "h" + m[2] : "";
+  }
+  function diasComNoticia(){
+    var s = {};
+    NOTICIAS.forEach(function(n){ s[n.dia] = 1; });
+    return Object.keys(s).sort();
+  }
+  function pular(passo){
+    var dias = diasComNoticia();
+    var i = dias.indexOf(estado.dia);
+    if(i === -1){ // dia sem nada: acha o vizinho mais proximo
+      var alvo = passo < 0 ? dias.filter(function(d){return d < estado.dia;}).pop()
+                           : dias.filter(function(d){return d > estado.dia;})[0];
+      return alvo || estado.dia;
+    }
+    return dias[i + passo] || estado.dia;
+  }
+
+  /* =========================================================
+     FILTRO
+     ========================================================= */
+
+  function filtradas(){
+    var termo = estado.busca.trim().toLowerCase();
+    var algumChip = Object.keys(estado.veiculos).some(function(k){return estado.veiculos[k];});
+    return itensDoDia().filter(function(n){
+      if(estado.soAlta && n.score < ALTA) return false;
+      if(algumChip && !estado.veiculos[n.fonte_id]) return false;
+      if(termo && n.titulo.toLowerCase().indexOf(termo) === -1) return false;
+      return true;
+    }).sort(function(a,b){
+      return (b.publicado_em || "").localeCompare(a.publicado_em || "");
+    });
+  }
+
+  function selecionadas(){
+    var ids = lerSel();
+    return itensDoDia().filter(function(n){ return ids.indexOf(n.id) > -1; });
+  }
+
+  /* =========================================================
+     RENDER
+     ========================================================= */
+
+  function render(){
+    $("#seletorDia").value = estado.dia;
+    $("#tituloDia").textContent = "Notícias diárias | " + brDia(estado.dia);
+    $("#modoTexto").textContent = (D.modo || "") +
+      "  ·  última coleta: " + (D.gerado_em ? D.gerado_em.replace("T", " às ") : "—");
+
+    renderChips();
+    renderLista();
+    renderAlerta();
+    renderSaude();
+    renderManualLista();
+    atualizaContador();
+  }
+
+  function renderChips(){
+    var el = $("#chips");
+    el.innerHTML = "";
+    FONTES.forEach(function(f){
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "chip" + (estado.veiculos[f.id] ? " ativo" : "");
+      b.textContent = f.nome;
+      b.setAttribute("aria-pressed", estado.veiculos[f.id] ? "true" : "false");
+      b.onclick = function(){
+        estado.veiculos[f.id] = !estado.veiculos[f.id];
+        gravarFiltros();
+        render();
+      };
+      el.appendChild(b);
+    });
+  }
+
+  function fontesComManual(){
+    var manuais = lerManual();
+    var vistos = {}, extras = [];
+    manuais.forEach(function(m){
+      if(!vistos[m.fonte_id]){
+        vistos[m.fonte_id] = true;
+        extras.push({id: m.fonte_id, nome: m.fonte_nome, ordem: 1000 + extras.length, custom: true});
+      }
+    });
+    return FONTES.concat(extras);
+  }
+
+  function renderLista(){
+    var alvo = $("#lista");
+    var itens = filtradas();
+    var ids = lerSel();
+
+    if(itensDoDia().length === 0){
+      var ehHoje = estado.dia === hojeIso();
+      alvo.innerHTML = '<div class="vazio-geral"><b>Nenhuma notícia coletada em ' +
+        brDia(estado.dia) + '.</b><br>' +
+        (ehHoje
+          ? 'A página só mostra o que o coletor já salvou — ela não busca nada ' +
+            'sozinha. Rode o coletor hoje nesta máquina (duplo clique em ' +
+            '<code>coletar.bat</code> no Windows, ou os comandos do terminal no ' +
+            'Mac) e recarregue esta página.'
+          : 'Use os botões de dia para navegar até uma data com coleta.') +
+        '</div>';
+      return;
+    }
+
+    alvo.innerHTML = "";
+    fontesComManual().forEach(function(f){
+      var doVeiculo = itens.filter(function(n){ return n.fonte_id === f.id; });
+      var sec = document.createElement("section");
+      sec.className = "veiculo" + (doVeiculo.length ? "" : " vazio");
+      sec.id = "veiculo-" + f.id;
+
+      var h = document.createElement("h2");
+      h.innerHTML = esc(f.nome) +
+        '<span class="qtd">' + (doVeiculo.length ? doVeiculo.length + " item(ns)" : "") + "</span>";
+      sec.appendChild(h);
+
+      if(!doVeiculo.length){
+        var nada = document.createElement("div");
+        nada.className = "nada";
+        nada.textContent = "Nada";
+        sec.appendChild(nada);
+      }
+
+      doVeiculo.forEach(function(n){
+        var marcado = ids.indexOf(n.id) > -1;
+        var div = document.createElement("div");
+        div.className = "item" + (marcado ? " marcado" : "");
+        div.dataset.id = n.id;
+        div.innerHTML =
+          '<input type="checkbox" id="c-' + n.id + '"' + (marcado ? " checked" : "") + '>' +
+          '<div class="corpo">' +
+            '<label class="tit" for="c-' + n.id + '">' + esc(n.titulo) + '</label>' +
+            '<div class="meta">' +
+              '<span>' + hora(n.publicado_em) + '</span>' +
+              (n.score >= ALTA ? '<span class="selo">Alta relevância</span>' : '') +
+              (n.coletado_em && n.coletado_em === D.gerado_em ? '<span class="selo novo">Novo</span>' : '') +
+              (n.manual ? '<span class="selo manual">Manual</span>' : '') +
+              '<a class="abrir" href="' + esc(n.link) + '" target="_blank" rel="noopener">abrir no site ↗</a>' +
+              (n.manual ? '<a class="abrir" href="#" data-remover-manual="' + n.id + '">remover</a>' : "") +
+            '</div>' +
+          '</div>';
+        div.querySelector("input").onchange = function(){ alternar(n.id, this.checked); };
+        var elRemover = div.querySelector("[data-remover-manual]");
+        if(elRemover){
+          elRemover.onclick = function(e){ e.preventDefault(); removerManual(n.id); };
+        }
+        sec.appendChild(div);
+      });
+
+      alvo.appendChild(sec);
+    });
+  }
+
+  function alternar(id, ligado){
+    var ids = lerSel();
+    var i = ids.indexOf(id);
+    if(ligado && i === -1) ids.push(id);
+    if(!ligado && i > -1) ids.splice(i, 1);
+    gravarSel(ids);
+    var linha = document.querySelector('.item[data-id="' + id + '"]');
+    if(linha) linha.classList.toggle("marcado", ligado);
+    atualizaContador();
+  }
+
+  function atualizaContador(){
+    var sel = selecionadas().length;
+    var tot = filtradas().length;
+    $("#contador").innerHTML = "<b>" + sel + "</b> selecionada(s) de " + tot + " no dia";
+  }
+
+  function renderAlerta(){
+    var doDia = itensDoDia().filter(function(n){ return n.fonte_id === ID_RFB; });
+    var btn = $("#alertaRfb");
+    if(!doDia.length){ btn.style.display = "none"; return; }
+    btn.style.display = "block";
+    $("#alertaTexto").textContent = "⚠  Receita Federal publicou " + doDia.length +
+      " novidade(s) em " + brDia(estado.dia);
+    btn.onclick = function(){
+      var sec = document.getElementById("veiculo-" + ID_RFB);
+      if(sec) sec.scrollIntoView({behavior:"smooth", block:"center"});
+    };
+  }
+
+  function renderSaude(){
+    var st = D.fontes_status || [];
+    var nomes = {};
+    FONTES.forEach(function(f){ nomes[f.id] = f.nome; });
+    var html = '<table><tr><th>Veículo</th><th>Status</th><th>Itens</th><th>Observação</th></tr>';
+    st.forEach(function(s){
+      html += '<tr><td>' + esc(nomes[s.id] || s.id) + '</td>' +
+              '<td class="st-' + s.status + '">' + s.status + '</td>' +
+              '<td>' + s.itens + '</td>' +
+              '<td>' + esc(s.erro || "—") + '</td></tr>';
+    });
+    html += "</table>";
+    $("#tabelaSaude").innerHTML = html;
+  }
+
+  /* =========================================================
+     EXPORT PARA O OUTLOOK
+     Estrutura replicada do envio real (11/08/2026).
+     ========================================================= */
+
+  /* Regras de compatibilidade com o Outlook (motor do Word):
+     - layout so com <table>, tudo inline, sem <style>, sem classe, sem flex/grid
+     - sem border-radius e sem imagem de fundo
+     - text-transform nao funciona: o maiusculo e feito no codigo, com toUpperCase()
+     - largura fixa em atributo width + style, senao o Word estica a tabela  */
+
+  function tabela(largura, conteudo, extra){
+    return '<table role="presentation" cellpadding="0" cellspacing="0" border="0"' +
+           (largura ? ' width="' + largura + '"' : ' width="100%"') +
+           ' style="border-collapse:collapse;' +
+           (largura ? 'width:' + largura + 'px;max-width:100%;' : 'width:100%;') +
+           'font-family:' + FONTE_EMAIL + ';' + (extra || "") + '">' +
+           conteudo + "</table>";
+  }
+
+  // Veiculos manuais que nao sao um dos 22 oficiais entram depois deles,
+  // na ordem em que apareceram na selecao — nunca tem "Nada" porque so
+  // existem quando ja tem pelo menos 1 item.
+  function nomesComCustom(sel){
+    var vistos = {}, extras = [];
+    sel.forEach(function(n){
+      if(VEICULOS_22.indexOf(n.fonte_nome) === -1 && !vistos[n.fonte_nome]){
+        vistos[n.fonte_nome] = true;
+        extras.push(n.fonte_nome);
+      }
+    });
+    return VEICULOS_22.concat(extras);
+  }
+
+  function gerarHtmlEmail(){
+    var sel = selecionadas();
+    var porNome = {};
+    sel.forEach(function(n){
+      (porNome[n.fonte_nome] = porNome[n.fonte_nome] || []).push(n);
+    });
+
+    var listaVeiculos = nomesComCustom(sel);
+    var comItem = [], semItem = [];
+    listaVeiculos.forEach(function(nome){
+      (porNome[nome] && porNome[nome].length ? comItem : semItem).push(nome);
+    });
+
+    // ---------- cabecalho ----------
+    var topo = tabela(null,
+      '<tr>' +
+      '<td style="color:' + CREME + ';font-size:19px;font-weight:bold;line-height:24px">' +
+        'Notícias diárias</td>' +
+      '<td align="right" style="color:#B9B2A2;font-size:13px;line-height:24px;' +
+        'white-space:nowrap">' + brDia(estado.dia) + '</td>' +
+      '</tr>' +
+      '<tr>' +
+      '<td colspan="2" style="color:#B9B2A2;font-size:10.5px;font-weight:bold;' +
+        'letter-spacing:.06em;line-height:16px;padding-top:2px">LETS MARKETING</td>' +
+      '</tr>');
+
+    var resumo = sel.length + (sel.length === 1 ? " notícia" : " notícias") +
+                 " · " + comItem.length +
+                 (comItem.length === 1 ? " veículo" : " veículos");
+
+    var corpo = "";
+    var rodape = "";
+
+    function blocoVeiculo(nome, itens, i){
+      var rfb = nome === "Receita Federal";
+      var temItens = itens.length > 0;
+      var fundo = temItens && rfb ? "#FBE3E4" : "#F7F3E9";
+      var corBorda = temItens ? VERMELHO : BORDA;
+      var corTexto = temItens ? VERMELHO : CINZA;
+
+      var bloco =
+        '<tr><td style="padding:' + (i === 0 ? "0" : "20px") + ' 0 0 0">' +
+          tabela(null,
+            '<tr><td style="background-color:' + fundo + ';padding:7px 10px;' +
+            'border-left:3px solid ' + corBorda + ';color:' + corTexto + ';' +
+            'font-size:11px;font-weight:bold;line-height:14px">' +
+            (temItens && rfb ? "&#9888; " : "") + esc(nome.toUpperCase()) +
+            '</td></tr>') +
+        '</td></tr>';
+
+      if(temItens){
+        var linhas = "";
+        itens.forEach(function(n){
+          linhas +=
+            '<tr>' +
+            '<td width="16" valign="top" style="width:16px;padding:11px 0 0 0;' +
+              'color:' + VERMELHO + ';font-size:13px;line-height:20px">&#9642;</td>' +
+            '<td valign="top" style="padding:10px 0 0 0;font-size:14px;line-height:20px;' +
+              'border-bottom:1px solid ' + BORDA + ';padding-bottom:11px">' +
+              '<a href="' + esc(n.link) + '" style="color:' + PRETO + ';' +
+              'text-decoration:underline">' + esc(n.titulo) + '</a>' +
+            '</td></tr>';
+        });
+        bloco += '<tr><td style="padding:0 0 0 13px">' + tabela(null, linhas) + "</td></tr>";
+      } else {
+        bloco += '<tr><td style="padding:8px 0 0 13px;color:' + CINZA + ';font-size:13px;' +
+          'font-style:italic">Nada</td></tr>';
+      }
+      return bloco;
+    }
+
+    if(estado.mostrarVazios){
+      // modo antigo: os 22 veiculos aparecem, na ORDEM FIXA do sources.yml
+      // (+ os manuais depois, se houver) — com item ou "Nada" — sem
+      // separar "tem noticia" de "nao tem".
+      listaVeiculos.forEach(function(nome, i){
+        corpo += blocoVeiculo(nome, porNome[nome] || [], i);
+      });
+    } else if(comItem.length){
+      // modo padrao: só os veiculos com noticia, na ordem fixa; os vazios
+      // ficam resumidos no rodape (ver abaixo)
+      comItem.forEach(function(nome, i){
+        corpo += blocoVeiculo(nome, porNome[nome], i);
+      });
+    } else {
+      corpo = '<tr><td style="padding:14px 0;color:' + CINZA + ';font-size:14px">' +
+              "Nenhuma notícia selecionada para este dia.</td></tr>";
+    }
+
+    // ---------- rodape: veiculos sem novidade (só no modo resumido) ----------
+    if(!estado.mostrarVazios && semItem.length){
+      rodape =
+        '<tr><td style="background-color:' + CREME + ';padding:12px 22px;color:' + CINZA + ';' +
+        'font-size:11.5px;line-height:17px;border-top:1px solid ' + BORDA + '">' +
+        '<b style="color:' + PRETO + '">Sem novidades hoje:</b> ' +
+        esc(semItem.join(" · ")) + '</td></tr>';
+    }
+
+    // ---------- montagem ----------
+    return tabela(640,
+      '<tr><td style="background-color:' + PRETO + ';padding:17px 22px">' + topo + '</td></tr>' +
+      '<tr><td style="background-color:' + VERMELHO + ';height:4px;line-height:4px;' +
+        'font-size:0">&nbsp;</td></tr>' +
+      '<tr><td style="background-color:#FFFFFF;padding:11px 22px 4px;color:' + CINZA + ';' +
+        'font-size:11.5px;line-height:16px;border-bottom:1px solid ' + BORDA + '">' +
+        esc(resumo) + '</td></tr>' +
+      '<tr><td style="background-color:#FFFFFF;padding:4px 22px 20px">' +
+        tabela(null, corpo) + '</td></tr>' +
+      rodape,
+      "border:1px solid " + BORDA);
+  }
+
+  function gerarTextoEmail(){
+    var sel = selecionadas();
+    var porNome = {};
+    sel.forEach(function(n){ (porNome[n.fonte_nome] = porNome[n.fonte_nome] || []).push(n); });
+    var out = "NOTÍCIAS DIÁRIAS | " + brDia(estado.dia) + "\n";
+    var vazios = [];
+    nomesComCustom(sel).forEach(function(nome){
+      var itens = porNome[nome] || [];
+      if(!itens.length){ vazios.push(nome); return; }
+      out += "\n" + nome.toUpperCase() + "\n";
+      itens.forEach(function(n){ out += "• " + n.titulo + "\n  " + n.link + "\n"; });
+    });
+    if(vazios.length) out += "\nSem novidades hoje: " + vazios.join(" · ") + "\n";
+    return out;
+  }
+
+  /* =========================================================
+     MODAL + CLIPBOARD
+     ========================================================= */
+
+  var htmlAtual = "", textoAtual = "";
+
+  function abrirModal(){
+    if(!selecionadas().length){
+      alert("Marque ao menos uma notícia antes de gerar o e-mail.");
+      return;
+    }
+    htmlAtual = gerarHtmlEmail();
+    textoAtual = gerarTextoEmail();
+    mostrarAba("visual");
+    $("#modal").classList.add("abre");
+    $("#btnCopiar").focus();
+  }
+
+  function mostrarAba(qual){
+    var visual = qual === "visual";
+    $("#abaVisual").classList.toggle("ativo", visual);
+    $("#abaTexto").classList.toggle("ativo", !visual);
+    if(visual){
+      $("#preview").innerHTML = htmlAtual;
+    } else {
+      $("#preview").innerHTML = "<pre class='codigo'>" + esc(textoAtual) + "</pre>";
+    }
+  }
+
+  function avisar(msg, bom){
+    var el = $("#avisoCopia");
+    el.textContent = msg;
+    el.className = "aviso" + (bom ? " ok" : "");
+    setTimeout(function(){
+      el.className = "aviso";
+      el.textContent = "Copie e cole direto no Outlook (Ctrl+V / Cmd+V).";
+    }, 4000);
+  }
+
+  // Caminho 1: Clipboard API (exige contexto seguro — nao funciona em file://).
+  // Caminho 2: selecao + execCommand sobre o HTML ja renderizado. Funciona em file://.
+  function copiarFormatado(){
+    var feito = function(){ avisar("✓ Copiado com formatação. Cole no Outlook.", true); };
+
+    if(window.ClipboardItem && navigator.clipboard && navigator.clipboard.write){
+      var item = new ClipboardItem({
+        "text/html": new Blob([htmlAtual], {type:"text/html"}),
+        "text/plain": new Blob([textoAtual], {type:"text/plain"})
+      });
+      navigator.clipboard.write([item]).then(feito).catch(function(){ viaSelecao(feito); });
+    } else {
+      viaSelecao(feito);
+    }
+  }
+
+  function viaSelecao(feito){
+    var caixa = document.createElement("div");
+    caixa.contentEditable = "true";
+    caixa.style.cssText = "position:fixed;left:-9999px;top:0;white-space:normal";
+    caixa.innerHTML = htmlAtual;
+    document.body.appendChild(caixa);
+    var faixa = document.createRange();
+    faixa.selectNodeContents(caixa);
+    var s = window.getSelection();
+    s.removeAllRanges();
+    s.addRange(faixa);
+    var ok = false;
+    try { ok = document.execCommand("copy"); } catch(e){ ok = false; }
+    s.removeAllRanges();
+    document.body.removeChild(caixa);
+    if(ok) feito();
+    else avisar("Não consegui copiar automaticamente. Selecione o preview e use Ctrl+C.", false);
+  }
+
+  function copiarTexto(){
+    if(navigator.clipboard && navigator.clipboard.writeText){
+      navigator.clipboard.writeText(textoAtual)
+        .then(function(){ avisar("✓ Texto puro copiado.", true); })
+        .catch(function(){ avisar("Não consegui copiar. Use a aba Texto puro e Ctrl+C.", false); });
+    } else {
+      avisar("Use a aba Texto puro e Ctrl+C.", false);
+    }
+  }
+
+  function baixar(){
+    var doc = '<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8">' +
+              "<title>Notícias diárias | " + brDia(estado.dia) + "</title></head><body>" +
+              htmlAtual + "</body></html>";
+    var url = URL.createObjectURL(new Blob([doc], {type:"text/html;charset=utf-8"}));
+    var a = document.createElement("a");
+    a.href = url;
+    a.download = "noticias-diarias-" + estado.dia + ".html";
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(function(){ URL.revokeObjectURL(url); }, 2000);
+    avisar("✓ Arquivo baixado.", true);
+  }
+
+  /* =========================================================
+     TECLADO
+     ========================================================= */
+
+  function moverFoco(passo){
+    var itens = Array.prototype.slice.call(document.querySelectorAll(".item"));
+    if(!itens.length) return;
+    itens.forEach(function(i){ i.classList.remove("foco"); });
+    estado.foco = Math.max(0, Math.min(itens.length - 1, estado.foco + passo));
+    var alvo = itens[estado.foco];
+    alvo.classList.add("foco");
+    alvo.scrollIntoView({block:"nearest"});
+    alvo.querySelector("input").focus();
+  }
+
+  document.addEventListener("keydown", function(e){
+    if(/^(INPUT|TEXTAREA)$/.test(e.target.tagName) && e.target.type !== "checkbox") return;
+    if((e.metaKey || e.ctrlKey) && e.key === "Enter"){ e.preventDefault(); abrirModal(); return; }
+    if(e.key === "Escape"){ $("#modal").classList.remove("abre"); return; }
+    if(e.key === "j" || e.key === "J"){ e.preventDefault(); moverFoco(estado.foco < 0 ? 0 : 1); }
+    if(e.key === "k" || e.key === "K"){ e.preventDefault(); moverFoco(-1); }
+    if(e.key === " " || e.key === "Spacebar"){
+      // controlado explicitamente (nao confia so no toggle nativo do
+      // checkbox) pra funcionar igual em qualquer navegador/estado de foco.
+      // Se o foco ja esta no checkbox (Tab nativo), usa ele; senao usa o
+      // item marcado por J/K.
+      var caixa = e.target.type === "checkbox" ? e.target : null;
+      if(!caixa){
+        var itens = Array.prototype.slice.call(document.querySelectorAll(".item"));
+        var alvo = itens[estado.foco];
+        caixa = alvo ? alvo.querySelector("input") : null;
+      }
+      if(caixa){
+        e.preventDefault();
+        caixa.checked = !caixa.checked;
+        caixa.dispatchEvent(new Event("change"));
+      }
+    }
+  });
+
+  /* =========================================================
+     LIGAÇÕES
+     ========================================================= */
+
+  $("#seletorDia").onchange = function(){ estado.dia = this.value; render(); };
+  $("#btnAnterior").onclick = function(){ estado.dia = pular(-1); render(); };
+  $("#btnProximo").onclick  = function(){ estado.dia = pular(1);  render(); };
+  $("#btnHoje").onclick     = function(){ estado.dia = hojeIso(); render(); };
+  $("#busca").oninput = function(){ estado.busca = this.value; gravarFiltros(); renderLista(); atualizaContador(); };
+  $("#soAlta").onchange = function(){ estado.soAlta = this.checked; gravarFiltros(); renderLista(); atualizaContador(); };
+  $("#mostrarVazios").onchange = function(){ estado.mostrarVazios = this.checked; gravarFiltros(); };
+  $("#btnLimpar").onclick = function(){ gravarSel([]); renderLista(); atualizaContador(); };
+  $("#btnBuscar").onclick = function(){ render(); };
+  $("#btnGerar").onclick = abrirModal;
+  $("#btnFechar").onclick = function(){ $("#modal").classList.remove("abre"); };
+  $("#abaVisual").onclick = function(){ mostrarAba("visual"); };
+  $("#abaTexto").onclick = function(){ mostrarAba("texto"); };
+  $("#btnCopiar").onclick = copiarFormatado;
+  $("#btnCopiarTexto").onclick = copiarTexto;
+  $("#btnBaixar").onclick = baixar;
+  $("#modal").onclick = function(e){ if(e.target === this) this.classList.remove("abre"); };
+  $("#manualVeiculo").onchange = function(){
+    $("#manualVeiculoNovo").style.display = this.value === "__outro__" ? "" : "none";
+  };
+  $("#btnAdicionarManual").onclick = adicionarManual;
+
+  /* =========================================================
+     NOTÍCIA MANUAL
+     Para quando o coletor nao achou uma noticia sozinho. Fica em
+     localStorage por dia (igual a selecao) — nao entra no
+     data/noticias.json, e so uma camada por cima, no navegador.
+     ========================================================= */
+
+  function popularSelectManual(){
+    var sel = $("#manualVeiculo");
+    sel.innerHTML = "";
+    FONTES.forEach(function(f){
+      var o = document.createElement("option");
+      o.value = f.id;
+      o.textContent = f.nome;
+      sel.appendChild(o);
+    });
+    var oOutro = document.createElement("option");
+    oOutro.value = "__outro__";
+    oOutro.textContent = "+ Outro veículo…";
+    sel.appendChild(oOutro);
+  }
+
+  function slugify(s){
+    return s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
+      .replace(/[^a-z0-9]+/g, "-").replace(/(^-+|-+$)/g, "") || "veiculo";
+  }
+
+  function statusManual(msg, cor){
+    var el = $("#statusManual");
+    el.textContent = msg;
+    el.style.color = cor || "var(--cinza)";
+  }
+
+  function adicionarManual(){
+    var veiculoSel = $("#manualVeiculo").value;
+    var nomeNovo = $("#manualVeiculoNovo").value.trim();
+    var titulo = $("#manualTitulo").value.trim();
+    var link = $("#manualLink").value.trim();
+
+    if(!titulo || !link){
+      statusManual("Preencha título e link antes de adicionar.", "var(--vermelho)");
+      return;
+    }
+    if(!/^https?:\/\//i.test(link)){
+      statusManual("O link precisa começar com http:// ou https://.", "var(--vermelho)");
+      return;
+    }
+
+    var fonteId, fonteNome;
+    if(veiculoSel === "__outro__"){
+      if(!nomeNovo){
+        statusManual("Digite o nome do veículo novo.", "var(--vermelho)");
+        return;
+      }
+      fonteId = "manual:" + slugify(nomeNovo);
+      fonteNome = nomeNovo;
+    } else {
+      var f = FONTES.filter(function(x){ return x.id === veiculoSel; })[0];
+      fonteId = f.id;
+      fonteNome = f.nome;
+    }
+
+    var agora = new Date();
+    var item = {
+      id: "manual-" + Date.now().toString(36) + "-" + Math.random().toString(36).slice(2, 7),
+      fonte_id: fonteId,
+      fonte_nome: fonteNome,
+      titulo: titulo,
+      link: link,
+      resumo: "",
+      publicado_em: estado.dia + "T" + String(agora.getHours()).padStart(2, "0") +
+        ":" + String(agora.getMinutes()).padStart(2, "0") + ":00-03:00",
+      dia: estado.dia,
+      data_estimada: true,
+      score: relevancia_base_manual,
+      tags: [],
+      coletado_em: "",
+      manual: true
+    };
+
+    var lista = lerManual();
+    lista.push(item);
+    gravarManualLista(lista);
+
+    $("#manualTitulo").value = "";
+    $("#manualLink").value = "";
+    $("#manualVeiculoNovo").value = "";
+    statusManual("✓ Notícia adicionada em " + fonteNome + ".", "#1a7a3a");
+    renderManualLista();
+    render();
+  }
+
+  function removerManual(id){
+    var lista = lerManual().filter(function(m){ return m.id !== id; });
+    gravarManualLista(lista);
+    var ids = lerSel().filter(function(x){ return x !== id; });
+    gravarSel(ids);
+    renderManualLista();
+    render();
+  }
+
+  function renderManualLista(){
+    var lista = lerManual();
+    var alvo = $("#listaManual");
+    if(!lista.length){ alvo.innerHTML = ""; return; }
+    alvo.innerHTML = '<p class="ajuda" style="margin-top:14px"><b>Adicionadas em ' +
+      brDia(estado.dia) + ':</b></p>' +
+      lista.map(function(m){
+        return '<div class="linha" style="margin-top:6px">' +
+          '<span style="flex:1;font-size:13px">' + esc(m.fonte_nome) + ' — ' + esc(m.titulo) + '</span>' +
+          '<button type="button" data-remover-manual-lista="' + m.id + '">Remover</button>' +
+          '</div>';
+      }).join("");
+    Array.prototype.forEach.call(alvo.querySelectorAll("[data-remover-manual-lista]"), function(btn){
+      btn.onclick = function(){ removerManual(this.dataset.removerManualLista); };
+    });
+  }
+
+  function hojeIso(){
+    var d = new Date();
+    return d.getFullYear() + "-" + String(d.getMonth()+1).padStart(2,"0") +
+           "-" + String(d.getDate()).padStart(2,"0");
+  }
+
+  /* =========================================================
+     INÍCIO
+     ========================================================= */
+
+  var dias = diasComNoticia();
+  var hoje = hojeIso();
+  estado.dia = dias.indexOf(hoje) > -1 ? hoje : (dias[dias.length - 1] || hoje);
+  carregarFiltros();
+  aplicarFiltrosNaUI();
+  popularSelectManual();
+  render();
+})();
+</script>
+</body>
+</html>

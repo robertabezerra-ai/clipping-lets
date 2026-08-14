@@ -1,0 +1,121 @@
+# Dicionários de score de relevância do Clipping LETS (0-100).
+#
+# O score APENAS ordena e sinaliza — nunca exclui nada. A decisão final é
+# sempre humana, na página de curadoria. Ajuste os pesos aqui; não precisa
+# mexer em coletor/relevancia.py.
+#
+# Cuidado: o casamento é por pedaço de palavra (substring, sem acento),
+# então plural às vezes precisa de entrada própria — veja
+# "medida provisoria" e "medidas provisorias" abaixo.
+
+base: 40
+alta_relevancia: 50   # score >= isso ganha o selo "Alta relevância"
+
+# termos que indicam matéria com potencial de pauta para escritórios
+sobe:
+  # decisões e teses
+  decisao: 12
+  decide: 12
+  julgamento: 12
+  julga: 10
+  tese: 14
+  repetitivo: 16
+  repercussao geral: 18
+  sumula: 14
+  liminar: 12
+  acordao: 10
+  precedente: 14
+  condenada: 10
+  condenado: 10
+  condenacao: 10
+  indenizar: 10
+  indenizacao: 10
+  prescricao: 12
+  adi: 10
+  adc: 10
+  adpf: 10
+  inconstitucional: 16
+  # normas e prazos
+  instrucao normativa: 16
+  portaria: 10
+  resolucao: 10
+  decreto: 12
+  medida provisoria: 12
+  medidas provisorias: 12
+  prorrogad: 8
+  sancao: 10
+  sancionada: 12
+  vai a sancao: 12
+  regulamenta: 14
+  novas regras: 14
+  atualiza regras: 14
+  prazo: 12
+  obrigatoriedade: 14
+  obrigatorio: 12
+  multa: 10
+  vigencia: 10
+  entra em vigor: 14
+  # temas quentes para o cliente jurídico
+  reforma tributaria: 18
+  simples nacional: 14
+  lgpd: 16
+  protecao de dados: 14
+  compliance: 12
+  recuperacao judicial: 14
+  falencia: 12
+  trabalhista: 10
+  concorrencial: 12
+  cade: 10
+  tributario: 12
+  imposto: 10
+  irrf: 12
+  ibs: 12
+  cbs: 12
+  itr: 10
+  fgts: 10
+  precatorio: 12
+  arbitragem: 12
+  codigo civil: 12
+  improbidade: 12
+  aprovado: 8
+  aprova: 8
+  determinacao judicial: 14
+  judicial: 8
+  alienacao de bens: 10
+  processo: 6
+  recurso: 8
+  acao: 6
+  oab: 10
+  advogado: 10
+
+# termos que indicam matéria institucional, sem valor de pauta
+desce:
+  posse: -18
+  toma posse: -22
+  homenagem: -20
+  homenageia: -20
+  aniversario: -20
+  comemora: -16
+  comenda: -20
+  diploma: -14
+  medalha: -18
+  luto: -22
+  falecimento: -18
+  vaga de estagio: -25
+  concurso interno: -16
+  agenda do presidente: -20
+  visita: -12
+  seminario: -10
+  campanha de doacao: -20
+  solidariedade: -14
+  frente parlamentar: -12
+  diligencia: -12
+  galeria: -18
+  exposicao: -16
+  premio: -12
+  apreensao: -14
+  apreende: -14
+  cocaina: -22
+  droga: -20
+  contrabando: -12
+  camarao: -22

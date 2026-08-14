@@ -1,0 +1,19 @@
+# segredos — NUNCA commitar
+config.local.yml
+
+# ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# estado e log locais da coleta — regeneram sozinhos, não precisam de histórico
+data/coleta.log
+data/estado_rfb.json
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# config local de ferramentas (Claude Code / impeccable) — específico desta máquina
+.claude/settings.local.json
+.impeccable/hook.cache.json
