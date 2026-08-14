@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-14T16:49:53-03:00",
+  "gerado_em": "2026-08-14T17:01:22-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -504,6 +504,22 @@
       "coletado_em": "2026-08-14T16:49:53-03:00"
     },
     {
+      "id": "e7233017eed3942d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF retira sigilo de decisões sobre investigação de esquema de corrupção no Maranhão",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-retira-sigilo-de-decisoes-sobre-investigacao-de-esquema-de-corrupcao-no-maranhao/",
+      "resumo": "Decisões do ministro Flávio Dino tratam de investigação sobre corrupção, obstrução da Justiça e organização criminosa",
+      "publicado_em": "2026-08-14T16:58:41-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T17:01:22-03:00"
+    },
+    {
       "id": "58265669666489f3",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -552,6 +568,22 @@
         "visita"
       ],
       "coletado_em": "2026-08-14T15:45:30-03:00"
+    },
+    {
+      "id": "6f5173106f664d05",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Aprova: Redução de tributos sobre combustíveis",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/senado-aprova-reducao-de-tributos-sobre-combustiveis",
+      "resumo": "",
+      "publicado_em": "2026-08-14T16:52:00-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-14T17:01:22-03:00"
     },
     {
       "id": "a4477d77d476ec6d",
@@ -1338,7 +1370,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Evento de inovação vai debater aplicação tecnológica em serviços do Judiciário",
       "link": "https://www.cnj.jus.br/evento-de-inovacao-vai-debater-aplicacao-tecnologica-em-servicos-do-judiciario/",
-      "resumo": "Discutir o futuro dos LabJus, apresentar projetos inovadores na Justiça e explorar as soluções tecnológicas como potencializadores de ações de impacto para o cidadão. Esses são alguns objetivos da sexta edição do encontro nacional dos laboratórios de inovação do Poder Judiciário, o FestLabs Nacional",
+      "resumo": "Discutir o futuro dos LabJus, apresentar projetos inovadores na Justiça e explorar as soluções tecnológicas como potencializadoras de ações de impacto para o cidadão: esses são alguns objetivos da sexta edição do encontro nacional dos laboratórios de inovação do Poder Judiciário, o FestLabs Nacional",
       "publicado_em": "2026-08-14T12:00:00-03:00",
       "dia": "2026-08-14",
       "data_estimada": true,
@@ -1379,6 +1411,22 @@
         "acao"
       ],
       "coletado_em": "2026-08-14T15:49:50-03:00"
+    },
+    {
+      "id": "0c0fdb321f46e8c8",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Sustentabilidade deve unir gestão dos tribunais e atuação jurisdicional, defendem autoridades no CNJ",
+      "link": "https://www.cnj.jus.br/sustentabilidade-deve-unir-gestao-dos-tribunais-e-atuacao-jurisdicional-defendem-autoridades-no-cnj/",
+      "resumo": "A inclusão da sustentabilidade na gestão dos tribunais e na atuação jurisdicional, aliada à defesa de políticas públicas baseadas em evidências e ao fortalecimento da cooperação institucional, marcou a abertura da 4ª edição do Judiciário Sustentável, realizada na tarde desta sexta-feira (14/8), na s",
+      "publicado_em": "2026-08-14T12:00:00-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T17:01:22-03:00"
     },
     {
       "id": "2155a3b91733ca1f",
@@ -1903,24 +1951,6 @@
       "coletado_em": "2026-08-14T15:45:30-03:00"
     },
     {
-      "id": "b69191fe9d43e3d8",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "Presidente do STF destaca renovação do conhecimento jurídico em lançamento de obra sobre processo tributário",
-      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-destaca-renovacao-do-conhecimento-juridico-em-lancamento-de-obra-sobre-processo-tributario/",
-      "resumo": "Ministro Edson Fachin assina posfácio da obra",
-      "publicado_em": "2026-08-13T21:03:46-03:00",
-      "dia": "2026-08-13",
-      "data_estimada": false,
-      "score": 64,
-      "tags": [
-        "tributario",
-        "processo",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T15:45:30-03:00"
-    },
-    {
       "id": "6dec352f73d9a79f",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -1951,6 +1981,24 @@
         "decide",
         "liminar",
         "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T15:45:30-03:00"
+    },
+    {
+      "id": "b69191fe9d43e3d8",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF destaca renovação do conhecimento jurídico em lançamento de obra sobre processo tributário",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-destaca-renovacao-do-conhecimento-juridico-em-lancamento-de-obra-sobre-processo-tributario/",
+      "resumo": "Ministro Edson Fachin assina posfácio da obra",
+      "publicado_em": "2026-08-13T19:03:00-03:00",
+      "dia": "2026-08-13",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "tributario",
+        "processo",
         "acao"
       ],
       "coletado_em": "2026-08-14T15:45:30-03:00"
@@ -3186,13 +3234,12 @@
       "fonte_nome": "CNJ",
       "titulo": "Aldeia Kuxonety Pokee, em Matupá, ganha local de votação para Eleições 2026",
       "link": "https://www.cnj.jus.br/aldeia-kuxonety-pokee-em-matupa-ganha-local-de-votacao-para-eleicoes-2026/",
-      "resumo": "A Aldeia Indígena Kuxonety Pokee, na área rural do município de Matupá (685 km de Cuiabá), passa a ter um próprio local de votação para as Eleições Gerais de 2026. O local nº 1147 foi criado na Escola Estadual Indígena Terena Komomoyea Kovoero, localizada na região Gleba Iriri Novo. A decisão da Jus",
+      "resumo": "A Aldeia Indígena Kuxonety Pokee, na área rural do município de Matupá (685 km de Cuiabá), passa a ter um próprio local de votação para as Eleições Gerais de 2026. O local n. 1147 foi criado na Escola Estadual Indígena Terena Komomoyea Kovoero, localizada na região Gleba Iriri Novo. A",
       "publicado_em": "2026-08-13T12:00:00-03:00",
       "dia": "2026-08-13",
       "data_estimada": true,
-      "score": 58,
+      "score": 46,
       "tags": [
-        "decisao",
         "acao"
       ],
       "coletado_em": "2026-08-13T16:05:04-03:00"
@@ -3215,7 +3262,7 @@
       "id": "68a6c5275266f54b",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Justiça mais perto: Itinerância encerra atendimentos em Caracaraí com 1.235 serviços prestados",
+      "titulo": "Justiça mais perto: itinerância encerra atendimentos em Caracaraí com 1.235 serviços prestados",
       "link": "https://www.cnj.jus.br/justica-mais-perto-itinerancia-encerra-atendimentos-em-caracarai-com-1-235-servicos-prestados/",
       "resumo": "A Vara da Justiça Itinerante do Tribunal de Justiça de Roraima (TJRR) encerrou mais uma etapa de atendimento no interior do estado com 1.235 serviços prestados à população de Caracaraí. A programação ocorreu entre os dias 27 e 31 de julho e passou pelas vilas Barauana, Novo Paraíso e Vista",
       "publicado_em": "2026-08-13T12:00:00-03:00",
