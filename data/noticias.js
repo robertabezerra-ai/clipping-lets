@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-14T17:01:22-03:00",
+  "gerado_em": "2026-08-14T17:23:44-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -504,10 +504,26 @@ window.DADOS = {
       "coletado_em": "2026-08-14T16:49:53-03:00"
     },
     {
+      "id": "8025c8aae8a0192e",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "XXI Encontro do Consepre encerra programação com divulgação da Carta de Manaus",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115043&pagina=1",
+      "resumo": "Presidentes de tribunais debatem fortalecimento do Judiciário.\n \n\tApós três dias de trabalho, debates e compartilhamento de experiências e projetos, o XXI Encontro do Conselho de",
+      "publicado_em": "2026-08-14T12:00:00-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T17:23:44-03:00"
+    },
+    {
       "id": "e7233017eed3942d",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "STF retira sigilo de decisões sobre investigação de esquema de corrupção no Maranhão",
+      "titulo": "STF retira sigilo de decisões sobre investigação de suposto esquema de corrupção no Maranhão",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-retira-sigilo-de-decisoes-sobre-investigacao-de-esquema-de-corrupcao-no-maranhao/",
       "resumo": "Decisões do ministro Flávio Dino tratam de investigação sobre corrupção, obstrução da Justiça e organização criminosa",
       "publicado_em": "2026-08-14T16:58:41-03:00",
@@ -992,6 +1008,23 @@ window.DADOS = {
       "coletado_em": "2026-08-14T15:45:30-03:00"
     },
     {
+      "id": "0603f81347949cca",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto exige fabricar papel higiênico que dissolva no vaso sanitário",
+      "link": "https://www.congressoemfoco.com.br/noticia/121294/projeto-exige-fabricar-papel-higienico-que-dissolva-no-vaso-sanitario",
+      "resumo": "Proposta estabelece prazo de até 30 segundos para início da desagregação do papel após o acionamento da descarga.",
+      "publicado_em": "2026-08-14T14:43:23-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T17:23:44-03:00"
+    },
+    {
       "id": "8fb37f3f1d26e3b7",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1427,6 +1460,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-14T17:01:22-03:00"
+    },
+    {
+      "id": "213a9991e97c98d0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Debate na Câmara denuncia aumento da violência contra mulheres em escolas e universidades",
+      "link": "https://www.camara.leg.br/noticias/1297953-debate-na-camara-denuncia-aumento-da-violencia-contra-mulheres-em-escolas-e-universidades",
+      "resumo": "",
+      "publicado_em": "2026-08-14T17:04:00-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T17:23:44-03:00"
     },
     {
       "id": "2155a3b91733ca1f",
