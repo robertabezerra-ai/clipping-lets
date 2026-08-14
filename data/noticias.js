@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-14T15:49:50-03:00",
+  "gerado_em": "2026-08-14T16:49:53-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -130,9 +130,9 @@ window.DADOS = {
     },
     {
       "id": "tst",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "no element found: line 1, column 0"
     },
     {
       "id": "trt2",
@@ -389,6 +389,54 @@ window.DADOS = {
       "coletado_em": "2026-08-14T15:45:30-03:00"
     },
     {
+      "id": "0493c8cc22d632cf",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Corregedor-geral da Justiça do Trabalho recebe moeda comemorativa dos 40 anos do TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/corregedor-geral-da-justica-do-trabalho-recebe-moeda-comemorativa-dos-40-anos-do-trt",
+      "resumo": "Corregedor-geral da Justiça do Trabalho recebe moeda comemorativa dos 40 anos do TRT-15 anasiqueira Sex, 14/08/2026 - 16:36 Corregedor-geral da Justiça do Trabalho recebe moeda comemorativa dos 40 anos do TRT-15 Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desemba",
+      "publicado_em": "2026-08-14T16:36:48-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "comemora"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "d87543bad65b47d1",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Projeto de leitura e escrita criativa incentiva formação literária e pensamento crítico de jovens do Programa de Aprendizagem Social do TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/projeto-de-leitura-e-escrita-criativa-incentiva-formacao-literaria-e-pensamento",
+      "resumo": "Projeto de leitura e escrita criativa incentiva formação literária e pensamento crítico de jovens do Programa de Aprendizagem Social do TRT-15 anasiqueira Sex, 14/08/2026 - 16:27 Projeto de leitura e escrita criativa incentiva formação literária e pensamento crítico de jovens do Programa de Aprendiz",
+      "publicado_em": "2026-08-14T16:27:27-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "94b52c0fb250bdbf",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 integra mobilização nacional pelo voto livre e reforça combate ao assédio eleitoral no trabalho",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-integra-mobilizacao-nacional-pelo-voto-livre-e-reforca-combate-ao-assedio",
+      "resumo": "TRT-15 integra mobilização nacional pelo voto livre e reforça combate ao assédio eleitoral no trabalho anasiqueira Sex, 14/08/2026 - 16:16 TRT-15 integra mobilização nacional pelo voto livre e reforça combate ao assédio eleitoral no trabalho Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª",
+      "publicado_em": "2026-08-14T16:16:50-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
       "id": "057e510ce8332b94",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -437,6 +485,23 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-08-14T15:45:30-03:00"
+    },
+    {
+      "id": "555b617951093528",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Empresa de biocombustível deverá recuperar 192 hectares de vegetação nativa após incêndio em APP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115042&pagina=1",
+      "resumo": "Requerida também deverá compensar danos atmosféricos.\n \n\tA 1ª Câmara Reservada ao Meio Ambiente do Tribunal de Justiça de São Paulo manteve a condenação de empresa",
+      "publicado_em": "2026-08-14T12:00:00-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
     },
     {
       "id": "58265669666489f3",
@@ -591,6 +656,22 @@ window.DADOS = {
       "coletado_em": "2026-08-14T15:45:30-03:00"
     },
     {
+      "id": "015f0781f08f39de",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Jovens senadores tomam posse na segunda para vivência legislativa",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/14/jovens-senadores-tomam-posse-na-segunda-para-vivencia-legislativa",
+      "resumo": "",
+      "publicado_em": "2026-08-14T11:33:00-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
       "id": "558a85940af1dd0f",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -662,6 +743,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-14T15:45:30-03:00"
+    },
+    {
+      "id": "c46abc0aa4848b7d",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Serviço de atendimento em saúde mental para profissionais da segurança pública é ampliado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/servico-de-atendimento-em-saude-mental-para-profissionais-da-seguranca-publica-e-ampliado",
+      "resumo": "",
+      "publicado_em": "2026-08-14T12:00:00-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
     },
     {
       "id": "d95e90e207ad0343",
@@ -802,6 +897,53 @@ window.DADOS = {
       "coletado_em": "2026-08-14T15:49:50-03:00"
     },
     {
+      "id": "24049b59173e1f60",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "CNPE manda barrar importação de combustíveis sob suspeita de fraude",
+      "link": "https://www.congressoemfoco.com.br/noticia/121302/cnpe-manda-barrar-importacao-de-combustiveis-sob-suspeita-de-fraude",
+      "resumo": "Resolução amplia controle sobre postos e determina registro eletrônico de estoques, preços, compras e vendas de combustíveis.",
+      "publicado_em": "2026-08-14T16:37:47-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "resolucao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "886f21a8a17e82ee",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ameaçada de morte, Carol Dartora propõe punição à misoginia digital",
+      "link": "https://www.congressoemfoco.com.br/noticia/121298/ameacada-de-morte-carol-dartora-propoe-punicao-a-misoginia-digital",
+      "resumo": "Deputada relata quatro anos de ameaças e defende projeto que prevê prisão e responsabilização de plataformas por violência misógina nas redes.",
+      "publicado_em": "2026-08-14T15:42:10-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "c14974a587737c90",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "199 anos após seu nascimento, a Advocacia ainda pede por respeito",
+      "link": "https://www.congressoemfoco.com.br/artigo/121297/199-anos-apos-seu-nascimento-a-advocacia-ainda-pede-por-respeito",
+      "resumo": "Quase 200 anos depois dos primeiros cursos de Direito, ainda lutamos para que nossas prerrogativas sejam tratadas como direitos.",
+      "publicado_em": "2026-08-14T15:40:47-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
       "id": "da2fc88725a78e3e",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -832,6 +974,22 @@ window.DADOS = {
       "coletado_em": "2026-08-14T15:45:30-03:00"
     },
     {
+      "id": "263b26aa728dfd71",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Escola não pode ser lugar de tortura para criança negra\", diz Dartora",
+      "link": "https://www.congressoemfoco.com.br/noticia/121291/escola-nao-pode-ser-lugar-de-tortura-para-crianca-negra--diz-dartora",
+      "resumo": "Autora do projeto que cria protocolo de acolhimento a vítimas de racismo nas escolas, deputada relata ter sofrido violência racista de uma professora no ensino médio e defende formação de educadores e canais de denúncia.",
+      "publicado_em": "2026-08-14T13:41:11-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
       "id": "6be585fb5537bf73",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -846,6 +1004,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-14T15:45:30-03:00"
+    },
+    {
+      "id": "38d5e31e18db97e4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dartora vê \"virada histórica\" e cobra mais negros no próximo Congresso",
+      "link": "https://www.congressoemfoco.com.br/noticia/121289/dartora-ve-virada-historica-e-cobra-mais-negros-no-proximo-congresso",
+      "resumo": "Primeira deputada federal negra do Paraná aposta nas eleições de 2026 para ampliar a representação e relata constrangimentos no Congresso, onde já precisou se reafirmar como autoridade. \"O racismo não dá trégua\", diz.",
+      "publicado_em": "2026-08-14T13:04:13-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
     },
     {
       "id": "182928a80dbe8d7d",
@@ -1205,6 +1379,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-14T15:49:50-03:00"
+    },
+    {
+      "id": "2155a3b91733ca1f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Campanha eleitoral começa neste domingo; conheça as regras",
+      "link": "https://www.camara.leg.br/noticias/1297883-campanha-eleitoral-comeca-neste-domingo-conheca-as-regras",
+      "resumo": "",
+      "publicado_em": "2026-08-14T16:18:00-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
     },
     {
       "id": "6536bfa19281dd9a",
@@ -2998,12 +3186,13 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Aldeia Kuxonety Pokee, em Matupá, ganha local de votação para Eleições 2026",
       "link": "https://www.cnj.jus.br/aldeia-kuxonety-pokee-em-matupa-ganha-local-de-votacao-para-eleicoes-2026/",
-      "resumo": "A Aldeia Indígena Kuxonety Pokee, na área rural do município de Matupá (685 km de Cuiabá), passa a ter um próprio local de votação para as Eleições Gerais de 2026. O local n. 1147 foi criado na Escola Estadual Indígena Terena Komomoyea Kovoero, localizada na região Gleba Iriri Novo. A",
+      "resumo": "A Aldeia Indígena Kuxonety Pokee, na área rural do município de Matupá (685 km de Cuiabá), passa a ter um próprio local de votação para as Eleições Gerais de 2026. O local nº 1147 foi criado na Escola Estadual Indígena Terena Komomoyea Kovoero, localizada na região Gleba Iriri Novo. A decisão da Jus",
       "publicado_em": "2026-08-13T12:00:00-03:00",
       "dia": "2026-08-13",
       "data_estimada": true,
-      "score": 46,
+      "score": 58,
       "tags": [
+        "decisao",
         "acao"
       ],
       "coletado_em": "2026-08-13T16:05:04-03:00"
@@ -3026,7 +3215,7 @@ window.DADOS = {
       "id": "68a6c5275266f54b",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Justiça mais perto: itinerância encerra atendimentos em Caracaraí com 1.235 serviços prestados",
+      "titulo": "Justiça mais perto: Itinerância encerra atendimentos em Caracaraí com 1.235 serviços prestados",
       "link": "https://www.cnj.jus.br/justica-mais-perto-itinerancia-encerra-atendimentos-em-caracarai-com-1-235-servicos-prestados/",
       "resumo": "A Vara da Justiça Itinerante do Tribunal de Justiça de Roraima (TJRR) encerrou mais uma etapa de atendimento no interior do estado com 1.235 serviços prestados à população de Caracaraí. A programação ocorreu entre os dias 27 e 31 de julho e passou pelas vilas Barauana, Novo Paraíso e Vista",
       "publicado_em": "2026-08-13T12:00:00-03:00",
@@ -3042,9 +3231,9 @@ window.DADOS = {
       "id": "7f7dca1447d0839b",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Mutirões do Registre-se contabilizam 16.417 atendimentos à população do interior do Amazonas em 2026",
+      "titulo": "Mutirões do “Registre-se!” contabilizam 16.417 atendimentos à população do interior do estado em 2026",
       "link": "https://www.cnj.jus.br/mutiroes-do-registre-se-contabilizam-16-417-atendimentos-a-populacao-do-interior-do-estado-em-2026/",
-      "resumo": "Intensificando as ações de cidadania para além da capital, nos meses de maio, junho e julho deste ano de 2026, a Corregedoria-Geral de Justiça do Amazonas (CGJ-AM) levou os mutirões de combate ao sub-registro civil — “Registre-se!” — para os municípios de Parintins, Barcelos e Tabatinga, onde foram ",
+      "resumo": "Intensificando as ações de cidadania para além da capital, nos meses de maio, junho e julho deste ano de 2026, a Corregedoria-Geral de Justiça do Amazonas (CGJ-AM) levou os mutirões de combate ao sub-registro civil – “Registre-se!” para os municípios de Parintins, Barcelos e Tabatinga, onde foram re",
       "publicado_em": "2026-08-13T12:00:00-03:00",
       "dia": "2026-08-13",
       "data_estimada": true,
@@ -4793,9 +4982,9 @@ window.DADOS = {
       "id": "bfccc6f4c8e0c963",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Sustentabilidade e crimes ambientais serão discutidos durante o 4º Judiciário Sustentável",
+      "titulo": "Sustentabilidade e crimes ambientais serão discutidos durante o 4ª Judiciário Sustentável",
       "link": "https://www.cnj.jus.br/sustentabilidade-e-crimes-ambientais-serao-discutidos-durante-o-4a-judiciario-sustentavel/",
-      "resumo": "O volume e a tramitação de processos judiciais relacionados ao meio ambiente serão discutidos na 4ª edição do evento Judiciário Sustentável, que será realizada pelo Conselho Nacional de Justiça (CNJ), na sexta-feira (14/8), às 14h. Na oportunidade, além dos debates, também será apresentado o 10º Bal",
+      "resumo": "O volume e a tramitação de processos judiciais relacionados ao meio ambiente serão discutidos na 4.ª edição do evento Judiciário Sustentável, que será realizado pelo Conselho Nacional de Justiça (CNJ), na sexta-feira (14/8), às 14h. Na oportunidade, além dos debates, também será apresentado o 10º Ba",
       "publicado_em": "2026-08-12T12:00:00-03:00",
       "dia": "2026-08-12",
       "data_estimada": true,
@@ -5483,6 +5672,3657 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-12T15:14:18-03:00"
+    },
+    {
+      "id": "e3a0df28e42c78c0",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Faculdade de Direito da USP homenageia presidente do TRT-2 na abertura do Jubileu do Bicentenário",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/faculdade-de-direito-da-usp-homenageia-presidente-do-trt-2-na-abertura-do-jubileu-do-bicentenario",
+      "resumo": "",
+      "publicado_em": "2026-08-10T12:00:00-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": true,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "d8cdc0a0a71f1742",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "No Largo de São Francisco, Fachin participa da abertura das celebrações pelos 200 anos dos cursos jurídicos no Brasil",
+      "link": "https://noticias.stf.jus.br/postsnoticias/no-largo-de-sao-francisco-presidente-do-stf-participa-da-abertura-das-celebracoes-pelos-200-anos-dos-cursos-juridicos-no-brasil/",
+      "resumo": "Presidente do STF ressaltou papel da Faculdade de Direito de São Paulo como espaço de defesa das liberdades públicas, dos direitos humanos e da democracia",
+      "publicado_em": "2026-08-10T14:37:40-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "8fc223d72a06bb58",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confiança pública é fundamento da autoridade legítima das instituições, afirma presidente do STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confianca-publica-e-fundamento-da-autoridade-legitima-das-instituicoes-afirma-presidente-do-stf/",
+      "resumo": "Em seminário realizado pela Folha de S.Paulo, Fachin falou sobre confiança, integridade e transparência no Judiciário",
+      "publicado_em": "2026-08-10T11:41:30-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "097daa9928f422a6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Do Plenário à Agenda 2030: STF transforma sustentabilidade em prática institucional",
+      "link": "https://noticias.stf.jus.br/postsnoticias/do-plenario-a-agenda-2030-stf-transforma-sustentabilidade-em-pratica-institucional/",
+      "resumo": "Última reportagem da série mostra que descarbonização, energia limpa, consumo responsável e cooperação institucional conectam a rotina da Corte aos Objetivos de Desenvolvimento Sustentável da ONU",
+      "publicado_em": "2026-08-10T09:00:00-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "d0f5557d6937cdd3",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF promoverá escuta de povos e comunidades tradicionais em Montes Claros (MG)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-promovera-escuta-de-povos-e-comunidades-tradicionais-em-montes-claros-mg/",
+      "resumo": "Iniciativa busca aproximar o Supremo de grupos historicamente pouco ouvidos pelo sistema de Justiça e ampliar a participação deles nos espaços de diálogo institucional",
+      "publicado_em": "2026-08-10T09:00:00-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "485803d0cdf4eb00",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Sessão especial no Senado celebra o primeiro Dia Nacional da Proteção de Dados",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sessao-especial-no-senado-celebra-o-primeiro-dia-nacional-da-protecao-de-dados-1",
+      "resumo": "",
+      "publicado_em": "2026-08-10T12:00:00-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "cf2896f6b7503dc7",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senad e Copolad III iniciam visita técnica sobre prevenção ampliada",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-e-copolad-iii-iniciam-visita-tecnica-sobre-prevencao-ampliada",
+      "resumo": "",
+      "publicado_em": "2026-08-10T12:00:00-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "d7f058c4f932a4fc",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Fiscalização de bets é tema de oficina com órgãos de defesa do consumidor",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/fiscalizacao-de-bets-e-tema-de-oficina-com-orgaos-de-defesa-do-consumidor-1",
+      "resumo": "",
+      "publicado_em": "2026-08-10T12:00:00-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "d42fa78175ae67c5",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação Redecarga estima R$ 18 milhões em prejuízos ao crime organizado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-redecarga-estima-r-18-milhoes-em-prejuizos-ao-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-08-10T12:00:00-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "ae607e5aaa8efb22",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senasp participa de Blitz do Autismo em ação de conscientização no Distrito Federal",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-participa-de-blitz-do-autismo-em-acao-de-conscientizacao-no-distrito-federal",
+      "resumo": "",
+      "publicado_em": "2026-08-10T12:00:00-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "a3f96ed73f804690",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Workshop promove alinhamento para segurança das Eleições 2026",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/workshop-promove-alinhamento-para-seguranca-das-eleicoes-2026",
+      "resumo": "",
+      "publicado_em": "2026-08-10T12:00:00-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "e22699eaa025741a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Confiança pública é fundamento da autoridade legítima das instituições, afirma presidente do CNJ",
+      "link": "https://www.cnj.jus.br/confianca-publica-e-fundamento-da-autoridade-legitima-das-instituicoes-afirma-presidente-do-cnj/",
+      "resumo": "O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, abriu, na manhã desta segunda-feira (10/8), em São Paulo (SP), a série de seminários “O Judiciário em Debate: integridade, eficiência e acesso à Justiça”, evento promovido pelo jornal Folha",
+      "publicado_em": "2026-08-10T12:00:00-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "b26773a4c64e7b5d",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade busca consultor técnico especializado para elaboração e desenvolvimento de solução educacional de lideranças",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-busca-consultor-tecnico-especializado-para-elaboracao-e-desenvolvimento-de-solucao-educacional-de-liderancas",
+      "resumo": "",
+      "publicado_em": "2026-08-10T12:00:00-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "6e2eb50a8e2575d4",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade requisita servidor para atuar na Auditoria Interna",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-requisita-servidor-para-atuar-na-auditoria-interna",
+      "resumo": "",
+      "publicado_em": "2026-08-10T12:00:00-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "0c2c55c54c77e44c",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade está com oportunidade aberta para servidor na Assessoria de Comunicação Social",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-esta-com-oportunidade-aberta-para-servidor-na-assessoria-de-comunicacao-social",
+      "resumo": "",
+      "publicado_em": "2026-08-10T12:00:00-03:00",
+      "dia": "2026-08-10",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "c78b9a321f8c5fab",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo na Semana destaca fim de restrição à alíquota zero para compra de veículos por pessoas autistas e PcDs",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-na-semana-destaca-fim-de-restricao-a-aliquota-zero-para-compra-de-veiculos-por-pessoas-autistas-e-pcds/",
+      "resumo": "Episódio #197 está disponível nas principais plataformas de áudio e no YouTube",
+      "publicado_em": "2026-08-08T12:00:00-03:00",
+      "dia": "2026-08-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "e931867dc913f25b",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Expediente presencial em Cubatão-SP é suspenso por falta de energia elétrica",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/expediente-presencial-em-cubatao-sp-e-suspenso-por-falta-de-energia-eletrica",
+      "resumo": "",
+      "publicado_em": "2026-08-07T12:00:00-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "c0a1c671d7c7bb8f",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Tribunal Pleno passa por nova interdição de 25 a 28 de agosto",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/tribunal-pleno-passa-por-nova-interdicao-de-25-a-28-de-agosto",
+      "resumo": "",
+      "publicado_em": "2026-08-07T12:00:00-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "1cf202f27e3ed22a",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Empresa que considerou período de licença-paternidade como falta deve ressarcir trabalhador",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/empresa-que-considerou-periodo-de-licenca-paternidade-como-falta-deve-ressarcir-trabalhador",
+      "resumo": "",
+      "publicado_em": "2026-08-07T12:00:00-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "f900d581fa7eecc2",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Feirão de Emprego no Co.Labora 15 realiza 535 encaminhamentos",
+      "link": "https://trt15.jus.br/noticia/2026/feirao-de-emprego-no-colabora-15-realiza-535-encaminhamentos",
+      "resumo": "Feirão de Emprego no Co.Labora 15 realiza 535 encaminhamentos anasiqueira Sex, 07/08/2026 - 18:32 Feirão de Emprego no Co.Labora 15 realiza 535 encaminhamentos Conteúdo da Notícia Pela segunda vez, o Tribunal Regional do Trabalho da 15ª Região abriu as portas do Laboratório de Inovação Co.Labora 15 ",
+      "publicado_em": "2026-08-07T18:32:47-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "f4ed27a076615d32",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ponto facultativo e feriado do Dia do Advogado alteram expediente no STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ponto-facultativo-e-feriado-do-dia-do-advogado-alteram-expediente-no-stf/",
+      "resumo": "Prazos processuais que começam ou terminam na segunda (10) e na terça (11) serão automaticamente prorrogados",
+      "publicado_em": "2026-08-07T19:08:25-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "prorrogad",
+        "prazo",
+        "advogado"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "d9453572aee2ae9f",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF determina que PF apure possíveis crimes na execução de ‘Emendas Pix’",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-determina-que-pf-apure-possiveis-crimes-na-execucao-de-emendas-pix/",
+      "resumo": "Decisão do ministro Flávio Dino também requer providências de outros órgãos para esclarecer e ampliar a transparência e a rastreabilidade das transferências especiais",
+      "publicado_em": "2026-08-07T18:34:59-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "e33a05d50ec84a5d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF invalida exigência de licenciamento ambiental para infraestrutura de telecomunicações no PA",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-exigencia-de-licenciamento-ambiental-para-infraestrutura-de-telecomunicacoes-no-pa/",
+      "resumo": "Tribunal concluiu que as normas estaduais invadiram a competência da União para regulamentar o setor",
+      "publicado_em": "2026-08-07T18:00:52-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "adi",
+        "regulamenta"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "92467c4f7dae60e5",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF participa da abertura do Jubileu do Bicentenário dos Cursos Jurídicos no Brasil",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-participa-da-abertura-do-jubileu-do-bicentenario-dos-cursos-juridicos-no-brasil/",
+      "resumo": "Ministro Edson Fachin integrará Mesa de Honra; cerimônia acontece na segunda-feira (10), na Faculdade de Direito da USP; evento será transmitido pela TV Justiça.",
+      "publicado_em": "2026-08-07T17:37:25-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "39c8d48a525a360d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF aprova proposta orçamentária para 2027",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-aprova-proposta-orcamentaria-para-2027/",
+      "resumo": "Documento será encaminhado ao Executivo para consolidação e posterior envio ao Congresso Nacional",
+      "publicado_em": "2026-08-07T15:44:29-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "e920514218f23782",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "‘Direito sem juridiquês’: o que é jurisprudência?",
+      "link": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-o-que-e-jurisprudencia/",
+      "resumo": "Vídeo da série explica, de forma simples, como decisões repetidas dos tribunais influenciam novos julgamentos",
+      "publicado_em": "2026-08-07T10:16:55-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "0fe72264ff98fc99",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "20 anos da Lei Maria da Penha: decisões do STF ampliaram a proteção às mulheres",
+      "link": "https://noticias.stf.jus.br/postsnoticias/20-anos-da-lei-maria-da-penha-decisoes-do-stf-ampliaram-a-protecao-as-mulheres/",
+      "resumo": "Julgamentos da Corte consolidaram a lei como instrumento de enfrentamento da violência de gênero",
+      "publicado_em": "2026-08-07T09:00:00-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "34948173140ec564",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "Informamos que não haverá atendimento nas unidades da PGFN em todo o Brasil, na terça-feira, 11 de agosto.",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/informamos-que-nao-havera-atendimento-na-terca-feira-11-de-agosto",
+      "resumo": "",
+      "publicado_em": "2026-08-07T12:00:00-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "7a5066595b206f36",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Audiência internacional sobre Acesso à Justiça acontece em meio ao marco de 20 anos da Lei Maria da Penha",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/audiencia-internacional-sobre-acesso-a-justica-acontece-em-meio-ao-marco-de-20-anos-da-lei-maria-da-penha",
+      "resumo": "",
+      "publicado_em": "2026-08-07T12:00:00-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "a57a3b388b134d63",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Território Seguro, Amazônia Soberana alinha ações integradas para Amazônia Legal e faixa de fronteira",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/politica-sobre-drogas",
+      "resumo": "",
+      "publicado_em": "2026-08-07T12:00:00-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "59b8bdee36a1c40a",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Dia Internacional dos Povos Indígenas destaca ações de proteção territorial e acesso a direitos",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-internacional-dos-povos-indigenas-destaca-acoes-de-protecao-territorial-e-acesso-a-direitos",
+      "resumo": "",
+      "publicado_em": "2026-08-07T12:00:00-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "96d78c20aa68bbd8",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Quinta edição do Curso de Comportamento do Fogo em Compartimentos é realizada em Brasília",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/quinta-edicao-do-curso-de-comportamento-do-fogo-em-compartimentos-e-realizada-em-brasilia",
+      "resumo": "",
+      "publicado_em": "2026-08-07T12:00:00-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "20dcce770aca4dce",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Diagnóstico apresenta panorama das unidades especializadas de atendimento às mulheres",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/10o-diagnostico-nacional-reune-dados-sobre-as-unidades-de-policia-civil-especializadas-no-atendimento-as-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-08-07T12:00:00-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "23de44c61d6ec58d",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Nova lei amplia medidas de combate à violência sexual contra crianças e adolescentes no ambiente digital",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nova-lei-amplia-medidas-de-combate-a-violencia-sexual-contra-criancas-e-adolescentes-no-ambiente-digital",
+      "resumo": "",
+      "publicado_em": "2026-08-07T12:00:00-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "f89e7284d07bcec4",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "ALERTA: Anúncios e e-mails falsos são usados em golpes contra quem procura renegociar dívidas",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/alerta-anuncios-e-e-mails-falsos-sao-usados-em-golpes-contra-quem-procura-renegociar-dividas",
+      "resumo": "",
+      "publicado_em": "2026-08-07T12:00:00-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "e4bc0d2409164c41",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Relatório aponta que medidas protetivas chegam rápido, mas não bastam contra feminicídios",
+      "link": "https://www.cnj.jus.br/relatorio-aponta-que-medidas-protetivas-chegam-rapido-mas-nao-bastam-contra-feminicidios/",
+      "resumo": "O sistema de justiça tem concedido com rapidez medidas protetivas de urgência (MPUs). Segundo a pesquisa Feminicídio e Medidas Protetivas de Urgência, apresentada nesta sexta-feira (7/8) pelo Conselho Nacional de Justiça (CNJ), aproximadamente 53% das medidas são concedidas no mesmo dia do pedido e,",
+      "publicado_em": "2026-08-07T12:00:00-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "83f635956ca49883",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD instaura processo de fiscalização contra o Discord para apurar falhas na proteção de crianças e adolescentes",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-instaura-processo-de-fiscalizacao-contra-o-discord-para-apurar-falhas-na-protecao-de-criancas-e-adolescentes",
+      "resumo": "Agência investiga possível descumprimento de deveres previstos no ECA Digital relacionados à prevenção, detecção, interrupção e comunicação de violações graves no ambiente digital",
+      "publicado_em": "2026-08-07T18:41:17-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "c43457e30d8fc68f",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Câmara de Campinas homenageia TRT-15 pelos 40 anos em sessão solene no Plenário Coqueijo Costa",
+      "link": "https://trt15.jus.br/noticia/2026/camara-de-campinas-homenageia-trt-15-pelos-40-anos-em-sessao-solene-no-plenario",
+      "resumo": "Câmara de Campinas homenageia TRT-15 pelos 40 anos em sessão solene no Plenário Coqueijo Costa anasiqueira Qui, 06/08/2026 - 18:18 Câmara de Campinas homenageia TRT-15 pelos 40 anos em sessão solene no Plenário Coqueijo Costa Conteúdo da Notícia A Câmara Municipal de Campinas homenageou, nesta quint",
+      "publicado_em": "2026-08-06T18:18:11-03:00",
+      "dia": "2026-08-06",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "04721e290698dcd4",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "86ª Conematra reúne na Ejud-15 representantes de Escolas Judiciais para debater desafios do trabalho na era tecnológica",
+      "link": "https://trt15.jus.br/noticia/2026/86a-conematra-reune-na-ejud-15-representantes-de-escolas-judiciais-para-debater",
+      "resumo": "86ª Conematra reúne na Ejud-15 representantes de Escolas Judiciais para debater desafios do trabalho na era tecnológica anagatto Qui, 06/08/2026 - 17:39 86ª Conematra reúne na Ejud-15 representantes de Escolas Judiciais para debater desafios do trabalho na era tecnológica Conteúdo da Notícia A presi",
+      "publicado_em": "2026-08-06T17:39:27-03:00",
+      "dia": "2026-08-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "c0c88cf888ec67a4",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF inaugura painel ‘Sete Marias’, reflexão sobre luta e dignidade feminina",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-inaugura-painel-sete-marias-reflexao-sobre-luta-e-dignidade-feminina/",
+      "resumo": "Obra de Antonio Veronese passa a integrar o acervo da Corte",
+      "publicado_em": "2026-08-06T21:14:24-03:00",
+      "dia": "2026-08-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "2c3446f3ed5cf621",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Livro em homenagem ao ministro Paulo Brossard é lançado no STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/livro-em-homenagem-ao-ministro-paulo-brossard-e-lancado-no-stf/",
+      "resumo": "Ministros Edson Fachin e Gilmar Mendes estiveram presentes ao evento",
+      "publicado_em": "2026-08-06T21:13:00-03:00",
+      "dia": "2026-08-06",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenagem"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "94ea16fef93918ea",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF invalida trechos de leis que reestruturaram carreiras da educação em Curitiba",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-trechos-de-leis-que-reestruturaram-carreiras-da-educacao-em-curitiba/",
+      "resumo": "Plenário considerou inconstitucionais dispositivos que criaram regras de progressão funcional sem prévia dotação orçamentária e preservou efeitos já produzidos pelas normas",
+      "publicado_em": "2026-08-06T20:00:56-03:00",
+      "dia": "2026-08-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "328919bacd365024",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF suspende julgamento sobre aplicação de norma que proíbe jogos de azar",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-julgamento-sobre-aplicacao-de-norma-que-proibe-jogos-de-azar/",
+      "resumo": "Após o voto do relator, ministro Luiz Fux, o ministro Flávio Dino pediu vista do processo",
+      "publicado_em": "2026-08-06T19:42:32-03:00",
+      "dia": "2026-08-06",
+      "data_estimada": false,
+      "score": 74,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "b0b81113ba80795d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF proíbe pagamento de honorários a advogados que não integrem a carreira de procuradores de Goiás",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-proibe-pagamento-de-honorarios-a-advogados-que-nao-integrem-a-carreira-de-procuradores-de-goias/",
+      "resumo": "Plenário reafirmou entendimento de que apenas procuradores de carreira do estado podem defender o órgão de trânsito e receber esses valores",
+      "publicado_em": "2026-08-06T17:05:31-03:00",
+      "dia": "2026-08-06",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "advogado"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "3d4db82f5f5183be",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF convoca audiência pública para discutir Lei Antifacção",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-convoca-audiencia-publica-para-discutir-lei-antifaccao/",
+      "resumo": "Ministro Alexandre de Moraes, relator das ações na Corte, levou em conta relevância da matéria e sua importância para a ordem social e a segurança pública",
+      "publicado_em": "2026-08-06T16:29:15-03:00",
+      "dia": "2026-08-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "8e6da3c6a0c2ae85",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quinta-feira (6)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-6-2/",
+      "resumo": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "publicado_em": "2026-08-06T10:43:06-03:00",
+      "dia": "2026-08-06",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "41c2c95ea9a926be",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Nota de Pesar – MJSP lamenta a morte do secretário-geral da Junta Nacional de Drogas do Uruguai, Gabriel Rossi",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nota-de-pesar-2013-mjsp-lamenta-a-morte-do-secretario-geral-da-junta-nacional-de-drogas-do-uruguai-gabriel-rossi",
+      "resumo": "",
+      "publicado_em": "2026-08-06T12:00:00-03:00",
+      "dia": "2026-08-06",
+      "data_estimada": true,
+      "score": 20,
+      "tags": [
+        "droga"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "425262e5d1050ccb",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Brasil assume presidência de aliança internacional e anuncia novas ações contra o crime organizado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-assume-presidencia-de-alianca-internacional-e-anuncia-novas-acoes-contra-o-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-08-06T12:00:00-03:00",
+      "dia": "2026-08-06",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "749477f31537620f",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal orienta sobre recolhimento do imposto retido na fonte sobre lucros e dividendos",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/receita-federal-orienta-sobre-recolhimento-do-imposto-retido-na-fonte-sobre-lucros-e-dividendos",
+      "resumo": "",
+      "publicado_em": "2026-08-06T12:00:00-03:00",
+      "dia": "2026-08-06",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "280aa3b682e45409",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 apresenta proposta para encerrar greve na CPTM; saiba mais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-apresenta-proposta-para-encerrar-greve-na-cptm-saiba-mais",
+      "resumo": "",
+      "publicado_em": "2026-08-05T12:00:00-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "603ce984d4863104",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Nova audiência de conciliação para tratar da greve dos ferroviários ocorre nesta quarta (5/8)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/nova-audiencia-de-conciliacao-para-tratar-da-greve-dos-ferroviarios-ocorre-nesta-quarta-5-8",
+      "resumo": "",
+      "publicado_em": "2026-08-05T12:00:00-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "11afd03ce54b56ca",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "CESTF realiza primeira reunião dos pós-doutorandos do programa CAPES/STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cestf-realiza-primeira-reuniao-dos-pos-doutorandos-do-programa-capes-stf/",
+      "resumo": "Além de marcar o início do programa, o encontro também revisou coletivamente os temas de pesquisa já entregues",
+      "publicado_em": "2026-08-05T20:56:19-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "a0701537524a4e93",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF recebe estudantes da UERJ e destaca compromisso das novas gerações com a democracia",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-recebe-estudantes-da-uerj-e-destaca-compromisso-das-novas-geracoes-com-a-democracia/",
+      "resumo": "Visita integra o programa STF+Cidadania, que promove a aproximação do Tribunal com a sociedade por meio de ações educativas",
+      "publicado_em": "2026-08-05T20:21:03-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "7134282ccb405b44",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF começa a discutir se norma que proíbe jogos de azar ainda pode ser aplicada",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-comeca-a-discutir-se-norma-que-proibe-jogos-de-azar-ainda-pode-ser-aplicada/",
+      "resumo": "Recurso envolve um comerciante absolvido por exploração de caça-níqueis. Decisão afetará mais de 2,7 mil processos semelhantes",
+      "publicado_em": "2026-08-05T19:58:25-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "decisao",
+        "processo",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "474501e91987332d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Partido questiona regras do ECA Digital sobre verificação de idade e acesso a jogos na internet",
+      "link": "https://noticias.stf.jus.br/postsnoticias/partido-questiona-regras-do-eca-digital-sobre-verificacao-de-idade-e-acesso-a-jogos-na-internet/",
+      "resumo": "Missão sustenta que normas podem afetar privacidade de usuários e restringir autoridade dos pais",
+      "publicado_em": "2026-08-05T19:40:52-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "4510533608f685e4",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF rejeita pedido para reduzir pena de integrante da cúpula do PCC",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-pedido-para-reduzir-pena-de-integrante-da-cupula-do-pcc/",
+      "resumo": "Defesa de Fuminho, apontado como braço direito de Marcola, alegava que ele havia sido punido mais de uma vez pelos mesmos fatos",
+      "publicado_em": "2026-08-05T17:56:02-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "f1e68e5844aab055",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF sedia lançamento de livro em homenagem ao legado do ministro Paulo Brossard",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-sedia-lancamento-de-livro-em-homenagem-ao-legado-do-ministro-paulo-brossard/",
+      "resumo": "Obra será lançada nesta quinta-feira (6), na Biblioteca do STF. Ministro Gilmar Mendes assina apresentação do livro, que conta também com texto inédito do ministro André Mendonça",
+      "publicado_em": "2026-08-05T16:25:09-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "acao",
+        "homenagem"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "4e68f01e9c6181f1",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quarta-feira (5)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-5-2/",
+      "resumo": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "publicado_em": "2026-08-05T09:20:18-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "a49716ed855758dd",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Dia dos Pais: conheça os direitos do consumidor na compra de presentes",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-dos-pais-conheca-os-direitos-do-consumidor-na-compra-de-presentes",
+      "resumo": "",
+      "publicado_em": "2026-08-05T12:00:00-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "849f54bb1fa7f05a",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Encontro Nacional de Chefes de Organismos de Inteligência de Segurança Pública reúne lideranças de todo o País",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-nacional-de-chefes-de-organismos-de-inteligencia-de-seguranca-publica-reune-liderancas-de-todo-o-pais",
+      "resumo": "",
+      "publicado_em": "2026-08-05T12:00:00-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "1f4b5244382dd6ee",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Desistência de parcelamentos previdenciários como Gfip/Sefip e GPS já pode ser solicitada pelo e-Cac",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/desistencia-de-parcelamentos-previdenciarios-como-gfip-sefip-e-gps-ja-pode-ser-solicitada-pelo-e-cac",
+      "resumo": "",
+      "publicado_em": "2026-08-05T12:00:00-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "bc194e60b750283e",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade requisita servidores para atuar no Serviço de Informação e Documentação (SIDOC)",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-requisita-servidores-para-atuar-no-servico-de-informacao-e-documentacao-sidoc",
+      "resumo": "",
+      "publicado_em": "2026-08-05T12:00:00-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "f8c1780ef71fc946",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade mantém decisão sobre medida preventiva em caso envolvendo Itaú",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-mantem-decisao-sobre-medida-preventiva-em-caso-envolvendo-itau",
+      "resumo": "",
+      "publicado_em": "2026-08-05T12:00:00-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "decisao",
+        "cade"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "2fa52f81f8fd033a",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Tribunal do Cade mantém medida preventiva contra Secipe",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/tribunal-do-cade-mantem-medida-preventiva-contra-secipe",
+      "resumo": "",
+      "publicado_em": "2026-08-05T12:00:00-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "042c710daf0f8f23",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade aprova entrada do Grupo Equatorial no capital da Copasa",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-aprova-entrada-do-grupo-equatorial-no-capital-da-copasa",
+      "resumo": "",
+      "publicado_em": "2026-08-05T12:00:00-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "cade",
+        "aprova"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "3b9a11c34c4ff98d",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Tem início a 269ª sessão de julgamento do Cade",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/tem-inicio-a-269a-sessao-de-julgamento-do-cade",
+      "resumo": "",
+      "publicado_em": "2026-08-05T12:00:00-03:00",
+      "dia": "2026-08-05",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "julgamento",
+        "julga",
+        "cade"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "0cc6203c836a5d5c",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Magistrados do TRT-2 e TRT-15 fazem visita técnica à fábrica da Volkswagen e ao Sindicato dos Metalúrgicos do ABC",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/magistrados-do-trt-2-e-trt-15-fazem-visita-tecnica-a-fabrica-da-volkswagen-e-ao-sindicato-dos-metalurgicos-do-abc",
+      "resumo": "",
+      "publicado_em": "2026-08-04T12:00:00-03:00",
+      "dia": "2026-08-04",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "4970a8d45d3f4291",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Feriados de agosto suspendem atendimento em unidades da 2ª Região",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/feriados-de-agosto-suspendem-atendimento-em-unidades-da-2a-regiao",
+      "resumo": "",
+      "publicado_em": "2026-08-04T12:00:00-03:00",
+      "dia": "2026-08-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "80aa82bd056f3128",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Regional sedia “Jornada de Cooperação em Inteligência Judiciária em Admissibilidade Recursal”",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-sedia-jornada-de-cooperacao-e-inteligencia-judiciaria",
+      "resumo": "",
+      "publicado_em": "2026-08-04T12:00:00-03:00",
+      "dia": "2026-08-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "600b60523b0b8a08",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Associações pedem que Justiça Federal e MPF recebam valores provenientes de ações por lavagem de dinheiro",
+      "link": "https://noticias.stf.jus.br/postsnoticias/associacoes-pedem-que-justica-federal-e-mpf-recebam-parte-dos-valores-provenientes-de-acoes-penais-por-lavagem-de-dinheiro/",
+      "resumo": "Entidades questionam decreto que concentra recursos na PF e na PRF e pedem inclusão dos valores no orçamento de 2027",
+      "publicado_em": "2026-08-04T21:04:05-03:00",
+      "dia": "2026-08-04",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "decreto",
+        "recurso"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "0d8d0f7d7377ade6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF mantém prisão de desembargador acusado de vazar informações sobre operação da PF no Rio de Janeiro",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-prisao-de-desembargador-acusado-de-vazar-informacoes-sobre-operacao-da-pf-no-rio-de-janeiro/",
+      "resumo": "Ministro Alexandre de Moraes avaliou que não houve mudança na situação que motivou a prisão preventiva de Macário Ramos Júdice Neto. Caso envolve vazamento de informações para o Comando Vermelho",
+      "publicado_em": "2026-08-04T19:11:26-03:00",
+      "dia": "2026-08-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "3efe91991d9ea8b3",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Partido pede que STF determine plano nacional para retomar áreas sob domínio de facções",
+      "link": "https://noticias.stf.jus.br/postsnoticias/partido-pede-que-stf-determine-plano-nacional-para-retomar-areas-sob-dominio-de-faccoes/",
+      "resumo": "Missão sustenta que o crime organizado controla partes do território nacional e pede medidas para retomar essas áreas",
+      "publicado_em": "2026-08-04T16:25:49-03:00",
+      "dia": "2026-08-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "1547f31c8affce9d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF autoriza buscas em nova fase da Operação Sem Desconto",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-buscas-e-quebra-de-sigilo-de-dados-telefonicos-em-investigacao-da-operacao-sem-desconto/",
+      "resumo": "Medidas determinadas pelo ministro André Mendonça buscam apurar suposta participação dos investigados em atos de lavagem de dinheiro que teriam como beneficiário o senador Weverton Rocha (PDT-MA)",
+      "publicado_em": "2026-08-04T14:04:22-03:00",
+      "dia": "2026-08-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "13156e81fb69dfe7",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "SUS oferece teleatendimento a quem enfrenta problemas de saúde mental causados por apostas",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/sus-oferece-teleatendimento-a-quem-enfrenta-problemas-de-saude-mental-causados-por-apostas",
+      "resumo": "",
+      "publicado_em": "2026-08-04T12:00:00-03:00",
+      "dia": "2026-08-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "17bdff3cfd772e60",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "​Liminar do TRT-2 fixa efetivo mínimo de 60 a 80% na greve da CPTM",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/liminar-do-trt-2-fixa-efetivo-minimo-de-60-a-80-na-greve-da-cptm",
+      "resumo": "",
+      "publicado_em": "2026-08-03T12:00:00-03:00",
+      "dia": "2026-08-03",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "liminar"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "a39cd118bb5815b9",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Conheça o novo Corpo Diretivo da 2ª Região para o biênio 2026/2028",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/conheca-o-novo-corpo-diretivo-da-2a-regiao-para-o-bienio-2026-2028",
+      "resumo": "",
+      "publicado_em": "2026-08-03T12:00:00-03:00",
+      "dia": "2026-08-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "8c1cb42790c45cc8",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Sueli Tomé da Ponte é eleita presidente do TRT da 2ª Região",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/sueli-tome-da-ponte-e-eleita-presidente-do-trt-da-2a-regiao",
+      "resumo": "",
+      "publicado_em": "2026-08-03T12:00:00-03:00",
+      "dia": "2026-08-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "edade06230b9f562",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Acompanhe ao vivo a eleição para novos(as) dirigentes do TRT-2",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/eleicao-para-novosas-dirigentes-do-trt-2-acontece-as-13h-acompanhe-ao-vivo",
+      "resumo": "",
+      "publicado_em": "2026-08-03T12:00:00-03:00",
+      "dia": "2026-08-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "c6fdcefdc863e8fa",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal publica alteração nas regras de atendimento relativas ao Imposto de Renda",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/receita-federal-publica-alteracao-nas-regras-de-atendimento-relativas-ao-imposto-de-renda",
+      "resumo": "",
+      "publicado_em": "2026-08-03T12:00:00-03:00",
+      "dia": "2026-08-03",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "a411c8c388d5b2c8",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal e CGIBS flexibilizarão obrigatoriedade de informações em documentos fiscais",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/receita-federal-e-cgibs-flexibilizarao-obrigatoriedade-de-informacoes-em-documentos-fiscais",
+      "resumo": "",
+      "publicado_em": "2026-08-03T12:00:00-03:00",
+      "dia": "2026-08-03",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "obrigatoriedade",
+        "ibs"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "3bc848ac8ced4a98",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade abre processo seletivo de estágio para a Procuradoria Federal Especializada",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-abre-processo-seletivo-de-estagio-para-a-procuradoria-federal-especializada",
+      "resumo": "",
+      "publicado_em": "2026-08-03T12:00:00-03:00",
+      "dia": "2026-08-03",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "processo"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "6bf1249280202134",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Acesso ao PJe por meio de certificado digital no PDPJ está normalizado",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acesso-ao-pje-por-meio-de-certificado-digital-no-pdpj-esta-normalizado",
+      "resumo": "",
+      "publicado_em": "2026-08-01T12:00:00-03:00",
+      "dia": "2026-08-01",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "afc4cbdb86219094",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça mantém justa causa de empregado que vendia canetas emagrecedoras no trabalho",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-mantem-justa-causa-de-empregado-que-vendia-canetas-emagrecedoras-no-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-08-01T12:00:00-03:00",
+      "dia": "2026-08-01",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "6c436b0c797945fa",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Acesso ao PJe por meio de certificado digital no PDPJ apresenta instabilidade; veja alternativa",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acesso-ao-pje-por-meio-de-certificado-digital-no-pdpj-apresenta-instabilidade-veja-alternativa",
+      "resumo": "",
+      "publicado_em": "2026-08-01T12:00:00-03:00",
+      "dia": "2026-08-01",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "a4308bf30bc0f7ae",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 lança portais com informações e serviços para aposentados(as) e pensionistas",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-lanca-portais-com-informacoes-e-servicos-para-aposentadosas-e-pensionistas",
+      "resumo": "",
+      "publicado_em": "2026-07-31T12:00:00-03:00",
+      "dia": "2026-07-31",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "a36e4bb1dbb084a8",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Tesouro Direto informa desativação do aplicativo a partir de 17 de agosto",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/tesouro-direto-informa-desativacao-do-aplicativo-a-partir-de-17-de-agosto",
+      "resumo": "",
+      "publicado_em": "2026-07-31T12:00:00-03:00",
+      "dia": "2026-07-31",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "3c27b385bfd13d16",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Déficit primário do Governo Central em junho soma R$ 48,2 bilhões",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/deficit-primario-do-governo-central-em-junho-soma-r-48-2-bilhoes",
+      "resumo": "",
+      "publicado_em": "2026-07-31T12:00:00-03:00",
+      "dia": "2026-07-31",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "8b4df7dd7640d918",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal gera o primeiro CNPJ em formato alfanumérico",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/receita-federal-gera-o-primeiro-cnpj-em-formato-alfanumerico",
+      "resumo": "",
+      "publicado_em": "2026-07-31T12:00:00-03:00",
+      "dia": "2026-07-31",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "dcecb1190ad9ebf1",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Arrecadação federal em junho totaliza R$ 264,4 bilhões",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/arrecadacao-federal-em-junho-totaliza-r-264-4-bilhoes",
+      "resumo": "",
+      "publicado_em": "2026-07-31T12:00:00-03:00",
+      "dia": "2026-07-31",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "ca105cc1363af7cf",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal e Comitê Gestor do IBS publicam o cronograma de implementação dos documentos fiscais eletrônicos da Reforma Tributária do Consumo",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/receita-federal-e-comite-gestor-do-ibs-publicam-o-cronograma-de-implementacao-dos-documentos-fiscais-eletronicos-da-reforma-tributaria-do-consumo",
+      "resumo": "",
+      "publicado_em": "2026-07-31T12:00:00-03:00",
+      "dia": "2026-07-31",
+      "data_estimada": true,
+      "score": 76,
+      "tags": [
+        "reforma tributaria",
+        "ibs",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "16d98260f79f2ffe",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "SG/Cade emite parecer pela aprovação sem restrições de investimento da American Airlines na Azul",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/sg-cade-emite-parecer-pela-aprovacao-sem-restricoes-de-investimento-da-american-airlines-na-azul",
+      "resumo": "",
+      "publicado_em": "2026-07-31T12:00:00-03:00",
+      "dia": "2026-07-31",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "cade",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "e1e928e415f7a2eb",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Pauta da próxima sessão de julgamento (05/08) do Cade é publicada",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/pauta-da-proxima-sessao-de-julgamento-05-08-do-cade-e-publicada",
+      "resumo": "",
+      "publicado_em": "2026-07-31T12:00:00-03:00",
+      "dia": "2026-07-31",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "julgamento",
+        "julga",
+        "cade"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "ec8dac9caecebfcc",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Hostilidade decorrente de gravidez gera danos morais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/hostilidade-decorrente-de-gravidez-gera-danos-morais",
+      "resumo": "",
+      "publicado_em": "2026-07-30T12:00:00-03:00",
+      "dia": "2026-07-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "4348e2a6239d514e",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Dívida Pública Federal alcançou R$ 9,268 trilhões em junho, aponta relatório divulgado pelo Tesouro",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/divida-publica-federal-alcancou-r-9-268-trilhoes-em-junho-aponta-relatorio-divulgado-pelo-tesouro",
+      "resumo": "",
+      "publicado_em": "2026-07-30T12:00:00-03:00",
+      "dia": "2026-07-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "feeb44a1f17c12e2",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 promove palestra sobre envelhecimento, metabolismo e composição corporal",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-promove-palestra-sobre-envelhecimento-metabolismo-e-composicao-corporal",
+      "resumo": "",
+      "publicado_em": "2026-07-29T12:00:00-03:00",
+      "dia": "2026-07-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "cf8e448c00e25eb9",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Consultora pedagógica é indenizada por burnout e obtém equiparação salarial",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/consultora-pedagogica-e-indenizada-por-burnout-e-obtem-equiparacao-salarial",
+      "resumo": "",
+      "publicado_em": "2026-07-29T12:00:00-03:00",
+      "dia": "2026-07-29",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "7b9077e0d563debe",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal comenta nesta quinta-feira (30/7) a arrecadação do mês de junho",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/receita-federal-comenta-nesta-quinta-feira-30-7-a-arrecadacao-do-mes-de-junho",
+      "resumo": "",
+      "publicado_em": "2026-07-29T12:00:00-03:00",
+      "dia": "2026-07-29",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "4970395399d3f669",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Tesouro Nacional informa sobre impacto da alteração do CNPJ em soluções que utilizam dados do órgão",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/tesouro-nacional-informa-sobre-impacto-da-alteracao-do-cnpj-em-solucoes-que-utilizam-dados-do-orgao",
+      "resumo": "",
+      "publicado_em": "2026-07-29T12:00:00-03:00",
+      "dia": "2026-07-29",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "f4cf4e9e62362db2",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal publica novos atos declaratórios e amplia lista de devedores contumazes",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/receita-federal-publica-novos-atos-declaratorios-e-amplia-lista-de-devedores-contumazes",
+      "resumo": "",
+      "publicado_em": "2026-07-29T12:00:00-03:00",
+      "dia": "2026-07-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "fa2344e25eaab38c",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal lança sistema que permite desembarque mais rápido para viajantes que declaram bens",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/receita-federal-lanca-sistema-que-permite-desembarque-mais-rapido-para-viajantes-que-declaram-bens",
+      "resumo": "",
+      "publicado_em": "2026-07-29T12:00:00-03:00",
+      "dia": "2026-07-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "cee6006b00071fca",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade abre processo seletivo para estágio em Direito e Economia",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-abre-processo-seletivo-para-estagio-em-direito-e-economia",
+      "resumo": "",
+      "publicado_em": "2026-07-29T12:00:00-03:00",
+      "dia": "2026-07-29",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "processo"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "1cde5fff4ef345f1",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD publica Radar Tecnológico sobre deepfakes",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-radar-tecnologico-sobre-deepfakes",
+      "resumo": "Estudo analisa o funcionamento, as aplicações e os desafios desta tecnologia para a proteção de dados e a construção de ambientes digitais seguros",
+      "publicado_em": "2026-07-29T08:34:02-03:00",
+      "dia": "2026-07-29",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "accbc60c8b71586c",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "2º Encontro LGBTQIA+ e Justiça CNJ acontece na sede da Escola Paulista de Magistratura",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2o-encontro-lgbtqia-e-justica-cnj-acontece-na-sede-da-escola-paulista-de-magistratura",
+      "resumo": "",
+      "publicado_em": "2026-07-28T12:00:00-03:00",
+      "dia": "2026-07-28",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "2b5d7528abde07fd",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 elege nova administração em 3 de agosto",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-elege-nova-administracao-em-3-de-agosto",
+      "resumo": "",
+      "publicado_em": "2026-07-28T12:00:00-03:00",
+      "dia": "2026-07-28",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "8d198c85a7a4ce2c",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Ministério da Fazenda publica regras do 5º Leilão do Eco Invest Brasil, voltado a projetos de inovação",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/ministerio-da-fazenda-publica-regras-do-5o-leilao-do-eco-invest-brasil-voltado-a-projetos-de-inovacao",
+      "resumo": "",
+      "publicado_em": "2026-07-28T12:00:00-03:00",
+      "dia": "2026-07-28",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "c92d9e457d4379d2",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Tesouro Direto divulga balanço de junho",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/tesouro-direto-divulga-balanco-de-junho",
+      "resumo": "",
+      "publicado_em": "2026-07-28T12:00:00-03:00",
+      "dia": "2026-07-28",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "b99c628569d188d8",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Seminário discutirá preço dinâmico e impactos para colusão algorítmica. Inscreva-se!",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/seminario-economia-defesa-da-concorrencia-discutira-preco-dinamico-e-impactos-para-colusao-algoritmica-inscreva-se",
+      "resumo": "",
+      "publicado_em": "2026-07-28T12:00:00-03:00",
+      "dia": "2026-07-28",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "261a408f3b7429f6",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD e ANA assinam Acordo de Cooperação Técnica para proteção de dados pessoais",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-e-ana-assinam-acordo-de-cooperacao-tecnica-para-protecao-de-dados-pessoais",
+      "resumo": "Acordo prevê ações educativas, reuniões técnicas e produção de estudos sobre a gestão de dados no setor regulado pela Agência Nacional de Águas",
+      "publicado_em": "2026-07-28T10:45:59-03:00",
+      "dia": "2026-07-28",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "protecao de dados",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "b80b03babc228abe",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "2ª Região participa de evento nacional sobre sustentabilidade no Judiciário",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2a-regiao-participa-de-evento-nacional-sobre-sustentabilidade-no-judiciario",
+      "resumo": "",
+      "publicado_em": "2026-07-27T12:00:00-03:00",
+      "dia": "2026-07-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "a9e8edbe0621964d",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça reverte abandono de emprego de vítima de violência doméstica",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-reverte-abandono-de-emprego-de-vitima-de-violencia-domestica",
+      "resumo": "",
+      "publicado_em": "2026-07-27T12:00:00-03:00",
+      "dia": "2026-07-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "35ae0dd6b3d7c93b",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD releases English version of Technology Radar on Generative AI",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-releases-english-version",
+      "resumo": "Translation of the third volume in the series brings technical insights from the Agency to the international data protection community",
+      "publicado_em": "2026-07-27T15:28:00-03:00",
+      "dia": "2026-07-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "03dfc4b31bd5c864",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Brasil se torna membro de rede global de reguladores de segurança no ambiente digital",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/brasil-se-torna-membro-de-rede-global-de-reguladores-de-seguranca-no-ambiente-digital",
+      "resumo": "ANPD é a primeira autoridade reguladora da América do Sul a integrar a GOSRN, ampliando a cooperação internacional para a proteção de direitos na internet",
+      "publicado_em": "2026-07-27T10:07:23-03:00",
+      "dia": "2026-07-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "af4081d14f73d84a",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Iniciativa do TRT-2 promove cidadania e aproxima jovens do Poder Judiciário",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/iniciativa-do-trt-2-promove-cidadania-e-aproxima-jovens-do-poder-judiciario",
+      "resumo": "",
+      "publicado_em": "2026-07-24T12:00:00-03:00",
+      "dia": "2026-07-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "0f6bd5a1d1b5790f",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 divulga orientações para tramitação de processos sobre pejotização",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-divulga-orientacoes-para-tramitacao-de-processos-sobre-pejotizacao",
+      "resumo": "",
+      "publicado_em": "2026-07-24T12:00:00-03:00",
+      "dia": "2026-07-24",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "81e89764ad927a43",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "FMI e Banco Mundial reconhecem avanços do sistema financeiro e apontam agenda para fortalecer supervisão",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21208/nota",
+      "resumo": "Avaliação conclui que sistema financeiro brasileiro permanece resiliente a choques severos. FMI destaca avanços do Pix, da digitalização e da concorrência no setor financeiro.",
+      "publicado_em": "2026-07-24T16:10:25-03:00",
+      "dia": "2026-07-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "2b1cb3326d8d291a",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça do Trabalho aplica legislação estrangeira para trabalhadora de cruzeiro internacional",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-do-trabalho-aplica-legislacao-estrangeira-para-trabalhadora-de-cruzeiro-internacional",
+      "resumo": "",
+      "publicado_em": "2026-07-23T12:00:00-03:00",
+      "dia": "2026-07-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "0fceefc41a3714ee",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Magistrados(as) participam de primeira etapa de vivência sobre negociação coletiva",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/magistradosas-participam-de-primeira-etapa-de-vivencia-sobre-negociacao-coletiva",
+      "resumo": "",
+      "publicado_em": "2026-07-23T12:00:00-03:00",
+      "dia": "2026-07-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "c6cd095c03d1286a",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Valores de depósitos recursais serão reajustados a partir de agosto",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/valores-de-depositos-recursais-serao-reajustados-a-partir-de-agosto",
+      "resumo": "",
+      "publicado_em": "2026-07-23T12:00:00-03:00",
+      "dia": "2026-07-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "ce9648cb33fc87ed",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "SG/Cade recomenda condenação de empresas do grupo Bayer por práticas anticoncorrenciais nos mercados de obtenção de sementes de soja",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/sg-cade-recomenda-condenacao-de-empresas-do-grupo-bayer-por-praticas-anticoncorrenciais-nos-mercados-de-obtencao-de-sementes-de-soja",
+      "resumo": "",
+      "publicado_em": "2026-07-23T12:00:00-03:00",
+      "dia": "2026-07-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "condenacao",
+        "cade",
+        "acao",
+        "comenda"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "1a22de270c660171",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade recomenda condenação por cartel internacional no setor de mídias esportivas",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-recomenda-condenacao-por-cartel-internacional-no-setor-de-midias-esportivas",
+      "resumo": "",
+      "publicado_em": "2026-07-23T12:00:00-03:00",
+      "dia": "2026-07-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "condenacao",
+        "cade",
+        "acao",
+        "comenda"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "98718abc8281f64d",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Pesquisa da OCDE avalia conhecimentos e hábitos financeiros dos brasileiros",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21204/nota",
+      "resumo": "A iniciativa, que conta com a supervisão técnica do BC e da CVM, busca compreender como o brasileiro lida com dinheiro no dia a dia. O levantamento teve início em 29 de junho e termina em 7 de agosto de 2026.",
+      "publicado_em": "2026-07-23T08:50:37-03:00",
+      "dia": "2026-07-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "f0793736da51ac72",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD lança versão em inglês do Radar Tecnológico sobre Inteligência Artificial Generativa",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-lanca-versao-ingles-rt-ingles",
+      "resumo": "Tradução do terceiro volume da série amplia o conhecimento técnico produzido pela Agência para a comunidade internacional de proteção de dados",
+      "publicado_em": "2026-07-23T18:32:00-03:00",
+      "dia": "2026-07-23",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "7fb77df224ded958",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça confirma justa causa de trabalhador por importunação sexual",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-confirma-justa-causa-de-trabalhador-por-importunacao-sexual",
+      "resumo": "",
+      "publicado_em": "2026-07-22T12:00:00-03:00",
+      "dia": "2026-07-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "2de55424d6f704af",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
+      "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
+      "publicado_em": "2026-07-22T14:02:38-03:00",
+      "dia": "2026-07-22",
+      "data_estimada": false,
+      "score": 100,
+      "tags": [
+        "decreto",
+        "prazo",
+        "obrigatoriedade",
+        "reforma tributaria",
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "08398f1e2c89c97b",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal disponibilizará a versão web da DITR 2026",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-disponibilizara-a-versao-web-da-ditr-2026",
+      "resumo": "Serviço permite preencher, transmitir, retificar e consultar a Declaração do Imposto sobre a Propriedade Territorial Rural de forma on-line.",
+      "publicado_em": "2026-07-22T13:51:56-03:00",
+      "dia": "2026-07-22",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "imposto",
+        "itr",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "85dc1016c4502bd3",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade confirma a realização de leilão para o desinvestimento da marca Nutrella em 24 de julho",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-confirma-a-realizacao-de-leilao-para-o-desinvestimento-da-marca-nutrella-em-24-de-julho",
+      "resumo": "",
+      "publicado_em": "2026-07-22T12:00:00-03:00",
+      "dia": "2026-07-22",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "b4003b8d09aa3583",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Painel Descobrimento é cedido para exposição no Museu Nacional da China",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21203/nota",
+      "resumo": "A obra integra o conjunto de 12 painéis da coleção Cenas Brasileiras, em que Portinari aborda a formação da identidade brasileira.",
+      "publicado_em": "2026-07-22T17:33:35-03:00",
+      "dia": "2026-07-22",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "acao",
+        "exposicao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "02d0f8b56f4546d4",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 promove painel sobre saúde e ergonomia",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-promove-painel-sobre-saude-e-ergonomia",
+      "resumo": "",
+      "publicado_em": "2026-07-21T12:00:00-03:00",
+      "dia": "2026-07-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "6c1128b66bbaffef",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD divulga resultado final das inscrições do 4º Prêmio Danilo Doneda",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-divulga-resultado-final-das-inscricoes-do-4o-premio-danilo-doneda",
+      "resumo": "Também foi publicado, no Diário Oficial, a composição da comissão julgadora desta edição da premiação. A análise técnica dos artigos vai até 17 de setembro",
+      "publicado_em": "2026-07-21T11:32:45-03:00",
+      "dia": "2026-07-21",
+      "data_estimada": false,
+      "score": 44,
+      "tags": [
+        "julga",
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "a68940f586026087",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Exposição itinerante sobre origens quilombolas chega ao Fórum Trabalhista Ruy Barbosa",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/exposicao-itinerante-sobre-origens-quilombolas-chega-ao-forum-trabalhista-ruy-barbosa",
+      "resumo": "",
+      "publicado_em": "2026-07-20T12:00:00-03:00",
+      "dia": "2026-07-20",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "trabalhista",
+        "exposicao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "bfb44b047df6cd0d",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Vítima de assédio moral obtém rescisão indireta após dispensa por abandono de emprego",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/vitima-de-assedio-moral-obtem-rescisao-indireta-apos-dispensa-por-abandono-de-emprego",
+      "resumo": "",
+      "publicado_em": "2026-07-20T12:00:00-03:00",
+      "dia": "2026-07-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "246d24ac1d0cd774",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal informa parada programada do Sistema de Leilão Eletrônico",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-informa-parada-programada-do-sistema-de-leilao-eletronico",
+      "resumo": "Serviço ficará indisponível no dia 23 de julho de 2026, das 6h às 16h, para implantação do CNPJ Alfanumérico",
+      "publicado_em": "2026-07-20T16:54:16-03:00",
+      "dia": "2026-07-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "79920bbe811bee86",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade instaura processo administrativo sobre condutas anticompetitivas no mercado internacional de fragrâncias",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-instaura-processo-administrativo-sobre-condutas-anticompetitivas-no-mercado-internacional-de-fragrancias",
+      "resumo": "",
+      "publicado_em": "2026-07-17T12:00:00-03:00",
+      "dia": "2026-07-17",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "processo"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "b82c905366853b82",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça concede teletrabalho integral e redução de jornada a empregada com TEA",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-concede-teletrabalho-integral-e-reducao-de-jornada-a-empregada-com-tea",
+      "resumo": "",
+      "publicado_em": "2026-07-16T12:00:00-03:00",
+      "dia": "2026-07-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "c3a912c2d3929ce5",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "2ª Região abre cadastramento para advogados(as) dativos(as)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2a-regiao-abre-cadastramento-para-advogadosas-dativosas",
+      "resumo": "",
+      "publicado_em": "2026-07-16T12:00:00-03:00",
+      "dia": "2026-07-16",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "advogado"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "de26af1beceb5e84",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "PJe está temporariamente indisponível",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pje-esta-temporariamente-indisponivel",
+      "resumo": "",
+      "publicado_em": "2026-07-16T12:00:00-03:00",
+      "dia": "2026-07-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "ce5796ef82fc87f8",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Dia Nacional da Proteção de Dados é comemorado nesta sexta-feira (17)",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/dia-nacional-da-protecao-de-dados-e-comemorado-nesta-sexta-feira-17",
+      "resumo": "Data foi estabelecida em 2025, em homenagem ao professor Danilo Doneda, que atuou na criação da LGPD. Neste mês, ANPD promove dois eventos alusivos à data",
+      "publicado_em": "2026-07-16T19:46:48-03:00",
+      "dia": "2026-07-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [
+        "lgpd",
+        "protecao de dados",
+        "acao",
+        "homenagem",
+        "comemora"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "5553946bd0802920",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Credores de precatórios dos municípios de São Paulo podem celebrar acordo de pagamento até 28/7",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/credores-de-precatorios-dos-municipios-de-sao-paulo-podem-celebrar-acordo-de-pagamento-ate-28-7",
+      "resumo": "",
+      "publicado_em": "2026-07-15T12:00:00-03:00",
+      "dia": "2026-07-15",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "precatorio"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "e09be415470c28b0",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Processo seletivo para vaga de liderança da equipe da Seção de Apoio à Gestão Estratégica de Pessoas (Sagep)",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/processo-seletivo-para-vaga-de-lideranca-da-equipe-da-secao-de-apoio-a-gestao-estrategica-de-pessoas-sagep",
+      "resumo": "",
+      "publicado_em": "2026-07-15T12:00:00-03:00",
+      "dia": "2026-07-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "2c986f7438c28a32",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Encerradas inscrições para participação presencial no 3º Encontro ANPD de Encarregados",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/encerradas-inscricoes-para-o-3-encontro-anpd-encarregados",
+      "resumo": "Evento será realizado presencialmente no dia 19 de agosto, no auditório do DNIT, em Brasília, e transmitido ao vivo pelo canal da Agência no Youtube",
+      "publicado_em": "2026-07-15T17:35:00-03:00",
+      "dia": "2026-07-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "fe324f856b984cc6",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "PJe e SisconDJ ficam indisponíveis neste sábado (18/7)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pje-e-siscondj-ficam-indisponiveis-neste-sabado-18-7",
+      "resumo": "",
+      "publicado_em": "2026-07-14T12:00:00-03:00",
+      "dia": "2026-07-14",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "5952985ed46a4d52",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Comando para IA oculto em contestação gera multa por litigância de má-fé a advogados",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/comando-para-ia-oculto-em-contestacao-gera-multa-por-litigancia-de-ma-fe-a-advogados",
+      "resumo": "",
+      "publicado_em": "2026-07-14T12:00:00-03:00",
+      "dia": "2026-07-14",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "multa",
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "2cde104da9d8a7c6",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade abre vaga de estágio na Coordenação Geral de Análise Antitruste 1 (CGAA1)",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-abre-vaga-de-estagio-na-coordenacao-geral-de-analise-antitruste-1-cgaa1-1",
+      "resumo": "",
+      "publicado_em": "2026-07-14T12:00:00-03:00",
+      "dia": "2026-07-14",
+      "data_estimada": true,
+      "score": 41,
+      "tags": [
+        "cade",
+        "itr",
+        "acao",
+        "vaga de estagio"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "8833990741aab220",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD publica versão em inglês do Glossário de Proteção de Dados Pessoais e Privacidade",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-versao-em-ingles-do-glossario-de-protecao-de-dados-pessoais-e-privacidade",
+      "resumo": "Documento traduz os termos técnicos utilizados pela Agência e é voltado a entidades e especialistas internacionais",
+      "publicado_em": "2026-07-14T15:55:46-03:00",
+      "dia": "2026-07-14",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "9ef20247d8d68857",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Expediente no Fórum Trabalhista de Cubatão-SP é suspenso por falta de energia elétrica",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/expediente-no-forum-trabalhista-de-cubatao-sp-e-suspenso-por-falta-de-energia-eletrica",
+      "resumo": "",
+      "publicado_em": "2026-07-13T12:00:00-03:00",
+      "dia": "2026-07-13",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "350417fc73c775d2",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Interdição do Tribunal Pleno segue até 24 de julho",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/interdicao-do-tribunal-pleno-segue-ate-24-de-julho",
+      "resumo": "",
+      "publicado_em": "2026-07-13T12:00:00-03:00",
+      "dia": "2026-07-13",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "859308d638c66473",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Sentença não reconhece fraude em pejotização de apresentadores, narradores e comentaristas",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/sentenca-nao-reconhece-fraude-em-pejotizacao-de-apresentadores-narradores-e-comentaristas",
+      "resumo": "",
+      "publicado_em": "2026-07-13T12:00:00-03:00",
+      "dia": "2026-07-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "7d39cc4030c4df38",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade abre duas vagas de estágio na Coordenação-Geral de Tecnologia da Informação",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-abre-duas-vagas-de-estagio-para-coordenacao-geral-de-tecnologia-da-informacao-cgti",
+      "resumo": "",
+      "publicado_em": "2026-07-13T12:00:00-03:00",
+      "dia": "2026-07-13",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "e81811abd50430d0",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD publica resultado preliminar das inscrições do 4º Prêmio Danilo Doneda de Artigos Científicos",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-lista-de-inscricoes-homologadas-do-4o-premio-danilo-doneda-de-artigos-cientificos",
+      "resumo": "Foram recebidos 71 artigos científicos e o certame avança para mais uma etapa seguindo o cronograma previsto no edital. O período para recursos vai de segunda (13) a quarta-feira (15)",
+      "publicado_em": "2026-07-10T12:01:26-03:00",
+      "dia": "2026-07-10",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "liminar",
+        "recurso",
+        "premio"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "8bd7518c825c9b11",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "Defeso Eleitoral 2026",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/defeso-eleitoral-2026",
+      "resumo": "",
+      "publicado_em": "2026-07-09T12:00:00-03:00",
+      "dia": "2026-07-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "278fae0b06ba0545",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Inscrições para o 3º Encontro ANPD de Encarregados começam dia 15 de julho",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/inscricoes-encontro-anpd-encarregados-abrem-15-julho",
+      "resumo": "Evento será realizado no dia 19 de agosto, no auditório do DNIT, em Brasília, e contará com transmissão ao vivo",
+      "publicado_em": "2026-07-09T17:33:00-03:00",
+      "dia": "2026-07-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "6de4c55a509d2eb7",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Suspensão das atividades presenciais no Fórum de Osasco-SP é prorrogada até 30/9; audiências seguem telepresenciais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/suspensao-das-atividades-presenciais-no-forum-de-osasco-sp-e-prorrogada-ate-30-9-audiencias-seguem-telepresenciais",
+      "resumo": "",
+      "publicado_em": "2026-07-08T12:00:00-03:00",
+      "dia": "2026-07-08",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "prorrogad"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "1a886fb90f117c99",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Uso de celular corporativo para envio de mensagens discriminatórias gera justa causa",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/uso-de-celular-corporativo-para-envio-de-mensagens-discriminatorias-gera-justa-causa",
+      "resumo": "",
+      "publicado_em": "2026-07-08T12:00:00-03:00",
+      "dia": "2026-07-08",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "7cbb3133001be75c",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade abre processo seletivo para dois servidores públicos federais atuarem na Coordenação-Geral de Orçamento, Finanças e Logística",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-seleciona-servidor-publico-federal-para-atuar-na-coordenacao-geral-de-orcamento-financas-e-logistica",
+      "resumo": "",
+      "publicado_em": "2026-07-08T12:00:00-03:00",
+      "dia": "2026-07-08",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "cade",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "db0cc7922dcafc39",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD instaura processo de sanção contra OS por falha na proteção de dados de 500 mil pacientes",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-instaura-processo-de-sancao-contra-organizacao-social-por-falha-na-protecao-de-dados-de-500-mil-pacientes-de-unidades-publicas-de-saude",
+      "resumo": "Ataque cibernético expôs dados sensíveis de pacientes de unidades geridas pelo Instituto Saúde e Cidadania (Isac), que atua na gestão de unidades de saúde em vários estados brasileiros",
+      "publicado_em": "2026-07-08T11:40:13-03:00",
+      "dia": "2026-07-08",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "sancao",
+        "protecao de dados",
+        "processo"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "485bf72a41a68e58",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça do Trabalho condena instituição financeira por ofensas e ameaças de agressão física",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-do-trabalho-condena-instituicao-financeira-por-ofensas-e-ameacas-de-agressao-fisica",
+      "resumo": "",
+      "publicado_em": "2026-07-07T12:00:00-03:00",
+      "dia": "2026-07-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "23f7bca3928df390",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Lançado o edital para nova edição do PinCade",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-lanca-edital-para-nova-edicao-do-pincade",
+      "resumo": "",
+      "publicado_em": "2026-07-07T12:00:00-03:00",
+      "dia": "2026-07-07",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "9c21c9fd97c28f5d",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD e PNUD selecionam consultores para realização de estudos sobre IA, proteção de dados e publicidade digital voltada a crianças e adolescentes",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-e-pnud-selecionam-consultores-para-realizacao-de-estudos-sobre-ia-protecao-de-dados-e-publicidade-digital-voltada-a-criancas-e-adolescentes",
+      "resumo": "Os interessados devem apresentar candidaturas individuais, conforme os requisitos previstos nos cinco editais, a partir desta terça-feira (07) até 26 de julho. O trabalho terá duração prevista de até 120 dias",
+      "publicado_em": "2026-07-07T14:49:56-03:00",
+      "dia": "2026-07-07",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "protecao de dados",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "1b15e69ae3c0b5fb",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Autodeclaração de empregado como pessoa negra não afasta injúria racial cometida contra colega",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/autodeclaracao-de-empregado-como-pessoa-negra-nao-afasta-injuria-racial-cometida-contra-colega",
+      "resumo": "",
+      "publicado_em": "2026-07-06T12:00:00-03:00",
+      "dia": "2026-07-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "f4495c322b9a544d",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 recebe Selo Ouro por inventários de emissões de gases de efeito estufa",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-recebe-selo-ouro-por-inventarios-de-emissoes-de-gases-de-efeito-estufa",
+      "resumo": "",
+      "publicado_em": "2026-07-03T12:00:00-03:00",
+      "dia": "2026-07-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "f0d3caecb2eb64ec",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Feriados de julho suspendem atendimento em unidades da 2ª Região",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/feriados-de-julho-suspendem-atendimento-em-unidades-da-2a-regiao",
+      "resumo": "",
+      "publicado_em": "2026-07-03T12:00:00-03:00",
+      "dia": "2026-07-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "b95614d04315e4eb",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM adequa canais de comunicação para cumprir normas do período eleitoral",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/cvm-adequa-canais-de-comunicacao-para-cumprir-normas-do-periodo-eleitoral",
+      "resumo": "Comentários das redes sociais estarão desativados até o fim das eleições",
+      "publicado_em": "2026-07-03T19:00:34-03:00",
+      "dia": "2026-07-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "8359e11795b4fdfd",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Ecossistema de duplicatas escriturais: títulos de crédito passarão a ser negociados em formato digital",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21194/nota",
+      "resumo": "Novo modelo substitui o formato físico por registros eletrônicos padronizados e rastreáveis. Objetivo é reduzir assimetrias de informação e dar maior segurança operacional e jurídica às operações.",
+      "publicado_em": "2026-07-03T10:54:54-03:00",
+      "dia": "2026-07-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "6a48b226ad1c7d8e",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD conclui monitoramento de encarregados de dados e vai avaliar sanção a 21 empresas e órgãos públicos",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-conclui-monitoramento-avaliar-sancao-empresas-orgaos-publicos",
+      "resumo": "Entidades que não atenderam solicitações de adequação relacionadas aos agentes de tratamento de dados podem sofrer sanção. Outras 27 empresas e órgãos se adequaram em razão da atuação da Agência",
+      "publicado_em": "2026-07-03T16:34:00-03:00",
+      "dia": "2026-07-03",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "sancao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "7c949156e9f79bc0",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Site e redes sociais da ANPD ficarão restritos no período do defeso eleitoral",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/site-e-redes-sociais-da-anpd-ficarao-restritos-no-periodo-do-defeso-eleitoral",
+      "resumo": "Apenas publicações estritamente informativas e de serviço público continuarão a ser disponibilizadas nos canais institucionais. Páginas de transparência ativa e canais de denúncia seguem funcionando",
+      "publicado_em": "2026-07-03T10:53:00-03:00",
+      "dia": "2026-07-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "cedfd4604901a5e1",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Farmácia deve indenizar por furto de motocicleta em estacionamento utilizado durante a jornada",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/farmacia-deve-indenizar-por-furto-de-motocicleta-em-estacionamento-utilizado-durante-a-jornada",
+      "resumo": "",
+      "publicado_em": "2026-07-02T12:00:00-03:00",
+      "dia": "2026-07-02",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "indenizar"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "1f277aad6a036ae9",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade adequa comunicação institucional para cumprimento de regras eleitorais",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-adequa-comunicacao-institucional-para-cumprimento-de-regras-eleitorais",
+      "resumo": "",
+      "publicado_em": "2026-07-02T12:00:00-03:00",
+      "dia": "2026-07-02",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "d088bf13b75b4ad8",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Publicados primeiros resultados do Sandbox Regulatório em Inteligência Artificial",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/publicados-primeiros-resultados-do-sandbox-regulatorio-em-inteligencia-artificial",
+      "resumo": "Projeto-piloto da ANPD acompanha três empresas de tecnologia para testar projetos inovadores em ambiente regulado",
+      "publicado_em": "2026-07-02T09:47:00-03:00",
+      "dia": "2026-07-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "0a4891887193ed47",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 suspende processos relacionados a interrupção da prescrição e horas extras de professorado",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-suspende-processos-relacionados-a-interrupcao-da-prescricao-e-horas-extras-de-professorado",
+      "resumo": "",
+      "publicado_em": "2026-07-01T12:00:00-03:00",
+      "dia": "2026-07-01",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "prescricao",
+        "processo"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "f2046fcf53ab78f6",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 confirma justa causa de motorista que abandonou caminhão e ofendeu superior",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-confirma-justa-causa-de-motorista-que-abandonou-caminhao-e-ofendeu-superior",
+      "resumo": "",
+      "publicado_em": "2026-07-01T12:00:00-03:00",
+      "dia": "2026-07-01",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "1c783859a9a9d6f3",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "PJe e outros sistemas ficam indisponíveis neste domingo (5/7)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pje-e-outros-sistemas-ficam-indisponiveis-neste-domingo-5-7",
+      "resumo": "",
+      "publicado_em": "2026-07-01T12:00:00-03:00",
+      "dia": "2026-07-01",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "5f8a48c6488c48b4",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade aprova aquisição de 50% da Mitsubishi Fuso pela Foxconn",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-aprova-aquisicao-de-50-da-mitsubishi-fuso-pela-foxconn-1",
+      "resumo": "",
+      "publicado_em": "2026-07-01T12:00:00-03:00",
+      "dia": "2026-07-01",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "cade",
+        "aprova"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "b1a896a9cc781ac7",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade lança estudo sobre desafios concorrenciais no mercado de delivery de comida",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-lanca-estudo-sobre-desafios-concorrenciais-no-mercado-de-delivery-de-comida",
+      "resumo": "",
+      "publicado_em": "2026-07-01T12:00:00-03:00",
+      "dia": "2026-07-01",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "0a3a1c7a5cb2aef7",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Revista de Defesa da Concorrência publica primeira edição de 2026",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/revista-de-defesa-da-concorrencia-publica-primeira-edicao-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-07-01T12:00:00-03:00",
+      "dia": "2026-07-01",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "850210d8cedca426",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Tem início a 268ª sessão de julgamento do Cade",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/tem-inicio-a-268a-sessao-de-julgamento-do-cade",
+      "resumo": "",
+      "publicado_em": "2026-07-01T12:00:00-03:00",
+      "dia": "2026-07-01",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "julgamento",
+        "julga",
+        "cade"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "cedad098a16d65ab",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "BC amplia acesso a contas em moeda estrangeira e moderniza a regulação cambial no país",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21191/nota",
+      "resumo": "Medida busca reduzir custos, simplificar operações e dar mais eficiência aos negócios internacionais. Norma preserva restrições ao uso de moeda estrangeira no país e não afeta a taxa de câmbio.",
+      "publicado_em": "2026-07-01T09:45:15-03:00",
+      "dia": "2026-07-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "6aff26421b43dcb0",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Anamatra recebe até 6 de julho inscrições para prêmio de direitos humanos",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/anamatra-recebe-ate-6-de-julho-inscricoes-para-premio-de-direitos-humanos",
+      "resumo": "",
+      "publicado_em": "2026-06-30T12:00:00-03:00",
+      "dia": "2026-06-30",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "7697ec161888324d",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça condena por comportamento gordofóbico e sexista",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-condena-por-comportamento-gordofobico-e-sexista",
+      "resumo": "",
+      "publicado_em": "2026-06-30T12:00:00-03:00",
+      "dia": "2026-06-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "4c8cbd4cea07d6d6",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD abre tomada de subsídios sobre novas regras aplicáveis às plataformas digitais",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/copy_of_anpd-abre-tomada-de-subsidios-sobre-novas-regras-aplicaveis-as-plataformas-digitais",
+      "resumo": "A partir desta terça (30), sociedade ajudará a definir prioridades regulatórias relacionadas aos direitos dos usuários, aos deveres das plataformas digitais e à proteção das mulheres no ambiente digital",
+      "publicado_em": "2026-06-30T10:15:16-03:00",
+      "dia": "2026-06-30",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "novas regras"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "06f5308faad52320",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Leilões do 2º semestre iniciam em 14/7; veja como participar",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/leiloes-do-2o-semestre-iniciam-em-14-7-veja-como-participar",
+      "resumo": "",
+      "publicado_em": "2026-06-29T12:00:00-03:00",
+      "dia": "2026-06-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "901b191562cc37eb",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Tribunal Pleno passa por nova interdição de 9 a 24 de julho",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/tribunal-pleno-passa-por-nova-interdicao-de-9-a-24-de-julho",
+      "resumo": "",
+      "publicado_em": "2026-06-29T12:00:00-03:00",
+      "dia": "2026-06-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "a4d83cbe1c4330e9",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Circuito Indispensável: etapa na região do ABC completa as visitas às jurisdições do TRT-2",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/circuito-indispensavel-etapa-na-regiao-do-abc-completa-as-visitas-as-jurisdicoes-do-trt-2",
+      "resumo": "",
+      "publicado_em": "2026-06-29T12:00:00-03:00",
+      "dia": "2026-06-29",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "b86560457db05024",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Sistema PJe tem apresentado instabilidade após atualização; veja as providências do TRT-2",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/sistema-pje-tem-apresentado-instabilidade-apos-atualizacao-veja-as-providencias-do-trt-2",
+      "resumo": "",
+      "publicado_em": "2026-06-26T12:00:00-03:00",
+      "dia": "2026-06-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "1bb35beea06589db",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Consulta pública para contribuições ao Guia de Transparência e Proteção de Dados Pessoais é prorrogada",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/consulta-publica-contribuicoes-guia-transparencia-protecao-de-dados-pessoais-prorrogada",
+      "resumo": "ANPD e CGU estendem o prazo da consulta até 24 de julho. Documento vai orientar órgãos e entidades sobre o acesso a informações pessoais, compatibilizando a aplicação da LAI e da LGPD",
+      "publicado_em": "2026-06-26T16:11:00-03:00",
+      "dia": "2026-06-26",
+      "data_estimada": false,
+      "score": 96,
+      "tags": [
+        "prorrogad",
+        "prazo",
+        "lgpd",
+        "protecao de dados",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "692e90b45e38c338",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD sediará Encontros Lusófono e Internacional de Proteção de Dados em julho",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-sediara-encontros-lusofono-e-internacional-de-protecao-de-dados-em-julho-inscricoes-para-o-publico-ja-estao-abertas",
+      "resumo": "Eventos conjuntos em Brasília reunirão autoridades de países de língua portuguesa para debater inteligência artificial, biometria e o fortalecimento de direitos fundamentais no ambiente digital",
+      "publicado_em": "2026-06-26T12:30:00-03:00",
+      "dia": "2026-06-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "cd0dd2acc0b57585",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "2ª Região altera expediente da segunda-feira (29/6)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2a-regiao-altera-expediente-da-proxima-segunda-feira-29-6",
+      "resumo": "",
+      "publicado_em": "2026-06-25T12:00:00-03:00",
+      "dia": "2026-06-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "81e5cf7cf71048ef",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 visita escola em ação contra o trabalho infantil",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-visita-escola-em-acao-contra-o-trabalho-infantil",
+      "resumo": "",
+      "publicado_em": "2026-06-25T12:00:00-03:00",
+      "dia": "2026-06-25",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "b0c08737dbc481cd",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Sentença confirma justa causa de trabalhador que proferiu ofensas racistas contra colega",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-confirma-justa-causa-de-trabalhador-que-proferiu-ofensas-racistas-contra-colega",
+      "resumo": "",
+      "publicado_em": "2026-06-25T12:00:00-03:00",
+      "dia": "2026-06-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "552358bdd96ec884",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Defesa da Justiça do Trabalho, pejotização e fim da escala 6x1 são debatidos em evento realizado no Fórum Ruy Barbosa",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/defesa-da-justica-do-trabalho-pejotizacao-e-fim-da-escala-6x1-sao-debatidos-em-evento-realizado-no-forum-ruy-barbosa",
+      "resumo": "",
+      "publicado_em": "2026-06-24T12:00:00-03:00",
+      "dia": "2026-06-24",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "85372011e4b43c92",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 reforça ações de combate ao assédio e discriminação",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-reforca-acoes-de-combate-ao-assedio-e-discriminacao",
+      "resumo": "",
+      "publicado_em": "2026-06-24T12:00:00-03:00",
+      "dia": "2026-06-24",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "b2bdcf39eb56f4cb",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Em posse no TRT-2, novos desembargadores defendem jurisdição humanizada e compromisso com a Justiça",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/solenidade-de-ratificacao-marca-posses-no-2o-grau-1",
+      "resumo": "",
+      "publicado_em": "2026-06-24T12:00:00-03:00",
+      "dia": "2026-06-24",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "7df33f508d66f016",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Vítima de tentativa de feminicídio deve ser indenizada por tratamento ríspido e não acolhedor de chefe",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/vitima-de-tentativa-de-feminicidio-deve-ser-indenizada-por-tratamento-rispido-e-nao-acolhedor-de-chefe",
+      "resumo": "",
+      "publicado_em": "2026-06-24T12:00:00-03:00",
+      "dia": "2026-06-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "afa35d291ece5ed2",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Café com Cejusc na Zona Leste promove diálogo sobre mediação",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/cafe-com-cejusc-na-zona-leste-promove-dialogo-sobre-mediacao",
+      "resumo": "",
+      "publicado_em": "2026-06-24T12:00:00-03:00",
+      "dia": "2026-06-24",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "4afc78224f8b4ec7",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Primeiro concurso público para carreira própria da ANPD é autorizado",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/copy_of_primeiro-concurso-publico-para-carreira-propria-da-anpd-e-autorizado",
+      "resumo": "MGI aprova realização de certame com 50 vagas para o cargo de Especialista em Regulação de Proteção de Dados, para compor o quadro permanente da Agência",
+      "publicado_em": "2026-06-24T15:22:30-03:00",
+      "dia": "2026-06-24",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "protecao de dados",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "3010d87fe21539be",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Acompanhe posse solene da desembargadora Carla Maria Hespanhol Lima e do desembargador Rui César Públio Borges Corrêa",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acompanhe-posse-solene-da-desembargadora-carla-maria-hespanhol-lima-e-do-desembargador-rui-cesar-publio-borges-correa",
+      "resumo": "",
+      "publicado_em": "2026-06-23T12:00:00-03:00",
+      "dia": "2026-06-23",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "7c0d7af288e6a154",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Revista do TRT-2 recebe artigos até 14 de setembro",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/revista-do-trt-2-recebe-artigos-ate-14-de-setembro",
+      "resumo": "",
+      "publicado_em": "2026-06-23T12:00:00-03:00",
+      "dia": "2026-06-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "281453e49445e6a5",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Auditoria Interna do BC obtém certificação internacional de excelência em auditoria",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21176/nota",
+      "resumo": "Certificação é o mais alto reconhecimento internacional da atividade de auditoria interna. Conquista evidencia a atuação estratégica da Auditoria do BC, com foco em riscos, tecnologia, dados e geração de valor. BC foi a primeira instituição do setor público brasileiro a obter a certificação do IIA B",
+      "publicado_em": "2026-06-23T17:12:15-03:00",
+      "dia": "2026-06-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "36809accd81d2731",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça do Trabalho Itinerante atende Rio Grande da Serra-SP",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-do-trabalho-itinerante-atende-rio-grande-da-serra-sp",
+      "resumo": "",
+      "publicado_em": "2026-06-22T12:00:00-03:00",
+      "dia": "2026-06-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "2405418eeadde842",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Congresso de magistrados(as) debate linguagem simples e construção da decisão judicial",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/congresso-de-magistradosas-debate-linguagem-simples-e-construcao-da-decisao-judicial",
+      "resumo": "",
+      "publicado_em": "2026-06-22T12:00:00-03:00",
+      "dia": "2026-06-22",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "decisao",
+        "judicial"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "3c64a92a474f333f",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "2ª Região altera horário de funcionamento na quarta-feira (24/6)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2a-regiao-altera-horario-de-funcionamento-na-quarta-feira-24-6",
+      "resumo": "",
+      "publicado_em": "2026-06-22T12:00:00-03:00",
+      "dia": "2026-06-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "a4bf6f809efbff3d",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Gerente que desviou recursos para apostar deve ressarcir empresa",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/gerente-que-desviou-recursos-para-apostar-deve-ressarcir-empresa",
+      "resumo": "",
+      "publicado_em": "2026-06-22T12:00:00-03:00",
+      "dia": "2026-06-22",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "2b0c4bb2793ed187",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "Novos editais de transação da PGFN estão disponíveis",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novos-editais-de-transacao-da-pgfn-estao-disponiveis",
+      "resumo": "",
+      "publicado_em": "2026-06-22T12:00:00-03:00",
+      "dia": "2026-06-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "d18d32cbf79b3668",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Mais eficiência nos pagamentos com o uso do Open Finance",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21170/nota",
+      "resumo": "Clientes poderão autorizar compartilhamento de saldo e limite de sua conta ao conectá-la no Pix por Aproximação. Jornada otimizada vai possibilitar visualização de saldo e limite da conta no momento da transação, entre outras soluções. Alterações entram em vigor hoje; leia a matéria e saiba mais sob",
+      "publicado_em": "2026-06-22T08:30:42-03:00",
+      "dia": "2026-06-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "9b38874a4323ad3b",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Ouvidoria da 2ª Região integra encontro temático no Espírito Santo",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/ouvidoria-da-2a-regiao-integra-encontro-tematico-no-espirito-santo",
+      "resumo": "",
+      "publicado_em": "2026-06-19T12:00:00-03:00",
+      "dia": "2026-06-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "d5cd68f7f08a5e14",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Modernização administrativa e gestão de riscos são destaques em encerramento de fórum de governança",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/modernizacao-administrativa-e-gestao-de-riscos-sao-destaques-em-encerramento-de-forum-de-governanca",
+      "resumo": "",
+      "publicado_em": "2026-06-19T12:00:00-03:00",
+      "dia": "2026-06-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "9c538e08a2ff1c5e",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Seminário discute avanço da precarização do trabalho no Brasil",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/seminario-debate-avanco-da-precarizacao-do-trabalho-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-06-19T12:00:00-03:00",
+      "dia": "2026-06-19",
+      "data_estimada": true,
+      "score": 36,
+      "tags": [
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "d4f71052c3179793",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "STF retira suspensão de processos sobre pejotização na primeira instância e nos TRTs",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/stf-retira-suspensao-de-processos-sobre-pejotizacao-na-primeira-instancia-e-nos-trts",
+      "resumo": "",
+      "publicado_em": "2026-06-19T12:00:00-03:00",
+      "dia": "2026-06-19",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "5919b7953a25d19b",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 promove campanha de vacinação contra a gripe",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-promove-campanha-de-vacinacao-contra-a-gripe",
+      "resumo": "",
+      "publicado_em": "2026-06-19T12:00:00-03:00",
+      "dia": "2026-06-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "92458d7104924b3e",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Pix por aproximação ganha mais flexibilidade e deixa de ter teto fixo de R$500",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21169/nota",
+      "resumo": "Nova regra equipara pagamentos por aproximação às demais formas de uso do Pix. Instituições terão até 1º de outubro para adaptar sistemas e implementar a mudança.",
+      "publicado_em": "2026-06-19T16:01:50-03:00",
+      "dia": "2026-06-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "80ead30d5d05bf29",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD começa o monitoramento de sites com conteúdo pornográfico",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/copy_of_anpd-monitoramento-sites-com-conteudo-pornografico-eca-digital",
+      "resumo": "Objetivo é verificar se empresas estão adotando medidas de restrição de acesso por crianças e adolescentes. Serão monitorados 18 sites de empresas que representam 98% do tráfego desse tipo de conteúdo",
+      "publicado_em": "2026-06-19T13:05:00-03:00",
+      "dia": "2026-06-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "2c5dcc90381ce48c",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "PJe e sistemas de informática ficam indisponíveis neste domingo (21/6)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pje-e-sistemas-de-tic-ficam-indisponiveis-neste-domingo-21-6",
+      "resumo": "",
+      "publicado_em": "2026-06-18T12:00:00-03:00",
+      "dia": "2026-06-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "4d3037553adef0eb",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Fórum de São Bernardo do Campo-SP sedia projeto “Circuito Indispensável TRT-2” da região do ABC paulista",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/forum-de-sao-bernardo-do-campo-sp-sedia-projeto-circuito-indispensavel-trt-2-da-regiao-do-abc-paulista",
+      "resumo": "",
+      "publicado_em": "2026-06-18T12:00:00-03:00",
+      "dia": "2026-06-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "355dc14d1f5e4557",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Trabalhador trans obtém rescisão indireta e indenização por desrespeito à identidade de gênero",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trabalhador-trans-obtem-rescisao-indireta-e-indenizacao-por-desrespeito-a-identidade-de-genero",
+      "resumo": "",
+      "publicado_em": "2026-06-18T12:00:00-03:00",
+      "dia": "2026-06-18",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "2835a2c6f0d48e47",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Evento discute direitos da natureza e proteção de povos originários",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/evento-discute-direitos-da-natureza-e-protecao-de-povos-originarios",
+      "resumo": "",
+      "publicado_em": "2026-06-17T12:00:00-03:00",
+      "dia": "2026-06-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "c8b98ac13c725b34",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça reconhece dispensa discriminatória de trabalhadora com baixa visão e condena empresa por assédio moral",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-reconhece-dispensa-discriminatoria-de-trabalhadora-com-baixa-visao-e-condena-empresa-por-assedio-moral",
+      "resumo": "",
+      "publicado_em": "2026-06-17T12:00:00-03:00",
+      "dia": "2026-06-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "24638aadd0bbe696",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "2ª Região sedia fórum nacional de governança das contratações",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2a-regiao-sedia-forum-nacional-de-governanca-das-contratacoes",
+      "resumo": "",
+      "publicado_em": "2026-06-16T12:00:00-03:00",
+      "dia": "2026-06-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "f07457c9bdbcda91",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Café com Cejusc debate estratégias para ampliar a conciliação e fortalecer a cultura da mediação em Guarulhos",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/cafe-com-cejusc-debate-estrategias-para-ampliar-a-conciliacao-e-fortalecer-a-cultura-da-mediacao-em-guarulhos",
+      "resumo": "",
+      "publicado_em": "2026-06-16T12:00:00-03:00",
+      "dia": "2026-06-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "afc84456622596dc",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Pix recebe registro de marca de alto renome",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21161/nota",
+      "resumo": "Pix é a primeira marca de titularidade de órgão público a receber a distinção. O usuário ganha proteção especial contra uso indevido da marca. Conheça pesquisa que subsidiou comprovação do reconhecimento da marca.",
+      "publicado_em": "2026-06-16T15:30:53-03:00",
+      "dia": "2026-06-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "3d721a48d2850164",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 participa de encontro de ouvidores(as) realizado em Fortaleza-CE",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-participa-de-encontro-de-ouvidoresas-realizado-em-fortaleza-ce",
+      "resumo": "",
+      "publicado_em": "2026-06-15T12:00:00-03:00",
+      "dia": "2026-06-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "1553f5a45f51f680",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Aprendizagem profissional é destaque em campanha da Justiça do Trabalho",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/aprendizagem-profissional-e-destaque-em-campanha-da-justica-do-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-06-15T12:00:00-03:00",
+      "dia": "2026-06-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "2a5ca42bd276e6b6",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Dispensa de trabalhador aposentado ou apto à aposentadoria configura etarismo e gera dever de indenizar",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/dispensa-de-trabalhador-aposentado-ou-apto-a-aposentadoria-configura-etarismo-e-gera-dever-de-indenizar",
+      "resumo": "",
+      "publicado_em": "2026-06-15T12:00:00-03:00",
+      "dia": "2026-06-15",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "indenizar"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "ae21c3342409f9bd",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "PGFN atualiza identidade visual de serviços",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/pgfn-atualiza-identidade-visual-de-servicos",
+      "resumo": "",
+      "publicado_em": "2026-06-15T12:00:00-03:00",
+      "dia": "2026-06-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "95169d64c46ce30a",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 amplia sala da advocacia no Fórum da Zona Sul",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-amplia-sala-da-advocacia-no-forum-da-zona-sul",
+      "resumo": "",
+      "publicado_em": "2026-06-12T12:00:00-03:00",
+      "dia": "2026-06-12",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "c0c87c088cd5d1f1",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Educação financeira é central para ampliar autonomia da população, diz diretora do BC",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21160/nota",
+      "resumo": "Diretora Izabela Correa destacou educação financeira como elemento central para ampliar a autonomia da população brasileira. Banco Central tem reforçado a atuação em educação financeira, com avanço do programa Aprender Valor e expansão para o ensino médio.  Encontro de Educação Financeira debateu de",
+      "publicado_em": "2026-06-12T17:41:09-03:00",
+      "dia": "2026-06-12",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "ed5f7ce993a02074",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD inicia monitoramento da adequação de lojas de aplicativos e sistemas operacionais ao ECA Digital",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/copy_of_anpd-monitoramento-lojas-de-aplicativos-sistemas-operacionais",
+      "resumo": "Objetivo é acompanhar a implementação das obrigações relacionadas à aferição de idade e à disponibilização de sinais de idade previstas no ECA Digital",
+      "publicado_em": "2026-06-10T15:00:00-03:00",
+      "dia": "2026-06-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "1db079c2375c0536",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "Regularize muda acesso de pessoa física",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/regularize-muda-acesso-de-pessoa-fisica",
+      "resumo": "",
+      "publicado_em": "2026-06-08T12:00:00-03:00",
+      "dia": "2026-06-08",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "40411a6bc96787bf",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD inicia processo para sancionar Claro por irregularidades no compartilhamento de dados pessoais de clientes com a Serasa",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/copy_of_anpd-inicia-processo-para-sancionar-claro-por-irregularidades-no-compartilhamento-de-dados-pessoais-de-clientes-com-a-serasa",
+      "resumo": "Operadora de celular responderá a processo administrativo sancionador, enquanto empresa de análise de crédito será alvo de nova fiscalização sobre transparência e direitos dos titulares de dados",
+      "publicado_em": "2026-06-08T13:30:03-03:00",
+      "dia": "2026-06-08",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "ab7c0fd0c5112757",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "PGFN torna público leilão de direitos e ativos minerários",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/pgfn-torna-publico-leilao-de-direitos-e-ativos-minerarios",
+      "resumo": "",
+      "publicado_em": "2026-06-03T12:00:00-03:00",
+      "dia": "2026-06-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "d8f132c7ed9c5872",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Banco Central divulga relatório com produção e atividades de pesquisa em 2025",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21151/nota",
+      "resumo": "RPEF destaca a publicação de 29 artigos na série Trabalhos para Discussão. Documento também apresenta o lançamento da Agenda de Pesquisa 2026-2029. Relatório reforça a importância da produção acadêmica para subsidiar a formulação de políticas públicas.",
+      "publicado_em": "2026-06-01T11:03:13-03:00",
+      "dia": "2026-06-01",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "82c965a7516eac4a",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD lança canal exclusivo para denúncias de descumprimento do ECA Digital",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/copy_of_anpd-lanca-canal-exclusivo-para-denuncias-de-descumprimento-do-eca-digital",
+      "resumo": "Agência cria página onde cidadãos podem reportar irregularidades e falta de mecanismos de proteção para crianças e adolescentes em plataformas e sites. Objetivo é fortalecer a fiscalização do novo marco legal",
+      "publicado_em": "2026-06-01T17:34:35-03:00",
+      "dia": "2026-06-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "2ca38ffbad2809dd",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Usuários externos podem acessar o SEI com login do gov.br",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/atualizacao-acesso-externo-sei",
+      "resumo": "Sistema Eletrônico de Informações passou por mudanças para facilitar a utilização do serviço por usuários externos e agora não precisa de cadastro manual prévio",
+      "publicado_em": "2026-05-26T12:44:00-03:00",
+      "dia": "2026-05-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "1b83bd7fac7e5049",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Veja como foi: BC promoveu evento sobre o fortalecimento do bem-estar financeiro das mulheres",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21139/nota",
+      "resumo": "Debate discutiu políticas e iniciativas para maior equidade no sistema financeiro. Não conseguiu assistir ao vivo? Leia a matéria e acesse o link do evento.",
+      "publicado_em": "2026-05-22T16:44:28-03:00",
+      "dia": "2026-05-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "68dc371b5ed4b0c5",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD abre Tomada de Subsídios sobre o Guia Orientativo “Mecanismos de Aferição de Idade”",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/copy_of_anpd-tomada-de-subsidios-afericao-idade",
+      "resumo": "As contribuições serão recebidas até o dia 09 de julho, por meio da plataforma Brasil Participativo. A consulta visa atualizar as Orientações Preliminares sobre o tema",
+      "publicado_em": "2026-05-22T10:43:00-03:00",
+      "dia": "2026-05-22",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "liminar"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "9e5762f64ad91666",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "BC divulga IBCR com dados de mais quatro estados",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21134/nota",
+      "resumo": "Maranhão, Mato Grosso, Mato Grosso do Sul e Rio Grande do Norte passam a integrar o indicador. Com a inclusão, o Índice de Atividade Econômica Regional passa a abranger dezessete estados.  Indicador mensal contribui para a compreensão da evolução da atividade econômica nacional.",
+      "publicado_em": "2026-05-20T16:50:22-03:00",
+      "dia": "2026-05-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
 };
