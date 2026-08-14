@@ -26,32 +26,13 @@ jobs:
       - name: Instalar dependências
         run: pip install -r requirements.txt
 
-      - name: Preparar config.local.yml (SMTP do alerta da Receita Federal)
-        env:
-          SMTP_USUARIO: ${{ secrets.SMTP_USUARIO }}
-          SMTP_SENHA: ${{ secrets.SMTP_SENHA }}
-          RFB_DESTINATARIOS: ${{ secrets.RFB_DESTINATARIOS }}
-        run: |
-          python3 - <<'PYEOF'
-          import os
-          import yaml
-
-          destinatarios = [e.strip() for e in os.environ.get("RFB_DESTINATARIOS", "").split(",") if e.strip()]
-          cfg = {
-              "smtp": {
-                  "host": "smtp.office365.com",
-                  "porta": 587,
-                  "usuario": os.environ["SMTP_USUARIO"],
-                  "senha": os.environ["SMTP_SENHA"],
-                  "remetente": os.environ["SMTP_USUARIO"],
-              },
-              "alerta_rfb": {"destinatarios": destinatarios},
-          }
-          with open("config.local.yml", "w", encoding="utf-8") as f:
-              yaml.safe_dump(cfg, f, allow_unicode=True)
-          PYEOF
-
-      - name: Rodar coletor (já dispara o alerta da Receita Federal se houver novidade)
+      - name: Rodar coletor
+        # Sem config.local.yml, o coletor pula sozinho o e-mail automático da
+        # Receita Federal e segue normal — o banner vermelho na página
+        # continua avisando de qualquer forma. Se um dia vocês quiserem
+        # ligar o e-mail automático, é só recriar o passo que gera
+        # config.local.yml com os segredos SMTP_USUARIO/SMTP_SENHA/
+        # RFB_DESTINATARIOS cadastrados no repositório.
         run: python -m coletor.fetch --dias 90
 
       - name: Publicar dados atualizados (aciona o redeploy automático no Vercel)
