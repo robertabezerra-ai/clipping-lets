@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-17T15:21:21-03:00",
+  "gerado_em": "2026-08-17T17:17:47-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,14 +161,14 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 19,
       "erro": null
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -298,6 +298,34 @@ window.DADOS = {
       "coletado_em": "2026-08-17T15:21:21-03:00"
     },
     {
+      "id": "9428e079d33dedb6",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Presidente do TST, ministro Vieira de Mello Filho, participa em Campinas de congresso do TRT-15 que debate desafios atuais das relações de trabalho",
+      "link": "https://trt15.jus.br/noticia/2026/presidente-do-tst-ministro-vieira-de-mello-filho-participa-em-campinas-de-congresso-do",
+      "resumo": "Presidente do TST, ministro Vieira de Mello Filho, participa em Campinas de congresso do TRT-15 que debate desafios atuais das relações de trabalho anasiqueira Seg, 17/08/2026 - 16:47 Presidente do TST, ministro Vieira de Mello Filho, participa em Campinas de congresso do TRT-15 que debate desafios ",
+      "publicado_em": "2026-08-17T16:47:46-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "57b37211d69fb28c",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Câmara dos Deputados celebra os 40 anos do TRT-15 em sessão solene na quarta-feira, 19/8",
+      "link": "https://trt15.jus.br/noticia/2026/camara-dos-deputados-celebra-os-40-anos-do-trt-15-em-sessao-solene-na-quarta-feira-198",
+      "resumo": "Câmara dos Deputados celebra os 40 anos do TRT-15 em sessão solene na quarta-feira, 19/8 anasiqueira Seg, 17/08/2026 - 16:00 Câmara dos Deputados celebra os 40 anos do TRT-15 em sessão solene na quarta-feira, 19/8 Conteúdo da Notícia A Câmara dos Deputados realiza, na quarta-feira, 19/8, às 11h, ses",
+      "publicado_em": "2026-08-17T16:00:44-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-12T15:14:18-03:00"
+    },
+    {
       "id": "b7ec498a6ee5d19e",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -348,6 +376,40 @@ window.DADOS = {
       "coletado_em": "2026-08-17T15:21:21-03:00"
     },
     {
+      "id": "f0380507bfb74219",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP realiza encontro sobre implantação do eproc na Seção de Direito Público",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115039&pagina=1",
+      "resumo": "Novo ciclo começa em 24 de agosto com unidades-piloto. \n \n\tO Tribunal de Justiça de São Paulo realizou, na quinta-feira (12), no Gade MMDC, evento híbrido",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "9dbd4c1c2a37cb02",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF afasta presidente do Tribunal de Contas do Maranhão por 180 dias",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-afasta-presidente-do-tribunal-de-contas-do-maranhao-por-180-dias/",
+      "resumo": "Decisão do ministro Flávio Dino atende a pedido da PF, que investiga suposta organização criminosa envolvida em desvio de recursos públicos",
+      "publicado_em": "2026-08-17T16:03:54-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "decisao",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
       "id": "d8694461021e84ef",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -381,6 +443,20 @@ window.DADOS = {
         "imposto"
       ],
       "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "de9acbb168663688",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Urna eletrônica: é preciso tomar cuidado com boatos e fake news",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/urna-eletronica-e-preciso-tomar-cuidado-com-boatos-e-fake-news",
+      "resumo": "",
+      "publicado_em": "2026-08-17T15:46:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
     },
     {
       "id": "6677eeff28b6eb82",
@@ -579,6 +655,50 @@ window.DADOS = {
       "coletado_em": "2026-08-17T15:21:21-03:00"
     },
     {
+      "id": "a39db8621dba0666",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Instituições discutem proteção do consumidor em encontro do Procon-ES",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/instituicoes-discutem-protecao-do-consumidor-em-encontro-do-procon-es",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "aa4b08e0ef74b479",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Como o SUS pode ajudar mães na amamentação exclusiva por leite materno até os 6 meses do bebê",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/brasil-registra-57-de-amamentacao-exclusiva-entre-bebes-de-ate-seis-meses-acompanhados-na-atencao-primaria-de-saude-do-sus",
+      "resumo": "",
+      "publicado_em": "2026-08-17T17:10:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "85663ec4bc5bc91c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Confira novas orientações para a 1ª etapa do Revalida 2026/2",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/confira-novas-orientacoes-para-a-1a-etapa-do-revalida-2026-2",
+      "resumo": "",
+      "publicado_em": "2026-08-17T15:07:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
       "id": "d1c80e8a4bd678e3",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -725,6 +845,20 @@ window.DADOS = {
       "coletado_em": "2026-08-17T12:31:26-03:00"
     },
     {
+      "id": "925be8cdb3cb07fd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Congresso instala comissão para analisar crédito a entregador por app",
+      "link": "https://www.congressoemfoco.com.br/noticia/121336/congresso-instala-comissao-para-analisar-credito-a-entregador-por-app",
+      "resumo": "Colegiado misto será presidido pela senadora Leila Barros; relatoria é da deputada Amanda Gentil.",
+      "publicado_em": "2026-08-17T15:49:32-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
       "id": "141506230f07abca",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -770,6 +904,40 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "28bdb57b8cd112b0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Casas Bahia: por que a recuperação judicial se tornou necessária",
+      "link": "https://www.congressoemfoco.com.br/artigo/121330/casas-bahia-por-que-a-recuperacao-judicial-se-tornou-necessaria",
+      "resumo": "Dois anos após recorrer à recuperação extrajudicial, varejista busca proteção judicial diante do agravamento da crise financeira e operacional.",
+      "publicado_em": "2026-08-17T12:35:32-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "recuperacao judicial",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "d850539e47423927",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Regular a IA sem capacidade de avaliação é legislar no escuro",
+      "link": "https://www.congressoemfoco.com.br/artigo/121329/regular-a-ia-sem-capacidade-de-avaliacao-e-legislar-no-escuro",
+      "resumo": "Leis e princípios não bastam: o Brasil precisa de laboratórios, protocolos e quadros técnicos capazes de testar sistemas de IA antes e depois de sua adoção.",
+      "publicado_em": "2026-08-17T12:22:54-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
     },
     {
       "id": "fe6c3d71ef33588f",
@@ -1004,6 +1172,175 @@ window.DADOS = {
       "coletado_em": "2026-08-17T08:30:27-03:00"
     },
     {
+      "id": "63f3fc56e719c159",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Conheça as seis ferramentas selecionadas no primeiro edital do Conecta",
+      "link": "https://www.cnj.jus.br/conheca-as-seis-ferramentas-selecionadas-no-primeiro-edital-do-conecta/",
+      "resumo": "O programa Conecta divulgou nesta segunda-feira (17/8) o resultado do primeiro Edital de Nacionalização de Soluções Tecnológicas desenvolvidas por tribunais brasileiros para serem compartilhadas em nível nacional. Ao todo, seis ferramentas de diferentes segmentos da Justiça foram escolhidas entre as",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "276ea0ad595f59d0",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJBA amplia alcance de ferramenta que identifica automaticamente óbitos de partes em processos",
+      "link": "https://www.cnj.jus.br/tjba-amplia-alcance-de-ferramenta-que-identifica-automaticamente-obitos-de-partes-em-processos/",
+      "resumo": "O Tribunal de Justiça do Estado da Bahia (TJBA) conta com uma nova versão do Robô de Identificação de Óbitos (RIC), ferramenta que verifica automaticamente o falecimento de partes envolvidas em processos judiciais. Desenvolvida pela Secretaria de Tecnologia da Informação e Modernização (SETIM), a so",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "processo",
+        "acao",
+        "falecimento"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "e48ab1f59508be81",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ e Ministério da Justiça lançam concurso de desenho sobre direitos de crianças e adolescentes no ambiente digital",
+      "link": "https://www.cnj.jus.br/cnj-e-ministerio-da-justica-lancam-concurso-de-desenho-sobre-direitos-de-criancas-e-adolescentes-no-ambiente-digital/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) e o Ministério da Justiça e Segurança Pública (MJSP) lançaram o concurso nacional de desenho “Conectados com Direitos: o ECA Digital tá on”, que convida crianças e adolescentes a expressarem, por meio da arte, como imaginam uma internet mais segura e protegida. P",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "c9c73f32b40e5b8a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ entrega Prêmio Juízo Verde a iniciativas de destaque na área ambiental",
+      "link": "https://www.cnj.jus.br/cnj-entrega-premio-juizo-verde-a-iniciativas-de-destaque-na-area-ambiental/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) anunciou, na sexta-feira (14), os vencedores do Prêmio Juízo Verde 2026, durante a 4ª edição do Judiciário Sustentável. A premiação reconhece iniciativas inovadoras voltadas à proteção do meio ambiente e ao aprimoramento da prestação jurisdicional na área ambient",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "04ddeb26237314a4",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Prêmio nacional valoriza decisões judiciais em defesa do meio ambiente",
+      "link": "https://www.cnj.jus.br/premio-nacional-valoriza-decisoes-judiciais-em-defesa-do-meio-ambiente/",
+      "resumo": "Estão abertas as inscrições para o II Concurso Nacional de Decisões Interlocutórias, Sentenças e Acórdãos sobre Meio Ambiente, promovido pelo Conselho Nacional de Justiça (CNJ). A premiação busca reconhecer magistrados e magistradas que tenham proferido decisões judiciais relevantes para a proteção ",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 44,
+      "tags": [
+        "acordao",
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "2ff7cefe794a3b4a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJAL inspeciona unidades do sistema prisional de Maceió",
+      "link": "https://www.cnj.jus.br/tjal-inspeciona-unidades-do-sistema-prisional-de-maceio/",
+      "resumo": "O Grupo de Monitoramento e Fiscalização do Sistema Carcerário (GMF) do Tribunal de Justiça de Alagoas (TJAL) realizou inspeções em unidades do sistema prisional de Maceió. A visita foi conduzida pelo desembargador Márcio Tenório e teve como objetivo verificar as condições das unidades e acompanhar a",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "7ff268567c6b51e0",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ e Colégio Notarial do Brasil assinam acordo para melhorias do Sistema Nacional de Precatórios",
+      "link": "https://www.cnj.jus.br/cnj-e-colegio-notarial-do-brasil-assinam-acordo-para-melhorias-do-sistema-nacional-de-precatorios/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) e o Colégio Notarial do Brasil/Conselho Federal (CNB/CF) firmaram um Termo de Cooperação Técnica voltado ao desenvolvimento colaborativo do Sistema Nacional de Precatórios e Requisições de Pequeno Valor (SisPreq) e à criação do Portal Nacional das Cessões de Créd",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "precatorio",
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "7d3bdadeaef19330",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Prêmio Pena Justa de Jornalismo e Comunicação encerra inscrições nesta segunda (17)",
+      "link": "https://www.cnj.jus.br/premio-pena-justa-de-jornalismo-e-comunicacao-encerra-inscricoes-nesta-segunda-17/",
+      "resumo": "Termina, nesta segunda-feira (17), o prazo para inscrições na primeira edição do Prêmio Pena Justa/CNJ de Jornalismo e Comunicação. Interessados têm até 23h59 de hoje para enviar seus trabalhos e concorrer à premiação, que reconhece produções que contribuam para ampliar e qualificar o debate público",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "prazo",
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "665a78f917849fc7",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Seminário na Enfam debate gênero na magistratura, justiça climática e povos indígenas",
+      "link": "https://www.cnj.jus.br/seminario-na-enfam-debate-genero-na-magistratura-justica-climatica-e-povos-indigenas/",
+      "resumo": "A Escola Nacional de Formação e Aperfeiçoamento de Magistrados (Enfam) recebe, no dia 21 de agosto, o seminário de lançamento dos relatórios “A Participação das Magistradas no Conselho Nacional de Justiça” e “Justiça Climática, Gênero e Povos Indígenas”. O evento será realizado na sede da Escola, em",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 36,
+      "tags": [
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "557047500b5e35d6",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ debate modelo nacional para grupos de responsabilização de homens autores de violência",
+      "link": "https://www.cnj.jus.br/cnj-debate-modelo-nacional-para-grupos-de-responsabilizacao-de-homens-autores-de-violencia/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realizará, na terça-feira (18/8), sua 12ª Sessão Ordinária de 2026, a partir das 10h. A previsão é que sejam analisados 12 itens, incluindo uma proposta de resolução que estabelece requisitos mínimos e diretrizes para a implementação, o funcionamento e o monitora",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "resolucao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
       "id": "d4f84d64f33d1162",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1211,6 +1548,39 @@ window.DADOS = {
         "aprova"
       ],
       "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "1679221a8cfaa69e",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Estão abertas as inscrições para conselheiros e secretários participarem do 6ª edição do WiCade",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/estao-abertas-as-inscricoes-para-conselheiros-e-secretarios-participam-do-6a-edicao-do-wicade",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "efd5255b189b1421",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade abre processo seletivo de estágio",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-abre-processo-seletivo-de-estagio",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "processo"
+      ],
+      "coletado_em": "2026-08-17T17:17:47-03:00"
     },
     {
       "id": "aec0d578d60c41ca",
@@ -7210,20 +7580,6 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-13T16:05:04-03:00"
-    },
-    {
-      "id": "57b37211d69fb28c",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Câmara dos Deputados celebra os 40 anos do TRT-15 em sessão solene na quarta-feira, 19/8",
-      "link": "https://trt15.jus.br/noticia/2026/camara-dos-deputados-celebra-os-40-anos-do-trt-15-em-sessao-solene-na-quarta-feira-198",
-      "resumo": "Câmara dos Deputados celebra os 40 anos do TRT-15 em sessão solene na quarta-feira, 19/8 anasiqueira Ter, 11/08/2026 - 18:58 Câmara dos Deputados celebra os 40 anos do TRT-15 em sessão solene na quarta-feira, 19/8 Conteúdo da Notícia A Câmara dos Deputados realiza, na quarta-feira, 19/8, às 11h, ses",
-      "publicado_em": "2026-08-11T18:58:44-03:00",
-      "dia": "2026-08-11",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-12T15:14:18-03:00"
     },
     {
       "id": "5bdf220fb58460d8",
