@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-17T08:30:27-03:00",
+  "gerado_em": "2026-08-17T12:31:26-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,14 +161,14 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 17,
+      "itens": 18,
       "erro": null
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -251,6 +251,37 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "774a2386732d4ec8",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Sessões do Tribunal Pleno e Órgão Especial ocorrem a partir das 13h",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/sessoes-do-tribunal-pleno-e-orgao-especial-ocorrem-a-partir-das-13h",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "c04ec007a49efa8c",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça concede indenização a trabalhador obrigado a cortar cabelo e retirar barba",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-concede-indenizacao-a-trabalhador-obrigado-a-cortar-cabelo-e-retirar-barba",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
       "id": "b7ec498a6ee5d19e",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -265,6 +296,352 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-17T08:30:27-03:00"
+    },
+    {
+      "id": "74c24d7f5a4f88de",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Uso da mesma expressão em eventos de ramos musicais distintos não configura violação ao direito de propriedade industrial",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115047&pagina=1",
+      "resumo": "Termo utilizado não gera exclusividade de uso.\n \n\tA 1ª Câmara Reservada de Direito Empresarial do Tribunal de Justiça de São Paulo manteve decisão que autorizou",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "d8694461021e84ef",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Decisões colegiadas do STF crescem 50% em cinco anos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/decisoes-colegiadas-do-stf-crescem-50-em-cinco-anos/",
+      "resumo": "Julgamentos pelas Turmas e pelo Plenário já representam uma em cada cinco decisões da Corte; nova série de matérias apresenta a atuação do STF por meio de números",
+      "publicado_em": "2026-08-17T10:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "0ec611be47e6c356",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF decide que municípios não podem usar área do imóvel para calcular alíquota do IPTU",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-decide-que-municipios-nao-podem-usar-area-do-imovel-para-calcular-aliquota-do-iptu/",
+      "resumo": "Por unanimidade, o Plenário reafirmou que a progressividade fiscal do imposto deve considerar o valor do imóvel",
+      "publicado_em": "2026-08-17T09:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "decide",
+        "imposto"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "7cab5711e41c1fe4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCJ aprova biometria de mãe e bebê logo após o parto",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/ccj-aprova-biometria-de-mae-e-bebe-logo-apos-o-parto",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:23:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "ff7f698b40d831de",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Acordo atualiza regras do setor cafeeiro e reduz contribuição do Brasil",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/acordo-atualiza-regras-do-setor-cafeeiro-e-reduz-contribuicao-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:22:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "atualiza regras"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "353fd88f62072cb9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições 2026: você sabe qual é o papel de um senador?",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/eleicoes-2026-voce-sabe-qual-e-o-papel-de-um-senador",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:03:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "d29a8e57926887a4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCT terá subcomissão sobre desenvolvimento de vacinas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/cct-tera-subcomissao-sobre-desenvolvimento-de-vacinas",
+      "resumo": "",
+      "publicado_em": "2026-08-17T10:28:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "629c7757c9b44348",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova mais de US$ 300 milhões para saneamento e meio ambiente em MG",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/senado-aprova-mais-de-us-300-milhoes-para-saneamento-e-meio-ambiente-em-mg",
+      "resumo": "",
+      "publicado_em": "2026-08-17T09:22:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "d504bfc3aadae50a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Tarifaço: presidente da CRE defende negociação antes da reciprocidade",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/tarifaco-presidente-da-cre-defende-negociacao-antes-da-reciprocidade",
+      "resumo": "",
+      "publicado_em": "2026-08-17T08:43:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "0a04e7c47f752f43",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi libera para tramitação projetos prioritários, como fim da escala 6x1",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/fim-da-escala-6x1-terras-raras-e-pec-da-seguranca-comecam-a-tramitar",
+      "resumo": "",
+      "publicado_em": "2026-08-17T08:34:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "464352c9b92f4c59",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Às margens do Lago Tefé (AM), biblioteca reúne 28 mil obras científicas sobre a Amazônia",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/as-margens-do-lago-tefe-am-biblioteca-reune-28-mil-obras-cientificas-sobre-a-amazonia",
+      "resumo": "",
+      "publicado_em": "2026-08-17T11:30:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "d1c80e8a4bd678e3",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Nesta 3ª (18), Receita explica, no Youtube, a Reforma Tributária e os bens imóveis",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/proximo-modulo-do-curso-sobre-a-reforma-tributaria-do-consumo-o-13o-abordara-bens-imoveis",
+      "resumo": "",
+      "publicado_em": "2026-08-17T10:10:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "9582c56701bef74c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Saiba como consultar cursos e instituições de educação superior",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/saiba-como-consultar-cursos-e-instituicoes-de-educacao-superior",
+      "resumo": "",
+      "publicado_em": "2026-08-17T10:02:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "bb75ad5cf10b8844",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polícia Federal reprime aquisição e distribuição de cédulas falsas na Paraíba",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/pf-reprime-aquisicao-e-distribuicao-de-cedulas-falsas-na-paraiba",
+      "resumo": "",
+      "publicado_em": "2026-08-17T07:41:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "a622795af8827da9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rota das Emoções mira na atração de turistas internacionais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/rota-das-emocoes-ganha-acao-digital-para-atracao-de-turistas-internacionais",
+      "resumo": "",
+      "publicado_em": "2026-08-17T05:49:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "87d49c8caba66f40",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Tesouro honra em julho R$ 152,46 milhões em dívidas garantidas pela União",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/tesouro-honra-em-julho-r-152-46-milhoes-em-dividas-garantidas-pela-uniao",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "ba5dc91904cac250",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE proíbe PL de impulsionar vídeo de IA que liga Lula a Deolane",
+      "link": "https://www.congressoemfoco.com.br/noticia/121325/tse-proibe-pl-de-impulsionar-video-de-ia-que-liga-lula-a-deolane",
+      "resumo": "Decisão colegiada impede que a sigla volte a pagar para ampliar o alcance de conteúdo negativo contra adversário político",
+      "publicado_em": "2026-08-17T11:06:16-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "b418a89a5cfe2e41",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Esta não é uma eleição justa",
+      "link": "https://www.congressoemfoco.com.br/artigo/121323/esta-nao-e-uma-eleicao-justa",
+      "resumo": "Em 2026, a disputa democrática será travada também contra desinformação, manipulação algorítmica e desigualdade na formação da opinião.",
+      "publicado_em": "2026-08-17T10:38:29-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "ce77c775d1d5249a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A violência que tenta expulsar mulheres da política",
+      "link": "https://www.congressoemfoco.com.br/coluna/121322/a-violencia-que-tenta-expulsar-mulheres-da-politica",
+      "resumo": "Decisão inédita do TSE mostra que ataques de gênero não são simples excessos do debate político e podem gerar inelegibilidade.",
+      "publicado_em": "2026-08-17T10:20:01-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "c5d92a67d4575033",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Plano de Caiado mira facções, ajuste fiscal e fim da reeleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/121321/plano-de-caiado-mira-faccoes-ajuste-fiscal-e-fim-da-reeleicao",
+      "resumo": "Programa propõe endurecimento penal contra facções, revisão de gastos, maior disciplina fiscal e PEC para acabar com a reeleição no Executivo. Veja a íntegra do texto.",
+      "publicado_em": "2026-08-17T09:47:11-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "510c2403ef791925",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE manda tirar post que liga Flávio a \"advogado de Richarlison\" morto",
+      "link": "https://www.congressoemfoco.com.br/noticia/121319/tse-manda-tirar-post-que-liga-flavio-a-advogado-de-richarlison-morto",
+      "resumo": "Decisão considera que publicação imputou crime grave ao senador sem apresentar provas e determina remoção do conteúdo.",
+      "publicado_em": "2026-08-17T08:54:58-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "509d9bdededd44ee",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE nega tirar post sobre Flávio transformar Brasil em colônia dos EUA",
+      "link": "https://www.congressoemfoco.com.br/noticia/121317/tse-nega-tirar-post-sobre-flavio-transformar-brasil-em-colonia-dos-eua",
+      "resumo": "Corte considerou que publicação tem caráter opinativo e está inserida no campo da crítica política, sem elementos para remoção imediata.",
+      "publicado_em": "2026-08-17T08:27:17-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
     },
     {
       "id": "252ff383a4af6521",
@@ -311,6 +688,85 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-17T08:30:27-03:00"
+    },
+    {
+      "id": "f6d26e1e277b7b3c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova regras para afixação de placas sobre entrega voluntária de bebês para adoção",
+      "link": "https://www.camara.leg.br/noticias/1298021-comissao-aprova-regras-para-afixacao-de-placas-sobre-entrega-voluntaria-de-bebes-para-adocao",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "3e1187da26fdc516",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eleição para Câmara dos Deputados terá menos candidatos neste ano",
+      "link": "https://www.camara.leg.br/noticias/1298079-eleicao-para-camara-dos-deputados-tera-menos-candidatos-neste-ano",
+      "resumo": "",
+      "publicado_em": "2026-08-17T11:52:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "c47ef55f08c8da56",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto com regras para acesso à TV aberta em Smart TVs",
+      "link": "https://www.camara.leg.br/noticias/1297798-comissao-aprova-projeto-com-regras-para-acesso-a-tv-aberta-em-smart-tvs",
+      "resumo": "",
+      "publicado_em": "2026-08-17T10:29:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "2fb469b908c96c2f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto com penas mais duras para motoristas alcoolizados",
+      "link": "https://www.camara.leg.br/noticias/1297769-comissao-aprova-projeto-com-penas-mais-duras-para-motoristas-alcoolizados",
+      "resumo": "",
+      "publicado_em": "2026-08-17T10:03:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "aec0d578d60c41ca",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Pix consolida liderança nos pagamentos digitais e projeta novas evoluções até 2030",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21227/nota",
+      "resumo": "Agenda futura prevê novas funcionalidades, integração e reforço de segurança",
+      "publicado_em": "2026-08-17T09:46:52-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
     },
     {
       "id": "e5b7bdd008cc10bc",
@@ -479,7 +935,7 @@ window.DADOS = {
       "id": "35ab0d6226af5f29",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "Validade da moratória da soja é destaque no Supremo na Semana",
+      "titulo": "Validade da Moratória da Soja é destaque no Supremo na Semana",
       "link": "https://noticias.stf.jus.br/postsnoticias/validade-da-moratoria-da-soja-e-destaque-no-supremo-na-semana/",
       "resumo": "O episódio #198 do podcast está disponível nas principais plataformas de áudio e no YouTube",
       "publicado_em": "2026-08-15T12:14:41-03:00",
@@ -1342,6 +1798,22 @@ window.DADOS = {
       "coletado_em": "2026-08-17T08:30:27-03:00"
     },
     {
+      "id": "c48d17293c763688",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MDIC abre inscrições para o prêmio Selo de Boas Práticas Regulatórias",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/mdic-abre-inscricoes-para-o-premio-selo-de-boas-praticas-regulatorias-1",
+      "resumo": "",
+      "publicado_em": "2026-08-14T21:12:00-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
       "id": "d116d0f06b441147",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -2173,6 +2645,39 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-08-17T08:30:27-03:00"
+    },
+    {
+      "id": "8871457614b6ab19",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputado sugere que Câmara avalie propostas sobre educação a distância que estão em tramitação",
+      "link": "https://www.camara.leg.br/noticias/1297926-deputado-sugere-que-camara-avalie-propostas-sobre-educacao-a-distancia-que-estao-em-tramitacao",
+      "resumo": "",
+      "publicado_em": "2026-08-14T17:53:00-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "008074f8659568e4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova circulação de animais em condomínios",
+      "link": "https://www.camara.leg.br/noticias/1297804-comissao-aprova-circulacao-de-animais-em-condominios",
+      "resumo": "",
+      "publicado_em": "2026-08-14T17:45:00-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
     },
     {
       "id": "213a9991e97c98d0",
@@ -4526,6 +5031,20 @@ window.DADOS = {
       "coletado_em": "2026-08-13T16:05:04-03:00"
     },
     {
+      "id": "c0a1c671d7c7bb8f",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Tribunal Pleno passa por nova interdição de 25 a 28 de agosto",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/tribunal-pleno-passa-por-nova-interdicao-de-25-a-28-de-agosto",
+      "resumo": "",
+      "publicado_em": "2026-08-12T12:00:00-03:00",
+      "dia": "2026-08-12",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
       "id": "998541bae3382558",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -6845,20 +7364,6 @@ window.DADOS = {
       "fonte_nome": "TRT-2",
       "titulo": "Expediente presencial em Cubatão-SP é suspenso por falta de energia elétrica",
       "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/expediente-presencial-em-cubatao-sp-e-suspenso-por-falta-de-energia-eletrica",
-      "resumo": "",
-      "publicado_em": "2026-08-07T12:00:00-03:00",
-      "dia": "2026-08-07",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "c0a1c671d7c7bb8f",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Tribunal Pleno passa por nova interdição de 25 a 28 de agosto",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/tribunal-pleno-passa-por-nova-interdicao-de-25-a-28-de-agosto",
       "resumo": "",
       "publicado_em": "2026-08-07T12:00:00-03:00",
       "dia": "2026-08-07",
