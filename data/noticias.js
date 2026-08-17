@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-17T12:31:26-03:00",
+  "gerado_em": "2026-08-17T15:21:21-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -282,6 +282,22 @@ window.DADOS = {
       "coletado_em": "2026-08-17T12:31:26-03:00"
     },
     {
+      "id": "d22fbedf44c26ea0",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 suspende processos na 2ª instância relacionados à base de cálculo da cota de aprendiz; saiba mais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-suspende-processos-na-2a-instancia-relacionados-a-base-de-calculo-da-cota-de-aprendiz-saiba-mais",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
       "id": "b7ec498a6ee5d19e",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -313,6 +329,23 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "0420cc9980b21471",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Nota de pesar: falecimento do desembargador Paulo Barcellos Gatti",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115050&pagina=1",
+      "resumo": "Decretado luto oficial de três dias.\n \n\tO Tribunal de Justiça de São Paulo comunica o falecimento do desembargador Paulo Barcellos Gatti ocorrido hoje (17). A",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 0,
+      "tags": [
+        "luto",
+        "falecimento"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
     },
     {
       "id": "d8694461021e84ef",
@@ -348,6 +381,64 @@ window.DADOS = {
         "imposto"
       ],
       "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "6677eeff28b6eb82",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão que analisará linha de crédito para motociclistas profissionais é instalada",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/17/comissao-que-analisara-linha-de-credito-para-motociclistas-profissionais-e-instalada",
+      "resumo": "",
+      "publicado_em": "2026-08-17T14:43:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "6c758c139d98ad93",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "'Jovens Senadores' tomam posse com protagonismo feminino na Mesa",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/17/jovens-senadores-tomam-posse-com-protagonismo-feminino-na-mesa",
+      "resumo": "",
+      "publicado_em": "2026-08-17T13:54:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "59115131557d3890",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sancionado auxílio a famílias afetadas pelas chuvas em Minas Gerais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/17/sancionado-auxilio-a-familias-afetadas-pelas-chuvas-em-minas-gerais",
+      "resumo": "",
+      "publicado_em": "2026-08-17T13:07:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "75b08e25fe14791b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Prioridade de patrimônio cultural imaterial em políticas de incentivo avança",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/prioridade-de-patrimonio-cultural-imaterial-em-politicas-de-incentivo-avanca",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:31:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
     },
     {
       "id": "7cab5711e41c1fe4",
@@ -458,6 +549,80 @@ window.DADOS = {
       "coletado_em": "2026-08-17T12:31:26-03:00"
     },
     {
+      "id": "c37650e7c5931621",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação Perímetro Zero localiza integrante de facção criminosa em Salvador",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-perimetro-zero-localiza-integrante-de-faccao-criminosa-em-salvador",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "14559baa4e01be08",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Escola Nacional de Defesa do Consumidor abre inscrições para cursos",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-defesa-do-consumidor-abre-inscricoes-para-cursos",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "d1c80e8a4bd678e3",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Nesta 3ª (18), Receita explica, no Youtube, a Reforma Tributária e os bens imóveis",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/proximo-modulo-do-curso-sobre-a-reforma-tributaria-do-consumo-o-13o-abordara-bens-imoveis",
+      "resumo": "",
+      "publicado_em": "2026-08-17T14:15:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "05dd015f7aef42b9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Abono Salarial a nascidos em novembro e dezembro começa a ser pago nesta segunda (17)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/abono-salarial-de-trabalhadores-nascidos-em-novembro-e-dezembro-comeca-a-ser-pago-na-segunda-feira-17",
+      "resumo": "",
+      "publicado_em": "2026-08-17T14:10:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T08:30:27-03:00"
+    },
+    {
+      "id": "d89b646ac3c9fd9c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Minha História Sem Filtro: conte sua experiência sobre os desafios de parar de fumar",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/minha-historia-sem-filtro-ministerio-da-saude-convida-populacao-a-contar-sua-historia-sobre-os-desafios-de-parar-de-fumar",
+      "resumo": "",
+      "publicado_em": "2026-08-17T13:19:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
       "id": "464352c9b92f4c59",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -472,20 +637,32 @@ window.DADOS = {
       "coletado_em": "2026-08-17T12:31:26-03:00"
     },
     {
-      "id": "d1c80e8a4bd678e3",
+      "id": "bf51cd58d47612a0",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Nesta 3ª (18), Receita explica, no Youtube, a Reforma Tributária e os bens imóveis",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/proximo-modulo-do-curso-sobre-a-reforma-tributaria-do-consumo-o-13o-abordara-bens-imoveis",
+      "titulo": "Com medicamento inovador, Brasil tem menor número de casos de malária em quase 50 anos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/malaria-com-medicamento-inovador-brasil-registra-menor-numero-de-casos-em-quase-50-anos",
       "resumo": "",
-      "publicado_em": "2026-08-17T10:10:00-03:00",
+      "publicado_em": "2026-08-17T11:09:00-03:00",
       "dia": "2026-08-17",
       "data_estimada": false,
-      "score": 58,
-      "tags": [
-        "reforma tributaria"
-      ],
-      "coletado_em": "2026-08-17T12:31:26-03:00"
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "6908b50817367108",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Sagrado Feminino pauta roda de conversa do Sem Censura, da TV Brasil, nesta segunda (17/8)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/sagrado-feminino-pauta-roda-de-conversa-do-sem-censura-da-tv-brasil-nesta-segunda-17-8",
+      "resumo": "",
+      "publicado_em": "2026-08-17T11:05:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
     },
     {
       "id": "9582c56701bef74c",
@@ -548,6 +725,97 @@ window.DADOS = {
       "coletado_em": "2026-08-17T12:31:26-03:00"
     },
     {
+      "id": "141506230f07abca",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"OAB atuará em defesa da Constituição nas eleições\", diz Simonetti",
+      "link": "https://www.congressoemfoco.com.br/noticia/121334/oab-atuara-em-defesa-da-constituicao-nas-eleicoes--diz-simonetti",
+      "resumo": "Orientação foi anunciada durante a abertura da reunião do Conselho Pleno da entidade.",
+      "publicado_em": "2026-08-17T14:46:42-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "a15722b0b5a9ff6f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE confirma remoção de vídeo que liga Flávio ao Rioprevidência",
+      "link": "https://www.congressoemfoco.com.br/noticia/121333/tse-confirma-remocao-de-video-que-liga-flavio-ao-rioprevidencia",
+      "resumo": "Corte manteve fora do ar vídeo em que Otoni de Paula atribuía a Flávio participação em crimes ligados a desvios no governo do Rio de Janeiro.",
+      "publicado_em": "2026-08-17T14:21:32-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "6f1dd78208c4f30d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE mantém apagado vídeo de IA de Lindbergh citando \"BolsoMaster\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121332/tse-mantem-apagado-video-de-ia-de-lindbergh-citando-bolsomaster",
+      "resumo": "PL acusou deputado de propaganda eleitoral antecipada negativa após vídeo com imagens sintéticas de Lula e Flávio Bolsonaro.",
+      "publicado_em": "2026-08-17T13:46:16-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "fe6c3d71ef33588f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula deve uma utopia ao eleitor",
+      "link": "https://www.congressoemfoco.com.br/coluna/121328/lula-deve-uma-utopia-ao-eleitor",
+      "resumo": "Após três mandatos, Lula tenta renovar sua conexão com o eleitor enquanto enfrenta rejeição e estreita novamente os laços com o Centrão.",
+      "publicado_em": "2026-08-17T12:07:06-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "3aa1ecd0f9e28a37",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O que está por trás da homenagem inédita de Janja a Marisa Letícia",
+      "link": "https://www.congressoemfoco.com.br/noticia/121327/o-que-esta-por-tras-da-homenagem-inedita-de-janja-a-marisa-leticia",
+      "resumo": "Menção à ex-primeira-dama ocorre após episódios de tensão em torno de sua memória e em meio à tentativa de Lula de reforçar laços com as origens do PT e com o eleitorado feminino.",
+      "publicado_em": "2026-08-17T11:36:50-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenagem"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "24da8cd32c216b70",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Por que o centrão não escolheu um candidato a presidente?",
+      "link": "https://www.congressoemfoco.com.br/artigo/121326/por-que-o-centrao-nao-escolheu-um-candidato-a-presidente",
+      "resumo": "Em 2026, a neutralidade presidencial tornou-se uma estratégia eleitoral para que o centrão monte Estado por Estado, a aliança que custa menos e rende mais, enquanto a esquerda concentra sua campanha nacional em torno de Lula.",
+      "publicado_em": "2026-08-17T11:16:52-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
       "id": "ba5dc91904cac250",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -562,6 +830,20 @@ window.DADOS = {
         "decisao"
       ],
       "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "b42fa112f06f16ae",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A IA pode assumir o comando da espaçonave Terra?",
+      "link": "https://www.congressoemfoco.com.br/coluna/121324/a-ia-pode-assumir-o-comando-da-espaconave-terra",
+      "resumo": "Transferir decisões cruciais à inteligência artificial pode colocar a humanidade diante de um risco que ainda não sabemos controlar.",
+      "publicado_em": "2026-08-17T11:02:08-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
     },
     {
       "id": "b418a89a5cfe2e41",
@@ -610,6 +892,22 @@ window.DADOS = {
       "coletado_em": "2026-08-17T12:31:26-03:00"
     },
     {
+      "id": "39de5a8a3b812c87",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Saiba qual foi a declaração de bens dos candidatos à Presidência",
+      "link": "https://www.congressoemfoco.com.br/noticia/121320/saiba-qual-foi-a-declaracao-de-bens-dos-candidatos-a-presidencia",
+      "resumo": "Bens informados à Justiça Eleitoral incluem imóveis, investimentos, participações em empresas e até rebanho.",
+      "publicado_em": "2026-08-17T09:40:56-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
       "id": "510c2403ef791925",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -626,6 +924,22 @@ window.DADOS = {
         "advogado"
       ],
       "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "96d3dffaf07b7939",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Maioria do eleitorado, mulheres representam 34,8% das candidaturas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121318/maioria-do-eleitorado-mulheres-representam-34-8-das-candidaturas",
+      "resumo": "Participação feminina cresce ligeiramente em relação a 2022, mas recua nas disputas à Presidência, aos governos estaduais e ao Senado.",
+      "publicado_em": "2026-08-17T08:43:57-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
     },
     {
       "id": "509d9bdededd44ee",
@@ -688,6 +1002,152 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-17T08:30:27-03:00"
+    },
+    {
+      "id": "d4f84d64f33d1162",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova registro de animais atendidos com recursos federais",
+      "link": "https://www.camara.leg.br/noticias/1298306-comissao-aprova-registro-de-animais-atendidos-com-recursos-federais",
+      "resumo": "",
+      "publicado_em": "2026-08-17T15:03:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprova",
+        "recurso"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "edb583d21473074a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que institui a Política Nacional de Convivência Sociocultural",
+      "link": "https://www.camara.leg.br/noticias/1298113-comissao-aprova-projeto-que-institui-a-politica-nacional-de-convivencia-sociocultural",
+      "resumo": "",
+      "publicado_em": "2026-08-17T15:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "a6069b0b85b91826",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova exigência de profissional com conhecimento em Libras nas escolas",
+      "link": "https://www.camara.leg.br/noticias/1298282-comissao-aprova-exigencia-de-profissional-com-conhecimento-em-libras-nas-escolas",
+      "resumo": "",
+      "publicado_em": "2026-08-17T14:45:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "33da78ad12df4c6b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que exige placas informativas em obras públicas",
+      "link": "https://www.camara.leg.br/noticias/1298160-comissao-aprova-projeto-que-exige-placas-informativas-em-obras-publicas",
+      "resumo": "",
+      "publicado_em": "2026-08-17T14:44:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "396bc03556179010",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que exige café da manhã e almoço para trabalhadores da construção civil",
+      "link": "https://www.camara.leg.br/noticias/1298185-comissao-aprova-projeto-que-exige-cafe-da-manha-e-almoco-para-trabalhadores-da-construcao-civil",
+      "resumo": "",
+      "publicado_em": "2026-08-17T14:32:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "cba88ef5b6e379e4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que prevê regras para renegociação de dívidas no Minha Casa, Minha Vida",
+      "link": "https://www.camara.leg.br/noticias/1298174-comissao-aprova-projeto-que-preve-regras-para-renegociacao-de-dividas-no-minha-casa-minha-vida",
+      "resumo": "",
+      "publicado_em": "2026-08-17T14:11:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "9dd4d7ab9d7d5b21",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova exigência de antecedentes criminais para cuidadores de pessoas idosas",
+      "link": "https://www.camara.leg.br/noticias/1297670-comissao-aprova-exigencia-de-antecedentes-criminais-para-cuidadores-de-pessoas-idosas",
+      "resumo": "",
+      "publicado_em": "2026-08-17T14:03:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "6a5581adbb08b775",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Estudo avalia destinação de emendas parlamentares para a área de segurança pública",
+      "link": "https://www.camara.leg.br/noticias/1297898-estudo-avalia-destinacao-de-emendas-parlamentares-para-a-area-de-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-08-17T13:19:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "277c1d395fee91ee",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova regra sobre uso de dados por inteligência artificial",
+      "link": "https://www.camara.leg.br/noticias/1297801-comissao-aprova-regra-sobre-uso-de-dados-por-inteligencia-artificial",
+      "resumo": "",
+      "publicado_em": "2026-08-17T13:06:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
     },
     {
       "id": "f6d26e1e277b7b3c",
@@ -797,20 +1257,6 @@ window.DADOS = {
         "indenizacao",
         "acao"
       ],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "05dd015f7aef42b9",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Abono Salarial a nascidos em novembro e dezembro começa a ser pago nesta segunda (17)",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/abono-salarial-de-trabalhadores-nascidos-em-novembro-e-dezembro-comeca-a-ser-pago-na-segunda-feira-17",
-      "resumo": "",
-      "publicado_em": "2026-08-16T14:55:00-03:00",
-      "dia": "2026-08-16",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
       "coletado_em": "2026-08-17T08:30:27-03:00"
     },
     {
@@ -6035,6 +6481,24 @@ window.DADOS = {
         "exposicao"
       ],
       "coletado_em": "2026-08-17T08:30:27-03:00"
+    },
+    {
+      "id": "0e14c1a5fa604a1e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Auditoria atesta confiabilidade da votação do Prêmio Congresso em Foco",
+      "link": "https://www.congressoemfoco.com.br/noticia/121208/auditoria-atesta-confiabilidade-da-votacao-do-premio-congresso-em-foco",
+      "resumo": "Relatório independente confirma integridade tanto das tecnologias do processo quanto das bases de dados brutas e tratadas.",
+      "publicado_em": "2026-08-12T14:51:21-03:00",
+      "dia": "2026-08-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [
+        "processo",
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-17T15:21:21-03:00"
     },
     {
       "id": "033773dabeaaf4de",
