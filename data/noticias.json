@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-17T17:17:47-03:00",
+  "gerado_em": "2026-08-18T08:29:46-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,54 @@
   ],
   "noticias": [
     {
+      "id": "6f1c91e889b486db",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Retroação não pode impedir candidatura de Garotinho, diz Admar Gonzaga",
+      "link": "https://www.congressoemfoco.com.br/noticia/121349/retroacao-nao-pode-impedir-candidatura-de-garotinho-diz-admar-gonzaga",
+      "resumo": "Ex-ministro do TSE e atual advogado do ex-governador sustenta que definição posterior sobre início da suspensão dos direitos políticos não pode ser usada para anular filiação ao Republicanos feita em 2024.",
+      "publicado_em": "2026-08-18T08:03:05-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "13f66af5d591f538",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB pede ao Congresso rejeição de regra para procuração de vulneráveis",
+      "link": "https://www.congressoemfoco.com.br/noticia/121348/oab-pede-ao-congresso-rejeicao-de-regra-para-procuracao-de-vulneraveis",
+      "resumo": "Projeto em análise na Câmara altera regras da Justiça gratuita e estabelece novas formalidades para procurações.",
+      "publicado_em": "2026-08-18T07:48:26-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "370795010bb14489",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes autoriza dentista para Bolsonaro e veta ida à clínica da nora",
+      "link": "https://www.congressoemfoco.com.br/noticia/121347/moraes-autoriza-dentista-para-bolsonaro-e-veta-ida-a-clinica-da-nora",
+      "resumo": "Defesa havia pedido consulta em clínica particular com Fernanda Bolsonaro, esposa de Flávio. Ministro determinou escolta e sigilo sobre data e horário.",
+      "publicado_em": "2026-08-18T07:09:21-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
       "id": "774a2386732d4ec8",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -296,6 +344,38 @@
         "processo"
       ],
       "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "739a028319f27b3d",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 lamenta o falecimento do ex-presidente Laurival Ribeiro da Silva Filho",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-lamenta-o-falecimento-do-ex-presidente-laurival-ribeiro-da-silva-filho",
+      "resumo": "TRT-15 lamenta o falecimento do ex-presidente Laurival Ribeiro da Silva Filho anasiqueira Seg, 17/08/2026 - 18:24 TRT-15 lamenta o falecimento do ex-presidente Laurival Ribeiro da Silva Filho Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região manifesta profundo pesar pelo falecimento ",
+      "publicado_em": "2026-08-17T18:24:30-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "falecimento"
+      ],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "57a769d5c06817cd",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Presidência recebe visita de representantes da Anan",
+      "link": "https://trt15.jus.br/noticia/2026/presidencia-recebe-visita-de-representantes-da-anan",
+      "resumo": "Presidência recebe visita de representantes da Anan anasiqueira Seg, 17/08/2026 - 18:22 Presidência recebe visita de representantes da Anan Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora Ana Paula Pellegrina Lockmann, recebeu nesta segunda-feira, 17/8",
+      "publicado_em": "2026-08-17T18:22:03-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
     },
     {
       "id": "9428e079d33dedb6",
@@ -392,6 +472,69 @@
       "coletado_em": "2026-08-17T17:17:47-03:00"
     },
     {
+      "id": "c3bf25bd106316c6",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Jurado voluntário: Comarca de Aguaí abre inscrições",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115045&pagina=1",
+      "resumo": "Cadastro até 10 de setembro.\n \n\tA Justiça de Aguaí está com inscrições abertas para voluntários que queiram atuar como jurados no Tribunal do Júri realizados",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "1b6c4b78dca99b33",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "CNI contesta regra sobre créditos tributários após substituição de isenção por alíquota reduzida",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cni-contesta-regra-sobre-creditos-tributarios-apos-substituicao-de-isencao-por-aliquota-reduzida/",
+      "resumo": "Entidade afirma que norma viola princípio constitucional da não cumulatividade",
+      "publicado_em": "2026-08-17T19:26:39-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "tributario"
+      ],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "bb8b0ca7db3616f5",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Especialistas debaterão contencioso sobre reforma tributária no STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/especialistas-debaterao-contencioso-sobre-reforma-tributaria-no-stf/",
+      "resumo": "Iniciativa contará com representantes da União, do Estado de São Paulo, do Senado Federal e da Câmara dos Deputados",
+      "publicado_em": "2026-08-17T17:38:35-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "15719f90093b3303",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Biblioteca do STF promove programação especial para celebrar 135 anos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/biblioteca-do-stf-promove-programacao-especial-para-celebrar-135-anos/",
+      "resumo": "Evento, realizado nesta quinta-feira (20), reúne documentário, mesa-redonda e abertura de exposição",
+      "publicado_em": "2026-08-17T17:22:53-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "acao",
+        "exposicao"
+      ],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
       "id": "9dbd4c1c2a37cb02",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -445,6 +588,93 @@
       "coletado_em": "2026-08-17T12:31:26-03:00"
     },
     {
+      "id": "3a69d2d9df5e8b2c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado fará debate sobre regras para o mercado de queijo artesanal",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/senado-fara-debate-sobre-regras-para-o-mercado-de-queijo-artesanal",
+      "resumo": "",
+      "publicado_em": "2026-08-17T19:18:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "6f8f23678bed1bc2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Em Oiapoque, Davi comemora possível exploração de petróleo na Margem Equatorial",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/17/em-oiapoque-davi-comemora-possivel-exploracao-de-petroleo-na-margem-equatorial",
+      "resumo": "",
+      "publicado_em": "2026-08-17T19:08:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "556ea06e781411af",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei confirma MP de socorro emergencial a vítimas de desastres climáticos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/17/lei-confirma-mp-de-socorro-emergencial-a-vitimas-de-desastres-climaticos",
+      "resumo": "",
+      "publicado_em": "2026-08-17T18:21:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "2dc0ac39f07fab0f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições 2026: veja os números das candidaturas oficializadas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/17/eleicoes-2026-veja-os-numeros-das-candidaturas-oficializadas",
+      "resumo": "",
+      "publicado_em": "2026-08-17T18:13:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "82d40f80aefa5fe8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado: 32 senadores tentam reeleição",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/17/32-senadores-tentam-a-reeleicao-neste-ano",
+      "resumo": "",
+      "publicado_em": "2026-08-17T17:43:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "f7977d9122b7d142",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Quem disputa o Senado em 2026: veja perfil, partidos e distribuição pelo país",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/17/quem-disputa-o-senado-em-2026-veja-perfil-partidos-e-distribuicao-pelo-pais",
+      "resumo": "",
+      "publicado_em": "2026-08-17T17:38:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
       "id": "de9acbb168663688",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -476,7 +706,7 @@
       "id": "6c758c139d98ad93",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "'Jovens Senadores' tomam posse com protagonismo feminino na Mesa",
+      "titulo": "'Jovens senadores' tomam posse com protagonismo feminino na Mesa",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/08/17/jovens-senadores-tomam-posse-com-protagonismo-feminino-na-mesa",
       "resumo": "",
       "publicado_em": "2026-08-17T13:54:00-03:00",
@@ -669,6 +899,50 @@
       "coletado_em": "2026-08-17T17:17:47-03:00"
     },
     {
+      "id": "171fd69ce35643a6",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP seleciona artigos inéditos para a antologia Vozes pelo Acesso à Justiça",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-seleciona-artigos-ineditos-para-a-antologia-vozes-pelo-acesso-a-justica-1",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "a41060010735c8e9",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Desarme prende traficantes internacionais que forneciam armamentos para facções no Rio de Janeiro",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/desarme-prende-traficantes-internacionais-que-forneciam-armamentos-para-faccoes-no-rio-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "1160227649567e5e",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon instaura processos contra duas plataformas de revenda de ingressos",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-instaura-processos-contra-duas-plataformas-de-revenda-de-ingressos",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
       "id": "aa4b08e0ef74b479",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -685,6 +959,22 @@
       "coletado_em": "2026-08-17T17:17:47-03:00"
     },
     {
+      "id": "3ba486ca6f528216",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "IA é híbrida e funciona melhor com participação humana, diz pesquisador",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/palestra-no-observatorio-nacional-discute-integracao-humano-inteligencia-artificial",
+      "resumo": "",
+      "publicado_em": "2026-08-17T15:43:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
       "id": "85663ec4bc5bc91c",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -697,6 +987,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "89e951178b766671",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Universidade Federal de Rondônia oferece atendimento veterinário gratuito",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/clinica-veterinaria-da-unir-oferece-atendimentos-gratuitos",
+      "resumo": "",
+      "publicado_em": "2026-08-17T14:55:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
     },
     {
       "id": "d1c80e8a4bd678e3",
@@ -845,6 +1149,51 @@
       "coletado_em": "2026-08-17T12:31:26-03:00"
     },
     {
+      "id": "752ca404f4cd19b1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alcolumbre elogia Lula por petróleo no AP e \"defesa da soberania\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121345/alcolumbre-elogia-lula-por-petroleo-no-ap-e-por-defesa-da-soberania",
+      "resumo": "Gesto ocorre após Alcolumbre retomar o diálogo com Lula e assumir compromisso de dar andamento à agenda legislativa do Planalto.",
+      "publicado_em": "2026-08-17T19:02:21-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "13d664ece6c23b0b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Número de candidaturas registradas em 2026 é 30% menor do que em 2022",
+      "link": "https://www.congressoemfoco.com.br/noticia/121342/numero-de-candidaturas-registradas-em-2026-e-30-menor-do-que-em-2022",
+      "resumo": "Redução atinge principalmente as nominatas proporcionais, com menos candidatos à Câmara e às assembleias estaduais.",
+      "publicado_em": "2026-08-17T17:47:27-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "f67bc77a0a21118a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB e MPT firmam acordo contra assédio eleitoral no trabalho",
+      "link": "https://www.congressoemfoco.com.br/noticia/121340/oab-e-mpt-firmam-acordo-contra-assedio-eleitoral-no-trabalho",
+      "resumo": "Cooperação envolve  ações conjuntas durante as eleições de 2026 e no período subsequente.",
+      "publicado_em": "2026-08-17T17:16:09-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
       "id": "925be8cdb3cb07fd",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -904,6 +1253,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-17T15:21:21-03:00"
+    },
+    {
+      "id": "334d912adad06781",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A norma jurídica é fruto do Direito Positivo",
+      "link": "https://www.congressoemfoco.com.br/artigo/121331/a-norma-juridica-e-fruto-do-direito-positivo",
+      "resumo": "Leis têm caráter geral e coercitivo, enquanto contratos produzem direitos e obrigações restritos às partes que os celebram.",
+      "publicado_em": "2026-08-17T12:46:18-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
     },
     {
       "id": "28bdb57b8cd112b0",
@@ -1177,7 +1540,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Conheça as seis ferramentas selecionadas no primeiro edital do Conecta",
       "link": "https://www.cnj.jus.br/conheca-as-seis-ferramentas-selecionadas-no-primeiro-edital-do-conecta/",
-      "resumo": "O programa Conecta divulgou nesta segunda-feira (17/8) o resultado do primeiro Edital de Nacionalização de Soluções Tecnológicas desenvolvidas por tribunais brasileiros para serem compartilhadas em nível nacional. Ao todo, seis ferramentas de diferentes segmentos da Justiça foram escolhidas entre as",
+      "resumo": "O programa Conecta divulgou, nesta segunda-feira (17/8), o resultado do primeiro Edital de Nacionalização de Soluções Tecnológicas, para que soluções desenvolvidas por tribunais brasileiros sejam compartilhadas em nível nacional. Ao todo, seis ferramentas de diferentes segmentos da Justiça foram esc",
       "publicado_em": "2026-08-17T12:00:00-03:00",
       "dia": "2026-08-17",
       "data_estimada": true,
@@ -1193,7 +1556,7 @@
       "fonte_nome": "CNJ",
       "titulo": "TJBA amplia alcance de ferramenta que identifica automaticamente óbitos de partes em processos",
       "link": "https://www.cnj.jus.br/tjba-amplia-alcance-de-ferramenta-que-identifica-automaticamente-obitos-de-partes-em-processos/",
-      "resumo": "O Tribunal de Justiça do Estado da Bahia (TJBA) conta com uma nova versão do Robô de Identificação de Óbitos (RIC), ferramenta que verifica automaticamente o falecimento de partes envolvidas em processos judiciais. Desenvolvida pela Secretaria de Tecnologia da Informação e Modernização (SETIM), a so",
+      "resumo": "O Tribunal de Justiça do Estado da Bahia (TJBA) conta com uma nova versão do Robô de Identificação de Óbitos (RIC), ferramenta que verifica automaticamente o falecimento de partes envolvidas em processos judiciais. Desenvolvida pela Secretaria de Tecnologia da Informação e Modernização (Setim), a so",
       "publicado_em": "2026-08-17T12:00:00-03:00",
       "dia": "2026-08-17",
       "data_estimada": true,
@@ -1339,6 +1702,40 @@
         "acao"
       ],
       "coletado_em": "2026-08-17T17:17:47-03:00"
+    },
+    {
+      "id": "98aa978c9d2e0d5b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Acordo entre CNJ e Incra vai integrar dados territoriais e auxiliar na mediação de conflitos de terra",
+      "link": "https://www.cnj.jus.br/acordo-entre-cnj-e-incra-vai-integrar-dados-territoriais-e-mediar-conflitos-de-terra/",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, e o do Instituto Nacional de Colonização e Reforma Agrária (Incra), César Aldrighi, assinaram, nesta segunda-feira (17/8), um Acordo de Cooperação Técnica (ACT) para compartilhamento de dados. A partir de agora, as informaçõe",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "d37546f4e9e6d4ad",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJAC abre seleção de estágio destinada a mulheres egressas do sistema prisional",
+      "link": "https://www.cnj.jus.br/tjac-abre-selecao-de-estagio-destinada-a-mulheres-egressas-do-sistema-prisional/",
+      "resumo": "O Tribunal de Justiça do Estado do Acre (TJAC) publicou, nesta segunda-feira (17), no Diário da Justiça, o Edital n. 1/2026, que regulamenta o processo seletivo para concessão de bolsas de estágio do Programa de Estágio de Formação e Inclusão Social. A iniciativa é destinada exclusivamente a mulhere",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "regulamenta",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T08:29:46-03:00"
     },
     {
       "id": "d4f84d64f33d1162",
@@ -2004,6 +2401,22 @@
       "coletado_em": "2026-08-17T08:30:27-03:00"
     },
     {
+      "id": "94b52c0fb250bdbf",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 integra mobilização nacional pelo voto livre e reforça combate ao assédio eleitoral no trabalho",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-integra-mobilizacao-nacional-pelo-voto-livre-e-reforca-combate-ao-assedio",
+      "resumo": "TRT-15 integra mobilização nacional pelo voto livre e reforça combate ao assédio eleitoral no trabalho anasiqueira Sex, 14/08/2026 - 19:16 TRT-15 integra mobilização nacional pelo voto livre e reforça combate ao assédio eleitoral no trabalho Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª",
+      "publicado_em": "2026-08-14T19:16:50-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
       "id": "0493c8cc22d632cf",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -2027,22 +2440,6 @@
       "link": "https://trt15.jus.br/noticia/2026/projeto-de-leitura-e-escrita-criativa-incentiva-formacao-literaria-e-pensamento",
       "resumo": "Projeto de leitura e escrita criativa incentiva formação literária e pensamento crítico de jovens do Programa de Aprendizagem Social do TRT-15 anasiqueira Sex, 14/08/2026 - 16:27 Projeto de leitura e escrita criativa incentiva formação literária e pensamento crítico de jovens do Programa de Aprendiz",
       "publicado_em": "2026-08-14T16:27:27-03:00",
-      "dia": "2026-08-14",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "94b52c0fb250bdbf",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "TRT-15 integra mobilização nacional pelo voto livre e reforça combate ao assédio eleitoral no trabalho",
-      "link": "https://trt15.jus.br/noticia/2026/trt-15-integra-mobilizacao-nacional-pelo-voto-livre-e-reforca-combate-ao-assedio",
-      "resumo": "TRT-15 integra mobilização nacional pelo voto livre e reforça combate ao assédio eleitoral no trabalho anasiqueira Sex, 14/08/2026 - 16:16 TRT-15 integra mobilização nacional pelo voto livre e reforça combate ao assédio eleitoral no trabalho Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª",
-      "publicado_em": "2026-08-14T16:16:50-03:00",
       "dia": "2026-08-14",
       "data_estimada": false,
       "score": 46,
@@ -2188,7 +2585,7 @@
       "id": "1bcacc5704c841ae",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "“Dar vez a todas as vozes”: STF faz escuta territorializada no Norte de Minas",
+      "titulo": "“Dar vez a todas as vozes”: STF faz escuta territorializada no norte de Minas",
       "link": "https://noticias.stf.jus.br/postsnoticias/dar-vez-a-todas-as-vozes-stf-faz-escuta-territorializada-no-norte-de-minas/",
       "resumo": "Durante três dias, Ouvidoria especializada ouviu pesquisadores, lideranças e comunidades tradicionais para compreender demandas relacionadas ao acesso à Justiça e fortalecer o diálogo com os territórios",
       "publicado_em": "2026-08-14T17:34:02-03:00",
