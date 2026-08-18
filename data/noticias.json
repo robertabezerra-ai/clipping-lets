@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-18T08:29:46-03:00",
+  "gerado_em": "2026-08-18T12:38:22-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -250,6 +250,427 @@
     }
   ],
   "noticias": [
+    {
+      "id": "1389a33f3b5f72e0",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TST fixa tese sobre competência da Justiça do Trabalho para movimentação do FGTS",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/tst-fixa-tese-sobre-competencia-da-justica-do-trabalho-para-movimentacao-do-fgts",
+      "resumo": "",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 70,
+      "tags": [
+        "tese",
+        "fgts",
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "22080cdbb7018d0c",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "11ª Câmara mantém improcedência de pedido de salários por limbo previdenciário e confirma justa causa por abandono de emprego",
+      "link": "https://trt15.jus.br/noticia/2026/11a-camara-mantem-improcedencia-de-pedido-de-salarios-por-limbo-previdenciario-e",
+      "resumo": "11ª Câmara mantém improcedência de pedido de salários por limbo previdenciário e confirma justa causa por abandono de emprego anagatto Ter, 18/08/2026 - 12:13 11ª Câmara mantém improcedência de pedido de salários por limbo previdenciário e confirma justa causa por abandono de emprego Conteúdo da Not",
+      "publicado_em": "2026-08-18T12:13:03-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "76ddb4237975d532",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Abertas as inscrições para voluntários que queiram atuar nos Tribunais do Júri de Urânia",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115056&pagina=1",
+      "resumo": "Cadastro até 10 de setembro.\n \n\tA Justiça de Urânia abriu inscrições para interessados em atuar como jurados nos Tribunais do Júri da comarca. O prazo",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "e2baae8d0b235fd9",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF Escuta debate desafios para proteger crianças e adolescentes no ambiente digital",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-escuta-debate-desafios-para-proteger-criancas-e-adolescentes-no-ambiente-digital/",
+      "resumo": "Sexta edição do programa será realizada na próxima sexta-feira (21) e terá como tema o ECA Digital",
+      "publicado_em": "2026-08-18T10:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "b713b7b441da5a35",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF veda contratação temporária de policiais penais sem concurso público no Acre",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-afasta-contratacao-temporaria-de-policiais-penais-sem-concurso-publico-no-acre/",
+      "resumo": "Em sessão virtual, o Plenário decidiu que o concurso é a única forma válida para ingresso na carreira, conforme a EC 104/2019",
+      "publicado_em": "2026-08-18T08:45:58-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "1b1e8751a21f2ad9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Liberada a propaganda eleitoral nas redes",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/liberada-a-propaganda-eleitoral-nas-redes",
+      "resumo": "",
+      "publicado_em": "2026-08-18T11:39:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "59fc819f780a75fd",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Apoio a mulheres em situação de violência ganha força no Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/apoio-a-mulheres-em-situacao-de-violencia-ganha-forca-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-08-18T11:36:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "543d0a8396875bdf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Brasil pode recuperar direito de voto no Bureau Internacional de Exposições",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/brasil-pode-recuperar-direito-de-voto-no-bureau-internacional-de-exposicoes",
+      "resumo": "",
+      "publicado_em": "2026-08-18T11:30:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "35b2bfd2ae179475",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCJ pode votar projeto de lei que cria o Fundo de Amparo às Crianças Órfãs",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/ccj-pode-votar-projeto-de-lei-que-cria-o-fundo-de-amparo-as-criancas-orfas",
+      "resumo": "",
+      "publicado_em": "2026-08-18T11:11:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "ba94a9a7702b7f56",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sancionada ampliação de produtos em estoque público para alimentação animal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/18/sancionada-ampliacao-de-produtos-em-estoque-publico-para-alimentacao-animal",
+      "resumo": "",
+      "publicado_em": "2026-08-18T10:11:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "sancionada",
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "8dd4d8727d99cd16",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Jovem Senador 2026: estudantes tomam posse e elegem Mesa",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/jovem-senador-2026-estudantes-tomam-posse-e-elegem-mesa",
+      "resumo": "",
+      "publicado_em": "2026-08-18T09:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "77e034721653e934",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Democracia nas redes sociais: exposição exibe redações dos 'jovens senadores'",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/democracia-nas-redes-sociais-exposicao-exibe-redacoes-dos-jovens-senadores",
+      "resumo": "",
+      "publicado_em": "2026-08-18T08:54:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "b4e43733c42b8778",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Ministro da Justiça participa de seminário sobre direito e segurança pública nos portos",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-participa-de-seminario-sobre-direito-e-seguranca-publica-nos-portos",
+      "resumo": "",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "3be354ac2839c736",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pagamento do Bolsa Família de agosto começa nesta terça-feira (18)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/pagamento-do-bolsa-familia-de-agosto-comeca-nesta-terca-feira-18",
+      "resumo": "",
+      "publicado_em": "2026-08-18T12:30:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "68960faa3ecf3714",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Estudar não tem idade: histórias que inspiram vidas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/estudar-nao-tem-idade-historias-que-inspiram-vidas-1",
+      "resumo": "",
+      "publicado_em": "2026-08-18T12:27:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "229d4f482809181f",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Inep institui rede para subsidiar a ampliação do Enem como etapa da avaliação da Educação Básica",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/inep-institui-a-rede-de-interlocutores-escolares-rie-para-subsidiar-a-ampliacao-do-enem-como-etapa-da-avaliacao-da-educacao-basica",
+      "resumo": "",
+      "publicado_em": "2026-08-18T10:39:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "6f235216d807b6bc",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Criadores terão acesso a novos produtos para ração animal pelo Programa de Venda em Balcão",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/criadores-terao-acesso-a-novos-produtos-para-racao-animal-pelo-programa-de-venda-em-balcao",
+      "resumo": "",
+      "publicado_em": "2026-08-18T10:35:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "023b23869a37462f",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Saiba como ter acesso ao microcrédito rural",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/saiba-como-ter-acesso-ao-microcredito-rural",
+      "resumo": "",
+      "publicado_em": "2026-08-18T10:30:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "a1b383b8d812f511",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Municípios já podem atualizar informações do Indicador de Capacidade Municipal",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/municipios-ja-podem-atualizar-informacoes-do-indicador-de-capacidade-municipal",
+      "resumo": "",
+      "publicado_em": "2026-08-18T10:25:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "014601528667fa59",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MEC oferece nove cursos gratuitos de Inteligência Artificial para professores",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/mec-oferece-nove-cursos-gratuitos-de-inteligencia-artificial-para-professores",
+      "resumo": "",
+      "publicado_em": "2026-08-18T10:11:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "aca62a224d6e66d9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polícia Federal, Receita e MPF combatem extração ilegal de ouro em terra indígena de MT",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/pf-receita-e-mpf-combatem-extracao-ilegal-de-ouro-em-terra-indigena-de-mato-grosso",
+      "resumo": "",
+      "publicado_em": "2026-08-18T09:25:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "979d79ae0afd7a11",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Petrobras: descoberta de petróleo na costa do Amapá é compromisso com segurança energética do Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/petrobras-descoberta-de-petroleo-na-costa-do-amapa-e-compromisso-com-seguranca-energetica-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-08-18T09:25:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "552f5ae344ec24e9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polícia Federal atua contra crimes de abuso sexual infantojuvenil pela internet",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/pf-atua-contra-crimes-de-abuso-sexual-infantojuvenil-pela-internet",
+      "resumo": "",
+      "publicado_em": "2026-08-18T09:11:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "7ee7d0ae707b217f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A importância de uma bancada para os trabalhadores no Congresso",
+      "link": "https://www.congressoemfoco.com.br/artigo/121357/a-importancia-de-uma-bancada-para-os-trabalhadores-no-congresso",
+      "resumo": "A classe trabalhadora não conta com uma articulação parlamentar que defenda seus direitos e necessidades em Brasília.",
+      "publicado_em": "2026-08-18T10:33:35-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "075d79b3adeb44c8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Judiciário: o poder do século",
+      "link": "https://www.congressoemfoco.com.br/artigo/121356/judiciario-o-poder-do-seculo",
+      "resumo": "Enquanto Executivo e Congresso disputam espaço, é o STF que tem dado a palavra final sobre os principais temas da vida nacional.",
+      "publicado_em": "2026-08-18T10:12:01-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "b54f62cdca026957",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Homem, branco e com ensino superior: o perfil de quem disputa o Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/121354/homem-branco-e-com-ensino-superior-o-perfil-de-quem-disputa-o-senado",
+      "resumo": "Balanço sobre os 314 candidatos mostra que a corrida pelas 54 vagas reúne proporcionalmente mais homens, brancos, pessoas acima dos 50 anos e concorrentes com ensino superior.",
+      "publicado_em": "2026-08-18T10:09:42-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "1d08091cfe40efea",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE manda retirar falas de Lula em vídeo com pedido antecipado de voto",
+      "link": "https://www.congressoemfoco.com.br/noticia/121353/tse-manda-retirar-falas-de-lula-em-video-com-pedido-antecipado-de-voto",
+      "resumo": "Liminar atende parcialmente a pedido do Novo e atinge vídeos publicados por Lula, Jerônimo Rodrigues e pelo PT.",
+      "publicado_em": "2026-08-18T09:34:30-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "liminar"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "96f90faba608f182",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dos 54 senadores em fim de mandato, 32 tentarão se reeleger",
+      "link": "https://www.congressoemfoco.com.br/noticia/121352/dos-54-senadores-em-fim-de-mandato-32-tentarao-se-reeleger",
+      "resumo": "Outros dez disputam cargos diferentes ou integram chapas como suplentes, enquanto 12 ficarão fora das urnas. Entre os senadores com mandato até 2031, nove concorrem a governos estaduais. Veja a lista.",
+      "publicado_em": "2026-08-18T08:39:16-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
     {
       "id": "6f1c91e889b486db",
       "fonte_id": "congresso_em_foco",
@@ -941,6 +1362,22 @@
         "processo"
       ],
       "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "8fdc2cd47bbd03b7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério das cidades apresenta publicação para mapeamento de riscos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/ministerio-das-cidades-apresenta-publicacao-para-mapeamento-de-riscos-1",
+      "resumo": "",
+      "publicado_em": "2026-08-17T20:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
     },
     {
       "id": "aa4b08e0ef74b479",
@@ -1950,7 +2387,7 @@
       "id": "1679221a8cfaa69e",
       "fonte_id": "cade",
       "fonte_nome": "Cade",
-      "titulo": "Estão abertas as inscrições para conselheiros e secretários participarem do 6ª edição do WiCade",
+      "titulo": "Estão abertas as inscrições para conselheiros e secretários participarem da 6ª edição do WiCade",
       "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/estao-abertas-as-inscricoes-para-conselheiros-e-secretarios-participam-do-6a-edicao-do-wicade",
       "resumo": "",
       "publicado_em": "2026-08-17T12:00:00-03:00",
@@ -8846,6 +9283,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "071f2365e5f7a0ad",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veja quem integra o júri técnico do Prêmio Congresso em Foco 2026",
+      "link": "https://www.congressoemfoco.com.br/noticia/121103/veja-quem-integra-o-juri-tecnico-do-premio-congresso-em-foco-2026",
+      "resumo": "Grupo reúne especialistas de diferentes áreas e participa da escolha dos destaques da 19ª edição da premiação",
+      "publicado_em": "2026-08-07T10:41:13-03:00",
+      "dia": "2026-08-07",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-18T12:38:22-03:00"
     },
     {
       "id": "e4bc0d2409164c41",
