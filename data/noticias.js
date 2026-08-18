@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-18T15:19:36-03:00",
+  "gerado_em": "2026-08-18T17:14:44-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@ window.DADOS = {
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -335,12 +335,14 @@ window.DADOS = {
       "fonte_nome": "TJSP",
       "titulo": "TJSP, EPM e DPESP realizam curso para cobertura jornalística de casos de violência contra mulheres e feminicídio",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115058&pagina=1",
-      "resumo": "Exposições de magistradas e jornalista.\n \n\tO Tribunal de Justiça de São Paulo, a Escola Paulista da Magistratura (EPM) e a Defensoria Pública do Estado de",
+      "resumo": "Exposições de magistradas e jornalista.\n \n\tO Tribunal de Justiça de São Paulo, a Escola Paulista da Magistratura (EPM), a Coordenadoria da Mulher em Situação de",
       "publicado_em": "2026-08-18T12:00:00-03:00",
       "dia": "2026-08-18",
       "data_estimada": true,
-      "score": 40,
-      "tags": [],
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
       "coletado_em": "2026-08-18T15:19:36-03:00"
     },
     {
@@ -391,6 +393,20 @@ window.DADOS = {
       "coletado_em": "2026-08-18T12:38:22-03:00"
     },
     {
+      "id": "07dd0e7d75bc9d94",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Candidaturas femininas ao Senado crescem e chegam a todos os estados",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/18/candidaturas-femininas-ao-senado-crescem-e-chegam-a-todos-os-estados",
+      "resumo": "",
+      "publicado_em": "2026-08-18T15:53:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
+    },
+    {
       "id": "f8f864bbd6693a4c",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -419,6 +435,22 @@ window.DADOS = {
       "coletado_em": "2026-08-18T15:19:36-03:00"
     },
     {
+      "id": "661bc80a38026aee",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Debate aponta falta de pessoal no TRT-2 e demanda nomeação de concursados",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/18/debate-aponta-falta-de-pessoal-no-trt-2-e-demanda-nomeacao-de-concursados",
+      "resumo": "",
+      "publicado_em": "2026-08-18T14:33:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
+    },
+    {
       "id": "1b1e8751a21f2ad9",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -436,7 +468,7 @@ window.DADOS = {
       "id": "59fc819f780a75fd",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "Apoio a mulheres em situação de violência ganha força no Senado",
+      "titulo": "Reforço ao apoio a mulheres em situação de violência pode ir a votação com urgência",
       "link": "https://www12.senado.leg.br/noticias/audios/2026/08/apoio-a-mulheres-em-situacao-de-violencia-ganha-forca-no-senado",
       "resumo": "",
       "publicado_em": "2026-08-18T11:36:00-03:00",
@@ -556,10 +588,54 @@ window.DADOS = {
       "coletado_em": "2026-08-18T15:19:36-03:00"
     },
     {
+      "id": "fc1e20c3b3e56823",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Hospitais federais no Rio de Janeiro recebem reformas e novos equipamentos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/hospitais-federais-no-rio-de-janeiro-recebem-reformas-e-novos-equipamentos",
+      "resumo": "",
+      "publicado_em": "2026-08-18T16:22:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
+    },
+    {
+      "id": "628f57a37efbe268",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Docentes escolhidos pelos estados vão formar rede de apoio ao Enem 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/rede-de-apoio-a-aplicacao-do-enem-e-instituida",
+      "resumo": "",
+      "publicado_em": "2026-08-18T16:13:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
+    },
+    {
+      "id": "2e9f5df7f366cf73",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Anvisa aprova duas novas canetas à base de semaglutida para tratar diabetes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/anvisa-aprova-duas-novas-canetas-para-tratamento-de-diabetes",
+      "resumo": "",
+      "publicado_em": "2026-08-18T14:54:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
+    },
+    {
       "id": "0fcb3e9084325ade",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Diretriz do MEC: artes visuais, dança, música e teatro fazem parte da educação básica",
+      "titulo": "Diretriz do MEC estabelece que o ensino de arte faz parte da educação básica",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/mec-homologa-diretrizes-para-ensino-de-arte-na-educacao-basica-1",
       "resumo": "",
       "publicado_em": "2026-08-18T14:49:00-03:00",
@@ -766,6 +842,50 @@ window.DADOS = {
       "coletado_em": "2026-08-18T12:38:22-03:00"
     },
     {
+      "id": "b4853a31414d0fa2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Kim propõe fim da exigência de fundada suspeita em abordagem policial",
+      "link": "https://www.congressoemfoco.com.br/noticia/121377/kim-propoe-fim-da-exigencia-de-fundada-suspeita-em-abordagem-policial",
+      "resumo": "Projeto prevê permissão para revistas pessoais em vias públicas com base em seleção aleatório ou amostragem.",
+      "publicado_em": "2026-08-18T16:49:20-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
+    },
+    {
+      "id": "4ec247430a5a80b3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O STF e o fim da neutralidade das plataformas digitais",
+      "link": "https://www.congressoemfoco.com.br/artigo/121374/o-stf-e-o-fim-da-neutralidade-das-plataformas-digitais",
+      "resumo": "A liberdade de expressão permanece protegida, mas as plataformas passam a responder por falhas no dever de cuidado.",
+      "publicado_em": "2026-08-18T15:51:57-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
+    },
+    {
+      "id": "3089edc5aaf41568",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cultura como direito, entretenimento como mercado: o caso Anitta",
+      "link": "https://www.congressoemfoco.com.br/artigo/121372/cultura-como-direito-entretenimento-como-mercado-o-caso-anitta",
+      "resumo": "Álbum Equilibrium transforma capital simbólico em espaço para ancestralidade, diversidade e valorização do patrimônio brasileiro.",
+      "publicado_em": "2026-08-18T15:01:29-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
+    },
+    {
       "id": "744b83cfdd4ccbd2",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -822,6 +942,20 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "70541b8c59c1d57e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "De \"Vovó Tsuname\" a \"Batata Neles\": veja nomes curiosos de candidatos",
+      "link": "https://www.congressoemfoco.com.br/noticia/121359/de-vovo-tsuname-a-batata-neles--veja-nomes-curiosos-de-candidatos",
+      "resumo": "Registros no TSE revelam uma coleção de nomes capazes de despertar curiosidade antes mesmo de o eleitor conhecer as propostas.",
+      "publicado_em": "2026-08-18T11:18:22-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
     },
     {
       "id": "7ee7d0ae707b217f",
@@ -1011,6 +1145,90 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "b97936e23141c208",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Senac RJ e Tribunal de Justiça celebram parceria educacional inclusiva",
+      "link": "https://www.cnj.jus.br/senac-rj-e-tribunal-de-justica-celebram-parceria-educacional-inclusiva/",
+      "resumo": "O Senac RJ e o Tribunal de Justiça do Rio de Janeiro (TJRJ) celebram parceria educacional inclusiva para execução do Projeto Novos Horizontes, que prevê a disponibilização de 988 vagas gratuitas em cursos de formação profissional para pessoas em situação de vulnerabilidade social e econômica, benefi",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
+    },
+    {
+      "id": "a1ab87c3947c3ac8",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Nova política unifica normas de concursos estaduais para cartórios",
+      "link": "https://www.cnj.jus.br/nova-politica-unifica-normas-de-concursos-estaduais-para-cartorios-2/",
+      "resumo": "Os concursos públicos para cartórios estaduais ganham padrão nacional mais rígido e transparente. O novo ato normativo, aprovado por maioria pelo Plenário do Conselho Nacional de Justiça (CNJ), nesta terça-feira (18), durante a 12ª Sessão Ordinária, dispõe sobre os concursos públicos de provas e tít",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
+    },
+    {
+      "id": "b0b5b317b318cfba",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Gabinete do Juízo ganha funcionalidade de IA que integra chat, minutas e pesquisa de precedentes",
+      "link": "https://www.cnj.jus.br/gabinete-do-juizo-ganha-funcionalidade-de-ia-que-integra-chat-minutas-e-pesquisa-de-precedentes/",
+      "resumo": "O Gabinete do Juízo passa a contar com uma evolução na funcionalidade de inteligência artificial (IA). Agora, a ferramenta possui um chat direto com a IA, permitindo uma interação mais dinâmica com usuários e usuárias, além de apoiar a geração de minutas e realizar leitura assistida dos autos, ampli",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "precedente",
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
+    },
+    {
+      "id": "81b350505d724eb6",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ instala Câmara de Apoio Técnico para fortalecer soluções em conflitos fundiários",
+      "link": "https://www.cnj.jus.br/cnj-instala-camara-de-apoio-tecnico-para-fortalecer-solucoes-em-conflitos-fundiarios/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) instalou, nesta segunda-feira (17/8), em Brasília (DF), a Câmara de Apoio Técnico da Comissão Nacional de Soluções Fundiárias. A nova instância foi criada para contribuir para o aprimoramento da política de tratamento adequado dos conflitos fundiários e aproximar",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
+    },
+    {
+      "id": "990429811e7ca850",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Desembargador do TJRJ é mantido afastado de processos da recuperação judicial da Oi",
+      "link": "https://www.cnj.jus.br/desembargador-do-tjrj-e-mantido-afastado-de-processos-da-recuperacao-judicial-da-oi/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) ratificou, por unanimidade, nesta terça-feira (18/8), o afastamento pontual do desembargador Paulo Wunder de Alencar, do Tribunal de Justiça do Rio de Janeiro (TJRJ), das ações relativas à recuperação judicial do Grupo Oi. A decisão ocorreu durante a 12ª Sessão O",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 86,
+      "tags": [
+        "decisao",
+        "recuperacao judicial",
+        "judicial",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
     },
     {
       "id": "120b8f67d7b2972a",
@@ -9180,6 +9398,23 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-12T15:14:18-03:00"
+    },
+    {
+      "id": "e8edc441ff29d6b0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Conheça o júri de jornalistas do Prêmio Congresso em Foco 2026",
+      "link": "https://www.congressoemfoco.com.br/noticia/121164/conheca-o-juri-de-jornalistas-do-premio-congresso-em-foco-2026",
+      "resumo": "Júri foi totalmente renovado em 2026 e reúne profissionais de dez veículos que acompanham de perto a atuação da Câmara e do Senado.",
+      "publicado_em": "2026-08-11T11:34:35-03:00",
+      "dia": "2026-08-11",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-18T17:14:44-03:00"
     },
     {
       "id": "819b17c2a3bdf312",
