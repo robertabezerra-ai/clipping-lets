@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-18T12:38:22-03:00",
+  "gerado_em": "2026-08-18T15:19:36-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@ window.DADOS = {
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -269,6 +269,37 @@ window.DADOS = {
       "coletado_em": "2026-08-18T12:38:22-03:00"
     },
     {
+      "id": "188a6f9c76289293",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Comunicado sobre instabilidade no sistema DEJT",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/comunicado-sobre-instabilidade-no-sistema-dejt",
+      "resumo": "",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "939f60b2b85f0e6a",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "2º Seminário de Relações Trabalhistas no Transporte Rodoviário de Cargas ocorre em 20 de agosto",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2o-seminario-de-relacoes-trabalhistas-no-transporte-rodoviario-de-cargas-ocorre-em-20-de-agosto",
+      "resumo": "",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [
+        "trabalhista",
+        "seminario"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
       "id": "22080cdbb7018d0c",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -299,6 +330,37 @@ window.DADOS = {
       "coletado_em": "2026-08-18T12:38:22-03:00"
     },
     {
+      "id": "591776defc360bcb",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP, EPM e DPESP realizam curso para cobertura jornalística de casos de violência contra mulheres e feminicídio",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115058&pagina=1",
+      "resumo": "Exposições de magistradas e jornalista.\n \n\tO Tribunal de Justiça de São Paulo, a Escola Paulista da Magistratura (EPM) e a Defensoria Pública do Estado de",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "03988b976f2dde78",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "OE declara inconstitucional lei de Piracicaba que burocratiza doação de alimentos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115062&pagina=1",
+      "resumo": "Afronta ao princípio federativo e combate à fome.\n \n\tO Órgão Especial do Tribunal de Justiça de São Paulo declarou, por votação unânime, a inconstitucionalidade da",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "inconstitucional",
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
       "id": "e2baae8d0b235fd9",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -327,6 +389,34 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "f8f864bbd6693a4c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições: 314 pessoas se candidataram ao Senado neste ano",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/eleicoes-314-pessoas-se-candidataram-ao-senado-neste-ano",
+      "resumo": "",
+      "publicado_em": "2026-08-18T15:06:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "f47d63b2cb56ffb6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Debate aponta falta de pessoal no TRT-2 e possibilidade de nomear concursados",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/18/debate-aponta-falta-de-pessoal-no-trt-2-e-possibilidade-de-nomear-concursados",
+      "resumo": "",
+      "publicado_em": "2026-08-18T14:33:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
     },
     {
       "id": "1b1e8751a21f2ad9",
@@ -452,6 +542,84 @@ window.DADOS = {
       "coletado_em": "2026-08-18T12:38:22-03:00"
     },
     {
+      "id": "bd398e810abbc515",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Estratégia Nacional estabelece núcleos regionais de prevenção ao endividamento",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/estrategia-nacional-estabelece-nucleos-regionais-de-prevencao-ao-endividamento",
+      "resumo": "",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "0fcb3e9084325ade",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Diretriz do MEC: artes visuais, dança, música e teatro fazem parte da educação básica",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/mec-homologa-diretrizes-para-ensino-de-arte-na-educacao-basica-1",
+      "resumo": "",
+      "publicado_em": "2026-08-18T14:49:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "f3596622afaae391",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Receita Federal e Ministério Público fazem nova operação contra bets ilegais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/receita-federal-participa-da-operacao-conto-da-sorte-contra-esquema-de-apostas-ilegais-1",
+      "resumo": "",
+      "publicado_em": "2026-08-18T14:35:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "d32c8daf4aee0ac7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Perguntas e respostas: saiba o que muda na Lei Seca após atualização das normas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/perguntas-e-respostas-saiba-o-que-muda-na-lei-seca",
+      "resumo": "",
+      "publicado_em": "2026-08-18T14:24:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "af9b7cca039a32d6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Fundação Nacional das Artes reverencia a atriz Laura Cardoso",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/funarte-reverencia-laura-cardoso",
+      "resumo": "",
+      "publicado_em": "2026-08-18T12:36:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
       "id": "3be354ac2839c736",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -469,7 +637,7 @@ window.DADOS = {
       "id": "68960faa3ecf3714",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Estudar não tem idade: histórias que inspiram vidas",
+      "titulo": "Estudar não tem idade: conheça histórias especiais que inspiram vidas",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/estudar-nao-tem-idade-historias-que-inspiram-vidas-1",
       "resumo": "",
       "publicado_em": "2026-08-18T12:27:00-03:00",
@@ -573,7 +741,7 @@ window.DADOS = {
       "id": "979d79ae0afd7a11",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Petrobras: descoberta de petróleo na costa do Amapá é compromisso com segurança energética do Brasil",
+      "titulo": "Petrobras: descoberta de petróleo no Amapá é compromisso com segurança energética do Brasil",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/petrobras-descoberta-de-petroleo-na-costa-do-amapa-e-compromisso-com-seguranca-energetica-do-brasil",
       "resumo": "",
       "publicado_em": "2026-08-18T09:25:00-03:00",
@@ -596,6 +764,64 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-18T12:38:22-03:00"
+    },
+    {
+      "id": "744b83cfdd4ccbd2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bloquear o Discord não basta",
+      "link": "https://www.congressoemfoco.com.br/artigo/121371/bloquear-o-discord-nao-basta",
+      "resumo": "Suspender redes pode apenas deslocar criminosos. É preciso responsabilizar empresas, fortalecer investigações e agir antes da violência.",
+      "publicado_em": "2026-08-18T14:44:18-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "f949920c880531e2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veterinária atacada em canil do Senado está em estado grave",
+      "link": "https://www.congressoemfoco.com.br/noticia/121367/veterinaria-e-atacada-em-canil-do-senado-e-entra-em-estado-grave",
+      "resumo": "Profissional terceirizada sofreu mordida no pescoço, estado permanece crítico após cirurgia.",
+      "publicado_em": "2026-08-18T14:12:30-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "3a42deb89b05d637",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Davi Alcolumbre revive no Amapá o sonho do petróleo de Monteiro Lobato",
+      "link": "https://www.congressoemfoco.com.br/noticia/121362/davi-alcolumbre-revive-no-amapa-o-sonho-do-petroleo-de-monteiro-lobato",
+      "resumo": "Nove décadas depois de \"O Poço do Visconde\", descoberta na Margem Equatorial aproxima a bandeira de Davi Alcolumbre do nacionalismo petrolífero de Monteiro Lobato.",
+      "publicado_em": "2026-08-18T12:50:16-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "9ad812ddd4011b5b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Prompt injection em processos judiciais",
+      "link": "https://www.congressoemfoco.com.br/artigo/121360/prompt-injection-em-processos-judiciais",
+      "resumo": "Comandos ocultos em documentos podem manipular sistemas de IA e criam um novo desafio de segurança para escritórios e tribunais.",
+      "publicado_em": "2026-08-18T11:54:30-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
     },
     {
       "id": "7ee7d0ae707b217f",
@@ -718,6 +944,219 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "da3f6d022eaeae8b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Mudança cultural no Poder Judiciário consolida queda no consumo de papel e energia por tribunais",
+      "link": "https://www.cnj.jus.br/mudanca-cultural-no-poder-judiciario-consolida-queda-no-consumo-de-papel-e-energia-por-tribunais/",
+      "resumo": "O consumo de papel pelos tribunais brasileiros reduziu 14% em 2025 quando comparado com o ano anterior, constituindo o menor dos últimos dez anos. Os dados são resultado do 10º Balanço de Sustentabilidade do Poder Judiciário, divulgado pelo Conselho Nacional de Justiça (CNJ) durante a 4ª edição do J",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "64c8f5c6b7129e27",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ propõe regulamentação de grupos reflexivos para autores de violência",
+      "link": "https://www.cnj.jus.br/cnj-propoe-regulamentacao-de-grupos-reflexivos-para-autores-de-violencia/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) apresentou, nesta terça-feira (18/8), durante a 12ª Sessão Ordinária de 2026, proposta de resolução que estabelece requisitos mínimos e diretrizes nacionais para a implementação, o funcionamento, a articulação em rede e o monitoramento dos Grupos Reflexivos e Res",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 70,
+      "tags": [
+        "resolucao",
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "47b4607beeec355e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pena Justa: Horizontes Culturais é destaque em debate sobre arte e prisões em SP",
+      "link": "https://www.cnj.jus.br/pena-justa-horizontes-culturais-e-destaque-em-debate-sobre-arte-e-prisoes-em-sp/",
+      "resumo": "O Horizontes Culturais, iniciativa do plano Pena Justa voltado ao fomento à cultura no sistema prisional, foi um dos temas do seminário Ensaios sobre Arte, Liberdade e Encarceramento no Brasil, realizado de 10 a 14 de agosto no Instituto Tomie Ohtake, em São Paulo. A participação do Conselho Naciona",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 36,
+      "tags": [
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "f9ef23fc7bdbecc9",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Fachin defende a transparência do Judiciário ao lançar cartilha sobre remuneração da magistratura",
+      "link": "https://www.cnj.jus.br/fachin-defende-a-transparencia-do-judiciario-ao-lancar-cartilha-sobre-remuneracao-da-magistratura/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) lançou, nesta terça-feira (18/8), durante a 12ª Sessão Ordinária de 2026, a cartilha “Remuneração de Magistrados e Magistradas: perguntas frequentes”. O material apresenta os principais pontos do julgamento do Tema 966 pelo Supremo Tribunal Federal (STF), em març",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "120b8f67d7b2972a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova criação de política nacional de conservação do pau-brasil",
+      "link": "https://www.camara.leg.br/noticias/1298425-comissao-aprova-criacao-de-politica-nacional-de-conservacao-do-pau-brasil",
+      "resumo": "",
+      "publicado_em": "2026-08-18T14:59:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "52e98bdc9f527991",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que cria programa para financiar adaptação de casas para idosos",
+      "link": "https://www.camara.leg.br/noticias/1298421-comissao-aprova-projeto-que-cria-programa-para-financiar-adaptacao-de-casas-para-idosos",
+      "resumo": "",
+      "publicado_em": "2026-08-18T13:56:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "349aeca27d765cad",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão da Amazônia aprova projeto que protege símbolos culturais de povos tradicionais",
+      "link": "https://www.camara.leg.br/noticias/1298060-comissao-da-amazonia-aprova-projeto-que-protege-simbolos-culturais-de-povos-tradicionais",
+      "resumo": "",
+      "publicado_em": "2026-08-18T13:09:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "adi",
+        "aprova"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "0dbbcbd219c5ce01",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que define regras para adaptação de provas em concursos públicos",
+      "link": "https://www.camara.leg.br/noticias/1298411-comissao-aprova-projeto-que-define-regras-para-adaptacao-de-provas-em-concursos-publicos",
+      "resumo": "",
+      "publicado_em": "2026-08-18T12:13:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "bbc8c90c04f40da4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria lei para proteger crianças e adolescentes de conteúdos inadequados",
+      "link": "https://www.camara.leg.br/noticias/1298435-projeto-cria-lei-para-proteger-criancas-e-adolescentes-de-conteudos-inadequados",
+      "resumo": "",
+      "publicado_em": "2026-08-18T11:26:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "971fc2610a6e89da",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova diretrizes para atendimento de pessoas com autismo em crises",
+      "link": "https://www.camara.leg.br/noticias/1298309-comissao-aprova-diretrizes-para-atendimento-de-pessoas-com-autismo-em-crises",
+      "resumo": "",
+      "publicado_em": "2026-08-18T11:21:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "8884882605140e4b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova intérprete de línguas indígenas em atendimentos públicos",
+      "link": "https://www.camara.leg.br/noticias/1298299-comissao-aprova-interprete-de-linguas-indigenas-em-atendimentos-publicos",
+      "resumo": "",
+      "publicado_em": "2026-08-18T10:57:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "ac3f5609a4858593",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Orçamento discute déficit de pessoal no Tribunal Regional do Trabalho da 2ª Região",
+      "link": "https://www.camara.leg.br/noticias/1298032-comissao-de-orcamento-discute-deficit-de-pessoal-no-tribunal-regional-do-trabalho-da-2a-regiao",
+      "resumo": "",
+      "publicado_em": "2026-08-18T08:10:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "00cbbfc6ba58e343",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD publica relatório de acompanhamento e execução da agenda regulatória no 1º semestre deste ano",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-relatorio-de-acompanhamento-e-execucao-da-agenda-regulatoria-no-1o-semestre-deste-ano",
+      "resumo": "Destaque ficou por conta das ações voltadas à regulamentação e implementação do ECA Digital e do decreto que atualiza o Marco Civil da Internet",
+      "publicado_em": "2026-08-18T13:48:29-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "decreto",
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
     },
     {
       "id": "774a2386732d4ec8",
@@ -2173,6 +2612,36 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-18T08:29:46-03:00"
+    },
+    {
+      "id": "ed6bff7654d799ac",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova diretrizes para desapropriar terrenos de comunidades vulneráveis",
+      "link": "https://www.camara.leg.br/noticias/1298043-comissao-aprova-diretrizes-para-desapropriar-terrenos-de-comunidades-vulneraveis",
+      "resumo": "",
+      "publicado_em": "2026-08-17T19:03:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "db39e66ba0714fb6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão mista vai analisar crédito para motociclistas de aplicativos",
+      "link": "https://www.camara.leg.br/noticias/1298398-comissao-mista-vai-analisar-credito-para-motociclistas-de-aplicativos",
+      "resumo": "",
+      "publicado_em": "2026-08-17T18:31:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
     },
     {
       "id": "d4f84d64f33d1162",
