@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-19T12:37:46-03:00",
+  "gerado_em": "2026-08-19T15:16:57-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -281,6 +281,22 @@
       "coletado_em": "2026-08-19T12:37:46-03:00"
     },
     {
+      "id": "518b7005069aef2a",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "8ª Câmara autoriza trabalho remoto após licença por transtorno psiquiátrico grave",
+      "link": "https://trt15.jus.br/noticia/2026/8a-camara-autoriza-trabalho-remoto-apos-licenca-por-transtorno-psiquiatrico-grave",
+      "resumo": "8ª Câmara autoriza trabalho remoto após licença por transtorno psiquiátrico grave anagatto Qua, 19/08/2026 - 14:34 8ª Câmara autoriza trabalho remoto após licença por transtorno psiquiátrico grave Conteúdo da Notícia Em decisão unânime, a 8ª Câmara do Tribunal Regional do Trabalho da 15ª Região deu ",
+      "publicado_em": "2026-08-19T14:34:37-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
       "id": "ea42ed78e1a5726e",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -296,6 +312,24 @@
         "acao"
       ],
       "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "ca5323d562382ee2",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Estado não indenizará dona de lar de idosos fiscalizado por maus-tratos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115064&pagina=1",
+      "resumo": "Atuação ocorreu no cumprimento de dever legal.\n \n\tA 5ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve decisão da 1ª Vara",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "indenizar",
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
     },
     {
       "id": "e93d96c4330d26fe",
@@ -328,6 +362,52 @@
         "acao"
       ],
       "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "c0012151946d4169",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Das ideias às leis: Jovens Senadores iniciam criação de projetos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/das-ideias-as-leis-jovens-senadores-iniciam-criacao-de-projetos",
+      "resumo": "",
+      "publicado_em": "2026-08-19T14:05:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "265013e664ebd4bf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Recorde no Jovem Senador: coordenadores estaduais contam experiências",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/recorde-no-jovem-senador-coordenadores-estaduais-contam-experiencias",
+      "resumo": "",
+      "publicado_em": "2026-08-19T13:41:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "dae6a9adba9c5114",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCJ analisa criação de universidade em Cruzeiro do Sul, no Acre",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/ccj-analisa-criacao-de-universidade-em-cruzeiro-do-sul-no-acre",
+      "resumo": "",
+      "publicado_em": "2026-08-19T13:02:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
     },
     {
       "id": "31a46864b160eb5d",
@@ -390,6 +470,64 @@
       "coletado_em": "2026-08-19T12:37:46-03:00"
     },
     {
+      "id": "db802aa66779a41c",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação Última Chamada recupera mais de 6 mil celulares em dez dias",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-ultima-chamada-recupera-mais-de-6-mil-celulares-em-10-dias",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "ee38aaf8e5d8ace5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Um ano depois, Embrapa e universidades voltam à TI Tirecatinga em expedição de saberes e sabores",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/segunda-expedicao-a-ti-tirecatinga-reune-pesquisa-saberes-tradicionais-e-acoes-de-valorizacao-da-sociobiodiversidade",
+      "resumo": "",
+      "publicado_em": "2026-08-19T14:05:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "1819b641e487c616",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Como o MEC pretende abrir cursos de mestrado e doutorado em regiões afastadas do País",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/mestrado-e-doutorado-podem-chegar-a-regioes-afastadas-do-pais",
+      "resumo": "",
+      "publicado_em": "2026-08-19T13:49:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "04dfaad70210eeb8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Supremo Tribunal de Justiça restabelece restrições a faculdades de medicina com baixo desempenho",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/stj-restabelece-medidas-cautelares-impostas-pelo-mec-a-instituicoes-com-baixo-desempenho-nos-cursos-de-medicina",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:58:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
       "id": "aefda871ade40d21",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -402,6 +540,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "71d05806b8e3d544",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil no Mundo estreia novo horário na TV Brasil abordando a disputa entre EUA e China pela IA",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/brasil-no-mundo-estreia-novo-horario-na-tv-brasil-com-debate-sobre-disputa-entre-eua-e-china-pela-inteligencia-artificial",
+      "resumo": "",
+      "publicado_em": "2026-08-19T11:31:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
     },
     {
       "id": "cfbc316de8ae4f01",
@@ -492,6 +644,87 @@
       "coletado_em": "2026-08-19T08:29:59-03:00"
     },
     {
+      "id": "a6de24b9d86d9ed1",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal, Comitê Gestor do IBS e CFC alinham diretrizes do Plano Nacional de Conformidade Tributária",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/receita-federal-comite-gestor-do-ibs-e-cfc-alinham-diretrizes-do-plano-nacional-de-conformidade-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "ibs"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "934096a86084b816",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Prazo para solicitar ingresso no Simples Nacional passa a ser em setembro de 2026, em vez de janeiro",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/prazo-para-solicitar-ingresso-no-simples-nacional-passa-a-ser-em-setembro-de-2026-em-vez-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "prazo",
+        "simples nacional"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "4030d766477653fd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro abre 13 pontos sobre Lula no Paraná, diz pesquisa",
+      "link": "https://www.congressoemfoco.com.br/noticia/121416/flavio-bolsonaro-abre-13-pontos-sobre-lula-no-parana-diz-pesquisa",
+      "resumo": "Em um eventual segundo turno, senador marca 52%, contra 35% do atual presidente no Estado.",
+      "publicado_em": "2026-08-19T14:37:53-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "281d44191f342c87",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nova lei amplia acesso de pequenos criadores a alimentos para animais",
+      "link": "https://www.congressoemfoco.com.br/noticia/121413/nova-lei-amplia-acesso-de-pequenos-criadores-a-alimentos-para-animais",
+      "resumo": "Programa passa a incluir sorgo, farelos e outros produtos destinados à alimentação animal e amplia o público beneficiado.",
+      "publicado_em": "2026-08-19T14:10:55-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "d2757e18d65b88ab",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Aspectos jurídicos da invalidação de escritura pública",
+      "link": "https://www.congressoemfoco.com.br/artigo/121400/aspectos-juridicos-da-invalidacao-de-escritura-publica",
+      "resumo": "O inadimplemento do comprador pode levar à resolução do contrato, mas não invalida automaticamente escritura e registro.",
+      "publicado_em": "2026-08-19T11:17:02-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "adi",
+        "resolucao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
       "id": "e33c21d1f5a8dc86",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -504,6 +737,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "9685174131bed4dc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "2026: o ano em que o Brasil decidirá o futuro da sua educação",
+      "link": "https://www.congressoemfoco.com.br/artigo/121398/2026-o-ano-em-que-o-brasil-decidira-o-futuro-da-sua-educacao",
+      "resumo": "O novo PNE exige dos eleitos compromisso com metas, continuidade das políticas públicas e resultados que possam ser cobrados.",
+      "publicado_em": "2026-08-19T11:05:29-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
     },
     {
       "id": "88db66e58bc3ed95",
@@ -520,6 +769,20 @@
         "acao"
       ],
       "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "11919b6bd9af1e04",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O erro de regular cripto como banco",
+      "link": "https://www.congressoemfoco.com.br/artigo/121396/o-erro-de-regular-cripto-como-banco",
+      "resumo": "A retenção de transferências aumenta a fricção e pode afastar operações justamente do ambiente supervisionado.",
+      "publicado_em": "2026-08-19T10:58:12-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
     },
     {
       "id": "b33d6537be2ee7a1",
@@ -662,6 +925,57 @@
       "coletado_em": "2026-08-19T12:37:46-03:00"
     },
     {
+      "id": "6b43791d539362e8",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Juiz será investigado pelo CNJ por uso de linguagem grosseira e misógina durante julgamento",
+      "link": "https://www.cnj.jus.br/juiz-sera-investigado-pelo-cnj-por-uso-de-linguagem-grosseira-e-misogina-durante-julgamento/",
+      "resumo": "A atuação de um juiz do Tribunal de Justiça do Distrito Federal e Territórios (TJDFT) contra uma vítima de feminicídio será investigada pelo Conselho Nacional de Justiça (CNJ). Para o Plenário, a vítima já tinha sofrido violência física e emocional, e não recebeu o devido acolhimento do Poder Judici",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "eb06a90dc0228d96",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Direitos políticos são tema de seminário sobre pesquisas empíricas aplicadas no Judiciário",
+      "link": "https://www.cnj.jus.br/direitos-politicos-sao-tema-de-seminario-sobre-pesquisas-empiricas-aplicadas-no-judiciario/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) promove, nesta quinta-feira (20/8), mais uma edição dos Seminários de Pesquisas Empíricas Aplicadas às Políticas Judiciárias. Desta vez, o tema será Direitos Políticos e contará com a apresentação de trabalhos técnicos selecionados por meio da Chamada Pública CNJ",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 36,
+      "tags": [
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "02e1fbb9d73c3a27",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pacto pela Primeira Infância avança com integração entre Justiça e políticas públicas",
+      "link": "https://www.cnj.jus.br/pacto-pela-primeira-infancia-avanca-com-integracao-entre-justica-e-politicas-publicas/",
+      "resumo": "A integração entre Poderes e instituições é fundamental para transformar os direitos previstos para crianças em políticas públicas efetivas. Essa foi uma das principais conclusões do webinário nacional “Pacto pela Primeira Infância: governança, articulação e fortalecimento da rede”, realizado nesta ",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
       "id": "d0ed3d4619de17f4",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -769,6 +1083,22 @@
         "cade"
       ],
       "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "3e4ad761c9ad95b5",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Publicada portaria com critérios objetivos e diretrizes de diversidade para a seleção de consultores não governamentais",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/publicada-portaria-com-criterios-objetivos-e-diretrizes-de-diversidade-para-a-selecao-de-consultores-nao-governamentais-1",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "portaria"
+      ],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
     },
     {
       "id": "1389a33f3b5f72e0",
@@ -2125,9 +2455,9 @@
       "id": "cb4cddc0188f1e85",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Corregedor nacional de Justiça faz balanço de gestão em despedida",
+      "titulo": "Corregedor nacional de justiça faz balanço de gestão em despedida",
       "link": "https://www.cnj.jus.br/corregedor-nacional-de-justica-faz-balanco-de-gestao-em-despedida/",
-      "resumo": "A atuação do ministro Mauro Campbell Marques como corregedor nacional de Justiça encerrou-se durante a 12ª Sessão Ordinária de 2026 do Conselho Nacional de Justiça (CNJ), realizada nesta terça-feira (18/8). Campbell assumirá o cargo de vice-presidente do Superior Tribunal de Justiça (STJ) nesta quar",
+      "resumo": "A atuação do ministro Mauro Campbell Marques como corregedor nacional de justiça encerrou-se durante a 12ª Sessão Ordinária de 2026 do Conselho Nacional de Justiça (CNJ), realizada nesta terça-feira (18/8). Campbell assumirá o cargo de vice-presidente do Superior Tribunal de Justiça (STJ) nesta quar",
       "publicado_em": "2026-08-18T12:00:00-03:00",
       "dia": "2026-08-18",
       "data_estimada": true,
@@ -2143,7 +2473,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Juiz do processo de falência do Banco Santos ficará afastado do caso por decisão do CNJ",
       "link": "https://www.cnj.jus.br/juiz-do-processo-de-falencia-do-banco-santos-ficara-afastado-do-caso-por-decisao-do-cnj/",
-      "resumo": "O Plenário do Conselho Nacional de Justiça (CNJ) ratificou, nesta terça-feira (18/8), liminar por meio da qual o corregedor nacional da Justiça, ministro Mauro Campbell Marques, afastou o titular da 2ª Vara de Falências e Recuperações Judiciais da Comarca da Capital do Estado de São Paulo, juiz Paul",
+      "resumo": "O Plenário do Conselho Nacional de Justiça (CNJ) ratificou, nesta terça-feira (18/8), liminar por meio da qual o corregedor nacional de justiça, ministro Mauro Campbell Marques, afastou o titular da 2ª Vara de Falências e Recuperações Judiciais da Comarca da Capital do Estado de São Paulo, juiz Paul",
       "publicado_em": "2026-08-18T12:00:00-03:00",
       "dia": "2026-08-18",
       "data_estimada": true,
@@ -2178,7 +2508,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Magistrado aposentado deve cumprir quarentena antes de atuar no mesmo tribunal, reforça CNJ",
       "link": "https://www.cnj.jus.br/magistrado-aposentado-deve-cumprir-quarentena-antes-de-atuar-no-mesmo-tribunal-reforca-cnj/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) reforçou em julgamento desta terça-feira (18/8) a determinação, com base na Constituição Federal, do cumprimento da quarentena de três anos para a exercício da advocacia por magistrados aposentados no tribunal do qual fazia parte. O entendimento foi consolidado n",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) reforçou em julgamento desta terça-feira (18/8) a determinação, com base na Constituição Federal, do cumprimento da quarentena de três anos para o exercício da advocacia por magistrados aposentados no tribunal do qual fazia parte. O entendimento foi consolidado n",
       "publicado_em": "2026-08-18T12:00:00-03:00",
       "dia": "2026-08-18",
       "data_estimada": true,
