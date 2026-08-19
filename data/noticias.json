@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-19T08:29:59-03:00",
+  "gerado_em": "2026-08-19T12:37:46-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -251,6 +251,219 @@
   ],
   "noticias": [
     {
+      "id": "188a6f9c76289293",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Comunicado sobre instabilidade no sistema DEJT",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/comunicado-sobre-instabilidade-no-sistema-dejt",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "6f4c71d5f6d281b5",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Teletrabalho não justifica supressão de intervalo para amamentação",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/teletrabalho-nao-justifica-supressao-de-intervalo-para-amamentacao",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "ea42ed78e1a5726e",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Unesp publica edição especial de revista acadêmica com artigos de estagiários e servidores do Tribunal",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115055&pagina=1",
+      "resumo": "Preservação e difusão do patrimônio documental do TJSP.\n \n\tA Universidade Estadual Paulista (Unesp) lançou edição especial de revista acadêmica, intitulada “Entre a lide e a",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "e93d96c4330d26fe",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quarta-feira (19)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-19-2/",
+      "resumo": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "publicado_em": "2026-08-19T09:55:42-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "37cf05e65e86c2ef",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF realiza audiência de conciliação sobre assentamentos em terra indígena de Rondônia",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-realiza-audiencia-de-conciliacao-sobre-assentamentos-em-terra-indigena-de-rondonia/",
+      "resumo": "Audiência avançou no mapeamento da situação e na busca de encaminhamentos para a região",
+      "publicado_em": "2026-08-19T09:32:16-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "31a46864b160eb5d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado debaterá a criação de centro de terapia celular",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/senado-debatera-a-criacao-de-centro-de-terapia-celular",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:21:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "f711e6487c53473f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições de 2026 têm menos de 2% de candidatos LGBTQIAPN+",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/19/eleicoes-de-2026-tem-menos-de-2-de-candidatos-lgbtqiapn",
+      "resumo": "",
+      "publicado_em": "2026-08-19T11:57:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "7f0789929220749a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Audiência pública no Senado vai debater programa nacional de drones",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/audiencia-publica-no-senado-vai-debater-programa-nacional-de-drones",
+      "resumo": "",
+      "publicado_em": "2026-08-19T11:47:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "344ed9474acbe24f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Debatedores defendem ampliação da oferta de tempo integral nas escolas públicas",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/debatedores-defendem-ampliacao-da-oferta-de-tempo-integral-nas-escolas-publicas",
+      "resumo": "",
+      "publicado_em": "2026-08-19T09:52:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "aefda871ade40d21",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Acessibilidade: entenda as barreiras que afetam o cotidiano das pessoas com deficiência",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/acessibilidade-e-direito-entenda-as-barreiras-que-afetam-o-cotidiano-das-pessoas-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-08-19T11:32:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "cfbc316de8ae4f01",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Aberto edital para fortalecer o turismo de experiência no Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/aberto-edital-para-fortalecer-o-turismo-de-experiencia-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-08-19T11:03:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "bb1869de01ca1f6a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Dia D de vacinação contra 20 doenças acontece neste sábado (22) em todo o País",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/dia-d-de-vacinacao-contra-20-doencas-acontece-neste-sabado-22-em-todo-o-pais",
+      "resumo": "",
+      "publicado_em": "2026-08-19T08:55:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "d150a97e3e37b2da",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Anac intensifica fiscalização de voos panorâmicos no Rio de Janeiro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/anac-intensifica-fiscalizacao-de-voos-panoramicos-no-rio",
+      "resumo": "",
+      "publicado_em": "2026-08-19T08:50:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "b99e5bed5fbffc33",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "CNE orienta sobre ajustes no calendário escolar durante a Copa do Mundo Feminina de 2027",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/cne-orienta-redes-de-ensino-sobre-organizacao-do-calendario-escolar-durante-a-copa-do-mundo-feminina-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-08-19T08:30:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
       "id": "5c88ad2c1de9f3d9",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -277,6 +490,99 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-19T08:29:59-03:00"
+    },
+    {
+      "id": "e33c21d1f5a8dc86",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto de Pollon prevê recompensa de até R$ 100 por javali abatido",
+      "link": "https://www.congressoemfoco.com.br/noticia/121399/projeto-de-pollon-preve-recompensa-de-ate-r-100-por-javali-abatido",
+      "resumo": "Texto inclui controle de todas as espécies animais exóticas invasoras no Brasil.",
+      "publicado_em": "2026-08-19T11:06:16-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "88db66e58bc3ed95",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cresce presença de mulheres e indígenas na disputa pela Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/121397/cresce-presenca-de-mulheres-e-indigenas-na-disputa-pela-camara",
+      "resumo": "Participação feminina sobe de 35% para 37%, candidaturas indígenas passam de 50 para 75 e idade média cai para 47 anos.",
+      "publicado_em": "2026-08-19T11:00:43-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "b33d6537be2ee7a1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleições 2026: IA e redes sociais mudam o jogo para candidatos",
+      "link": "https://www.congressoemfoco.com.br/artigo/121395/eleicoes-2026-ia-e-redes-sociais-mudam-o-jogo-para-candidatos",
+      "resumo": "Inteligência artificial, financiamento e prestação de contas mudam em 2026 e exigem atenção de candidatos e eleitores.",
+      "publicado_em": "2026-08-19T10:50:10-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "fa2ba9f74998635a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Aldear a política é fazer o Brasil se parecer com o seu povo",
+      "link": "https://www.congressoemfoco.com.br/artigo/121394/aldear-a-politica-e-fazer-o-brasil-se-parecer-com-o-seu-povo",
+      "resumo": "Recorde de candidaturas indígenas em 2026 amplia uma caminhada por representação, direitos e participação nas decisões do país.",
+      "publicado_em": "2026-08-19T10:18:37-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "621324ba7d0b0a22",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MPF move ação contra Renan e MBL por ofensas a indígenas do Pará",
+      "link": "https://www.congressoemfoco.com.br/noticia/121392/mpf-move-acao-contra-renan-e-mbl-por-ofensas-a-indigenas-do-para",
+      "resumo": "Órgão pede indenização de R$ 500 mil, retirada de vídeos e retratação por publicações consideradas discriminatórias contra 14 etnias.",
+      "publicado_em": "2026-08-19T08:48:57-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "f5fe6c7fe981b79d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE condena vereador por violência política ao chamar colega de safada",
+      "link": "https://www.congressoemfoco.com.br/noticia/121391/tse-condena-vereador-por-violencia-politica-ao-chamar-colega-de-safada",
+      "resumo": "Parlamentar de Medina (MG) também chamou vereadora de \"vagabunda\" e fez comentários sobre o corpo dela; TSE determinou inelegibilidade por oito anos.",
+      "publicado_em": "2026-08-19T08:29:58-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
     },
     {
       "id": "96b32e447f6e3bd2",
@@ -324,6 +630,147 @@
       "coletado_em": "2026-08-19T08:29:59-03:00"
     },
     {
+      "id": "859771e52a413bba",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Prorrogado o prazo de inscrição para o Selo Linguagem Simples 2026",
+      "link": "https://www.cnj.jus.br/prorrogado-o-prazo-de-inscricao-para-o-selo-linguagem-simples-2026/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) estendeu o prazo de inscrições no Selo Linguagem Simples 2026 até esta sexta-feira, 21 de agosto. Agora, tribunais, conselhos e escolas judiciais de todo o Brasil têm mais cinco dias em relação à data anterior (16/8) para submeter seus projetos.  O Selo reconhece",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "prorrogad",
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "bf091ed853c1802f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Construção democrática marca definição das Metas Nacionais do Judiciário",
+      "link": "https://www.cnj.jus.br/construcao-democratica-marca-definicao-das-metas-nacionais-do-judiciario/",
+      "resumo": "Presidentes e representantes de todos os tribunais brasileiros participam, na próxima segunda-feira (24/8), da 2ª Reunião Preparatória para o 20º Encontro Nacional do Poder Judiciário. Promovida pelo Conselho Nacional de Justiça (CNJ), a reunião tem como principal objetivo aperfeiçoar as propostas d",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "d0ed3d4619de17f4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Presidente da Câmara defende soberania do país na área da saúde",
+      "link": "https://www.camara.leg.br/noticias/1298836-presidente-da-camara-defende-soberania-do-pais-na-area-da-saude",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:10:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "a52cb1573cdd58de",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Direitos Humanos aprova projeto com cota de 20% para mulheres em contratos públicos",
+      "link": "https://www.camara.leg.br/noticias/1298792-comissao-de-direitos-humanos-aprova-projeto-com-cota-de-20-para-mulheres-em-contratos-publicos",
+      "resumo": "",
+      "publicado_em": "2026-08-19T10:50:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "a1919d5c2dafe1fa",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei amplia produtos disponíveis para pequenos criadores no Programa de Venda em Balcão",
+      "link": "https://www.camara.leg.br/noticias/1298460-lei-amplia-produtos-disponiveis-para-pequenos-criadores-no-programa-de-venda-em-balcao",
+      "resumo": "",
+      "publicado_em": "2026-08-19T10:21:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "aace891d4b1d8fde",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova uso de multas por racismo no combate à discriminação",
+      "link": "https://www.camara.leg.br/noticias/1298565-comissao-aprova-uso-de-multas-por-racismo-no-combate-a-discriminacao",
+      "resumo": "",
+      "publicado_em": "2026-08-19T10:05:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "multa",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "8c6fafecef45e151",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova prazo de 60 dias para responder a consultas do mercado de capitais",
+      "link": "https://www.camara.leg.br/noticias/1298302-comissao-aprova-prazo-de-60-dias-para-responder-a-consultas-do-mercado-de-capitais",
+      "resumo": "",
+      "publicado_em": "2026-08-19T10:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "prazo",
+        "aprova"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "1b2de34e7c2bd074",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Encontro na Câmara celebra cinco anos do Observatório Nacional da Mulher na Política",
+      "link": "https://www.camara.leg.br/noticias/1298755-encontro-na-camara-celebra-cinco-anos-do-observatorio-nacional-da-mulher-na-politica",
+      "resumo": "",
+      "publicado_em": "2026-08-19T08:47:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "f50168b6ff9db721",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "270ª sessão do Cade é cancelada; extraordinária na próxima semana será avaliada oportunamente",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/270a-sessao-do-cade-e-cancelada-extraordinaria-na-proxima-semana-sera-avaliada-oportunamente",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
       "id": "1389a33f3b5f72e0",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -340,20 +787,6 @@
         "acao"
       ],
       "coletado_em": "2026-08-18T12:38:22-03:00"
-    },
-    {
-      "id": "188a6f9c76289293",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Comunicado sobre instabilidade no sistema DEJT",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/comunicado-sobre-instabilidade-no-sistema-dejt",
-      "resumo": "",
-      "publicado_em": "2026-08-18T12:00:00-03:00",
-      "dia": "2026-08-18",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-18T15:19:36-03:00"
     },
     {
       "id": "939f60b2b85f0e6a",
@@ -424,7 +857,7 @@
       "fonte_nome": "TJSP",
       "titulo": "TJSP, EPM e DPESP realizam curso para cobertura jornalística de casos de violência contra mulheres e feminicídio",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115058&pagina=1",
-      "resumo": "Exposições de magistradas e jornalista.\n \n\tO Tribunal de Justiça de São Paulo, a Escola Paulista da Magistratura (EPM), a Coordenadoria da Mulher em Situação de",
+      "resumo": "Atividade intermediada pela Comesp.\n \n\tO Tribunal de Justiça de São Paulo, a Escola Paulista da Magistratura (EPM), a Coordenadoria da Mulher em Situação de Violêcia",
       "publicado_em": "2026-08-18T12:00:00-03:00",
       "dia": "2026-08-18",
       "data_estimada": true,
@@ -1689,6 +2122,152 @@
       "coletado_em": "2026-08-18T17:14:44-03:00"
     },
     {
+      "id": "cb4cddc0188f1e85",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Corregedor nacional de Justiça faz balanço de gestão em despedida",
+      "link": "https://www.cnj.jus.br/corregedor-nacional-de-justica-faz-balanco-de-gestao-em-despedida/",
+      "resumo": "A atuação do ministro Mauro Campbell Marques como corregedor nacional de Justiça encerrou-se durante a 12ª Sessão Ordinária de 2026 do Conselho Nacional de Justiça (CNJ), realizada nesta terça-feira (18/8). Campbell assumirá o cargo de vice-presidente do Superior Tribunal de Justiça (STJ) nesta quar",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "45988d06e55281f1",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Juiz do processo de falência do Banco Santos ficará afastado do caso por decisão do CNJ",
+      "link": "https://www.cnj.jus.br/juiz-do-processo-de-falencia-do-banco-santos-ficara-afastado-do-caso-por-decisao-do-cnj/",
+      "resumo": "O Plenário do Conselho Nacional de Justiça (CNJ) ratificou, nesta terça-feira (18/8), liminar por meio da qual o corregedor nacional da Justiça, ministro Mauro Campbell Marques, afastou o titular da 2ª Vara de Falências e Recuperações Judiciais da Comarca da Capital do Estado de São Paulo, juiz Paul",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 82,
+      "tags": [
+        "decisao",
+        "liminar",
+        "falencia",
+        "processo"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "8e9f81e9d59aaca4",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ recebe ex-jogador Raí para avançar em parceria voltada a pessoas privadas de liberdade",
+      "link": "https://www.cnj.jus.br/cnj-recebe-ex-jogador-rai-para-avancar-em-parceria-voltada-a-pessoas-privadas-de-liberdade/",
+      "resumo": "O ex-jogador e campeão mundial de futebol Raí esteve no Conselho Nacional de Justiça (CNJ) nesta terça-feira (18) para tratar de acordo de cooperação técnica para levar esporte, educação e formação profissional para o público privado de liberdade no sistema socioeducativo e no sistema penal. As açõe",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "266ac7c983e19f91",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Magistrado aposentado deve cumprir quarentena antes de atuar no mesmo tribunal, reforça CNJ",
+      "link": "https://www.cnj.jus.br/magistrado-aposentado-deve-cumprir-quarentena-antes-de-atuar-no-mesmo-tribunal-reforca-cnj/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) reforçou em julgamento desta terça-feira (18/8) a determinação, com base na Constituição Federal, do cumprimento da quarentena de três anos para a exercício da advocacia por magistrados aposentados no tribunal do qual fazia parte. O entendimento foi consolidado n",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "ddde5c76eba768cf",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Juiz que consumiu bebida alcóolica durante audiência tem afastamento mantido pelo CNJ",
+      "link": "https://www.cnj.jus.br/juiz-que-consumiu-bebida-alcoolica-durante-audiencia-tem-afastamento-mantido-pelo-cnj/",
+      "resumo": "O magistrado do Tribunal de Justiça de Minas Gerais (TJMG) Milton Lívio Lemos Salles vai continuar afastado de todas as suas atividades até o final do trâmite da reclamação disciplinar instaurada pelo Conselho Nacional de Justiça (CNJ). O juiz foi flagrado bebendo e fumando durante audiência de julg",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "3a9c1486aa7e6d55",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Hugo Motta lamenta morte das atrizes Laura Cardoso e Glória Menezes",
+      "link": "https://www.camara.leg.br/noticias/1298726-hugo-motta-lamenta-morte-das-atrizes-laura-cardoso-e-gloria-menezes",
+      "resumo": "",
+      "publicado_em": "2026-08-18T20:09:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "7fd73951170a1a0b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão Mista de Orçamento debate recomposição de servidores do TRT de São Paulo",
+      "link": "https://www.camara.leg.br/noticias/1298690-comissao-mista-de-orcamento-debate-recomposicao-de-servidores-do-trt-de-sao-paulo",
+      "resumo": "",
+      "publicado_em": "2026-08-18T18:45:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "7caf23ff00c032df",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova permissão para poder público comprar insumos da merenda escolar por meio de consórcios",
+      "link": "https://www.camara.leg.br/noticias/1298651-comissao-aprova-permissao-para-poder-publico-comprar-insumos-da-merenda-escolar-por-meio-de-consorcios",
+      "resumo": "",
+      "publicado_em": "2026-08-18T18:25:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "9596a28906e96ceb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova inclusão de inteligência artificial na Política Nacional de Educação Digital",
+      "link": "https://www.camara.leg.br/noticias/1298416-comissao-aprova-inclusao-de-inteligencia-artificial-na-politica-nacional-de-educacao-digital",
+      "resumo": "",
+      "publicado_em": "2026-08-18T17:51:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
       "id": "120b8f67d7b2972a",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1820,7 +2399,7 @@
       "id": "00cbbfc6ba58e343",
       "fonte_id": "anpd",
       "fonte_nome": "ANPD",
-      "titulo": "ANPD publica relatório de acompanhamento e execução da agenda regulatória no 1º semestre deste ano",
+      "titulo": "ANPD publica relatório de acompanhamento e execução da agenda regulatória do 1º semestre deste ano",
       "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-relatorio-de-acompanhamento-e-execucao-da-agenda-regulatoria-no-1o-semestre-deste-ano",
       "resumo": "Destaque ficou por conta das ações voltadas à regulamentação e implementação do ECA Digital e do decreto que atualiza o Marco Civil da Internet",
       "publicado_em": "2026-08-18T13:48:29-03:00",
