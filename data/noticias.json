@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-19T15:16:57-03:00",
+  "gerado_em": "2026-08-19T17:18:12-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -332,6 +332,39 @@
       "coletado_em": "2026-08-19T15:16:57-03:00"
     },
     {
+      "id": "b6219abb3dc95d55",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Desembargadora Clara Maria Araújo Xavier recebe homenagens em sessão de julgamento da 8ª Câmara de Direito Privado",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115073&pagina=1",
+      "resumo": "Magistrada se aposenta após 36 anos de judicatura. \n \n\tA sessão de julgamento da 8ª Câmara de Direito Privado, realizada hoje (19), foi marcada por homenagens",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "6f4c4b440adcb1ab",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Posse solene marca chegada de três novos desembargadores",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115072&pagina=1",
+      "resumo": "Cerimônia no Salão do Júri. \n \n\tO Tribunal de Justiça de São Paulo realizou, ontem (18), a posse solene dos desembargadores Paola Christina Calabró Lorena de",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
       "id": "e93d96c4330d26fe",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -470,6 +503,20 @@
       "coletado_em": "2026-08-19T12:37:46-03:00"
     },
     {
+      "id": "96e91c67f56c632d",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "Seleção Nacional de Estagiários",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/selecao-nacional-de-estagiarios",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
       "id": "db802aa66779a41c",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -484,6 +531,81 @@
         "acao"
       ],
       "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "f459720ffb9d9fea",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Profissionais de segurança pública participam de curso para atuação em incidentes com explosivos",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/profissionais-de-seguranca-publica-participam-de-curso-para-atuacao-em-incidentes-com-explosivos",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "146ed5b8e24dc2d7",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Respad Sul reúne Corpos de Bombeiros Militares em exercício de resposta a enchentes e inundações",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/respad-sul-reune-corpos-de-bombeiros-militares-em-exercicio-de-resposta-a-enchentes-e-inundacoes",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "bb0e5060e3f5dad1",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon e Anvisa se unem no combate a suplementos alimentares adulterados",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-e-anvisa-se-unem-no-combate-a-suplementos-alimentares-adulterados",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "04dfaad70210eeb8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Superior Tribunal de Justiça restabelece restrições a faculdades de medicina com baixo desempenho",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/stj-restabelece-medidas-cautelares-impostas-pelo-mec-a-instituicoes-com-baixo-desempenho-nos-cursos-de-medicina",
+      "resumo": "",
+      "publicado_em": "2026-08-19T15:20:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "1977e8707def659a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mudança: prazo para pedir ingresso no Simples Nacional é setembro deste ano",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/prazo-para-solicitar-ingresso-no-simples-nacional-passa-a-ser-em-setembro-de-2026-em-vez-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-08-19T15:20:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "prazo",
+        "simples nacional"
+      ],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
     },
     {
       "id": "ee38aaf8e5d8ace5",
@@ -507,20 +629,6 @@
       "link": "https://agenciagov.ebc.com.br/noticias/202608/mestrado-e-doutorado-podem-chegar-a-regioes-afastadas-do-pais",
       "resumo": "",
       "publicado_em": "2026-08-19T13:49:00-03:00",
-      "dia": "2026-08-19",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-19T15:16:57-03:00"
-    },
-    {
-      "id": "04dfaad70210eeb8",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Supremo Tribunal de Justiça restabelece restrições a faculdades de medicina com baixo desempenho",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/stj-restabelece-medidas-cautelares-impostas-pelo-mec-a-instituicoes-com-baixo-desempenho-nos-cursos-de-medicina",
-      "resumo": "",
-      "publicado_em": "2026-08-19T12:58:00-03:00",
       "dia": "2026-08-19",
       "data_estimada": false,
       "score": 40,
@@ -677,6 +785,51 @@
       "coletado_em": "2026-08-19T15:16:57-03:00"
     },
     {
+      "id": "0839b73fad61f30d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fenaj pede revisão no STF sobre exigência de diploma para jornalistas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121434/fenaj-pede-revisao-no-stf-sobre-exigencia-de-diploma-para-jornalistas",
+      "resumo": "Manifestação da entidade veio após Moraes e Dino falarem em defesa de novo entendimento sobre requisitos de qualificação da profissão.",
+      "publicado_em": "2026-08-19T16:21:06-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "acao",
+        "diploma"
+      ],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "df67734c6919179d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Celina Leão lidera todos os cenários em disputa pelo governo do DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/121426/celina-leao-lidera-todos-os-cenarios-em-disputa-pelo-governo-do-df",
+      "resumo": "Pesquisa RealTime Big Data desta quarta aponta vantagem da atual governadora na corrida pelo Palácio do Buriti.",
+      "publicado_em": "2026-08-19T15:34:09-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "293b3c0b80dfae8a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "85% dos deputados vão tentar a reeleição; corrida ao Senado dobra",
+      "link": "https://www.congressoemfoco.com.br/noticia/121418/85-dos-deputados-vao-tentar-a-reeleicao-corrida-ao-senado-dobra",
+      "resumo": "Dos 513 parlamentares em exercício, 437 buscam novo mandato; número é menor que em 2022, enquanto dobrou a quantidade de deputados que concorrem ao Senado.",
+      "publicado_em": "2026-08-19T14:48:49-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
       "id": "4030d766477653fd",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -705,6 +858,34 @@
         "acao"
       ],
       "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "e95e22f2c24825b6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lei Maria da Penha pode ir além da violência doméstica?",
+      "link": "https://www.congressoemfoco.com.br/artigo/121402/lei-maria-da-penha-pode-ir-alem-da-violencia-domestica",
+      "resumo": "STF discute se medidas protetivas podem alcançar casos de violência de gênero sem vínculo familiar ou afetivo com o agressor.",
+      "publicado_em": "2026-08-19T11:44:38-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "362ab15b09cc15ef",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Revisão da aposentadoria: 5 erros que podem afetar o benefício",
+      "link": "https://www.congressoemfoco.com.br/artigo/121401/revisao-da-aposentadoria-5-erros-que-podem-afetar-o-beneficio",
+      "resumo": "Períodos, vínculos e salários registrados incorretamente podem afetar o cálculo do benefício e exigem conferência antes de pedir revisão.",
+      "publicado_em": "2026-08-19T11:27:40-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
     },
     {
       "id": "d2757e18d65b88ab",
@@ -976,6 +1157,133 @@
       "coletado_em": "2026-08-19T15:16:57-03:00"
     },
     {
+      "id": "a547469aabddaae2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Emprega Lab avança em frentes de trabalho e articulações do Pena Justa nos estados",
+      "link": "https://www.cnj.jus.br/emprega-lab-avanca-em-frentes-de-trabalho-e-articulacoes-do-pena-justa-nos-estados/",
+      "resumo": "O Emprega Lab Nacional, iniciativa do Conselho Nacional de Justiça (CNJ) para ampliar a empregabilidade de pessoas presas e egressas no âmbito do Pena Justa, definiu na terça-feira (18/8) quatro frentes de trabalho para os próximos meses: oficinas produtivas nas unidades prisionais, contratação para",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "72ed6271b1f4b883",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Mutirões ampliam acesso à Justiça para população em situação de rua; CNJ lança manual para fortalecer a ação",
+      "link": "https://www.cnj.jus.br/mutiroes-ampliam-acesso-a-justica-para-populacao-em-situacao-de-rua-cnj-lanca-manual-para-fortalecer-a-acao/",
+      "resumo": "Levar justiça à população em situação de rua é iniciativa que demanda atuação conjunta, dialogada e estruturada. Uma das ações que concretiza esse trabalho são os mutirões PopRuaJud locais, que reúnem diversos serviços judiciais, de cidadania e assistência. Para contribuir com a realização desses ev",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "e335da61ecc178fe",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJPI apresenta Robô Soseverino para automatizar processos sobrestados",
+      "link": "https://www.cnj.jus.br/tjpi-apresenta-robo-soseverino-para-automatizar-processos-sobrestados/",
+      "resumo": "A Vice-Presidência do Tribunal de Justiça do Piauí (TJPI) apresentou, nesta segunda-feira (17), o Robô Soseverino, ferramenta desenvolvida para automatizar o levantamento e o acompanhamento de processos sobrestados. A apresentação ocorreu na Sala de Reuniões da Presidência e reuniu magistrados e ser",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "dddda5767ae5c0d4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eleições deste ano vão definir 54 vagas no Senado e todas as 513 vagas da Câmara",
+      "link": "https://www.camara.leg.br/noticias/1298957-eleicoes-deste-ano-vao-definir-54-vagas-no-senado-e-todas-as-513-vagas-da-camara",
+      "resumo": "",
+      "publicado_em": "2026-08-19T16:56:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "dc1fc2a9d57e47e9",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que cria política de infraestrutura urbana",
+      "link": "https://www.camara.leg.br/noticias/1298572-comissao-aprova-projeto-que-cria-politica-de-infraestrutura-urbana",
+      "resumo": "",
+      "publicado_em": "2026-08-19T16:39:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "d674e2b379163ea3",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que cria programa nacional para coleta e reciclagem de lixo eletrônico",
+      "link": "https://www.camara.leg.br/noticias/1298858-comissao-aprova-projeto-que-cria-programa-nacional-para-coleta-e-reciclagem-de-lixo-eletronico",
+      "resumo": "",
+      "publicado_em": "2026-08-19T16:09:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "c9202bd5b6f34cf8",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que cria banco de materiais que sobram de obras públicas",
+      "link": "https://www.camara.leg.br/noticias/1298449-comissao-aprova-projeto-que-cria-banco-de-materiais-que-sobram-de-obras-publicas",
+      "resumo": "",
+      "publicado_em": "2026-08-19T14:11:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "5d94ec4bc5eb1060",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão da Câmara aprova projeto que permite optar por documentos oficiais em formato digital",
+      "link": "https://www.camara.leg.br/noticias/1298762-comissao-da-camara-aprova-projeto-que-permite-optar-por-documentos-oficiais-em-formato-digital",
+      "resumo": "",
+      "publicado_em": "2026-08-19T13:07:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
       "id": "d0ed3d4619de17f4",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1099,6 +1407,22 @@
         "portaria"
       ],
       "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "41f49dba16554230",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Nova edição do Guia para Elaboração de Atos Normativos e Comunicação Oficial já está disponível",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/nova-edicao-do-guia-para-elaboracao-de-atos-normativos-e-comunicacao-oficial-ja-esta-disponivel",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-19T17:18:12-03:00"
     },
     {
       "id": "1389a33f3b5f72e0",
