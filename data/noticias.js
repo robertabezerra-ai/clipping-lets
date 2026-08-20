@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-20T08:31:45-03:00",
+  "gerado_em": "2026-08-20T12:39:44-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 500 Server Error: Internal Server Error for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -239,7 +239,7 @@ window.DADOS = {
     {
       "id": "governo_federal",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -250,6 +250,50 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "2848d608a93669ca",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Clube deve indenizar atleta que ficou incapacitado para atuar como jogador após sofrer lesão em campo",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/clube-deve-indenizar-atleta-que-ficou-incapacitado-para-atuar-como-jogador-apos-sofrer-lesao-em-campo",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "indenizar"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "90086ad56d08a09d",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "DEJT continua indisponível nesta quinta-feira (20/8)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/dejt-continua-indisponivel-nesta-quinta-feira-20-8",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "ab90b7e09a585867",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Confira escala do plantão judiciário no período de 24 a 31 de agosto",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/confira-escala-do-plantao-judiciario-no-periodo-de-24-a-31-de-agosto",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
     {
       "id": "126994d915cb88a8",
       "fonte_id": "tjsp",
@@ -263,6 +307,386 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "486b8f9f8b7f2567",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "São Carlos abre inscrições para interessados em atuar como jurados nos Tribunais do Júri da Comarca",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115057&pagina=1",
+      "resumo": "Participação em julgamentos de crimes dolosos contra a vida. \n \n\tA 1ª Vara Criminal e do Júri de São Carlos está com inscrições abertas para voluntários",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "354793753a47537a",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Inscrições para a segunda edição do STF Moot estão abertas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/inscricoes-para-a-segunda-edicao-do-stf-moot-estao-abertas/",
+      "resumo": "Competição é voltada a estudantes de direito de todo o país e terá como tema a remição de pena pelo trabalho de cuidado em regime domiciliar",
+      "publicado_em": "2026-08-20T12:27:29-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "65530ec513027855",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quinta-feira (20)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-20/",
+      "resumo": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "publicado_em": "2026-08-20T10:08:37-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "76f086648dab57ea",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF aceita denúncia contra ex-deputados estaduais Rodrigo Bacellar e TH Joias",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-aceita-denuncia-contra-ex-deputados-estaduais-rodrigo-bacellar-e-th-joias/",
+      "resumo": "1ª Turma considerou que há indícios consistentes de obstrução de investigações para favorecer integrantes do Comando Vermelho; sessão virtual termina na sexta-feira (21), mas todos os votos já foram proferidos",
+      "publicado_em": "2026-08-20T10:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "dd9912dad1e29d81",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "ILB conquista nota máxima do MEC",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/20/ilb-conquista-nota-maxima-do-mec",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:09:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "ad5976c2fdcae0a9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições: votos brancos e nulos não afetam resultado final",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/votos-brancos-e-nulos-nao-afetam-resultado-final",
+      "resumo": "",
+      "publicado_em": "2026-08-20T11:20:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "c3f7c56b1a542e23",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aumento de acidentes com motociclistas de aplicativos gera resposta do Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/aumento-de-acidentes-com-motociclistas-de-aplicativos-gera-resposta-do-senado",
+      "resumo": "",
+      "publicado_em": "2026-08-20T09:29:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "4dfd964e2efd2c0c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sancionada lei que amplia estoques públicos de ração para animais",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/sancionada-lei-que-amplia-estoques-publicos-de-racao-para-animais",
+      "resumo": "",
+      "publicado_em": "2026-08-20T08:46:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "sancionada",
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "c70b886816267ca8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Proposta de comissão do 'Jovem Senador' prevê apoio ao estudante imigrante",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/proposta-de-comissao-do-jovem-senador-preve-apoio-ao-estudante-imigrante",
+      "resumo": "",
+      "publicado_em": "2026-08-20T08:35:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "0ce4f744b8125dc9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rede Nacional de Arquivos Audiovisuais busca proteger patrimônio com ajuda de parceiros",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/rede-nacional-de-arquivos-audiovisuais-busca-proteger-patrimonio-com-ajuda-de-parceiros",
+      "resumo": "",
+      "publicado_em": "2026-08-20T11:45:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "ac6755bfe9dd5732",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polícia Federal deflagra operação de combate à circulação de moeda falsa",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/pf-deflagra-operacao-de-combate-a-circulacao-de-moeda-falsa",
+      "resumo": "",
+      "publicado_em": "2026-08-20T10:37:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "86cafa8804e6868b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Provas do Encceja 2026 serão aplicadas neste domingo (23)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/encceja-2026-ocorre-neste-domingo-23-8",
+      "resumo": "",
+      "publicado_em": "2026-08-20T10:34:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "a158d170555f0b8a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ciclone extratropical provoca instabilidade e queda de temperatura no RS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/ciclone-extratropical-provoca-instabilidade-e-queda-de-temperatura-no-rs",
+      "resumo": "",
+      "publicado_em": "2026-08-20T10:34:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "058e89e9e9c60460",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Exército Brasileiro sedia exercício de defesa cibernética entre militares sul-americanos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/exercito-brasileiro-sedia-exercicio-de-defesa-cibernetica-entre-exercitos-sul-americanos",
+      "resumo": "",
+      "publicado_em": "2026-08-20T10:30:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "a0b638a0f7b0efb1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Conab: safra de cana-de açúcar 2026/27 deve crescer 4,7% e produzir 705,2 milhões de toneladas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/nova-estimativa-de-cana-de-acucar-traz-producao-de-705-2-milhoes-de-toneladas-na-safra-2026-27",
+      "resumo": "",
+      "publicado_em": "2026-08-20T09:02:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "89117941f2f0b0b0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Jandira celebra decisão no STF que amplia escopo da Lei Maria da Penha",
+      "link": "https://www.congressoemfoco.com.br/noticia/121462/jandira-celebra-decisao-no-stf-que-amplia-escopo-da-lei-maria-da-penha",
+      "resumo": "Deputada replicou fala da ministra Cármen Lúcia: \"nós resolvemos parar de morrer\".",
+      "publicado_em": "2026-08-20T11:37:15-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "9089e71df79e43b9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Prefeita petista declara apoio a Cleitinho em Minas: \"time da vitória\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121460/prefeita-petista-declara-apoio-a-cleitinho-em-minas--time-da-vitoria",
+      "resumo": "PT tem Patrus Ananias como palanque próprio no Estado; Jackeliny Nascimento também pediu voto para outros candidatos fora da chapa.",
+      "publicado_em": "2026-08-20T11:07:42-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "5ea0229df75c43fb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A política dos espelhos retrovisores",
+      "link": "https://www.congressoemfoco.com.br/artigo/121457/a-politica-dos-espelhos-retrovisores",
+      "resumo": "Entre palanques, algoritmos e heranças políticas, campanhas podem mobilizar o passado sem conseguir responder à pergunta que decidirá o futuro: para onde pretendem levar o país?",
+      "publicado_em": "2026-08-20T10:41:06-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "f953b8ed99c9e95b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A Lei de Incentivo à Reciclagem ganhou futuro",
+      "link": "https://www.congressoemfoco.com.br/artigo/121456/a-lei-de-incentivo-a-reciclagem-ganhou-futuro",
+      "resumo": "Ampliação do incentivo fiscal pode transformar responsabilidade compartilhada em investimento e desenvolvimento.",
+      "publicado_em": "2026-08-20T10:28:28-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "83cb720defed2321",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino rebate críticas e lembra apoio à PEC do diploma de jornalista",
+      "link": "https://www.congressoemfoco.com.br/noticia/121455/dino-rebate-criticas-e-lembra-apoio-a-pec-do-diploma-de-jornalista",
+      "resumo": "Ministro afirma que sua posição é a mesma desde 2009, quando era deputado federal e apoiou retomada da obrigatoriedade do diploma. Segundo ele, regulamentação profissional não restringe liberdade de expressão.",
+      "publicado_em": "2026-08-20T10:19:46-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "obrigatoriedade",
+        "acao",
+        "diploma"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "6e862be85d792068",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Candidatura de Arruda ao governo do DF é impugnada pelo MP Eleitoral",
+      "link": "https://www.congressoemfoco.com.br/noticia/121454/candidatura-de-arruda-ao-governo-do-df-e-impugnada-pelo-mp-eleitoral",
+      "resumo": "Ex-governador terá prazo para apresentar defesa antes de o TRE-DF decidir sobre o registro da candidatura.",
+      "publicado_em": "2026-08-20T09:27:33-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "9ad8cf17ebb73e59",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika Hilton propõe multa por aporofobia, discriminação a vulneráveis",
+      "link": "https://www.congressoemfoco.com.br/noticia/121453/erika-hilton-propoe-multa-por-aporofobia-discriminacao-a-vulneraveis",
+      "resumo": "Texto inclui restrições de acesso a serviços, discriminação no trabalho e arquitetura hostil.",
+      "publicado_em": "2026-08-20T09:09:39-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "53db9d7eace86d8a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula tira aliado de Ciro Gomes da vice-liderança do governo na Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/121452/lula-tira-aliado-de-ciro-gomes-da-vice-lideranca-do-governo-na-camara",
+      "resumo": "Mauro Filho coordena o programa de governo de Ciro Gomes, principal adversário do governador petista Elmano de Freitas, que tenta a reeleição no Ceará.",
+      "publicado_em": "2026-08-20T09:08:01-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "f729a8cd54e8e4e2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MP Eleitoral recomenda a igrejas que não façam propaganda eleitoral",
+      "link": "https://www.congressoemfoco.com.br/noticia/121451/mp-eleitoral-recomenda-a-igrejas-que-nao-facam-propaganda-eleitoral",
+      "resumo": "Recomendação proíbe propaganda eleitoral em templos e uso de cultos e da estrutura religiosa para favorecer ou prejudicar candidaturas.",
+      "publicado_em": "2026-08-20T08:26:18-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "acao",
+        "comenda"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "cb8a0fefa4b8ca02",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Republicanos expulsa \"prefeito tiktoker\" por infidelidade partidária",
+      "link": "https://www.congressoemfoco.com.br/noticia/121450/republicanos-expulsa-prefeito-tiktoker-por-infidelidade-partidaria",
+      "resumo": "Rodrigo Manga, de Sorocaba, pediu votos para a esposa, candidata a deputada federal pelo União Brasil. Decisão do Conselho de Ética do partido foi unânime.",
+      "publicado_em": "2026-08-20T08:24:02-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
     },
     {
       "id": "67bbd4a58f6fac7b",
@@ -293,6 +717,169 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "9f10d4925c831535",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Caravana Donas de Si realiza atividades da 33ª Semana Justiça pela Paz em Casa",
+      "link": "https://www.cnj.jus.br/caravana-donas-de-si-realiza-atividades-da-33a-semana-justica-pela-paz-em-casa/",
+      "resumo": "A Coordenadoria Estadual da Mulher em Situação de Violência Doméstica e Familiar do Tribunal de Justiça do Amapá (Cevid/TJAP), sob coordenação da desembargadora Alaíde de Paula, iniciou, na segunda-feira (17), em Ferreira Gomes, as atividades da Caravana Donas de Si. Integrada à 33ª Semana Justiça p",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "32d2822bc4f41e10",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ e Senatran definem ações para aprimorar sistema de restrição judicial de veículos",
+      "link": "https://www.cnj.jus.br/cnj-e-senatran-definem-acoes-para-aprimorar-sistema-de-restricao-judicial-de-veiculos/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) e a Secretaria Nacional de Trânsito (Senatran) realizaram, nesta quarta-feira (19), a reunião de instalação do Comitê Gestor do Renajud, marco da cooperação firmada entre as instituições, em maio deste ano, para modernizar o sistema de restrições judiciais sobre ",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "82ba67fa015f1203",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Justiça realiza audiência em comunidade rural para garantir acesso de mulher de 106 anos",
+      "link": "https://www.cnj.jus.br/justica-realiza-audiencia-em-comunidade-rural-para-garantir-acesso-de-mulher-de-106-anos/",
+      "resumo": "O Judiciário cearense foi até uma comunidade rural de difícil acesso, em Sobral, para garantir o acesso à Justiça de uma moradora de 106 anos. Na última quinta-feira (13/8), representantes do Tribunal de Justiça do Ceará (TJCE), do Ministério Público do Ceará e da Defensoria Pública do Estado se des",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "6ea840bbd17bcfa4",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Curso debate papel da imprensa na cobertura de violência contra mulheres",
+      "link": "https://www.cnj.jus.br/curso-debate-papel-da-imprensa-na-cobertura-de-violencia-contra-mulheres/",
+      "resumo": "O Tribunal de Justiça de São Paulo (TJSP), a Escola Paulista da Magistratura (EPM), a Coordenadoria da Mulher em Situação de Violência Doméstica e Familiar (Comesp) e a Defensoria Pública do Estado de São Paulo (DPESP) realizaram, na segunda-feira (17/8), o primeiro curso “Cobertura jornalística de ",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "3b91fcb4a02e18fe",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJGO inaugura posto único para registro de óbito fora do expediente cartorário em Goiânia",
+      "link": "https://www.cnj.jus.br/tjgo-inaugura-posto-unico-para-registro-de-obito-fora-do-expediente-cartorario-em-goiania/",
+      "resumo": "A Corregedoria do Foro Extrajudicial (Cogex) do Tribunal de Justiça de Goiás (TJGO) inaugurou um posto único para emissão de registros de óbito fora do horário regular dos cartórios. A estrutura funciona na Central de Óbitos de Goiânia, localizada na Rua Francisca Costa Cunha D. Tita, n. 679, no Set",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "c91881825f4a671c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Divulgados vencedores da XVI edição do Prêmio Conciliar é Legal",
+      "link": "https://www.cnj.jus.br/divulgados-vencedores-da-16a-edicao-do-premio-conciliar-e-legal/",
+      "resumo": "Encontrar uma solução para um conflito por meio do diálogo e do acordo pode evitar que uma disputa se prolongue na Justiça e contribuir para uma prestação jurisdicional mais célere, eficiente e humanizada. É esse tipo de iniciativa que o Conselho Nacional de Justiça (CNJ) busca incentivar por meio d",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "aebb665149be59b5",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova incentivos para construção e modernização de instituições de idosos",
+      "link": "https://www.camara.leg.br/noticias/1298577-comissao-aprova-incentivos-para-construcao-e-modernizacao-de-instituicoes-de-idosos",
+      "resumo": "",
+      "publicado_em": "2026-08-20T11:33:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "abfd402b5fab9815",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Meio Ambiente aprova projeto que torna crime o uso de animais no tráfico de drogas",
+      "link": "https://www.camara.leg.br/noticias/1298874-comissao-de-meio-ambiente-aprova-projeto-que-torna-crime-o-uso-de-animais-no-trafico-de-drogas",
+      "resumo": "",
+      "publicado_em": "2026-08-20T10:55:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "aprova",
+        "droga"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "6ade9ef6990dd591",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova programa de incentivo à contratação de mães atípicas",
+      "link": "https://www.camara.leg.br/noticias/1298867-comissao-aprova-programa-de-incentivo-a-contratacao-de-maes-atipicas",
+      "resumo": "",
+      "publicado_em": "2026-08-20T09:43:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "761f8bc3bbf1c396",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova programa de acompanhante para idosos com foco em regiões remotas",
+      "link": "https://www.camara.leg.br/noticias/1298549-comissao-aprova-programa-de-acompanhante-para-idosos-com-foco-em-regioes-remotas",
+      "resumo": "",
+      "publicado_em": "2026-08-20T08:39:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
     },
     {
       "id": "188a6f9c76289293",
@@ -785,7 +1372,7 @@ window.DADOS = {
       "id": "64c4c0dc487e181c",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "No Brasil, bioinsumos movimentam R$ 7 bi e 'sequestram' 280 milhões de toneladas de CO₂ por ano",
+      "titulo": "No Brasil, bioinsumos movimentam R$ 7 bi e 'sequestram' 280 milhões de t de CO₂ por ano",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/no-brasil-bioinsumos-movimentam-r-7-bi-anuais-e-retiram-280-milhoes-de-toneladas-de-co2-do-ar",
       "resumo": "",
       "publicado_em": "2026-08-19T18:50:00-03:00",
@@ -794,6 +1381,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "cdb68b52be666250",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Veja como descartar eletrônicos sem uso de forma correta para preservar o meio ambiente",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/como-descartar-eletronicos-sem-utilidade-de-forma-correta-e-reduzir-impactos-ao-meio-ambiente",
+      "resumo": "",
+      "publicado_em": "2026-08-19T16:46:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
     },
     {
       "id": "64aeb98e1f0ffc0b",
@@ -813,7 +1414,7 @@ window.DADOS = {
       "id": "04dfaad70210eeb8",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Superior Tribunal de Justiça restabelece restrições a faculdades de medicina com baixo desempenho",
+      "titulo": "Superior Tribunal de Justiça repõe restrições a faculdades de medicina com baixo desempenho",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/stj-restabelece-medidas-cautelares-impostas-pelo-mec-a-instituicoes-com-baixo-desempenho-nos-cursos-de-medicina",
       "resumo": "",
       "publicado_em": "2026-08-19T15:20:00-03:00",
@@ -1520,7 +2121,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "CNJ recebe delegação acadêmica do Carter Center em reunião sobre Judiciário e democracia",
       "link": "https://www.cnj.jus.br/cnj-recebe-delegacao-academica-do-carter-center-em-reuniao-sobre-judiciario-e-democracia/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) recebeu, na manhã desta quarta-feira (19/8), em sua sede, em Brasília (DF), uma delegação de 19 representantes das áreas educacional e institucional do instituto “The Carter Center”. O encontro promoveu um intercâmbio sobre a atuação do Poder Judiciário brasileir",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) recebeu, na manhã desta quarta-feira (19/8), em sua sede, em Brasília (DF), uma delegação de 19 representantes da área educacional e da institucional do instituto The Carter Center. O encontro promoveu um intercâmbio sobre a atuação do Poder Judiciário brasileiro",
       "publicado_em": "2026-08-19T12:00:00-03:00",
       "dia": "2026-08-19",
       "data_estimada": true,
@@ -1530,6 +2131,24 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "9551b9bfcade13fd",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Inventário extrajudicial não exigirá mais pagamento prévio de imposto sobre transmissão",
+      "link": "https://www.cnj.jus.br/inventario-extrajudicial-nao-exigira-mais-pagamento-previo-de-imposto-sobre-transmissao/",
+      "resumo": "As famílias que recorrem ao inventário extrajudicial, aquele feito em cartório para realizar a partilha consensual de bens deixados por uma pessoa falecida, não precisarão mais recolher antecipadamente o Imposto sobre Transmissão Causa Mortis e Doação (ITCMD) para concluir a escritura pública. A dec",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "imposto",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T12:39:44-03:00"
     },
     {
       "id": "ab9f3c0f53b9b077",
@@ -5793,7 +6412,7 @@ window.DADOS = {
       "id": "934903841db552b7",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
-      "titulo": "Inscrições para a 16ª Semana Nacional da Execução Trabalhista começam nesta segunda (17/8)",
+      "titulo": "Inscrições para a 16ª Semana Nacional da Execução Trabalhista vão até quarta-feira (26/8)",
       "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/inscricoes-para-a-16a-semana-nacional-da-execucao-trabalhista-comecam-nesta-segunda-17-8",
       "resumo": "",
       "publicado_em": "2026-08-14T12:00:00-03:00",
