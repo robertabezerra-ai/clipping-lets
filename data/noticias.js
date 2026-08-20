@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-20T15:20:56-03:00",
+  "gerado_em": "2026-08-20T17:19:56-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,14 +161,14 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -215,7 +215,7 @@ window.DADOS = {
     {
       "id": "cade",
       "status": "ok",
-      "itens": 29,
+      "itens": 30,
       "erro": null
     },
     {
@@ -295,6 +295,20 @@ window.DADOS = {
       "coletado_em": "2026-08-20T12:39:44-03:00"
     },
     {
+      "id": "131bd78f36e6895c",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Legado histórico, desafios de hoje e as fronteiras do amanhã inspiram debates na 26ª edição do Congresso do TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/legado-historico-desafios-de-hoje-e-fronteiras-do-amanha-inspiram-debates-na-26a",
+      "resumo": "Legado histórico, desafios de hoje e as fronteiras do amanhã inspiram debates na 26ª edição do Congresso do TRT-15 anagatto Qui, 20/08/2026 - 16:27 Legado histórico, desafios de hoje e as fronteiras do amanhã inspiram debates na 26ª edição do Congresso do TRT-15 Conteúdo da Notícia Cerca de 1.200 pe",
+      "publicado_em": "2026-08-20T16:27:22-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
       "id": "126994d915cb88a8",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -325,6 +339,53 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "44d71ac221a4b5d9",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP Atende: projeto-piloto é implantado no Fórum João Mendes Júnior",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115088&pagina=1",
+      "resumo": "Atendimentos presencial e virtual para as 45 Varas Cíveis.\n \n\tMais facilidade para o cidadão, advogados e auxiliares da Justiça, atendimento especializado e serviços mais ágeis.",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "advogado"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "f0c61d909018cb77",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Homem é condenado por uso indevido de conta corporativa em aplicativo de transporte após demissão",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115086&pagina=1",
+      "resumo": "Conduta abusiva e de má-fé após demissão. \n \n\tA 9ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve decisão da 1ª Vara",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "decisao",
+        "condenado"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "a0d949b1d696d65b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Partido questiona licença remunerada a servidores de SP para mandato sindical",
+      "link": "https://noticias.stf.jus.br/postsnoticias/partido-questiona-licenca-remunerada-a-servidores-de-sp-para-mandato-sindical/",
+      "resumo": "Missão sustenta que manutenção de vencimentos transfere custo da atividade sindical ao Estado",
+      "publicado_em": "2026-08-20T16:05:47-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
     },
     {
       "id": "669271f08bc4ad76",
@@ -385,6 +446,50 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "8f6a2bc26b7a20c3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Debate aponta dificuldades em diagnóstico e tratamento para doença pulmonar rara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/20/debate-aponta-dificuldades-em-diagnostico-e-tratamento-para-doenca-pulmonar-rara",
+      "resumo": "",
+      "publicado_em": "2026-08-20T16:24:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "310d50678e9677fb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Candidatos 60+ representam 38% dos que disputam vagas no Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/20/candidatos-60-representam-38-dos-que-disputam-vagas-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-08-20T16:23:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "fb17908dbe9bb4dc",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Candidatos se declaram negros por vantagem eleitoral, afetando ação afirmativa",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/candidatos-se-declaram-negros-por-vantagem-eleitoral-afetando-acao-afirmativa",
+      "resumo": "",
+      "publicado_em": "2026-08-20T16:04:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
     },
     {
       "id": "f60e0505f57e24a6",
@@ -537,6 +642,48 @@ window.DADOS = {
       "coletado_em": "2026-08-20T15:20:56-03:00"
     },
     {
+      "id": "b8d1b312c944a272",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Quer entender de IA? Curso gratuito do Serpro traz fundamentos dessa tecnologia",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/quer-entender-de-ia-curso-gratuito-do-serpro-apresenta-fundamentos-da-tecnologia",
+      "resumo": "",
+      "publicado_em": "2026-08-20T16:29:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "7e9005b649eb97b2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Caminhos da Reportagem destaca os 80 anos do Sesi nesta segunda-feira (24)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/caminhos-da-reportagem-destaca-os-80-anos-do-sesi-nesta-segunda-feira-24",
+      "resumo": "",
+      "publicado_em": "2026-08-20T15:30:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "15abeb64dd3dde5d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MEC oferece curso gratuito de segurança digital em sala de aula para educadores",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/mec-oferece-curso-gratuito-de-seguranca-digital-a-educadores",
+      "resumo": "",
+      "publicado_em": "2026-08-20T15:22:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
       "id": "7e4f346e15d766dd",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -570,7 +717,7 @@ window.DADOS = {
       "id": "fbcd2bf4689a4a88",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Crédito facilitado para motoristas de app e táxi sobe para carros de até R$ 200 mil",
+      "titulo": "Crédito facilitado para motoristas de app e táxi passa a valer para carros de até R$ 200 mil",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/portaria-interministerial-amplia-alcance-do-move-brasil-2013-taxi-aplicativos",
       "resumo": "",
       "publicado_em": "2026-08-20T13:58:00-03:00",
@@ -679,6 +826,68 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "e35a185bddc7b019",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Operação Zero Km identifica pedidos de ressarcimento e compensação de créditos de PIS/Cofins em concessionárias",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/operacao-zero-km-identifica-pedidos-de-ressarcimento-e-compensacao-de-creditos-de-pis-cofins-em-concessionarias",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "a12f915ac0ae1c79",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Prefeita de Frei Gaspar reforça apoio a Cleitinho após crítica do PT",
+      "link": "https://www.congressoemfoco.com.br/noticia/121478/prefeita-de-frei-gaspar-reforca-apoio-a-cleitinho-apos-critica-do-pt",
+      "resumo": "PT-MG vai avaliar se conduta de Jackeliny Nascimento configura infração ao estatuto e pode aplicar penalidade.",
+      "publicado_em": "2026-08-20T15:10:27-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "523144a1b112315b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em ping-pong com Nikolas, Flávio Bolsonaro define Lula como \"passado\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121477/em-ping-pong-com-nikolas-flavio-bolsonaro-define-lula-como-passado",
+      "resumo": "Deputado também perguntou a Flávio como ele se imaginava no início de 2027, que descreveu cena que gostaria de viver ao assumir a presidência.",
+      "publicado_em": "2026-08-20T15:04:36-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "53c3ab43dab1763a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Justiça suspende punições da ANTT a transporte clandestino",
+      "link": "https://www.congressoemfoco.com.br/noticia/121473/justica-suspende-punicoes-da-antt-a-transporte-clandestino",
+      "resumo": "Entre as sanções atenuadas estão multa, recolhimento de ônibus e perdimento de veículos.",
+      "publicado_em": "2026-08-20T14:23:10-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
     },
     {
       "id": "285a23ec6f731f28",
@@ -1029,6 +1238,152 @@ window.DADOS = {
         "premio"
       ],
       "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "a59a8cedf9eb1fd4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que obriga maternidades de referência a manter banco de leite",
+      "link": "https://www.camara.leg.br/noticias/1298974-comissao-aprova-projeto-que-obriga-maternidades-de-referencia-a-manter-banco-de-leite",
+      "resumo": "",
+      "publicado_em": "2026-08-20T17:01:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "aee6119853449540",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova prioridade para ribeirinhos no Minha Casa, Minha Vida",
+      "link": "https://www.camara.leg.br/noticias/1299165-comissao-aprova-prioridade-para-ribeirinhos-no-minha-casa-minha-vida",
+      "resumo": "",
+      "publicado_em": "2026-08-20T16:32:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "e24481d2a6806e60",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova incentivos para desenvolver IA brasileira",
+      "link": "https://www.camara.leg.br/noticias/1298873-comissao-aprova-incentivos-para-desenvolver-ia-brasileira",
+      "resumo": "",
+      "publicado_em": "2026-08-20T16:19:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "812db0e54b6222fc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão da Câmara aprova projeto que prevê uso supervisionado de IA na segurança pública",
+      "link": "https://www.camara.leg.br/noticias/1299090-comissao-da-camara-aprova-projeto-que-preve-uso-supervisionado-de-ia-na-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-08-20T15:58:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "44ad82cee126fa6a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão externa da Câmara faz balanço sobre medidas para reconstrução da Zona da Mata mineira",
+      "link": "https://www.camara.leg.br/noticias/1299225-comissao-externa-da-camara-faz-balanco-sobre-medidas-para-reconstrucao-da-zona-da-mata-mineira",
+      "resumo": "",
+      "publicado_em": "2026-08-20T15:25:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "e01ace5df8be8a24",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que acaba com taxa de fiscalização sobre telefones celulares",
+      "link": "https://www.camara.leg.br/noticias/1298640-comissao-aprova-projeto-que-acaba-com-taxa-de-fiscalizacao-sobre-telefones-celulares",
+      "resumo": "",
+      "publicado_em": "2026-08-20T14:49:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "a6754477fee188e4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que destina recursos recuperados de crimes para fundos da pessoa idosa",
+      "link": "https://www.camara.leg.br/noticias/1299080-comissao-aprova-projeto-que-destina-recursos-recuperados-de-crimes-para-fundos-da-pessoa-idosa",
+      "resumo": "",
+      "publicado_em": "2026-08-20T13:27:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprova",
+        "recurso"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "2b3ceb77fbc2efb6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que prevê política de proteção tarifária para passagens aéreas na Amazônia Legal",
+      "link": "https://www.camara.leg.br/noticias/1298908-comissao-aprova-projeto-que-preve-politica-de-protecao-tarifaria-para-passagens-aereas-na-amazonia-legal",
+      "resumo": "",
+      "publicado_em": "2026-08-20T13:05:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "e83e1d4dc5575d16",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que garante a vítima informação sobre investigação e processo penal",
+      "link": "https://www.camara.leg.br/noticias/1298629-comissao-aprova-projeto-que-garante-a-vitima-informacao-sobre-investigacao-e-processo-penal",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:46:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "aprova",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
     },
     {
       "id": "aebb665149be59b5",
@@ -2662,6 +3017,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "01aca62f210a5578",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Evento internacional de concorrência faz chamada para submissão de artigos científicos",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/rdc-faz-chamada-para-submissao-de-artigos-cientificos-para-evento-internacional-de-concorrencia",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T17:19:56-03:00"
     },
     {
       "id": "b101a962bd99ca79",
