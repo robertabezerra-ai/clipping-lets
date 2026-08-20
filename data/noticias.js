@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-20T12:39:44-03:00",
+  "gerado_em": "2026-08-20T15:20:56-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 500 Server Error: Internal Server Error for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -166,9 +166,9 @@ window.DADOS = {
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -327,12 +327,28 @@ window.DADOS = {
       "coletado_em": "2026-08-20T12:39:44-03:00"
     },
     {
+      "id": "669271f08bc4ad76",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Centro de Estudos Constitucionais do STF divulga edital para audiência acadêmica em Curitiba",
+      "link": "https://noticias.stf.jus.br/postsnoticias/centro-de-estudos-constitucionais-do-stf-divulga-edital-para-audiencia-academica-em-curitiba/",
+      "resumo": "Escuta sobre o ensino do Direito Constitucional no século XXI será realizada em 21 de setembro; instituições interessadas devem se inscrever até 7 de setembro",
+      "publicado_em": "2026-08-20T15:15:08-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
+    },
+    {
       "id": "354793753a47537a",
       "fonte_id": "stf",
       "fonte_nome": "STF",
       "titulo": "Inscrições para a segunda edição do STF Moot estão abertas",
       "link": "https://noticias.stf.jus.br/postsnoticias/inscricoes-para-a-segunda-edicao-do-stf-moot-estao-abertas/",
-      "resumo": "Competição é voltada a estudantes de direito de todo o país e terá como tema a remição de pena pelo trabalho de cuidado em regime domiciliar",
+      "resumo": "Competição é voltada a estudantes de Direito de todo o país e terá como tema a remição de pena pelo trabalho de cuidado em regime domiciliar",
       "publicado_em": "2026-08-20T12:27:29-03:00",
       "dia": "2026-08-20",
       "data_estimada": false,
@@ -369,6 +385,50 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "f60e0505f57e24a6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Debate na CE do Senado alerta para abuso da liberdade de expressão nas redes",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/debate-na-ce-do-senado-alerta-para-abuso-da-liberdade-de-expressao-nas-redes",
+      "resumo": "",
+      "publicado_em": "2026-08-20T15:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
+    },
+    {
+      "id": "fd5f183842707b95",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Ambiente digital seguro depende de toda a sociedade, indica debate com 'jovens senadores'",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/20/ambiente-digital-seguro-depende-de-toda-a-sociedade-indica-debate-com-jovens-senadores",
+      "resumo": "",
+      "publicado_em": "2026-08-20T13:50:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
+    },
+    {
+      "id": "260436cddb445ce0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Orientação vocacional para jovens em medida socioeducativa pode virar lei",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/orientacao-vocacional-para-jovens-em-medida-socioeducativa-pode-virar-lei",
+      "resumo": "",
+      "publicado_em": "2026-08-20T13:41:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
     },
     {
       "id": "dd9912dad1e29d81",
@@ -433,7 +493,7 @@ window.DADOS = {
       "id": "c70b886816267ca8",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "Proposta de comissão do 'Jovem Senador' prevê apoio ao estudante imigrante",
+      "titulo": "Proposta de comissão de 'jovens senadores' prevê apoio ao estudante imigrante",
       "link": "https://www12.senado.leg.br/noticias/audios/2026/08/proposta-de-comissao-do-jovem-senador-preve-apoio-ao-estudante-imigrante",
       "resumo": "",
       "publicado_em": "2026-08-20T08:35:00-03:00",
@@ -442,6 +502,97 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "39c0a2c74922b124",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Workshop debate aplicação do IVCO-TI no planejamento de políticas sobre drogas para territórios indígenas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/workshop-debate-aplicacao-do-ivco-ti-no-planejamento-de-politicas-sobre-drogas-para-territorios-indigenas",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 26,
+      "tags": [
+        "acao",
+        "droga"
+      ],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
+    },
+    {
+      "id": "78c7a0a2ebc456b3",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Grupo de trabalho avança na criação de banco de dados nacional sobre milícias e crime organizado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/grupo-de-trabalho-avanca-na-criacao-de-banco-de-dados-nacional-sobre-milicias-e-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
+    },
+    {
+      "id": "7e4f346e15d766dd",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Grupo de trabalho avança na criação de banco de dados nacional sobre milícias e crime organizado",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/grupo-de-trabalho-avanca-na-criacao-de-banco-de-dados-nacional-sobre-milicias-e-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-08-20T14:43:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
+    },
+    {
+      "id": "28d26d756a06b738",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Transferência de veículos vai ser feita pelo celular. Confira como vai funcionar",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/transferencia-de-veiculos-vai-ser-feita-pelo-celular-saiba-como-vai-funcionar",
+      "resumo": "",
+      "publicado_em": "2026-08-20T14:24:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
+    },
+    {
+      "id": "fbcd2bf4689a4a88",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Crédito facilitado para motoristas de app e táxi sobe para carros de até R$ 200 mil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/portaria-interministerial-amplia-alcance-do-move-brasil-2013-taxi-aplicativos",
+      "resumo": "",
+      "publicado_em": "2026-08-20T13:58:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
+    },
+    {
+      "id": "d2a3aa0403c34fbd",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF combate armazenamento e compartilhamento de arquivos de abuso sexual infantil na internet",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/pf-combate-armazenamento-e-compartilhamento-de-arquivos-de-abuso-sexual-infantil-na-internet",
+      "resumo": "",
+      "publicado_em": "2026-08-20T13:29:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
     },
     {
       "id": "0ce4f744b8125dc9",
@@ -477,7 +628,7 @@ window.DADOS = {
       "id": "86cafa8804e6868b",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Provas do Encceja 2026 serão aplicadas neste domingo (23)",
+      "titulo": "Provas do Encceja 2026 serão aplicadas neste domingo (23). Veja o que levar",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/encceja-2026-ocorre-neste-domingo-23-8",
       "resumo": "",
       "publicado_em": "2026-08-20T10:34:00-03:00",
@@ -519,7 +670,7 @@ window.DADOS = {
       "id": "a0b638a0f7b0efb1",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Conab: safra de cana-de açúcar 2026/27 deve crescer 4,7% e produzir 705,2 milhões de toneladas",
+      "titulo": "Safra de cana 2026/27 deve crescer 4,7% e produzir 705,2 milhões de toneladas",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/nova-estimativa-de-cana-de-acucar-traz-producao-de-705-2-milhoes-de-toneladas-na-safra-2026-27",
       "resumo": "",
       "publicado_em": "2026-08-20T09:02:00-03:00",
@@ -528,6 +679,55 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "285a23ec6f731f28",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pais podem responder por crimes dos filhos na internet?",
+      "link": "https://www.congressoemfoco.com.br/artigo/121466/pais-podem-responder-por-crimes-dos-filhos-na-internet",
+      "resumo": "Danos causados por menores no ambiente digital podem gerar dever de reparação e reforçam a importância da educação digital.",
+      "publicado_em": "2026-08-20T12:25:30-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
+    },
+    {
+      "id": "58e6d212c1447c0a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE proíbe Marçal de usar fundo eleitoral e participar de debates",
+      "link": "https://www.congressoemfoco.com.br/noticia/121464/tse-proibe-marcal-de-usar-fundo-eleitoral-e-participar-de-debates",
+      "resumo": "Restrições foram impostas antes do julgamento definitivo do pedido de registro apresentado pelo PRTB.",
+      "publicado_em": "2026-08-20T11:59:05-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
+    },
+    {
+      "id": "418cc856537d34c6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "El Cristiano: quando devolver também é poder",
+      "link": "https://www.congressoemfoco.com.br/artigo/121463/el-cristiano-quando-devolver-tambem-e-poder",
+      "resumo": "A devolução do canhão El Cristiano ao Paraguai mostra que restituir patrimônio não é reconhecer uma derrota, mas exercer soberania, diplomacia e poder sobre a própria memória histórica.",
+      "publicado_em": "2026-08-20T11:57:55-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "diploma"
+      ],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
     },
     {
       "id": "89117941f2f0b0b0",
@@ -558,6 +758,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "aa3f5571acc30104",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A valoração dos dados na China e as implicações para o Brasil",
+      "link": "https://www.congressoemfoco.com.br/artigo/121459/a-valoracao-dos-dados-na-china-e-as-implicacoes-para-o-brasil",
+      "resumo": "Projetos em debate no Congresso podem criar mercados de dados e garantir aos titulares controle e participação econômica.",
+      "publicado_em": "2026-08-20T10:56:18-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
     },
     {
       "id": "5ea0229df75c43fb",
@@ -771,7 +987,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Curso debate papel da imprensa na cobertura de violência contra mulheres",
       "link": "https://www.cnj.jus.br/curso-debate-papel-da-imprensa-na-cobertura-de-violencia-contra-mulheres/",
-      "resumo": "O Tribunal de Justiça de São Paulo (TJSP), a Escola Paulista da Magistratura (EPM), a Coordenadoria da Mulher em Situação de Violência Doméstica e Familiar (Comesp) e a Defensoria Pública do Estado de São Paulo (DPESP) realizaram, na segunda-feira (17/8), o primeiro curso “Cobertura jornalística de ",
+      "resumo": "O Tribunal de Justiça de São Paulo (TJSP), a Escola Paulista da Magistratura (EPM), a Coordenadoria da Mulher em Situação de Violência Doméstica e Familiar (Comesp) e a Defensoria Pública do Estado de São Paulo (DPESP) realizaram, na segunda-feira (17/8), o primeiro curso Cobertura Jornalística de C",
       "publicado_em": "2026-08-20T12:00:00-03:00",
       "dia": "2026-08-20",
       "data_estimada": true,
