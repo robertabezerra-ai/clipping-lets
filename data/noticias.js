@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-19T17:18:12-03:00",
+  "gerado_em": "2026-08-20T08:31:45-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,50 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "126994d915cb88a8",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP é patrimônio!",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115071&pagina=1",
+      "resumo": "Tribunal abre suas portas em evento na capital\n \n\tPela 11ª vez, o Tribunal de Justiça de São Paulo participa da Jornada do Patrimônio, iniciativa municipal",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "67bbd4a58f6fac7b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MPF abre apuração sobre proteção de crianças e adolescentes no Discord",
+      "link": "https://www.congressoemfoco.com.br/noticia/121448/mpf-abre-apuracao-sobre-protecao-de-criancas-e-adolescentes-no-discord",
+      "resumo": "PFDC também vai mapear investigações e operações policiais relacionadas a violações cometidas por meio da plataforma.",
+      "publicado_em": "2026-08-20T07:54:10-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "619c90d25bb73d75",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "De revanche a racha: Veja as disputas pelos governos estaduais e do DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/121444/de-revanche-a-racha-veja-as-disputas-pelos-governos-estaduais-e-do-df",
+      "resumo": "Corrida de 2026 reúne governadores em busca da reeleição, antigos aliados em campos opostos e adversários que voltam a se enfrentar; Congresso em Foco traça o cenário nos 26 Estados e no Distrito Federal.",
+      "publicado_em": "2026-08-20T07:10:53-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
       "id": "188a6f9c76289293",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -279,6 +323,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "87fc40a002f6bd69",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 é homenageado em sessão solene na Câmara dos Deputados pelos 40 anos de atuação",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-e-homenageado-em-sessao-solene-na-camara-dos-deputados-pelos-40-anos-de-atuacao",
+      "resumo": "TRT-15 é homenageado em sessão solene na Câmara dos Deputados pelos 40 anos de atuação anasiqueira Qua, 19/08/2026 - 23:33 TRT-15 é homenageado em sessão solene na Câmara dos Deputados pelos 40 anos de atuação Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região foi homenageado pelos 40",
+      "publicado_em": "2026-08-19T23:33:26-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
     },
     {
       "id": "518b7005069aef2a",
@@ -365,6 +425,89 @@ window.DADOS = {
       "coletado_em": "2026-08-19T17:18:12-03:00"
     },
     {
+      "id": "d75833dbc72476eb",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP Atende começa a funcionar nesta quinta-feira nas varas cíveis do Fórum João Mendes Júnior",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115077&pagina=1",
+      "resumo": "Projeto-piloto terá atendimento presencial e Balcão Virtual. \n \n\tO Tribunal de Justiça de São Paulo inicia, nesta quinta-feira (20), o funcionamento do projeto-piloto TJSP Atende –",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "9b30eb57617537ec",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF vai decidir se agentes penitenciários têm direito à aposentadoria integral e reajuste igual aos da ativa",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-vai-decidir-se-agentes-penitenciarios-tem-direito-a-aposentadoria-integral-e-reajuste-igual-aos-da-ativa/",
+      "resumo": "Tribunal reconheceu repercussão geral da controvérsia. Julgamento de mérito ainda será agendado",
+      "publicado_em": "2026-08-19T19:49:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "julgamento",
+        "julga",
+        "repercussao geral"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "1634f72df8dfdbc3",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "OAB Nacional questiona no STF valores de custas processuais e taxa judiciária de Sergipe",
+      "link": "https://noticias.stf.jus.br/postsnoticias/oab-nacional-questiona-no-stf-valores-de-custas-processuais-e-taxa-judiciaria-de-sergipe/",
+      "resumo": "Entidade sustenta que cobranças são excessivas e podem dificultar acesso à Justiça",
+      "publicado_em": "2026-08-19T19:24:42-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "oab"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "45a7b0f1f01d4d4b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Lei Maria da Penha: medidas protetivas se aplicam fora do contexto doméstico, decide STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/lei-maria-da-penha-medidas-protetivas-se-aplicam-fora-do-contexto-domestico-decide-stf/",
+      "resumo": "Ao julgar recurso com repercussão geral, Plenário definiu que a lei alcança todo tipo de violência contra a mulher baseada no gênero",
+      "publicado_em": "2026-08-19T18:25:50-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 88,
+      "tags": [
+        "decide",
+        "julga",
+        "repercussao geral",
+        "recurso"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "e009cb0d332576e7",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Banco Mundial cita ferramenta de IA do STF como exemplo de eficiência jurídica",
+      "link": "https://noticias.stf.jus.br/postsnoticias/banco-mundial-cita-ferramenta-de-ia-do-stf-como-exemplo-de-eficiencia-juridica/",
+      "resumo": "Relatório internacional cita ‘Victor’ como responsável pela redução do tempo despendido na análise de recursos",
+      "publicado_em": "2026-08-19T17:56:22-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
       "id": "e93d96c4330d26fe",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -395,6 +538,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-19T12:37:46-03:00"
+    },
+    {
+      "id": "70ae3d0d334cb58d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado analisa projeto sobre redução de emissões de metano",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/senado-analisa-projeto-sobre-reducao-de-emissoes-de-metano",
+      "resumo": "",
+      "publicado_em": "2026-08-19T17:40:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
     },
     {
       "id": "c0012151946d4169",
@@ -577,6 +734,82 @@ window.DADOS = {
       "coletado_em": "2026-08-19T17:18:12-03:00"
     },
     {
+      "id": "802b26d6aabdd127",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP debate proteção de dados e governança em encontro nacional da ANPD",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-debate-protecao-de-dados-e-governanca-em-encontro-nacional-da-anpd",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "a37fbf5a067dc6e6",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP participa da posse dos novos dirigentes do Superior Tribunal de Justiça",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-participa-da-posse-dos-novos-dirigentes-do-superior-tribunal-de-justica",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "21eef2d6513a8982",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Prêmio de futebol feminino terá categoria para reconhecer ações contra o feminicídio",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/premio-de-futebol-feminino-tera-categoria-para-reconhecer-acoes-contra-o-feminicidio",
+      "resumo": "",
+      "publicado_em": "2026-08-19T21:23:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "64c4c0dc487e181c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "No Brasil, bioinsumos movimentam R$ 7 bi e 'sequestram' 280 milhões de toneladas de CO₂ por ano",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/no-brasil-bioinsumos-movimentam-r-7-bi-anuais-e-retiram-280-milhoes-de-toneladas-de-co2-do-ar",
+      "resumo": "",
+      "publicado_em": "2026-08-19T18:50:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "64aeb98e1f0ffc0b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MJSP apresenta estratégia integrada de enfrentamento aos crimes relacionados a celulares",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/coletiva-do-mjsp-apresenta-estrategia-integrada-de-enfrentamento-aos-crimes-relacionados-a-celulares",
+      "resumo": "",
+      "publicado_em": "2026-08-19T16:38:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
       "id": "04dfaad70210eeb8",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -611,7 +844,7 @@ window.DADOS = {
       "id": "ee38aaf8e5d8ace5",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Um ano depois, Embrapa e universidades voltam à TI Tirecatinga em expedição de saberes e sabores",
+      "titulo": "Um ano depois, pesquisadores voltam à TI Tirecatinga em expedição de saberes e sabores",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/segunda-expedicao-a-ti-tirecatinga-reune-pesquisa-saberes-tradicionais-e-acoes-de-valorizacao-da-sociobiodiversidade",
       "resumo": "",
       "publicado_em": "2026-08-19T14:05:00-03:00",
@@ -785,6 +1018,50 @@ window.DADOS = {
       "coletado_em": "2026-08-19T15:16:57-03:00"
     },
     {
+      "id": "f2e3456f43f4065a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Com PT de fora, PSD e Republicanos disputam ao governo de Sergipe",
+      "link": "https://www.congressoemfoco.com.br/noticia/121443/com-pt-de-fora-psd-e-republicanos-disputam-ao-governo-de-sergipe",
+      "resumo": "Fábio Mitidieri busca reeleição enquanto enfrenta chapa puro-sangue de Valmir de Francisquinho.",
+      "publicado_em": "2026-08-19T20:12:17-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "c8b3f283e3c8a59e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sucessor de Fátima Bezerra lidera em disputa pelo Rio Grande do Norte",
+      "link": "https://www.congressoemfoco.com.br/noticia/121442/sucessor-de-fatima-bezerra-lidera-em-disputa-pelo-rio-grande-do-norte",
+      "resumo": "Cadu Xavier concorre ao Palácio Potengi em sua primeira eleição contra os veteranos Álvaro Dias e Allyson Bezerra.",
+      "publicado_em": "2026-08-19T18:58:15-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "3e513abe27df8636",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Disputa por Santa Catarina pode confirmar liderança estadual do PL",
+      "link": "https://www.congressoemfoco.com.br/noticia/121438/disputa-por-santa-catarina-pode-confirmar-lideranca-estadual-do-pl",
+      "resumo": "Jorginho Mello busca novo mandato em movimento de consolidação do PL como principal força política no Estado.",
+      "publicado_em": "2026-08-19T17:43:54-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
       "id": "0839b73fad61f30d",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -844,6 +1121,22 @@ window.DADOS = {
       "coletado_em": "2026-08-19T15:16:57-03:00"
     },
     {
+      "id": "da0293da07ae6a2d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governo do Paraná é disputado entre Sergio Moro e grupos tradicionais",
+      "link": "https://www.congressoemfoco.com.br/noticia/121414/governo-do-parana-e-disputado-entre-sergio-moro-e-grupos-tradicionais",
+      "resumo": "Sergio Moro inaugura candidatura ao Executivo concorrendo contra lideranças ligadas a grupos tradicionais da política paranaense.",
+      "publicado_em": "2026-08-19T14:23:21-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
       "id": "281d44191f342c87",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -858,6 +1151,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "65448f76cd2964ea",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Celina Leão é favorita em disputa com 10 candidatos para governo do DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/121404/celina-leao-e-favorita-em-disputa-com-10-candidatos-para-governo-do-df",
+      "resumo": "Sob risco de impugnação, Arruda aparece em segundo nas pesquisas.",
+      "publicado_em": "2026-08-19T12:10:12-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
     },
     {
       "id": "e95e22f2c24825b6",
@@ -1162,7 +1471,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Emprega Lab avança em frentes de trabalho e articulações do Pena Justa nos estados",
       "link": "https://www.cnj.jus.br/emprega-lab-avanca-em-frentes-de-trabalho-e-articulacoes-do-pena-justa-nos-estados/",
-      "resumo": "O Emprega Lab Nacional, iniciativa do Conselho Nacional de Justiça (CNJ) para ampliar a empregabilidade de pessoas presas e egressas no âmbito do Pena Justa, definiu na terça-feira (18/8) quatro frentes de trabalho para os próximos meses: oficinas produtivas nas unidades prisionais, contratação para",
+      "resumo": "O Emprega Lab Nacional, iniciativa do Conselho Nacional de Justiça (CNJ) para ampliar a empregabilidade de pessoas presas e egressas no âmbito do Pena Justa, definiu, na terça-feira (18/8), quatro frentes de trabalho para os próximos meses: oficinas produtivas nas unidades prisionais, contratação pa",
       "publicado_em": "2026-08-19T12:00:00-03:00",
       "dia": "2026-08-19",
       "data_estimada": true,
@@ -1178,7 +1487,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Mutirões ampliam acesso à Justiça para população em situação de rua; CNJ lança manual para fortalecer a ação",
       "link": "https://www.cnj.jus.br/mutiroes-ampliam-acesso-a-justica-para-populacao-em-situacao-de-rua-cnj-lanca-manual-para-fortalecer-a-acao/",
-      "resumo": "Levar justiça à população em situação de rua é iniciativa que demanda atuação conjunta, dialogada e estruturada. Uma das ações que concretiza esse trabalho são os mutirões PopRuaJud locais, que reúnem diversos serviços judiciais, de cidadania e assistência. Para contribuir com a realização desses ev",
+      "resumo": "Levar justiça à população em situação de rua é iniciativa que demanda atuação conjunta, dialogada e estruturada. Uma das ações que concretiza esse trabalho é a dos mutirões PopRuaJud locais, que reúnem diversos serviços judiciais, de cidadania e assistência. Para contribuir com a realização desses e",
       "publicado_em": "2026-08-19T12:00:00-03:00",
       "dia": "2026-08-19",
       "data_estimada": true,
@@ -1204,6 +1513,101 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "572c7e3d833e2e11",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ recebe delegação acadêmica do Carter Center em reunião sobre Judiciário e democracia",
+      "link": "https://www.cnj.jus.br/cnj-recebe-delegacao-academica-do-carter-center-em-reuniao-sobre-judiciario-e-democracia/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) recebeu, na manhã desta quarta-feira (19/8), em sua sede, em Brasília (DF), uma delegação de 19 representantes das áreas educacional e institucional do instituto “The Carter Center”. O encontro promoveu um intercâmbio sobre a atuação do Poder Judiciário brasileir",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "ab9f3c0f53b9b077",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Observatório Nacional da Mulher na Política completa cinco anos e mostra acervo de pesquisas",
+      "link": "https://www.camara.leg.br/noticias/1299062-observatorio-nacional-da-mulher-na-politica-completa-cinco-anos-e-mostra-acervo-de-pesquisas",
+      "resumo": "",
+      "publicado_em": "2026-08-19T19:34:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "67ef21a6b087b7a5",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Constituição e Justiça aprova proposta que cria estado civil de convivente",
+      "link": "https://www.camara.leg.br/noticias/1298631-comissao-de-constituicao-e-justica-aprova-proposta-que-cria-estado-civil-de-convivente",
+      "resumo": "",
+      "publicado_em": "2026-08-19T18:32:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "cd0e3a8593e3b839",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que prevê campanhas informativas sobre doenças neuromusculares",
+      "link": "https://www.camara.leg.br/noticias/1298885-comissao-aprova-projeto-que-preve-campanhas-informativas-sobre-doencas-neuromusculares",
+      "resumo": "",
+      "publicado_em": "2026-08-19T17:58:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "34b44e52428deeaa",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Saúde aprova projeto que garante tratamento de câncer fora do estado",
+      "link": "https://www.camara.leg.br/noticias/1298553-comissao-de-saude-aprova-projeto-que-garante-tratamento-de-cancer-fora-do-estado",
+      "resumo": "",
+      "publicado_em": "2026-08-19T17:36:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "67ea3c70bcd7aa0b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Presidente da República eleito neste ano vai tomar posse no dia 5 de janeiro",
+      "link": "https://www.camara.leg.br/noticias/1298895-presidente-da-republica-eleito-neste-ano-vai-tomar-posse-no-dia-5-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-08-19T17:20:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
     },
     {
       "id": "dddda5767ae5c0d4",
@@ -1423,6 +1827,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "b101a962bd99ca79",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD publica metodologia de testagem do Sandbox Regulatório em IA e Proteção de Dados",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-metodologia-de-testagem-do-sandbox-regulatorio-em-inteligencia-artificial-e-protecao-de-dados",
+      "resumo": "Documento apresenta as diferentes fases de testes do projeto-piloto e tem o foco na produção de evidências na gestão de riscos e no aprendizado regulatório",
+      "publicado_em": "2026-08-19T18:20:16-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
     },
     {
       "id": "1389a33f3b5f72e0",
@@ -2373,6 +2793,62 @@ window.DADOS = {
       "coletado_em": "2026-08-19T08:29:59-03:00"
     },
     {
+      "id": "016b6d6c6db3a40e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleição ao governo do Rio Grande do Sul tem teste de força do PDT",
+      "link": "https://www.congressoemfoco.com.br/noticia/121383/eleicao-ao-governo-do-rio-grande-do-sul-tem-teste-de-forca-do-pdt",
+      "resumo": "Juliana Brizola e Luciano Zucco lideram em disputa pela vaga hoje ocupada por Eduardo Leite.",
+      "publicado_em": "2026-08-18T18:29:20-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "522a0992fb87a620",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Seis candidatos disputam governo de Mato Grosso; senador do PL lidera",
+      "link": "https://www.congressoemfoco.com.br/noticia/121382/seis-candidatos-disputam-governo-de-mato-grosso-senador-do-pl-lidera",
+      "resumo": "Otaviano Pivetta tenta dar continuidade à gestão de Mauro Mendes, mas Wellington Fagundes tem vantagem nas pesquisas.",
+      "publicado_em": "2026-08-18T17:38:06-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "4d5a4b4373aa12a9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eduardo Riedel tenta reeleição em MS com oito candidatos na disputa",
+      "link": "https://www.congressoemfoco.com.br/noticia/121380/eduardo-riedel-tenta-reeleicao-em-ms-com-oito-candidatos-na-disputa",
+      "resumo": "Fábio Trad (PT) aparece como seu principal adversário nas pesquisas.",
+      "publicado_em": "2026-08-18T17:16:17-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "428182dffb046ac5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Seis candidatos se enfrentam nas eleições pelo governo do Goiás",
+      "link": "https://www.congressoemfoco.com.br/noticia/121379/seis-candidatos-se-enfrentam-nas-eleicoes-pelo-governo-do-goias",
+      "resumo": "Atual governador, Daniel Vilela lidera disputa, enquanto o senador Wilder Morais aparece em segundo.",
+      "publicado_em": "2026-08-18T16:57:24-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
       "id": "23e5be82251d87a1",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2401,6 +2877,34 @@ window.DADOS = {
       "coletado_em": "2026-08-18T17:14:44-03:00"
     },
     {
+      "id": "d0f8fa97447bd27b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Com 11 candidatos ao governo, Cleitinho larga à frente em Minas Gerais",
+      "link": "https://www.congressoemfoco.com.br/noticia/121376/com-11-candidatos-ao-governo-cleitinho-larga-a-frente-em-minas-gerais",
+      "resumo": "Debate eleitoral tem dívida bilionária do Estado como central.",
+      "publicado_em": "2026-08-18T16:28:09-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "d495de126eeec005",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sem candidatura do PL, Piauí tem liderança do PT em eleição ao governo",
+      "link": "https://www.congressoemfoco.com.br/noticia/121375/sem-candidatura-do-pl-piaui-tem-lideranca-do-pt-em-eleicao-ao-governo",
+      "resumo": "Rafael Fonteles busca reeleição, enquanto Joel Rodrigues inaugura disputa ao governo estadual.",
+      "publicado_em": "2026-08-18T16:20:35-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
       "id": "4ec247430a5a80b3",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2413,6 +2917,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-18T17:14:44-03:00"
+    },
+    {
+      "id": "bd1c549bc0d953eb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Roraima amplia eleitorado e tem cinco nomes na disputa pelo governo",
+      "link": "https://www.congressoemfoco.com.br/noticia/121373/roraima-amplia-eleitorado-e-tem-cinco-nomes-na-disputa-pelo-governo",
+      "resumo": "Arthur Henrique e Soldado Sampaio voltam a se enfrentar poucos meses depois de pleito extraordinário ainda cercado por impasse judicial.",
+      "publicado_em": "2026-08-18T15:12:28-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
     },
     {
       "id": "3089edc5aaf41568",
@@ -2445,6 +2965,50 @@ window.DADOS = {
       "coletado_em": "2026-08-18T15:19:36-03:00"
     },
     {
+      "id": "ef5374bfd9f63007",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sem Marcos Rocha na disputa, Rondônia tem seis candidatos ao governo",
+      "link": "https://www.congressoemfoco.com.br/noticia/121370/sem-marcos-rocha-na-disputa-rondonia-tem-seis-candidatos-ao-governo",
+      "resumo": "Marcos Rogério tenta voltar ao segundo turno, enquanto Adailton Fúria disputa a sucessão com apoio do governador Marcos Rocha.",
+      "publicado_em": "2026-08-18T14:32:20-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "3b5d2e34b24066dc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ruptura no grupo de Flávio Dino e Carlos Brandão marca disputa no MA",
+      "link": "https://www.congressoemfoco.com.br/noticia/121369/ruptura-no-grupo-de-flavio-dino-e-carlos-brandao-marca-disputa-no-ma",
+      "resumo": "Orleans Brandão e Felipe Camarão disputam o espólio político da antiga aliança, enquanto Eduardo Braide tenta se consolidar como alternativa ao racha.",
+      "publicado_em": "2026-08-18T14:20:59-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 18,
+      "tags": [
+        "camarao"
+      ],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "c31b2c82e18a1747",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dorinha e Vicentinho protagonizam disputa pelo governo do Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/121368/dorinha-e-vicentinho-protagonizam-disputa-pelo-governo-do-tocantins",
+      "resumo": "Com sete candidatos na disputa, senadora apoiada pelo governador enfrenta deputado federal que tenta se apresentar como alternativa ao grupo no poder.",
+      "publicado_em": "2026-08-18T14:17:16-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
       "id": "f949920c880531e2",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2457,6 +3021,48 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-18T15:19:36-03:00"
+    },
+    {
+      "id": "4a814c95ff9a4f89",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Disputa no Ceará opõe Ciro Gomes a Elmano em meio a alianças inéditas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121366/disputa-no-ceara-opoe-ciro-gomes-a-elmano-em-meio-a-aliancas-ineditas",
+      "resumo": "Ex-governador rompe antigas alianças, aproxima-se de partidos da direita e volta à disputa pelo governo mais de três décadas depois, liderando as pesquisas contra o atual governador petista.",
+      "publicado_em": "2026-08-18T14:12:26-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "dea815229f510f5b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bahia reedita duelo entre Jerônimo e ACM Neto pelo governo do Estado",
+      "link": "https://www.congressoemfoco.com.br/noticia/121365/bahia-reedita-duelo-entre-jeronimo-e-acm-neto-pelo-governo-do-estado",
+      "resumo": "Quatro anos depois, governador petista busca a reeleição contra ex-prefeito de Salvador em disputa que começa novamente equilibrada.",
+      "publicado_em": "2026-08-18T14:10:16-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "cef14ff15b0038cb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Racha na base governista divide eleição na Paraíba em três frentes",
+      "link": "https://www.congressoemfoco.com.br/noticia/121364/racha-na-base-governista-divide-eleicao-na-paraiba-em-tres-frentes",
+      "resumo": "Lucas Ribeiro tenta permanecer no governo com apoio de Lula; o ex-aliado Cícero Lucena virou adversário, enquanto Efraim Filho reúne o campo bolsonarista.",
+      "publicado_em": "2026-08-18T14:02:57-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T08:31:45-03:00"
     },
     {
       "id": "3a42deb89b05d637",
