@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-21T12:40:08-03:00",
+  "gerado_em": "2026-08-21T15:19:47-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -328,6 +328,40 @@
       "coletado_em": "2026-08-21T12:40:08-03:00"
     },
     {
+      "id": "c65a3b13505946a5",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Cadicrim lança publicação sobre a Lei nº 15.425/26",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115046&pagina=1",
+      "resumo": "Criminalização do exercício ilegal da medicina veterinária.\n \n\tO Centro de Apoio da Seção de Direito Criminal do Tribunal de Justiça de São Paulo (Cadicrim) disponibilizou",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "c2536633634070fa",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF destaca papel da Corte na transformação do direito de famílias",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-destaca-papel-da-corte-na-transformacao-do-direito-de-familias/",
+      "resumo": "Ministro Edson Fachin abriu evento que reuniu representantes da academia e especialistas para discutir o tema",
+      "publicado_em": "2026-08-21T15:17:36-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
       "id": "214cf206666875aa",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -343,6 +377,51 @@
         "acao"
       ],
       "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "b0f2e3c80ae628fb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Jovem Senador 2026 termina com projetos aprovados e relatos emocionantes",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/21/jovem-senador-2026-termina-com-projetos-aprovados-e-relatos-emocionantes",
+      "resumo": "",
+      "publicado_em": "2026-08-21T15:14:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "0c6f0a9cec279452",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Mulheres com implante contraceptivo banido cobram política de assistência",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/mulheres-com-implante-contraceptivo-banido-cobram-politica-de-assistencia",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:51:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "1ac5d8399332fc94",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Mulheres com implante contraceptivo banido pedem política de assistência",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/21/mulheres-com-implante-contraceptivo-banido-pedem-politica-de-assistencia",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:41:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
     },
     {
       "id": "d2c6151bc181d5e8",
@@ -445,6 +524,69 @@
       "coletado_em": "2026-08-21T12:40:08-03:00"
     },
     {
+      "id": "422f87e880f75cdd",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação Desarme registra apreensões de armas e prisões no Nordeste",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-desarme-registra-apreensoes-de-armas-e-prisoes-no-nordeste",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "462c17c694634bef",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Forças de segurança apreendem mais de 4,2 toneladas de drogas no Paraná",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forcas-de-seguranca-apreendem-mais-de-4-2-toneladas-de-drogas-no-parana",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 6,
+      "tags": [
+        "apreende",
+        "droga"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "77f73a70df860fda",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Dia D de vacinação contra 20 doenças acontece neste sábado (22) em todo o Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/dia-d-de-vacinacao-contra-20-doencas-acontece-neste-sabado-22-no-parana",
+      "resumo": "",
+      "publicado_em": "2026-08-21T14:35:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "2804678ecae930a1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Capes abre 4 mil vagas de mestrado para educadores da rede pública; confira",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/formacao-oferece-mais-de-4-mil-vagas-em-mestrado-profissional",
+      "resumo": "",
+      "publicado_em": "2026-08-21T11:52:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
       "id": "d2fbee50e88d6c6f",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -517,6 +659,96 @@
         "tributario"
       ],
       "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "cacbc229f63264b4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE mantém elegibilidade provisória de Crivella em campanha ao Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/121546/tse-mantem-elegibilidade-provisoria-de-crivella-em-campanha-ao-senado",
+      "resumo": "Marcelo Crivella segue apto para concorrer ao Senado enquanto aguarda análise do mérito sobre condenação no TRE-RJ.",
+      "publicado_em": "2026-08-21T14:41:25-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "51ab73bf620d70a1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Motoristas poderão consultar pedágios eletrônicos pela CNH do Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/121544/motoristas-poderao-consultar-pedagios-eletronicos-pela-cnh-do-brasil",
+      "resumo": "Nova função permitirá consultar passagens em free flow, identificar concessionárias e acessar canais para pagamento.",
+      "publicado_em": "2026-08-21T14:36:20-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "86267c42a8cd820e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula e Trump discutem tarifas e combinam nova rodada de negociações",
+      "link": "https://www.congressoemfoco.com.br/noticia/121538/lula-e-trump-discutem-tarifas-e-combinam-nova-rodada-de-negociacoes",
+      "resumo": "Presidente brasileiro contestou as justificativas dos EUA para as sobretaxas, e Trump propôs que equipes dos dois países voltem a se reunir. Conversa por telefone de 1h20 também abordou facções criminosas, Ucrânia e Irã.",
+      "publicado_em": "2026-08-21T13:22:56-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "4da34d7998802ff4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula pede \"limpeza no Congresso\" a eleitores em ato de campanha no RN",
+      "link": "https://www.congressoemfoco.com.br/noticia/121533/lula-pede-limpeza-no-congresso-a-eleitores-em-ato-de-campanha-no-rn",
+      "resumo": "Presidente citou fim da escala 6x1 e MP da Taxa das Blusinhas como pautas que seriam impulsionadas por uma bancada favorável.",
+      "publicado_em": "2026-08-21T12:12:44-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "9d8842d7cc5a8b0e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A IA levou a tecnologia para fora da TI; e o contrato de trabalho?",
+      "link": "https://www.congressoemfoco.com.br/artigo/121532/a-ia-levou-a-tecnologia-para-fora-da-ti-e-o-contrato-de-trabalho",
+      "resumo": "A inteligência artificial permite que profissionais de qualquer área desenvolvam automações e sistemas antes restritos às equipes técnicas. Sem regras claras, ganhos de produtividade podem se transformar em disputas sobre função, remuneração, direitos sobre as criações e passivo trabalhista.",
+      "publicado_em": "2026-08-21T12:09:53-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "873641e0bb729024",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio reclama de ataques da centro-direita: \"estou sozinho de novo\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121530/flavio-reclama-de-ataques-da-centro-direita--estou-sozinho-de-novo",
+      "resumo": "Presidenciável reclama da postura de concorrentes da centro-direita e cita falta de unidade contra o PT.",
+      "publicado_em": "2026-08-21T11:46:24-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
     },
     {
       "id": "12262e01a6885060",
@@ -593,6 +825,20 @@
         "acao"
       ],
       "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "5ed780a8a638d4f0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nas eleições, é possível enganar o eleitor dizendo apenas a verdade",
+      "link": "https://www.congressoemfoco.com.br/coluna/121519/nas-eleicoes-e-possivel-enganar-o-eleitor-dizendo-apenas-a-verdade",
+      "resumo": "Informações verdadeiras, quando selecionadas ou apresentadas fora de contexto, podem induzir o público a conclusões falsas.",
+      "publicado_em": "2026-08-21T10:23:24-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
     },
     {
       "id": "4a9ac99baf937405",
@@ -691,6 +937,121 @@
         "processo"
       ],
       "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "fe122f14328a0d76",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova proposta que obriga restaurantes a oferecerem cardápios impressos",
+      "link": "https://www.camara.leg.br/noticias/1298988-comissao-aprova-proposta-que-obriga-restaurantes-a-oferecerem-cardapios-impressos",
+      "resumo": "",
+      "publicado_em": "2026-08-21T15:13:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "2f67eb0fb5ca41ba",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria programa nacional de autoestima para mulheres em situação de vulnerabilidade",
+      "link": "https://www.camara.leg.br/noticias/1299440-projeto-cria-programa-nacional-de-autoestima-para-mulheres-em-situacao-de-vulnerabilidade",
+      "resumo": "",
+      "publicado_em": "2026-08-21T13:57:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "59a5105a9d1b886f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que estende o Garantia-Safra para indígenas e povos tradicionais",
+      "link": "https://www.camara.leg.br/noticias/1298980-comissao-aprova-projeto-que-estende-o-garantia-safra-para-indigenas-e-povos-tradicionais",
+      "resumo": "",
+      "publicado_em": "2026-08-21T13:06:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "adi",
+        "aprova"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "f80c2ec3bfbffbc2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que cria sistema de incentivo à produção sustentável na Amazônia",
+      "link": "https://www.camara.leg.br/noticias/1299108-comissao-aprova-projeto-que-cria-sistema-de-incentivo-a-producao-sustentavel-na-amazonia",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:16:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "18a40113b2f4c061",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputado defende diálogo antes da aplicação de tarifas de reciprocidade; assista a entrevista",
+      "link": "https://www.camara.leg.br/noticias/1299387-deputado-defende-dialogo-antes-da-aplicacao-de-tarifas-de-reciprocidade-assista-a-entrevista",
+      "resumo": "",
+      "publicado_em": "2026-08-21T10:39:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "5c926eeba4899049",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que proíbe cobrança de taxas por atividades em parques públicos concedidos",
+      "link": "https://www.camara.leg.br/noticias/1298871-comissao-aprova-projeto-que-proibe-cobranca-de-taxas-por-atividades-em-parques-publicos-concedidos",
+      "resumo": "",
+      "publicado_em": "2026-08-21T09:19:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "8a6280b1e9f364fb",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD publica resultado da seleção para consultores que vão elaborar relatórios em proteção de dados",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-resultado-da-selecao-para-consultores-que-vao-elaborar-relatorios-em-protecao-de-dados",
+      "resumo": "Aprovados serão comunicados por meio de correspondência eletrônica, mas também podem acessar a página do projeto e conferir o resultado",
+      "publicado_em": "2026-08-21T13:29:29-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "protecao de dados",
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
     },
     {
       "id": "2848d608a93669ca",
@@ -2374,6 +2735,57 @@
         "posse"
       ],
       "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "d71d4c6ad8a28871",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova regras mais rígidas para condenados por crimes sexuais contra crianças",
+      "link": "https://www.camara.leg.br/noticias/1298954-comissao-aprova-regras-mais-rigidas-para-condenados-por-crimes-sexuais-contra-criancas",
+      "resumo": "",
+      "publicado_em": "2026-08-20T19:27:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "condenado",
+        "aprova"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "2720bfd66028783f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova mudanças para ampliar saúde e proteção a mulheres de comunidades tradicionais",
+      "link": "https://www.camara.leg.br/noticias/1299026-comissao-aprova-mudancas-para-ampliar-saude-e-protecao-a-mulheres-de-comunidades-tradicionais",
+      "resumo": "",
+      "publicado_em": "2026-08-20T18:18:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "adi",
+        "aprova"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "efaaf6a71f0ee515",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova prazo de 24 horas para polícia comunicar à Justiça descumprimento de medida protetiva",
+      "link": "https://www.camara.leg.br/noticias/1298864-comissao-aprova-prazo-de-24-horas-para-policia-comunicar-a-justica-descumprimento-de-medida-protetiva",
+      "resumo": "",
+      "publicado_em": "2026-08-20T17:35:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "prazo",
+        "aprova"
+      ],
+      "coletado_em": "2026-08-21T15:19:47-03:00"
     },
     {
       "id": "a59a8cedf9eb1fd4",
