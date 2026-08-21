@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-21T15:19:47-03:00",
+  "gerado_em": "2026-08-21T17:16:45-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 19,
       "erro": null
     },
     {
@@ -179,7 +179,7 @@ window.DADOS = {
     {
       "id": "fazenda",
       "status": "ok",
-      "itens": 29,
+      "itens": 30,
       "erro": null
     },
     {
@@ -345,6 +345,54 @@ window.DADOS = {
       "coletado_em": "2026-08-21T15:19:47-03:00"
     },
     {
+      "id": "33346cef9245a31c",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Tribunal recebe exposição itinerante “Arte Sacra Para Ver e Sentir”",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115094&pagina=1",
+      "resumo": "Exposição sensorial com réplicas do Museu de Arte Sacra.\n \n\tO Tribunal de Justiça de São Paulo inaugurou, ontem (20), no Palácio da Justiça, a exposição",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
+      "id": "f716e1b3685dc033",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP inicia 3º ciclo de implementação do eproc nesta segunda-feira",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115095&pagina=1",
+      "resumo": "Unidades-piloto: Fazenda Pública, Jefaz e Acidentes do Trabalho.\n \n\tO Tribunal de Justiça de São Paulo inicia, nesta segunda-feira (24), o terceiro ciclo de implementação do",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
+      "id": "a5555945d11ec416",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Lei de Sorocaba (SP) que proíbe menores de 18 anos em Parada do Orgulho LGBT+ é questionada no STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/lei-de-sorocaba-sp-que-proibe-menores-de-18-anos-em-parada-do-orgulho-lgbt-e-questionada-no-stf/",
+      "resumo": "Associações alegam discriminação e invasão da competência da União",
+      "publicado_em": "2026-08-21T16:46:38-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
       "id": "c2536633634070fa",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -379,6 +427,66 @@ window.DADOS = {
       "coletado_em": "2026-08-21T12:40:08-03:00"
     },
     {
+      "id": "43a8cefe9c3f79cf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Mudança nas regras de exclusividade sobre plantas modificadas volta ao Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/mudanca-nas-regras-de-exclusividade-sobre-plantas-modificadas-volta-ao-senado",
+      "resumo": "",
+      "publicado_em": "2026-08-21T16:55:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
+      "id": "e646c464a13ab866",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Morte de Juscelino Kubitschek completa 50 anos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/morte-de-juscelino-kubitschek-completa-50-anos",
+      "resumo": "",
+      "publicado_em": "2026-08-21T16:13:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
+      "id": "735bcae43925ca66",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Proposta agrava penas quando motorista tiver consumido álcool ou drogas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/proposta-agrava-penas-quando-motorista-tiver-consumido-alcool-ou-drogas",
+      "resumo": "",
+      "publicado_em": "2026-08-21T16:07:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "droga"
+      ],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
+      "id": "e95ea80839f06f15",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Jovens Senadores e Senadoras aprovam projetos de apoio a migrantes e mulheres",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/jovens-senadores-e-senadoras-aprovam-projetos-de-apoio-a-migrantes-e-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-08-21T15:46:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
       "id": "b0f2e3c80ae628fb",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -399,7 +507,7 @@ window.DADOS = {
       "id": "0c6f0a9cec279452",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "Mulheres com implante contraceptivo banido cobram política de assistência",
+      "titulo": "Debatedoras na CDH cobram apoio em casos de implante contraceptivo banido",
       "link": "https://www12.senado.leg.br/noticias/audios/2026/08/mulheres-com-implante-contraceptivo-banido-cobram-politica-de-assistencia",
       "resumo": "",
       "publicado_em": "2026-08-21T12:51:00-03:00",
@@ -427,7 +535,7 @@ window.DADOS = {
       "id": "d2c6151bc181d5e8",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "Senadores que não disputarão eleições e deixarão a Casa em 2027 são 13",
+      "titulo": "Treze senadores nao disputarão eleições e deixarão a casa em 2027",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/08/21/senadores-que-nao-disputarao-eleicoes-e-deixarao-a-casa-em-2027-sao-13",
       "resumo": "",
       "publicado_em": "2026-08-21T10:26:00-03:00",
@@ -557,6 +665,34 @@ window.DADOS = {
       "coletado_em": "2026-08-21T15:19:47-03:00"
     },
     {
+      "id": "705c96e3cc1ee3e2",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Familiares de pessoas desaparecidas podem doar DNA para auxiliar em buscas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/familiares-de-pessoas-desaparecidas-podem-doar-dna-para-auxiliar-em-buscas",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
+      "id": "3617a8fc85dfb1b6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Receita Federal abre consulta ao quarto lote de restituição do IRPF 2026 nesta segunda-feira (24)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/receita-federal-abre-consulta-ao-quarto-lote-de-restituicao-do-irpf-2026-nesta-segunda-feira-24",
+      "resumo": "",
+      "publicado_em": "2026-08-21T15:09:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
       "id": "77f73a70df860fda",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -659,6 +795,76 @@ window.DADOS = {
         "tributario"
       ],
       "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "4002b4de6a64f73b",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Sistema e-Editais é reconhecido como plataforma oficial de publicações da Receita Federal",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/sistema-e-editais-e-reconhecido-como-plataforma-oficial-de-publicacoes-da-receita-federal",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
+      "id": "96b6349c7182a4fb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar libera julgamento de ação sobre regras da Lei da Ficha Limpa",
+      "link": "https://www.congressoemfoco.com.br/noticia/121561/gilmar-libera-julgamento-de-acao-sobre-regras-da-lei-da-ficha-limpa",
+      "resumo": "Julgamento pode redefinir prazos de inelegibilidade e afetar candidaturas já registradas para as eleições de outubro.",
+      "publicado_em": "2026-08-21T16:42:43-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "julgamento",
+        "julga",
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
+      "id": "deb8d69ffdfc9ce9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes autoriza retorno de visitas de Carlos e Jair Renan a Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/121553/moraes-autoriza-retorno-de-visitas-de-carlos-e-jair-renan-a-bolsonaro",
+      "resumo": "Decisão decorre do fim do prazo de 30 dias da suspensão inicial, determinada após divulgação de carta do ex-presidente.",
+      "publicado_em": "2026-08-21T15:46:28-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "prazo",
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
+      "id": "47556657ab10aadc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE-SP libera divulgação de vídeo que retrata Tarcísio como \"Chucky\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121551/tre-sp-libera-divulgacao-de-video-que-retrata-tarcisio-como-chucky",
+      "resumo": "Corte acatou recurso contra decisão que havia retirado das redes sociais um vídeo equiparando o governador ao boneco de filme de terror.",
+      "publicado_em": "2026-08-21T15:26:29-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "decisao",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
     },
     {
       "id": "cacbc229f63264b4",
@@ -939,6 +1145,38 @@ window.DADOS = {
       "coletado_em": "2026-08-21T12:40:08-03:00"
     },
     {
+      "id": "4ca9f778f3f29c2d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova incentivos para empresa em área de fronteira que contratar jovens ou indígenas",
+      "link": "https://www.camara.leg.br/noticias/1299161-comissao-aprova-incentivos-para-empresa-em-area-de-fronteira-que-contratar-jovens-ou-indigenas",
+      "resumo": "",
+      "publicado_em": "2026-08-21T17:04:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
+      "id": "b296daa727fd2461",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe apostas em bets e prevê multas de até R$ 2 bilhões",
+      "link": "https://www.camara.leg.br/noticias/1299433-projeto-proibe-apostas-em-bets-e-preve-multas-de-ate-r-2-bilhoes",
+      "resumo": "",
+      "publicado_em": "2026-08-21T16:09:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
       "id": "fe122f14328a0d76",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -961,7 +1199,7 @@ window.DADOS = {
       "titulo": "Projeto cria programa nacional de autoestima para mulheres em situação de vulnerabilidade",
       "link": "https://www.camara.leg.br/noticias/1299440-projeto-cria-programa-nacional-de-autoestima-para-mulheres-em-situacao-de-vulnerabilidade",
       "resumo": "",
-      "publicado_em": "2026-08-21T13:57:00-03:00",
+      "publicado_em": "2026-08-21T14:07:00-03:00",
       "dia": "2026-08-21",
       "data_estimada": false,
       "score": 46,
@@ -1034,6 +1272,22 @@ window.DADOS = {
         "aprova"
       ],
       "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "b229dd9974babf60",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD avalia como plataformas digitais atuam para prevenir conteúdos criminosos e proteger crianças e mulheres na internet",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-avalia-como-plataformas-digitais-atuam-para-prevenir-conteudos-criminosos-e-proteger-criancas-e-mulheres-na-internet",
+      "resumo": "Monitoramento faz parte do planejamento anunciado pela Agência em junho, para avaliar ações para efetivação da atualização do Marco Civil da Internet e do ECA Digital",
+      "publicado_em": "2026-08-21T16:34:08-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T17:16:45-03:00"
     },
     {
       "id": "8a6280b1e9f364fb",
