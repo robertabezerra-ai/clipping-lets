@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-20T17:19:56-03:00",
+  "gerado_em": "2026-08-21T08:31:31-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -251,6 +251,39 @@
   ],
   "noticias": [
     {
+      "id": "148eac8b627565d5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "IFI: receitas federais aumentaram, mas gastos a longo prazo preocupam",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/ifi-receitas-federais-aumentaram-mas-gastos-a-longo-prazo-preocupam",
+      "resumo": "",
+      "publicado_em": "2026-08-21T08:25:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "9b758fbc4f0db0c6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula marca reunião com Motta e Alcolumbre sobre taxa das blusinhas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121502/lula-marca-reuniao-com-motta-e-alcolumbre-sobre-taxa-das-blusinhas",
+      "resumo": "Presidente se reúne na quarta-feira (26) com os presidentes da Câmara e do Senado para discutir a MP que permite zerar o imposto de importação sobre compras internacionais de até US$ 50.",
+      "publicado_em": "2026-08-21T07:20:58-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
       "id": "2848d608a93669ca",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -293,6 +326,50 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "00a375400d3eac62",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "12ª Vara do Trabalho de São Paulo (FRB) tem expediente suspenso nesta sexta-feira (21/8) por luto",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/12a-vara-do-trabalho-de-sao-paulo-frb-tem-expediente-suspenso-nesta-sexta-feira-21-8-por-luto",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 18,
+      "tags": [
+        "luto"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "ea16338272584c51",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Primeiro painel do 26º Congresso debate responsabilidade civil, dever de cuidado e novos riscos do trabalho",
+      "link": "https://trt15.jus.br/noticia/2026/primeiro-painel-do-26o-congresso-debate-responsabilidade-civil-dever-de-cuidado-e",
+      "resumo": "Primeiro painel do 26º Congresso debate responsabilidade civil, dever de cuidado e novos riscos do trabalho nelipimenta Qui, 20/08/2026 - 18:43 Primeiro painel do 26º Congresso debate responsabilidade civil, dever de cuidado e novos riscos do trabalho Conteúdo da Notícia O dever de cuidado e a preve",
+      "publicado_em": "2026-08-20T18:43:22-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "32579c7c55936314",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Presidente do TST, ministro Vieira de Mello Filho, fala sobre litigância predatória em conferência de abertura",
+      "link": "https://trt15.jus.br/noticia/2026/presidente-do-tst-ministro-vieira-de-mello-filho-fala-sobre-litigancia-predatoria-em",
+      "resumo": "Presidente do TST, ministro Vieira de Mello Filho, fala sobre litigância predatória em conferência de abertura anagatto Qui, 20/08/2026 - 17:40 Presidente do TST, ministro Vieira de Mello Filho, fala sobre litigância predatória em conferência de abertura Conteúdo da Notícia O presidente do Tribunal ",
+      "publicado_em": "2026-08-20T17:40:10-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
     },
     {
       "id": "131bd78f36e6895c",
@@ -374,6 +451,122 @@
       "coletado_em": "2026-08-20T17:19:56-03:00"
     },
     {
+      "id": "bb92b998e45c3b1c",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação de homem por lesão corporal contra a mãe",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115084&pagina=1",
+      "resumo": "Crime não se tratou de mera discussão. \n \n\tA 13ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve condenação de homem por",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "c03efa5542c88066",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Tribunal prestigia posse da nova direção do Superior Tribunal de Justiça",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115085&pagina=1",
+      "resumo": "Ministros Luis Felipe Salomão e Mauro Campbell empossados.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, e a corregedora-geral da",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "3f46d7c2c8506b65",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF abre exposição que celebra 135 anos da Biblioteca Ministro Victor Nunes Leal",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-abre-exposicao-que-celebra-135-anos-da-biblioteca-ministro-victor-nunes-leal/",
+      "resumo": "Programação que marca a data contou ainda com exibição de documentário e realização de mesa-redonda",
+      "publicado_em": "2026-08-20T21:27:21-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "acao",
+        "exposicao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "e9a246ca82b0c3a6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF e Interpol discutem estratégias para fortalecer combate transnacional ao crime organizado",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-e-interpol-discutem-estrategias-para-fortalecer-o-combate-transnacional-ao-crime-organizado/",
+      "resumo": "Presidente do STF recebeu secretário-geral da Interpol; encontro tratou de cooperação internacional, sufocamento financeiro de facções e inovação tecnológica no Judiciário",
+      "publicado_em": "2026-08-20T20:48:54-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "63f95c86c091e7b0",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo avança em julgamento sobre limites do poder de requisição do Ministério Público",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-avanca-em-julgamento-sobre-limites-do-poder-de-requisicao-do-ministerio-publico/",
+      "resumo": "Ministros discutem pedidos de perícias, serviços e meios materiais da administração pública",
+      "publicado_em": "2026-08-20T20:30:38-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "abe4053e6d7e749d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "I Encontro de Juízas no STF debate equidade de gênero e desafios da carreira",
+      "link": "https://noticias.stf.jus.br/postsnoticias/i-encontro-de-juizas-no-stf-debate-equidade-de-genero-e-desafios-da-carreira/",
+      "resumo": "Evento, que contou com a participação da ministra Cármen Lúcia, discutiu obstáculos enfrentados pelas mulheres na magistratura e apresentou propostas para aperfeiçoamento institucional",
+      "publicado_em": "2026-08-20T20:07:59-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "909fb9ad7071de7f",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Plenário do STF confirma suspensão de sanções sobre riscos psicossociais no trabalho",
+      "link": "https://noticias.stf.jus.br/postsnoticias/plenario-do-stf-confirma-suspensao-de-sancoes-sobre-riscos-psicossociais-no-trabalho/",
+      "resumo": "Medidas previstas na Norma Regulamentadora 1 (NR-1) foram suspensas pelo ministro André Mendonça, que espera obter acordo entre as partes",
+      "publicado_em": "2026-08-20T18:10:25-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
       "id": "a0d949b1d696d65b",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -446,6 +639,62 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "4056d9dc1e5c7413",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Izalci Lucas critica Moratória da Soja",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/izalci-lucas-critica-moratoria-da-soja",
+      "resumo": "",
+      "publicado_em": "2026-08-20T18:37:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "019b9734719c455a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CRE do Senado tem na pauta indicações para representações no exterior",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/cre-do-senado-tem-na-pauta-indicacoes-para-representacoes-no-exterior",
+      "resumo": "",
+      "publicado_em": "2026-08-20T18:19:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "8aef031ec813738f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sete organizações internacionais vão acompanhar as eleições de outubro",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/sete-organizacoes-internacionais-vao-acompanhar-as-eleicoes-de-outubro",
+      "resumo": "",
+      "publicado_em": "2026-08-20T18:17:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "c88550ea978483c4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Em relatório, IFI aponta que despesas do governo continuam crescendo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/20/em-relatorio-ifi-aponta-que-despesas-do-governo-continuam-crescendo",
+      "resumo": "",
+      "publicado_em": "2026-08-20T17:22:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
     },
     {
       "id": "8f6a2bc26b7a20c3",
@@ -642,6 +891,98 @@
       "coletado_em": "2026-08-20T15:20:56-03:00"
     },
     {
+      "id": "31cfc1b8b27f5277",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP, PF e MPRJ atuam de forma integrada contra organização criminosa na Baixada Fluminense",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-pf-e-mprj-atuam-de-forma-integrada-contra-organizacao-criminosa-na-baixada-fluminense",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "acace6dc4e29ae11",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação Engodo Digital mira esquema de lavagem de dinheiro ligado a jogos de azar",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-engodo-digital-mira-esquema-de-lavagem-de-dinheiro-ligado-a-jogos-de-azar",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "de8c755d631833e3",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação prende investigados por fabricação e comércio ilegal de armas produzidas com impressoras 3D",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-prende-investigados-por-fabricacao-e-comercio-ilegal-de-armas-produzidas-com-impressoras-3d",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "fbcd2bf4689a4a88",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Crédito facilitado para motoristas de app e táxi passa a valer para carros de até R$ 200 mil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/portaria-interministerial-amplia-alcance-do-move-brasil-2013-taxi-aplicativos",
+      "resumo": "",
+      "publicado_em": "2026-08-20T18:50:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-20T15:20:56-03:00"
+    },
+    {
+      "id": "8088692c13bc693d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Com quase 12 milhões de passageiros em julho, aviação civil mantêm trajetória de alta",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/aviacao-brasileira-bate-recorde-em-julho-e-movimenta-11-9-milhoes-de-passageiros-nos-aeroportos-do-pais",
+      "resumo": "",
+      "publicado_em": "2026-08-20T18:45:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "3d1e9ad95facd989",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Medidas protetivas: o que são e como solicitar em casos de violência doméstica e familiar",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/medidas-protetivas-o-que-sao-e-como-solicitar-em-casos-de-violencia-domestica-e-familiar",
+      "resumo": "",
+      "publicado_em": "2026-08-20T17:25:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
       "id": "b8d1b312c944a272",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -654,6 +995,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "be48be273a031ee6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Transformação digital no SUS apoia enfrentamento das doenças tropicais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/transformacao-digital-no-sus-apoia-enfrentamento-das-doencas-tropicais",
+      "resumo": "",
+      "publicado_em": "2026-08-20T16:13:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
     },
     {
       "id": "7e9005b649eb97b2",
@@ -707,20 +1064,6 @@
       "link": "https://agenciagov.ebc.com.br/noticias/202608/transferencia-de-veiculos-vai-ser-feita-pelo-celular-saiba-como-vai-funcionar",
       "resumo": "",
       "publicado_em": "2026-08-20T14:24:00-03:00",
-      "dia": "2026-08-20",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-20T15:20:56-03:00"
-    },
-    {
-      "id": "fbcd2bf4689a4a88",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Crédito facilitado para motoristas de app e táxi passa a valer para carros de até R$ 200 mil",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/portaria-interministerial-amplia-alcance-do-move-brasil-2013-taxi-aplicativos",
-      "resumo": "",
-      "publicado_em": "2026-08-20T13:58:00-03:00",
       "dia": "2026-08-20",
       "data_estimada": false,
       "score": 40,
@@ -844,6 +1187,138 @@
       "coletado_em": "2026-08-20T17:19:56-03:00"
     },
     {
+      "id": "a10295ef36c86089",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Beneficiários de programas sociais não conseguem mais abrir conta em site de apostas",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/beneficiarios-de-programas-sociais-nao-conseguem-mais-abrir-conta-em-site-de-apostas",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "b9916c252de8334c",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "PGFN inscreve para selecionar estagiários que irão atuar nas unidades espalhadas pelo país",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/pgfn-inscreve-para-selecionar-estagiarios-que-irao-atuar-nas-unidades-espalhadas-pelo-pais",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "631e2267f98ebd31",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zenaide Maia e Styvenson Valentim buscam reeleição ao Senado em RN",
+      "link": "https://www.congressoemfoco.com.br/noticia/121499/zenaide-maia-e-styvenson-valentim-buscam-reeleicao-ao-senado-em-rn",
+      "resumo": "Senadores da atual legislatura buscam preservar seus mandatos em meio a disputa polarizada.",
+      "publicado_em": "2026-08-20T19:22:36-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "60ae7682729e7a92",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alessandro Vieira e Rogério Correia buscam reeleição ao Senado em SE",
+      "link": "https://www.congressoemfoco.com.br/noticia/121498/alessandro-vieira-e-rogerio-correia-buscam-reeleicao-ao-senado-em-se",
+      "resumo": "Senadores da atual legislatura buscam preservar mandatos enquanto enfrentam nomes de peso em pesquisas de intenção de voto.",
+      "publicado_em": "2026-08-20T18:50:56-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "c6497b2a89a750be",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Com 20 nomes, Piauí lidera em número de candidatos ao Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/121494/com-20-nomes-piaui-lidera-em-numero-de-candidatos-ao-senado",
+      "resumo": "Piauí chega à corrida eleitoral como Estado com maior número de candidaturas às suas duas cadeiras no Senado.",
+      "publicado_em": "2026-08-20T18:20:47-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "c4495da6866470e1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gleisi e Dallagnol se enfrentam em eleição ao Senado no Paraná",
+      "link": "https://www.congressoemfoco.com.br/noticia/121490/gleisi-e-dallagnol-se-enfrentam-em-eleicao-ao-senado-no-parana",
+      "resumo": "Antagonistas dos tempos da Operação Lava-Jato disputam pelas duas vagas paranaenses ao Senado.",
+      "publicado_em": "2026-08-20T17:28:26-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "7503c58a607d1362",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Disputa ao Senado em PE tem neta de Arraes e ex-ministro de Temer",
+      "link": "https://www.congressoemfoco.com.br/noticia/121488/disputa-ao-senado-em-pe-tem-neta-de-arraes-e-ex-ministro-de-temer",
+      "resumo": "Marília Arraes lidera disputa ao Senado, e tem o deputado Mendonça Filho como um dos principais adversários.",
+      "publicado_em": "2026-08-20T16:56:40-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "6c95449e82f737e0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Santa Catarina tem direita dividida em eleição às duas vagas do Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/121483/santa-catarina-tem-direita-dividida-em-eleicao-as-duas-vagas-do-senado",
+      "resumo": "Candidatos do PL disputam espaço com demais partidos do próprio campo para cadeiras catarinenses no Senado.",
+      "publicado_em": "2026-08-20T16:06:18-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "9f9583ba2477b4c3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Corrida ao Senado na Bahia põe antigos aliados frente a frente",
+      "link": "https://www.congressoemfoco.com.br/noticia/121480/corrida-ao-senado-na-bahia-poe-antigos-aliados-frente-a-frente",
+      "resumo": "Eleito ao lado de Jaques Wagner em 2018, Angelo Coronel foi rifado da chapa governista neste ano e aderiu ao grupo de ACM Neto. Rui Costa ocupa a segunda vaga do PT ao Senado.",
+      "publicado_em": "2026-08-20T15:14:54-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
       "id": "a12f915ac0ae1c79",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -874,6 +1349,34 @@
       "coletado_em": "2026-08-20T17:19:56-03:00"
     },
     {
+      "id": "ff5ad358acf440bb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MS reúne ex-governador, senadora e deputado entre candidatos ao Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/121476/ms-reune-ex-governador-senadora-e-deputado-entre-candidatos-ao-senado",
+      "resumo": "Soraya Thronicke tenta reeleição com base diferente de 2018, enquanto Nelsinho Trad aparece como suplente.",
+      "publicado_em": "2026-08-20T15:00:25-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "b30de3857d034322",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cinco candidatos ao Senado dividem o mesmo palanque no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/121474/cinco-candidatos-ao-senado-dividem-o-mesmo-palanque-no-tocantins",
+      "resumo": "Eduardo Gomes, Gaguim, Vanderlei Luxemburgo, Ronaldo Dimas e Eli Borges apoiam Professora Dorinha ao governo, mas concorrem entre si por duas vagas.",
+      "publicado_em": "2026-08-20T14:49:52-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
       "id": "53c3ab43dab1763a",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -888,6 +1391,66 @@
         "multa"
       ],
       "coletado_em": "2026-08-20T17:19:56-03:00"
+    },
+    {
+      "id": "81b5f0febf465411",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan e Lira ganham protagonismo na corrida ao Senado em Alagoas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121472/renan-e-lira-ganham-protagonismo-na-corrida-ao-senado-em-alagoas",
+      "resumo": "Saída de Alfredo Gaspar e recuo de JHC redesenharam a corrida, que ganhou novo capítulo com a entrada da ex-primeira-dama de Maceió às vésperas do prazo final para registro das candidaturas.",
+      "publicado_em": "2026-08-20T14:22:14-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "960a954e84001416",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Disputa ao Senado no Rio Grande do Sul tem embate direto entre PT e PL",
+      "link": "https://www.congressoemfoco.com.br/noticia/121470/disputa-ao-senado-no-rio-grande-do-sul-tem-embate-direto-entre-pt-e-pl",
+      "resumo": "Aliados de primeira hora de líderes na corrida presidencial concorrem às cadeiras riograndenses no Senado.",
+      "publicado_em": "2026-08-20T14:07:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "aaaf664b9a5d4dd1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mato Grosso tem 10 candidatos registrados em disputa ao Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/121468/mato-grosso-tem-10-candidatos-registrados-em-disputa-ao-senado",
+      "resumo": "Ex-governador Mauro Mendes deixou cargo para concorrer ao Senado; lista inclui ex-senadores e deputados.",
+      "publicado_em": "2026-08-20T13:07:54-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "613ba6835c3704bf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Disputa pelo Senado em Goiás reúne deputados e esposa de Caiado",
+      "link": "https://www.congressoemfoco.com.br/noticia/121467/disputa-pelo-senado-em-goias-reune-deputados-e-esposa-de-caiado",
+      "resumo": "Gracinha Caiado lidera as pesquisas, enquanto Gustavo Gayer aparece em segundo.",
+      "publicado_em": "2026-08-20T12:33:05-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
     },
     {
       "id": "285a23ec6f731f28",
@@ -983,6 +1546,20 @@
         "acao"
       ],
       "coletado_em": "2026-08-20T15:20:56-03:00"
+    },
+    {
+      "id": "8c64a5d608a99c38",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "De ex-prefeita a deputado eleito no Rio, 13 disputam Senado em Roraima",
+      "link": "https://www.congressoemfoco.com.br/noticia/121458/de-ex-prefeita-a-deputado-eleito-no-rio-13-disputam-senado-em-roraima",
+      "resumo": "Duas vagas estão em jogo em um estado com eleitorado pequeno, mas em forte crescimento desde 2022.",
+      "publicado_em": "2026-08-20T10:45:10-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
     },
     {
       "id": "5ea0229df75c43fb",
@@ -1114,6 +1691,20 @@
       "coletado_em": "2026-08-20T12:39:44-03:00"
     },
     {
+      "id": "d64eb0c29671a5bc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleição ao Senado no Ceará acentua rompimento entre Cid e Ciro Gomes",
+      "link": "https://www.congressoemfoco.com.br/noticia/121449/eleicao-ao-senado-no-ceara-acentua-rompimento-entre-cid-e-ciro-gomes",
+      "resumo": "Cid tenta a reeleição no palanque de Elmano; o irmão Ciro concorre ao governo pela chapa adversária, que tem Capitão Wagner e Alcides Fernandes para o Senado.",
+      "publicado_em": "2026-08-20T08:10:26-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
       "id": "67bbd4a58f6fac7b",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1128,6 +1719,36 @@
         "acao"
       ],
       "coletado_em": "2026-08-20T08:31:45-03:00"
+    },
+    {
+      "id": "f31fe2dd25de020d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Candidatos aliados se dividem em três palanques ao Senado no Maranhão",
+      "link": "https://www.congressoemfoco.com.br/noticia/121447/candidatos-aliados-se-dividem-em-tres-palanques-ao-senado-no-maranhao",
+      "resumo": "Presidente declarou apoio a Eliziane Gama, Weverton Rocha e André Fufuca, que concorrem por palanques diferentes na eleição estadual. Disputa no Maranhão tem Roseana Sarney, outra aliada de Lula, e mais sete candidatos.",
+      "publicado_em": "2026-08-20T07:50:36-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "2ae535dd16efe033",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Apoios de Lula embaralham eleição ao Senado na Paraíba",
+      "link": "https://www.congressoemfoco.com.br/noticia/121445/apoios-de-lula-embaralham-eleicao-ao-senado-na-paraiba",
+      "resumo": "Presidente declarou apoio a João Azevêdo e Veneziano para o Senado, embora os dois estejam em chapas diferentes. Nabor, pai de Hugo Motta e candidato da aliança governista, ainda não recebeu manifestação de apoio de Lula.",
+      "publicado_em": "2026-08-20T07:26:51-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
     },
     {
       "id": "619c90d25bb73d75",
@@ -1238,6 +1859,70 @@
         "premio"
       ],
       "coletado_em": "2026-08-20T12:39:44-03:00"
+    },
+    {
+      "id": "c4bf5606f3b15111",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Conecta lança quatro novas soluções tecnológicas no 6º Festlabs Nacional",
+      "link": "https://www.cnj.jus.br/conecta-lanca-quatro-novas-solucoes-tecnologicas-no-6o-festlabs-nacional/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) disponibilizou, durante o 6º Festlabs nacional, quatro novas ferramentas digitais do Programa Conecta: LexIA, OMNIA e Hannah, desenvolvidas pelo Tribunal de Justiça do Estado de Mato Grosso (TJMT), e LIA3R, idealizada pelo Tribunal Regional Federal da 3ª Região (",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "138f7a074e7a1cc9",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "FestLabs 2026: CNJ anuncia vencedores do 3º Prêmio de Inovação do Poder Judiciário",
+      "link": "https://www.cnj.jus.br/festlabs-2026-cnj-anuncia-vencedores-do-3o-premio-de-inovacao-do-poder-judiciario/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) anunciou, nesta quinta-feira (20/8), os vencedores do 3º Prêmio de Inovação do Poder Judiciário, durante o 6º FestLabs Nacional, em Cuiabá (MT). A premiação reconhece iniciativas que contribuem para o aprimoramento da Justiça por meio da inovação, com soluções vo",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "fb82c46f8a26dac3",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Esmat conquista credenciamento no MEC para ministrar pós-graduação à distância",
+      "link": "https://www.cnj.jus.br/esmat-conquista-credenciamento-no-mec-para-ministrar-pos-graduacao-a-distancia/",
+      "resumo": "A Escola Superior da Magistratura Tocantinense (Esmat) foi oficialmente credenciada pelo Ministério da Educação (MEC) para ministrar cursos de especialização em nível de pós-graduação lato sensu na modalidade à distância. A autorização, válida por cinco anos, foi formalizada pela Portaria nº 656 do ",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "portaria",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "d36fdaf03ef31dc0",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Ministro Benedito Gonçalves assume Corregedoria Nacional de Justiça no dia 25/8",
+      "link": "https://www.cnj.jus.br/ministro-benedito-goncalves-assume-corregedoria-nacional-de-justica-no-dia-25/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realiza, na terça-feira (25/8), às 17h, no Plenário, a cerimônia de posse do ministro do Superior Tribunal de Justiça (STJ) Benedito Gonçalves como corregedor nacional de Justiça para o biênio 2026-2028. Com mais de 52 anos de serviço público e 38 anos de magistr",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
     },
     {
       "id": "a59a8cedf9eb1fd4",
@@ -2249,6 +2934,34 @@
         "diploma"
       ],
       "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "4784523697fdd5fa",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sem senadores buscando reeleição, Rondônia tem 10 candidatos ao Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/121432/sem-senadores-buscando-reeleicao-rondonia-tem-10-candidatos-ao-senado",
+      "resumo": "PL aposta em dois candidatos para ampliar presença e tentar controlar as três vagas do estado no Senado.",
+      "publicado_em": "2026-08-19T16:04:16-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "09e9dc14b0b016b2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "DF tem Michelle, Leila e Bia Kicis entre 13 candidatos ao Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/121431/df-tem-michelle-leila-e-bia-kicis-entre-13-candidatos-ao-senado",
+      "resumo": "Ex-primeira-dama lidera disputa por vaga, enquanto deputadas Bia Kicis e Erika Kokay querem chegar ao Senado; Leila busca reeleição.",
+      "publicado_em": "2026-08-19T16:03:10-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T08:31:31-03:00"
     },
     {
       "id": "df67734c6919179d",
@@ -16555,36 +17268,6 @@
       "score": 46,
       "tags": [
         "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "1b83bd7fac7e5049",
-      "fonte_id": "bacen",
-      "fonte_nome": "Bacen",
-      "titulo": "Veja como foi: BC promoveu evento sobre o fortalecimento do bem-estar financeiro das mulheres",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21139/nota",
-      "resumo": "Debate discutiu políticas e iniciativas para maior equidade no sistema financeiro. Não conseguiu assistir ao vivo? Leia a matéria e acesse o link do evento.",
-      "publicado_em": "2026-05-22T16:44:28-03:00",
-      "dia": "2026-05-22",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "68dc371b5ed4b0c5",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "ANPD abre Tomada de Subsídios sobre o Guia Orientativo “Mecanismos de Aferição de Idade”",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/copy_of_anpd-tomada-de-subsidios-afericao-idade",
-      "resumo": "As contribuições serão recebidas até o dia 09 de julho, por meio da plataforma Brasil Participativo. A consulta visa atualizar as Orientações Preliminares sobre o tema",
-      "publicado_em": "2026-05-22T10:43:00-03:00",
-      "dia": "2026-05-22",
-      "data_estimada": false,
-      "score": 52,
-      "tags": [
-        "liminar"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
