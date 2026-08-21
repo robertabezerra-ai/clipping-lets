@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-21T08:31:31-03:00",
+  "gerado_em": "2026-08-21T12:40:08-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 18,
       "erro": null
     },
     {
@@ -239,7 +239,7 @@ window.DADOS = {
     {
       "id": "governo_federal",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
@@ -250,6 +250,170 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "d4db17f82cc4c952",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Átrio do Ed. Sede do TRT-2 recebe o nome do desembargador Pedro Paulo Teixeira Manus",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/atrio-do-ed-sede-do-trt-2-recebe-o-nome-do-desembargador-pedro-paulo-teixeira-manus",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "3f056c7281480977",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Riscos psicossociais e saúde mental pautam 4º painel do Congresso do TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/riscos-psicossociais-e-saude-mental-pautam-4o-painel-do-congresso-do-trt-15",
+      "resumo": "Riscos psicossociais e saúde mental pautam 4º painel do Congresso do TRT-15 marianaaassuncao Sex, 21/08/2026 - 12:05 Riscos psicossociais e saúde mental pautam 4º painel do Congresso do TRT-15 Conteúdo da Notícia Com o tema “Meio Ambiente do Trabalho com enfoque na NR-1”, o 4º painel do 26º Congress",
+      "publicado_em": "2026-08-21T12:05:17-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "2b604a4f80ec3d8c",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "“Decifra-me ou te devoro” é o desafio do terceiro painel que discute a validade da prova testemunhal",
+      "link": "https://trt15.jus.br/noticia/2026/decifra-me-ou-te-devoro-e-o-desafio-do-terceiro-painel-que-discute-validade-da-prova",
+      "resumo": "“Decifra-me ou te devoro” é o desafio do terceiro painel que discute a validade da prova testemunhal anasiqueira Sex, 21/08/2026 - 11:14 “Decifra-me ou te devoro” é o desafio do terceiro painel que discute a validade da prova testemunhal Conteúdo da Notícia O terceiro painel, sob o tema “Prova teste",
+      "publicado_em": "2026-08-21T11:14:06-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "e658839488c91ef8",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Admissibilidade do recurso de revista é tema do segundo painel do 26º Congresso do TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/admissibilidade-do-recurso-de-revista-e-tema-do-segundo-painel-do-26o-congresso-do-trt",
+      "resumo": "Admissibilidade do recurso de revista é tema do segundo painel do 26º Congresso do TRT-15 nelipimenta Sex, 21/08/2026 - 10:15 Admissibilidade do recurso de revista é tema do segundo painel do 26º Congresso do TRT-15 Conteúdo da Notícia “Admissibilidade do recurso de revista e seu julgamento” foi o t",
+      "publicado_em": "2026-08-21T10:15:32-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "julgamento",
+        "julga",
+        "recurso"
+      ],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "d6406565e3505fc7",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Município deve regularizar restos mortais retirados de túmulo sem conhecimento da família",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115092&pagina=1",
+      "resumo": "Reparação por danos morais fixada em R$ 15 mil.\n \n\tA 1ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve decisão da",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "214cf206666875aa",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "‘Direito sem juridiquês’: entenda o que é súmula vinculante",
+      "link": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-entenda-o-que-e-sumula-vinculante/",
+      "resumo": "Novo episódio trata desse instrumento jurídico, previsto na Constituição, que deve ser obrigatoriamente observado pelos órgãos do Judiciário e pela administração pública",
+      "publicado_em": "2026-08-21T10:00:48-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "sumula",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "d2c6151bc181d5e8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senadores que não disputarão eleições e deixarão a Casa em 2027 são 13",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/21/senadores-que-nao-disputarao-eleicoes-e-deixarao-a-casa-em-2027-sao-13",
+      "resumo": "",
+      "publicado_em": "2026-08-21T10:26:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "9edd172aa714c27f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CDH recebe propostas voltadas ao tratamento de doença pulmonar rara",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/cdh-recebe-propostas-voltadas-ao-tratamento-de-doenca-pulmonar-rara",
+      "resumo": "",
+      "publicado_em": "2026-08-21T10:04:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "e131cb78a1f82121",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "MEC reconhece excelência do Instituto Legislativo Brasileiro",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/mec-reconhece-excelencia-do-instituto-legislativo-brasileiro",
+      "resumo": "",
+      "publicado_em": "2026-08-21T09:01:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "b2cbf2e7f218566b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim da contribuição previdenciária de aposentados será discutido na CDH",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/fim-da-contribuicao-previdenciaria-de-aposentados-sera-discutido-na-cdh",
+      "resumo": "",
+      "publicado_em": "2026-08-21T09:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "d0ddff2ed8ae8eaf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Em outubro, o eleitor vota em dois candidatos ao Senado",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/em-outubro-o-eleitor-vota-em-dois-candidatos-ao-senado",
+      "resumo": "",
+      "publicado_em": "2026-08-21T08:33:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
     {
       "id": "148eac8b627565d5",
       "fonte_id": "senado",
@@ -267,6 +431,235 @@ window.DADOS = {
       "coletado_em": "2026-08-21T08:31:31-03:00"
     },
     {
+      "id": "01ee248b7cfedbbc",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Número de feminicídios cai no Brasil nos primeiros sete meses de 2026",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/numero-de-feminicidios-cai-no-brasil-nos-primeiros-sete-meses-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "d2fbee50e88d6c6f",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil avança em infraestrutura própria para IA com supercomputador e nuvem nacional",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/brasil-avanca-em-infraestrutura-propria-para-inteligencia-artificial-com-supercomputacao-e-nuvem-nacional",
+      "resumo": "",
+      "publicado_em": "2026-08-21T11:25:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "38707a4ee8db3b8f",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "ECA Digital: conheça as regras de proteção de crianças e adolescentes no ambiente online",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/eca-digital-conheca-as-regras-de-protecao-de-criancas-e-adolescentes-no-ambiente-online",
+      "resumo": "",
+      "publicado_em": "2026-08-21T10:59:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "ba715927f70b31da",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Resultados do Ideb orientam ações nas redes de ensino com a estratégia Brasil Aprende+",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/resultados-do-ideb-orientam-acoes-nas-redes-de-ensino",
+      "resumo": "",
+      "publicado_em": "2026-08-21T09:13:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "98ed7163ff142319",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Dia Nacional da Habitação: conheça os direitos das mulheres no Minha Casa, Minha Vida",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/dia-nacional-da-habitacao-conheca-os-direitos-das-mulheres-no-minha-casa-minha-vida",
+      "resumo": "",
+      "publicado_em": "2026-08-21T08:30:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "2e206252e2239882",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Evento no STF debate consensualidade na solução de contenciosos tributários",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/evento-no-stf-debate-consensualidade-na-solucao-de-contenciosos-tributarios",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "tributario"
+      ],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "12262e01a6885060",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Missão aciona STF contra licença remunerada em mandato sindical",
+      "link": "https://www.congressoemfoco.com.br/noticia/121529/missao-aciona-stf-contra-licenca-remunerada-em-mandato-sindical",
+      "resumo": "Partido defende que salário de diretores sindicais seja pago pela própria entidade, e não pelos governos estaduais.",
+      "publicado_em": "2026-08-21T11:18:48-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "ad4d5d88021123b1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça manda PF preservar jornalistas e sigilo de fonte em apuração",
+      "link": "https://www.congressoemfoco.com.br/noticia/121527/mendonca-manda-pf-preservar-jornalistas-e-sigilo-de-fonte-em-apuracao",
+      "resumo": "Manifestação ocorre poucos dias depois de uma controvérsia no próprio Supremo envolvendo a quebra de sigilo do jornalista maranhense Luís Pablo.",
+      "publicado_em": "2026-08-21T11:04:43-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "219ac113bd5f0dd4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Estamos vendo o futuro ficar cada dia mais distante",
+      "link": "https://www.congressoemfoco.com.br/artigo/121526/estamos-vendo-o-futuro-ficar-cada-dia-mais-distante",
+      "resumo": "Desinteresse dos jovens pelos estudos, avanço de modelos educacionais controversos e falta de investimento são obstáculos ao desenvolvimento do país.",
+      "publicado_em": "2026-08-21T11:04:21-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "fc57132cb41b1edf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Militar pode se candidatar a cargo político?",
+      "link": "https://www.congressoemfoco.com.br/artigo/121525/militar-pode-se-candidatar-a-cargo-politico",
+      "resumo": "Tempo de serviço e situação funcional determinam as regras de afastamento e os efeitos de uma candidatura sobre a carreira.",
+      "publicado_em": "2026-08-21T10:52:59-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "edb4e2a15e63315a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça manda apurar vazamento de dados em inquérito contra Lulinha",
+      "link": "https://www.congressoemfoco.com.br/noticia/121524/mendonca-manda-apurar-vazamento-de-dados-em-inquerito-contra-lulinha",
+      "resumo": "Investigação ocorre no âmbito do inquérito já aberto para investigar vazamentos da Operação Sem Desconto.",
+      "publicado_em": "2026-08-21T10:49:48-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "4a9ac99baf937405",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Manoel Gomes propõe salário de R$ 2,5 mil e \"Bolsa Caneta Azul\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121515/manoel-gomes-propoe-salario-de-r-2-5-mil-e-bolsa-caneta-azul",
+      "resumo": "O cantor e candidato a deputado federal também defendeu o fim da escala 6x1 em vídeo publicado nas redes sociais.",
+      "publicado_em": "2026-08-21T09:32:32-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "079bfd7e5b85d3d9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Doação de sangue terá novas regras para tatuagem, câncer e Ozempic",
+      "link": "https://www.congressoemfoco.com.br/noticia/121514/doacao-de-sangue-tera-novas-regras-para-tatuagem-cancer-e-ozempic",
+      "resumo": "Prazo após tatuagem poderá cair para sete dias; mudanças também alcançam pessoas com mais de 70 anos e quem teve tuberculose.",
+      "publicado_em": "2026-08-21T09:12:34-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "novas regras",
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "380ee8208f6a3e49",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dois votos, 54 vagas: Veja as disputas pelo Senado em todo o país",
+      "link": "https://www.congressoemfoco.com.br/noticia/121512/dois-votos-54-vagas-veja-as-disputas-pelo-senado-em-todo-o-pais",
+      "resumo": "Eleitores escolherão dois senadores por unidade da Federação em outubro; corrida reúne atuais congressistas, ex-governadores, ministros, primeiras-damas e nomes que trocaram de estado para tentar uma vaga.",
+      "publicado_em": "2026-08-21T08:48:24-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "991958d7d40a24c2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lulinha aciona TSE por vídeo de IA de Flávio o ligando a roubo do INSS",
+      "link": "https://www.congressoemfoco.com.br/noticia/121507/lulinha-aciona-tse-por-video-de-ia-de-flavio-o-ligando-a-roubo-do-inss",
+      "resumo": "Ação contra Flávio se soma a processo movido contra Zema por conteúdo semelhante.",
+      "publicado_em": "2026-08-21T08:10:10-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
       "id": "9b758fbc4f0db0c6",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -282,6 +675,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "d9bccc578a723f3b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Observatório de Causas de Grande Repercussão faz reunião para debater casos no Pará",
+      "link": "https://www.cnj.jus.br/observatorio-de-causas-de-grande-repercussao-faz-reuniao-para-debater-casos-no-para/",
+      "resumo": "O Observatório de Causas de Grande Repercussão (OCGR) do Conselho Nacional de Justiça (CNJ) esteve, nesta quinta-feira (21), reunido no estado no Pará para alinhar estratégias e monitorar processos judiciais de grande impacto, incluindo questões ambientais, direitos indígenas e segurança pública. O ",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
     },
     {
       "id": "2848d608a93669ca",
@@ -939,6 +1348,34 @@ window.DADOS = {
       "coletado_em": "2026-08-21T08:31:31-03:00"
     },
     {
+      "id": "4859283eba8938b7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Selo do MEC reconhece instituições de ensino que previnem a violência de gênero",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/selo-reconhece-instituicoes-contra-violencia-de-genero",
+      "resumo": "",
+      "publicado_em": "2026-08-20T19:25:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "5d253610d479a447",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Beneficiários de programas sociais não conseguem mais abrir conta em site de apostas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/beneficiarios-de-programas-sociais-nao-conseguem-mais-abrir-conta-em-site-de-apostas",
+      "resumo": "",
+      "publicado_em": "2026-08-20T19:14:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
       "id": "fbcd2bf4689a4a88",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1241,6 +1678,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-21T08:31:31-03:00"
+    },
+    {
+      "id": "3007bc15dcf752ca",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alessandro Vieira e Rogério Carvalho buscam reeleição ao Senado em SE",
+      "link": "https://www.congressoemfoco.com.br/noticia/121498/alessandro-vieira-e-rogerio-carvalho-buscam-reeleicao-ao-senado-em-se",
+      "resumo": "Senadores da atual legislatura buscam preservar mandatos enquanto enfrentam nomes de peso em pesquisas de intenção de voto.",
+      "publicado_em": "2026-08-20T18:50:56-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-21T12:40:08-03:00"
     },
     {
       "id": "c6497b2a89a750be",
@@ -1864,9 +2315,9 @@ window.DADOS = {
       "id": "c4bf5606f3b15111",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Conecta lança quatro novas soluções tecnológicas no 6º Festlabs Nacional",
+      "titulo": "Conecta lança quatro novas soluções tecnológicas no 6º FestLabs Nacional",
       "link": "https://www.cnj.jus.br/conecta-lanca-quatro-novas-solucoes-tecnologicas-no-6o-festlabs-nacional/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) disponibilizou, durante o 6º Festlabs nacional, quatro novas ferramentas digitais do Programa Conecta: LexIA, OMNIA e Hannah, desenvolvidas pelo Tribunal de Justiça do Estado de Mato Grosso (TJMT), e LIA3R, idealizada pelo Tribunal Regional Federal da 3ª Região (",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) disponibilizou, durante o 6º FestLabs Nacional, quatro novas ferramentas digitais do programa Conecta: LexIA, OMNIA e Hannah, desenvolvidas pelo Tribunal de Justiça do Estado de Mato Grosso (TJMT), e LIA3R, idealizada pelo Tribunal Regional Federal da 3ª Região (",
       "publicado_em": "2026-08-20T12:00:00-03:00",
       "dia": "2026-08-20",
       "data_estimada": true,
@@ -1895,9 +2346,9 @@ window.DADOS = {
       "id": "fb82c46f8a26dac3",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Esmat conquista credenciamento no MEC para ministrar pós-graduação à distância",
+      "titulo": "Esmat conquista credenciamento no MEC para ministrar pós-graduação a distância",
       "link": "https://www.cnj.jus.br/esmat-conquista-credenciamento-no-mec-para-ministrar-pos-graduacao-a-distancia/",
-      "resumo": "A Escola Superior da Magistratura Tocantinense (Esmat) foi oficialmente credenciada pelo Ministério da Educação (MEC) para ministrar cursos de especialização em nível de pós-graduação lato sensu na modalidade à distância. A autorização, válida por cinco anos, foi formalizada pela Portaria nº 656 do ",
+      "resumo": "A Escola Superior da Magistratura Tocantinense (Esmat) foi oficialmente credenciada pelo Ministério da Educação (MEC) para ministrar cursos de especialização em nível de pós-graduação lato sensu na modalidade a distância. A autorização, válida por cinco anos, foi formalizada pela Portaria n. 656 do ",
       "publicado_em": "2026-08-20T12:00:00-03:00",
       "dia": "2026-08-20",
       "data_estimada": true,
