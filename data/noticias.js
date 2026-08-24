@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-21T17:16:45-03:00",
+  "gerado_em": "2026-08-24T08:33:43-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,214 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "097ce082e4807b56",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PEC do fim da escala 6x1 chega à Comissão de Constituição e Justiça",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/pec-do-fim-da-escala-6x1-chega-a-comissao-de-constituicao-e-justica",
+      "resumo": "",
+      "publicado_em": "2026-08-24T08:30:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "32b10af746fc47b0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio diz que só quer debater se for com Lula: \"é o meu adversário\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121587/flavio-diz-que-so-quer-debater-se-for-com-lula--e-o-meu-adversario",
+      "resumo": "Senador disse respeitar os demais candidatos, mas afirmou que sua disputa política é contra quem está no poder.",
+      "publicado_em": "2026-08-24T07:41:54-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "9f85ffa3e21675c4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ausentes, Lula e Flávio são citados 73 vezes em debate da Band",
+      "link": "https://www.congressoemfoco.com.br/noticia/121584/ausentes-lula-e-flavio-sao-citados-73-vezes-em-debate-da-band",
+      "resumo": "Presidente foi mencionado 44 vezes e senador, 29; metade das referências ocorreu em apenas seis minutos de confronto.",
+      "publicado_em": "2026-08-24T06:45:49-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "18a7b847647c1f72",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova prioridade para investigação e julgamento de crimes sexuais contra crianças",
+      "link": "https://www.camara.leg.br/noticias/1299168-comissao-aprova-prioridade-para-investigacao-e-julgamento-de-crimes-sexuais-contra-criancas",
+      "resumo": "",
+      "publicado_em": "2026-08-24T08:24:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 76,
+      "tags": [
+        "julgamento",
+        "julga",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "a89cbef5388f8db4",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Teses de repercussão geral do STF, provimentos do CNJ e jurisprudência aplicados nas varas de Família e Sucessões serão debatidos na EPM",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115099&pagina=1",
+      "resumo": "Inscrições até 21 de setembro.\n \n\tA Escola Paulista da Magistratura (EPM), em parceria com a Associação de Direito de Família e das Sucessões (ADFAS), promove,",
+      "publicado_em": "2026-08-23T12:00:00-03:00",
+      "dia": "2026-08-23",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "tese",
+        "repercussao geral",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "2f0260d171b94041",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Jurado voluntário: Comarca de Matão abre inscrições",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115083&pagina=1",
+      "resumo": "Atuação em julgamentos realizados em 2027.\n \n\tA Justiça de Matão abriu inscrições para voluntários que queiram atuar nos Tribunais do Júri realizados na Comarca em",
+      "publicado_em": "2026-08-23T12:00:00-03:00",
+      "dia": "2026-08-23",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "2455dfd1465bb880",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação de três homens por golpe do bilhete premiado",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115063&pagina=1",
+      "resumo": "Idoso entregou R$ 7,5 mil.\n \n\tA 7ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve, em parte, decisão da 2ª Vara",
+      "publicado_em": "2026-08-22T12:00:00-03:00",
+      "dia": "2026-08-22",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "2c2b686cc55cbc6f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Siga o TJSP nas redes sociais",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=114667&pagina=1",
+      "resumo": "Plataformas informam serviços para a população. \n \n\tPara facilitar o acesso a informações e promover a interação da população, o Tribunal de Justiça de São Paulo",
+      "publicado_em": "2026-08-22T12:00:00-03:00",
+      "dia": "2026-08-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "cbc4176db4d32ed7",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Aplicação da Lei Maria da Penha a todos os casos de violência de gênero é destaque no Supremo na Semana",
+      "link": "https://noticias.stf.jus.br/postsnoticias/aplicacao-da-lei-maria-da-penha-a-todos-os-casos-de-violencia-de-genero-e-destaque-no-supremo-na-semana/",
+      "resumo": "Episódio #199 está disponível nas principais plataformas de áudio e no YouTube",
+      "publicado_em": "2026-08-22T12:00:00-03:00",
+      "dia": "2026-08-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "3be64ed86b730c3d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira todos os detalhes da audiência pública sobre a Lei Antifacção",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-todos-os-detalhes-da-audiencia-publica-sobre-a-lei-antifaccao/",
+      "resumo": "Sob a condução do ministro Alexandre de Moraes, relator de quatro ações que questionam a norma no STF, serão ouvidos 48 expositores a partir de segunda (24)",
+      "publicado_em": "2026-08-22T09:00:00-03:00",
+      "dia": "2026-08-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "2ff6debec8773bbb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Encceja: provas vão ser aplicadas neste domingo (23)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/encceja-2026-provas-serao-aplicadas-neste-domingo-23-8",
+      "resumo": "",
+      "publicado_em": "2026-08-22T13:50:00-03:00",
+      "dia": "2026-08-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "8c9a6946650a652f",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Dengue, zika, chikungunya e Oropouche: saiba diferenças e riscos da automedicação",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/dengue-zika-chikungunya-e-oropouche-infectologista-da-hu-brasil-explica-diferencas-e-alerta-para-riscos-da-automedicacao",
+      "resumo": "",
+      "publicado_em": "2026-08-22T12:35:00-03:00",
+      "dia": "2026-08-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "37ab6d921920be2c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Dia D mobiliza crianças e adolescentes para atualizar caderneta de vacinação",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/dia-d-mobiliza-criancas-e-adolescentes-para-atualizar-a-caderneta-de-vacinacao",
+      "resumo": "",
+      "publicado_em": "2026-08-22T12:33:00-03:00",
+      "dia": "2026-08-22",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
       "id": "d4db17f82cc4c952",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -263,6 +471,64 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "090c6f1b27a2b509",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça do Trabalho informa acesso não autorizado ao DEJT",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-do-trabalho-informa-acesso-nao-autorizado-ao-dejt",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "09f8e4aa1cc82513",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Seminário reúne TRT-2 e trabalhadores do setor rodoviário de cargas",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/seminario-reune-trt-2-e-trabalhadores-do-setor-rodoviario-de-cargas",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "c8f5ede711af7e85",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Justiça do Trabalho informa acesso indevido ao DEJT",
+      "link": "https://trt15.jus.br/noticia/2026/justica-do-trabalho-informa-acesso-indevido-ao-dejt",
+      "resumo": "Justiça do Trabalho informa acesso indevido ao DEJT anasiqueira Sex, 21/08/2026 - 19:55 Justiça do Trabalho informa acesso indevido ao DEJT Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) e o Tribunal Superior do Trabalho (TST) informam que foi detectado, no dia 19/08/2026, ace",
+      "publicado_em": "2026-08-21T19:55:27-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "dbe16e15cc63c7f3",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Painel aponta tecnologia e saúde mental como novas pautas do sindicalismo",
+      "link": "https://trt15.jus.br/noticia/2026/painel-aponta-tecnologia-e-saude-mental-como-novas-pautas-do-sindicalismo",
+      "resumo": "Painel aponta tecnologia e saúde mental como novas pautas do sindicalismo anasiqueira Sex, 21/08/2026 - 19:14 Painel aponta tecnologia e saúde mental como novas pautas do sindicalismo Conteúdo da Notícia O futuro do sindicalismo passa pela capacidade de representar trabalhadores em relações de traba",
+      "publicado_em": "2026-08-21T19:14:12-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
     },
     {
       "id": "3f056c7281480977",
@@ -279,12 +545,26 @@ window.DADOS = {
       "coletado_em": "2026-08-21T12:40:08-03:00"
     },
     {
+      "id": "cc3f327c68b97b95",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Riscos psicossociais e saúde mental pautam quarto painel do Congresso do TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/riscos-psicossociais-e-saude-mental-pautam-quarto-painel-do-congresso-do-trt-15",
+      "resumo": "Riscos psicossociais e saúde mental pautam quarto painel do Congresso do TRT-15 marianaaassuncao Sex, 21/08/2026 - 12:05 Riscos psicossociais e saúde mental pautam quarto painel do Congresso do TRT-15 Conteúdo da Notícia Com o tema “Meio Ambiente do Trabalho com enfoque na NR-1”, o quarto painel do ",
+      "publicado_em": "2026-08-21T12:05:17-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
       "id": "2b604a4f80ec3d8c",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
-      "titulo": "“Decifra-me ou te devoro” é o desafio do terceiro painel que discute a validade da prova testemunhal",
+      "titulo": "“Decifra-me ou te devoro” é o desafio do terceiro painel, que discute a validade da prova testemunhal",
       "link": "https://trt15.jus.br/noticia/2026/decifra-me-ou-te-devoro-e-o-desafio-do-terceiro-painel-que-discute-validade-da-prova",
-      "resumo": "“Decifra-me ou te devoro” é o desafio do terceiro painel que discute a validade da prova testemunhal anasiqueira Sex, 21/08/2026 - 11:14 “Decifra-me ou te devoro” é o desafio do terceiro painel que discute a validade da prova testemunhal Conteúdo da Notícia O terceiro painel, sob o tema “Prova teste",
+      "resumo": "“Decifra-me ou te devoro” é o desafio do terceiro painel, que discute a validade da prova testemunhal anasiqueira Sex, 21/08/2026 - 11:14 “Decifra-me ou te devoro” é o desafio do terceiro painel, que discute a validade da prova testemunhal Conteúdo da Notícia O terceiro painel, sob o tema “Prova tes",
       "publicado_em": "2026-08-21T11:14:06-03:00",
       "dia": "2026-08-21",
       "data_estimada": false,
@@ -377,6 +657,99 @@ window.DADOS = {
       "coletado_em": "2026-08-21T17:16:45-03:00"
     },
     {
+      "id": "dd4887c4f82782e5",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115100&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, participou, hoje (21), na Universidade",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "56c1f2ce95fc19b8",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Magistradas do TJSP participam de encontro do STF sobre equidade de gênero",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115101&pagina=1",
+      "resumo": "Reunião realizada ontem (20).\n \n\tMagistradas do Tribunal de Justiça de São Paulo estiveram presentes, ontem (20), no I Encontro de Juízas, realizado pelo Supremo Tribunal",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "f5a21934b3d6bff9",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "‘STF Escuta’ debate desafios para proteger crianças e adolescentes no ambiente digital",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-escuta-debate-desafios-para-proteger-criancas-e-adolescentes-no-ambiente-digital-2/",
+      "resumo": "Especialistas discutiram apostas on-line, inteligência artificial, predadores digitais, exposição nas redes sociais e os limites do ECA Digital",
+      "publicado_em": "2026-08-21T20:24:03-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "11e41bbbb8bd4424",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF publica acórdão sobre restrições à compra de terras por empresas brasileiras controladas por estrangeiros",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-publica-acordao-sobre-restricoes-a-compra-de-terras-por-empresas-brasileiras-controladas-por-estrangeiros/",
+      "resumo": "DJe desta sexta (21) traz o inteiro teor da decisão do Plenário sobre a matéria",
+      "publicado_em": "2026-08-21T19:14:17-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "decisao",
+        "acordao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "d58e2d1f2ad6ad00",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF mantém norma que obriga transportador a contratar seguro de carga",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-norma-que-obriga-transportador-a-contratar-seguro-de-carga/",
+      "resumo": "Por unanimidade, Plenário entendeu que a regra corrige desequilíbrios do modelo anterior e reduz insegurança jurídica",
+      "publicado_em": "2026-08-21T18:54:52-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "817a3fdb7b5d3b77",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "União e Axia Energia fecham acordo de R$ 2,6 bilhões com Piauí por atraso na privatização da Cepisa",
+      "link": "https://noticias.stf.jus.br/postsnoticias/uniao-e-axia-energia-fecham-acordo-de-r-26-bilhoes-com-piaui-por-atraso-na-privatizacao-da-cepisa/",
+      "resumo": "Ministro Luiz Fux homologou acordo que definiu valor e prazos de pagamento da indenização",
+      "publicado_em": "2026-08-21T18:23:47-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "indenizacao",
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
       "id": "a5555945d11ec416",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -425,6 +798,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "8b867d22259cfccd",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PECs do fim da escala 6x1 e da segurança pública chegam à CCJ do Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/21/pecs-do-fim-da-escala-6x1-e-da-seguranca-publica-chegam-a-ccj-do-senado",
+      "resumo": "",
+      "publicado_em": "2026-08-21T17:58:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
     },
     {
       "id": "43a8cefe9c3f79cf",
@@ -535,7 +922,7 @@ window.DADOS = {
       "id": "d2c6151bc181d5e8",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "Treze senadores nao disputarão eleições e deixarão a casa em 2027",
+      "titulo": "Treze senadores não disputarão eleições e deixarão a casa em 2027",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/08/21/senadores-que-nao-disputarao-eleicoes-e-deixarao-a-casa-em-2027-sao-13",
       "resumo": "",
       "publicado_em": "2026-08-21T10:26:00-03:00",
@@ -679,6 +1066,38 @@ window.DADOS = {
       "coletado_em": "2026-08-21T17:16:45-03:00"
     },
     {
+      "id": "1f4d2d69b9f21361",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senajus acompanha Operação Acolhida e atendimento a refugiados em missão em Roraima",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-acompanha-operacao-acolhida-e-atendimento-a-refugiados-em-missao-em-roraima",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "da6583b2e950b65b",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Conferência de Recuperação de Ativos fortalece integração entre Judiciário e forças policiais no Acre",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/conferencia-de-recuperacao-de-ativos-fortalece-integracao-entre-judiciario-e-forcas-policiais-no-acre",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
       "id": "3617a8fc85dfb1b6",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -811,6 +1230,34 @@ window.DADOS = {
       "coletado_em": "2026-08-21T17:16:45-03:00"
     },
     {
+      "id": "7239d5815b537cc8",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal abre consulta ao quarto lote de restituição do IRPF 2026 nesta segunda-feira (24/8)",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/receita-federal-abre-consulta-ao-quarto-lote-de-restituicao-do-irpf-2026-nesta-segunda-feira-24",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "16f1044ab33fdb61",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Ministério da Fazenda e Enap firmam parceria para impulsionar lideranças femininas no setor financeiro",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/ministerio-da-fazenda-e-enap-firmam-parceria-para-impulsionar-liderancas-femininas-no-setor-financeiro",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
       "id": "96b6349c7182a4fb",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -898,6 +1345,48 @@ window.DADOS = {
       "coletado_em": "2026-08-21T15:19:47-03:00"
     },
     {
+      "id": "a926028b9f9c4ec3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "88% dos deputados federais de SE buscam reeleição entre 139 candidatos",
+      "link": "https://www.congressoemfoco.com.br/noticia/121541/88-dos-deputados-federais-de-se-buscam-reeleicao-entre-139-candidatos",
+      "resumo": "Menor Estado no país, Sergipe possui oito vagas na Câmara dos Deputados.",
+      "publicado_em": "2026-08-21T14:08:12-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "96d331edce65196b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Todos os deputados federais do RN tentam reeleição entre 111 nomes",
+      "link": "https://www.congressoemfoco.com.br/noticia/121540/todos-os-deputados-federais-do-rn-tentam-reeleicao-entre-111-nomes",
+      "resumo": "Rio Grande do Norte possui oito vagas na Câmara dos Deputados.",
+      "publicado_em": "2026-08-21T13:53:31-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "2dba9b25001b0413",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "90% dos deputados federais do PI buscam reeleição entre 162 candidatos",
+      "link": "https://www.congressoemfoco.com.br/noticia/121539/90-dos-deputados-federais-do-pi-buscam-reeleicao-entre-162-candidatos",
+      "resumo": "Piauí possui dez vagas na Câmara dos Deputados.",
+      "publicado_em": "2026-08-21T13:36:51-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
       "id": "86267c42a8cd820e",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -910,6 +1399,50 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "026f2c101bad1109",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pernambuco tem 307 candidatos à Câmara; 18 tentam reeleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/121537/pernambuco-tem-307-candidatos-a-camara-18-tentam-reeleicao",
+      "resumo": "O Estado de Pernambuco possui 25 vagas na Câmara dos Deputados.",
+      "publicado_em": "2026-08-21T13:22:24-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "85255a89d254be2d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Reeleições marcam disputa de 105 candidatos à Câmara em Roraima",
+      "link": "https://www.congressoemfoco.com.br/noticia/121535/reeleicoes-marcam-disputa-de-105-candidatos-a-camara-em-roraima",
+      "resumo": "Duas cadeiras já não terão seus atuais titulares, que trocaram a Câmara pela disputa ao Senado.",
+      "publicado_em": "2026-08-21T12:31:53-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "6f43e39d808b7012",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mato Grosso do Sul tem 122 candidatos a Câmara; 7 buscam reeleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/121534/mato-grosso-do-sul-tem-122-candidatos-a-camara-7-buscam-reeleicao",
+      "resumo": "Candidatos a deputado federal do Estado estão distribuídos em 19 partidos.",
+      "publicado_em": "2026-08-21T12:31:37-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
     },
     {
       "id": "4da34d7998802ff4",
@@ -943,6 +1476,20 @@ window.DADOS = {
       "coletado_em": "2026-08-21T15:19:47-03:00"
     },
     {
+      "id": "7966a7fadff2417f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "83% dos deputados federais do PR buscam reeleição entre 419 candidatos",
+      "link": "https://www.congressoemfoco.com.br/noticia/121531/83-dos-deputados-federais-do-pr-buscam-reeleicao-entre-419-candidatos",
+      "resumo": "Maior colégio eleitoral do Sul, Paraná possui 30 vagas na Câmara dos Deputados.",
+      "publicado_em": "2026-08-21T11:50:50-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
       "id": "873641e0bb729024",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -969,6 +1516,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "8634522a3c31260c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Número de candidatos à Câmara  em Rondônia cai e chega a 131 em 2026",
+      "link": "https://www.congressoemfoco.com.br/noticia/121528/numero-de-candidatos-a-camara-em-rondonia-cai-e-chega-a-131-em-2026",
+      "resumo": "Pelo menos dois novos nomes representarão Rondônia na Câmara a partir de 2027.",
+      "publicado_em": "2026-08-21T11:16:24-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
     },
     {
       "id": "ad4d5d88021123b1",
@@ -1033,6 +1594,48 @@ window.DADOS = {
       "coletado_em": "2026-08-21T12:40:08-03:00"
     },
     {
+      "id": "69e60bd60b0a482e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Com 260 candidatos, Pará terá mais de 15 nomes por vaga na Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/121523/com-260-candidatos-para-tera-mais-de-15-nomes-por-vaga-na-camara",
+      "resumo": "Mudanças partidárias redesenharam a bancada paraense antes da eleição.",
+      "publicado_em": "2026-08-21T10:41:56-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "5d862a774f21496b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Santa Catarina tem 230 candidatos à Câmara; 14 buscam reeleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/121522/santa-catarina-tem-230-candidatos-a-camara-14-buscam-reeleicao",
+      "resumo": "Santa Catarina possui 16 vagas na Câmara dos Deputados.",
+      "publicado_em": "2026-08-21T10:40:47-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "b1d6956811db8695",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em meio a 254 candidatos, 15 deputados federais de GO tentam reeleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/121521/em-meio-a-254-candidatos-15-deputados-federais-de-go-tentam-reeleicao",
+      "resumo": "Bancada do Estado tem 17 vagas na Câmara, maioria dos partidos chegam ao limite de 18 candidatos.",
+      "publicado_em": "2026-08-21T10:37:23-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
       "id": "5ed780a8a638d4f0",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1045,6 +1648,48 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-21T15:19:47-03:00"
+    },
+    {
+      "id": "eca04117db558b5c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "84% dos deputados federais do RS buscam reeleição entre 455 candidatos",
+      "link": "https://www.congressoemfoco.com.br/noticia/121518/84-dos-deputados-federais-do-rs-buscam-reeleicao-entre-455-candidatos",
+      "resumo": "Rio Grande do Sul possui 31 vagas na Câmara dos Deputados, a maioria com planos de permanecer no cargo.",
+      "publicado_em": "2026-08-21T10:21:29-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "2dae3c9e8a8c3bd5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Com 157 candidatos, DF tem maior competitividade por vagas a Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/121517/com-157-candidatos-df-tem-maior-competitividade-por-vagas-a-camara",
+      "resumo": "Seis dos oito parlamentares em exercício buscam reeleição, enquanto duas tentam vaga no Senado.",
+      "publicado_em": "2026-08-21T10:06:26-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "9b0a5be7230a5f2d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Amazonas tem 137 candidatos em disputa por oito vagas na Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/121516/amazonas-tem-137-candidatos-em-disputa-por-oito-vagas-na-camara",
+      "resumo": "Candidaturas femininas superam 30%, mas bancada atual é formada só por homens.",
+      "publicado_em": "2026-08-21T09:48:37-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
     },
     {
       "id": "4a9ac99baf937405",
@@ -1095,6 +1740,62 @@ window.DADOS = {
       "coletado_em": "2026-08-21T12:40:08-03:00"
     },
     {
+      "id": "e5eae11605d21a60",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alagoas tem 108 candidatos à Câmara; sete deputados buscam reeleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/121511/alagoas-tem-108-candidatos-a-camara-sete-deputados-buscam-reeleicao",
+      "resumo": "Ex-presidente da Câmara disputa o Senado, enquanto Alfredo Gaspar concorre a vice-presidente. Bancada terá ao menos dois novos nomes em 2027. Veja lista completa de candidatos a deputado federal pelo Estado.",
+      "publicado_em": "2026-08-21T08:46:31-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "e36619e244447f5c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Maranhão tem 272 candidatos à Câmara; 14 deputados tentam a reeleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/121510/maranhao-tem-272-candidatos-a-camara-14-deputados-tentam-a-reeleicao",
+      "resumo": "André Fufuca e Roseana Sarney concorrem ao Senado, Detinha busca vaga na Assembleia e Josimar Maranhãozinho está inelegível.",
+      "publicado_em": "2026-08-21T08:36:05-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "2def57000adb6d33",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ceará tem 291 candidatos à Câmara e 19 deputados buscam reeleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/121509/ceara-tem-291-candidatos-a-camara-e-19-deputados-buscam-reeleicao",
+      "resumo": "Luizianne Lins disputa o Senado, Júnior Mano será suplente de Cid Gomes e Eunício Oliveira desistiu de disputar as eleições deste ano. Veja a lista completa dos candidatos pelo Estado.",
+      "publicado_em": "2026-08-21T08:19:10-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "f6502cf6a43484d5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bahia: 95% dos deputados federais tentam a reeleição para a Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/121508/bahia-95-dos-deputados-federais-tentam-a-reeleicao-para-a-camara",
+      "resumo": "Estado tem uma das maiores taxas de recandidatura do país; apenas dois integrantes da bancada atual ficaram fora da disputa por novo mandato. Veja lista com os mais de 500 candidatos a deputado federal pela Bahia.",
+      "publicado_em": "2026-08-21T08:10:34-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
       "id": "991958d7d40a24c2",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1143,6 +1844,83 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-08-21T12:40:08-03:00"
+    },
+    {
+      "id": "71f8077a2570b0c3",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Carta de Teresina aponta avanços na minuta de resolução do CNJ sobre precatórios",
+      "link": "https://www.cnj.jus.br/carta-de-teresina-aponta-avancos-na-minuta-de-resolucao-do-cnj-sobre-precatorios/",
+      "resumo": "Reunidos em Teresina durante o 23º Encontro da Câmara Nacional de Gestores de Precatórios, magistrados de todo o país reforçaram, por meio da Carta de Teresina, o compromisso com a modernização da gestão dos precatórios e com a construção da nova regulamentação nacional conduzida pelo Conselho Nacio",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 82,
+      "tags": [
+        "resolucao",
+        "regulamenta",
+        "precatorio",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "e81d291c98d991de",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Ação promove simulação de votação em unidades socioeducativas de João Pessoa (PB)",
+      "link": "https://www.cnj.jus.br/acao-promove-simulacao-de-votacao-em-unidades-socioeducativas-de-joao-pessoa-pb/",
+      "resumo": "Atividades de educação política estão sendo realizadas nas unidades socioeducativas do estado. Os trabalhos tiveram início nesta terça e quarta-feira (18 e 19/8), com ações na Semiliberdade, no Centro de Atendimento Socioeducativo Rita Gadelha, no Centro Educacional do Adolescente (CEA/JP) e no Cent",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "783debf78c9bedb2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Tribunais debatem prioridades da Justiça em 2ª Preparatória para Encontro Nacional do Judiciário",
+      "link": "https://www.cnj.jus.br/tribunais-debatem-prioridades-da-justica-em-2a-preparatoria-para-encontro-nacional-do-judiciario/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realizará, na segunda-feira (24/8), a 2ª Reunião Preparatória para o 20º Encontro Nacional do Poder Judiciário (ENPJ). O encontro será na sede do Tribunal Superior Eleitoral (TSE), em Brasília (DF). Será a última reunião preparatória antes do evento nacional, que",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "d9fa5d6caa609d18",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto exige estudo de impacto socioeconômico para mudança em cartórios",
+      "link": "https://www.camara.leg.br/noticias/1299479-projeto-exige-estudo-de-impacto-socioeconomico-para-mudanca-em-cartorios",
+      "resumo": "",
+      "publicado_em": "2026-08-21T19:32:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "c65cf121fed99b7f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Campanha de candidatos a deputado federal se concentra no Instagram",
+      "link": "https://www.camara.leg.br/noticias/1299588-campanha-de-candidatos-a-deputado-federal-se-concentra-no-instagram",
+      "resumo": "",
+      "publicado_em": "2026-08-21T18:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
     },
     {
       "id": "4ca9f778f3f29c2d",
@@ -1293,9 +2071,9 @@ window.DADOS = {
       "id": "8a6280b1e9f364fb",
       "fonte_id": "anpd",
       "fonte_nome": "ANPD",
-      "titulo": "ANPD publica resultado da seleção para consultores que vão elaborar relatórios em proteção de dados",
+      "titulo": "ANPD e PNUD divulgam resultado da seleção de consultores que vão elaborar estudos sobre IA e proteção de dados",
       "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-resultado-da-selecao-para-consultores-que-vao-elaborar-relatorios-em-protecao-de-dados",
-      "resumo": "Aprovados serão comunicados por meio de correspondência eletrônica, mas também podem acessar a página do projeto e conferir o resultado",
+      "resumo": "Aprovados serão comunicados por e-mail, mas também podem acessar a página do projeto e conferir o resultado",
       "publicado_em": "2026-08-21T13:29:29-03:00",
       "dia": "2026-08-21",
       "data_estimada": false,
@@ -4928,6 +5706,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-14T15:45:30-03:00"
+    },
+    {
+      "id": "934903841db552b7",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Inscrições para a 16ª Semana Nacional da Execução Trabalhista vão até quarta-feira (26/8)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/inscricoes-para-a-16a-semana-nacional-da-execucao-trabalhista-comecam-nesta-segunda-17-8",
+      "resumo": "",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-08-17T08:30:27-03:00"
     },
     {
       "id": "22080cdbb7018d0c",
@@ -8822,22 +9616,6 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-14T15:45:30-03:00"
-    },
-    {
-      "id": "934903841db552b7",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Inscrições para a 16ª Semana Nacional da Execução Trabalhista vão até quarta-feira (26/8)",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/inscricoes-para-a-16a-semana-nacional-da-execucao-trabalhista-comecam-nesta-segunda-17-8",
-      "resumo": "",
-      "publicado_em": "2026-08-14T12:00:00-03:00",
-      "dia": "2026-08-14",
-      "data_estimada": true,
-      "score": 50,
-      "tags": [
-        "trabalhista"
-      ],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
     },
     {
       "id": "44fab0423b93940f",
