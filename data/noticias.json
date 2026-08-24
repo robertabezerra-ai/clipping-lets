@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T08:33:43-03:00",
+  "gerado_em": "2026-08-24T12:46:32-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,95 @@
   ],
   "noticias": [
     {
+      "id": "d7c014753553f27b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Tempo médio para baixa de processos cai pela metade no STF em seis anos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/tempo-medio-para-baixa-de-processos-cai-pela-metade-no-stf-em-seis-anos/",
+      "resumo": "Média passou de 194 para 92 dias entre 2020 e 2025; nova série de matérias apresenta a atuação do STF por meio de números",
+      "publicado_em": "2026-08-24T10:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "276b1117188d4856",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições impõem restrições a gastos públicos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/24/eleicoes-impoem-restricoes-a-gastos-publicos",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:16:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "2a0c0a243f1c84ab",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Conheça todos os candidatos ao Senado em 2026",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/24/conheca-todos-os-candidatos-ao-senado-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-08-24T11:33:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "62082d1fb65ea664",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PECs do Fim da Escala 6X1 e da Segurança da Pública começam a tramitar na CCJ",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/pecs-do-fim-da-escala-6x1-e-da-seguranca-da-publica-comecam-a-tramitar-na-ccj",
+      "resumo": "",
+      "publicado_em": "2026-08-24T10:42:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "f54aa0e10ea8db91",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Jovem aprova medidas para estudantes e mulheres",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/senado-jovem-aprova-medidas-para-estudantes-e-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-08-24T10:20:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "b9df95a57709dea8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Mulheres que receberam implante contraceptivo banido cobram assistência",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/mulheres-que-receberam-implante-contraceptivo-banido-cobram-assistencia",
+      "resumo": "",
+      "publicado_em": "2026-08-24T09:04:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
       "id": "097ce082e4807b56",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -263,6 +352,235 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "4b31ae724052213e",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon abre averiguações sobre atuação de Banrisul e Agibank",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-abre-averiguacoes-sobre-atuacao-de-banrisul-e-agibank",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "c7de7613b3a0af44",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Pensão alimentícia internacional: saiba como solicitar ou cobrar valores quando uma das partes mora no exterior",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/pensao-alimenticia-internacional-saiba-como-solicitar-ou-cobrar-valores-quando-uma-das-partes-mora-no-exterior",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "771d9d6183c2caff",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Encceja 2026: prazo para solicitar reaplicação vai até 28 de agosto",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/encceja-2026-prazo-para-solicitar-reaplicacao-vai-ate-28-de-agosto",
+      "resumo": "",
+      "publicado_em": "2026-08-24T11:32:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "b8c9a4e5827aeafc",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Marco Nanini é homenageado na edição especial do Sem Censura, nesta segunda (24/8), na TV Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/marco-nanini-e-homenageado-na-edicao-especial-do-sem-censura-nesta-segunda-24-8-na-tv-brasil",
+      "resumo": "",
+      "publicado_em": "2026-08-24T10:56:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "446042b8eeac7733",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil completa 10 anos sem raiva humana transmitida por cães e reforça vacinação na fronteira",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/brasil-completa-10-anos-sem-raiva-humana-transmitida-por-caes-e-reforca-vacinacao-antirrabica-na-fronteira",
+      "resumo": "",
+      "publicado_em": "2026-08-24T09:45:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "9574103cd4371b95",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Do produtor rural ao pesquisador, dados e serviços fundiários ficam mais acessíveis ao cidadão",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/do-produtor-rural-ao-pesquisador-dados-e-servicos-fundiarios-ficam-mais-acessiveis-ao-cidadao",
+      "resumo": "",
+      "publicado_em": "2026-08-24T03:28:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "c9fcffd0e85317f5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Motoristas já podem consultar pedágios eletrônicos pela CNH do Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/121602/motoristas-ja-podem-consultar-pedagios-eletronicos-pela-cnh-do-brasil",
+      "resumo": "Recurso busca reduzir dúvidas sobre cobranças feitas em trechos com pedágio eletrônico.",
+      "publicado_em": "2026-08-24T12:18:14-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "032c99e3f40f636a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "STJ mantém condenação de Gentili por gordofobia contra Sâmia Bomfim",
+      "link": "https://www.congressoemfoco.com.br/noticia/121598/stj-mantem-condenacao-de-gentili-por-gordofobia-contra-samia-bomfim",
+      "resumo": "Corte afastou alegação da defesa de que  o prazo para a deputada buscar reparação pelos danos causados havia prescrito.",
+      "publicado_em": "2026-08-24T11:28:47-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "condenacao",
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "c41fcde0df256f3e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em todo o país, 22% dos candidatos concorrem fora do Estado natal",
+      "link": "https://www.congressoemfoco.com.br/noticia/121596/em-todo-o-pais-22-dos-candidatos-concorrem-fora-do-estado-natal",
+      "resumo": "Levantamento do Congresso em Foco identifica 4.488 candidaturas nessa situação. Em Roraima, Rondônia, Distrito Federal e Tocantins, mais da metade dos concorrentes nasceu em outra unidade federativa.",
+      "publicado_em": "2026-08-24T11:09:53-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "7e09c64312e01be6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "BTG/Nexus: Lula ultrapassa Flávio e se torna candidato mais rejeitado",
+      "link": "https://www.congressoemfoco.com.br/noticia/121595/btg-nexus-lula-ultrapassa-flavio-e-se-torna-candidato-mais-rejeitado",
+      "resumo": "Presidente é rejeitado por 49% dos eleitores, enquanto senador tem 48%.",
+      "publicado_em": "2026-08-24T10:59:38-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "7879e1c9ebb9d3c0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula e Flávio empatam tecnicamente nos dois turnos, aponta pesquisa",
+      "link": "https://www.congressoemfoco.com.br/noticia/121594/lula-e-flavio-empatam-tecnicamente-nos-dois-turnos-aponta-pesquisa",
+      "resumo": "Diferença é de quatro pontos no principal cenário de 1º turno e cai para um ponto no confronto direto.",
+      "publicado_em": "2026-08-24T10:57:10-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "51997d30e6ee5bab",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O discurso de Mariana Ferrer no Superior Tribunal Militar",
+      "link": "https://www.congressoemfoco.com.br/artigo/121591/o-discurso-de-mariana-ferrer-no-superior-tribunal-militar",
+      "resumo": "Presença de mulheres nos espaços de poder e proteção das vítimas são apresentadas como condições para transformar a igualdade constitucional em realidade.",
+      "publicado_em": "2026-08-24T09:54:46-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "95327370f32c3a3b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O longo caminho até a paridade de gênero nas eleições brasileiras",
+      "link": "https://www.congressoemfoco.com.br/coluna/121590/o-longo-caminho-ate-a-paridade-de-genero-nas-eleicoes-brasileiras",
+      "resumo": "Candidaturas femininas representam 34,6% do total registrado para as eleições, pouco acima do mínimo de 30% previsto na legislação.",
+      "publicado_em": "2026-08-24T09:44:45-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "6e04ddd293d91b51",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Um terço dos candidatos ao Senado disputa fora do Estado em que nasceu",
+      "link": "https://www.congressoemfoco.com.br/noticia/121589/um-terco-dos-candidatos-ao-senado-disputa-fora-do-estado-em-que-nasceu",
+      "resumo": "Levantamento mostra que 104 dos 315 concorrentes nasceram em outra UF. Grupo vai de políticos que mudaram recentemente de Estado, como Simone Tebet e Carlos Bolsonaro, a nomes que construíram há décadas sua trajetória política na unidade que representam.",
+      "publicado_em": "2026-08-24T09:23:06-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "95313f033d1d2136",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Para Lula, intervenção no Corinthians é \"comprando jogador bom\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121588/para-lula-intervencao-no-corinthians-e-comprando-jogador-bom",
+      "resumo": "Presidente afirmou não ser contrário a uma eventual intervenção judicial no clube, desde que haja provas, e cobrou explicações sobre a dívida.",
+      "publicado_em": "2026-08-24T08:24:42-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
     },
     {
       "id": "32b10af746fc47b0",
@@ -279,6 +597,22 @@
       "coletado_em": "2026-08-24T08:33:43-03:00"
     },
     {
+      "id": "164a40564272b100",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Troca de suplente de senador pode ocorrer até 20 dias antes da eleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/121586/troca-de-suplente-de-senador-pode-ocorrer-ate-20-dias-antes-da-eleicao",
+      "resumo": "Legislação permite substituir integrantes da chapa até 14 de setembro, 20 dias antes da eleição. Mudança pode abrir a suplência a aliado ou doador já habilitado a concorrer.",
+      "publicado_em": "2026-08-24T07:33:51-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
       "id": "9f85ffa3e21675c4",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -291,6 +625,50 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "bc336f5867bd5d42",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto obriga seguradora a oferecer carro reserva a terceiro prejudicado em acidente de trânsito",
+      "link": "https://www.camara.leg.br/noticias/1299477-projeto-obriga-seguradora-a-oferecer-carro-reserva-a-terceiro-prejudicado-em-acidente-de-transito",
+      "resumo": "",
+      "publicado_em": "2026-08-24T11:51:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "acd45c5f3663e256",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria regras para proteger trabalhadores contra superendividamento e assédio financeiro",
+      "link": "https://www.camara.leg.br/noticias/1299410-projeto-cria-regras-para-proteger-trabalhadores-contra-superendividamento-e-assedio-financeiro",
+      "resumo": "",
+      "publicado_em": "2026-08-24T10:59:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "2e893c5dd46e2721",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que cria programa de apoio à docência inclusiva",
+      "link": "https://www.camara.leg.br/noticias/1299130-comissao-aprova-projeto-que-cria-programa-de-apoio-a-docencia-inclusiva",
+      "resumo": "",
+      "publicado_em": "2026-08-24T10:07:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
     },
     {
       "id": "18a7b847647c1f72",
@@ -310,6 +688,22 @@
         "acao"
       ],
       "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "1f0c7f717e3e1531",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Banco Central recebe inscrições para três vagas no Programa de Estágio de Pós-Graduação em Pesquisa (PEPP) até 18 de setembro",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21237/nota",
+      "resumo": "Os candidatos devem mencionar a ordem de preferência entre duas linhas de pesquisa. A carga horária do estágio é de trinta horas semanais, com bolsa no valor de R$2.231,39.  O estágio poderá ser realizado de forma remota ou presencial, conforme as necessidades do trabalho.",
+      "publicado_em": "2026-08-24T12:19:33-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
     },
     {
       "id": "a89cbef5388f8db4",
@@ -1312,6 +1706,23 @@
         "acao"
       ],
       "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
+      "id": "0f26a9050b9721e8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ibrachina e Ibrawork apoiam Prêmio Congresso em Foco 2026",
+      "link": "https://www.congressoemfoco.com.br/noticia/121549/ibrachina-e-ibrawork-apoiam-premio-congresso-em-foco-2026",
+      "resumo": "Instituições destacam papel do Parlamento no desenvolvimento do país e na construção de pontes entre sociedade, academia e iniciativa privada.",
+      "publicado_em": "2026-08-21T15:08:16-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 38,
+      "tags": [
+        "cade",
+        "premio"
+      ],
+      "coletado_em": "2026-08-24T12:46:32-03:00"
     },
     {
       "id": "cacbc229f63264b4",
