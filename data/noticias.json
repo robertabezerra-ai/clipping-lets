@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T12:46:32-03:00",
+  "gerado_em": "2026-08-24T15:22:08-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 403 Client Error: Forbidden for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -251,6 +251,116 @@
   ],
   "noticias": [
     {
+      "id": "c8f5ede711af7e85",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Justiça do Trabalho informa acesso indevido ao DEJT",
+      "link": "https://trt15.jus.br/noticia/2026/justica-do-trabalho-informa-acesso-indevido-ao-dejt",
+      "resumo": "Justiça do Trabalho informa acesso indevido ao DEJT anasiqueira Ter, 25/08/2026 - 13:21 Justiça do Trabalho informa acesso indevido ao DEJT Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) e o Tribunal Superior do Trabalho (TST) informam que foi detectado, no dia 19/08/2026, ace",
+      "publicado_em": "2026-08-25T13:21:27-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "b65f79f75304d54b",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Acordo extrajudicial homologado deve ser questionado por ação anulatória",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acordo-extrajudicial-homologado-deve-ser-questionado-por-acao-anulatoria",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "5b1955d429f16b88",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Renovação e compromisso com a Justiça do Trabalho marcam mensagem final do 26º Congresso",
+      "link": "https://trt15.jus.br/noticia/2026/renovacao-e-compromisso-com-justica-do-trabalho-marcam-mensagem-final-do-26o-congresso",
+      "resumo": "Renovação e compromisso com a Justiça do Trabalho marcam mensagem final do 26º Congresso anagatto Seg, 24/08/2026 - 14:37 Renovação e compromisso com a Justiça do Trabalho marcam mensagem final do 26º Congresso Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembar",
+      "publicado_em": "2026-08-24T14:37:55-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "b9a54ce634b0ac1b",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Professor Oscar Vilhena encerra Congresso do TRT-15 com análise sobre STF, Justiça do Trabalho e direitos trabalhistas",
+      "link": "https://trt15.jus.br/noticia/2026/professor-oscar-vilhena-encerra-congresso-do-trt-15-com-analise-sobre-stf-justica-do",
+      "resumo": "Professor Oscar Vilhena encerra Congresso do TRT-15 com análise sobre STF, Justiça do Trabalho e direitos trabalhistas anagatto Seg, 24/08/2026 - 14:11 Professor Oscar Vilhena encerra Congresso do TRT-15 com análise sobre STF, Justiça do Trabalho e direitos trabalhistas Conteúdo da Notícia A conferê",
+      "publicado_em": "2026-08-24T14:11:10-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "af5a17b9f5f3dec8",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Sexto painel aponta efeitos do Tema 1232 do STF sobre a execução trabalhista",
+      "link": "https://trt15.jus.br/noticia/2026/sexto-painel-aponta-efeitos-do-tema-1232-do-stf-sobre-execucao-trabalhista",
+      "resumo": "Sexto painel aponta efeitos do Tema 1232 do STF sobre a execução trabalhista anagatto Seg, 24/08/2026 - 12:56 Sexto painel aponta efeitos do Tema 1232 do STF sobre a execução trabalhista Conteúdo da Notícia Quem entra com uma ação trabalhista precisa apontar, já na petição inicial, todas as empresas",
+      "publicado_em": "2026-08-24T12:56:28-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "397e3fe7402261ad",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Comarca de Guarulhos recebe programas Gestão com Saúde e SGP Próxima de Você",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115106&pagina=1",
+      "resumo": "Orientações em gestão e fortalecimento de lideranças.\n \n\tO Tribunal de Justiça de São Paulo, por meio da Secretaria de Gestão de Pessoas (SGP), promoveu, entre",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "fb3da7bb1f70e2a0",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Justiça paulista determina que tutora reduza número de gatos por questões sanitárias",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115105&pagina=1",
+      "resumo": "Imóvel abriga cerca de 50 animais. \n \n\tA 2ª Câmara Reservada ao Meio Ambiente do Tribunal de Justiça de São Paulo manteve decisão da 1ª Vara",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
       "id": "d7c014753553f27b",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -266,6 +376,94 @@
         "acao"
       ],
       "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "677447acbbe7d7a6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Entenda o que é o Fundo Eleitoral, que neste ano vai distribuir quase R5 bilhões",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/entenda-o-que-e-o-fundo-eleitoral-que-neste-ano-vai-distribuir-quase-r5-bilhoes",
+      "resumo": "",
+      "publicado_em": "2026-08-24T15:11:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "2f7ccc39275fc4c2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Avanços nos direitos trabalhistas são tema de sessão pelos 80 anos do TST",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/avancos-nos-direitos-trabalhistas-sao-tema-de-sessao-pelos-80-anos-do-tst",
+      "resumo": "",
+      "publicado_em": "2026-08-24T14:47:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "3492354149ca5918",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Campanha coleta DNA de familiares de pessoas desaparecidas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/campanha-coleta-dna-de-familiares-de-pessoas-desaparecidas",
+      "resumo": "",
+      "publicado_em": "2026-08-24T14:10:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "6980b5fd03c024bf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado homenageia 80 anos do Tribunal Superior do Trabalho",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/24/senado-homenageia-80-anos-do-tribunal-superior-do-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-08-24T13:57:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "c043c7ac6506dcd3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCJ pode votar exigência de teste de álcool em motoristas envolvidos em acidentes",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/ccj-pode-votar-exigencia-de-teste-de-alcool-em-motoristas-envolvidos-em-acidentes",
+      "resumo": "",
+      "publicado_em": "2026-08-24T13:20:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "11a76663aeb2f100",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Propostas para ampliar proteção a mulheres tramitam no Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/propostas-para-ampliar-protecao-a-mulheres-tramitam-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-08-24T13:07:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
     },
     {
       "id": "276b1117188d4856",
@@ -445,6 +643,84 @@
       "coletado_em": "2026-08-24T12:46:32-03:00"
     },
     {
+      "id": "8664f99f3f5f1d8e",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal destaca agronegócio e cooperativismo agrícola em novo módulo do curso sobre a reforma",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/receita-federal-destaca-agronegocio-e-cooperativismo-agricola-em-novo-modulo-do-curso-sobre-a-reforma",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "29ed060945faab12",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto cria licença de 180 dias para mães após perda gestacional",
+      "link": "https://www.congressoemfoco.com.br/noticia/121615/projeto-cria-licenca-de-180-dias-para-maes-apos-perda-gestacional",
+      "resumo": "Além da licença por luto materno, proposta prevê afastamento remunerado para pais, adotantes e responsáveis legais.",
+      "publicado_em": "2026-08-24T14:22:25-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 18,
+      "tags": [
+        "luto"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "69b6d47d6acf0661",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula aceita convite de Erdogan para participar na COP31 na Turquia",
+      "link": "https://www.congressoemfoco.com.br/noticia/121614/lula-aceita-convite-de-erdogan-para-participar-na-cop31-na-turquia",
+      "resumo": "Presidentes também discutiram cooperação econômica, indústria de defesa e os conflitos na Ucrânia e no Oriente Médio.",
+      "publicado_em": "2026-08-24T14:13:54-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "11cf73c36764d535",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto anistia multas registradas por radares nos últimos 10 anos",
+      "link": "https://www.congressoemfoco.com.br/noticia/121611/projeto-anistia-multas-registradas-por-radares-nos-ultimos-10-anos",
+      "resumo": "Substitutivo rejeita proibição de radares, mas prevê perdão das multas e baixa dos registros em até seis meses.",
+      "publicado_em": "2026-08-24T13:30:38-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "4f3b4cd05f7dd61f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Kataguiri quer tornar obrigatória a participação em debates eleitorais",
+      "link": "https://www.congressoemfoco.com.br/noticia/121608/kataguiri-quer-tornar-obrigatoria-a-participacao-em-debates-eleitorais",
+      "resumo": "Texto apresentado após debate da Band cria punições para faltas consideradas injustificadas.",
+      "publicado_em": "2026-08-24T12:51:14-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
       "id": "c9fcffd0e85317f5",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -521,6 +797,41 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "37410e5a27503726",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A crise é da empresa; a conta não pode ser só do trabalhador",
+      "link": "https://www.congressoemfoco.com.br/artigo/121593/a-crise-e-da-empresa-a-conta-nao-pode-ser-so-do-trabalhador",
+      "resumo": "Caso Casas Bahia reacende debate sobre recuperação judicial, demissões coletivas e direitos trabalhistas.",
+      "publicado_em": "2026-08-24T10:36:20-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "recuperacao judicial",
+        "trabalhista",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "071993d031a975b4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Por que a direita tem tantos candidatos e a esquerda só tem Lula?",
+      "link": "https://www.congressoemfoco.com.br/artigo/121592/por-que-a-direita-tem-tantos-candidatos-e-a-esquerda-so-tem-lula",
+      "resumo": "A multiplicidade de nomes disputando a Presidência pela direita contrasta com a candidatura única de Lula pela esquerda e revela dilemas distintos: coordenação de um lado e sucessão do outro.",
+      "publicado_em": "2026-08-24T10:23:28-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
     },
     {
       "id": "51997d30e6ee5bab",
@@ -627,13 +938,88 @@
       "coletado_em": "2026-08-24T08:33:43-03:00"
     },
     {
+      "id": "2b796b2d7ee7f802",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Fachin defende confiança, transparência e ética para fortalecer legitimidade da Justiça",
+      "link": "https://www.cnj.jus.br/fachin-defende-confianca-transparencia-e-etica-para-fortalecer-legitimidade-da-justica/",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, defendeu, nesta segunda-feira (24/8), que a recuperação da confiança da sociedade no Poder Judiciário deve estar no centro do planejamento da Justiça brasileira. Ao abrir a 2ª Reunião ",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "fb79fe4819cc6c14",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "XX Jornada Lei Maria da Penha debate 20 anos da lei no enfrentamento à violência contra mulheres",
+      "link": "https://www.cnj.jus.br/xx-jornada-lei-maria-da-penha-debate-20-anos-da-lei-no-enfrentamento-a-violencia-contra-mulheres/",
+      "resumo": "Os 20 anos da Lei n. 11.340/2006 serão o eixo central da XX Jornada Lei Maria da Penha, que será realizada nos dias 27 e 28/8, em Campo Grande (MS). Promovido pelo Conselho Nacional de Justiça (CNJ), o encontro reunirá integrantes do sistema de Justiça, especialistas, representantes do poder público",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "51b5fb7b9f7e6155",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê regras de segurança e indenização para falhas em carros elétricos",
+      "link": "https://www.camara.leg.br/noticias/1299689-projeto-preve-regras-de-seguranca-e-indenizacao-para-falhas-em-carros-eletricos",
+      "resumo": "",
+      "publicado_em": "2026-08-24T15:11:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "f64e975c597876e2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto amplia punição para ataques digitais contra mulheres na política",
+      "link": "https://www.camara.leg.br/noticias/1299474-projeto-amplia-punicao-para-ataques-digitais-contra-mulheres-na-politica",
+      "resumo": "",
+      "publicado_em": "2026-08-24T14:02:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "ab42f7661bf22cbb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto responsabiliza poder público por acidentes se houver falta de manutenção em rodovias",
+      "link": "https://www.camara.leg.br/noticias/1299663-projeto-responsabiliza-poder-publico-por-acidentes-se-houver-falta-de-manutencao-em-rodovias",
+      "resumo": "",
+      "publicado_em": "2026-08-24T13:06:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
       "id": "bc336f5867bd5d42",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
       "titulo": "Projeto obriga seguradora a oferecer carro reserva a terceiro prejudicado em acidente de trânsito",
       "link": "https://www.camara.leg.br/noticias/1299477-projeto-obriga-seguradora-a-oferecer-carro-reserva-a-terceiro-prejudicado-em-acidente-de-transito",
       "resumo": "",
-      "publicado_em": "2026-08-24T11:51:00-03:00",
+      "publicado_em": "2026-08-24T12:01:00-03:00",
       "dia": "2026-08-24",
       "data_estimada": false,
       "score": 40,
@@ -647,7 +1033,7 @@
       "titulo": "Projeto cria regras para proteger trabalhadores contra superendividamento e assédio financeiro",
       "link": "https://www.camara.leg.br/noticias/1299410-projeto-cria-regras-para-proteger-trabalhadores-contra-superendividamento-e-assedio-financeiro",
       "resumo": "",
-      "publicado_em": "2026-08-24T10:59:00-03:00",
+      "publicado_em": "2026-08-24T11:09:00-03:00",
       "dia": "2026-08-24",
       "data_estimada": false,
       "score": 40,
@@ -870,7 +1256,7 @@
       "id": "090c6f1b27a2b509",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
-      "titulo": "Justiça do Trabalho informa acesso não autorizado ao DEJT",
+      "titulo": "Justiça do Trabalho informa acesso não autorizado ao DEJT; sistema segue indisponível",
       "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-do-trabalho-informa-acesso-nao-autorizado-ao-dejt",
       "resumo": "",
       "publicado_em": "2026-08-21T12:00:00-03:00",
@@ -894,20 +1280,6 @@
       "tags": [
         "seminario"
       ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "c8f5ede711af7e85",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Justiça do Trabalho informa acesso indevido ao DEJT",
-      "link": "https://trt15.jus.br/noticia/2026/justica-do-trabalho-informa-acesso-indevido-ao-dejt",
-      "resumo": "Justiça do Trabalho informa acesso indevido ao DEJT anasiqueira Sex, 21/08/2026 - 19:55 Justiça do Trabalho informa acesso indevido ao DEJT Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) e o Tribunal Superior do Trabalho (TST) informam que foi detectado, no dia 19/08/2026, ace",
-      "publicado_em": "2026-08-21T19:55:27-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
       "coletado_em": "2026-08-24T08:33:43-03:00"
     },
     {
@@ -1826,6 +2198,22 @@
       "coletado_em": "2026-08-24T08:33:43-03:00"
     },
     {
+      "id": "a5eb8876eef7bde0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A ONU e os desafios da governança global da inteligência artificial",
+      "link": "https://www.congressoemfoco.com.br/artigo/121536/a-onu-e-os-desafios-da-governanca-global-da-inteligencia-artificial",
+      "resumo": "Debate na ONU reforça necessidade de cooperação internacional para limitar riscos, garantir direitos e evitar concentração de poder tecnológico.",
+      "publicado_em": "2026-08-21T12:47:40-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
       "id": "85255a89d254be2d",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2281,7 +2669,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Ação promove simulação de votação em unidades socioeducativas de João Pessoa (PB)",
       "link": "https://www.cnj.jus.br/acao-promove-simulacao-de-votacao-em-unidades-socioeducativas-de-joao-pessoa-pb/",
-      "resumo": "Atividades de educação política estão sendo realizadas nas unidades socioeducativas do estado. Os trabalhos tiveram início nesta terça e quarta-feira (18 e 19/8), com ações na Semiliberdade, no Centro de Atendimento Socioeducativo Rita Gadelha, no Centro Educacional do Adolescente (CEA/JP) e no Cent",
+      "resumo": "Atividades de educação política estão sendo realizadas nas unidades socioeducativas da Paraíba. Os trabalhos tiveram início nesta terça e quarta-feira (18 e 19/8), com ações na Semiliberdade, no Centro de Atendimento Socioeducativo Rita Gadelha, no Centro Educacional do Adolescente (CEA/JP) e no Cen",
       "publicado_em": "2026-08-21T12:00:00-03:00",
       "dia": "2026-08-21",
       "data_estimada": true,
