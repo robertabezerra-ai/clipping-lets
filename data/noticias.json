@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T15:22:08-03:00",
+  "gerado_em": "2026-08-24T17:20:52-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 18,
       "erro": null
     },
     {
@@ -282,6 +282,34 @@
       "coletado_em": "2026-08-24T15:22:08-03:00"
     },
     {
+      "id": "9a9a0188b6a17d95",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Debate no TRT-2 analisa parâmetros para cálculo de dano material em acidentes laborais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/debate-no-trt-2-analisa-parametros-para-calculo-de-dano-material-em-acidentes-laborais",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "44d793f7ad746e71",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Ramais do Ed. Sede do TRT-2 estão temporariamente indisponíveis",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/ramais-do-ed-sede-do-trt-2-estao-temporariamente-indisponiveis",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
       "id": "5b1955d429f16b88",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -361,6 +389,53 @@
       "coletado_em": "2026-08-24T15:22:08-03:00"
     },
     {
+      "id": "16521f82e6a77751",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "EPM abre inscrições para o curso ‘Terrorismo, violência extrema e antissemitismo: desafios para a Justiça Criminal’",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115108&pagina=1",
+      "resumo": "Inscrições até 8 de setembro.\n \n\tA Escola Paulista da Magistratura (EPM) realizará, em 11 de setembro, no Complexo Judiciário Ministro Mário Guimarães (Fórum Criminal da",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "e691aa6e7ede8293",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF invalida lei que perdoava débitos determinados pelo TCE-SC",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-lei-que-perdoava-debitos-impostos-pelo-tribunal-de-contas-de-sc/",
+      "resumo": "Para o Plenário, perdão integral dos valores prejudica a atuação fiscalizadora da Corte de Contas",
+      "publicado_em": "2026-08-24T16:24:07-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "1aebacb4e88d041e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ministros do STF abrem audiência pública sobre Lei Antifacção",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ministros-do-stf-abrem-audiencia-publica-sobre-lei-antifaccao/",
+      "resumo": "Conduzido pelo ministro Alexandre de Moraes, debate reúne, em dois dias, 48 expositores para subsidiar julgamento de quatro ações que questionam a norma",
+      "publicado_em": "2026-08-24T15:39:16-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
       "id": "d7c014753553f27b",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -376,6 +451,50 @@
         "acao"
       ],
       "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "32a8e7bc9cd0007d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAS discute projeto de fiscalização de políticas sociais do governo federal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/24/cas-discute-projeto-de-fiscalizacao-de-politicas-sociais-do-governo-federal",
+      "resumo": "",
+      "publicado_em": "2026-08-24T16:39:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "f2f3e362d59370e3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Verifica: saiba como os candidatos podem usar a IA nas eleições",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/senado-verifica-saiba-como-os-candidatos-podem-usar-a-ia-nas-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-08-24T15:46:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "4f46ddc486869b64",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sessão especial do Senado celebra 80 anos do Tribunal Superior do Trabalho",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/sessao-especial-do-senado-celebra-80-anos-do-tribunal-superior-do-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-08-24T15:45:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
     },
     {
       "id": "677447acbbe7d7a6",
@@ -582,6 +701,92 @@
       "coletado_em": "2026-08-24T12:46:32-03:00"
     },
     {
+      "id": "3e60189abb377c54",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Reunião técnica debate avanços e continuidade de estratégias de prevenção ao uso de drogas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/reuniao-tecnica-debate-avancos-e-continuidade-de-estrategias-de-prevencao-ao-uso-de-drogas",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 20,
+      "tags": [
+        "droga"
+      ],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "c441f9a2854aed05",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP lança guia para orientar jornalistas diante da violência no período eleitoral",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-lanca-guia-para-orientar-jornalistas-diante-da-violencia-no-periodo-eleitoral",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "6f409b1e68d947a3",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Veja como se proteger de golpes na internet e orientar sua família",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/veja-como-se-proteger-de-golpes-na-internet-e-orientar-sua-familia",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "c42df20b2f1f3a01",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Escolas e educadores podem iniciar a seleção de livros didáticos para 2027-30. Saiba como",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/escolha-de-livros-didaticos-do-pnld-comeca-nesta-segunda-24",
+      "resumo": "",
+      "publicado_em": "2026-08-24T15:31:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "48772b926c1a0f0b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Free Flow: motoristas passam a consultar passagens pela CNH do Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/free-flow-motoristas-passam-a-consultar-passagens-pela-cnh-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-08-24T15:09:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "0c475bf75a9a3949",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Prouni: saiba como participar da lista de espera",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/prouni-saiba-como-participar-da-lista-de-espera",
+      "resumo": "",
+      "publicado_em": "2026-08-24T13:28:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
       "id": "771d9d6183c2caff",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -655,6 +860,38 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "7be7bc4a37c01056",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino autoriza PF a cruzar dados da PCESP sobre produtora de Dark Horse",
+      "link": "https://www.congressoemfoco.com.br/noticia/121618/dino-autoriza-pf-a-cruzar-dados-da-pcesp-sobre-produtora-de-dark-horse",
+      "resumo": "Material da Polícia Civil poderá ajudar a PF a rastrear a origem dos recursos repassados a empresa de Karina Ferreira da Gama.",
+      "publicado_em": "2026-08-24T16:14:45-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "72e8dfeb72a8c704",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Coronel Meira propõe porte de arma para fiscais agropecuários",
+      "link": "https://www.congressoemfoco.com.br/noticia/121616/coronel-meira-propoe-porte-de-arma-para-fiscais-agropecuarios",
+      "resumo": "Proposta altera o Estatuto do Desarmamento e inclui servidores federais da fiscalização agropecuária entre categorias autorizadas.",
+      "publicado_em": "2026-08-24T14:26:45-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
     },
     {
       "id": "29ed060945faab12",
@@ -737,6 +974,25 @@
       "coletado_em": "2026-08-24T12:46:32-03:00"
     },
     {
+      "id": "797c39f0b411c9c3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Uma análise favorável ao Acórdão nº 1.869/2026 do TCU",
+      "link": "https://www.congressoemfoco.com.br/artigo/121600/uma-analise-favoravel-ao-acordao-n-1-869-2026-do-tcu",
+      "resumo": "Decisão do TCU reconhece a autonomia das funções de confiança e busca evitar que o teto constitucional elimine a remuneração por responsabilidades adicionais.",
+      "publicado_em": "2026-08-24T12:08:49-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "decisao",
+        "acordao",
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
       "id": "032c99e3f40f636a",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -753,6 +1009,22 @@
         "acao"
       ],
       "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "cabce580bc4cdab2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "IA sem informação organizada é apenas uma promessa cara",
+      "link": "https://www.congressoemfoco.com.br/artigo/121597/ia-sem-informacao-organizada-e-apenas-uma-promessa-cara",
+      "resumo": "Informações desatualizadas, duplicadas ou dispersas comprometem projetos de inteligência artificial e dificultam sua aplicação em escala.",
+      "publicado_em": "2026-08-24T11:12:25-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
     },
     {
       "id": "c41fcde0df256f3e",
@@ -943,7 +1215,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Fachin defende confiança, transparência e ética para fortalecer legitimidade da Justiça",
       "link": "https://www.cnj.jus.br/fachin-defende-confianca-transparencia-e-etica-para-fortalecer-legitimidade-da-justica/",
-      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, defendeu, nesta segunda-feira (24/8), que a recuperação da confiança da sociedade no Poder Judiciário deve estar no centro do planejamento da Justiça brasileira. Ao abrir a 2ª Reunião ",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, defendeu nesta segunda-feira (24/8) que a recuperação da confiança da sociedade no Poder Judiciário deve estar no centro do planejamento da Justiça brasileira. Ao abrir a 2ª Reunião Pr",
       "publicado_em": "2026-08-24T12:00:00-03:00",
       "dia": "2026-08-24",
       "data_estimada": true,
@@ -966,6 +1238,64 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "44b2f97d08bd2e55",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Representação feminina: total de candidatas à Câmara cai 24% em 2026",
+      "link": "https://www.camara.leg.br/noticias/1299890-representacao-feminina-total-de-candidatas-a-camara-cai-24-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-08-24T17:13:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "30999aa4ff435937",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto permite o cultivo de lavouras temporárias às margens de rodovias",
+      "link": "https://www.camara.leg.br/noticias/1296284-projeto-permite-o-cultivo-de-lavouras-temporarias-as-margens-de-rodovias",
+      "resumo": "",
+      "publicado_em": "2026-08-24T17:04:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "ccd8321a40eb087f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto exige lacre físico em placas de motos e quadriciclos",
+      "link": "https://www.camara.leg.br/noticias/1296282-projeto-exige-lacre-fisico-em-placas-de-motos-e-quadriciclos",
+      "resumo": "",
+      "publicado_em": "2026-08-24T16:21:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "19665d513ed6e6dd",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Justiça Eleitoral realiza campanha de combate ao assédio de eleitores no trabalho",
+      "link": "https://www.camara.leg.br/noticias/1299833-justica-eleitoral-realiza-campanha-de-combate-ao-assedio-de-eleitores-no-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-08-24T15:36:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T17:20:52-03:00"
     },
     {
       "id": "51b5fb7b9f7e6155",
