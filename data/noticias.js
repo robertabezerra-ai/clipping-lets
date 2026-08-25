@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-25T15:26:45-03:00",
+  "gerado_em": "2026-08-25T17:19:47-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -316,6 +316,92 @@ window.DADOS = {
       "coletado_em": "2026-08-25T15:26:45-03:00"
     },
     {
+      "id": "35b3f4139b62f380",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Lei municipal que determina instalação de faixas elevadas para pedestres em frente a instituições de ensino é constitucional, decide OE",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115121&pagina=1",
+      "resumo": "Política de educação para segurança no trânsito.\n\tO Órgão Especial do Tribunal de Justiça de São Paulo declarou constitucional a Lei Municipal nº 429/25, de Martinópolis,",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decide",
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "4b4330848d3707f8",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Palestra do PPA Novos Tempos aborda responsabilidades e vínculos sociais como caminhos para o envelhecimento saudável",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115116&pagina=1",
+      "resumo": "Apresentação da especialista Ana Claudia Quintana Arantes.\n\n \n\tO Programa Novos Tempos – Preparação à Aposentadoria de Magistrados(as) e Valorização dos(as) Aposentados(as) do Tribunal de Justiça",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "41c4d501eb8cd8d0",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Aplicativo de transporte indenizará passageira ferida em corrida de moto",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115117&pagina=1",
+      "resumo": "Indenização totaliza R$ 20 mil.\n \n\tA 18ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve decisão da 7ª Vara Cível de",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "decisao",
+        "indenizar",
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "00d40e79fc81d84e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF recebe juristas da Itália e da Espanha para debates sobre Justiça, democracia e inteligência artificial",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-juristas-da-italia-e-da-espanha-para-debates-sobre-justica-democracia-e-inteligencia-artificial/",
+      "resumo": "Programação internacional será realizada de 1º a 3 de setembro e reunirá ministros, magistrados e professores dos três países",
+      "publicado_em": "2026-08-25T16:55:08-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "2c6d9a1f70902539",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF valida regra que impede devedor contumaz de pedir recuperação judicial",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-valida-regra-que-impede-devedor-contumaz-de-pedir-recuperacao-judicial/",
+      "resumo": "Para o Tribunal, lei busca evitar que o não pagamento sistemático de tributos seja usado como vantagem competitiva",
+      "publicado_em": "2026-08-25T16:32:51-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "recuperacao judicial",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
       "id": "e480b075727fa5cd",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -361,6 +447,36 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "8a097b108bc904fc",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Programa Jovem Senador anuncia tema para 2027, quando completa 15 anos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/25/programa-jovem-senador-anuncia-tema-para-2027-quando-completa-15-anos",
+      "resumo": "",
+      "publicado_em": "2026-08-25T16:18:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "8ad4269e69dd7c1b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Ministros e especialistas apoiam fiscalização de políticas sociais do governo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/25/ministros-e-especialistas-apoiam-fiscalizacao-de-politicas-sociais-do-governo",
+      "resumo": "",
+      "publicado_em": "2026-08-25T16:04:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
     },
     {
       "id": "e095ae772c0443da",
@@ -509,6 +625,54 @@ window.DADOS = {
       "coletado_em": "2026-08-25T15:26:45-03:00"
     },
     {
+      "id": "21ec774cf9cdee4a",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon abre monitoramento de Casas Bahia, Tok&Stok e Marabraz após pedidos de recuperação judicial",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-orienta-consumidores-apos-pedido-de-recuperacao-judicial-do-grupo-casas-bahia",
+      "resumo": "",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "recuperacao judicial",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "f3e06c40c2ca4bb2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "10 cursos gratuitos que abordam prevenção e enfrentamento à violência contra mulheres",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/conheca-10-cursos-que-abordam-prevencao-e-enfrentamento-a-violencia-contra-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-08-25T16:14:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "35ed731dd8002b28",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Prazo para renegociar dívidas de financiamento estudantil vai até 16 de setembro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/desenrola-fies-prazo-para-renegociar-dividas-vai-ate-16-de-setembro",
+      "resumo": "",
+      "publicado_em": "2026-08-25T13:52:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
       "id": "1a02283339265e78",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -556,7 +720,7 @@ window.DADOS = {
       "id": "81db7dbe0dd7fbc5",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Agência federal multa TikTok em R$ 153,7 milhões por falhas na proteção de dados de crianças e adolescentes",
+      "titulo": "Agência multa TikTok em R$ 153,7 milhões por falhas na proteção de dados de crianças e adolescentes",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/anpd-multa-tiktok-em-r-153-7-milhoes-por-falhas-na-protecao-de-dados-de-criancas-e-adolescentes",
       "resumo": "",
       "publicado_em": "2026-08-25T09:00:00-03:00",
@@ -584,6 +748,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "ff50b9973e7514f0",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Investimentos no Tesouro Direto somam R$ 11,67 bilhões em julho, mostra balanço publicado pela STN",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/investimentos-no-tesouro-direto-somam-r-11-67-bilhoes-em-julho-mostra-balanco-publicado-pela-stn",
+      "resumo": "",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
     },
     {
       "id": "6ac8af457225b3b9",
@@ -647,6 +825,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "adebaceecfc12d70",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "As empreendedoras e uma agenda política que vai além do CNPJ",
+      "link": "https://www.congressoemfoco.com.br/artigo/121640/as-empreendedoras-e-uma-agenda-politica-que-vai-alem-do-cnpj",
+      "resumo": "Elas não abrem mão do voto, mas não se sentem representadas: o que querem as empreendedoras nas eleições de 2026.",
+      "publicado_em": "2026-08-25T09:41:17-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
     },
     {
       "id": "b4eb3a9c1d2b19e7",
@@ -838,6 +1030,82 @@ window.DADOS = {
         "visita"
       ],
       "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "3d2224528d8df3a2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Medida provisória abre crédito de R$ 7 bilhões para exportadores afetados pelo tarifaço dos EUA",
+      "link": "https://www.camara.leg.br/noticias/1300108-medida-provisoria-abre-credito-de-r-7-bilhoes-para-exportadores-afetados-pelo-tarifaco-dos-eua",
+      "resumo": "",
+      "publicado_em": "2026-08-25T16:31:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "a0ae541f93ecd270",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Transporte gratuito no dia da eleição deve garantir acesso ao voto",
+      "link": "https://www.camara.leg.br/noticias/1300155-transporte-gratuito-no-dia-da-eleicao-deve-garantir-acesso-ao-voto",
+      "resumo": "",
+      "publicado_em": "2026-08-25T16:19:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "2c270d24266d0595",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Governo edita mais uma medida provisória com crédito extra para subsidiar combustíveis",
+      "link": "https://www.camara.leg.br/noticias/1300125-governo-edita-mais-uma-medida-provisoria-com-credito-extra-para-subsidiar-combustiveis",
+      "resumo": "",
+      "publicado_em": "2026-08-25T16:12:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "5a204ec1bfe80061",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "'Junho Vermelho': campanha de incentivo à doação de sangue agora é lei",
+      "link": "https://www.camara.leg.br/noticias/1300062-junho-vermelho-campanha-de-incentivo-a-doacao-de-sangue-agora-e-lei",
+      "resumo": "",
+      "publicado_em": "2026-08-25T15:56:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "1c312d1a0dd512e7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eleitor deve consultar fontes confiáveis antes de escolher candidatos",
+      "link": "https://www.camara.leg.br/noticias/1300076-eleitor-deve-consultar-fontes-confiaveis-antes-de-escolher-candidatos",
+      "resumo": "",
+      "publicado_em": "2026-08-25T15:40:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T17:19:47-03:00"
     },
     {
       "id": "e662fcf87014fe4d",
@@ -1605,7 +1873,7 @@ window.DADOS = {
       "id": "e3aa0ecaea17f810",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "SUS oferece teleatendimentos de saúde mental para mulheres em situação de violência e mães atípicas",
+      "titulo": "SUS: teleatendimento de saúde mental para mulheres em situação de violência e mães atípicas",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/sus-oferece-100-mil-teleatendimentos-mensais-de-saude-mental-para-mulheres-em-situacao-de-violencia-e-maes-atipicas",
       "resumo": "",
       "publicado_em": "2026-08-24T20:04:00-03:00",
