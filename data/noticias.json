@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-24T17:20:52-03:00",
+  "gerado_em": "2026-08-25T08:33:09-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -265,6 +265,85 @@
       "coletado_em": "2026-08-24T08:33:43-03:00"
     },
     {
+      "id": "9833e144cda938cd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Janja acusa Renan Santos de misoginia após fala em debate presidencial",
+      "link": "https://www.congressoemfoco.com.br/noticia/121634/janja-acusa-renan-santos-de-misoginia-apos-fala-em-debate-presidencial",
+      "resumo": "Primeira-dama diz que candidato do Missão usou sua imagem para atingir Lula; Renan rebateu e afirmou que fez uma crítica política.",
+      "publicado_em": "2026-08-25T07:39:12-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "ca8b01dbfa56b0b6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ancine registra filme sobre Bolsonaro; veja o que falta para a estreia",
+      "link": "https://www.congressoemfoco.com.br/noticia/121633/ancine-registra-filme-sobre-bolsonaro-veja-o-que-falta-para-a-estreia",
+      "resumo": "Dark Horse ainda precisa obter certificado para exploração comercial e classificação indicativa; produtores preveem lançamento em novembro. Filme é alvo de investigações.",
+      "publicado_em": "2026-08-25T07:37:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "06927dc943986b3d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika Hilton desafia Flávio Bolsonaro a debater fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/121632/erika-hilton-desafia-flavio-bolsonaro-a-debater-fim-da-escala-6x1",
+      "resumo": "Deputada reage à notícia de possível articulação de aliados do presidenciável do PL para adiar votação da PEC e provoca: \"Vai aceitar ou passar mal?\".",
+      "publicado_em": "2026-08-25T07:08:38-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "f96f187a04d289a8",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto reforça validade de mensagens compartilhadas como prova",
+      "link": "https://www.camara.leg.br/noticias/1299789-projeto-reforca-validade-de-mensagens-compartilhadas-como-prova",
+      "resumo": "",
+      "publicado_em": "2026-08-25T07:54:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "f010b2732f6d4963",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD multa TikTok em R$ 153,7 milhões por falhas na proteção de dados de crianças e adolescentes",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-multa-tiktok-em-r-153-7-milhoes-por-falhas-na-protecao-de-dados-de-criancas-e-adolescentes",
+      "resumo": "Rede social é multada por violações à LGPD. ByteDance também se comprometeu com plano de conformidade para correção das irregularidades e melhoria no tratamento de dados",
+      "publicado_em": "2026-08-25T06:00:14-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "multa",
+        "lgpd",
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
       "id": "b65f79f75304d54b",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -308,6 +387,34 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "6797fae8635b9f9c",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 alcança 100% no Ranking da Transparência do Poder Judiciário 2026",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-alcanca-100-no-ranking-da-transparencia-do-poder-judiciario-2026",
+      "resumo": "TRT-15 alcança 100% no Ranking da Transparência do Poder Judiciário 2026 anasiqueira Seg, 24/08/2026 - 18:46 TRT-15 alcança 100% no Ranking da Transparência do Poder Judiciário 2026 Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região alcançou 100% no Ranking da Transparência do Poder J",
+      "publicado_em": "2026-08-24T18:46:13-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "88640c07299b4ee9",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Presidente e corregedor do TRT-15 participam de sessão solene no Senado Federal pelos 80 anos do TST",
+      "link": "https://trt15.jus.br/noticia/2026/presidente-e-corregedor-do-trt-15-participam-de-sessao-solene-no-senado-federal-pelos",
+      "resumo": "Presidente e corregedor do TRT-15 participam de sessão solene no Senado Federal pelos 80 anos do TST anasiqueira Seg, 24/08/2026 - 18:28 Presidente e corregedor do TRT-15 participam de sessão solene no Senado Federal pelos 80 anos do TST Conteúdo da Notícia A presidente e o corregedor do Tribunal Re",
+      "publicado_em": "2026-08-24T18:28:34-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
     },
     {
       "id": "5b1955d429f16b88",
@@ -401,6 +508,82 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "0710d493698f1d3e",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Guarda municipal que perdeu porte de arma após medida protetiva não poderá atuar em atividade complementar",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115111&pagina=1",
+      "resumo": "Ausência de requisito essencial para a função.\n \n\tA 11ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve decisão da Vara da",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "77cfddff885ed791",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Jurado voluntário: inscrições para atuação na Comarca de Estrela D’Oeste",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115103&pagina=1",
+      "resumo": "Cadastro até 21 de setembro.\n \n\tA 1ª Vara de Estrela D'Oeste está com inscrições abertas para voluntários que queiram atuar como jurados nos Tribunais do",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "3e7ddc97d6147e8b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidentes de tribunais participam de reunião no STF sobre atuação do Judiciário contra crime organizado",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidentes-de-tribunais-participam-de-reuniao-no-stf-sobre-atuacao-do-judiciario-contra-crime-organizado/",
+      "resumo": "Convocado pelo ministro Alexandre de Moraes, encontro buscou discutir propostas para aprimorar a atuação da Justiça criminal diante da nova realidade do crime organizado",
+      "publicado_em": "2026-08-24T21:09:07-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "ba0a09cb61e6c7a1",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF ouve propostas e críticas sobre endurecimento de regras contra facções",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-ouve-propostas-e-criticas-sobre-endurecimento-de-regras-contra-faccoes/",
+      "resumo": "Primeiro dia da audiência pública convocada pelo ministro Alexandre de Moraes reuniu representantes do sistema de Justiça, do governo e de entidades para discutir pontos da Lei Antifacção",
+      "publicado_em": "2026-08-24T19:04:27-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "78c366c13e483988",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF notifica ao Congresso que presidentes de partidos e ex-parlamentares não podem indicar emendas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-notifica-congresso-que-presidentes-de-partidos-e-ex-parlamentares-nao-podem-indicar-emendas/",
+      "resumo": "De acordo com ministro Flávio Dino, indicações feitas por esses agentes são nulas",
+      "publicado_em": "2026-08-24T17:40:34-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
     },
     {
       "id": "e691aa6e7ede8293",
@@ -745,13 +928,55 @@
       "coletado_em": "2026-08-24T17:20:52-03:00"
     },
     {
+      "id": "e1b5ae3b53fc42b1",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Inscrições abertas para curso de gestão municipal da ordem pública e segurança cidadã",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-curso-de-gestao-municipal-da-ordem-publica-e-seguranca-cidada",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "b7c5fa3f4f331c6b",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Postos oficiais coletam DNA de familiares para auxiliar em buscas de pessoas desaparecidas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/postos-oficiais-coletam-dna-de-familiares-para-auxiliar-em-buscas-de-pessoas-desaparecidas",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "5810eb6d4c44e8c5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Selo reconhecerá instituições de ensino com ações de prevenção e enfrentamento à violência contra meninas e mulheres",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/selo-reconhecera-instituicoes-de-ensino-com-acoes-de-prevencao-e-enfrentamento-a-violencia-contra-meninas-e-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-08-24T19:50:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
       "id": "c42df20b2f1f3a01",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
       "titulo": "Escolas e educadores podem iniciar a seleção de livros didáticos para 2027-30. Saiba como",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/escolha-de-livros-didaticos-do-pnld-comeca-nesta-segunda-24",
       "resumo": "",
-      "publicado_em": "2026-08-24T15:31:00-03:00",
+      "publicado_em": "2026-08-24T18:40:00-03:00",
       "dia": "2026-08-24",
       "data_estimada": false,
       "score": 40,
@@ -862,6 +1087,84 @@
       "coletado_em": "2026-08-24T15:22:08-03:00"
     },
     {
+      "id": "0e558ff12060fb6d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dario Durigan anuncia reajuste do salário mínimo para R$ 1.741 em 2027",
+      "link": "https://www.congressoemfoco.com.br/noticia/121631/dario-durigan-anuncia-reajuste-do-salario-minimo-para-r-1-741-em-2027",
+      "resumo": "Valor será incluído no Orçamento de 2027 e terá impacto sobre benefícios sociais e previdenciários vinculados ao piso.",
+      "publicado_em": "2026-08-24T20:58:22-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "9d149ffa816feb24",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Acho sexy\", diz Renan Santos sobre ser chamado de agressivo",
+      "link": "https://www.congressoemfoco.com.br/noticia/121628/acho-sexy--diz-renan-santos-sobre-ser-chamado-de-agressivo",
+      "resumo": "Renan defendeu confronto mais intenso na campanha e acusou Lula e Flávio Bolsonaro de evitarem o debate.",
+      "publicado_em": "2026-08-24T19:06:13-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "5a69a691e64c903f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "É hoje: Prêmio Congresso em Foco revela destaques do ano nesta terça",
+      "link": "https://www.congressoemfoco.com.br/noticia/121623/e-hoje-premio-congresso-em-foco-revela-destaques-do-ano-nesta-terca",
+      "resumo": "Óscar da política reúne autoridades para conhecer resultado de votação popular, avaliação de jornalistas especializados e análise de um júri técnico.",
+      "publicado_em": "2026-08-24T17:26:18-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "6ba02a23c5afe6af",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Votar contra a PEC 6x1 é \"jogar contra\" os trabalhadores, diz Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/121622/votar-contra-a-pec-6x1-e-jogar-contra-os-trabalhadores-diz-lula",
+      "resumo": "Após reaproximação com Alcolumbre e avanço da proposta de fim da escala 6x1 no Senado, presidente retomou discurso pela aprovação.",
+      "publicado_em": "2026-08-24T17:17:51-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "6a4dbcc10bf264f5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "É amanhã: Prêmio Congresso em Foco 2026 revela vencedores nesta terça",
+      "link": "https://www.congressoemfoco.com.br/noticia/121620/e-amanha-premio-congresso-em-foco-2026-revela-vencedores-nesta-terca",
+      "resumo": "Cerimônia será realizada na Sala Martins Pena do Teatro Nacional Claudio Santoro às 19h.",
+      "publicado_em": "2026-08-24T16:50:23-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
       "id": "7be7bc4a37c01056",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -956,6 +1259,20 @@
         "acao"
       ],
       "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "73ff1c77f49d15ba",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A sexualidade humana é um oceano: uma reflexão a partir de Utrecht",
+      "link": "https://www.congressoemfoco.com.br/artigo/121604/a-sexualidade-humana-e-um-oceano-uma-reflexao-a-partir-de-utrecht",
+      "resumo": "Diversidade de orientações e identidades reforça uma questão essencial: liberdade sexual deve caminhar com respeito, dignidade, responsabilidade e consentimento.",
+      "publicado_em": "2026-08-24T12:20:42-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
     },
     {
       "id": "c9fcffd0e85317f5",
@@ -1215,7 +1532,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Fachin defende confiança, transparência e ética para fortalecer legitimidade da Justiça",
       "link": "https://www.cnj.jus.br/fachin-defende-confianca-transparencia-e-etica-para-fortalecer-legitimidade-da-justica/",
-      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, defendeu nesta segunda-feira (24/8) que a recuperação da confiança da sociedade no Poder Judiciário deve estar no centro do planejamento da Justiça brasileira. Ao abrir a 2ª Reunião Pr",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, defendeu, nesta segunda-feira (24/8), que a recuperação da confiança da sociedade no Poder Judiciário deve estar no centro do planejamento da Justiça brasileira. Ao abrir a 2ª Reunião ",
       "publicado_em": "2026-08-24T12:00:00-03:00",
       "dia": "2026-08-24",
       "data_estimada": true,
@@ -1238,6 +1555,67 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "92991145d3b534e9",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Ranking da Transparência tem 44 tribunais com 100% de cumprimento de exigências",
+      "link": "https://www.cnj.jus.br/ranking-da-transparencia-tem-44-tribunais-com-100-de-cumprimento-de-exigencias/",
+      "resumo": "O Ranking da Transparência 2026 registrou que 44 órgãos do Judiciário alcançaram 100% de cumprimento dos itens do levantamento, que verifica a disponibilização de informações ao público. O resultado, divulgado pelo Conselho Nacional de Justiça (CNJ), supera o do ano anterior, quando apenas 19 órgãos",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "1193b31e10702fb2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto obriga polícia a comunicar vítima sobre fim de inquérito",
+      "link": "https://www.camara.leg.br/noticias/1299797-projeto-obriga-policia-a-comunicar-vitima-sobre-fim-de-inquerito",
+      "resumo": "",
+      "publicado_em": "2026-08-24T19:23:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "01447dee5e422fd8",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto agrava pena para furto e roubo com falsa identidade profissional",
+      "link": "https://www.camara.leg.br/noticias/1299793-projeto-agrava-pena-para-furto-e-roubo-com-falsa-identidade-profissional",
+      "resumo": "",
+      "publicado_em": "2026-08-24T18:56:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "abb89ba583a6ecec",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto autoriza pessoa que auxilia uma das partes a recorrer de decisão judicial",
+      "link": "https://www.camara.leg.br/noticias/1299795-projeto-autoriza-pessoa-que-auxilia-uma-das-partes-a-recorrer-de-decisao-judicial",
+      "resumo": "",
+      "publicado_em": "2026-08-24T18:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "decisao",
+        "judicial"
+      ],
+      "coletado_em": "2026-08-25T08:33:09-03:00"
     },
     {
       "id": "44b2f97d08bd2e55",
@@ -1586,7 +1964,7 @@
       "id": "090c6f1b27a2b509",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
-      "titulo": "Justiça do Trabalho informa acesso não autorizado ao DEJT; sistema segue indisponível",
+      "titulo": "Justiça do Trabalho informa acesso não autorizado ao DEJT; veja as providências e orientações",
       "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-do-trabalho-informa-acesso-nao-autorizado-ao-dejt",
       "resumo": "",
       "publicado_em": "2026-08-21T12:00:00-03:00",
@@ -20272,22 +20650,6 @@
       "resumo": "Agência cria página onde cidadãos podem reportar irregularidades e falta de mecanismos de proteção para crianças e adolescentes em plataformas e sites. Objetivo é fortalecer a fiscalização do novo marco legal",
       "publicado_em": "2026-06-01T17:34:35-03:00",
       "dia": "2026-06-01",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "2ca38ffbad2809dd",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "Usuários externos podem acessar o SEI com login do gov.br",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/atualizacao-acesso-externo-sei",
-      "resumo": "Sistema Eletrônico de Informações passou por mudanças para facilitar a utilização do serviço por usuários externos e agora não precisa de cadastro manual prévio",
-      "publicado_em": "2026-05-26T12:44:00-03:00",
-      "dia": "2026-05-26",
       "data_estimada": false,
       "score": 46,
       "tags": [
