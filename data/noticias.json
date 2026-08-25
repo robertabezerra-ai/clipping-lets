@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T12:50:48-03:00",
+  "gerado_em": "2026-08-25T15:26:45-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,18 +251,38 @@
   ],
   "noticias": [
     {
-      "id": "c8f5ede711af7e85",
+      "id": "5c6b48466e63b7db",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
-      "titulo": "Justiça do Trabalho informa acesso indevido ao DEJT",
-      "link": "https://trt15.jus.br/noticia/2026/justica-do-trabalho-informa-acesso-indevido-ao-dejt",
-      "resumo": "Justiça do Trabalho informa acesso indevido ao DEJT anasiqueira Ter, 25/08/2026 - 13:21 Justiça do Trabalho informa acesso indevido ao DEJT Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) e o Tribunal Superior do Trabalho (TST) informam que foi detectado, no dia 19/08/2026, ace",
-      "publicado_em": "2026-08-25T13:21:27-03:00",
+      "titulo": "Pautas de julgamento serão disponibilizadas no DJEN até normalização do DEJT",
+      "link": "https://trt15.jus.br/noticia/2026/pautas-de-julgamento-serao-disponibilizadas-no-djen-ate-normalizacao-do-dejt",
+      "resumo": "Pautas de julgamento serão disponibilizadas no DJEN até normalização do DEJT anasiqueira Qui, 27/08/2026 - 13:54 Pautas de julgamento serão disponibilizadas no DJEN até normalização do DEJT Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) e o Tribunal Superior do Trabalho (TST) ",
+      "publicado_em": "2026-08-27T13:54:16-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "a8fb5e9e5a6e3d36",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 recebe visita de estudantes da Anhembi, Facamp, Unianchieta e Unip",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-recebe-visita-de-estudantes-da-anhembi-facamp-unianchieta-e-unip",
+      "resumo": "TRT-15 recebe visita de estudantes da Anhembi, Facamp, Unianchieta e Unip anagatto Ter, 25/08/2026 - 12:36 TRT-15 recebe visita de estudantes da Anhembi, Facamp, Unianchieta e Unip Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região recebeu, na tarde da quarta-feira, 19/8, a visita de ",
+      "publicado_em": "2026-08-25T12:36:29-03:00",
       "dia": "2026-08-25",
       "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
     },
     {
       "id": "f4b46babc39710d1",
@@ -280,6 +300,36 @@
         "seminario"
       ],
       "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "1c5c97b8fb74e205",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Cuidado com golpes em falsos leilões, telefonemas, mensagens e sites",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115114&pagina=1",
+      "resumo": "Criminosos utilizam nome do Tribunal e de outras instituições.\n \n\tQuadrilhas especializadas em golpes costumam utilizar o nome, logotipo e/ou informações de empresas, escritórios de advocacia,",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "e480b075727fa5cd",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF retoma debates sobre a Lei Antifacção",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-retoma-debates-sobre-a-lei-antifaccao/",
+      "resumo": "Segundo dia de audiência pública aborda os efeitos da nova legislação no combate ao crime organizado",
+      "publicado_em": "2026-08-25T13:07:57-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
     },
     {
       "id": "6b38348597d612ea",
@@ -443,6 +493,22 @@
       "coletado_em": "2026-08-25T12:50:48-03:00"
     },
     {
+      "id": "49a6cc163652aa40",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Dia do Soldado é celebrado com solenidade e participação de autoridades em Brasília",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-do-soldado-e-celebrado-com-solenidade-e-participacao-de-autoridades-em-brasilia",
+      "resumo": "",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
       "id": "1a02283339265e78",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -504,6 +570,36 @@
       "coletado_em": "2026-08-25T12:50:48-03:00"
     },
     {
+      "id": "0d0c219d685b9346",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Tesouro Nacional amplia orientação e capacitação sobre identificação contábil de emendas parlamentares",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/tesouro-nacional-amplia-orientacao-e-capacitacao-sobre-identificacao-contabil-de-emendas-parlamentares",
+      "resumo": "",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "6ac8af457225b3b9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula defende mais investimento em Defesa para proteger riquezas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121645/lula-defende-mais-investimento-em-defesa-para-proteger-riquezas",
+      "resumo": "Presidente afirma que Defesa não pode depender de sobra no Orçamento e cita fronteiras, minerais críticos, petróleo e outras riquezas do país como razões para ampliar os investimentos.",
+      "publicado_em": "2026-08-25T12:24:37-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
       "id": "8634ea2e7f1586a9",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -516,6 +612,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "36f27e01f2cb8d21",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB destaca papel da sociedade no acompanhamento do Congresso Nacional",
+      "link": "https://www.congressoemfoco.com.br/noticia/121642/oab-destaca-papel-da-sociedade-no-acompanhamento-do-congresso-nacional",
+      "resumo": "Entidade ressalta importância da participação da sociedade e da atuação técnica na discussão de propostas no Congresso Nacional.",
+      "publicado_em": "2026-08-25T09:53:44-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
     },
     {
       "id": "61aec289a0f418e9",
@@ -534,6 +647,41 @@
         "acao"
       ],
       "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "b4eb3a9c1d2b19e7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleições 2026: Nova regra das redes sociais pode desequilibrar disputa",
+      "link": "https://www.congressoemfoco.com.br/artigo/121639/eleicoes-2026-nova-regra-das-redes-sociais-pode-desequilibrar-disputa",
+      "resumo": "Restrição à recomendação de perfis oficiais pode favorecer candidaturas com grandes audiências, mais recursos e redes de apoiadores.",
+      "publicado_em": "2026-08-25T09:34:42-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "recurso",
+        "acao",
+        "comenda"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "4911c90dfaca6daf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O TSE mudou a regra ao afastar Marçal dos debates",
+      "link": "https://www.congressoemfoco.com.br/artigo/121637/o-tse-mudou-a-regra-ao-afastar-marcal-dos-debates",
+      "resumo": "O TSE excluiu Pablo Marçal dos debates antes de julgar seu registro. Pode a Corte impor uma restrição inédita no curso do processo eleitoral?",
+      "publicado_em": "2026-08-25T09:21:26-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
     },
     {
       "id": "04f7eddcec1c00ae",
@@ -597,6 +745,173 @@
         "acao"
       ],
       "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "634255cbcd0f5e44",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Concurso convida estudantes a desenhar uma internet mais segura e com mais direitos",
+      "link": "https://www.cnj.jus.br/concurso-convida-estudantes-a-desenhar-uma-internet-mais-segura-e-com-mais-direitos/",
+      "resumo": "Como seria uma internet mais segura para crianças e adolescentes? É essa reflexão que o Conselho Nacional de Justiça (CNJ) e o Ministério da Justiça e Segurança Pública (MJSP) propõem a estudantes de todo o país por meio do concurso nacional de desenho “Juventude Conectada com Direitos: o ECA Digita",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "5289d793189c2fa7",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Plataforma Digital do Poder Judiciário nacionaliza ferramenta de IA criada pelo TRF-3",
+      "link": "https://www.cnj.jus.br/plataforma-digital-do-poder-judiciario-nacionaliza-ferramenta-de-ia-criada-pelo-trf-3/",
+      "resumo": "Tarefas cotidianas de magistradas, magistrados, servidoras e servidores podem ser apoiada pela ferramenta de inteligência artificial LIA3R, desenvolvida pelo Tribunal Regional Federal da 3ª Região (TRF-3) e nacionalizada pelo Conecta, iniciativa do Programa Justiça 4.0 que identifica soluções criada",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "a01e81c496552827",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Comarca de Tapurah inicia grupo reflexivo para homens autores de violência",
+      "link": "https://www.cnj.jus.br/comarca-de-tapurah-inicia-grupo-reflexivo-para-homens-autores-de-violencia/",
+      "resumo": "A Comarca de Tapurah (388km de Cuiabá) inicia neste mês de agosto uma importante ação de prevenção e combate à violência doméstica. Amanhã (25), será realizada a primeira reunião do Grupo Reconstruir, um grupo reflexivo composto por homens autores de violência doméstica cujo objetivo é promover a re",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "d49e7a1fd5624893",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Ação do TRE-SP promove inclusão eleitoral e simulação de votação na aldeia Tekoa Mirim",
+      "link": "https://www.cnj.jus.br/acao-do-tre-sp-promove-inclusao-eleitoral-e-simulacao-de-votacao-na-aldeia-tekoa-mirim/",
+      "resumo": "Moradores da aldeia indígena Tekoa Mirim, em Praia Grande, participaram de uma ação promovida pela 406ª Zona Eleitoral em parceria com o Tribunal Regional Eleitoral de São Paulo para incentivar a cidadania e facilitar a participação nas Eleições 2026. Durante o evento, os eleitores da comunidade Gua",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "9cb3bc06a336930b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TRF1 e TJMA reinauguram Ponto de Inclusão Digital em Paulino Neves/MA",
+      "link": "https://www.cnj.jus.br/trf1-e-tjma-reinauguram-ponto-de-inclusao-digital-em-paulino-neves-ma/",
+      "resumo": "O Tribunal Regional Federal da 1ª Região (TRF1) e o Tribunal de Justiça do Estado do Maranhão (TJMA) reinauguraram, em cooperação técnica, o Ponto de Inclusão Digital (PID) no município de Paulino Neves/MA. A iniciativa tem como objetivo expandir a presença da Justiça Federal na região e garantir am",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "47f9a503449a448e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJAC e Judiciário da Bolívia reforçam cooperação contra crimes transnacionais",
+      "link": "https://www.cnj.jus.br/tjac-e-judiciario-da-bolivia-reforcam-cooperacao-contra-crimes-transnacionais/",
+      "resumo": "Os desembargadores Francisco Djalma, presidente da Câmara Criminal, e Denise Bonfim, do Tribunal de Justiça do Acre (TJAC), realizaram uma visita institucional ao Tribunal Departamental de Justiça de Pando, em Cobija, Bolívia. A agenda buscou fortalecer a cooperação jurídica e ampliar o diálogo entr",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "e662fcf87014fe4d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto pune o uso ilegal de giroflex e sirenes",
+      "link": "https://www.camara.leg.br/noticias/1295346-projeto-pune-o-uso-ilegal-de-giroflex-e-sirenes",
+      "resumo": "",
+      "publicado_em": "2026-08-25T15:20:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "ea89476557d441a1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria regras para proteger comunidades vizinhas de parques eólicos",
+      "link": "https://www.camara.leg.br/noticias/1295542-projeto-cria-regras-para-proteger-comunidades-vizinhas-de-parques-eolicos",
+      "resumo": "",
+      "publicado_em": "2026-08-25T14:30:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "7e3fd71a37763bbd",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Medida provisória prorroga suspensão de tributos para exportadores afetados por tarifas dos EUA",
+      "link": "https://www.camara.leg.br/noticias/1299980-medida-provisoria-prorroga-suspensao-de-tributos-para-exportadores-afetados-por-tarifas-dos-eua",
+      "resumo": "",
+      "publicado_em": "2026-08-25T13:57:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "ddbaf3a3ec37b9c0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto permite que usar o FGTS para comprar outro imóvel se o atual estiver a mais de 50 km de distância",
+      "link": "https://www.camara.leg.br/noticias/1294747-projeto-permite-que-usar-o-fgts-para-comprar-outro-imovel-se-o-atual-estiver-a-mais-de-50-km-de-distancia",
+      "resumo": "",
+      "publicado_em": "2026-08-25T12:58:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "fgts"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "783bf0dead5bd871",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto obriga autoridades a dar transparência ao uso de jatinhos privados",
+      "link": "https://www.camara.leg.br/noticias/1296286-projeto-obriga-autoridades-a-dar-transparencia-ao-uso-de-jatinhos-privados",
+      "resumo": "",
+      "publicado_em": "2026-08-25T12:50:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
     },
     {
       "id": "e020690cc2d45359",
@@ -1478,6 +1793,39 @@
       "coletado_em": "2026-08-25T08:33:09-03:00"
     },
     {
+      "id": "645ba3900d01e79f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dani Cunha defende fim do livramento condicional em crimes sexuais",
+      "link": "https://www.congressoemfoco.com.br/noticia/121627/dani-cunha-defende-fim-do-livramento-condicional-em-crimes-sexuais",
+      "resumo": "Proposta impede que condenados cumpram em liberdade a parte final da pena por delitos contra a dignidade sexual.",
+      "publicado_em": "2026-08-24T18:13:33-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "condenado"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "2b47862a760bd4ed",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "IA já está em campo; o Direito está preparado?",
+      "link": "https://www.congressoemfoco.com.br/artigo/121625/ia-ja-esta-em-campo-o-direito-esta-preparado",
+      "resumo": "Uso da IA avança em desempenho, arbitragem e gestão, mas amplia debates sobre dados, imagem, autoria e direitos dos atletas.",
+      "publicado_em": "2026-08-24T17:56:38-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "itr",
+        "arbitragem"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
       "id": "07a98b9421f3589c",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1997,6 +2345,67 @@
       "coletado_em": "2026-08-25T08:33:09-03:00"
     },
     {
+      "id": "18a44b9d9ee37621",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pena Justa avança contra superlotação e tortura em prisões",
+      "link": "https://www.cnj.jus.br/pena-justa-avanca-contra-superlotacao-e-tortura-em-prisoes/",
+      "resumo": "As iniciativas do plano Pena Justa para reverter a situação inconstitucional das prisões brasileiras, conforme determinação do Supremo Tribunal Federal (STF), estão produzindo avanços na redução da superlotação e no enfrentamento à prática de tortura e maus-tratos. Dois exemplos recentes estão no Ri",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "inconstitucional",
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "51ba38d911bbc4ac",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "IA a serviço da Justiça: Conecta nacionaliza três ferramentas do TJMT",
+      "link": "https://www.cnj.jus.br/ia-a-servico-da-justica-conecta-nacionaliza-tres-ferramentas-do-tjmt/",
+      "resumo": "Magistradas, magistrados, servidoras e servidores da Justiça brasileira contam com três novas soluções de inteligência artificial (IA) generativa para apoiar a atividade jurisdicional. As soluções LexIA, Hannah e OMNIA, desenvolvidas pelo Tribunal de Justiça de Mato Grosso (TJMT), foram nacionalizad",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "769ac33b19cde5d8",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Conexão Auditoria apresenta, nesta sexta (28/8), solução para controle de despesas de pessoal",
+      "link": "https://www.cnj.jus.br/conexao-auditoria-apresenta-nesta-sexta-28-8-solucao-para-controle-de-despesas-de-pessoal/",
+      "resumo": "O uso de tecnologia para aprimorar o acompanhamento da folha de pagamento dos tribunais será destaque na edição da série Conexão Auditoria que acontece na sexta-feira (28/8), às 14h. Promovido pelo Conselho Nacional de Justiça (CNJ), o encontro será realizado on-line e poderá ser acompanhado por int",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "fa3b5f2ef98b0c99",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Trabalho decente: iniciativas ampliam diálogo para construção de política para o Judiciário",
+      "link": "https://www.cnj.jus.br/trabalho-decente-iniciativas-ampliam-dialogo-para-construcao-de-politica-para-o-judiciario/",
+      "resumo": "A construção da Política Nacional de Promoção do Trabalho Decente do Poder Judiciário é amplificada com o estabelecimento de diálogo do Conselho Nacional de Justiça (CNJ) com órgãos públicos, entidades representativas de trabalhadores e empregadores, instituições acadêmicas e organismos internaciona",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
       "id": "1193b31e10702fb2",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -2422,6 +2831,20 @@
       "link": "https://trt15.jus.br/noticia/2026/painel-aponta-tecnologia-e-saude-mental-como-novas-pautas-do-sindicalismo",
       "resumo": "Painel aponta tecnologia e saúde mental como novas pautas do sindicalismo anasiqueira Sex, 21/08/2026 - 19:14 Painel aponta tecnologia e saúde mental como novas pautas do sindicalismo Conteúdo da Notícia O futuro do sindicalismo passa pela capacidade de representar trabalhadores em relações de traba",
       "publicado_em": "2026-08-21T19:14:12-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "c8f5ede711af7e85",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Justiça do Trabalho informa acesso indevido ao DEJT",
+      "link": "https://trt15.jus.br/noticia/2026/justica-do-trabalho-informa-acesso-indevido-ao-dejt",
+      "resumo": "Justiça do Trabalho informa acesso indevido ao DEJT anasiqueira Sex, 21/08/2026 - 13:21 Justiça do Trabalho informa acesso indevido ao DEJT Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) e o Tribunal Superior do Trabalho (TST) informam que foi detectado, no dia 19/08/2026, ace",
+      "publicado_em": "2026-08-21T13:21:27-03:00",
       "dia": "2026-08-21",
       "data_estimada": false,
       "score": 40,
