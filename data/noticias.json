@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T08:33:09-03:00",
+  "gerado_em": "2026-08-25T12:50:48-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -265,6 +265,293 @@
       "coletado_em": "2026-08-24T08:33:43-03:00"
     },
     {
+      "id": "f4b46babc39710d1",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Processo Estrutural na Justiça do Trabalho é tema de seminário no TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/processo-estrutural-na-justica-do-trabalho-e-tema-de-seminario-no-trt-15",
+      "resumo": "Processo Estrutural na Justiça do Trabalho é tema de seminário no TRT-15 anagatto Ter, 25/08/2026 - 10:52 Processo Estrutural na Justiça do Trabalho é tema de seminário no TRT-15 Conteúdo da Notícia O Comitê de Combate ao Trabalho Infantil e de Estímulo à Aprendizagem, a Coordenadoria do Centro de I",
+      "publicado_em": "2026-08-25T10:52:32-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 36,
+      "tags": [
+        "processo",
+        "seminario"
+      ],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "6b38348597d612ea",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF decide que auditores fiscais de estados e municípios devem seguir subteto salarial",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-decide-que-auditores-fiscais-de-estados-e-municipios-devem-seguir-subteto-salarial/",
+      "resumo": "Por unanimidade, Tribunal considerou que Reforma Tributária não concedeu caráter nacional à carreira",
+      "publicado_em": "2026-08-25T10:17:21-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "decide",
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "8a3cbe8f67128efe",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Lei Antifacção: audiência pública continua hoje (25)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/lei-antifaccao-audiencia-publica-continua-hoje-25/",
+      "resumo": "Nessa segunda (24), ministro Alexandre de Moraes ouviu contribuição de 17 participantes",
+      "publicado_em": "2026-08-25T09:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "e095ae772c0443da",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Universidade Federal de Viçosa completa 100 anos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/universidade-federal-de-vicosa-completa-100-anos",
+      "resumo": "",
+      "publicado_em": "2026-08-25T12:13:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "fd02200eee17fee0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "'Junho Vermelho': campanha de incentivo à doação de sangue agora é lei",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/25/junho-vermelho-campanha-de-incentivo-a-doacao-de-sangue-agora-e-lei",
+      "resumo": "",
+      "publicado_em": "2026-08-25T12:08:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "78c591660b95bdb8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Dia Nacional da Educação Infantil é celebrado nesta terça-feira",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/dia-nacional-da-educacao-infantil-e-celebrado-nesta-terca-feira",
+      "resumo": "",
+      "publicado_em": "2026-08-25T11:20:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "d9ce5cf5a7bd7fac",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "MP libera R$ 3,15 bi para benefícios ligados ao diesel e à gasolina",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/25/mp-libera-r-3-15-bi-para-beneficios-ligados-ao-diesel-e-a-gasolina",
+      "resumo": "",
+      "publicado_em": "2026-08-25T11:14:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "670ea3ea90414e79",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "MP prorroga suspensão de tributos para exportadores afetados por tarifas dos EUA",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/25/mp-prorroga-suspensao-de-tributos-para-exportadores-afetados-por-tarifas-dos-eua",
+      "resumo": "",
+      "publicado_em": "2026-08-25T11:02:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "82a203cc83e7d43e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado firma parceria com o Movimento Pela Vida das Mulheres",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/25/senado-firma-parceria-com-o-movimento-pela-vida-das-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-08-25T10:20:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "cc13d7970c64f6b0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCJ analisa plano de ações para zerar desmatamento",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/ccj-analisa-plano-de-acoes-para-zerar-desmatamento",
+      "resumo": "",
+      "publicado_em": "2026-08-25T09:06:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "0ad3af2a4e075a94",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Crianças apresentam concerto de violino na rampa do Congresso",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/criancas-apresentam-concerto-de-violino-na-rampa-do-congresso",
+      "resumo": "",
+      "publicado_em": "2026-08-25T08:58:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "3db2359dc5bb931d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Isenção para marinha mercante no Norte e Nordeste deve ser votada este ano",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/isencao-para-marinha-mercante-no-norte-e-nordeste-deve-ser-votada-este-ano",
+      "resumo": "",
+      "publicado_em": "2026-08-25T08:39:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "1a02283339265e78",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Saiba como acessar teleatendimento do SUS para mulheres em situação de violência e mães atípicas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/saiba-como-acessar-teleatendimento-do-sus-para-mulheres-em-situacao-de-violencia-e-maes-atipicas",
+      "resumo": "",
+      "publicado_em": "2026-08-25T11:25:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "d1586072684afd64",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Cantoras Priscilla e Gottsha participam do Sem Censura, da TV Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/cantoras-priscilla-e-gottsha-participam-do-sem-censura-da-tv-brasil",
+      "resumo": "",
+      "publicado_em": "2026-08-25T11:23:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "293d83cd5bfd762c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Preço da batata negociada nas principais Ceasas tem queda média de 37,33%",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/valores-de-comercializacao-da-batata-nas-ceasas-registram-queda-de-de-37-33-na-media-do-mes-de-julho",
+      "resumo": "",
+      "publicado_em": "2026-08-25T09:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "81db7dbe0dd7fbc5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Agência federal multa TikTok em R$ 153,7 milhões por falhas na proteção de dados de crianças e adolescentes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/anpd-multa-tiktok-em-r-153-7-milhoes-por-falhas-na-protecao-de-dados-de-criancas-e-adolescentes",
+      "resumo": "",
+      "publicado_em": "2026-08-25T09:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "multa",
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "8634ea2e7f1586a9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Omar Aziz mantém texto da Câmara para acelerar PEC do fim da 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/121643/omar-aziz-mantem-texto-da-camara-para-acelerar-pec-do-fim-da-6x1",
+      "resumo": "Relator disse ao Congresso em Foco que não fará alterações para evitar que a PEC volte à Câmara. Parecer será entregue na quinta-feira à CCJ do Senado.",
+      "publicado_em": "2026-08-25T09:55:06-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "61aec289a0f418e9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "ANPD multa TikTok em R$ 153,7 milhões por falhas com dados de jovens",
+      "link": "https://www.congressoemfoco.com.br/noticia/121641/anpd-multa-tiktok-em-r-153-7-milhoes-por-falhas-com-dados-de-jovens",
+      "resumo": "Sanção inclui obrigação de apagar informações de adolescentes sem representação legal regularizada.",
+      "publicado_em": "2026-08-25T09:45:23-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "sancao",
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "04f7eddcec1c00ae",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Decreto cria marketplace para compras do governo federal",
+      "link": "https://www.congressoemfoco.com.br/noticia/121636/decreto-cria-marketplace-para-compras-do-governo-federal",
+      "resumo": "Novo sistema, batizado de Sicx, permitirá que órgãos públicos comprem bens e serviços padronizados em plataformas eletrônicas, de fornecedores previamente credenciados.",
+      "publicado_em": "2026-08-25T08:39:59-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decreto"
+      ],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
       "id": "9833e144cda938cd",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -310,6 +597,36 @@
         "acao"
       ],
       "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "e020690cc2d45359",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto garante remédios para síndrome rara no SUS e em planos de saúde",
+      "link": "https://www.camara.leg.br/noticias/1295828-projeto-garante-remedios-para-sindrome-rara-no-sus-e-em-planos-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-08-25T11:17:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
+      "id": "485883388a5145bb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto garante a advogado acesso a documentos de órgãos públicos",
+      "link": "https://www.camara.leg.br/noticias/1299481-projeto-garante-a-advogado-acesso-a-documentos-de-orgaos-publicos",
+      "resumo": "",
+      "publicado_em": "2026-08-25T09:12:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "advogado"
+      ],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
     },
     {
       "id": "f96f187a04d289a8",
@@ -387,6 +704,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "1b05647ba31f0c33",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Ramais do Ed. Sede do TRT-2 operam normalmente",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/ramais-do-ed-sede-do-trt-2-operam-normalmente",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
     },
     {
       "id": "6797fae8635b9f9c",
@@ -956,6 +1287,22 @@
       "coletado_em": "2026-08-25T08:33:09-03:00"
     },
     {
+      "id": "e3aa0ecaea17f810",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "SUS oferece teleatendimentos de saúde mental para mulheres em situação de violência e mães atípicas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/sus-oferece-100-mil-teleatendimentos-mensais-de-saude-mental-para-mulheres-em-situacao-de-violencia-e-maes-atipicas",
+      "resumo": "",
+      "publicado_em": "2026-08-24T20:04:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
       "id": "5810eb6d4c44e8c5",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -982,6 +1329,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-24T17:20:52-03:00"
+    },
+    {
+      "id": "3da2c3b0e44229b1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Vacinas, consultas e brincadeiras: veja como o SUS cuida dos primeiros anos de vida",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/vacinas-consultas-e-brincadeiras-veja-como-o-sus-cuida-dos-primeiros-anos-de-vida",
+      "resumo": "",
+      "publicado_em": "2026-08-24T18:40:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
     },
     {
       "id": "48772b926c1a0f0b",
@@ -1115,6 +1478,20 @@
       "coletado_em": "2026-08-25T08:33:09-03:00"
     },
     {
+      "id": "07a98b9421f3589c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê fim das bets e dá 180 dias para encerrar operações",
+      "link": "https://www.congressoemfoco.com.br/noticia/121624/projeto-preve-fim-das-bets-e-da-180-dias-para-encerrar-operacoes",
+      "resumo": "Projeto de lei prevê pena de dois a cinco anos de prisão para quem mantiver plataformas funcionando após proibição.",
+      "publicado_em": "2026-08-24T17:52:58-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
       "id": "5a69a691e64c903f",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1149,6 +1526,22 @@
       "coletado_em": "2026-08-25T08:33:09-03:00"
     },
     {
+      "id": "372834b7022328a2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Neocolonialismo digital e inteligência artificial no Brasil",
+      "link": "https://www.congressoemfoco.com.br/artigo/121621/neocolonialismo-digital-e-inteligencia-artificial-no-brasil",
+      "resumo": "Brasil tem potencial para liderar a inovação, mas dependência de tecnologia estrangeira amplia desafios à soberania digital.",
+      "publicado_em": "2026-08-24T17:15:17-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
+    },
+    {
       "id": "6a4dbcc10bf264f5",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1163,6 +1556,23 @@
         "premio"
       ],
       "coletado_em": "2026-08-25T08:33:09-03:00"
+    },
+    {
+      "id": "8cbb8f3e12446e06",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Como os partidos podem eleger mais jovens",
+      "link": "https://www.congressoemfoco.com.br/coluna/121619/como-os-partidos-podem-eleger-mais-jovens",
+      "resumo": "Pesquisa \"Juventudes e Participação Partidária\", da Legisla Brasil, recomenda que os partidos adotem medidas  internas para aumentar a competitividade das candidaturas jovens, fortalecendo a qualidade da nossa democracia representativa",
+      "publicado_em": "2026-08-24T16:36:13-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "acao",
+        "comenda"
+      ],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
     },
     {
       "id": "7be7bc4a37c01056",
@@ -1227,6 +1637,20 @@
         "acao"
       ],
       "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "af27f0b48a3c2647",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Só 27 parlamentares em fim de mandato não disputarão as eleições",
+      "link": "https://www.congressoemfoco.com.br/noticia/121613/so-27-parlamentares-em-fim-de-mandato-nao-disputarao-as-eleicoes",
+      "resumo": "Aécio Neves e Paulo Paim estão entre os veteranos sem candidatura. Saúde, fim de ciclo, sucessão familiar e rearranjos partidários explicam as saídas. Veja as justificativas de cada.",
+      "publicado_em": "2026-08-24T14:13:47-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-25T12:50:48-03:00"
     },
     {
       "id": "11cf73c36764d535",
@@ -1532,7 +1956,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Fachin defende confiança, transparência e ética para fortalecer legitimidade da Justiça",
       "link": "https://www.cnj.jus.br/fachin-defende-confianca-transparencia-e-etica-para-fortalecer-legitimidade-da-justica/",
-      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, defendeu, nesta segunda-feira (24/8), que a recuperação da confiança da sociedade no Poder Judiciário deve estar no centro do planejamento da Justiça brasileira. Ao abrir a 2ª Reunião ",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, defendeu nesta segunda-feira (24/8) que a recuperação da confiança da sociedade no Poder Judiciário deve estar no centro do planejamento da Justiça brasileira. Ao abrir a 2ª Reunião Pr",
       "publicado_em": "2026-08-24T12:00:00-03:00",
       "dia": "2026-08-24",
       "data_estimada": true,
