@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-26T13:23:13-03:00",
+  "gerado_em": "2026-08-26T16:30:23-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 403 Client Error: Forbidden for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -285,10 +285,74 @@ window.DADOS = {
       "coletado_em": "2026-08-26T13:23:13-03:00"
     },
     {
+      "id": "f294d06dfed3e6a6",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP prestigia posse do ministro Benedito Gonçalves como corregedor nacional de Justiça",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115128&pagina=1",
+      "resumo": "Magistrado ocupará cargo no biênio 2026/2028. \n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, e a corregedora-geral da Justiça, desembargadora",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "5e1d17b056931d9f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP é reconhecido com dois Selos “Judiciário Inovador” do CNJ",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115129&pagina=1",
+      "resumo": "Central de Intermediação em Libras e programa Daps Itinerante. \n \n\tO Tribunal de Justiça de São Paulo, por meio da Diretoria de Apoio aos Servidores (DAPS),",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "0ede2be4966e4b9c",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo rejeita ação sobre auxílio-refeição pago a servidores gaúchos no período de férias",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-rejeita-acao-sobre-auxilio-refeicao-pago-a-servidores-gauchos-no-periodo-de-ferias/",
+      "resumo": "Ministra Cármen Lúcia considerou que há outros meios processuais cabíveis para resolver a controvérsia",
+      "publicado_em": "2026-08-26T16:17:33-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "6592f77eb7efdce4",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF reúne Ministério Público e Defensorias Públicas para discutir Lei Antifacção",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-reune-ministerio-publico-e-defensorias-publicas-para-discutir-lei-antifaccao/",
+      "resumo": "Encontros conduzidos pelo ministro Alexandre de Moraes trataram dos impactos da nova legislação e de medidas de enfrentamento do crime organizado",
+      "publicado_em": "2026-08-26T13:52:16-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
       "id": "b69ca144c6df861a",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "Modernização do Sistema de Justiça: grupo de estudos divulga as propostas recebidas da sociedade civil",
+      "titulo": "Modernização do sistema de Justiça: grupo de estudos divulga as propostas recebidas da sociedade civil",
       "link": "https://noticias.stf.jus.br/postsnoticias/modernizacao-do-sistema-de-justica-grupo-de-estudos-divulga-as-propostas-recebidas-da-sociedade-civil/",
       "resumo": "Próxima reunião marca nova etapa dos trabalhos, com avaliação das contribuições recebidas e apresentação de propostas pelos integrantes do grupo",
       "publicado_em": "2026-08-26T11:28:08-03:00",
@@ -315,6 +379,48 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-08-26T13:23:13-03:00"
+    },
+    {
+      "id": "61cbb408c45474a4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições 2026 | 32 buscam reeleição no Senado",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/eleicoes-2026-32-buscam-reeleicao-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-08-26T16:26:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "cd7cfe97aea85c75",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Brasileiras sofrem violência sem se reconhecerem como vítimas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/26/brasileiras-sofrem-violencia-sem-se-reconhecerem-como-vitimas",
+      "resumo": "",
+      "publicado_em": "2026-08-26T15:44:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "1ec79254edd9fca8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Cerca de 1,6 milhão de menores de 18 anos estão aptos a votar este ano",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/1-6-milhao-de-menores-de-18-anos-estao-aptos-a-votar-este-ano",
+      "resumo": "",
+      "publicado_em": "2026-08-26T13:28:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
     },
     {
       "id": "fabaade333e7392f",
@@ -389,6 +495,112 @@ window.DADOS = {
       "coletado_em": "2026-08-26T08:34:10-03:00"
     },
     {
+      "id": "a1354b1b95383343",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Especialistas apontam vantagens competitivas na corrida pela autonomia digital no Brasil",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/especialistas-apontam-vantagens-competitivas-na-corrida-pela-autonomia-digital-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "be1a39af5c86de39",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Polícia Civil de Mato Grosso prende integrantes de facção e apreende veículos de luxo",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/policia-civil-de-mato-grosso-prende-integrantes-de-faccao-e-apreende-veiculos-de-luxo",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "516fd635a4437c25",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Polícia Civil do Ceará deflagra Operação Sentinela e prende cinco homens",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/policia-civil-do-ceara-deflagra-operacao-sentinela-e-prende-cinco-homens",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "270eb65a626085d1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rádio Nacional apresenta transmissão especial do 12º Festival Internacional de Tribos do Alto Solimões",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/radio-nacional-apresenta-transmissao-especial-do-12o-festival-internacional-de-tribos-do-alto-solimoes",
+      "resumo": "",
+      "publicado_em": "2026-08-26T13:50:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "9ad18199ec7d9bde",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Plano Nacional de Inclusão Digital recebe contribuições da sociedade",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/plano-nacional-de-inclusao-digital-recebe-contribuicoes-da-sociedade",
+      "resumo": "",
+      "publicado_em": "2026-08-26T13:45:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "8063927556f7bd68",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Programa garante presença de médicos especialistas até renovação em fevereiro de 2027",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/ministerio-da-saude-prorroga-permanencia-de-medicos-especialistas-ate-fevereiro-de-2027-em-todo-o-pais",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:33:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "effe51fe7f7bb3eb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Disque 100: a denúncia pode ser anônima? Tire suas dúvidas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/disque-100-a-denuncia-pode-ser-anonima-tire-suas-principais-duvidas",
+      "resumo": "",
+      "publicado_em": "2026-08-26T11:35:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
       "id": "d556df3589bea031",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -435,6 +647,292 @@ window.DADOS = {
       "coletado_em": "2026-08-26T13:23:13-03:00"
     },
     {
+      "id": "e9cde5239874a251",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O alerta do Agosto Lilás e as ações concretas de combate à violência",
+      "link": "https://www.congressoemfoco.com.br/artigo/121694/o-alerta-do-agosto-lilas-e-as-acoes-concretas-de-combate-a-violencia",
+      "resumo": "Aos 20 anos da Lei Maria da Penha, enfrentar a violência contra as mulheres exige prevenção, estrutura pública, educação e uma rede de proteção capaz de agir antes que a violência seja fatal.",
+      "publicado_em": "2026-08-26T16:17:48-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "f28c66827589c1f6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sem uma régua comum, cada plataforma escolhe o teste em que passa",
+      "link": "https://www.congressoemfoco.com.br/artigo/121693/sem-uma-regua-comum-cada-plataforma-escolhe-o-teste-em-que-passa",
+      "resumo": "A ANPD exige que 22 plataformas e ferramentas demonstrem a efetividade de suas salvaguardas. Sem cenários, métricas e versões comuns, as respostas não serão comparáveis.",
+      "publicado_em": "2026-08-26T15:58:13-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "aa46b92d0a85ea05",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O caráter nacional do Marco Regulatório do Fomento à Cultura",
+      "link": "https://www.congressoemfoco.com.br/artigo/121692/o-carater-nacional-do-marco-regulatorio-do-fomento-a-cultura",
+      "resumo": "Marco Regulatório criou regras nacionais para o setor e busca superar a falta de padronização entre União, Estados e municípios.",
+      "publicado_em": "2026-08-26T15:44:07-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "a75c90c18d357052",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O dano sexual como categoria autônoma",
+      "link": "https://www.congressoemfoco.com.br/artigo/121689/o-dano-sexual-como-categoria-autonoma",
+      "resumo": "Projeto em fase final no Senado permite individualizar prejuízos à sexualidade, à intimidade e à autodeterminação das vítimas.",
+      "publicado_em": "2026-08-26T15:22:11-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "a7c67d8894f4f94e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Tereza Cristina é destaque na avaliação do júri técnico",
+      "link": "https://www.congressoemfoco.com.br/noticia/121688/tereza-cristina-e-destaque-na-avaliacao-do-juri-tecnico",
+      "resumo": "Seleção reúne parlamentares avaliados por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T15:16:02-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "191992b3b498894c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Júri técnico destaca Humberto Costa entre melhores senadores",
+      "link": "https://www.congressoemfoco.com.br/noticia/121687/juri-tecnico-destaca-humberto-costa-entre-melhores-senadores",
+      "resumo": "Seleção reúne parlamentares avaliados por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T15:10:32-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "ccfd7616cbfc783e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Efraim Filho é premiado entre melhores senadores por júri técnico",
+      "link": "https://www.congressoemfoco.com.br/noticia/121686/efraim-filho-e-premiado-entre-melhores-senadores-por-juri-tecnico",
+      "resumo": "Seleção reúne parlamentares avaliados por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T15:05:03-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "7e21ad5ff9e40057",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Romário devolve R$ 29 mil após trabalhar como comentarista na Copa",
+      "link": "https://www.congressoemfoco.com.br/noticia/121685/romario-devolve-r-29-mil-apos-trabalhar-como-comentarista-na-copa",
+      "resumo": "Senador havia prometido restituir remuneração recebida durante período em que trabalhou como comentarista da CazéTV no Mundial.",
+      "publicado_em": "2026-08-26T14:59:08-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "4feb4e3d57ef0238",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eduardo Gomes é destaque na avaliação do júri técnico",
+      "link": "https://www.congressoemfoco.com.br/noticia/121684/eduardo-gomes-e-destaque-na-avaliacao-do-juri-tecnico",
+      "resumo": "Seleção reúne parlamentares avaliados por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T14:55:01-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "f2fc9c89645e8730",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Júri técnico destaca Damares Alves entre melhores senadores",
+      "link": "https://www.congressoemfoco.com.br/noticia/121682/juri-tecnico-destaca-damares-alves-entre-melhores-senadores",
+      "resumo": "Seleção reúne parlamentares avaliados por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T14:44:39-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "08de0a7e19c028c9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Tabata Amaral é premiada entre melhores deputados por júri técnico",
+      "link": "https://www.congressoemfoco.com.br/noticia/121676/tabata-amaral-e-premiada-entre-melhores-deputados-por-juri-tecnico",
+      "resumo": "Seleção reúne parlamentares avaliados por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T13:34:08-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "aade0f0c36f88ada",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Soraya Santos é destaque na avaliação do júri técnico",
+      "link": "https://www.congressoemfoco.com.br/noticia/121675/soraya-santos-e-destaque-na-avaliacao-do-juri-tecnico",
+      "resumo": "Seleção reúne parlamentares avaliados por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T13:30:12-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "5b0eb0c14a384751",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Júri técnico destaca Reginaldo Lopes entre melhores deputados",
+      "link": "https://www.congressoemfoco.com.br/noticia/121674/juri-tecnico-destaca-reginaldo-lopes-entre-melhores-deputados",
+      "resumo": "Seleção reúne parlamentares avaliados por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T13:24:58-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "079daf21c37099a8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Laura Carneiro é premiada entre melhores deputados por júri técnico",
+      "link": "https://www.congressoemfoco.com.br/noticia/121673/laura-carneiro-e-premiada-entre-melhores-deputados-por-juri-tecnico",
+      "resumo": "Seleção reúne parlamentares avaliados por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T13:20:15-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "9f447d85af1d1a2f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Joaquim Passarinho é destaque na avaliação do júri técnico",
+      "link": "https://www.congressoemfoco.com.br/noticia/121671/joaquim-passarinho-e-destaque-na-avaliacao-do-juri-tecnico",
+      "resumo": "Seleção reúne parlamentares avaliados por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T13:13:55-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "eec16a204ea6f804",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Júri técnico destaca Hugo Leal entre melhores deputados",
+      "link": "https://www.congressoemfoco.com.br/noticia/121669/juri-tecnico-destaca-hugo-leal-entre-melhores-deputados",
+      "resumo": "Seleção reúne parlamentares avaliados por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T13:08:50-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "1c1c7294163fa11a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika Hilton é premiada entre melhores deputados por júri técnico",
+      "link": "https://www.congressoemfoco.com.br/noticia/121668/erika-hilton-e-premiada-entre-melhores-deputados-por-juri-tecnico",
+      "resumo": "Seleção reúne parlamentares avaliados por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T13:02:36-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "bc2f2ff6bbe1e46e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Caroline de Toni é destaque na avaliação do júri técnico",
+      "link": "https://www.congressoemfoco.com.br/noticia/121666/caroline-de-toni-e-destaque-na-avaliacao-do-juri-tecnico",
+      "resumo": "Seleção reúne parlamentares escolhidos por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T12:58:04-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
       "id": "00e0ee025f594d13",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -475,6 +973,38 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-26T13:23:13-03:00"
+    },
+    {
+      "id": "0111fd3d644917db",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado Baleia Rossi é destaque na avaliação do júri técnico",
+      "link": "https://www.congressoemfoco.com.br/noticia/121662/deputado-baleia-rossi-e-destaque-na-avaliacao-do-juri-tecnico",
+      "resumo": "Seleção reúne parlamentares escolhidos por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T12:11:39-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "3427d58b691800eb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Júri técnico destaca Augusto Coutinho entre melhores deputados",
+      "link": "https://www.congressoemfoco.com.br/noticia/121661/juri-tecnico-destaca-augusto-coutinho-entre-melhores-deputados",
+      "resumo": "Seleção reúne parlamentares avaliados por um júri formado por especialistas em política, comunicação e atividade legislativa.",
+      "publicado_em": "2026-08-26T12:05:34-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
     },
     {
       "id": "28966eb03684f0a3",
@@ -751,6 +1281,66 @@ window.DADOS = {
         "visita"
       ],
       "coletado_em": "2026-08-26T13:23:13-03:00"
+    },
+    {
+      "id": "70950f6ee8fb132c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pena Justa: acordo entre CNJ e TCU fortalece auditorias no sistema penal",
+      "link": "https://www.cnj.jus.br/pena-justa-acordo-entre-cnj-e-tcu-fortalece-auditorias-no-sistema-penal/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) e o Tribunal de Contas da União (TCU) assinaram acordo de cooperação técnica para compartilhamento de dados com objetivo de fortalecer auditorias relacionadas à justiça penal e ao sistema carcerário, incluindo ações de controle externo sobre as atividades do Plan",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "031b34c05c0639c5",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Projeto Resgatar forma 64 pré-egressos em cursos profissionalizantes em Aparecida de Goiânia",
+      "link": "https://www.cnj.jus.br/projeto-resgatar-forma-64-pre-egressos-em-cursos-profissionalizantes-em-aparecida-de-goiania/",
+      "resumo": "Um total de 64 pré-egressos do complexo prisional de Aparecida de Goiânia concluiu, nesta terça-feira (25), cursos profissionalizantes de pedreiro de alvenaria, costura industrial e marcenaria, por meio do Projeto Resgatar. A iniciativa é do Tribunal de Justiça do Estado de Goiás (TJGO), em parceria",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "4cc8c0f55f455d42",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Motta diz que Congresso deve votar na semana que vem fim da taxa das blusinhas",
+      "link": "https://www.camara.leg.br/noticias/1300443-motta-diz-que-congresso-deve-votar-na-semana-que-vem-fim-da-taxa-das-blusinhas",
+      "resumo": "",
+      "publicado_em": "2026-08-26T15:59:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "cba84e8603ffcfb6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto define critérios para isentar de Imposto de Renda gratificações de professores",
+      "link": "https://www.camara.leg.br/noticias/1296170-projeto-define-criterios-para-isentar-de-imposto-de-renda-gratificacoes-de-professores",
+      "resumo": "",
+      "publicado_em": "2026-08-26T13:44:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-08-26T16:30:23-03:00"
     },
     {
       "id": "c054356896612eab",
