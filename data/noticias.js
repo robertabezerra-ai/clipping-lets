@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-26T16:30:23-03:00",
+  "gerado_em": "2026-08-26T19:37:14-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 403 Client Error: Forbidden for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -161,14 +161,14 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -251,24 +251,6 @@ window.DADOS = {
   ],
   "noticias": [
     {
-      "id": "5c6b48466e63b7db",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Pautas de julgamento serão disponibilizadas no DJEN até normalização do DEJT",
-      "link": "https://trt15.jus.br/noticia/2026/pautas-de-julgamento-serao-disponibilizadas-no-djen-ate-normalizacao-do-dejt",
-      "resumo": "Pautas de julgamento serão disponibilizadas no DJEN até normalização do DEJT anasiqueira Qui, 27/08/2026 - 13:54 Pautas de julgamento serão disponibilizadas no DJEN até normalização do DEJT Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) e o Tribunal Superior do Trabalho (TST) ",
-      "publicado_em": "2026-08-27T13:54:16-03:00",
-      "dia": "2026-08-27",
-      "data_estimada": false,
-      "score": 68,
-      "tags": [
-        "julgamento",
-        "julga",
-        "acao"
-      ],
-      "coletado_em": "2026-08-25T15:26:45-03:00"
-    },
-    {
       "id": "247705a597005217",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -283,6 +265,82 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-26T13:23:13-03:00"
+    },
+    {
+      "id": "cf5a6345e0c30f83",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Capacitação debate caminhos para a Justiça do Trabalho diante de conflitos complexos e mudanças tecnológicas",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/capacitacao-debate-caminhos-para-a-justica-do-trabalho-diante-de-conflitos-complexos-e-mudancas-tecnologicas",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "3f57da5e3993923d",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Indisponibilidade do DEJT: conheça as providências, alternativas e orientações",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/indisponibilidade-do-dejt-conheca-as-providencias-alternativas-e-orientacoes",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "bf2d93cd1c09e2eb",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 sedia encontro de ouvidores(as) com foco em escuta e proteção; inscrições abertas",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-sedia-encontro-de-ouvidoresas-com-foco-em-escuta-e-protecao-inscricoes-abertas",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "fdeaceaa65f63b51",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 recebe três Selos “Judiciário Inovador” e lidera certificações técnicas na Justiça do Trabalho",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-recebe-tres-selos-judiciario-inovador-e-lidera-certificacoes-tecnicas-na",
+      "resumo": "TRT-15 recebe três Selos “Judiciário Inovador” e lidera certificações técnicas na Justiça do Trabalho anasiqueira Qua, 26/08/2026 - 18:40 TRT-15 recebe três Selos “Judiciário Inovador” e lidera certificações técnicas na Justiça do Trabalho Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª R",
+      "publicado_em": "2026-08-26T18:40:24-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "a00a262aaede56b5",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "“Diálogos Inovadores” abre programação do TRT-15 na Semana Nacional dos Precedentes Trabalhistas",
+      "link": "https://trt15.jus.br/noticia/2026/dialogos-inovadores-abre-programacao-do-trt-15-na-semana-nacional-dos-precedentes",
+      "resumo": "“Diálogos Inovadores” abre programação do TRT-15 na Semana Nacional dos Precedentes Trabalhistas anasiqueira Qua, 26/08/2026 - 18:15 “Diálogos Inovadores” abre programação do TRT-15 na Semana Nacional dos Precedentes Trabalhistas Conteúdo da Notícia O Laboratório de Inovação do Tribunal Regional do ",
+      "publicado_em": "2026-08-26T18:15:30-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "precedente",
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
     },
     {
       "id": "f294d06dfed3e6a6",
@@ -306,7 +364,7 @@ window.DADOS = {
       "fonte_nome": "TJSP",
       "titulo": "TJSP é reconhecido com dois Selos “Judiciário Inovador” do CNJ",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115129&pagina=1",
-      "resumo": "Central de Intermediação em Libras e programa Daps Itinerante. \n \n\tO Tribunal de Justiça de São Paulo, por meio da Diretoria de Apoio aos Servidores (DAPS),",
+      "resumo": "Central de Intermediação em Libras e Daps Itinerante. \n \n\tO Tribunal de Justiça de São Paulo, por meio da Diretoria de Apoio aos Servidores (DAPS), recebeu",
       "publicado_em": "2026-08-26T12:00:00-03:00",
       "dia": "2026-08-26",
       "data_estimada": true,
@@ -315,6 +373,68 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "c44092b97856aa5d",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Judiciário paulista reverencia ministro Manoel da Costa Manso em celebração aos 150 anos de seu nascimento",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115131&pagina=1",
+      "resumo": "Homenagem no OE e exposição virtual consolidam legado. \n \n\tO Poder Judiciário paulista celebrou, no último domingo (23), os 150 anos do nascimento de um dos",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 10,
+      "tags": [
+        "acao",
+        "homenagem",
+        "exposicao"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "6e1612e5e247b1a1",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP disponibiliza MinutaIA para apoio à atividade dos gabinetes",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115130&pagina=1",
+      "resumo": "Plataforma integrada ao eproc e SAJ.\n\n\n \n\n\n\tO Tribunal de Justiça de São Paulo disponibiliza a magistrados e suas equipes uma nova ferramenta de inteligência artificial",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "2c84c372ec908731",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF mantém contrato do BRB com TJBA por mais 90 dias",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-contrato-do-brb-com-tjba-por-mais-90-dias/",
+      "resumo": "Ministro Luiz Fux levou em conta risco à liquidez do banco e ao sistema financeiro caso o fluxo de depósitos judiciais seja interrompido",
+      "publicado_em": "2026-08-26T18:31:10-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "477103b025315be9",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF proíbe cobrança de IPVA em SP quando imposto já foi pago em outro estado",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-proibe-cobranca-de-ipva-em-sp-quando-imposto-ja-foi-pago-em-outro-estado/",
+      "resumo": "Plenário também derrubou regras que ampliavam a responsabilidade pelo pagamento do tributo",
+      "publicado_em": "2026-08-26T18:13:13-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
     },
     {
       "id": "0ede2be4966e4b9c",
@@ -379,6 +499,20 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-08-26T13:23:13-03:00"
+    },
+    {
+      "id": "2e4a2bca3e3f439a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi Alcolumbre acerta prioridades do Congresso em reunião com Lula e Motta",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/26/davi-alcolumbre-acerta-prioridades-do-congresso-em-reuniao-com-lula-e-motta",
+      "resumo": "",
+      "publicado_em": "2026-08-26T17:29:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
     },
     {
       "id": "61cbb408c45474a4",
@@ -541,6 +675,100 @@ window.DADOS = {
       "coletado_em": "2026-08-26T16:30:23-03:00"
     },
     {
+      "id": "d209a48f67b15d83",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Draco2, PRF e PM apreendem cerca de 180 kg de skunk",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/draco2-prf-e-pm-apreendem-cerca-de-180-kg-de-skunk",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "609bae60cf65dd44",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Inscrições abertas para pós-graduação em gestão e liderança para mulheres na segurança pública",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-pos-graduacao-em-gestao-e-lideranca-para-mulheres-na-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "d8bda22da4706f86",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Segurança Pública e Educação elaboram protocolo para prevenção e resposta à violência extrema nas escolas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/seguranca-publica-e-educacao-elaboram-protocolo-para-prevencao-e-resposta-a-violencia-extrema-nas-escolas",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "e876c3a0e9d6b868",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Novas regras para drones reforçam segurança e orientam pilotos sobre como operar",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/novas-regras-para-drones-reforcam-seguranca-e-orientam-pilotos-sobre-como-operar-no-brasil-1",
+      "resumo": "",
+      "publicado_em": "2026-08-26T19:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "novas regras"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "3e398d47b85971e1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasília: única cidade moderna reconhecida como Patrimônio Mundial da Unesco",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/brasilia-unica-cidade-moderna-reconhecida-como-patrimonio-mundial-da-unesco",
+      "resumo": "",
+      "publicado_em": "2026-08-26T18:07:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "422a0825b05703d5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Finep financia implantação do primeiro Centro de Protonterapia do Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/finep-financia-r-132-6-milhoes-para-o-primeiro-centro-de-protonterapia-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-08-26T17:30:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
       "id": "270eb65a626085d1",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -647,6 +875,123 @@ window.DADOS = {
       "coletado_em": "2026-08-26T13:23:13-03:00"
     },
     {
+      "id": "3fa28f8769877594",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Arrecadação federal soma R$ 289,346 bilhões em julho, mostram os dados divulgados pela Receita",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/arrecadacao-federal-soma-r-289-346-bilhoes-em-julho-mostram-os-dados-divulgados-pela-receita",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "4264127d3d5da18a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Reginaldo Lopes será presidente de comissão sobre taxa das blusinhas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121701/reginaldo-lopes-sera-presidente-de-comissao-sobre-taxa-das-blusinhas",
+      "resumo": "Deputado do PT tem prazo apertado para conduzir debates sobre medida provisória que suspende imposto de importação no comércio digital.",
+      "publicado_em": "2026-08-26T19:07:50-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "medida provisoria",
+        "prazo",
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "d3a370c5943bf9d1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF apreende mala com R$ 510 mil de ex-candidata do PSD em aeroporto",
+      "link": "https://www.congressoemfoco.com.br/noticia/121700/pf-apreende-mala-com-r-510-mil-de-ex-candidata-do-psd-em-aeroporto",
+      "resumo": "Advogada Valéria Linhares disputou uma vaga na Câmara Legislativa do Distrito Federal nas eleições de 2018.",
+      "publicado_em": "2026-08-26T18:14:23-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "831acce31e9fbe49",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AGU ajuiza ação de R$ 500 milhões por Discord violar ECA Digital",
+      "link": "https://www.congressoemfoco.com.br/noticia/121699/agu-ajuiza-acao-de-r-500-milhoes-por-discord-violar-eca-digital",
+      "resumo": "Ação pede adequação ao ECA Digital e prevê multa diária de R$ 500 mil caso a plataforma descumpra as medidas.",
+      "publicado_em": "2026-08-26T18:10:39-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "8b07691d4fa66c2c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alcolumbre anuncia mobilização para votar PL dos Minerais Críticos",
+      "link": "https://www.congressoemfoco.com.br/noticia/121698/alcolumbre-anuncia-mobilizacao-para-votar-pl-dos-minerais-criticos",
+      "resumo": "Projeto que regulamenta o setor de minerais críticos e estratégicos entrará na pauta da próxima semana no Senado.",
+      "publicado_em": "2026-08-26T17:24:34-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "64b35e352e49dafb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Liberdade de expressão: proteção ou argumento para encerrar o debate?",
+      "link": "https://www.congressoemfoco.com.br/artigo/121696/liberdade-de-expressao-protecao-ou-argumento-para-encerrar-o-debate",
+      "resumo": "O direito à comunicação na era das plataformas digitais.",
+      "publicado_em": "2026-08-26T16:34:14-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "f5968bf929c84770",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Congresso votará fim da taxa das blusinhas na próxima semana",
+      "link": "https://www.congressoemfoco.com.br/noticia/121695/congresso-votara-fim-da-taxa-das-blusinhas-na-proxima-semana",
+      "resumo": "Câmara e Senado terão esforço concentrado antes do recesso eleitoral para concluir a análise da medida provisória.",
+      "publicado_em": "2026-08-26T16:30:45-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
       "id": "e9cde5239874a251",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -691,6 +1036,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "4cb23da0af300219",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputados e senadores repercutem Prêmio Congresso em Foco 2026",
+      "link": "https://www.congressoemfoco.com.br/noticia/121691/deputados-e-senadores-repercutem-premio-congresso-em-foco-2026",
+      "resumo": "De Norte a Sul, parlamentares de esquerda, direita e centro reconheceram a credibilidade do maior prêmio da política brasileira.",
+      "publicado_em": "2026-08-26T15:36:30-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
     },
     {
       "id": "a75c90c18d357052",
@@ -1288,7 +1649,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Pena Justa: acordo entre CNJ e TCU fortalece auditorias no sistema penal",
       "link": "https://www.cnj.jus.br/pena-justa-acordo-entre-cnj-e-tcu-fortalece-auditorias-no-sistema-penal/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) e o Tribunal de Contas da União (TCU) assinaram acordo de cooperação técnica para compartilhamento de dados com objetivo de fortalecer auditorias relacionadas à justiça penal e ao sistema carcerário, incluindo ações de controle externo sobre as atividades do Plan",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) e o Tribunal de Contas da União (TCU) assinaram Acordo de Cooperação Técnica (ACT) para compartilhamento de dados com objetivo de fortalecer auditorias relacionadas à Justiça Penal e ao sistema carcerário, incluindo ações de controle externo sobre as atividades d",
       "publicado_em": "2026-08-26T12:00:00-03:00",
       "dia": "2026-08-26",
       "data_estimada": true,
@@ -1311,6 +1672,38 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-26T16:30:23-03:00"
+    },
+    {
+      "id": "b55a88e309417443",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "GT que debate remuneração na magistratura e seus reflexos no poder público se reúne no CNJ",
+      "link": "https://www.cnj.jus.br/gt-que-debate-remuneracao-na-magistratura-e-seus-reflexos-no-poder-publico-se-reune-no-cnj/",
+      "resumo": "O Grupo de Trabalho instituído pelo presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Edson Fachin, para debater propostas legislativas sobre a remuneração da magistratura esteve reunido, nesta quarta-feira (26), na sede do CNJ. Essa foi a segunda reunião",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "70f5ade53a145c54",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Justiça do trabalho faz ação de cidadania, inclusão e novas oportunidades para comunidade surda em Belém",
+      "link": "https://www.cnj.jus.br/justica-do-trabalho-faz-acao-de-cidadania-inclusao-e-novas-oportunidades-para-comunidade-surda-em-belem/",
+      "resumo": "Com o apoio da comunidade surda e dos professores de Libras e intérpretes da Língua Brasileira de Sinais, o Centro Judiciário de Solução de Conflitos e Cidadania do TRT-8 (Cejusc Belém), realizou, em 25/8, a 4ª edição do projeto “Vamos resolver Juntos?”,  voltado para a comunidade surda. A ação levo",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T19:37:14-03:00"
     },
     {
       "id": "4cc8c0f55f455d42",
@@ -1427,6 +1820,24 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-26T13:23:13-03:00"
+    },
+    {
+      "id": "5c6b48466e63b7db",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Pautas de julgamento serão disponibilizadas no DJEN até normalização do DEJT",
+      "link": "https://trt15.jus.br/noticia/2026/pautas-de-julgamento-serao-disponibilizadas-no-djen-ate-normalizacao-do-dejt",
+      "resumo": "Pautas de julgamento serão disponibilizadas no DJEN até normalização do DEJT anasiqueira Ter, 25/08/2026 - 13:54 Pautas de julgamento serão disponibilizadas no DJEN até normalização do DEJT Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) e o Tribunal Superior do Trabalho (TST) ",
+      "publicado_em": "2026-08-25T13:54:16-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-08-25T15:26:45-03:00"
     },
     {
       "id": "a8fb5e9e5a6e3d36",
