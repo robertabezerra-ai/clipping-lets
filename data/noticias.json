@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T17:19:47-03:00",
+  "gerado_em": "2026-08-26T08:34:10-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,14 +161,14 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 19,
       "erro": null
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -269,6 +269,69 @@
       "coletado_em": "2026-08-25T15:26:45-03:00"
     },
     {
+      "id": "cd0cac890345b9ee",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Ministros defendem políticas sociais para enfrentar desigualdades no Brasil",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/ministros-defendem-politicas-sociais-para-enfrentar-desigualdades-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-08-26T08:30:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "d994391aec0bb7ce",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Consultoria do Senado detalha vedações de gastos em ano eleitoral",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/consultoria-do-senado-detalha-vedacoes-de-gastos-em-ano-eleitoral",
+      "resumo": "",
+      "publicado_em": "2026-08-26T08:19:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "28a2e7bb9c3ff798",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Motta defende transparência e pluralidade no Prêmio Congresso em Foco",
+      "link": "https://www.congressoemfoco.com.br/noticia/121647/motta-defende-transparencia-e-pluralidade-no-premio-congresso-em-foco",
+      "resumo": "Presidente da Câmara destacou o papel da imprensa, a fiscalização dos mandatos e a convivência entre diferentes correntes políticas. Ele também foi um dos premiados da noite.",
+      "publicado_em": "2026-08-26T07:53:29-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "e96633634dedac80",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE-SP reverte uma das condenações que tornaram Marçal inelegível",
+      "link": "https://www.congressoemfoco.com.br/noticia/121646/tre-sp-reverte-uma-das-condenacoes-que-tornaram-marcal-inelegivel",
+      "resumo": "Decisão derruba uma das inelegibilidades de Marçal, que ainda tem outra condenação em vigor e depende do TSE para saber se poderá disputar a Presidência.",
+      "publicado_em": "2026-08-26T07:13:54-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
       "id": "a8fb5e9e5a6e3d36",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -321,7 +384,7 @@
       "fonte_nome": "TJSP",
       "titulo": "Lei municipal que determina instalação de faixas elevadas para pedestres em frente a instituições de ensino é constitucional, decide OE",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115121&pagina=1",
-      "resumo": "Política de educação para segurança no trânsito.\n\tO Órgão Especial do Tribunal de Justiça de São Paulo declarou constitucional a Lei Municipal nº 429/25, de Martinópolis,",
+      "resumo": "Política de educação para segurança no trânsito.\n \n\tO Órgão Especial do Tribunal de Justiça de São Paulo declarou constitucional a Lei Municipal nº 429/25, de",
       "publicado_em": "2026-08-25T12:00:00-03:00",
       "dia": "2026-08-25",
       "data_estimada": true,
@@ -366,6 +429,82 @@
         "acao"
       ],
       "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "b519e41cd5a38b98",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Implantação do eproc na Fazenda Pública: saiba como acessar",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115124&pagina=1",
+      "resumo": "Sistema usa bases diferentes conforme a competência. \n\tCom a implantação do eproc na área de Fazenda Pública, usuários internos e externos devem ficar atentos a uma",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "af15c7719911af6b",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115123&pagina=1",
+      "resumo": "Compromissos internos do Poder Judiciário.\n\tNa terça-feira (25), o vice-presidente do TJSP, desembargador Luís Francisco Aguilar Cortez, foi condecorado, em seu Gabinete, com a Medalha Challenge",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "medalha"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "5e7087b7168b4354",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF testa acompanhamento ambiental de eventos a partir de experiência inédita",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-testa-acompanhamento-ambiental-de-eventos-a-partir-de-experiencia-inedita/",
+      "resumo": "Mensuração de emissões e outros indicadores de sustentabilidade passam a integrar a avaliação das atividades promovidas pela Secretaria de Relações com a Sociedade",
+      "publicado_em": "2026-08-25T19:19:02-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "62a1c93eb859002e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF mantém nova unidade de perícia criminal do Maranhão, mas afasta autonomia financeira",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-nova-unidade-de-pericia-criminal-do-maranhao-mas-afasta-autonomia-financeira/",
+      "resumo": "Corte concluiu que lei maranhense que criou nova unidade na estrutura da Polícia Civil do estado não confere, na prática, autonomia orçamentária e financeira ao órgão",
+      "publicado_em": "2026-08-25T17:50:12-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "5fb4cf5ce0eb5ddb",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Audiência pública: em dois dias, STF debateu pontos da Lei Antifacção e limites constitucionais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/audiencia-publica-em-dois-dias-stf-debateu-pontos-da-lei-antifaccao-e-limites-constitucionais/",
+      "resumo": "Ministro Alexandre de Moraes espera que contribuições permitam soluções concretas para combater o crime organizado",
+      "publicado_em": "2026-08-25T17:36:46-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
     },
     {
       "id": "00d40e79fc81d84e",
@@ -449,6 +588,66 @@
       "coletado_em": "2026-08-25T12:50:48-03:00"
     },
     {
+      "id": "6315e255e2c41d54",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Verifica reforça atuação contra desinformação nas eleições deste ano",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/25/senado-verifica-reforca-atuacao-contra-desinformacao-nas-eleicoes-deste-ano",
+      "resumo": "",
+      "publicado_em": "2026-08-25T19:09:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "c87ad7c5fb4d7d61",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Debatedores na CDH pedem articulação para auxiliar pessoas em situação de rua",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/25/debatedores-na-cdh-pedem-articulacao-para-auxiliar-pessoas-em-situacao-de-rua",
+      "resumo": "",
+      "publicado_em": "2026-08-25T18:04:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "e4ad691a9b0ae929",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "MP destina R$ 7 bilhões aos exportadores enquadrados no Plano Brasil Soberano",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/25/mp-destina-r-7-bilhoes-aos-exportadores-enquadrados-no-plano-brasil-soberano",
+      "resumo": "",
+      "publicado_em": "2026-08-25T18:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "e6473f1cd6607668",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PEC da Segurança Pública: relator na CCJ informa que vai manter texto da Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/25/pec-da-seguranca-publica-relator-na-ccj-informa-que-vai-manter-texto-da-camara",
+      "resumo": "",
+      "publicado_em": "2026-08-25T17:46:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
       "id": "8a097b108bc904fc",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -528,7 +727,7 @@
       "id": "d9ce5cf5a7bd7fac",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "MP libera R$ 3,15 bi para benefícios ligados ao diesel e à gasolina",
+      "titulo": "MP libera R$ 3,15 bi de subsídios para produzir e importar diesel e gasolina",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/08/25/mp-libera-r-3-15-bi-para-beneficios-ligados-ao-diesel-e-a-gasolina",
       "resumo": "",
       "publicado_em": "2026-08-25T11:14:00-03:00",
@@ -641,6 +840,40 @@
         "acao"
       ],
       "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "589cd433bcd849cd",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Benedito Gonçalves toma posse como corregedor do Conselho Nacional de Justiça",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/benedito-goncalves-toma-posse-como-corregedor-do-conselho-nacional-de-justica",
+      "resumo": "",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 0,
+      "tags": [
+        "posse",
+        "toma posse"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "aff00dacf58a7e9d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Medida amplia prazo do 'drawback' para empresas afetadas por tarifas adicionais dos EUA",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/medida-amplia-prazo-do-drawback-para-empresas-afetadas-por-tarifas-adicionais-dos-eua",
+      "resumo": "",
+      "publicado_em": "2026-08-25T17:32:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "adi",
+        "prazo"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
     },
     {
       "id": "f3e06c40c2ca4bb2",
@@ -942,14 +1175,18 @@
       "id": "634255cbcd0f5e44",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Concurso convida estudantes a desenhar uma internet mais segura e com mais direitos",
+      "titulo": "CNJ visita escola no DF para divulgar concurso de desenho sobre o ECA Digital",
       "link": "https://www.cnj.jus.br/concurso-convida-estudantes-a-desenhar-uma-internet-mais-segura-e-com-mais-direitos/",
-      "resumo": "Como seria uma internet mais segura para crianças e adolescentes? É essa reflexão que o Conselho Nacional de Justiça (CNJ) e o Ministério da Justiça e Segurança Pública (MJSP) propõem a estudantes de todo o país por meio do concurso nacional de desenho “Juventude Conectada com Direitos: o ECA Digita",
+      "resumo": "O Centro de Ensino Educacional 04, em Sobradinho II (DF), cerca de 20 km do centro de Brasília, foi a escola escolhida para receber a visita do Conselho Nacional de Justiça (CNJ), nesta quarta-feira (26), para a divulgação do concurso nacional de desenho “Juventude Conectada com Direitos: o ECA Digi",
       "publicado_em": "2026-08-25T12:00:00-03:00",
       "dia": "2026-08-25",
       "data_estimada": true,
-      "score": 40,
-      "tags": [],
+      "score": 44,
+      "tags": [
+        "adi",
+        "acao",
+        "visita"
+      ],
       "coletado_em": "2026-08-25T15:26:45-03:00"
     },
     {
@@ -972,7 +1209,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Comarca de Tapurah inicia grupo reflexivo para homens autores de violência",
       "link": "https://www.cnj.jus.br/comarca-de-tapurah-inicia-grupo-reflexivo-para-homens-autores-de-violencia/",
-      "resumo": "A Comarca de Tapurah (388km de Cuiabá) inicia neste mês de agosto uma importante ação de prevenção e combate à violência doméstica. Amanhã (25), será realizada a primeira reunião do Grupo Reconstruir, um grupo reflexivo composto por homens autores de violência doméstica cujo objetivo é promover a re",
+      "resumo": "A Comarca de Tapurah (388km de Cuiabá) inicia, neste mês de agosto, uma importante ação de prevenção e combate à violência doméstica. Amanhã (25), será realizada a primeira reunião do Grupo Reconstruir, um grupo reflexivo composto por homens autores de violência doméstica cujo objetivo é promover a ",
       "publicado_em": "2026-08-25T12:00:00-03:00",
       "dia": "2026-08-25",
       "data_estimada": true,
@@ -1002,9 +1239,9 @@
       "id": "9cb3bc06a336930b",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "TRF1 e TJMA reinauguram Ponto de Inclusão Digital em Paulino Neves/MA",
+      "titulo": "TRF-1 e TJMA reinauguram Ponto de Inclusão Digital em Paulino Neves (MA)",
       "link": "https://www.cnj.jus.br/trf1-e-tjma-reinauguram-ponto-de-inclusao-digital-em-paulino-neves-ma/",
-      "resumo": "O Tribunal Regional Federal da 1ª Região (TRF1) e o Tribunal de Justiça do Estado do Maranhão (TJMA) reinauguraram, em cooperação técnica, o Ponto de Inclusão Digital (PID) no município de Paulino Neves/MA. A iniciativa tem como objetivo expandir a presença da Justiça Federal na região e garantir am",
+      "resumo": "O Tribunal Regional Federal da 1ª Região (TRF-1) e o Tribunal de Justiça do Estado do Maranhão (TJMA) reinauguraram, em cooperação técnica, o Ponto de Inclusão Digital (PID) no município de Paulino Neves (MA). A iniciativa tem como objetivo expandir a presença da Justiça Federal na região e garantir",
       "publicado_em": "2026-08-25T12:00:00-03:00",
       "dia": "2026-08-25",
       "data_estimada": true,
@@ -1030,6 +1267,104 @@
         "visita"
       ],
       "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "97f9a56ff7669c3d",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Direitos humanos ocupam centro da gestão estratégica do Sistema de Justiça",
+      "link": "https://www.cnj.jus.br/direitos-humanos-ocupam-centro-da-gestao-estrategica-do-sistema-de-justica/",
+      "resumo": "A reflexão sobre a qualidade e o destinatário dos serviços prestados pelo Judiciário norteou apresentação sobre a relação entre gestão estratégica e direitos humanos no painel “A Garantia dos Direitos Fundamentais e seu Impulso pelo Programa Justiça Plural”, durante a 2ª Reunião Preparatória para o ",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "41cd28a46ad73d04",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Novo corregedor nacional de Justiça defende magistratura mais próxima da sociedade",
+      "link": "https://www.cnj.jus.br/novo-corregedor-nacional-de-justica-defende-magistratura-mais-proxima-da-sociedade/",
+      "resumo": "O ministro do Superior Tribunal de Justiça (STJ) Benedito Gonçalves assumiu nesta terça-feira (25/8) a cadeira de corregedor nacional de Justiça para o biênio 2026/2028. Em seu discurso, ele destacou que a formação de um juiz não se esgota no domínio técnico do Direito e que é preciso que integrante",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "ed6d6ff0532d8f93",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Tribunais apresentam sugestões de alterações das Metas Nacionais para 2027",
+      "link": "https://www.cnj.jus.br/tribunais-apresentam-sugestoes-de-alteracoes-das-metas-nacionais-para-2027/",
+      "resumo": "As propostas de atualização das Metas Nacionais para o ano de 2027 foram apresentadas por todos os segmentos da Justiça e o Superior Tribunal de Justiça (STJ) ao final da 2º Reunião Preparatória do 20º Encontro Nacional do Poder Judiciário. Desenvolvidas de forma colaborativa, sob coordenação do Con",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "33d8d518bb232ffb",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Fachin lança programa para acelerar a tramitação de processos previdenciários",
+      "link": "https://www.cnj.jus.br/fachin-lanca-programa-para-acelerar-a-tramitacao-de-processos-previdenciarios/",
+      "resumo": "A tramitação das demandas previdenciárias e assistenciais será reforçada por ações de integração entre gestão judiciária, inovação tecnológica, inteligência de dados e cooperação institucional. As medidas fazem parte do projeto AceleraPrev — Programa Nacional para a Redução da Litigiosidade Previden",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "e51b37c90a56a457",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Educação inclusiva: CNJ promove agenda de qualificação para a atuação judicial na área",
+      "link": "https://www.cnj.jus.br/educacao-inclusiva-cnj-promove-agenda-de-qualificacao-para-a-atuacao-judicial-na-area/",
+      "resumo": "A consolidação da cooperação entre o sistema de justiça e as políticas de educação inclusiva marcou o seminário Educação Inclusiva — Desafios Contemporâneos para a Atuação Jurisdicional na Garantia do Direito à Educação para Pessoas com Deficiência. O encontro, realizado pelo Conselho Nacional de Ju",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 44,
+      "tags": [
+        "judicial",
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "1221a8255b5f030c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Solução de IA criada no TRF-3 ganha alcance nacional pelo Conecta",
+      "link": "https://www.cnj.jus.br/solucao-de-ia-criada-no-trf-3-ganha-alcance-nacional-pelo-conecta/",
+      "resumo": "Tarefas cotidianas de magistradas, magistrados, servidoras e servidores podem ser apoiadas pela ferramenta de inteligência artificial LIA3R, desenvolvida pelo Tribunal Regional Federal da 3ª Região (TRF-3) e nacionalizada pelo Conecta, iniciativa do Programa Justiça 4.0 que identifica soluções criad",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
     },
     {
       "id": "3d2224528d8df3a2",
@@ -2047,6 +2382,23 @@
       "coletado_em": "2026-08-25T08:33:09-03:00"
     },
     {
+      "id": "17cbf949537540a6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veja quem são os premiados na 19ª edição do Prêmio Congresso em Foco",
+      "link": "https://www.congressoemfoco.com.br/noticia/121630/veja-quem-sao-os-premiados-na-19-edicao-do-premio-congresso-em-foco",
+      "resumo": "Óscar da política brasileira premia com base em votação popular, avaliação de jornalistas e júri técnico.",
+      "publicado_em": "2026-08-24T19:24:36-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
       "id": "9d149ffa816feb24",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2075,6 +2427,22 @@
         "condenado"
       ],
       "coletado_em": "2026-08-25T15:26:45-03:00"
+    },
+    {
+      "id": "e2f94c4aff154354",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Prêmio Congresso em Foco 2026 anuncia vencedores",
+      "link": "https://www.congressoemfoco.com.br/noticia/121626/premio-congresso-em-foco-2026-anuncia-vencedores",
+      "resumo": "Cerimônia acontece agora na Sala Martins Pena do Teatro Nacional Claudio Santoro.",
+      "publicado_em": "2026-08-24T18:07:18-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
     },
     {
       "id": "2b47862a760bd4ed",
@@ -3866,6 +4234,36 @@
       "coletado_em": "2026-08-21T17:16:45-03:00"
     },
     {
+      "id": "6e3a1fecef2013ba",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Carlos Henrique Gaguim é eleito melhor deputado do Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/121558/carlos-henrique-gaguim-e-eleito-melhor-deputado-do-tocantins",
+      "resumo": "Desde 2015, atua como deputado federal e atualmente cumpre o terceiro mandato consecutivo.",
+      "publicado_em": "2026-08-21T16:26:43-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "537304e63c02316d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Julia Zanatta é agraciada com prêmio de melhor deputada de SC",
+      "link": "https://www.congressoemfoco.com.br/noticia/121556/julia-zanatta-e-agraciada-com-premio-de-melhor-deputada-de-sc",
+      "resumo": "Parlamentar está em primeiro mandato, com pautas ligadas ao conservadorismo.",
+      "publicado_em": "2026-08-21T16:11:19-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
       "id": "deb8d69ffdfc9ce9",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -3883,6 +4281,22 @@
         "visita"
       ],
       "coletado_em": "2026-08-21T17:16:45-03:00"
+    },
+    {
+      "id": "7a64d38e76b0cdb6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Benedita da Silva é eleita melhor deputada federal do Rio de Janeiro",
+      "link": "https://www.congressoemfoco.com.br/noticia/121552/benedita-da-silva-e-eleita-melhor-deputada-federal-do-rio-de-janeiro",
+      "resumo": "Figura tradicional da Câmara, parlamentar é pioneira na liderança de mulheres negras.",
+      "publicado_em": "2026-08-21T15:33:22-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
     },
     {
       "id": "47556657ab10aadc",
@@ -3903,6 +4317,20 @@
       "coletado_em": "2026-08-21T17:16:45-03:00"
     },
     {
+      "id": "48d70cd12345297b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Júri popular elege Gleisi Hoffmann melhor deputada federal do Paraná",
+      "link": "https://www.congressoemfoco.com.br/noticia/121550/juri-popular-elege-gleisi-hoffmann-melhor-deputada-federal-do-parana",
+      "resumo": "Como parlamentar, participou de debates relacionados à economia, às políticas sociais e aos direitos dos trabalhadores.",
+      "publicado_em": "2026-08-21T15:17:06-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
       "id": "0f26a9050b9721e8",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -3918,6 +4346,24 @@
         "premio"
       ],
       "coletado_em": "2026-08-24T12:46:32-03:00"
+    },
+    {
+      "id": "b153c7741c90ef6c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fernanda Melchionna conquista prêmio de melhor deputada do RS",
+      "link": "https://www.congressoemfoco.com.br/noticia/121547/fernanda-melchionna-conquista-premio-de-melhor-deputada-do-rs",
+      "resumo": "Em segundo mandato, é ativa  em pautas como educação, moradia, transporte público, direitos das mulheres e defesa dos serviços públicos.",
+      "publicado_em": "2026-08-21T14:48:31-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": false,
+      "score": 44,
+      "tags": [
+        "adi",
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
     },
     {
       "id": "cacbc229f63264b4",
@@ -5709,6 +6155,20 @@
       "coletado_em": "2026-08-21T12:40:08-03:00"
     },
     {
+      "id": "0a69359305f3e4b1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Público escolhe Carlos Veras como melhor deputado de Pernambuco",
+      "link": "https://www.congressoemfoco.com.br/noticia/121495/publico-escolhe-carlos-veras-como-melhor-deputado-de-pernambuco",
+      "resumo": "Parlamentar construiu sua trajetória política a partir da agricultura familiar e do movimento sindical.",
+      "publicado_em": "2026-08-20T18:27:47-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
       "id": "c6497b2a89a750be",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -7420,6 +7880,22 @@
       "coletado_em": "2026-08-20T08:31:45-03:00"
     },
     {
+      "id": "8697f024d3fe30d1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dilvanda Faro é escolhida melhor deputada federal do Pará",
+      "link": "https://www.congressoemfoco.com.br/noticia/121441/dilvanda-faro-e-escolhida-melhor-deputada-federal-do-para",
+      "resumo": "Parlamentar se destaca na Câmara por atuação na defesa da Amazônia.",
+      "publicado_em": "2026-08-19T18:36:39-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
       "id": "3e513abe27df8636",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -7481,6 +7957,55 @@
       "coletado_em": "2026-08-21T08:31:31-03:00"
     },
     {
+      "id": "9833711b1d870402",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Duda Ramos conquista título de melhor deputado federal de Roraima",
+      "link": "https://www.congressoemfoco.com.br/noticia/121430/duda-ramos-conquista-titulo-de-melhor-deputado-federal-de-roraima",
+      "resumo": "Deputado vence novamente a votação popular do Prêmio Congresso em Foco.",
+      "publicado_em": "2026-08-19T15:56:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "6b770e4b82604096",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika Hilton vence novamente como melhor deputada federal de São Paulo",
+      "link": "https://www.congressoemfoco.com.br/noticia/121429/erika-hilton-vence-novamente-como-melhor-deputada-federal-de-sao-paulo",
+      "resumo": "Deputada foi escolhida pelo público como melhor representante paulista no Prêmio Congresso em Foco 2026.",
+      "publicado_em": "2026-08-19T15:47:33-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "eff96912276242a3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Público escolhe Coronel Chrisóstomo como melhor deputado de Rondônia",
+      "link": "https://www.congressoemfoco.com.br/noticia/121428/publico-escolhe-coronel-chrisostomo-como-melhor-deputado-de-rondonia",
+      "resumo": "Deputado foi escolhido pelo público como melhor representante do Estado no Prêmio Congresso em Foco 2026.",
+      "publicado_em": "2026-08-19T15:38:08-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
       "id": "df67734c6919179d",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -7495,6 +8020,54 @@
       "coletado_em": "2026-08-19T17:18:12-03:00"
     },
     {
+      "id": "0321686dfa3f91ae",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Voto popular consagra Camila Jara como melhor deputada de MS",
+      "link": "https://www.congressoemfoco.com.br/noticia/121423/voto-popular-consagra-camila-jara-como-melhor-deputada-de-ms",
+      "resumo": "Parlamentar está em seu primeiro mandato na Câmara e foi escolhida pelo público no Prêmio Congresso em Foco 2026.",
+      "publicado_em": "2026-08-19T15:21:53-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "f7669d0f032e5684",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cabo Gilberto Silva é eleito melhor deputado federal da Paraíba",
+      "link": "https://www.congressoemfoco.com.br/noticia/121422/cabo-gilberto-silva-e-eleito-melhor-deputado-federal-da-paraiba",
+      "resumo": "Deputado foi escolhido pelo público como melhor representante do Estado no Prêmio Congresso em Foco 2026.",
+      "publicado_em": "2026-08-19T15:15:23-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "bdd8cdd28daa3a96",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Coronel Fernanda é eleita melhor deputada federal de Mato Grosso",
+      "link": "https://www.congressoemfoco.com.br/noticia/121420/coronel-fernanda-e-eleita-melhor-deputada-federal-de-mato-grosso",
+      "resumo": "Parlamentar foi escolhida pelo público como melhor deputada federal do Estado no Prêmio Congresso em Foco 2026.",
+      "publicado_em": "2026-08-19T15:06:58-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
       "id": "293b3c0b80dfae8a",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -7507,6 +8080,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-19T17:18:12-03:00"
+    },
+    {
+      "id": "099e72aed2f934e8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Público escolhe Dr. Francisco como melhor deputado federal do Piauí",
+      "link": "https://www.congressoemfoco.com.br/noticia/121417/publico-escolhe-dr-francisco-como-melhor-deputado-federal-do-piaui",
+      "resumo": "Deputado venceu novamente a votação popular do Prêmio Congresso em Foco como melhor representante do Estado na Câmara.",
+      "publicado_em": "2026-08-19T14:41:20-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
     },
     {
       "id": "4030d766477653fd",
@@ -7553,6 +8143,40 @@
         "acao"
       ],
       "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "b342ff230be59882",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Natália Bonavides é eleita novamente melhor deputada federal do RN",
+      "link": "https://www.congressoemfoco.com.br/noticia/121411/natalia-bonavides-e-eleita-novamente-melhor-deputada-federal-do-rn",
+      "resumo": "Parlamentar foi escolhida pelo público na votação popular do Prêmio Congresso em Foco 2026 e repete vitória do ano passado.",
+      "publicado_em": "2026-08-19T13:08:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
+    },
+    {
+      "id": "576427f7ad7ba32f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "João Daniel vence como melhor deputado federal de Sergipe",
+      "link": "https://www.congressoemfoco.com.br/noticia/121407/joao-daniel-vence-como-melhor-deputado-federal-de-sergipe",
+      "resumo": "Escolhido pelo público na votação popular do Prêmio Congresso em Foco 2026, parlamentar está em seu terceiro mandato consecutivo na Câmara.",
+      "publicado_em": "2026-08-19T12:46:35-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-08-26T08:34:10-03:00"
     },
     {
       "id": "65448f76cd2964ea",
