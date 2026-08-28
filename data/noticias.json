@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-27T21:20:07-03:00",
+  "gerado_em": "2026-08-27T22:51:14-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,15 +154,15 @@
     },
     {
       "id": "pgfn",
-      "status": "ok",
-      "itens": 29,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /pgfn/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "senado",
-      "status": "ok",
-      "itens": 19,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www12.senado.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www12.senado"
     },
     {
       "id": "camara",
@@ -172,21 +172,21 @@
     },
     {
       "id": "receita_federal",
-      "status": "ok",
-      "itens": 3,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /receitafederal/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='"
     },
     {
       "id": "fazenda",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /fazenda/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
     },
     {
       "id": "anpd",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /anpd/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effecti"
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@
     },
     {
       "id": "cvm",
-      "status": "ok",
-      "itens": 1,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cvm/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br'"
     },
     {
       "id": "bacen",
