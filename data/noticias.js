@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-27T17:56:35-03:00",
+  "gerado_em": "2026-08-27T21:20:07-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -300,6 +300,23 @@ window.DADOS = {
       "coletado_em": "2026-08-27T17:56:35-03:00"
     },
     {
+      "id": "063bbeb67b79ee9b",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Correios homenageiam os 40 anos do TRT-15 com lançamento de selo comemorativo",
+      "link": "https://trt15.jus.br/noticia/2026/correios-homenageiam-os-40-anos-do-trt-15-com-lancamento-de-selo-comemorativo",
+      "resumo": "Correios homenageiam os 40 anos do TRT-15 com lançamento de selo comemorativo anasiqueira Qui, 27/08/2026 - 19:14 Correios homenageiam os 40 anos do TRT-15 com lançamento de selo comemorativo Conteúdo da Notícia A Empresa Brasileira de Correios e Telégrafos realizou nesta quinta-feira, 27/8, a cerim",
+      "publicado_em": "2026-08-27T19:14:27-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 4,
+      "tags": [
+        "homenageia",
+        "comemora"
+      ],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
       "id": "44d079c8b2bc6a29",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -349,6 +366,68 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-27T17:56:35-03:00"
+    },
+    {
+      "id": "1111325cdf9536ec",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP sedia II Encontro Direito LGBTQIA+ e Justiça",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115153&pagina=1",
+      "resumo": "Evento segue nesta sexta, na EPM.\n\tA concretização de direitos, o combate à discriminação e a articulação entre as instituições foram a tônica da abertura II",
+      "publicado_em": "2026-08-27T12:00:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "b7bd895e4221971a",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "eproc: novo Núcleo de Automação e Pesquisas Especializadas otimiza buscas em sistemas nacionais com uso de robôs",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115150&pagina=1",
+      "resumo": "Modelo realiza até 50 consultas por minuto.\n\tO Tribunal de Justiça de São Paulo implanta, em setembro, o Núcleo de Automação e Pesquisas Especializadas (Nape), nova",
+      "publicado_em": "2026-08-27T12:00:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "da4ccaa0a9db4d74",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP participa de evento alusivo ao mês de combate à violência contra a mulher",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115148&pagina=1",
+      "resumo": "Encontro com representantes de entidades e rede de atendimento.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, participou, hoje (27),",
+      "publicado_em": "2026-08-27T12:00:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "716c31110eab927f",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF começa a discutir limites para acesso a dados sigilosos em investigações",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-comeca-a-discutir-limites-para-acesso-a-dados-sigilosos-em-investigacoes/",
+      "resumo": "Ações tratam de acesso a registros de usuários de internet e prerrogativa de delegados de requisitar perícias, documentos, informações e dados necessários à apuração dos fatos",
+      "publicado_em": "2026-08-27T20:37:34-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
     },
     {
       "id": "c418103c15735da2",
@@ -431,6 +510,76 @@ window.DADOS = {
       "coletado_em": "2026-08-27T17:56:35-03:00"
     },
     {
+      "id": "f3e9d8814290aca8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CRA analisa projeto de lei que institui o Dia Nacional da Cachaça",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/cra-analisa-projeto-de-lei-que-institui-o-dia-nacional-da-cachaca",
+      "resumo": "",
+      "publicado_em": "2026-08-27T19:50:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "a5ac870b393c808a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado pode votar na próxima semana incentivos fiscais para data centers",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/27/senado-pode-votar-na-proxima-semana-incentivos-fiscais-para-data-centers",
+      "resumo": "",
+      "publicado_em": "2026-08-27T19:15:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "7e0466ad816eee67",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Crédito para motociclistas profissionais começa a ser analisado no Congresso",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/27/credito-para-motociclistas-profissionais-comeca-a-ser-analisado-no-congresso",
+      "resumo": "",
+      "publicado_em": "2026-08-27T18:23:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "049f2574411cba1a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PEC da Segurança Pública está entre as prioridades do esforço concentrado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/27/pec-da-seguranca-publica-esta-entre-as-prioridades-do-esforco-concentrado",
+      "resumo": "",
+      "publicado_em": "2026-08-27T18:14:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "328bce4375fbdf27",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado analisa PL dos Minerais Críticos, que prevê R$ 7 bi em investimentos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/27/senado-analisa-pl-dos-minerais-criticos-que-preve-r-7-bi-em-investimentos",
+      "resumo": "",
+      "publicado_em": "2026-08-27T18:02:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
       "id": "6a6e0d43ed2658a3",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -505,6 +654,22 @@ window.DADOS = {
         "recurso"
       ],
       "coletado_em": "2026-08-27T17:56:35-03:00"
+    },
+    {
+      "id": "5720bc3f63cea4e0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão de Orçamento analisará MP que libera recursos para subsidiar combustíveis",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/comissao-de-orcamento-analisara-mp-que-libera-recursos-para-subsidiar-combustiveis",
+      "resumo": "",
+      "publicado_em": "2026-08-27T13:01:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
     },
     {
       "id": "90bfe01c860daaa8",
@@ -639,6 +804,62 @@ window.DADOS = {
       "coletado_em": "2026-08-27T17:56:35-03:00"
     },
     {
+      "id": "54a4a6600a470372",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Anvisa: anéis inteligentes não devem ser usados para diagnosticar doenças",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/aneis-inteligentes-nao-devem-ser-usados-para-diagnosticar-doencas",
+      "resumo": "",
+      "publicado_em": "2026-08-27T19:59:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "9b3f2f9bb505b27f",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "SUS vai oferecer medicamentos novos para doenças como o mal de Crohn e uveites",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/cit-pactua-politica-nacional-de-informacao-e-saude-digital-e-amplia-oferta-de-medicamentos-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-08-27T18:55:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "0c8771910445d63b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "IBGE: desemprego cai no trimestre encerrado em julho. Emprego CLT é o maior da série",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/ibge-desemprego-recua-para-5-3-no-trimestre-encerrado-em-julho",
+      "resumo": "",
+      "publicado_em": "2026-08-27T18:40:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-27T17:56:35-03:00"
+    },
+    {
+      "id": "c50b8d77954bd683",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Setor de serviços paga R$ 644,2 bilhões em salários para 15,9 milhões de pessoas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/em-2024-setor-de-servicos-pagou-r-r-644-2-bi-em-salarios-para-15-9-milhoes-de-pessoas",
+      "resumo": "",
+      "publicado_em": "2026-08-27T18:36:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
       "id": "5312f1117ad26614",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -673,15 +894,15 @@ window.DADOS = {
       "id": "4095c43090e62e84",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Desenrola Fies: prazo para adesão termina em 31 de agosto",
+      "titulo": "Programa de renegociação de dívidas estudantis: adesão termina em 31 de agosto",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/desenrola-fies-prazo-para-adesao-termina-em-31-de-agosto",
       "resumo": "",
       "publicado_em": "2026-08-27T15:31:00-03:00",
       "dia": "2026-08-27",
       "data_estimada": false,
-      "score": 52,
+      "score": 46,
       "tags": [
-        "prazo"
+        "acao"
       ],
       "coletado_em": "2026-08-27T17:56:35-03:00"
     },
@@ -732,18 +953,18 @@ window.DADOS = {
       "coletado_em": "2026-08-27T17:56:35-03:00"
     },
     {
-      "id": "0c8771910445d63b",
+      "id": "84d62f529e67159a",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "IBGE: desemprego cai no trimestre encerrado em julho. Emprego CLT é o maior da série",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/ibge-desemprego-recua-para-5-3-no-trimestre-encerrado-em-julho",
+      "titulo": "Pronatec abre cursos profissionalizantes gratuitos na área ambiental",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/pronatec-tem-mais-de-2-mil-vagas-verdes-para-qualificacao-profissional",
       "resumo": "",
-      "publicado_em": "2026-08-27T11:42:00-03:00",
+      "publicado_em": "2026-08-27T13:13:00-03:00",
       "dia": "2026-08-27",
       "data_estimada": false,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-08-27T17:56:35-03:00"
+      "coletado_em": "2026-08-27T21:20:07-03:00"
     },
     {
       "id": "d95305cebb5c8ad3",
@@ -834,10 +1055,57 @@ window.DADOS = {
       "coletado_em": "2026-08-27T17:56:35-03:00"
     },
     {
+      "id": "05d4cb1cb1eac9ff",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Governo Central registrou superávit primário de R$ 10,8 bilhões em julho, aponta balanço do Tesouro Nacional",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/governo-central-registrou-superavit-primario-de-r-10-8-bilhoes-em-julho-aponta-balanco-do-tesouro-nacional",
+      "resumo": "",
+      "publicado_em": "2026-08-27T12:00:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "63300a485d9d4b09",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Marcos Rogério propõe voto de aplauso e solidariedade a Lito Sousa",
+      "link": "https://www.congressoemfoco.com.br/noticia/121741/marcos-rogerio-propoe-voto-de-aplauso-e-solidariedade-a-lito-sousa",
+      "resumo": "Requerimento reconhece trabalho de Lito Sousa na divulgação da segurança de voo e manifesta apoio ao influenciador no combate a doença rara.",
+      "publicado_em": "2026-08-27T18:15:23-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "acao",
+        "solidariedade"
+      ],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "e55a0df52a6c8048",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PDT retira candidatura ao Senado em MG e tenta viabilizar Aécio Neves",
+      "link": "https://www.congressoemfoco.com.br/noticia/121740/pdt-retira-candidatura-ao-senado-em-mg-e-tenta-viabilizar-aecio-neves",
+      "resumo": "Aécio havia descartado disputar as eleições, mas aliados tucanos e pedetistas mantêm articulação por sua candidatura.",
+      "publicado_em": "2026-08-27T17:52:24-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
       "id": "6c2c6afe6b71d413",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "Gustavo Gayer pede informações a Ministérios sobre caso Lito Souza",
+      "titulo": "Gustavo Gayer pede informações a Ministérios sobre caso Lito Sousa",
       "link": "https://www.congressoemfoco.com.br/noticia/121739/gustavo-gayer-pede-informacoes-a-ministerios-sobre-caso-lito-souza",
       "resumo": "Líder da minoria questiona o governo sobre medidas adotadas para auxiliar pacientes que necessitam de tratamentos no exterior.",
       "publicado_em": "2026-08-27T17:18:14-03:00",
@@ -876,6 +1144,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-27T17:56:35-03:00"
+    },
+    {
+      "id": "25f082144a18f52b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deepfakes: a ameaça que já chegou às eleições de 2026",
+      "link": "https://www.congressoemfoco.com.br/artigo/121736/deepfakes-a-ameaca-que-ja-chegou-as-eleicoes-de-2026",
+      "resumo": "Pesquisa mostra que 72% dos brasileiros acreditam reconhecer conteúdos manipulados por IA, mas avanço da tecnologia torna identificação cada vez mais difícil.",
+      "publicado_em": "2026-08-27T16:21:22-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
     },
     {
       "id": "b29b6ff70de50714",
@@ -1285,6 +1569,52 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-27T17:56:35-03:00"
+    },
+    {
+      "id": "9e046a7304eec4cd",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto torna obrigatória advertência sobre maus-tratos em embalagens de ração",
+      "link": "https://www.camara.leg.br/noticias/1299831-projeto-torna-obrigatoria-advertencia-sobre-maus-tratos-em-embalagens-de-racao",
+      "resumo": "",
+      "publicado_em": "2026-08-27T19:06:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "379ea7ce856b753f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão pode votar na próxima quarta parecer sobre mudanças no Código de Trânsito",
+      "link": "https://www.camara.leg.br/noticias/1295691-comissao-pode-votar-na-proxima-quarta-parecer-sobre-mudancas-no-codigo-de-transito",
+      "resumo": "",
+      "publicado_em": "2026-08-27T18:07:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "701b23932c388f82",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto permite deduzir compra de aparelho auditivo do Imposto de Renda",
+      "link": "https://www.camara.leg.br/noticias/1300318-projeto-permite-deduzir-compra-de-aparelho-auditivo-do-imposto-de-renda",
+      "resumo": "",
+      "publicado_em": "2026-08-27T18:01:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-08-27T21:20:07-03:00"
     },
     {
       "id": "179e9cfcef9a007c",
