@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-28T22:15:16-03:00",
+  "gerado_em": "2026-08-28T23:37:30-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@ window.DADOS = {
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -1491,6 +1491,150 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-28T22:15:16-03:00"
+    },
+    {
+      "id": "fba0f6cc8defbc42",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto exige aval da Anac para troca de aviões por modelos menores em rotas regionais",
+      "link": "https://www.camara.leg.br/noticias/1300590-projeto-exige-aval-da-anac-para-troca-de-avioes-por-modelos-menores-em-rotas-regionais",
+      "resumo": "",
+      "publicado_em": "2026-08-28T19:31:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-28T23:37:30-03:00"
+    },
+    {
+      "id": "01128ddaeb2408fa",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto libera venda intermunicipal e interestadual de alimentos artesanais da agricultura familiar",
+      "link": "https://www.camara.leg.br/noticias/1300585-projeto-libera-venda-intermunicipal-e-interestadual-de-alimentos-artesanais-da-agricultura-familiar",
+      "resumo": "",
+      "publicado_em": "2026-08-28T18:31:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-28T23:37:30-03:00"
+    },
+    {
+      "id": "504bf9cebe603bd9",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria regras para publicidade de anabolizantes e exige alertas sobre riscos à saúde",
+      "link": "https://www.camara.leg.br/noticias/1299853-projeto-cria-regras-para-publicidade-de-anabolizantes-e-exige-alertas-sobre-riscos-a-saude",
+      "resumo": "",
+      "publicado_em": "2026-08-28T18:18:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-28T23:37:30-03:00"
+    },
+    {
+      "id": "d16a3367b5ea7ff5",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eleição para deputado federal mobiliza R$ 982 milhões em recursos",
+      "link": "https://www.camara.leg.br/noticias/1301013-eleicao-para-deputado-federal-mobiliza-r-982-milhoes-em-recursos",
+      "resumo": "",
+      "publicado_em": "2026-08-28T17:09:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-08-28T23:37:30-03:00"
+    },
+    {
+      "id": "76baf135d863e08e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei reduz tributos sobre combustíveis e prevê incentivos para fertilizantes",
+      "link": "https://www.camara.leg.br/noticias/1301020-nova-lei-reduz-tributos-sobre-combustiveis-e-preve-incentivos-para-fertilizantes",
+      "resumo": "",
+      "publicado_em": "2026-08-28T16:47:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-28T23:37:30-03:00"
+    },
+    {
+      "id": "0a1f3d074c56751e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara terá semana de esforço concentrado com votações a partir desta segunda-feira",
+      "link": "https://www.camara.leg.br/noticias/1301089-camara-tera-semana-de-esforco-concentrado-com-votacoes-a-partir-desta-segunda-feira",
+      "resumo": "",
+      "publicado_em": "2026-08-28T16:16:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-28T23:37:30-03:00"
+    },
+    {
+      "id": "d2e9a26566c08ccf",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova MP que destina crédito a profissionais do transporte e inclui transporte escolar",
+      "link": "https://www.camara.leg.br/noticias/1300973-comissao-aprova-mp-que-destina-credito-a-profissionais-do-transporte-e-inclui-transporte-escolar",
+      "resumo": "",
+      "publicado_em": "2026-08-28T14:48:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-08-28T23:37:30-03:00"
+    },
+    {
+      "id": "a8ed0da7bba5a773",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão vota na segunda-feira MP que acaba com \"taxa das blusinhas” para compras de até 50 dólares",
+      "link": "https://www.camara.leg.br/noticias/1301026-comissao-vota-na-segunda-feira-mp-que-acaba-com-taxa-das-blusinhas-para-compras-de-ate-50-dolares",
+      "resumo": "",
+      "publicado_em": "2026-08-28T14:14:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-28T23:37:30-03:00"
+    },
+    {
+      "id": "f440bdcc09528e93",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política nacional para garantir atenção integral a atletas de base",
+      "link": "https://www.camara.leg.br/noticias/1300936-projeto-cria-politica-nacional-para-garantir-atencao-integral-a-atletas-de-base",
+      "resumo": "",
+      "publicado_em": "2026-08-28T13:37:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-28T23:37:30-03:00"
+    },
+    {
+      "id": "f0a7ead1b7874697",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto agrava pena de criminoso que fingir ser pastor religioso",
+      "link": "https://www.camara.leg.br/noticias/1300331-projeto-agrava-pena-de-criminoso-que-fingir-ser-pastor-religioso",
+      "resumo": "",
+      "publicado_em": "2026-08-28T12:51:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-28T23:37:30-03:00"
     },
     {
       "id": "1330b6ce4c729a15",
