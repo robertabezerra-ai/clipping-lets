@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-28T20:58:47-03:00",
+  "gerado_em": "2026-08-28T22:15:16-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -1444,6 +1444,53 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-28T18:19:59-03:00"
+    },
+    {
+      "id": "fb5ef4f0a09bf999",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Presidente do CNJ lança no MS painel e estudos sobre violência contra mulheres e meninas",
+      "link": "https://www.cnj.jus.br/presidente-do-cnj-lanca-no-ms-painel-e-estudos-sobre-violencia-contra-mulheres-e-meninas/",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, afirmou, nesta sexta-feira (28/8), que é preciso quantificar o custo da violência contra as mulheres e meninas brasileiras. Por este motivo, ele anunciou que o CNJ está finalizando um ",
+      "publicado_em": "2026-08-28T12:00:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-28T22:15:16-03:00"
+    },
+    {
+      "id": "f3ce79aae891c36e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pena Justa Mulheres quer fortalecer ações específicas privadas de liberdade e egressas",
+      "link": "https://www.cnj.jus.br/cnj-lanca-pena-justa-mulheres-para-fortalecer-acoes-especificas-para-esse-publico/",
+      "resumo": "O presidente do CNJ e do Supremo Tribunal Federal (STF), ministro Edson Fachin, e a conselheira Jaceguara Dantas lançaram nesta sexta-feira (28/8) o Pena Justa Mulheres, estratégia que incorpora um olhar sobre a situação desse público nas ações do plano Pena Justa. Desde 2000, a população prisional ",
+      "publicado_em": "2026-08-28T12:00:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-28T22:15:16-03:00"
+    },
+    {
+      "id": "49ea5bf8d3c76f79",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Encontro promove combate à discriminação e acesso à Justiça para população LGBTQIA+",
+      "link": "https://www.cnj.jus.br/encontro-promove-combate-a-discriminacao-e-acesso-a-justica-para-populacao-lgbtqia/",
+      "resumo": "Representantes do Sistema de Justiça, da academia, do poder público e da sociedade civil se reuniram em São Paulo para o II Encontro Direito LGBTQIA+ e Justiça, iniciativa para discutir estratégias de enfrentamento à discriminação e de ampliação do acesso à Justiça para a população LGBTQIA+. O encon",
+      "publicado_em": "2026-08-28T12:00:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-28T22:15:16-03:00"
     },
     {
       "id": "1330b6ce4c729a15",
