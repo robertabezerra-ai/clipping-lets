@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-28T18:19:59-03:00",
+  "gerado_em": "2026-08-28T20:58:47-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -389,6 +389,51 @@
         "acao"
       ],
       "coletado_em": "2026-08-28T18:19:59-03:00"
+    },
+    {
+      "id": "cb9f17d1497e5eaf",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "II Encontro LGBTQIA+ e Justiça é concluído na EPM",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115165&pagina=1",
+      "resumo": "Debates para promoção e proteção de direitos.\n \n\tCom painéis e oficinas, foi encerrado hoje (28) o II Encontro LGBTQIA+ e Justiça, promovido pelo Conselho Nacional",
+      "publicado_em": "2026-08-28T12:00:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-28T20:58:47-03:00"
+    },
+    {
+      "id": "df24a57bd84f11c1",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115162&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, reuniu-se, hoje (28), no Gabinete",
+      "publicado_em": "2026-08-28T12:00:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-28T20:58:47-03:00"
+    },
+    {
+      "id": "a89ab80e08785e0a",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira os destaques da pauta do Plenário para setembro",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-da-pauta-do-plenario-para-setembro/",
+      "resumo": "Julgamentos previstos envolvem temas como licença-maternidade, planos de saúde, tributos, acesso a dados sigilosos e recusa de transfusão de sangue",
+      "publicado_em": "2026-08-28T19:59:41-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-08-28T20:58:47-03:00"
     },
     {
       "id": "bd3419b5f00b9edb",
@@ -801,6 +846,22 @@
         "apreende"
       ],
       "coletado_em": "2026-08-28T18:19:59-03:00"
+    },
+    {
+      "id": "b2b43ee22c748661",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Pós-graduação em direitos digitais e segurança cibernética prorroga inscrições",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/pos-graduacao-em-direitos-digitais-e-seguranca-cibernetica-prorroga-inscricoes",
+      "resumo": "",
+      "publicado_em": "2026-08-28T12:00:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-28T20:58:47-03:00"
     },
     {
       "id": "6fda657d766487cd",
