@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-31T14:57:26-03:00",
+  "gerado_em": "2026-08-31T17:44:37-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -296,6 +296,23 @@ window.DADOS = {
       "coletado_em": "2026-08-31T14:57:26-03:00"
     },
     {
+      "id": "a9cb263dd321f469",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Abertura da 2ª Semana Nacional de Precedentes Trabalhistas une toda a Justiça do Trabalho",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/abertura-da-2a-semana-nacional-de-precedentes-trabalhistas-une-toda-a-justica-do-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-08-31T12:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "precedente",
+        "trabalhista"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
       "id": "117f3c14fc7bf98b",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -364,6 +381,38 @@ window.DADOS = {
       "coletado_em": "2026-08-31T14:57:26-03:00"
     },
     {
+      "id": "f68c0f4f0fffbf0e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF publica Inventário de Emissões de Gases de Efeito Estufa de 2025",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-publica-inventario-de-emissoes-de-gases-de-efeito-estufa-de-2025/",
+      "resumo": "Levantamento aprimora diagnóstico das emissões do Supremo e orienta ações de descarbonização",
+      "publicado_em": "2026-08-31T16:38:19-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "e30df167ea6f7636",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Atividades jurídicas de autarquias e fundações de SC devem ser exercidas pela procuradoria do estado, decide STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/atividades-juridicas-de-autarquias-e-fundacoes-de-sc-devem-ser-exercidas-pela-procuradoria-do-estado-decide-stf/",
+      "resumo": "Plenário aplicou entendimento de que atividade é atribuição da Procuradoria-Geral do estado e não pode ser exercida por estrutura paralela",
+      "publicado_em": "2026-08-31T15:54:12-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decide"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
       "id": "2ad4f1ceca059cbd",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -412,6 +461,136 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-31T14:57:26-03:00"
+    },
+    {
+      "id": "8bfe3bf7ea827cc7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Hermes Klann defende negociação em vez de PEC que acaba com jornada 6x1",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/31/hermes-klann-defende-negociacao-em-vez-de-pec-que-acaba-com-a-jornada-6x1",
+      "resumo": "",
+      "publicado_em": "2026-08-31T17:16:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "adc323f5954f623b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Acordos internacionais estão na pauta do Plenário nesta quinta",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/31/acordos-internacionais-estao-na-pauta-do-plenario-nesta-quinta",
+      "resumo": "",
+      "publicado_em": "2026-08-31T16:47:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "d4b8c2c2594d5bb3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Para Confúcio Moura, é preciso alterar modelo de financiamento eleitoral",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/31/para-confucio-moura-e-preciso-alterar-modelo-de-financiamento-eleitoral",
+      "resumo": "",
+      "publicado_em": "2026-08-31T16:37:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "accb5b4fb6685fae",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado deve escolher substituto de Bruno Dantas no TCU",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/31/senado-deve-escolher-substituto-de-bruno-dantas-no-tcu",
+      "resumo": "",
+      "publicado_em": "2026-08-31T16:24:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "5570316abf4e0dc5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Renúncia de Bruno Dantas abre vaga para indicação do Senado ao TCU",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/renuncia-de-bruno-dantas-abre-vaga-para-indicacao-do-senado-ao-tcu",
+      "resumo": "",
+      "publicado_em": "2026-08-31T16:14:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "a256806e14720d30",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Paulo Paim, sobre fim da escala 6x1: ‘Estamos diante de uma semana histórica’",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/31/paulo-paim-sobre-fim-da-escala-6x1-2018estamos-diante-de-uma-semana-historica2019",
+      "resumo": "",
+      "publicado_em": "2026-08-31T15:48:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "5322d00e4eb813ad",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto mapeia vulnerabilidade educacional para reduzir desigualdades",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/projeto-mapeia-vulnerabilidade-educacional-para-reduzir-desigualdades",
+      "resumo": "",
+      "publicado_em": "2026-08-31T15:13:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "127d1341893f0e96",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pauta do Plenário de quarta inclui minerais críticos e Estatuto do Aprendiz",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/31/pauta-do-plenario-do-senado-inclui-minerais-criticos-e-estatuto-do-aprendiz",
+      "resumo": "",
+      "publicado_em": "2026-08-31T15:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "56160c59d8452190",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CSP avalia porte de armas para mulheres com medida protetiva",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/csp-avalia-porte-de-armas-para-mulheres-com-medida-protetiva",
+      "resumo": "",
+      "publicado_em": "2026-08-31T14:56:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
     },
     {
       "id": "3d6662c0db673528",
@@ -651,6 +830,36 @@ window.DADOS = {
       "coletado_em": "2026-08-31T14:57:26-03:00"
     },
     {
+      "id": "ffa4c52ed7c27463",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Policiais federais e estaduais se aprimoram no uso de scanner e IA para barrar objetos ilícitos em presídios",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/policiais-formacao-tecnologia-presidios",
+      "resumo": "",
+      "publicado_em": "2026-08-31T17:35:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "06b6b022c618d75b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Atlas Geoquímico de Minas Gerais relata a concentração de riquezas no solo do estado",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/atlas-geoquimico-de-minas-gerais-reune-dados-sobre-a-distribuicao-de-elementos-quimicos-no-solo-agua-e-sedimentos-sgb",
+      "resumo": "",
+      "publicado_em": "2026-08-31T16:46:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
       "id": "dead52af023bfcb2",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -816,6 +1025,180 @@ window.DADOS = {
       "coletado_em": "2026-08-31T14:57:26-03:00"
     },
     {
+      "id": "5b1e87101803b5bd",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Prazo para renegociação de dívidas nas modalidades Famílias e Fies termina nesta segunda-feira (31/8)",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/prazo-para-renegociacao-de-dividas-nas-modalidades-familias-e-fies-termina-nesta-segunda-feira-31-8",
+      "resumo": "",
+      "publicado_em": "2026-08-31T12:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "30f8397eab59a242",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Toffoli suspende campanha presidencial de Wilson Grassi, do Democrata",
+      "link": "https://www.congressoemfoco.com.br/noticia/121821/toffoli-suspende-campanha-presidencial-de-wilson-grassi-do-democrata",
+      "resumo": "Wilson Grassi é o segundo presidenciável a ter a campanha suspensa por irregularidades nas redes sociais.",
+      "publicado_em": "2026-08-31T17:23:12-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "596b0177a836b291",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula assina decreto de combate ao cambismo digital em ingresso de show",
+      "link": "https://www.congressoemfoco.com.br/noticia/121819/lula-assina-decreto-de-combate-ao-cambismo-digital-em-ingresso-de-show",
+      "resumo": "Medida prevê prevenção contra bots, oferta de água e detalhamento de taxas de serviço.",
+      "publicado_em": "2026-08-31T16:59:44-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decreto"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "69fa23c6aaba9615",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan acusa Toffoli de retaliação por protestos sobre Banco Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/121818/renan-acusa-toffoli-de-retaliacao-por-protestos-sobre-banco-master",
+      "resumo": "Candidato do Missão atribui suspensão da campanha a manifestações que promoveu contra o ministro do STF.",
+      "publicado_em": "2026-08-31T16:41:16-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "7b45c3c2cf2fb5d9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Opositores se manifestam contra suspensão da candidatura de Renan",
+      "link": "https://www.congressoemfoco.com.br/noticia/121817/opositores-se-manifestam-contra-suspensao-da-candidatura-de-renan",
+      "resumo": "Flávio Bolsonaro deseja que presidenciável retome candidatura; partido Novo classificou a medida como \"absurda\".",
+      "publicado_em": "2026-08-31T16:17:42-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "58da369571664d74",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "iFood aciona Cade contra a Keeta por praticar preços predatórios",
+      "link": "https://www.congressoemfoco.com.br/noticia/121816/ifood-aciona-cade-contra-a-keeta-por-praticar-precos-predatorios",
+      "resumo": "Segundo a representação, a própria Meituan declarou apoio, na China, ao impedimentos dessas práticas que tem aplicado no Brasil.",
+      "publicado_em": "2026-08-31T15:20:39-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "857718a21712bab1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A regulamentação da CBS e o risco oculto para cooperativas médicas",
+      "link": "https://www.congressoemfoco.com.br/artigo/121815/a-regulamentacao-da-cbs-e-o-risco-oculto-para-cooperativas-medicas",
+      "resumo": "Novo regime da CBS abre controvérsia sobre dedução de repasses a médicos e dentistas e pode elevar significativamente a carga tributária das cooperativas.",
+      "publicado_em": "2026-08-31T15:10:17-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "regulamenta",
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "b90670f20c8e7a86",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Tereza Cristina propõe mudanças no projeto sobre minerais críticos",
+      "link": "https://www.congressoemfoco.com.br/noticia/121814/tereza-cristina-propoe-mudancas-no-projeto-sobre-minerais-criticos",
+      "resumo": "Única senadora a apresentar emendas até agora, ex-ministra quer delimitar atribuições do novo conselho, reforçar autonomia tecnológica e detalhar critérios para definir minerais críticos.",
+      "publicado_em": "2026-08-31T15:09:27-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "b6d8a268e533f380",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Kim apresenta projeto contra exigência de diploma para jornalistas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121813/kim-apresenta-projeto-contra-exigencia-de-diploma-para-jornalistas",
+      "resumo": "Além do ensino superior, texto também transforma o registro profissional em instrumento facultativo e de caráter apenas declaratório.",
+      "publicado_em": "2026-08-31T15:03:23-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "diploma"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "eff1f0dd636bcc79",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Hugo Leal apresenta substitutivo que muda regras para pontos na CNH",
+      "link": "https://www.congressoemfoco.com.br/noticia/121812/hugo-leal-apresenta-substitutivo-que-muda-regras-para-pontos-na-cnh",
+      "resumo": "Texto do relator Hugo Leal retira pontos de infrações administrativas e altera regras para concessão e cancelamento da habilitação.",
+      "publicado_em": "2026-08-31T14:55:18-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "64079b5dcb0d14e6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A corrida contra o novo ITCMD",
+      "link": "https://www.congressoemfoco.com.br/artigo/121811/a-corrida-contra-o-novo-itcmd",
+      "resumo": "Novas regras do ITCMD tornam 2026 relevante para o planejamento sucessório, mas doações exigem avaliar outros tributos, liquidez e segurança patrimonial.",
+      "publicado_em": "2026-08-31T14:44:16-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "novas regras"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
       "id": "1df628232ba0ae70",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -832,6 +1215,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-31T14:57:26-03:00"
+    },
+    {
+      "id": "42f12585609fff7c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sâmia Bomfim aciona MPT contra Luciano Hang por fala sobre escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/121809/samia-bomfim-aciona-mpt-contra-luciano-hang-por-fala-sobre-escala-6x1",
+      "resumo": "Deputada acusa empresário de divulgar informações falsas e de assediar funcionários da Havan ao criticar redução da jornada.",
+      "publicado_em": "2026-08-31T14:32:21-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
     },
     {
       "id": "6542267b7622a9df",
@@ -896,6 +1293,23 @@ window.DADOS = {
         "imposto"
       ],
       "coletado_em": "2026-08-31T14:57:26-03:00"
+    },
+    {
+      "id": "736e53e65a8f0f45",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O dinheiro das eleições tem 72 horas para aparecer",
+      "link": "https://www.congressoemfoco.com.br/artigo/121803/o-dinheiro-das-eleicoes-tem-72-horas-para-aparecer",
+      "resumo": "O Painel do 72horas.org acompanha os repasses às campanhas a partir do prazo legal para que partidos e candidatos informem à Justiça Eleitoral os recursos recebidos.",
+      "publicado_em": "2026-08-31T12:43:50-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "prazo",
+        "recurso"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
     },
     {
       "id": "fdcbb7831d85bd0b",
@@ -1138,7 +1552,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Quem defende direitos humanos também precisa ser protegido",
       "link": "https://www.cnj.jus.br/quem-defende-direitos-humanos-tambem-precisa-ser-protegido/",
-      "resumo": "Lideranças indígenas, quilombolas e camponesas, ambientalistas e integrantes de movimentos sociais estão entre as pessoas que atuam na defesa de direitos e que, em diferentes contextos, podem ser alvo de ameaças, violência e criminalização. A proteção desses defensores é reconhecida como fundamental",
+      "resumo": "Lideranças indígenas, quilombolas e camponesas, ambientalistas e integrantes de movimentos sociais estão entre as pessoas que atuam na defesa de direitos humanos, as quais, em diferentes contextos, podem ser alvo de ameaças, violência e criminalização. A proteção desses defensores é reconhecida como",
       "publicado_em": "2026-08-31T12:00:00-03:00",
       "dia": "2026-08-31",
       "data_estimada": true,
@@ -1154,13 +1568,61 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Primeiro ano do Pena Justa tem avanços em 127 indicadores",
       "link": "https://www.cnj.jus.br/primeiro-ano-do-pena-justa-tem-avancos-em-127-indicadores/",
-      "resumo": "Mais da metade dos 244 indicadores avaliados no primeiro ano de execução do Plano Pena Justa, considerando o período de janeiro a dezembro de 2025, apresentou avanço. As informações constam no Segundo Informe de Monitoramento ao Supremo Tribunal Federal (STF), que será enviado à Corte pelo Conselho ",
+      "resumo": "Mais da metade dos 244 indicadores avaliados no primeiro ano de execução do Plano Pena Justa, considerando o período de janeiro a dezembro de 2025, apresentou avanço. As informações constam no II Informe de Monitoramento ao Supremo Tribunal Federal (STF), que será enviado à Corte pelo Conselho Nacio",
       "publicado_em": "2026-08-31T12:00:00-03:00",
       "dia": "2026-08-31",
       "data_estimada": true,
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-31T14:57:26-03:00"
+    },
+    {
+      "id": "5858cead10f16909",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Maturidade em tecnologia da informação no Judiciário alcança média histórica com 90,3 pontos",
+      "link": "https://www.cnj.jus.br/maturidade-em-tecnologia-da-informacao-no-judiciario-alcanca-media-historica-com-903-pontos/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) divulga, nesta segunda-feira (31/8), os resultados do Índice de Governança, Gestão e Infraestrutura de Tecnologia da Informação e Comunicação do Poder Judiciário (iGovTIC-JUD) 2026.  No total, foram avaliadas 94 instituições entre tribunais e conselhos, apresenta",
+      "publicado_em": "2026-08-31T12:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "43953f7ce761eb6f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "4º Exame Nacional dos Cartórios abre inscrições nesta segunda-feira (31/8)",
+      "link": "https://www.cnj.jus.br/4o-exame-nacional-dos-cartorios-abre-inscricoes-nesta-segunda-feira-31-8/",
+      "resumo": "Estão abertas, a partir desta segunda-feira (31/8), as inscrições para o 4º Exame Nacional dos Cartórios (Enac), promovido pelo Conselho Nacional de Justiça (CNJ) em parceria com a Fundação Getulio Vargas (FGV). Os interessados têm até as 16h de 29 de setembro para se inscrever, por meio do portal d",
+      "publicado_em": "2026-08-31T12:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "4e67e60600d6c1e9",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ realiza sua 13ª Sessão Ordinária de 2026 nesta terça (1º/9)",
+      "link": "https://www.cnj.jus.br/cnj-realiza-sua-13a-sessao-ordinaria-de-2026-nesta-terca-1o-9/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) deve julgar 12 itens previstos na pauta de sua 13ª Sessão Ordinária de 2026, marcada para o dia 1º de setembro, a partir das 10h. A reunião será transmitida pelo canal do CNJ no YouTube. Serão analisados dois pedidos de providências (PP), seis procedimentos",
+      "publicado_em": "2026-08-31T12:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "julga"
+      ],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
     },
     {
       "id": "1b35f53e604e4986",
@@ -1178,6 +1640,34 @@ window.DADOS = {
         "seminario"
       ],
       "coletado_em": "2026-08-31T14:57:26-03:00"
+    },
+    {
+      "id": "d2f3b69a7a63201c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto exige alerta em produtos infantis sobre substâncias que afetam hormônios",
+      "link": "https://www.camara.leg.br/noticias/1301331-projeto-exige-alerta-em-produtos-infantis-sobre-substancias-que-afetam-hormonios",
+      "resumo": "",
+      "publicado_em": "2026-08-31T16:35:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "b9b5033112867386",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto responsabiliza governadores e prefeitos por corrupção de subordinados",
+      "link": "https://www.camara.leg.br/noticias/1301307-projeto-responsabiliza-governadores-e-prefeitos-por-corrupcao-de-subordinados",
+      "resumo": "",
+      "publicado_em": "2026-08-31T15:18:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T17:44:37-03:00"
     },
     {
       "id": "84642b1cedc269f0",
@@ -1411,9 +1901,9 @@ window.DADOS = {
       "id": "9e4413b4bff2e79e",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "“Toda menina e toda mulher têm direito a uma vida livre de violência”, afirma Fachin em visita a aldeia indígena",
+      "titulo": "“Toda menina e toda mulher têm direito a uma vida livre de violência”, afirma Fachin em visita à aldeia indígena",
       "link": "https://www.cnj.jus.br/toda-menina-e-toda-mulher-tem-direito-a-uma-vida-livre-de-violencia-afirma-fachin-em-visita-a-aldeia-indigena/",
-      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Edson Fachin, inaugurou neste sábado (29/8) o PID Indígena – Ponto de Inclusão Digital: Justiça, Cidadania e Segurança – da Reserva Indígena de Dourados (MS), da Aldeia Jaguapiru. No território vivem, pr",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Edson Fachin, inaugurou neste sábado (29/8) o PID Indígena — Ponto de Inclusão Digital: Justiça, Cidadania e Segurança — da Reserva Indígena de Dourados (MS), na Aldeia Jaguapiru. No território vivem, pr",
       "publicado_em": "2026-08-29T12:00:00-03:00",
       "dia": "2026-08-29",
       "data_estimada": true,
@@ -2714,9 +3204,9 @@ window.DADOS = {
       "id": "fb5ef4f0a09bf999",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Presidente do CNJ lança no MS painel e estudos sobre violência contra mulheres e meninas",
+      "titulo": "Presidente do CNJ lança no MS Painel Nacional e estudos sobre violência contra mulheres e meninas",
       "link": "https://www.cnj.jus.br/presidente-do-cnj-lanca-no-ms-painel-e-estudos-sobre-violencia-contra-mulheres-e-meninas/",
-      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, afirmou, nesta sexta-feira (28/8), que é preciso quantificar o custo da violência contra as mulheres e meninas brasileiras. Por este motivo, ele anunciou que o CNJ está finalizando um ",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Luiz Edson Fachin, afirmou, nesta sexta-feira (28/8), que é preciso quantificar o custo da violência contra as mulheres e meninas brasileiras. Por este motivo, anunciou que o CNJ está finalizando um acor",
       "publicado_em": "2026-08-28T12:00:00-03:00",
       "dia": "2026-08-28",
       "data_estimada": true,
@@ -2744,9 +3234,9 @@ window.DADOS = {
       "id": "49ea5bf8d3c76f79",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Encontro promove combate à discriminação e acesso à Justiça para população LGBTQIA+",
+      "titulo": "Encontro promove combate à discriminação e acesso à Justiça para a população LGBTQIA+",
       "link": "https://www.cnj.jus.br/encontro-promove-combate-a-discriminacao-e-acesso-a-justica-para-populacao-lgbtqia/",
-      "resumo": "Representantes do Sistema de Justiça, da Academia, do poder público e da sociedade civil se reuniram em São Paulo para o II Encontro Direito LGBTQIA+ e Justiça, iniciativa para discutir estratégias de enfrentamento à discriminação e de ampliação do acesso à Justiça para a população LGBTQIA+. O encon",
+      "resumo": "Representantes do sistema de justiça, da academia, do poder público e da sociedade civil se reuniram em São Paulo para o II Encontro Direito LGBTQIA+ e Justiça, iniciativa para discutir estratégias de enfrentamento à discriminação e de ampliação do acesso à Justiça para a população LGBTQIA+. O encon",
       "publicado_em": "2026-08-28T12:00:00-03:00",
       "dia": "2026-08-28",
       "data_estimada": true,
