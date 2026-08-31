@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-31T19:08:04-03:00",
+  "gerado_em": "2026-08-31T20:31:37-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -379,6 +379,52 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-31T14:57:26-03:00"
+    },
+    {
+      "id": "7cab8544509c4e54",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115186&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\tOs integrantes do Conselho Superior da Magistratura, desembargadores Francisco Eduardo Loureiro (presidente), Luís Francisco Aguilar Cortez (vice-presidente), Silvia",
+      "publicado_em": "2026-08-31T12:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T20:31:37-03:00"
+    },
+    {
+      "id": "5e391310490645be",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Juridiquês Não Tem Vez explica funcionamento dos Juizados Especiais Cíveis",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115187&pagina=1",
+      "resumo": "Programa esclarece dúvidas frequentes da população.\n\nO novo episódio do podcast Juridiquês Não Tem Vez apresenta informações sobre o funcionamento dos Juizados Especiais Cíveis e esclarece",
+      "publicado_em": "2026-08-31T12:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T20:31:37-03:00"
+    },
+    {
+      "id": "5ebbe7e3c71371c8",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Associação questiona falta de regra nacional para garantir presença de pessoas com deficiência no serviço público",
+      "link": "https://noticias.stf.jus.br/postsnoticias/associacao-questiona-falta-de-regra-nacional-para-garantir-presenca-de-pessoas-com-deficiencia-no-servico-publico/",
+      "resumo": "ANAPcD sustenta que compromisso constitucional não se esgota com reserva de vagas em concursos e defende adoção de medidas para produzir presença efetiva nos quadros da administração",
+      "publicado_em": "2026-08-31T19:16:49-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T20:31:37-03:00"
     },
     {
       "id": "f68c0f4f0fffbf0e",
@@ -876,6 +922,34 @@ window.DADOS = {
       "coletado_em": "2026-08-31T14:57:26-03:00"
     },
     {
+      "id": "01e848013247454f",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP e Ministério das Mulheres anunciam medidas para enfrentamento à violência contra a mulher",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-ministerio-das-mulheres-anunciam-medidas-para-enfrentamento-a-violencia-contra-a-mulher",
+      "resumo": "",
+      "publicado_em": "2026-08-31T12:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T20:31:37-03:00"
+    },
+    {
+      "id": "924afd17c67e53c8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Novos equipamentos chegam a UBS's e secretarias municipais devem formalizar recebimento",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/secretarias-municipais-de-saude-devem-formalizar-recebimento-de-equipamentos-para-as-unidades-basicas-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-08-31T18:22:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T20:31:37-03:00"
+    },
+    {
       "id": "591f42bfd495d43d",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1118,6 +1192,36 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "abb8fe7169b498f4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto de orçamento de 2027 prevê salário mínimo de R$ 1.741",
+      "link": "https://www.congressoemfoco.com.br/noticia/121825/projeto-de-orcamento-de-2027-preve-salario-minimo-de-r-1-741",
+      "resumo": "Proposta enviada ao Congresso nesta segunda prevê reajuste de 7,4% no salário mínimo e superávit fiscal em 2027.",
+      "publicado_em": "2026-08-31T19:53:42-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T20:31:37-03:00"
+    },
+    {
+      "id": "138e706ab39a13ea",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Comissão mista adia leitura de parecer sobre fim da taxa das blusinhas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121824/comissao-mista-adia-leitura-de-parecer-sobre-fim-da-taxa-das-blusinhas",
+      "resumo": "Presidente e relatora do colegiado buscam consolidar texto que atenda a demanda dos consumidores e do setor produtivo.",
+      "publicado_em": "2026-08-31T19:19:01-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-08-31T20:31:37-03:00"
     },
     {
       "id": "fd8ad3252d66dd5d",
@@ -1748,6 +1852,22 @@ window.DADOS = {
       "coletado_em": "2026-08-31T19:08:04-03:00"
     },
     {
+      "id": "f826e5d78d52f00c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ pune juiz por orientar parte sobre como recorrer de sentença de sua própria autoria",
+      "link": "https://www.cnj.jus.br/cnj-pune-juiz-por-orientar-parte-sobre-como-recorrer-de-sentenca-de-sua-propria-autoria/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) aplicou a pena de censura ao juiz Jailson Shizue Suassuna quando ele atuava como juiz da 14ª Zona Eleitoral de Bananeiras, na Paraíba, por comprometer o dever de imparcialidade ao manter contato com uma das partes de processo sob sua condução e indicar possíveis",
+      "publicado_em": "2026-08-31T12:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-08-31T20:31:37-03:00"
+    },
+    {
       "id": "1b35f53e604e4986",
       "fonte_id": "carf",
       "fonte_nome": "CARF",
@@ -1763,6 +1883,73 @@ window.DADOS = {
         "seminario"
       ],
       "coletado_em": "2026-08-31T14:57:26-03:00"
+    },
+    {
+      "id": "55f28dc38de79df6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova exigência de diploma para o exercício profissional da psicopedagogia",
+      "link": "https://www.camara.leg.br/noticias/1301469-camara-aprova-exigencia-de-diploma-para-o-exercicio-profissional-da-psicopedagogia",
+      "resumo": "",
+      "publicado_em": "2026-08-31T20:19:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "aprova",
+        "diploma"
+      ],
+      "coletado_em": "2026-08-31T20:31:37-03:00"
+    },
+    {
+      "id": "3a5a1adc0212b2de",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova criação de 51 cargos no Tribunal Regional do Trabalho em Fortaleza",
+      "link": "https://www.camara.leg.br/noticias/1301465-camara-aprova-criacao-de-51-cargos-no-tribunal-regional-do-trabalho-em-fortaleza",
+      "resumo": "",
+      "publicado_em": "2026-08-31T19:47:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T20:31:37-03:00"
+    },
+    {
+      "id": "db8147f9336aff7e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova criação de vagas para juiz do trabalho em Porto Alegre",
+      "link": "https://www.camara.leg.br/noticias/1301458-camara-aprova-criacao-de-vagas-para-juiz-do-trabalho-em-porto-alegre",
+      "resumo": "",
+      "publicado_em": "2026-08-31T19:41:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T20:31:37-03:00"
+    },
+    {
+      "id": "66818dc38a5530e2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Plenário inicia sessão com votação de requerimentos de urgência; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1301455-plenario-inicia-sessao-com-votacao-de-requerimentos-de-urgencia-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-08-31T19:27:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T20:31:37-03:00"
     },
     {
       "id": "0d0dcdb5d84e1ab7",
