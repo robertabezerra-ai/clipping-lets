@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-08-31T17:44:37-03:00",
+  "gerado_em": "2026-08-31T19:08:04-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -463,6 +463,36 @@ window.DADOS = {
       "coletado_em": "2026-08-31T14:57:26-03:00"
     },
     {
+      "id": "3c92b6caa4af4834",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Executivo envia Orçamento de 2027 ao Congresso com mínimo de R$ 1.741",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/31/executivo-envia-orcamento-de-2027-ao-congresso-com-minimo-de-r-1.741",
+      "resumo": "",
+      "publicado_em": "2026-08-31T18:33:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T19:08:04-03:00"
+    },
+    {
+      "id": "7d68cc44af832899",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão da MP da taxa das blusinhas remarca apresentação de relatório",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/31/comissao-da-mp-da-taxa-das-blusinhas-remarca-apresentacao-de-relatorio",
+      "resumo": "",
+      "publicado_em": "2026-08-31T18:16:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T19:08:04-03:00"
+    },
+    {
       "id": "8bfe3bf7ea827cc7",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -477,6 +507,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "c28876143fd321b7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Hermes Klann defende negociação em vez de PEC que acaba com escala 6x1",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/31/hermes-klann-defende-negociacao-em-vez-de-pec-que-acaba-com-escala-6x1",
+      "resumo": "",
+      "publicado_em": "2026-08-31T17:16:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T19:08:04-03:00"
     },
     {
       "id": "adc323f5954f623b",
@@ -830,10 +876,42 @@ window.DADOS = {
       "coletado_em": "2026-08-31T14:57:26-03:00"
     },
     {
+      "id": "591f42bfd495d43d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF realiza operação integrada na fronteira entre Brasil e Peru",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/pf-realiza-operacao-integrada-na-fronteira-entre-brasil-e-peru",
+      "resumo": "",
+      "publicado_em": "2026-08-31T18:17:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T19:08:04-03:00"
+    },
+    {
+      "id": "7370864a18acdbfd",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Fies 2026: acompanhe a lista de espera; resposta à convocação em até três dias",
+      "link": "https://agenciagov.ebc.com.br/noticias/202608/fies-2026-saiba-como-acompanhar-a-lista-de-espera",
+      "resumo": "",
+      "publicado_em": "2026-08-31T18:01:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T19:08:04-03:00"
+    },
+    {
       "id": "ffa4c52ed7c27463",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Policiais federais e estaduais se aprimoram no uso de scanner e IA para barrar objetos ilícitos em presídios",
+      "titulo": "Policiais federais e estaduais se aprimoram em tecnologia para barrar objetos ilícitos em presídios",
       "link": "https://agenciagov.ebc.com.br/noticias/202608/policiais-formacao-tecnologia-presidios",
       "resumo": "",
       "publicado_em": "2026-08-31T17:35:00-03:00",
@@ -1040,6 +1118,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "fd8ad3252d66dd5d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Campanha atrasou registro de sites por falha técnica do TSE, diz Renan",
+      "link": "https://www.congressoemfoco.com.br/noticia/121823/campanha-atrasou-registro-de-sites-por-falha-tecnica-do-tse-diz-renan",
+      "resumo": "Candidato do Missão diz que campanha comunicou problemas ao tribunal antes mesmo do pedido de registro da chapa.",
+      "publicado_em": "2026-08-31T18:20:05-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T19:08:04-03:00"
     },
     {
       "id": "30f8397eab59a242",
@@ -1582,7 +1674,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Maturidade em tecnologia da informação no Judiciário alcança média histórica com 90,3 pontos",
       "link": "https://www.cnj.jus.br/maturidade-em-tecnologia-da-informacao-no-judiciario-alcanca-media-historica-com-903-pontos/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) divulga, nesta segunda-feira (31/8), os resultados do Índice de Governança, Gestão e Infraestrutura de Tecnologia da Informação e Comunicação do Poder Judiciário (iGovTIC-JUD) 2026.  No total, foram avaliadas 94 instituições entre tribunais e conselhos, apresenta",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) divulga, nesta segunda-feira (31/8), os resultados do Índice de Governança, Gestão e Infraestrutura de Tecnologia da Informação e Comunicação do Poder Judiciário (iGovTIC-JUD) 2026.  No total, foram avaliadas 94 instituições entre tribunais e conselhos, apresenta",
       "publicado_em": "2026-08-31T12:00:00-03:00",
       "dia": "2026-08-31",
       "data_estimada": true,
@@ -1625,6 +1717,37 @@ window.DADOS = {
       "coletado_em": "2026-08-31T17:44:37-03:00"
     },
     {
+      "id": "323c125d09c3f625",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Oficinas definem propostas debatidas na plenária da XX Jornada Lei Maria da Penha",
+      "link": "https://www.cnj.jus.br/oficinas-definem-propostas-debatidas-na-plenaria-da-xx-jornada-lei-maria-da-penha/",
+      "resumo": "As oficinas da XX Jornada Lei Maria da Penha realizadas na quarta-feira (27/8), em Campo Grande (MS), reuniram mais de 300 participantes, distribuídos em cinco grupos de trabalho. Magistradas, magistrados e profissionais que atuam no enfrentamento à violência contra as mulheres analisaram experiênci",
+      "publicado_em": "2026-08-31T12:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T19:08:04-03:00"
+    },
+    {
+      "id": "6db21818b73892be",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ amplia transparência sobre cumprimento de atos normativos pelos tribunais",
+      "link": "https://www.cnj.jus.br/cnj-amplia-transparencia-sobre-cumprimento-de-atos-normativos-pelos-tribunais/",
+      "resumo": "A garantia de contar com intérprete para que indígenas compreendam o detalhamento de atos processuais em que estejam envolvidos, a realização de perícias antropológicas sobre questões socioculturais que possam esclarecer questões do processo e a qualificação permanente de magistrados e servidores qu",
+      "publicado_em": "2026-08-31T12:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T19:08:04-03:00"
+    },
+    {
       "id": "1b35f53e604e4986",
       "fonte_id": "carf",
       "fonte_nome": "CARF",
@@ -1640,6 +1763,37 @@ window.DADOS = {
         "seminario"
       ],
       "coletado_em": "2026-08-31T14:57:26-03:00"
+    },
+    {
+      "id": "0d0dcdb5d84e1ab7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê oferta de coletores menstruais em programa de dignidade menstrual",
+      "link": "https://www.camara.leg.br/noticias/1301326-projeto-preve-oferta-de-coletores-menstruais-em-programa-de-dignidade-menstrual",
+      "resumo": "",
+      "publicado_em": "2026-08-31T18:21:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-31T19:08:04-03:00"
+    },
+    {
+      "id": "c3bb3a69f0a66092",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão Mista adia para esta terça-feira votação do fim da \"taxa das blusinhas\"",
+      "link": "https://www.camara.leg.br/noticias/1301428-comissao-mista-adia-para-esta-terca-feira-votacao-do-fim-da-taxa-das-blusinhas",
+      "resumo": "",
+      "publicado_em": "2026-08-31T17:51:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T19:08:04-03:00"
     },
     {
       "id": "d2f3b69a7a63201c",
