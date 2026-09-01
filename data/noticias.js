@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-01T15:19:17-03:00",
+  "gerado_em": "2026-09-01T17:15:07-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -334,6 +334,36 @@ window.DADOS = {
       "coletado_em": "2026-09-01T15:19:17-03:00"
     },
     {
+      "id": "208557697fb367f6",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Indisponibilidade do DEJT: confira o cronograma de restabelecimento",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/indisponibilidade-do-dejt-confira-o-cronograma-de-restabelecimento",
+      "resumo": "",
+      "publicado_em": "2026-09-01T12:00:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "e530156831d76805",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Cejusc de Jundiaí encerra com acordo processo de 30 anos",
+      "link": "https://trt15.jus.br/noticia/2026/cejusc-de-jundiai-encerra-com-acordo-processo-de-30-anos",
+      "resumo": "Cejusc de Jundiaí encerra com acordo processo de 30 anos marianaaassuncao Ter, 01/09/2026 - 15:53 Cejusc de Jundiaí encerra com acordo processo de 30 anos Conteúdo da Notícia Depois de 30 anos, encerrou com acordo no dia 3 de agosto, em sessão virtual realizada no Centro Judiciário de Métodos Consen",
+      "publicado_em": "2026-09-01T15:53:25-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
       "id": "a8e922fcdefd9034",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -385,6 +415,54 @@ window.DADOS = {
       "coletado_em": "2026-09-01T15:19:17-03:00"
     },
     {
+      "id": "35c9f8dbeafb0ab5",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Projeto finalista do Prêmio #Rompa é implantado no Mato Grosso do Sul",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115205&pagina=1",
+      "resumo": "Clarisse Me Disse trabalha prevenção à violência de gênero. \n \n\tO Projeto Clarisse Me Disse, idealizado pela juíza da 2ª Vara de Capão Bonito, Caroline Costa",
+      "publicado_em": "2026-09-01T12:00:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "c2ae1db3c7402073",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "InspirAÇÕES: servidor do TJSP transforma susto com infarto em conscientização",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115204&pagina=1",
+      "resumo": "Atuação no Judiciário se une à paixão pela escrita.\n \n\tA vida, por vezes, impõe pausas inesperadas. Algumas delas chegam de forma abrupta, exigindo coragem para",
+      "publicado_em": "2026-09-01T12:00:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "dc8bb74bc0a51250",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF limita porte de arma na Polícia Científica do Espírito Santo a peritos criminais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-limita-porte-de-arma-na-policia-cientifica-do-espirito-santo-a-peritos-criminais/",
+      "resumo": "Estado não poderia ampliar autorização prevista na legislação federal para outras funções da Polícia Científica",
+      "publicado_em": "2026-09-01T16:54:43-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
       "id": "be13437ab2747050",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -433,6 +511,225 @@ window.DADOS = {
         "seminario"
       ],
       "coletado_em": "2026-09-01T12:25:51-03:00"
+    },
+    {
+      "id": "5b9377951ff11703",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Viana apresenta pedido de impeachment contra Alexandre de Moraes, do STF",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/viana-apresenta-pedido-de-impeachment-contra-alexandre-de-moraes-do-stf",
+      "resumo": "",
+      "publicado_em": "2026-09-01T17:09:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "3cb3a7faa5522f61",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Entenda o que são federações partidárias",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/entenda-o-que-sao-federacoes-partidarias",
+      "resumo": "",
+      "publicado_em": "2026-09-01T17:09:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "cc2d9ec844f5cb5c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Teresa Leitão pede que STF mantenha piso salarial para professores temporários",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/teresa-leitao-pede-que-stf-mantenha-piso-salarial-para-professores-temporarios",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:57:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "773a5225dd1c57a4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "'MP das blusinhas': em busca de acordo, comissão se reúne nesta quarta",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/mp-das-blusinhas-em-busca-de-acordo-comissao-se-reune-nesta-quarta",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:56:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "121889717d51af72",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Banco poderá acessar dados tributários de estudantes do Fies, segundo projeto",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/banco-podera-acessar-dados-tributarios-de-estudantes-do-fies-segundo-projeto",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:48:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "tributario"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "218242f2555f74d9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão aprova MP que amplia direito de servidores a 'adicional de fronteira'",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/comissao-aprova-mp-que-amplia-direito-de-servidores-a-adicional-de-fronteira",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:45:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "adi",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "00bcb44df336bf9c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Plenário vai analisar autorizações para US$ 2 bi em empréstimos ao governo federal",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/plenario-vai-analisar-autorizacoes-para-us-2-bi-em-emprestimos-ao-governo-federal",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:41:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "72cf04073cb71c20",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Plínio Valério cobra votação de PEC que amplia autonomia do Banco Central",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/plinio-valerio-cobra-votacao-de-pec-que-amplia-autonomia-do-banco-central",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:37:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "d9ee9fcb66ad1977",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Avança contribuição previdenciária menor para municípios mais pobres",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/avanca-contribuicao-previdenciaria-menor-para-municipios-mais-pobres",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:14:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "093b0bfe9ae99d07",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim da 6x1: Paim defende que PEC seja votada no Plenário no mesmo dia da CCJ",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/fim-da-6x1-paim-defende-que-pec-seja-votada-no-plenario-no-mesmo-dia-da-ccj",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:12:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "3f9a14287ccead9d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Para Kajuru, Brasil deve investir para agregar valor às terras-raras",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/para-kajuru-brasil-deve-investir-para-agregar-valor-as-terras-raras",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:12:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "1012418997420dc6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado debate medidas para reduzir impactos do vício em bets",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/senado-debate-medidas-para-reduzir-impactos-do-vicio-em-bets",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:11:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "1e70f6646eb03019",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto que prevê vacina contra herpes-zóster no SUS vai à Câmara",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/projeto-que-preve-vacina-contra-herpes-zoster-no-sus-vai-a-camara",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:09:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "4fd612521f722119",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto de prevenção ao assédio no transporte coletivo avança no Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/projeto-de-prevencao-ao-assedio-no-transporte-coletivo-avanca-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:03:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "844c7a12ec2d3ec2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Proposta de novo piso para médicos e dentistas prevê implementação gradual",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/proposta-de-novo-piso-para-medicos-e-dentistas-preve-implementacao-gradual",
+      "resumo": "",
+      "publicado_em": "2026-09-01T15:41:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
     },
     {
       "id": "f49c11dd426a3039",
@@ -1050,6 +1347,20 @@ window.DADOS = {
       "coletado_em": "2026-09-01T15:19:17-03:00"
     },
     {
+      "id": "7a78ba45e3506e7a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Educacenso abre período para consulta dos dados declarados em 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/educacenso-abre-periodo-para-consulta-dos-dados-declarados-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-01T15:43:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
       "id": "713679c107d1b694",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1062,6 +1373,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-01T15:19:17-03:00"
+    },
+    {
+      "id": "81f43e37f60be435",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "União e estados reforçam preparação do SUS para enfrentar impactos do El Niño",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/sus-reforca-preparacao-em-todo-o-pais-para-antecipar-riscos-e-proteger-populacao-dos-impactos-do-el-nino",
+      "resumo": "",
+      "publicado_em": "2026-09-01T13:52:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
     },
     {
       "id": "79fdeca40c41aff7",
@@ -1398,6 +1725,151 @@ window.DADOS = {
         "cbs"
       ],
       "coletado_em": "2026-09-01T15:19:17-03:00"
+    },
+    {
+      "id": "a8e35e5094ec3da2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Comissão adia discussão de MP da taxa das blusinhas para quarta-feira",
+      "link": "https://www.congressoemfoco.com.br/noticia/121865/comissao-adia-discussao-de-mp-da-taxa-das-blusinhas-para-quarta-feira",
+      "resumo": "Colegiado postergou pela segunda vez a leitura e votação do parecer sobre fim da taxa das blusinhas.",
+      "publicado_em": "2026-09-01T16:38:18-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "d3c1aac6282d4aca",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB vê com \"extrema preocupação\" crise envolvendo ministros do STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/121864/oab-ve-com-extrema-preocupacao-crise-envolvendo-ministros-do-stf",
+      "resumo": "Conselho Federal defendeu \"apuração rigorosa e isenta de todos os fatos\".",
+      "publicado_em": "2026-09-01T16:27:30-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "9c910f039937d35f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas Ferreira diz que vai pedir prisão preventiva de Moraes ao STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/121863/nikolas-ferreira-diz-que-vai-pedir-prisao-preventiva-de-moraes-ao-stf",
+      "resumo": "Deputado cita relatório da PF e compara situação de Moraes à prisão preventiva der Filipe Martins.",
+      "publicado_em": "2026-09-01T16:08:44-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "214d6206bb87bdc4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Damares quer obstrução do Senado até renúncia ou impeachment de Moraes",
+      "link": "https://www.congressoemfoco.com.br/noticia/121862/damares-quer-obstrucao-do-senado-ate-renuncia-ou-impeachment-de-moraes",
+      "resumo": "Ofensiva ocorre após a divulgação de mensagens entre Daniel Vorcaro e o ministro do STF.",
+      "publicado_em": "2026-09-01T16:07:22-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "0d8c2c78c3976f32",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Os novos contornos da atuação do Superior Tribunal de Justiça",
+      "link": "https://www.congressoemfoco.com.br/artigo/121860/os-novos-contornos-da-atuacao-do-superior-tribunal-de-justica",
+      "resumo": "Novo filtro exigirá que recursos demonstrem relevância econômica, política, social ou jurídica além da alegação de violação à lei federal.",
+      "publicado_em": "2026-09-01T15:30:36-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "2ab62e3fadcf4c98",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "99Food e Keeta pagam até R$ 9 extra em dia de greve de entregadores",
+      "link": "https://www.congressoemfoco.com.br/noticia/121859/99food-e-keeta-pagam-ate-r-9-extra-em-dia-de-greve-de-entregadores",
+      "resumo": "Paralisação reúne pedidos por reajuste, transparência e critérios nacionais de remuneração.",
+      "publicado_em": "2026-09-01T15:18:12-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "461eb7d561fcb457",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fim da CND do INSS para averbação de obra",
+      "link": "https://www.congressoemfoco.com.br/artigo/121858/fim-da-cnd-do-inss-para-averbacao-de-obra",
+      "resumo": "Novo provimento elimina exigência de certidão negativa de débitos previdenciários para averbação de obras e reduz entraves ao registro.",
+      "publicado_em": "2026-09-01T15:10:12-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "1aac7c459cce91a3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Caso Moraes: Como se abre investigação contra um ministro do STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/121857/caso-moraes-como-se-abre-investigacao-contra-um-ministro-do-stf",
+      "resumo": "Ministros do STF têm foro no próprio Supremo. O relator pode instaurar inquérito a pedido da PGR, da Polícia Federal ou do ofendido, sem necessidade de votação prévia  de todos os integrantes da Corte.",
+      "publicado_em": "2026-09-01T14:58:55-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "bfbddae669ac1c6e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Congresso tem ao menos 66 pedidos de impeachment contra Moraes",
+      "link": "https://www.congressoemfoco.com.br/noticia/121855/congresso-tem-ao-menos-66-pedidos-de-impeachment-contra-moraes",
+      "resumo": "Apesar da quantidade, Senado nunca aprovou um pedido de impeachment contra um ministro do STF.",
+      "publicado_em": "2026-09-01T14:38:32-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
     },
     {
       "id": "d5303a6c27af9b4f",
@@ -1829,6 +2301,95 @@ window.DADOS = {
       "coletado_em": "2026-09-01T15:19:17-03:00"
     },
     {
+      "id": "33987c711ed62be2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto obriga órgãos públicos a criar espaços específicos para atender idosos",
+      "link": "https://www.camara.leg.br/noticias/1300393-projeto-obriga-orgaos-publicos-a-criar-espacos-especificos-para-atender-idosos",
+      "resumo": "",
+      "publicado_em": "2026-09-01T17:04:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "2f619505996a8685",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Orçamento de 2027 é de R$ 7,4 trilhões; limite de gastos é de R$ 2,6 trilhões",
+      "link": "https://www.camara.leg.br/noticias/1301734-orcamento-de-2027-e-de-r-74-trilhoes-limite-de-gastos-e-de-r-26-trilhoes",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:53:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "14462fb45d8f1abf",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Debatedores pedem agilidade no diagnóstico de esclerose múltipla no SUS",
+      "link": "https://www.camara.leg.br/noticias/1301699-debatedores-pedem-agilidade-no-diagnostico-de-esclerose-multipla-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:48:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "8249077ae7790c45",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão adia novamente votação do fim da \"taxa das blusinhas\"",
+      "link": "https://www.camara.leg.br/noticias/1301428-comissao-adia-novamente-votacao-do-fim-da-taxa-das-blusinhas",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:42:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "1aaad9dc7042f57e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Proposta do Orçamento de 2027 prevê preenchimento de 53.530 vagas no setor público",
+      "link": "https://www.camara.leg.br/noticias/1301737-proposta-do-orcamento-de-2027-preve-preenchimento-de-53-530-vagas-no-setor-publico",
+      "resumo": "",
+      "publicado_em": "2026-09-01T16:22:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T17:15:07-03:00"
+    },
+    {
+      "id": "df2c9913dfde6d8a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe participação de crianças e adolescentes em atividades esportivas de alto risco",
+      "link": "https://www.camara.leg.br/noticias/1300094-projeto-proibe-participacao-de-criancas-e-adolescentes-em-atividades-esportivas-de-alto-risco",
+      "resumo": "",
+      "publicado_em": "2026-09-01T15:22:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T15:19:17-03:00"
+    },
+    {
       "id": "8480ac7216ee4784",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1854,22 +2415,6 @@ window.DADOS = {
       "data_estimada": false,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-09-01T15:19:17-03:00"
-    },
-    {
-      "id": "df2c9913dfde6d8a",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Projeto proíbe participação de crianças e adolescentes em atividades esportivas de alto risco",
-      "link": "https://www.camara.leg.br/noticias/1300094-projeto-proibe-participacao-de-criancas-e-adolescentes-em-atividades-esportivas-de-alto-risco",
-      "resumo": "",
-      "publicado_em": "2026-09-01T13:22:00-03:00",
-      "dia": "2026-09-01",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
       "coletado_em": "2026-09-01T15:19:17-03:00"
     },
     {
@@ -3785,7 +4330,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Observatório do Trabalho Decente prorroga até 30 de setembro o prazo para envio de contribuições",
       "link": "https://www.cnj.jus.br/observatorio-do-trabalho-decente-prorroga-ate-30-de-setembro-o-prazo-para-envio-de-contribuicoes/",
-      "resumo": "Organizações da sociedade civil, grupos de pesquisa científica e demais interessados em contribuir com sugestões, levantamentos e subsídios para os trabalhos do Observatório do Trabalho Decente do Poder Judiciário (OTD) tem até 30 de setembro para enviar suas informações. O prazo, que encerraria em ",
+      "resumo": "Organizações da sociedade civil, grupos de pesquisa científica e demais interessados em contribuir com sugestões, levantamentos e subsídios para os trabalhos do Observatório do Trabalho Decente do Poder Judiciário (OTD) têm até 30 de setembro para enviar suas informações. O prazo, que encerraria em ",
       "publicado_em": "2026-08-31T12:00:00-03:00",
       "dia": "2026-08-31",
       "data_estimada": true,
