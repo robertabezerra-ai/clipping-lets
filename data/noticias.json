@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-01T17:15:07-03:00",
+  "gerado_em": "2026-09-01T19:15:07-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -447,6 +447,54 @@
       "coletado_em": "2026-09-01T17:15:07-03:00"
     },
     {
+      "id": "cb728bca9a1ae3b0",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Palácio da Justiça sedia reunião para debater novo sistema de admissibilidade de recursos especiais no STJ",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115193&pagina=1",
+      "resumo": "Relevância da questão de direito federal como requisito.\n \n\tO Tribunal de Justiça de São Paulo sediou, ontem (31), reunião para debater o novo sistema de",
+      "publicado_em": "2026-09-01T12:00:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "3653139e0d262f37",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF rejeita ação sobre redução da jornada de servidores municipais de SP sem corte salarial",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-acao-sobre-reducao-da-jornada-de-servidores-municipais-de-sp-sem-corte-salarial/",
+      "resumo": "Ministro Nunes Marques considerou que há outros meios processuais para questionar as decisões da Justiça paulista",
+      "publicado_em": "2026-09-01T18:04:59-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "49bdff2fb0d29678",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Associação questiona no STF submissão de receitas próprias da DPU aos limites do arcabouço fiscal",
+      "link": "https://noticias.stf.jus.br/postsnoticias/associacao-questiona-no-stf-submissao-de-receitas-proprias-da-dpu-aos-limites-do-arcabouco-fiscal/",
+      "resumo": "Para a Anadef, medida compromete autonomia financeira da instituição e pode afetar a assistência jurídica à população vulnerável",
+      "publicado_em": "2026-09-01T17:16:54-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
       "id": "dc8bb74bc0a51250",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -511,6 +559,239 @@
         "seminario"
       ],
       "coletado_em": "2026-09-01T12:25:51-03:00"
+    },
+    {
+      "id": "7d6d588ddaef22e5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Jayme Campos cobra votação de projeto de amparo a mulheres agredidas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/jayme-campos-cobra-votacao-de-projeto-de-amparo-a-mulheres-agredidas",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:57:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "2308b275106d22f8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Debate expõe divisão sobre projeto que restringe publicidade das bets",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/debate-expoe-divisao-sobre-projeto-que-restringe-publicidade-das-bets",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:56:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "ecf00dae086e0f89",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim da taxa das blusinhas ameaça confecção nacional, alerta Dueire",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/fim-da-taxa-das-blusinhas-ameaca-confeccao-nacional-alerta-dueire",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:56:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "7889317fb6847868",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Adicional de fronteira para servidores passa em comissão e vai à Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/adicional-de-fronteira-para-servidores-passa-em-comissao-e-vai-a-camara",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:55:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "53a682adcafa0b44",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Zenaide saúda aprovação de MP que acelera análise de benefícios do INSS",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/zenaide-sauda-aprovacao-de-mp-que-acelera-analise-de-beneficios-do-inss",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:47:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "6267919effe21c59",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Malta qualifica revelações sobre Vorcaro e Moraes como 'quadro dantesco'",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/malta-qualifica-revelacoes-sobre-vorcaro-e-moraes-como-quadro-dantesco",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:42:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "2cf701d8a3317685",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão mista aprova MP que visa diminuir filas do INSS",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/comissao-mista-aprova-mp-que-visa-diminuir-filas-do-inss",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:28:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "7dac5dd6e422b66c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Omar diz acreditar na aprovação do fim da 6x1 ainda no esforço concentrado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/omar-diz-acreditar-na-aprovacao-do-fim-da-6x1-ainda-no-esforco-concentrado",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:20:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "f823435ab4d98504",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Poesia do Pajeú (PE) pode virar manifestação da cultura nacional",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/poesia-do-pajeu-pe-pode-virar-manifestacao-da-cultura-nacional",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:20:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "c2a72f86bbd13791",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sergio Moro cobra rigor contra facções criminosas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/sergio-moro-cobra-rigor-contra-faccoes-criminosas",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:19:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "682cdf1a38579551",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Para Oriovisto, debate sobre escala 6x1 deve ficar para depois das eleições",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/para-oriovisto-debate-sobre-escala-6x1-deve-ficar-para-depois-das-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:10:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "faf24696864dc040",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pontes defende que Imposto de Importação seja definido em lei",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/pontes-defende-que-imposto-de-importacao-seja-definido-em-lei",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:05:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "d3d6488a84c3180f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Luis Carlos Heinze cobra apuração de supostos abusos de ministro do STF",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/luis-carlos-heinze-cobra-apuracao-de-supostos-abusos-de-ministro-do-stf",
+      "resumo": "",
+      "publicado_em": "2026-09-01T17:59:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "0d8f2c58aed80526",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Esperidião Amin defende abertura de processo de impeachment de Moraes",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/esperidiao-amin-defende-abertura-de-processo-de-impeachment-de-moraes",
+      "resumo": "",
+      "publicado_em": "2026-09-01T17:42:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "ca12af66f766597f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Zequinha cobra sanção de mudança em limites de Floresta Nacional no Pará",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/01/zequinha-cobra-sancao-de-mudanca-em-limites-de-floresta-nacional-no-pa",
+      "resumo": "",
+      "publicado_em": "2026-09-01T17:32:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "sancao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
     },
     {
       "id": "5b9377951ff11703",
@@ -1347,6 +1628,22 @@
       "coletado_em": "2026-09-01T15:19:17-03:00"
     },
     {
+      "id": "7c56f433c42e3750",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Micros e pequenas empresas: saibam como optar e recolher pelo Simples Nacional 2027",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/receita-federal-alerta-comeca-hoje-o-prazo-para-opcao-pelo-simples-nacional-e-para-a-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027-1",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:30:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "simples nacional"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
       "id": "7a78ba45e3506e7a",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1727,6 +2024,71 @@
       "coletado_em": "2026-09-01T15:19:17-03:00"
     },
     {
+      "id": "be7696381004f000",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula defende proibir bets, mas diz sonhar em conhecer um cassino",
+      "link": "https://www.congressoemfoco.com.br/noticia/121869/lula-defende-proibir-bets-mas-diz-sonhar-em-conhecer-um-cassino",
+      "resumo": "Presidente ponderou que, como presidente da República, precisa compartilhar decisões e avaliar os impactos políticos.",
+      "publicado_em": "2026-09-01T18:30:20-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "0587b13d391feebf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Partidos têm até sexta para preencher vagas restantes de candidaturas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121868/partidos-tem-ate-sexta-para-preencher-vagas-restantes-de-candidaturas",
+      "resumo": "Prazo vale para legendas que não preencheram o número máximo de candidaturas nas convenções partidárias.",
+      "publicado_em": "2026-09-01T18:15:12-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "9f03d3299140e7f2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova indicação de Pacheco à vaga de Bruno Dantas no TCU",
+      "link": "https://www.congressoemfoco.com.br/noticia/121867/senado-aprova-indicacao-de-pacheco-a-vaga-de-bruno-dantas-no-tcu",
+      "resumo": "Pacheco presidiu o Senado entre 2021 e 2025 e havia decidido não disputar nenhum cargo nas eleições deste ano.",
+      "publicado_em": "2026-09-01T17:52:34-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "86f50500c4ac289d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Toffoli restabelece campanha de Renan; apuração sobre perfis é mantida",
+      "link": "https://www.congressoemfoco.com.br/noticia/121866/toffoli-restabelece-campanha-de-renan-apuracao-sobre-perfis-e-mantida",
+      "resumo": "Decisão permite que presidenciável retome acesso aos recursos do fundo eleitoral.",
+      "publicado_em": "2026-09-01T17:48:53-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "decisao",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
       "id": "a8e35e5094ec3da2",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1793,6 +2155,22 @@
       "coletado_em": "2026-09-01T17:15:07-03:00"
     },
     {
+      "id": "c154c44ef5d2fd88",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE pode barrar candidatura por omissão de perfis nas redes sociais?",
+      "link": "https://www.congressoemfoco.com.br/artigo/121861/tse-pode-barrar-candidatura-por-omissao-de-perfis-nas-redes-sociais",
+      "resumo": "Tribunal terá de avaliar se ausência de perfis no registro foi falha formal ou estratégia deliberada para dificultar a fiscalização eleitoral.",
+      "publicado_em": "2026-09-01T15:56:15-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
       "id": "0d8c2c78c3976f32",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1847,12 +2225,13 @@
       "fonte_nome": "Congresso em Foco",
       "titulo": "Caso Moraes: Como se abre investigação contra um ministro do STF",
       "link": "https://www.congressoemfoco.com.br/noticia/121857/caso-moraes-como-se-abre-investigacao-contra-um-ministro-do-stf",
-      "resumo": "Ministros do STF têm foro no próprio Supremo. O relator pode instaurar inquérito a pedido da PGR, da Polícia Federal ou do ofendido, sem necessidade de votação prévia  de todos os integrantes da Corte.",
+      "resumo": "Ministros do STF têm foro no próprio Supremo. Precedente da Corte afasta, para magistrados, a exigência de autorização colegiada prévia para investigação, mas a aplicação dessa regra a um integrante do próprio tribunal não é questão inteiramente pacificada.",
       "publicado_em": "2026-09-01T14:58:55-03:00",
       "dia": "2026-09-01",
       "data_estimada": false,
-      "score": 46,
+      "score": 60,
       "tags": [
+        "precedente",
         "acao"
       ],
       "coletado_em": "2026-09-01T17:15:07-03:00"
@@ -2299,6 +2678,102 @@
         "precedente"
       ],
       "coletado_em": "2026-09-01T15:19:17-03:00"
+    },
+    {
+      "id": "a1f77f38820923b2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova adesão do Brasil a acordo para eliminar violência e assédio no trabalho",
+      "link": "https://www.camara.leg.br/noticias/1301874-camara-aprova-adesao-do-brasil-a-acordo-para-eliminar-violencia-e-assedio-no-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:52:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "liminar",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "155fb5027fdbd896",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Urna eletrônica: especialistas e Justiça Eleitoral detalham barreiras contra ataques e fraudes",
+      "link": "https://www.camara.leg.br/noticias/1301802-urna-eletronica-especialistas-e-justica-eleitoral-detalham-barreiras-contra-ataques-e-fraudes",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:44:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "f5fd94c856968987",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara vai analisar indicação de Rodrigo Pacheco ao TCU nesta quarta",
+      "link": "https://www.camara.leg.br/noticias/1301859-camara-vai-analisar-indicacao-de-rodrigo-pacheco-ao-tcu-nesta-quarta",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:40:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "731e71aec9aa314e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova acordo pela igualdade de trabalhadores homens e mulheres com responsabilidade familiar",
+      "link": "https://www.camara.leg.br/noticias/1301846-camara-aprova-acordo-pela-igualdade-de-trabalhadores-homens-e-mulheres-com-responsabilidade-familiar",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:31:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "733416d1d930df6a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Adiada votação de parecer sobre regras simplificadas para atividade de mototaxistas",
+      "link": "https://www.camara.leg.br/noticias/1301195-adiada-votacao-de-parecer-sobre-regras-simplificadas-para-atividade-de-mototaxistas",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:29:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "261644ee4cc98534",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados iniciam votações do Plenário e aprovam urgência para dois projetos; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1301835-deputados-iniciam-votacoes-do-plenario-e-aprovam-urgencia-para-dois-projetos-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-09-01T18:03:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-01T19:15:07-03:00"
     },
     {
       "id": "33987c711ed62be2",
