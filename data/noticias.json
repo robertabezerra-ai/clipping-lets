@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-02T12:01:34-03:00",
+  "gerado_em": "2026-09-02T15:31:19-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,39 +154,39 @@
     },
     {
       "id": "pgfn",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /pgfn/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 29,
+      "erro": null
     },
     {
       "id": "senado",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www12.senado.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www12.senado"
+      "status": "ok",
+      "itens": 18,
+      "erro": null
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /receitafederal/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='"
+      "status": "ok",
+      "itens": 3,
+      "erro": null
     },
     {
       "id": "fazenda",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /fazenda/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anpd",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /anpd/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effecti"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@
     },
     {
       "id": "cvm",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cvm/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br'"
+      "status": "ok",
+      "itens": 1,
+      "erro": null
     },
     {
       "id": "bacen",
@@ -210,13 +210,13 @@
       "id": "coaf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /coaf/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/coaf/pt-br/assuntos/noticias"
     },
     {
       "id": "cade",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cade/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "cnj",
@@ -226,15 +226,15 @@
     },
     {
       "id": "mjsp",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mj/pt-br/assuntos/noticias-1 (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "carf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /carf/pt-br/assuntos/novas-noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www."
+      "status": "ok",
+      "itens": 3,
+      "erro": null
     },
     {
       "id": "governo_federal",
@@ -316,6 +316,38 @@
         "acao"
       ],
       "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "543b4f9d06e78be7",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Relação afetiva afasta vínculo de emprego de nora como cuidadora de sogra doente",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/relacao-afetiva-afasta-vinculo-de-emprego-de-nora-como-cuidadora-de-sogra-doente",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "8c8ee9fbf3245baa",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 homenageia 65 servidores com a moeda dos 40 anos",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-homenageia-65-servidores-com-moeda-dos-40-anos",
+      "resumo": "TRT-15 homenageia 65 servidores com a moeda dos 40 anos anagatto Qua, 02/09/2026 - 13:31 TRT-15 homenageia 65 servidores com a moeda dos 40 anos Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora Ana Paula Pellegrina Lockmann, conduziu, nesta terça-feira,",
+      "publicado_em": "2026-09-02T13:31:50-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
     },
     {
       "id": "e25f77a908ae7ffa",
@@ -402,6 +434,352 @@
       "coletado_em": "2026-09-02T12:01:34-03:00"
     },
     {
+      "id": "19131e13e7480a8f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Avança projeto que combate sonegação e fraudes em combustíveis",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/avanca-projeto-que-combate-sonegacao-e-fraudes-em-combustiveis",
+      "resumo": "",
+      "publicado_em": "2026-09-02T15:19:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "1bc5e4b807d350d7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Subcomissão aprova requerimentos para ampliação da escuta a povos indígenas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/subcomissao-aprova-requerimentos-para-ampliacao-da-escuta-a-povos-indigenas",
+      "resumo": "",
+      "publicado_em": "2026-09-02T14:46:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "9b9679cf1b103c09",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCT aprova restrições à publicidade e ao patrocínio de bets",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/cct-aprova-restricoes-a-publicidade-e-ao-patrocinio-de-bets",
+      "resumo": "",
+      "publicado_em": "2026-09-02T14:26:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "79cc99c56e2cae57",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão aprova fim da ‘taxa das blusinhas’; texto vai à Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/comissao-aprova-fim-da-2018taxa-das-blusinhas2019-texto-vai-a-camara",
+      "resumo": "",
+      "publicado_em": "2026-09-02T14:07:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "ddb48e49e2d25c04",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Câmara aprova indicação do senador Rodrigo Pacheco para ministro do TCU",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/camara-aprova-indicacao-do-senador-rodrigo-pacheco-para-ministro-do-tcu",
+      "resumo": "",
+      "publicado_em": "2026-09-02T13:46:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "479354e19f54f195",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Avança acordo militar com Guiana",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/avanca-acordo-militar-com-guiana",
+      "resumo": "",
+      "publicado_em": "2026-09-02T13:29:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "2d78c68b37a5394a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Avaliação de tratamentos para doenças raras pode ganhar critérios específicos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/avaliacao-de-tratamentos-para-doencas-raras-pode-ganhar-criterios-especificos",
+      "resumo": "",
+      "publicado_em": "2026-09-02T13:29:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "89c8b0348655c976",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Subcomissão Yanomami aprova grupo de trabalho com participação indígena",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/subcomissao-yanomami-aprova-grupo-de-trabalho-com-participacao-indigena",
+      "resumo": "",
+      "publicado_em": "2026-09-02T13:27:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "c73054b5a83fffa5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão mista aprova MP do fim da 'taxa das blusinhas'",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/comissao-mista-aprova-mp-do-fim-da-taxa-das-blusinhas",
+      "resumo": "",
+      "publicado_em": "2026-09-02T13:23:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "d232dc56d7be03d8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto para melhorar tratamento de doenças raras no SUS avança no Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/projeto-para-melhorar-tratamento-de-doencas-raras-no-sus-avanca-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-09-02T13:18:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "c78077fede540ea2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCT aprova 55 concessões e renovações para emissoras de rádio e TV",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/cct-aprova-55-concessoes-e-renovacoes-para-emissoras-de-radio-e-tv",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:50:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "adi",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "7fd0c9919d3efc1c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Indicação de Félix Faria para Embaixada no Mali vai a Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/indicacao-de-felix-faria-para-embaixada-no-mali-vai-a-plenario",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:28:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "1e2544a03b0e2f8d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Vai a Plenário nome de Pedro Saldanha para delegação na Unesco",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/vai-a-plenario-nome-de-pedro-saldanha-para-delegacao-na-unesco",
+      "resumo": "",
+      "publicado_em": "2026-09-02T11:58:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "802a79db3eba6970",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Plenário analisará disque-denúncia de maus-tratos a animais",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/plenario-analisara-disque-denuncia-de-maus-tratos-a-animais",
+      "resumo": "",
+      "publicado_em": "2026-09-02T11:52:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "4e832d815a04a42f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Avança projeto que destina recursos de pesquisa para instituições da Amazônia",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/avanca-projeto-que-destina-recursos-de-pesquisa-para-instituicoes-da-amazonia",
+      "resumo": "",
+      "publicado_em": "2026-09-02T11:43:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "be035527325d5de1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovada linha de crédito para motoristas de aplicativo",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/aprovada-linha-de-credito-para-motoristas-de-aplicativo-1",
+      "resumo": "",
+      "publicado_em": "2026-09-02T11:24:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "d0c1e74418c96b19",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Incentivo para instalação de data centers é aprovado em Plenário",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/incentivo-para-instalacao-de-data-centers-e-aprovado-em-plenario",
+      "resumo": "",
+      "publicado_em": "2026-09-02T11:14:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "e0d960e465e567f6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCT aprova regras para proteger investidores de ativos virtuais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/cct-aprova-regras-para-proteger-investidores-de-ativos-virtuais",
+      "resumo": "",
+      "publicado_em": "2026-09-02T11:11:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "d21138d7bdbacf8b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "FAQ Lei Maria da Penha: 25 respostas a perguntas mais frequentes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/faq-lei-maria-da-penha-25-perguntas-e-respostas-para-as-duvidas-mais-frequentes",
+      "resumo": "",
+      "publicado_em": "2026-09-02T14:30:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "20414835460d406b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Anvisa autoriza estudo clínico da Fiocruz com vacina de mRNA para Covid",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/anvisa-autoriza-estudo-clinico-da-fiocruz-com-vacina-de-mrna-para-covid",
+      "resumo": "",
+      "publicado_em": "2026-09-02T13:24:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "2637dfff5e68e63a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "93% das escolas públicas estaduais e 53% das municipais adotam protocolos antirracismo",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/redes-adotam-protocolos-para-responder-ao-racismo-na-escola",
+      "resumo": "",
+      "publicado_em": "2026-09-02T11:16:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "2ddac97f32ca89b8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pessoas em situação de rua: saiba onde e como acessar serviços públicos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pessoas-em-situacao-de-rua-saiba-como-acessar-servicos-publicos-e-onde-buscar-atendimento",
+      "resumo": "",
+      "publicado_em": "2026-09-02T11:06:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
       "id": "d8845fd7debefaa0",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -432,6 +810,161 @@
         "acao"
       ],
       "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "bd4f31356711dd1f",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal aperfeiçoa regras de acompanhamento da fruição de benefícios fiscais",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-aperfeicoa-regras-de-acompanhamento-da-fruicao-de-beneficios-fiscais",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "3c23dfe44c8e6606",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Líder do PL cobra Fachin por investigação de Moraes no caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/121900/lider-do-pl-cobra-fachin-por-investigacao-de-moraes-no-caso-master",
+      "resumo": "Sóstenes pede investigação \"séria e imparcial\" sobre Moraes e cobra de Lula o afastamento do diretor-geral da PF.",
+      "publicado_em": "2026-09-02T14:56:21-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "a19117dda121ccd8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ratinho repete falas transfóbicas e chama Erika Hilton de \"rapaz\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121899/ratinho-repete-falas-transfobicas-e-chama-erika-hilton-de-rapaz",
+      "resumo": "Apresentador voltou a se referir a Erika Hilton no masculino e criticou a escolha da deputada para comissão da Câmara.",
+      "publicado_em": "2026-09-02T14:20:49-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "7b4ba468b3434bf6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Oposição pede impeachment de Gonet e cobra exoneração após caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/121898/oposicao-pede-impeachment-de-gonet-e-cobra-exoneracao-apos-caso-master",
+      "resumo": "Grupo usa mensagens da investigação da PF para sustentar acusações contra o procurador-geral da República.",
+      "publicado_em": "2026-09-02T14:16:57-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "03892b070ccf0a6a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Emocionado, Paim fala do último mandato: \"hora de voltar para casa\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121897/emocionado-paim-fala-do-ultimo-mandato--hora-de-voltar-para-casa",
+      "resumo": "Parlamentar disse que gostaria de encerrar a trajetória no Congresso com a aprovação da redução da jornada.",
+      "publicado_em": "2026-09-02T13:56:44-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "bd6c04e3cbad8eef",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A eleição de 2026 será decidida muito além da urna",
+      "link": "https://www.congressoemfoco.com.br/artigo/121896/a-eleicao-de-2026-sera-decidida-muito-alem-da-urna",
+      "resumo": "Lula chega à disputa com vantagem, mas o resultado dependerá da soberania nacional, da abstenção, das pesquisas, do poder econômico, das redes digitais e da atuação da Justiça Eleitoral.",
+      "publicado_em": "2026-09-02T13:24:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "7780930730c0ae5c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova crédito para motoristas de app, taxistas e escolares",
+      "link": "https://www.congressoemfoco.com.br/noticia/121895/senado-aprova-credito-para-motoristas-de-app-taxistas-e-escolares",
+      "resumo": "Texto permite uso de até R$ 30 bilhões para compra de veículos novos e segue para sanção presidencial.",
+      "publicado_em": "2026-09-02T12:15:19-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "sancao",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "1b8022503d1d6a2f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula sanciona lei que cria protocolo de urgência para infartos em UPAs",
+      "link": "https://www.congressoemfoco.com.br/noticia/121894/lula-sanciona-lei-que-cria-protocolo-de-urgencia-para-infartos-em-upas",
+      "resumo": "Texto permite acesso a medidas trombolíticas em Unidades de Pronto Atendimento.",
+      "publicado_em": "2026-09-02T12:07:07-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "b8179f878608d528",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara aprova indicação de Rodrigo Pacheco à vaga do Senado no TCU",
+      "link": "https://www.congressoemfoco.com.br/noticia/121893/camara-aprova-indicacao-de-rodrigo-pacheco-a-vaga-do-senado-no-tcu",
+      "resumo": "Aprovação confirma aval concedido pelos senadores na noite de terça-feira.",
+      "publicado_em": "2026-09-02T11:47:40-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "4aacf6ebaee61588",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Omar Aziz e Marinho batem boca em sessão sobre fim da 6x1: \"burro\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121892/omar-aziz-e-marinho-batem-boca-em-sessao-sobre-fim-da-6x1--burro",
+      "resumo": "Senadores trocaram acusações na CCJ após líder da oposição dizer que quem nega impacto da redução da jornada sobre preços age de \"má-fé\" ou é \"burro\".",
+      "publicado_em": "2026-09-02T11:38:10-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
     },
     {
       "id": "a5fd51273f71d68e",
@@ -512,6 +1045,24 @@
         "acao"
       ],
       "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "8dbdf078f5d689ea",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Relatório da MP da taxa das blusinhas é aprovado em comissão mista",
+      "link": "https://www.congressoemfoco.com.br/noticia/121886/relatorio-da-mp-da-taxa-das-blusinhas-e-aprovado-em-comissao-mista",
+      "resumo": "Texto retira alíquota mínima de 20% para compras de até US$ 50 e permite ao Ministério da Fazenda modular a tributação.",
+      "publicado_em": "2026-09-02T10:17:55-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
     },
     {
       "id": "3184a3d9d7e6b8ae",
@@ -609,15 +1160,14 @@
       "id": "6440274d19543822",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "AO VIVO: CCJ do Senado começa a votar o fim da escala 6x1",
+      "titulo": "AO VIVO: CCJ do Senado aprova PEC do fim da escala 6x1",
       "link": "https://www.congressoemfoco.com.br/noticia/121879/ao-vivo-ccj-do-senado-comeca-a-votar-o-fim-da-escala-6x1",
-      "resumo": "Relator Omar Aziz mantém texto aprovado pela Câmara e tenta levar proposta ao Plenário ainda nesta quarta-feira.",
+      "resumo": "Senadores mantiveram versão aprovada pela Câmara. Apenas quatro integrantes da comissão votaram contra. Governistas tentam levar proposta ao Plenário ainda nesta quarta-feira.",
       "publicado_em": "2026-09-02T08:49:44-03:00",
       "dia": "2026-09-02",
       "data_estimada": false,
-      "score": 56,
+      "score": 48,
       "tags": [
-        "aprovado",
         "aprova"
       ],
       "coletado_em": "2026-09-02T12:01:34-03:00"
@@ -684,6 +1234,336 @@
         "multa"
       ],
       "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "d3ed9d6076245840",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Justiça 4.0 oferta cursos avançados de ciência de dados",
+      "link": "https://www.cnj.jus.br/justica-4-0-oferta-cursos-avancados-de-ciencia-de-dados/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) disponibilizou para magistradas, magistrados, servidoras e servidores da Justiça brasileira as capacitações autoinstrucionais em Machine Learning Avançado e Aplicações e Dashboards Avançado com R. As formações integram o Programa Justiça 4.0, iniciativa do CNJ co",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "29ab2d4fd74cac21",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Ouvidorias são destacadas como estratégicas para fortalecer relação entre Justiça e sociedade",
+      "link": "https://www.cnj.jus.br/ouvidorias-sao-destacadas-como-estrategicas-para-fortalecer-relacao-entre-justica-e-sociedade/",
+      "resumo": "A contribuição das ouvidorias dos tribunais para o aprimoramento dos serviços prestados pela Justiça foi defendida pelo ouvidor nacional de Justiça e conselheiro do Conselho Nacional de Justiça (CNJ), Marcello Terto, no IV Encontro de Ouvidores e Ouvidoras Judiciais da Região Norte. Ele proferiru a ",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "90c09f3b824edd7c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJAP doa materiais esportivos a projeto social que atende crianças em Macapá",
+      "link": "https://www.cnj.jus.br/tjap-doa-materiais-esportivos-a-projeto-social-que-atende-criancas-em-macapa/",
+      "resumo": "O Tribunal de Justiça do Amapá (TJAP), por meio da Coordenadoria Estadual da Infância e Juventude (Ceij/TJAP), entregou, na noite de segunda-feira (31), materiais esportivos ao Projeto Social Futuro Camisa 7, em Macapá. A ação contou com recursos do Fundo de Apoio ao Juizado da Infância e Juventude ",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "2a8fae0a1ae8f679",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CSJT lança site sobre decisões do Sistema Interamericano de Direitos Humanos",
+      "link": "https://www.cnj.jus.br/csjt-lanca-site-sobre-decisoes-do-sistema-interamericano-de-direitos-humanos/",
+      "resumo": "O Conselho Superior da Justiça do Trabalho (CSJT) lançou, na sexta-feira (28), o novo site da Unidade de Monitoramento e Fiscalização de Decisões do Sistema Interamericano de Direitos Humanos (UMF/SIDH). A página reúne normas, protocolos, casos com repercussão na Justiça do Trabalho, publicações e m",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "a5c85378253e6f8f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Carta de Barreirinhas é lançada durante o II Encontro pela Proteção de Crianças e Adolescentes",
+      "link": "https://www.cnj.jus.br/carta-de-barreirinhas-e-lancada-durante-o-ii-encontro-pela-protecao-de-criancas-e-adolescentes/",
+      "resumo": "O Tribunal Regional do Trabalho da 16ª Região (Maranhão), por meio da Comissão Regional de Combate ao Trabalho Infantil e Estímulo à Aprendizagem em parceria com o Ministério Público do Trabalho (MPT), com a Superintendência Regional do Trabalho e Emprego (MTE), com o Ministério Público do Estado (M",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "dd22903300074e52",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Mutirão em Goiânia realiza 528 atendimentos e formaliza reconhecimentos de paternidade",
+      "link": "https://www.cnj.jus.br/mutirao-em-goiania-realiza-528-atendimentos-e-formaliza-reconhecimentos-de-paternidade/",
+      "resumo": "O 3º Mutirão de Atendimento às Famílias realizou 528 atendimentos neste sábado (29), na Escola Professor Paulo Freire, no Jardim Curitiba IV, na Região Noroeste de Goiânia. A ação, promovida pela Corregedoria-Geral da Justiça de Goiás (CGJGO) e instituições parceiras, possibilitou reconhecimentos de",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "ce390d5e8a991b17",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Academia de Polícia Judicial divulga calendário de cursos para o segundo semestre de 2026",
+      "link": "https://www.cnj.jus.br/academia-de-policia-judicial-divulga-calendario-de-cursos-para-o-segundo-semestre-de-2026/",
+      "resumo": "Nos meses de setembro, outubro e novembro, a Academia Nacional de Polícia Judicial (ANPJ) do Conselho Nacional de Justiça (CNJ) realizará um ciclo de capacitação que aborda como temas o Protocolo de Atendimento à Mulher Vítima de Violência, os Direitos Humanos e a Cibersegurança. As capacitações são",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "cade",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "c1bf34a83ed6cda3",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Inscrições para minicurso sobre assédio eleitoral vão até 15 de setembro",
+      "link": "https://www.cnj.jus.br/inscricoes-para-minicurso-sobre-assedio-eleitoral-vao-ate-15-de-setembro/",
+      "resumo": "Estão abertas as inscrições para o minicurso Assédio Eleitoral e o Seu Enfrentamento, promovido pelo Conselho Nacional de Justiça (CNJ), com apoio da Escola Nacional do Judiciário (Enaju). A capacitação será realizada em 16 de setembro, das 10h às 18h, em formato híbrido, com atividades presenciais ",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "206cca0b09b59fe7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão mista aprova fim da \"taxa das blusinhas\"; proposta segue para o Plenário da Câmara",
+      "link": "https://www.camara.leg.br/noticias/1302214-comissao-mista-aprova-fim-da-taxa-das-blusinhas-proposta-segue-para-o-plenario-da-camara",
+      "resumo": "",
+      "publicado_em": "2026-09-02T14:02:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "ce0435f9e27283de",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Multas ambientais aplicadas a produtores em Minas Gerais poderão ser reavaliadas, diz ICMBio",
+      "link": "https://www.camara.leg.br/noticias/1302164-multas-ambientais-aplicadas-a-produtores-em-minas-gerais-poderao-ser-reavaliadas-diz-icmbio",
+      "resumo": "",
+      "publicado_em": "2026-09-02T13:44:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "17fdbe3a357cb0a0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto limita a compra de alimentos ultraprocessados na merenda escolar",
+      "link": "https://www.camara.leg.br/noticias/1301696-projeto-limita-a-compra-de-alimentos-ultraprocessados-na-merenda-escolar",
+      "resumo": "",
+      "publicado_em": "2026-09-02T13:40:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "5576edca1cf3299b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe agente público de receber cortesias de empresas",
+      "link": "https://www.camara.leg.br/noticias/1300353-projeto-proibe-agente-publico-de-receber-cortesias-de-empresas",
+      "resumo": "",
+      "publicado_em": "2026-09-02T13:28:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "403751ad0dec5466",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê descontos em tarifas para quem fizer coleta seletiva",
+      "link": "https://www.camara.leg.br/noticias/1301684-projeto-preve-descontos-em-tarifas-para-quem-fizer-coleta-seletiva",
+      "resumo": "",
+      "publicado_em": "2026-09-02T13:01:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "ad96a564c5b1530e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova indicação do senador Rodrigo Pacheco para ministro do TCU",
+      "link": "https://www.camara.leg.br/noticias/1302159-camara-aprova-indicacao-do-senador-rodrigo-pacheco-para-ministro-do-tcu",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:18:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "1f42bdd1a1171afb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão especial aprova 33 requerimentos para audiências sobre redução da maioridade penal; assista",
+      "link": "https://www.camara.leg.br/noticias/1302176-comissao-especial-aprova-33-requerimentos-para-audiencias-sobre-reducao-da-maioridade-penal-assista",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:08:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "31e2ebc982e4a32a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão mista aprova medida provisória que visa diminuir filas do INSS",
+      "link": "https://www.camara.leg.br/noticias/1302163-comissao-mista-aprova-medida-provisoria-que-visa-diminuir-filas-do-inss",
+      "resumo": "",
+      "publicado_em": "2026-09-02T11:51:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "medida provisoria",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "ea264f3f5ae6509f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe bloqueio de gastos de agências reguladoras federais",
+      "link": "https://www.camara.leg.br/noticias/1302089-projeto-proibe-bloqueio-de-gastos-de-agencias-reguladoras-federais",
+      "resumo": "",
+      "publicado_em": "2026-09-02T10:21:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "4253fab9bfaeda81",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria exceções a restrições fiscais para benefícios e despesas em 2026",
+      "link": "https://www.camara.leg.br/noticias/1302085-projeto-cria-excecoes-a-restricoes-fiscais-para-beneficios-e-despesas-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-02T09:41:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "b48fb886526f22be",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade celebra dois acordos com Covabra Supermercados",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-celebra-dois-acordos-com-covabra-supermercados",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "8c81d9fb7cfeeb63",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade determina continuidade de investigação sobre cláusulas contratuais da 99Food, mas nega pedido de medida preventiva no caso",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-determina-continuidade-de-investigacao-sobre-clausulas-contratuais-da-99food-mas-nega-pedido-de-medida-preventiva-no-caso",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "a0ad780b4d629a35",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Tem início a 271ª sessão de julgamento do Cade",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/tem-inicio-a-271a-sessao-de-julgamento-do-cade",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "julgamento",
+        "julga",
+        "cade"
+      ],
+      "coletado_em": "2026-09-02T15:31:19-03:00"
     },
     {
       "id": "64111120e269a1ec",
