@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-01T19:15:07-03:00",
+  "gerado_em": "2026-09-02T12:01:34-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,39 +154,39 @@
     },
     {
       "id": "pgfn",
-      "status": "ok",
-      "itens": 29,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /pgfn/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "senado",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www12.senado.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www12.senado"
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
-      "status": "ok",
-      "itens": 3,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /receitafederal/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='"
     },
     {
       "id": "fazenda",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /fazenda/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
     },
     {
       "id": "anpd",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /anpd/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effecti"
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@
     },
     {
       "id": "cvm",
-      "status": "ok",
-      "itens": 1,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cvm/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br'"
     },
     {
       "id": "bacen",
@@ -210,13 +210,13 @@
       "id": "coaf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/coaf/pt-br/assuntos/noticias"
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /coaf/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "cade",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cade/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "cnj",
@@ -226,15 +226,15 @@
     },
     {
       "id": "mjsp",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mj/pt-br/assuntos/noticias-1 (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "carf",
-      "status": "ok",
-      "itens": 3,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /carf/pt-br/assuntos/novas-noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www."
     },
     {
       "id": "governo_federal",
@@ -285,6 +285,405 @@
         "acao"
       ],
       "coletado_em": "2026-09-01T15:19:17-03:00"
+    },
+    {
+      "id": "7ca2315023653534",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Obras alteram funcionamento da Unidade de Apoio Operacional e da 4ª Vara do Trabalho de Diadema-SP",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/obras-alteram-funcionamento-da-unidade-de-apoio-operacional-e-da-4a-vara-do-trabalho-de-diadema-sp",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "0f82ecf2c8bc27c7",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Conheça o Pappi, iniciativa do TRT-2 para apoiar a formação de precedentes",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/conheca-o-pappi-iniciativa-do-trt-2-para-apoiar-a-formacao-de-precedentes",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "precedente",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "e25f77a908ae7ffa",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Resort indenizará família que sofreu intoxicação alimentar após ceia de Natal",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115211&pagina=1",
+      "resumo": "Estadia com “tudo incluso”.\n \n\tA 36ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve decisão da 7ª Vara Cível de São",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "decisao",
+        "indenizar",
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "67723b794dc8d48f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "EPM lança edição dos Cadernos Jurídicos sobre direitos da população LGBTI+",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115209&pagina=1",
+      "resumo": "Publicação reúne dez artigos de magistrados e outros profissionais.\n \n\tA edição 70 dos Cadernos Jurídicos da Escola Paulista da Magistratura traz dez artigos sobre direitos",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "42144dbadcfe129b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF abre evento internacional sobre independência judicial nas democracias contemporâneas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-abre-evento-internacional-sobre-independencia-judicial-nas-democracias-contemporaneas/",
+      "resumo": "Encontro realizado no Supremo reúne especialistas do Brasil, da Itália e da Espanha para discutir desafios das cortes constitucionais",
+      "publicado_em": "2026-09-02T11:03:31-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "8a08913e4db7f9cf",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Manifestação do presidente do STF, ministro Edson Fachin",
+      "link": "https://noticias.stf.jus.br/postsnoticias/manifestacao-do-presidente-do-stf-ministro-edson-fachin/",
+      "resumo": "",
+      "publicado_em": "2026-09-02T09:46:19-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "9c59cdb96a687c2f",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quarta-feira (2)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-2/",
+      "resumo": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "publicado_em": "2026-09-02T09:07:34-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "d8845fd7debefaa0",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Anvisa suspende fabricação de produtos de limpeza em unidade da Unilever",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/anvisa-suspende-fabricacao-de-produtos-de-limpeza-em-unidade-da-unilever",
+      "resumo": "",
+      "publicado_em": "2026-09-02T10:46:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "570fb4c5577556cc",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Policias Federal e Civil fazem operação nacional contra abuso sexual de crianças e adolescentes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-deflagra-operacao-nacional-protecao-integral-v-contra-abuso-sexual-de-criancas-e-adolescentes",
+      "resumo": "",
+      "publicado_em": "2026-09-02T08:48:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "a5fd51273f71d68e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "CCJ da Câmara aprova aumento do limite na admissão de bombeiros no DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/121891/ccj-da-camara-aprova-aumento-do-limite-na-admissao-de-bombeiros-no-df",
+      "resumo": "Texto amplia de 377 para até 714 novos integrantes anualmente na corporação.",
+      "publicado_em": "2026-09-02T11:33:49-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "70a11b55e560a322",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques nega retirada de live de Flávio com carta de Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/121889/nunes-marques-nega-retirada-de-live-de-flavio-com-carta-de-bolsonaro",
+      "resumo": "Presidente do TSE afirmou que conteúdo está protegido pela liberdade de expressão.",
+      "publicado_em": "2026-09-02T10:57:53-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "c9b604130a1ffc4a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova prazo de 5 anos para sanções a notários e registradores",
+      "link": "https://www.congressoemfoco.com.br/noticia/121888/senado-aprova-prazo-de-5-anos-para-sancoes-a-notarios-e-registradores",
+      "resumo": "Proposta altera a Lei dos Cartórios, estabelecendo que a contagem do prazo para a prescrição das sanções se inicia a partir da ocorrência do fato.",
+      "publicado_em": "2026-09-02T10:46:40-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "prescricao",
+        "prazo",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "aeee7151774e100f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Omar Aziz cobra apoio ao fim da 6x1 de quem diz defender a família",
+      "link": "https://www.congressoemfoco.com.br/noticia/121887/omar-aziz-cobra-apoio-ao-fim-da-6x1-de-quem-diz-defender-a-familia",
+      "resumo": "Relator afirma que redução da jornada amplia convivência de trabalhadores com os filhos e destaca impacto sobre mulheres e mães solo.",
+      "publicado_em": "2026-09-02T10:41:21-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "5d238487ca0aabdd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Comissão vota relatório da MP da taxa das blusinhas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121886/comissao-vota-relatorio-da-mp-da-taxa-das-blusinhas",
+      "resumo": "Texto mantém possibilidade de zerar Imposto de Importação para compras de até US$ 50 e precisa avançar na Câmara e no Senado até 8 de setembro.",
+      "publicado_em": "2026-09-02T10:17:55-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "3184a3d9d7e6b8ae",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fim da escala 6x1: Aziz rejeita 36 emendas e mantém texto da Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/121885/fim-da-escala-6x1-aziz-rejeita-36-emendas-e-mantem-texto-da-camara",
+      "resumo": "Relator havia descartado 12 propostas em parecer anterior; nova versão preserva jornada de 40 horas, dois dias de descanso e transição aprovada pelos deputados.",
+      "publicado_em": "2026-09-02T10:04:48-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "52316b1a502f104f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin vê \"sérios elementos\" no caso Vorcaro-Moraes e anuncia medidas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121884/fachin-ve-serios-elementos-no-caso-vorcaro-moraes-e-anuncia-medidas",
+      "resumo": "Presidente da Corte afirmou que cargo de ministro não confere privilégios e anunciou que, após analisar os fatos, divulgará nos próximos dias as medidas consideradas necessárias.",
+      "publicado_em": "2026-09-02T09:46:04-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "f4ddce692483fe26",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques mantém propaganda de Lula que liga Flávio ao caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/121883/nunes-marques-mantem-propaganda-de-lula-que-liga-flavio-ao-caso-master",
+      "resumo": "Ministro afirma que áudio com Vorcaro tem base factual, diz que críticas fazem parte do debate eleitoral e não vê falsidade manifesta que justifique tirar peça do ar.",
+      "publicado_em": "2026-09-02T09:28:11-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "5dbd9fed8ab9b932",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques manda retirar post com imagem de IA de Flávio e Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/121882/nunes-marques-manda-retirar-post-com-imagem-de-ia-de-flavio-e-vorcaro",
+      "resumo": "Ministro do TSE acolheu pedido do PL e apontou falta de identificação do conteúdo artificial e possível manipulação de contexto.",
+      "publicado_em": "2026-09-02T09:21:24-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "c0ba880fbdff0bcb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça confirma encontro com Vorcaro e diz ter votado contra Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/121881/mendonca-confirma-encontro-com-vorcaro-e-diz-ter-votado-contra-master",
+      "resumo": "Ministro afirma que recebeu banqueiro uma única vez para tratar de processo sobre precatórios e diz que sua atuação no caso foi contrária aos interesses defendidos pelo empresário.",
+      "publicado_em": "2026-09-02T09:11:23-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "precatorio",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "1d835f47e1a39ce1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vereadores batem boca em sessão: \"mulher destemperada de Tiktok\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121880/vereadores-batem-boca-em-sessao--mulher-destemperada-de-tiktok",
+      "resumo": "Confronto ocorreu após críticas à gestão da pasta e pedidos de mudanças no comando da Saúde.",
+      "publicado_em": "2026-09-02T08:50:59-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "6440274d19543822",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AO VIVO: CCJ do Senado começa a votar o fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/121879/ao-vivo-ccj-do-senado-comeca-a-votar-o-fim-da-escala-6x1",
+      "resumo": "Relator Omar Aziz mantém texto aprovado pela Câmara e tenta levar proposta ao Plenário ainda nesta quarta-feira.",
+      "publicado_em": "2026-09-02T08:49:44-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "b11a97827684be7e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Decisão ilegal não se cumpre\", diz Renan sobre suspensão de campanha",
+      "link": "https://www.congressoemfoco.com.br/noticia/121878/decisao-ilegal-nao-se-cumpre--diz-renan-sobre-suspensao-de-campanha",
+      "resumo": "Presidenciável anunciou que pedirá impeachment de Dias Toffoli e Alexandre de Moraes.",
+      "publicado_em": "2026-09-02T08:09:06-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "8937864cd338576f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Leila acolhe nove emendas à MP das Blusinhas; veja o relatório",
+      "link": "https://www.congressoemfoco.com.br/noticia/121877/leila-acolhe-nove-emendas-a-mp-das-blusinhas-veja-o-relatorio",
+      "resumo": "Relatora mantém a possibilidade de zerar o imposto sobre compras de até US$ 50 e amplia regras para plataformas e medicamentos sem similar nacional. Propostas de compensações para indústria não foram contempladas.",
+      "publicado_em": "2026-09-02T07:59:58-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "28894b7355ad5a53",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Não devo achar nada\", diz Alcolumbre de mensagens de Moraes e Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/121876/nao-devo-achar-nada--diz-alcolumbre-de-mensagens-de-moraes-e-vorcaro",
+      "resumo": "Presidente do Senado evita comentar diálogos e destaca quantidade de pedidos de impeachment no Congresso.",
+      "publicado_em": "2026-09-02T07:39:29-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "101ba0ee20e2140f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE rejeita multa a Flávio Bolsonaro e define critério para deepfake",
+      "link": "https://www.congressoemfoco.com.br/noticia/121875/tse-rejeita-multa-a-flavio-bolsonaro-e-define-criterio-para-deepfake",
+      "resumo": "Corte afasta punição por vídeo de Jair Bolsonaro feito com IA em convenção do PL e decide que deepfake exige realismo capaz de simular registro autêntico.",
+      "publicado_em": "2026-09-02T07:23:55-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "decide",
+        "multa"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
     },
     {
       "id": "64111120e269a1ec",
@@ -461,6 +860,20 @@
         "recurso"
       ],
       "coletado_em": "2026-09-01T19:15:07-03:00"
+    },
+    {
+      "id": "cb65f8ee04716f4f",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF recebe a partir desta quarta (2) 17ª edição da Jornada Ítalo-Hispano-Brasileira de Direito Público",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-a-partir-desta-quarta-2-17a-edicao-da-jornada-italo-hispano-brasileira-de-direito-publico/",
+      "resumo": "Evento discutirá resistência democrática e justiça constitucional",
+      "publicado_em": "2026-09-01T19:46:45-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
     },
     {
       "id": "3653139e0d262f37",
@@ -1628,6 +2041,20 @@
       "coletado_em": "2026-09-01T15:19:17-03:00"
     },
     {
+      "id": "f94870ae7ab31880",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Estudantes em classe hospitalar têm direito a fazer a prova do Enem. Entenda",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/enem-possibilita-que-estudantes-facam-exame-em-classe-hospitalar",
+      "resumo": "",
+      "publicado_em": "2026-09-01T19:52:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
       "id": "7c56f433c42e3750",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -2022,6 +2449,71 @@
         "cbs"
       ],
       "coletado_em": "2026-09-01T15:19:17-03:00"
+    },
+    {
+      "id": "c73ee84068c2b928",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara aprova política de vigilância sanitária em hospitais privados",
+      "link": "https://www.congressoemfoco.com.br/noticia/121873/camara-aprova-politica-de-vigilancia-sanitaria-em-hospitais-privados",
+      "resumo": "Política prevê fiscalização de serviços privados de saúde, divulgação de avaliações e sanções por descumprimento.",
+      "publicado_em": "2026-09-01T21:49:12-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "9ac5b91d87867aae",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio cobra impeachment de Moraes por conversas com Daniel Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/121872/flavio-cobra-impeachment-de-moraes-por-conversas-com-daniel-vorcaro",
+      "resumo": "Senador cobra abertura imediata de processo contra ministro após divulgação de relatório da Polícia Federal.",
+      "publicado_em": "2026-09-01T21:20:56-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "d6e5ea1db27ceea7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PGR pede nulidade de relatório sobre mensagens de Moraes e Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/121871/pgr-pede-nulidade-de-relatorio-sobre-mensagens-de-moraes-e-vorcaro",
+      "resumo": "Paulo Gonet afirma que relatório da Polícia Federal sobre conteúdo do celular de Daniel Vorcaro foi produzido de forma irregular.",
+      "publicado_em": "2026-09-01T20:00:59-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "09fda97718751adf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"TCU nunca foi tão importante quanto agora\", diz Rodrigo Pacheco",
+      "link": "https://www.congressoemfoco.com.br/noticia/121870/tcu-nunca-foi-tao-importante-quanto-agora--diz-rodrigo-pacheco",
+      "resumo": "Indicado ao TCU, Pacheco destaca papel da Corte na fiscalização e no controle da aplicação dos recursos públicos.",
+      "publicado_em": "2026-09-01T19:35:17-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
     },
     {
       "id": "be7696381004f000",
@@ -2618,7 +3110,7 @@
       "id": "b0c7c41299764472",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "CNJ aplica disponibilidade a desembargador do TJBA que concedeu prisão domiciliar a suspeito de liderar facção",
+      "titulo": "CNJ pune desembargador do TJBA que concedeu prisão domiciliar a suspeito de liderar facção",
       "link": "https://www.cnj.jus.br/cnj-aplica-disponibilidade-a-desembargador-do-tjba-que-concedeu-prisao-domiciliar-a-suspeito-de-liderar-faccao/",
       "resumo": "O Plenário do Conselho Nacional de Justiça (CNJ) decidiu, por unanimidade, aplicar a pena de disponibilidade, com vencimentos proporcionais ao tempo de serviço, por dois anos, ao desembargador Luiz Fernando Lima, do Tribunal de Justiça da Bahia (TJBA). O processo disciplinar analisou a decisão do ma",
       "publicado_em": "2026-09-01T12:00:00-03:00",
@@ -2678,6 +3170,25 @@
         "precedente"
       ],
       "coletado_em": "2026-09-01T15:19:17-03:00"
+    },
+    {
+      "id": "582e836dde628089",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Juízes-corregedores não terão preferência em movimentações no RS, decide CNJ",
+      "link": "https://www.cnj.jus.br/juizes-corregedores-nao-terao-preferencia-em-movimentacoes-no-rs-decide-cnj/",
+      "resumo": "Por unanimidade, o Conselho Nacional de Justiça (CNJ) deu provimento a recurso que questionava regra do Código de Organização Judiciária do Rio Grande do Sul. O dispositivo estabelecia preferência a juízes-corregedores em processos de remoção e classificação na carreira da magistratura. Para o CNJ, ",
+      "publicado_em": "2026-09-01T12:00:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "decide",
+        "processo",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T12:01:34-03:00"
     },
     {
       "id": "a1f77f38820923b2",
@@ -31899,20 +32410,6 @@
         "processo",
         "acao"
       ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "ab7c0fd0c5112757",
-      "fonte_id": "pgfn",
-      "fonte_nome": "PGFN",
-      "titulo": "PGFN torna público leilão de direitos e ativos minerários",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/pgfn-torna-publico-leilao-de-direitos-e-ativos-minerarios",
-      "resumo": "",
-      "publicado_em": "2026-06-03T12:00:00-03:00",
-      "dia": "2026-06-03",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
