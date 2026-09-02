@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-02T15:31:19-03:00",
+  "gerado_em": "2026-09-02T17:13:13-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 14,
       "erro": null
     },
     {
@@ -386,6 +386,39 @@
       "coletado_em": "2026-09-02T12:01:34-03:00"
     },
     {
+      "id": "06cbc3bba7ecd45f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Palestra aborda mitos e preconceitos sobre a sexualidade na terceira idade",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115213&pagina=1",
+      "resumo": "Campanha “Talento não tem idade”. \n \n\tEm mais uma ação da campanha \"Talento não tem idade: diga não ao etarismo\", a Diretoria de Apoio aos Servidores",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "05347afc8fa324d6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF invalida trechos de resolução do CFM que interferiam no ensino de medicina",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-trechos-de-resolucao-do-cfm-que-interferiam-no-ensino-de-medicina/",
+      "resumo": "Plenário derrubou regras sobre ‘interdição ética’ de aulas, estágios para estudantes do exterior e remuneração de coordenadores",
+      "publicado_em": "2026-09-02T17:06:02-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "resolucao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
       "id": "42144dbadcfe129b",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -432,6 +465,126 @@
         "adi"
       ],
       "coletado_em": "2026-09-02T12:01:34-03:00"
+    },
+    {
+      "id": "40bd9d50282ed0cc",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PEC da Segurança: CCJ aprova texto-base com retirada de regra sobre bets",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/pec-da-seguranca-ccj-aprova-texto-base-com-retirada-de-regra-sobre-bets",
+      "resumo": "",
+      "publicado_em": "2026-09-02T17:02:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "c35992a53d69b684",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Em discurso, Dueire apoia incentivo ao uso de biocombustíveis em navios",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/em-discurso-dueire-apoia-incentivo-ao-uso-de-biocombustiveis-em-navios",
+      "resumo": "",
+      "publicado_em": "2026-09-02T16:51:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "f39602ce31b18a13",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pontes vai presidir Subcomissão sobre Desenvolvimento de Vacinas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/pontes-vai-presidir-subcomissao-sobre-desenvolvimento-de-vacinas",
+      "resumo": "",
+      "publicado_em": "2026-09-02T16:49:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "b736cb23080295d3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Veneziano comemora aprovação na CCJ da PEC que acaba com a escala 6x1",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/veneziano-comemora-aprovacao-na-ccj-da-pec-que-acaba-com-a-escala-6x1",
+      "resumo": "",
+      "publicado_em": "2026-09-02T16:22:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 38,
+      "tags": [
+        "aprova",
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "9d1fb6c4ee4d2233",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCJ aprova texto da PEC que acaba com a escala de trabalho 6x1",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/ccj-aprova-texto-da-pec-que-acaba-com-a-escala-de-trabalho-6x1",
+      "resumo": "",
+      "publicado_em": "2026-09-02T15:58:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "dad62619f823f2a9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Plínio Valério diz que denúncias contra Moraes 'são terríveis' e pede impeachment",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/plinio-valerio-diz-que-denuncias-contra-moraes-sao-terriveis-e-pede-impeachment",
+      "resumo": "",
+      "publicado_em": "2026-09-02T15:57:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "3b59ea5ef8b78242",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Banco Master: Jorge Kajuru defende afastamento de autoridades investigadas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/banco-master-jorge-kajuru-defende-afastamento-de-autoridades-investigadas",
+      "resumo": "",
+      "publicado_em": "2026-09-02T15:40:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "931b5d3269d50c1f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim da escala 6x1 passa na CCJ e vai a Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/02/aguardar-fim-da-escala-6x1-passa-na-ccj-e-vai-a-plenario",
+      "resumo": "",
+      "publicado_em": "2026-09-02T15:24:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
     },
     {
       "id": "19131e13e7480a8f",
@@ -722,6 +875,82 @@
       "coletado_em": "2026-09-02T15:31:19-03:00"
     },
     {
+      "id": "70e8b79a92b781e3",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Rede EaD Senasp oferece curso para elaboração de materiais didáticos do ensino a distância",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rede-ead-senasp-oferece-curso-para-elaboracao-de-materiais-didaticos-do-ensino-a-distancia",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "82eb5b53abf06c0d",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Mais de 7 mil profissionais participam de capacitação sobre atendimento a vítimas de violência",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mais-de-7-mil-profissionais-participam-de-capacitacao-sobre-atendimento-a-vitimas-de-violencia",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "bde4fc23807604ce",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Brasil registra 63,4 mil pessoas localizadas em 2025 e amplia diagnóstico sobre desaparecimentos no País",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-registra-63-4-mil-pessoas-localizadas-em-2025-e-amplia-diagnostico-sobre-desaparecimentos-no-pais",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "5a65a368af77da11",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Confira ações para o enfrentamento à violência contra as mulheres realizadas no Agosto Lilás",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/agosto-lilas-confira-acoes-e-informacoes-sobre-prevencao-e-enfrentamento-a-violencia-contra-as-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-09-02T16:02:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "6dd454cf089f94b4",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Avanço dos EUA sobre recursos estratégicos pauta o 'Brasil no Mundo' desta quinta (3)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/avanco-dos-eua-sobre-recursos-estrategicos-pauta-o-brasil-no-mundo-desta-quinta-03",
+      "resumo": "",
+      "publicado_em": "2026-09-02T15:18:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
       "id": "d21138d7bdbacf8b",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -824,6 +1053,120 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "844a93298370787c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Comissão adia votação do novo Código de Trânsito para outubro",
+      "link": "https://www.congressoemfoco.com.br/noticia/121910/comissao-adia-votacao-do-novo-codigo-de-transito-para-outubro",
+      "resumo": "Projeto com novas regras de habilitação e fiscalização de trânsito é postergado para depois das eleições.",
+      "publicado_em": "2026-09-02T16:55:18-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "adi",
+        "novas regras",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "f12c72fa3d8d334c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Suplência no Senado: Quando o mandato popular vira assunto de família",
+      "link": "https://www.congressoemfoco.com.br/artigo/121909/suplencia-no-senado-quando-o-mandato-popular-vira-assunto-de-familia",
+      "resumo": "Presença de parentes nas chapas reacende debate sobre transparência e sobre quem pode assumir um mandato mesmo sem receber votos nominais.",
+      "publicado_em": "2026-09-02T16:53:29-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "308c9838efa65e5b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova uso de ônibus escolar por professores e universitários",
+      "link": "https://www.congressoemfoco.com.br/noticia/121908/senado-aprova-uso-de-onibus-escolar-por-professores-e-universitarios",
+      "resumo": "Texto permite o aproveitamento das cadeiras vagas no transporte público.",
+      "publicado_em": "2026-09-02T16:46:25-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "cade",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "fd59652afda773fd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Debates acerca do crime contra o patrimônio cultural",
+      "link": "https://www.congressoemfoco.com.br/artigo/121906/debates-acerca-do-crime-contra-o-patrimonio-cultural",
+      "resumo": "A efetiva atuação do TPI na proteção do patrimônio cultural pode ser limitada por adesão a corrente jurisprudencial controversa.",
+      "publicado_em": "2026-09-02T16:43:18-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "6c1b26b236e7672c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "CCJ aprova PEC da Segurança; destaque adia análise em Plenário",
+      "link": "https://www.congressoemfoco.com.br/noticia/121905/ccj-aprova-pec-da-seguranca-destaque-adia-analise-em-plenario",
+      "resumo": "Destaque de emenda solicitado por Carlos Portinho impediu que matéria fosse levada a plenário.",
+      "publicado_em": "2026-09-02T15:52:45-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "adi",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "1efb33a33b5fd561",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Avança no Senado proibição de publicidade e patrocínio de bets",
+      "link": "https://www.congressoemfoco.com.br/noticia/121904/avanca-no-senado-proibicao-de-publicidade-e-patrocinio-de-bets",
+      "resumo": "Proposta proíbe anúncios de apostas em meios de comunicação, veta patrocínios esportivos e cria punições para divulgação de bets clandestinas.",
+      "publicado_em": "2026-09-02T15:43:03-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "b573c4b25da41b06",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mais tempo na escola não basta",
+      "link": "https://www.congressoemfoco.com.br/artigo/121902/mais-tempo-na-escola-nao-basta",
+      "resumo": "40 anos depois dos CIEPs, o Brasil precisa transformar a expansão da escola de tempo integral em educação integral de qualidade — e em política de Estado.",
+      "publicado_em": "2026-09-02T15:07:37-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
     },
     {
       "id": "3c23dfe44c8e6606",
@@ -1160,7 +1503,7 @@
       "id": "6440274d19543822",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "AO VIVO: CCJ do Senado aprova PEC do fim da escala 6x1",
+      "titulo": "CCJ do Senado aprova PEC do fim da escala 6x1; texto vai ao Plenário",
       "link": "https://www.congressoemfoco.com.br/noticia/121879/ao-vivo-ccj-do-senado-comeca-a-votar-o-fim-da-escala-6x1",
       "resumo": "Senadores mantiveram versão aprovada pela Câmara. Apenas quatro integrantes da comissão votaram contra. Governistas tentam levar proposta ao Plenário ainda nesta quarta-feira.",
       "publicado_em": "2026-09-02T08:49:44-03:00",
@@ -1334,7 +1677,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Academia de Polícia Judicial divulga calendário de cursos para o segundo semestre de 2026",
       "link": "https://www.cnj.jus.br/academia-de-policia-judicial-divulga-calendario-de-cursos-para-o-segundo-semestre-de-2026/",
-      "resumo": "Nos meses de setembro, outubro e novembro, a Academia Nacional de Polícia Judicial (ANPJ) do Conselho Nacional de Justiça (CNJ) realizará um ciclo de capacitação que aborda como temas o Protocolo de Atendimento à Mulher Vítima de Violência, os Direitos Humanos e a Cibersegurança. As capacitações são",
+      "resumo": "Nos meses de setembro, outubro e novembro, a Academia Nacional de Polícia Judicial (ANPJ) do Conselho Nacional de Justiça (CNJ) realizará um ciclo de capacitação que aborda temas como o Protocolo de Atendimento à Mulher Vítima de Violência, Direitos Humanos e Cibersegurança. As capacitações são volt",
       "publicado_em": "2026-09-02T12:00:00-03:00",
       "dia": "2026-09-02",
       "data_estimada": true,
@@ -1352,7 +1695,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Inscrições para minicurso sobre assédio eleitoral vão até 15 de setembro",
       "link": "https://www.cnj.jus.br/inscricoes-para-minicurso-sobre-assedio-eleitoral-vao-ate-15-de-setembro/",
-      "resumo": "Estão abertas as inscrições para o minicurso Assédio Eleitoral e o Seu Enfrentamento, promovido pelo Conselho Nacional de Justiça (CNJ), com apoio da Escola Nacional do Judiciário (Enaju). A capacitação será realizada em 16 de setembro, das 10h às 18h, em formato híbrido, com atividades presenciais ",
+      "resumo": "Estão abertas as inscrições para o minicurso “Assédio Eleitoral e o seu Enfrentamento”, promovido pelo Conselho Nacional de Justiça (CNJ), com apoio da Escola Nacional do Judiciário (Enaju). A capacitação será realizada em 16 de setembro, das 10h às 18h, em formato híbrido, com atividades presenciai",
       "publicado_em": "2026-09-02T12:00:00-03:00",
       "dia": "2026-09-02",
       "data_estimada": true,
@@ -1361,6 +1704,39 @@
         "acao"
       ],
       "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "b3acb29a90a013f3",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados iniciam votações do dia e analisam criação da Universidade Federal da Fronteira Norte; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1302284-deputados-iniciam-votacoes-do-dia-e-analisam-criacao-da-universidade-federal-da-fronteira-norte-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-09-02T16:46:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "a245192a8766d620",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão adia votação de mudanças no Código de Trânsito para depois das eleições",
+      "link": "https://www.camara.leg.br/noticias/1302272-comissao-adia-votacao-de-mudancas-no-codigo-de-transito-para-depois-das-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-09-02T15:52:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T17:13:13-03:00"
     },
     {
       "id": "206cca0b09b59fe7",
