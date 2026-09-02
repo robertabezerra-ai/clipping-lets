@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-02T17:13:13-03:00",
+  "gerado_em": "2026-09-02T19:13:07-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -160,15 +160,15 @@ window.DADOS = {
     },
     {
       "id": "senado",
-      "status": "ok",
-      "itens": 14,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www12.senado.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www12.senado"
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -334,6 +334,37 @@ window.DADOS = {
       "coletado_em": "2026-09-02T15:31:19-03:00"
     },
     {
+      "id": "e0f632a22c58bf5e",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT",
+      "link": "https://trt15.jus.br/noticia/2026/magistrados-do-trt-15-destacam-forca-da-conciliacao-em-seminario-promovido-pelo-mpt",
+      "resumo": "Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT anasiqueira Qua, 02/09/2026 - 18:48 Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora ",
+      "publicado_em": "2026-09-02T18:48:56-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 36,
+      "tags": [
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
+    },
+    {
+      "id": "62c76852bde2d09f",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Presidente do TRT-15 recebe representantes da Divisão Antissequestro da Polícia Civil",
+      "link": "https://trt15.jus.br/noticia/2026/presidente-do-trt-15-recebe-representantes-da-divisao-antissequestro-da-policia-civil",
+      "resumo": "Presidente do TRT-15 recebe representantes da Divisão Antissequestro da Polícia Civil anasiqueira Qua, 02/09/2026 - 18:42 Presidente do TRT-15 recebe representantes da Divisão Antissequestro da Polícia Civil Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargad",
+      "publicado_em": "2026-09-02T18:42:30-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
+    },
+    {
       "id": "8c8ee9fbf3245baa",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -400,6 +431,84 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "46844798e7ec5b1f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "“Poetas não morrem, eles se transformam em palavras”: centenário de Paulo Bomfim será celebrado em setembro",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115218&pagina=1",
+      "resumo": "Anos de poesia, memória e amor por São Paulo.\n \n\tA cidade de São Paulo celebrará, ao longo do mês de setembro, o centenário de nascimento",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
+    },
+    {
+      "id": "6215ebd4fabf63ff",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115219&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, reuniu-se, hoje (2), no Gabinete",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
+    },
+    {
+      "id": "7b4b53293caa0151",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Depre publica guia prático para peticionamento em precatórios",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115192&pagina=1",
+      "resumo": "Orientação a advogados sobre novos procedimentos. \n \n\tA Diretoria de Execuções de Precatórios e Cálculos (Depre) do Tribunal de Justiça de São Paulo lançou, nesta terça-feira",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "precatorio",
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
+    },
+    {
+      "id": "c52ccdc9160e8ace",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF começa a analisar se imunidade de ITBI vale para integralização de capital social de imobiliárias",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-comeca-a-analisar-se-imunidade-de-itbi-vale-para-integralizacao-de-capital-social-de-imobiliarias/",
+      "resumo": "Na sessão desta tarde, foram ouvidos argumentos da parte e de terceiros interessados",
+      "publicado_em": "2026-09-02T18:34:49-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
+    },
+    {
+      "id": "0c3b53152f9d5f4b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo invalida vinculação da remuneração de policiais civis à de delegados do Pará",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-invalida-vinculacao-da-remuneracao-de-policiais-civis-a-de-delegados-do-para/",
+      "resumo": "Entendimento foi de que a Constituição veda vinculação ou equiparação de remunerações entre carreiras diferentes do serviço público",
+      "publicado_em": "2026-09-02T18:01:53-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
     },
     {
       "id": "05347afc8fa324d6",
@@ -894,16 +1003,14 @@ window.DADOS = {
       "id": "82eb5b53abf06c0d",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
-      "titulo": "Mais de 7 mil profissionais participam de capacitação sobre atendimento a vítimas de violência",
+      "titulo": "MJSP e Ministério Público capacitam mais de 7 mil profissionais para atendimento a vítimas de violência",
       "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mais-de-7-mil-profissionais-participam-de-capacitacao-sobre-atendimento-a-vitimas-de-violencia",
       "resumo": "",
       "publicado_em": "2026-09-02T12:00:00-03:00",
       "dia": "2026-09-02",
       "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
+      "score": 40,
+      "tags": [],
       "coletado_em": "2026-09-02T17:13:13-03:00"
     },
     {
@@ -919,6 +1026,52 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "f0bd6eab588b8aea",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação A Tropa cumpre mandados contra organização criminosa em quatro unidades da Federação",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-a-tropa-cumpre-mandados-contra-organizacao-criminosa-em-quatro-unidades-da-federacao",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
+    },
+    {
+      "id": "9202eb63081de3ef",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Movimentação aérea na região Sul cresce em todos os meses de 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/movimentacao-aerea-na-regiao-sul-cresce-em-todos-os-meses-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-02T18:59:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
+    },
+    {
+      "id": "963cc15c92eece86",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "80% das escolas públicas estão conectadas com wi-fi e velocidade adequada, aponta levantamento",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/painel-do-mec-mostra-dados-de-conectividade-de-138-mil-escolas-publicas",
+      "resumo": "",
+      "publicado_em": "2026-09-02T18:50:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
     },
     {
       "id": "5a65a368af77da11",
@@ -1055,6 +1208,73 @@ window.DADOS = {
       "coletado_em": "2026-09-02T15:31:19-03:00"
     },
     {
+      "id": "2ac078839b00c655",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara aprova Política Nacional de Agroecologia e Produção Orgânica",
+      "link": "https://www.congressoemfoco.com.br/noticia/121914/camara-aprova-politica-nacional-de-agroecologia-e-producao-organica",
+      "resumo": "Texto prevê crédito, assistência técnica, pesquisa e incentivos para ampliar a produção orgânica e agroecológica.",
+      "publicado_em": "2026-09-02T19:06:28-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
+    },
+    {
+      "id": "fc3f384913156ea9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quaest registra 10% de apoio a Cury e 36% em segundo turno contra Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/121913/quaest-registra-10-de-apoio-a-cury-e-lideranca-de-lula-em-2-turno",
+      "resumo": "Presidenciável do Avante consolida terceiro lugar e aparece pela primeira vez em cenários de segundo turno contra Lula.",
+      "publicado_em": "2026-09-02T17:52:16-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
+    },
+    {
+      "id": "32d6b21de457bda5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB exalta trajetória de Pacheco após Congresso aprová-lo para o TCU",
+      "link": "https://www.congressoemfoco.com.br/noticia/121912/oab-exalta-trajetoria-de-pacheco-apos-congresso-aprova-lo-para-o-tcu",
+      "resumo": "Entidade destacou a experiência de Pacheco na advocacia, no Sistema OAB e na presidência do Senado e do Congresso.",
+      "publicado_em": "2026-09-02T17:19:44-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "aprova",
+        "oab"
+      ],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
+    },
+    {
+      "id": "bed4637f19f4971d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova política de minerais críticos; texto vai à sanção",
+      "link": "https://www.congressoemfoco.com.br/noticia/121911/senado-aprova-politica-de-minerais-criticos-texto-vai-a-sancao",
+      "resumo": "Aprovado em Plenário com regime de urgência, votação ocorreu de forma simbólica.",
+      "publicado_em": "2026-09-02T16:57:14-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 84,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
+    },
+    {
       "id": "844a93298370787c",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1102,6 +1322,24 @@ window.DADOS = {
         "aprova"
       ],
       "coletado_em": "2026-09-02T17:13:13-03:00"
+    },
+    {
+      "id": "94d9f60794e37052",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Comissão aprova ampliação de programa para reduzir fila do INSS",
+      "link": "https://www.congressoemfoco.com.br/noticia/121907/comissao-aprova-ampliacao-de-programa-para-reduzir-fila-do-inss",
+      "resumo": "Texto inclui novos pedidos de benefícios entre as prioridades e reduz de 45 para 30 dias o prazo mínimo para entrada no programa.",
+      "publicado_em": "2026-09-02T16:44:40-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "prazo",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
     },
     {
       "id": "fd59652afda773fd",
@@ -23780,16 +24018,17 @@ window.DADOS = {
       "id": "efd5255b189b1421",
       "fonte_id": "cade",
       "fonte_nome": "Cade",
-      "titulo": "Cade abre processo seletivo de estágio",
+      "titulo": "Cade abre processo seletivo de estágio para atuação em gabinetes",
       "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-abre-processo-seletivo-de-estagio",
       "resumo": "",
       "publicado_em": "2026-08-17T12:00:00-03:00",
       "dia": "2026-08-17",
       "data_estimada": true,
-      "score": 56,
+      "score": 62,
       "tags": [
         "cade",
-        "processo"
+        "processo",
+        "acao"
       ],
       "coletado_em": "2026-08-17T17:17:47-03:00"
     },
