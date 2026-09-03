@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-03T15:27:42-03:00",
+  "gerado_em": "2026-09-03T17:14:09-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -316,6 +316,38 @@
       "coletado_em": "2026-09-03T15:27:42-03:00"
     },
     {
+      "id": "c2b703228ce0c35b",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Concerto dos 40 anos do TRT-15 terá transmissão ao vivo pelo YouTube nesta quinta-feira",
+      "link": "https://trt15.jus.br/noticia/2026/concerto-dos-40-anos-do-trt-15-tera-transmissao-ao-vivo-pelo-youtube-nesta-quinta",
+      "resumo": "Concerto dos 40 anos do TRT-15 terá transmissão ao vivo pelo YouTube nesta quinta-feira anasiqueira Qui, 03/09/2026 - 15:56 Concerto dos 40 anos do TRT-15 terá transmissão ao vivo pelo YouTube nesta quinta-feira Conteúdo da Notícia O concerto da Orquestra Sinfônica Municipal de Campinas em homenagem",
+      "publicado_em": "2026-09-03T15:56:11-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenagem"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "849460d3552422a4",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Escola Judicial amplia ações formativas e capacitações no segundo quadrimestre",
+      "link": "https://trt15.jus.br/noticia/2026/escola-judicial-amplia-acoes-formativas-e-capacitacoes-no-segundo-quadrimestre",
+      "resumo": "Escola Judicial amplia ações formativas e capacitações no segundo quadrimestre anasiqueira Qui, 03/09/2026 - 15:53 Escola Judicial amplia ações formativas e capacitações no segundo quadrimestre Conteúdo da Notícia A Escola Judicial do Tribunal Regional do Trabalho da 15ª Região (Ejud-15) encerrou o ",
+      "publicado_em": "2026-09-03T15:53:53-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
       "id": "5c6b48466e63b7db",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -350,20 +382,6 @@
         "acao"
       ],
       "coletado_em": "2026-09-01T15:19:17-03:00"
-    },
-    {
-      "id": "4af0652e1acbb3ec",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Presidente do TRT-15 recebe representantes da Divisão Antissequestro da Polícia Civil",
-      "link": "https://trt15.jus.br/noticia/2026/presidente-do-trt-15-recebe-representantes-da-divisao-antissequestro-da-policia-0",
-      "resumo": "Presidente do TRT-15 recebe representantes da Divisão Antissequestro da Polícia Civil anagatto Qui, 03/09/2026 - 11:23 Presidente do TRT-15 recebe representantes da Divisão Antissequestro da Polícia Civil Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora",
-      "publicado_em": "2026-09-03T11:23:23-03:00",
-      "dia": "2026-09-03",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-03T11:55:43-03:00"
     },
     {
       "id": "75ffbcd7ed82054d",
@@ -431,12 +449,26 @@
       "coletado_em": "2026-09-03T15:27:42-03:00"
     },
     {
+      "id": "bd3af60c0bb3982b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ministro Zanin é eleito para segundo mandato como substituto do TSE",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ministro-zanin-e-eleito-para-segundo-mandato-como-substituto-do-tse/",
+      "resumo": "Ministro inicia novo biênio na corte eleitoral",
+      "publicado_em": "2026-09-03T16:27:31-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
       "id": "c70a189a84f7c103",
       "fonte_id": "stf",
       "fonte_nome": "STF",
       "titulo": "Jornada Ítalo-Hispano-Brasileira termina com debate sobre democracia e justiça constitucional",
       "link": "https://noticias.stf.jus.br/postsnoticias/jornada-italo-hispano-brasileira-termina-com-debate-sobre-democracia-e-justica-constitucional/",
-      "resumo": "Durante dois dias, especialistas do Brasil, da Itália e da Espanha discutiram os desafios contemporâneos enfrentados pelas cortes constitucionais",
+      "resumo": "Durante dois dias, especialistas do Brasil, da Itália e da Espanha discutiram desafios contemporâneos enfrentados pelas cortes constitucionais",
       "publicado_em": "2026-09-03T13:41:18-03:00",
       "dia": "2026-09-03",
       "data_estimada": false,
@@ -783,6 +815,48 @@
       "coletado_em": "2026-09-03T15:27:42-03:00"
     },
     {
+      "id": "3626713c73fd013e",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Prevenção ampliada integra cuidado, acesso a direitos e alternativas lícitas de vida",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/prevencao-ampliada-integra-cuidado-acesso-a-direitos-e-alternativas-licitas-de-vida",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "2e5c56cd077aa8b2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Observatório Nacional obtém financiamento para centro de IA em astronomia e geofísica",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/observatorio-nacional-ganha-financiamento-para-montar-centro-de-ia-em-astronomia-e-geofisica",
+      "resumo": "",
+      "publicado_em": "2026-09-03T16:34:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "948cfe97b054aae8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Divulgados os gabaritos do Encceja 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/divulgados-os-gabaritos-do-encceja-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-03T15:09:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
       "id": "e3788711bfa529c0",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -802,7 +876,7 @@
       "id": "2100c9ce923e8378",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Fundo público faz edital para prover internet em Unidades Básicas de Saúde de 800 municípios",
+      "titulo": "Fundo público faz edital para prover internet em Unidades Básicas de Saúde de 800 cidades",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/edital-preve-contratacao-de-internet-para-unidades-basicas-de-saude",
       "resumo": "",
       "publicado_em": "2026-09-03T10:25:00-03:00",
@@ -827,6 +901,104 @@
         "acao"
       ],
       "coletado_em": "2026-09-03T11:55:43-03:00"
+    },
+    {
+      "id": "b162b35029a57f7c",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Tesouro Nacional convida o público a avaliar o Relatório Mensal da Dívida Pública Federal",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/tesouro-nacional-convida-o-publico-a-avaliar-o-relatorio-mensal-da-divida-publica-federal",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "f03376c3297b8f0c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara aprova MP do fim da taxa das blusinhas; texto vai ao Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/121950/camara-aprova-mp-do-fim-da-taxa-das-blusinhas-texto-vai-ao-senado",
+      "resumo": "Projeto prioritário na agenda legislativa do Executivo avança para última etapa de deliberação no Congresso.",
+      "publicado_em": "2026-09-03T16:42:05-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "e0349bf2efa35eb4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Líder do MDB anuncia PEC paralela para ajustar fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/121945/lider-do-mdb-anuncia-pec-paralela-para-ajustar-fim-da-escala-6x1",
+      "resumo": "Eduardo Braga apoiou o fim da escala 6x1 na CCJ, mas quer discutir em uma PEC paralela a transição, a negociação coletiva, regras para setores específicos e a desoneração da folha.",
+      "publicado_em": "2026-09-03T15:30:51-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "5498b964e6efc8ad",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Guerra no delivery pode afetar relação com a China, diz especialista",
+      "link": "https://www.congressoemfoco.com.br/noticia/121944/guerra-no-delivery-pode-afetar-relacao-com-a-china-diz-especialista",
+      "resumo": "Diretora do Programa Brasil no Inter-American Dialogue destaca que empresas chinesas passaram a influenciar também a percepção sobre o país.",
+      "publicado_em": "2026-09-03T15:23:39-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "a15ae7596c81d783",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governo regulamenta retomada de R$ 1 bilhão ligado a bets ilegais",
+      "link": "https://www.congressoemfoco.com.br/noticia/121943/governo-regulamenta-retomada-de-r-1-bilhao-ligado-a-bets-ilegais",
+      "resumo": "Portaria cria fluxo administrativo para processos de perdimento de recursos e prevê que valores incorporados à União possam reforçar o Fundo Nacional de Segurança Pública.",
+      "publicado_em": "2026-09-03T15:08:24-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "portaria",
+        "regulamenta",
+        "processo",
+        "recurso"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "233bbcf36ca937b4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O patrimônio cultural a serviço da democracia",
+      "link": "https://www.congressoemfoco.com.br/artigo/121941/o-patrimonio-cultural-a-servico-da-democracia",
+      "resumo": "Acervos históricos de parlamentos e outras instituições públicas vão além do registro da memória: contextualizados, fortalecem a educação para a democracia, a cidadania e o pensamento crítico.",
+      "publicado_em": "2026-09-03T14:47:59-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
     },
     {
       "id": "ee5918d2ccfdd662",
@@ -873,6 +1045,39 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "53408421cb7925b4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Produtividade real não nasce do cansaço",
+      "link": "https://www.congressoemfoco.com.br/artigo/121937/produtividade-real-nao-nasce-do-cansaco",
+      "resumo": "Reduzir a jornada não é apenas uma concessão ao bem-estar. É uma decisão estratégica que exige reorganização do trabalho, acompanhamento de resultados e uma nova compreensão sobre produtividade.",
+      "publicado_em": "2026-09-03T14:19:57-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "e81e07e182808d11",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fin defende ação integrada contra fraudes digitais em fórum no STJ",
+      "link": "https://www.congressoemfoco.com.br/noticia/121935/fin-defende-acao-integrada-contra-fraudes-digitais-em-forum-no-stj",
+      "resumo": "Encontro discutiu como bancos, plataformas, governo e Judiciário podem atuar de forma coordenada contra crimes digitais.",
+      "publicado_em": "2026-09-03T13:47:24-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
     },
     {
       "id": "248bf26e4954bcac",
@@ -1113,7 +1318,7 @@
       "fonte_nome": "CNJ",
       "titulo": "TJAL promove 1º Encontro de Unidades de Monitoramento da Corte Interamericana de Direitos Humanos",
       "link": "https://www.cnj.jus.br/tjal-promove-1o-encontro-de-unidades-de-monitoramento-da-corte-interamericana-de-direitos-humanos/",
-      "resumo": "O Tribunal de Justiça de Alagoas (TJAL) deu início, nesta quinta (3), ao 1° Encontro das Unidades de Monitoramento e Fiscalização (UMFs) das decisões da Corte Interamericana de Direitos Humanos (Corte IDH) da região Nordeste. O evento segue até esta sexta (4), na sede do TJAL. Confira a programação ",
+      "resumo": "O Tribunal de Justiça de Alagoas (TJAL) deu início, nesta quinta (3), ao 1° Encontro das Unidades de Monitoramento e Fiscalização (UMFs) das decisões da Corte Interamericana de Direitos Humanos (Corte IDH) da região nordeste. O evento segue até esta sexta (4), na sede do TJAL. Confira a programação ",
       "publicado_em": "2026-09-03T12:00:00-03:00",
       "dia": "2026-09-03",
       "data_estimada": true,
@@ -1138,6 +1343,133 @@
         "acao"
       ],
       "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "d5f973fcfd8cb01f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova MP que amplia programa para diminuir fila do INSS",
+      "link": "https://www.camara.leg.br/noticias/1302682-camara-aprova-mp-que-amplia-programa-para-diminuir-fila-do-inss",
+      "resumo": "",
+      "publicado_em": "2026-09-03T16:55:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "16fa0d248c632d17",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Hugo Motta destaca aumento do poder de compra da população com fim da \"taxa das blusinhas\"",
+      "link": "https://www.camara.leg.br/noticias/1302672-hugo-motta-destaca-aumento-do-poder-de-compra-da-populacao-com-fim-da-taxa-das-blusinhas",
+      "resumo": "",
+      "publicado_em": "2026-09-03T16:40:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "fa25b0c0ff9a8e7b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova MP que acaba com a \"taxa das blusinhas\"; texto vai ao Senado",
+      "link": "https://www.camara.leg.br/noticias/1302664-camara-aprova-mp-que-acaba-com-a-taxa-das-blusinhas-texto-vai-ao-senado",
+      "resumo": "",
+      "publicado_em": "2026-09-03T16:21:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "67e6d6296f106304",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova regras para acompanhante de autistas na saúde",
+      "link": "https://www.camara.leg.br/noticias/1302599-comissao-aprova-regras-para-acompanhante-de-autistas-na-saude",
+      "resumo": "",
+      "publicado_em": "2026-09-03T16:12:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "1506fd5d0025875b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei estabelece protocolos de urgência para atendimento de infartos no SUS",
+      "link": "https://www.camara.leg.br/noticias/1302582-lei-estabelece-protocolos-de-urgencia-para-atendimento-de-infartos-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-09-03T16:09:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "bf3207d04765762f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que obriga comércio a relatar crimes em até 24 horas",
+      "link": "https://www.camara.leg.br/noticias/1302550-comissao-aprova-projeto-que-obriga-comercio-a-relatar-crimes-em-ate-24-horas",
+      "resumo": "",
+      "publicado_em": "2026-09-03T16:06:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "80e5a7f6e1959dd9",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados aprovam texto-base de MP que acaba com a \"taxa das blusinhas\"; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1302656-deputados-aprovam-texto-base-de-mp-que-acaba-com-a-taxa-das-blusinhas-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-09-03T16:05:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "68f4b0c5bce16ffa",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto com regras sobre atuação do INPI em ações de nulidade de patentes ou de marcas",
+      "link": "https://www.camara.leg.br/noticias/1302528-comissao-aprova-projeto-com-regras-sobre-atuacao-do-inpi-em-acoes-de-nulidade-de-patentes-ou-de-marcas",
+      "resumo": "",
+      "publicado_em": "2026-09-03T15:41:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T17:14:09-03:00"
     },
     {
       "id": "310af7aea66e7d50",
@@ -1302,8 +1634,8 @@
       "fonte_nome": "TRT-15",
       "titulo": "Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT",
       "link": "https://trt15.jus.br/noticia/2026/magistrados-do-trt-15-destacam-forca-da-conciliacao-em-seminario-promovido-pelo-mpt",
-      "resumo": "Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT anasiqueira Qua, 02/09/2026 - 18:48 Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora ",
-      "publicado_em": "2026-09-02T18:48:56-03:00",
+      "resumo": "Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT anasiqueira Qua, 02/09/2026 - 19:00 Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora ",
+      "publicado_em": "2026-09-02T19:00:56-03:00",
       "dia": "2026-09-02",
       "data_estimada": false,
       "score": 36,
@@ -1342,6 +1674,20 @@
         "homenageia"
       ],
       "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "4af0652e1acbb3ec",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Presidente do TRT-15 recebe representantes da Divisão Antissequestro da Polícia Civil",
+      "link": "https://trt15.jus.br/noticia/2026/presidente-do-trt-15-recebe-representantes-da-divisao-antissequestro-da-policia-0",
+      "resumo": "Presidente do TRT-15 recebe representantes da Divisão Antissequestro da Polícia Civil anagatto Qua, 02/09/2026 - 11:23 Presidente do TRT-15 recebe representantes da Divisão Antissequestro da Polícia Civil Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora",
+      "publicado_em": "2026-09-02T11:23:23-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T11:55:43-03:00"
     },
     {
       "id": "e25f77a908ae7ffa",
