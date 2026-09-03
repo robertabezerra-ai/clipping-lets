@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-03T11:55:43-03:00",
+  "gerado_em": "2026-09-03T15:27:42-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,9 +154,9 @@
     },
     {
       "id": "pgfn",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /pgfn/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 29,
+      "erro": null
     },
     {
       "id": "senado",
@@ -172,21 +172,21 @@
     },
     {
       "id": "receita_federal",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /receitafederal/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='"
+      "status": "ok",
+      "itens": 3,
+      "erro": null
     },
     {
       "id": "fazenda",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /fazenda/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anpd",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /anpd/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effecti"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@
     },
     {
       "id": "cvm",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cvm/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br'"
+      "status": "ok",
+      "itens": 1,
+      "erro": null
     },
     {
       "id": "bacen",
@@ -210,13 +210,13 @@
       "id": "coaf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /coaf/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/coaf/pt-br/assuntos/noticias"
     },
     {
       "id": "cade",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cade/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "cnj",
@@ -226,15 +226,15 @@
     },
     {
       "id": "mjsp",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mj/pt-br/assuntos/noticias-1 (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "carf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /carf/pt-br/assuntos/novas-noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www."
+      "status": "ok",
+      "itens": 3,
+      "erro": null
     },
     {
       "id": "governo_federal",
@@ -299,6 +299,23 @@
       "coletado_em": "2026-09-03T11:55:43-03:00"
     },
     {
+      "id": "16bc8c4fef1925c4",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 mantém indenização a trabalhadora humilhada por não caber no uniforme",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-mantem-indenizacao-a-trabalhadora-humilhada-por-nao-caber-no-uniforme",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
       "id": "5c6b48466e63b7db",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -354,15 +371,92 @@
       "fonte_nome": "TJSP",
       "titulo": "Do Museu ao Tribunal: visite a exposição itinerante “Arte Sacra Para Ver e Sentir”",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115214&pagina=1",
-      "resumo": "Mostra do Museu de Arte Sacra de São Paulo fica no TJSP até o dia 27.\n\tFeche os olhos e tente se imaginar tocando em uma",
+      "resumo": "Mostra fica no TJSP até o dia 27.\n\tFeche os olhos e tente se imaginar tocando em uma escultura de Aleijadinho. Conseguiu? Agora você pode (ou",
       "publicado_em": "2026-09-03T12:00:00-03:00",
       "dia": "2026-09-03",
       "data_estimada": true,
-      "score": 24,
+      "score": 34,
       "tags": [
+        "adi",
         "exposicao"
       ],
       "coletado_em": "2026-09-03T11:55:43-03:00"
+    },
+    {
+      "id": "7b4b53293caa0151",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Depre publica guia prático para peticionamento em precatórios",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115192&pagina=1",
+      "resumo": "Orientação a advogados sobre novos procedimentos. \n \n\tA Diretoria de Execuções de Precatórios e Cálculos (Depre) do Tribunal de Justiça de São Paulo lançou, nesta terça-feira",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "precatorio",
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
+    },
+    {
+      "id": "e03f19e8f855f2e1",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Servidora pública poderá reduzir jornada de trabalho para acompanhar filho com TEA",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115222&pagina=1",
+      "resumo": "Diminuição de 25% sem prejuízo dos vencimentos.\n \n\tA 2ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve decisão da 2ª Vara",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "0f4a5a83786a844f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Justiça de Brotas recebe inscrições de pessoas interessadas em atuar nos Tribunais do Júri da Comarca",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115093&pagina=1",
+      "resumo": "Cadastro até 30 de setembro.\n \n\tA Justiça de Brotas está com inscrições abertas para voluntários que queiram atuar como jurados nos Tribunais do Júri realizados",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "c70a189a84f7c103",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Jornada Ítalo-Hispano-Brasileira termina com debate sobre democracia e justiça constitucional",
+      "link": "https://noticias.stf.jus.br/postsnoticias/jornada-italo-hispano-brasileira-termina-com-debate-sobre-democracia-e-justica-constitucional/",
+      "resumo": "Durante dois dias, especialistas do Brasil, da Itália e da Espanha discutiram os desafios contemporâneos enfrentados pelas cortes constitucionais",
+      "publicado_em": "2026-09-03T13:41:18-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "d2cf0902f8c5c62c",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF defende diálogo e tolerância nas eleições para fortalecer a democracia",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-defende-dialogo-e-tolerancia-para-fortalecer-a-democracia-nas-eleicoes/",
+      "resumo": "Ministro Edson Fachin participou da abertura da campanha Paz e Tolerância nas Eleições, realizada no TSE",
+      "publicado_em": "2026-09-03T12:06:56-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
     },
     {
       "id": "8224ff0777da1348",
@@ -379,6 +473,128 @@
         "adi"
       ],
       "coletado_em": "2026-09-03T11:55:43-03:00"
+    },
+    {
+      "id": "46dfb37380cc48cf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Exercício da psicoterapia requer qualificação, aprova CDH",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/exercicio-da-psicoterapia-requer-qualificacao-aprova-cdh",
+      "resumo": "",
+      "publicado_em": "2026-09-03T13:27:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "7acf24e54066004b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CI aprova inflação como limite de reajuste de conta de luz",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/ci-aprova-inflacao-como-limite-de-reajuste-de-conta-de-luz",
+      "resumo": "",
+      "publicado_em": "2026-09-03T13:27:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "f7c02ed40c56ca31",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Adolescente poderá ser internado por violência contra animais, aprova CCJ",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/adolescente-podera-ser-internado-por-violencia-contra-animais-aprova-ccj",
+      "resumo": "",
+      "publicado_em": "2026-09-03T13:25:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "9ac940fc1afc5ded",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Instalada subcomissão para acompanhar desenvolvimento de vacinas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/instalada-subcomissao-para-acompanhar-desenvolvimento-de-vacinas",
+      "resumo": "",
+      "publicado_em": "2026-09-03T13:02:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "746b932ee2260737",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Acessibilidade nas eleições precisa melhorar, dizem debatedores",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/acessibilidade-nas-eleicoes-precisa-melhorar-dizem-debatedores",
+      "resumo": "",
+      "publicado_em": "2026-09-03T13:01:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "68daab8b7dae81c1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Especialistas cobram acessibilidade para pessoas com deficiência nas eleições",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/especialistas-cobram-acessibilidade-para-pessoas-com-deficiencia-nas-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:48:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "807d648a67db038e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CDH aprova repasse de loterias para desporto de surdos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/cdh-aprova-repasse-de-loterias-para-desporto-de-surdos",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:39:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "391bbb515de23053",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CDH cria grupos para acompanhar doenças raras e combater anticiganismo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/cdh-cria-grupos-para-acompanhar-doencas-raras-e-combater-anticiganismo",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:01:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
     },
     {
       "id": "ff3eb3ec68f7e94d",
@@ -520,19 +736,80 @@
       "coletado_em": "2026-09-03T11:55:43-03:00"
     },
     {
-      "id": "2100c9ce923e8378",
+      "id": "34b6ea0adbdc67f9",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Confiança é ativo econômico no uso de IA no sistema financeiro, defende Sedigi",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/confianca-e-ativo-economico-no-uso-de-ia-no-sistema-financeiro-defende-sedigi",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "9e70feab391d5f20",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Propostas ao FIIS superam R$ 10,6 bilhões e MJSP prorroga prazo de apresentação até 10 de setembro",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/propostas-ao-fiis-superam-r-10-6-bilhoes-e-mjsp-prorroga-prazo-de-apresentacao-ate-10-de-setembro",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "8b1b95d17b375526",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Ministério da Justiça regulamenta retomada de valores de bets ilegais; montante pode superar R$ 1 bilhão",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-regulamenta-retomada-de-valores-de-bets-ilegais-montante-pode-superar-r-1-bilhao",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "e3788711bfa529c0",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Edital prevê contratação de internet para Unidades Básicas de Saúde",
-      "link": "https://agenciagov.ebc.com.br/noticias/202609/edital-preve-contratacao-de-internet-para-unidades-basicas-de-saude",
+      "titulo": "Ministério e universidade federal entrevistam população para pesquisa nacional de saúde mental",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pesquisa-nacional-de-saude-mental-realiza-coleta-de-dados-em-197-municipios",
       "resumo": "",
-      "publicado_em": "2026-09-03T10:25:00-03:00",
+      "publicado_em": "2026-09-03T14:35:00-03:00",
       "dia": "2026-09-03",
       "data_estimada": false,
       "score": 46,
       "tags": [
         "acao"
       ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "2100c9ce923e8378",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Fundo público faz edital para prover internet em Unidades Básicas de Saúde de 800 municípios",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/edital-preve-contratacao-de-internet-para-unidades-basicas-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-09-03T10:25:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
       "coletado_em": "2026-09-03T11:55:43-03:00"
     },
     {
@@ -550,6 +827,126 @@
         "acao"
       ],
       "coletado_em": "2026-09-03T11:55:43-03:00"
+    },
+    {
+      "id": "ee5918d2ccfdd662",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Oposição propõe indicação ao STF por lista de autoridades jurídicas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121940/oposicao-propoe-indicacao-ao-stf-por-lista-de-autoridades-juridicas",
+      "resumo": "Texto exige experiência na magistratura e limita idade mínima a 60 anos.",
+      "publicado_em": "2026-09-03T14:47:09-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "1e4c60455d0d56da",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Liberação de porte de arma para oficiais de justiça avança na Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/121939/liberacao-de-porte-de-arma-para-oficiais-de-justica-avanca-na-camara",
+      "resumo": "Texto autoriza o porte durante e fora do serviço e prevê isenção de taxa para as categorias contempladas.",
+      "publicado_em": "2026-09-03T14:34:53-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "021546d66d1c1fae",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Damares obtém 41 assinaturas em pedido de impeachment contra Moraes",
+      "link": "https://www.congressoemfoco.com.br/noticia/121938/damares-obtem-41-assinaturas-em-pedido-de-impeachment-contra-moraes",
+      "resumo": "Em petição, Damares Alves e outros 28 senadores acusam Moraes de advocacia administrativa em contatos com controlador do Banco Master.",
+      "publicado_em": "2026-09-03T14:20:26-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "248bf26e4954bcac",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan chama Cury de \"pastel de vento\" e psiquiatra ironiza: \"delícia\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121933/renan-chama-cury-de-pastel-de-vento-e-psiquiatra-ironiza--delicia",
+      "resumo": "Provocação começou durante entrevista ao podcast Flow, quando candidato do Missão criticou defesa do diálogo.",
+      "publicado_em": "2026-09-03T13:03:47-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "f212098773f9c2c2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Augusto Cury e a nova fronteira da manipulação eleitoral",
+      "link": "https://www.congressoemfoco.com.br/artigo/121932/augusto-cury-e-a-nova-fronteira-da-manipulacao-eleitoral",
+      "resumo": "O crescimento extraordinário do candidato mostra que a democracia terá de aprender a distinguir mobilização real de mobilização artificialmente ampliada.",
+      "publicado_em": "2026-09-03T12:54:05-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "ea1ff56da47d1e8d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Um projeto de poder contra a ordem internacional",
+      "link": "https://www.congressoemfoco.com.br/artigo/121931/um-projeto-de-poder-contra-a-ordem-internacional",
+      "resumo": "Relatório da Cepal identifica rupturas na ordem internacional, mas deixa de apontar as escolhas políticas e os movimentos que impulsionam seu desmonte.",
+      "publicado_em": "2026-09-03T12:22:24-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "d40e213c4aafe799",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Guerra de preço no delivery pode reduzir lucro em 80% dos restaurantes",
+      "link": "https://www.congressoemfoco.com.br/noticia/121930/guerra-de-preco-no-delivery-pode-reduzir-lucro-em-80-dos-restaurantes",
+      "resumo": "Levantamento do  Instituto Esfera usa a experiência recente do mercado chinês.",
+      "publicado_em": "2026-09-03T11:53:37-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "2661e44bdf9dd2d3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Entre a ciência e a indústria, o elo que falta",
+      "link": "https://www.congressoemfoco.com.br/artigo/121929/entre-a-ciencia-e-a-industria-o-elo-que-falta",
+      "resumo": "Investir em pesquisa ou exigir conteúdo local não basta para inovar sem uma política industrial capaz de desenvolver conhecimento e capacidades tecnológicas nas empresas.",
+      "publicado_em": "2026-09-03T11:51:05-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
     },
     {
       "id": "b9d196d12264c83d",
@@ -711,6 +1108,84 @@
       "coletado_em": "2026-09-03T11:55:43-03:00"
     },
     {
+      "id": "bdf689325defbbe4",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJAL promove 1º Encontro de Unidades de Monitoramento da Corte Interamericana de Direitos Humanos",
+      "link": "https://www.cnj.jus.br/tjal-promove-1o-encontro-de-unidades-de-monitoramento-da-corte-interamericana-de-direitos-humanos/",
+      "resumo": "O Tribunal de Justiça de Alagoas (TJAL) deu início, nesta quinta (3), ao 1° Encontro das Unidades de Monitoramento e Fiscalização (UMFs) das decisões da Corte Interamericana de Direitos Humanos (Corte IDH) da região Nordeste. O evento segue até esta sexta (4), na sede do TJAL. Confira a programação ",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "2cad104a65a5c73a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Estratégia para evitar novas violências contra a mulher cresce e já reúne 704 grupos no país",
+      "link": "https://www.cnj.jus.br/estrategia-para-evitar-novas-violencias-contra-a-mulher-cresce-e-ja-reune-704-grupos-no-pais/",
+      "resumo": "Os grupos reflexivos para homens autores de violência doméstica e familiar contra as mulheres deixaram de ser experiências pontuais para se consolidarem como uma das principais estratégias de responsabilização e prevenção da reincidência no país. Mapeamento do Conselho Nacional de Justiça (CNJ) most",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "310af7aea66e7d50",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova porte de arma para agentes socioeducativos e oficiais de Justiça",
+      "link": "https://www.camara.leg.br/noticias/1302474-comissao-aprova-porte-de-arma-para-agentes-socioeducativos-e-oficiais-de-justica",
+      "resumo": "",
+      "publicado_em": "2026-09-03T14:41:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "a9985b21ccb76b44",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova política de prevenção à violência com base em sistema de informações",
+      "link": "https://www.camara.leg.br/noticias/1302533-comissao-aprova-politica-de-prevencao-a-violencia-com-base-em-sistema-de-informacoes",
+      "resumo": "",
+      "publicado_em": "2026-09-03T13:13:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "9cb4495cd99b5e8b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei assegura check-up anual para mulheres no SUS",
+      "link": "https://www.camara.leg.br/noticias/1302495-nova-lei-assegura-check-up-anual-para-mulheres-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:37:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
       "id": "7d72b4bded37ff30",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -755,6 +1230,24 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-03T11:55:43-03:00"
+    },
+    {
+      "id": "127e7b4ef92d0cc8",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade aprova operação no mercado de registro de ativos financeiros, mediante celebração de acordo",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-aprova-operacao-no-mercado-de-registro-de-ativos-financeiros-mediante-celebracao-de-acordo",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "cade",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
     },
     {
       "id": "7ca2315023653534",
@@ -928,24 +1421,6 @@
       "data_estimada": true,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-09-02T19:13:07-03:00"
-    },
-    {
-      "id": "7b4b53293caa0151",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Depre publica guia prático para peticionamento em precatórios",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115192&pagina=1",
-      "resumo": "Orientação a advogados sobre novos procedimentos. \n \n\tA Diretoria de Execuções de Precatórios e Cálculos (Depre) do Tribunal de Justiça de São Paulo lançou, nesta terça-feira",
-      "publicado_em": "2026-09-02T12:00:00-03:00",
-      "dia": "2026-09-02",
-      "data_estimada": true,
-      "score": 68,
-      "tags": [
-        "precatorio",
-        "acao",
-        "advogado"
-      ],
       "coletado_em": "2026-09-02T19:13:07-03:00"
     },
     {
@@ -2587,7 +3062,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Justiça 4.0 oferta cursos avançados de ciência de dados",
       "link": "https://www.cnj.jus.br/justica-4-0-oferta-cursos-avancados-de-ciencia-de-dados/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) disponibilizou para magistradas, magistrados, servidoras e servidores da Justiça brasileira as capacitações autoinstrucionais em Machine Learning Avançado e Aplicações e Dashboards Avançado com R. As formações integram o Programa Justiça 4.0, iniciativa do CNJ co",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) disponibilizou a magistradas, magistrados, servidoras e servidores da Justiça brasileira as capacitações autoinstrucionais em Machine Learning Avançado e Aplicações e Dashboards Avançado com R. As formações integram o Programa Justiça 4.0, iniciativa do CNJ com o",
       "publicado_em": "2026-09-02T12:00:00-03:00",
       "dia": "2026-09-02",
       "data_estimada": true,
@@ -2601,7 +3076,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Ouvidorias são destacadas como estratégicas para fortalecer relação entre Justiça e sociedade",
       "link": "https://www.cnj.jus.br/ouvidorias-sao-destacadas-como-estrategicas-para-fortalecer-relacao-entre-justica-e-sociedade/",
-      "resumo": "A contribuição das ouvidorias dos tribunais para o aprimoramento dos serviços prestados pela Justiça foi defendida pelo ouvidor nacional de Justiça e conselheiro do Conselho Nacional de Justiça (CNJ), Marcello Terto, no IV Encontro de Ouvidores e Ouvidoras Judiciais da Região Norte. Ele proferiru a ",
+      "resumo": "A contribuição das ouvidorias dos tribunais para o aprimoramento dos serviços prestados pela Justiça foi defendida pelo ouvidor nacional de justiça e conselheiro do Conselho Nacional de Justiça (CNJ), Marcello Terto, no IV Encontro de Ouvidores e Ouvidoras Judiciais da Região Norte. Ele proferiu a p",
       "publicado_em": "2026-09-02T12:00:00-03:00",
       "dia": "2026-09-02",
       "data_estimada": true,
@@ -2617,7 +3092,7 @@
       "fonte_nome": "CNJ",
       "titulo": "TJAP doa materiais esportivos a projeto social que atende crianças em Macapá",
       "link": "https://www.cnj.jus.br/tjap-doa-materiais-esportivos-a-projeto-social-que-atende-criancas-em-macapa/",
-      "resumo": "O Tribunal de Justiça do Amapá (TJAP), por meio da Coordenadoria Estadual da Infância e Juventude (Ceij/TJAP), entregou, na noite de segunda-feira (31), materiais esportivos ao Projeto Social Futuro Camisa 7, em Macapá. A ação contou com recursos do Fundo de Apoio ao Juizado da Infância e Juventude ",
+      "resumo": "O Tribunal de Justiça do Amapá (TJAP), por meio da Coordenadoria Estadual da Infância e Juventude (Ceij/TJAP), entregou, na noite de segunda-feira (31), materiais esportivos ao projeto social Futuro Camisa 7, em Macapá. A ação contou com chuteiras, bolas e jogos de camisas, recursos do Fundo de Apoi",
       "publicado_em": "2026-09-02T12:00:00-03:00",
       "dia": "2026-09-02",
       "data_estimada": true,
@@ -2680,7 +3155,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Academia de Polícia Judicial divulga calendário de cursos para o segundo semestre de 2026",
       "link": "https://www.cnj.jus.br/academia-de-policia-judicial-divulga-calendario-de-cursos-para-o-segundo-semestre-de-2026/",
-      "resumo": "Nos meses de setembro, outubro e novembro, a Academia Nacional de Polícia Judicial (ANPJ) do Conselho Nacional de Justiça (CNJ) realizará um ciclo de capacitação que aborda temas como o Protocolo de Atendimento à Mulher Vítima de Violência, Direitos Humanos e Cibersegurança. As capacitações são volt",
+      "resumo": "Nos meses de setembro, outubro e novembro, a Academia Nacional de Polícia Judicial (ANPJ) do Conselho Nacional de Justiça (CNJ) realizará um ciclo de capacitação que aborda como temas o Protocolo de Atendimento à Mulher Vítima de Violência, os Direitos Humanos e a Cibersegurança. As capacitações são",
       "publicado_em": "2026-09-02T12:00:00-03:00",
       "dia": "2026-09-02",
       "data_estimada": true,
@@ -2707,6 +3182,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "c889a4efb366484f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pena Justa impulsiona gestão de vagas e empregabilidade no sistema prisional de Rondônia",
+      "link": "https://www.cnj.jus.br/pena-justa-impulsiona-gestao-de-vagas-e-empregabilidade-no-sistema-prisional-de-rondonia/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) lançou, nesta terça-feira (2), em Rondônia, duas ações complementares do plano Pena Justa. De um lado, a Central de Regulação de Vagas (CRV) busca assegurar que as unidades prisionais operem dentro de sua capacidade. De outro, o Emprega Lab articula parceiros púb",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T15:27:42-03:00"
     },
     {
       "id": "3fac3c5e6e841143",
