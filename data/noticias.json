@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-03T17:14:09-03:00",
+  "gerado_em": "2026-09-03T19:04:41-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 15,
       "erro": null
     },
     {
@@ -449,6 +449,57 @@
       "coletado_em": "2026-09-03T15:27:42-03:00"
     },
     {
+      "id": "2171551388f9c391",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Órgão Especial aprova reestruturação dos cartórios de registro civil",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115230&pagina=1",
+      "resumo": "Anteprojeto é primeiro passo para renovação das serventias. \n\t \n\n\tO Órgão Especial do Tribunal de Justiça aprovou, ontem (3), por unanimidade, anteprojeto de lei de reestruturação",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "786df92148d683b7",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação de homem por furtos de fios de cobre em escolas de Aguaí",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115225&pagina=1",
+      "resumo": "Crimes causaram prejuízo de R$ 47,1 mil.\n \n\tA 8ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve decisão da Vara Única",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "406383fd6a65cf39",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ministério Público pode requisitar apoio de servidores e meios materiais de órgãos públicos, decide STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ministerio-publico-pode-requisitar-apoio-de-servidores-e-meios-materiais-de-orgaos-publicos-decide-stf/",
+      "resumo": "Plenário rejeitou questionamento do governo de Santa Catarina a dispositivos da Lei Orgânica do MPU",
+      "publicado_em": "2026-09-03T18:35:33-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decide"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
       "id": "bd3af60c0bb3982b",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -505,6 +556,187 @@
         "adi"
       ],
       "coletado_em": "2026-09-03T11:55:43-03:00"
+    },
+    {
+      "id": "cb2e02ad410947fa",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova medida provisória para diminuir filas do INSS",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senado-aprova-medida-provisoria-para-diminuir-filas-do-inss",
+      "resumo": "",
+      "publicado_em": "2026-09-03T18:53:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "medida provisoria",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "55685d8d9749d130",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Franca poderá receber título de Capital Nacional do Basquete",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/franca-podera-receber-titulo-de-capital-nacional-do-basquete",
+      "resumo": "",
+      "publicado_em": "2026-09-03T18:48:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "9186288004b648c7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova criação da Universidade Federal da Fronteira Norte, no Amapá",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senado-aprova-criacao-da-universidade-federal-da-fronteira-norte-no-amapa",
+      "resumo": "",
+      "publicado_em": "2026-09-03T18:31:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "be42cfefae975d35",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi condena ataques recebidos em redes sociais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/davi-condena-ataques-recebidos-em-redes-sociais",
+      "resumo": "",
+      "publicado_em": "2026-09-03T18:24:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "68be39c9893f41cf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Programa de bolsas para formação de professor terá status de lei, aprova Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/programa-de-bolsas-para-formacao-de-professor-tera-status-de-lei-aprova-senado",
+      "resumo": "",
+      "publicado_em": "2026-09-03T18:11:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "b3d30711d783e7ad",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova modernização da estrutura da Ordem dos Advogados do Brasil",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/senado-aprova-modernizacao-da-estrutura-da-ordem-dos-advogados-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-03T17:37:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "aprova",
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "53ae26d80f7a7caa",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Acordo Internacional do Café segue para promulgação",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/acordo-internacional-do-cafe-segue-para-promulgacao",
+      "resumo": "",
+      "publicado_em": "2026-09-03T17:33:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "96d0930dfee40855",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Convenção internacional sobre segurança e saúde no trabalho vai à promulgação",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/convencao-internacional-sobre-seguranca-e-saude-no-trabalho-vai-a-promulgacao",
+      "resumo": "",
+      "publicado_em": "2026-09-03T17:30:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "8b74343436bde17b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova acordo de cooperação cultural entre Brasil e Croácia",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senado-aprova-acordo-de-cooperacao-cultural-entre-brasil-e-croacia",
+      "resumo": "",
+      "publicado_em": "2026-09-03T17:28:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "910d73b2537f9919",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senadores aprovam acordo de cooperação entre Brasil e Camboja",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/senadores-aprovam-acordo-de-cooperacao-entre-brasil-e-camboja",
+      "resumo": "",
+      "publicado_em": "2026-09-03T17:20:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "122ae89a41fba0ae",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Transformação de Cefets de Minas e do RJ em universidades federais vai à sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/transformacao-de-cefets-de-minas-e-do-rj-em-universidades-federais-vai-a-sancao",
+      "resumo": "",
+      "publicado_em": "2026-09-03T17:15:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
     },
     {
       "id": "46dfb37380cc48cf",
@@ -829,6 +1061,62 @@
       "coletado_em": "2026-09-03T17:14:09-03:00"
     },
     {
+      "id": "7c098b0a46c16d0e",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Ministério da Justiça e Governo do Rio assinam acordos para retomada de territórios",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-e-governo-do-rio-assinam-acordos-para-retomada-de-territorios",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "f7befc9c66f6fc14",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "SUS tem primeira central que conecta e monitora pacientes de UTI's em locais distantes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/ministerio-da-saude-apresenta-central-de-comando-das-utis-inteligentes-do-sus",
+      "resumo": "",
+      "publicado_em": "2026-09-03T18:40:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "eda39fc7d519079b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Curso para servidores sobre violência de gênero na internet tem inscrições até 4 de outubro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/curso-da-enap-sobre-violencia-de-genero-na-internet-recebe-inscricoes-ate-4-de-outubro",
+      "resumo": "",
+      "publicado_em": "2026-09-03T17:55:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "02a7d67428f7a2b2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Plataforma da Anatel registra reclamações, denúncias e sugestões sobre serviços de telecomunicações",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/plataforma-da-anatel-registra-reclamacoes-denuncias-e-sugestoes-sobre-servicos-de-telecomunicacoes",
+      "resumo": "",
+      "publicado_em": "2026-09-03T17:13:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
       "id": "2e5c56cd077aa8b2",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -917,6 +1205,86 @@
       "coletado_em": "2026-09-03T17:14:09-03:00"
     },
     {
+      "id": "93c6157c1a336376",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Carlos Viana representa contra Alcolumbre no Conselho de Ética",
+      "link": "https://www.congressoemfoco.com.br/noticia/121959/carlos-viana-representa-contra-alcolumbre-no-conselho-de-etica",
+      "resumo": "Viana acusa Alcolumbre de omissão diante dos pedidos contra Moraes e pede seu afastamento cautelar da presidência do Senado.",
+      "publicado_em": "2026-09-03T18:45:33-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "0f6b3e8b5016b49c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas rebate acusações envolvendo Vorcaro: \"nunca chamei de lindão\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121958/nikolas-rebate-acusacoes-envolvendo-vorcaro--nunca-chamei-de-lindao",
+      "resumo": "Deputado nega proximidade e favorecimentos do ex-controlador do Banco Master e contesta interpretação de áudio vazado.",
+      "publicado_em": "2026-09-03T18:13:51-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "394dd628fe9444a4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova MP do fim da taxa das blusinhas; texto vai à sanção",
+      "link": "https://www.congressoemfoco.com.br/noticia/121957/senado-aprova-mp-do-fim-da-taxa-das-blusinhas-texto-vai-a-sancao",
+      "resumo": "Projeto de lei de conversão foi aprovado em votação simbólica.",
+      "publicado_em": "2026-09-03T18:08:28-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 84,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "5725b5fdb0ed7dc3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alcolumbre acusa colegas de usarem ofensas a ele como pauta eleitoral",
+      "link": "https://www.congressoemfoco.com.br/noticia/121954/alcolumbre-acusa-colegas-de-usarem-ofensas-a-ele-como-pauta-eleitoral",
+      "resumo": "Senador afirmou que gostaria de responder pessoalmente às ofensas que recebe, mas disse que a responsabilidade institucional do cargo exige contenção.",
+      "publicado_em": "2026-09-03T17:41:45-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "e394f3a7fec31846",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fim da taxa das blusinhas protege a renda familiar, diz Hugo Motta",
+      "link": "https://www.congressoemfoco.com.br/noticia/121953/fim-da-taxa-das-blusinhas-protege-a-renda-familiar-diz-hugo-motta",
+      "resumo": "Presidente da Câmara destaca que fim da cobrança reduz peso dos impostos sobre famílias de menor renda.",
+      "publicado_em": "2026-09-03T17:12:10-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
       "id": "f03376c3297b8f0c",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -983,6 +1351,24 @@
         "recurso"
       ],
       "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "722215ba961bda55",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Casas Bahia: Recuperação judicial não resolve a crise",
+      "link": "https://www.congressoemfoco.com.br/artigo/121942/casas-bahia-recuperacao-judicial-nao-resolve-a-crise",
+      "resumo": "Com R$ 17,3 bilhões em dívidas, grupo terá de mostrar que a renegociação dos passivos será acompanhada de mudanças capazes de recuperar sua sustentabilidade financeira e operacional.",
+      "publicado_em": "2026-09-03T15:00:54-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "recuperacao judicial",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
     },
     {
       "id": "233bbcf36ca937b4",
@@ -1345,6 +1731,70 @@
       "coletado_em": "2026-09-03T15:27:42-03:00"
     },
     {
+      "id": "634302839cf27ebd",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Financiamento de ações do Pena Justa pauta missões do CNJ pelo país",
+      "link": "https://www.cnj.jus.br/financiamento-de-acoes-do-pena-justa-pauta-missoes-do-cnj-pelo-pais/",
+      "resumo": "O plano Pena Justa promove articulação inédita entre planejamento e orçamento para garantir a execução das ações que estão transformando o sistema prisional brasileiro. Em missões pelo país para implementar iniciativas como a Central de Regulação de Vagas (CRV) e o Emprega Lab, o Conselho Nacional d",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "5cf252ceb412bb40",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Judiciário registra 13,7 mil julgamentos sobre o crime organizado em 2026",
+      "link": "https://www.cnj.jus.br/judiciario-registra-137-mil-julgamentos-sobre-o-crime-organizado-em-2026/",
+      "resumo": "O Judiciário brasileiro julgou 1.743 ações penais, 11.536 recursos e 507 outras ações relacionadas a organizações criminosas nos seis primeiros meses de 2026, totalizando 13.786 julgamentos. Os dados são do Painel Nacional do Crime Organizado do Conselho Nacional de Justiça (CNJ), que também demonst",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 70,
+      "tags": [
+        "julgamento",
+        "julga",
+        "recurso"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "277a11b7f77ac2fe",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Emendas parlamentares no Orçamento de 2027 podem chegar a R$ 57,5 bilhões",
+      "link": "https://www.camara.leg.br/noticias/1302633-emendas-parlamentares-no-orcamento-de-2027-podem-chegar-a-r-575-bilhoes",
+      "resumo": "",
+      "publicado_em": "2026-09-03T18:52:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "36db53a6ba662da8",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova exceções às regras fiscais para benefícios e despesas de 2026",
+      "link": "https://www.camara.leg.br/noticias/1302681-camara-aprova-excecoes-as-regras-fiscais-para-beneficios-e-despesas-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-03T17:43:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
       "id": "d5f973fcfd8cb01f",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1391,6 +1841,22 @@
         "aprova"
       ],
       "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "db06a4ae57f440e4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova MP que acaba com a \"taxa das blusinhas\"",
+      "link": "https://www.camara.leg.br/noticias/1302664-camara-aprova-mp-que-acaba-com-a-taxa-das-blusinhas",
+      "resumo": "",
+      "publicado_em": "2026-09-03T16:21:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-03T19:04:41-03:00"
     },
     {
       "id": "67e6d6296f106304",
