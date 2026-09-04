@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-04T11:52:27-03:00",
+  "gerado_em": "2026-09-04T15:14:36-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,127 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "d0b406b007b3677a",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Pautas voltam a ser publicadas no DEJT a partir de 14/9; veja como alterar senha do sistema e nova escala do plantão",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pautas-voltam-a-ser-publicadas-no-dejt-a-partir-de-14-9-confira-como-alterar-senha-do-sistema-e-nova-escala-do-plantao",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "5b3ff1e82bc20d73",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 avança na consolidação do sistema de precedentes",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-avanca-na-consolidacao-do-sistema-de-precedentes",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "precedente",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "0cf34aa69e9224ac",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "“As horas tecem a vida”: Inspirada em Guilherme de Almeida, presidente Ana Paula Lockmann celebra os 40 anos do TRT-15 em noite de concerto da OSMC",
+      "link": "https://trt15.jus.br/noticia/2026/horas-tecem-vida-inspirada-em-guilherme-de-almeida-presidente-ana-paula-lockmann",
+      "resumo": "“As horas tecem a vida”: Inspirada em Guilherme de Almeida, presidente Ana Paula Lockmann celebra os 40 anos do TRT-15 em noite de concerto da OSMC anagatto Sex, 04/09/2026 - 14:50 “As horas tecem a vida”: Inspirada em Guilherme de Almeida, presidente Ana Paula Lockmann celebra os 40 anos do TRT-15 ",
+      "publicado_em": "2026-09-04T14:50:39-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "20062a24e98fb95f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP reconhece parceiros do programa “Empresa Amiga da Justiça”",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115233&pagina=1",
+      "resumo": "Certificações valorizam iniciativas de solução consensual.\n \n\tO Tribunal de Justiça de São Paulo realizou, ontem (3), solenidade para a entrega de certificados aos parceiros do",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "86890f4424f4f4e0",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mineradoras são responsabilizadas por extração de areia em APP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115183&pagina=1",
+      "resumo": "Recuperação e compensação dos danos causados.  \n \n\tA 2ª Câmara Reservada ao Meio Ambiente do Tribunal de Justiça de São Paulo manteve decisão da 2ª",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "9a7354c47f55c28c",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Comunicado da Presidência do STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/comunicado-da-presidencia-do-stf/",
+      "resumo": "Ministro Edson Fachin fez pronunciamento nesta sexta-feira (4), em cerimônia da lei que cria o Fundo Especial da Justiça Federal e o Fundo Especial do STJ",
+      "publicado_em": "2026-09-04T14:24:57-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "b80a3dbe0ace97c7",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Fachin destaca fortalecimento do Judiciário com criação de fundos para Justiça Federal e STJ",
+      "link": "https://noticias.stf.jus.br/postsnoticias/fachin-destaca-fortalecimento-da-justica-com-criacao-de-fundos-para-justica-federal-e-stj/",
+      "resumo": "Presidente do STF participou de cerimônia de sanção de leis no Palácio do Planalto,",
+      "publicado_em": "2026-09-04T14:03:14-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "sancao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "fcf21319da7a8420",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF pede novas manifestações em procedimento que apura condutas em investigações da PF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-pede-novas-manifestacoes-em-procedimento-que-apura-condutas-em-investigacoes-da-pf/",
+      "resumo": "PGR terá cinco dias para se manifestar sobre informações trazidas aos autos pelo ministro Alexandre de Moraes",
+      "publicado_em": "2026-09-04T12:11:59-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
       "id": "2780f16a994089f5",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -265,6 +386,127 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "4eb5b5bc71bed1fc",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Quando votar é uma escolha: o direito de comparecer ou não às urnas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/04/quando-votar-e-uma-escolha-o-direito-de-comparecer-ou-nao-as-urnas",
+      "resumo": "",
+      "publicado_em": "2026-09-04T14:51:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "bebe443cd00e77b3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Cefets de MG e RJ vão virar universidades federais de ciência e inovação",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/cefets-de-mg-e-rj-vao-virar-universidades-federais-de-ciencia-e-inovacao",
+      "resumo": "",
+      "publicado_em": "2026-09-04T14:37:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "3ce9332e5651eb25",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei garante direitos para as pessoas com síndrome de Tourette",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/04/lei-garante-direitos-para-as-pessoas-com-sindrome-de-tourette",
+      "resumo": "",
+      "publicado_em": "2026-09-04T14:24:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "716c433d8e51f6fb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "TSE conclui assinatura e lacração dos sistemas das eleições de 2026",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/04/tse-conclui-assinatura-e-lacracao-dos-sistemas-das-eleicoes-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-04T13:50:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "61726b9c65d71ca4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sancionado programa de incentivo à indústria nacional de fertilizantes",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/04/sancionado-programa-de-incentivo-a-industria-nacional-de-fertilizantes",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:46:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "df35952b65214035",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovada a criação da Semana Nacional de Economia Circular",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/aprovada-a-criacao-da-semana-nacional-de-economia-circular",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:24:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "7029ae93b99c774b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Mudança na Lei das Loterias garante repasse ao Comitê Brasileiro de Clubes",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/mudanca-na-lei-das-loterias-garante-repasse-ao-comite-brasileiro-de-clubes",
+      "resumo": "",
+      "publicado_em": "2026-09-04T11:56:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "62d8ac31f6052396",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sugestão de cidadão vira projeto para regulamentar psicoterapia",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/sugestao-de-cidadao-vira-projeto-para-regulamentar-psicoterapia",
+      "resumo": "",
+      "publicado_em": "2026-09-04T11:55:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
     },
     {
       "id": "e65514d1106847fa",
@@ -519,6 +761,83 @@ window.DADOS = {
       "coletado_em": "2026-09-04T11:52:27-03:00"
     },
     {
+      "id": "1bc9c19626f55acc",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon oferece cursos gratuitos sobre direitos do consumidor",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-oferece-cursos-gratuitos-sobre-direitos-do-consumidor",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "f94fe7445b787a97",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação Foco apreende mais de meia tonelada de maconha em Itatiaia (RJ)",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-foco-apreende-mais-de-meia-tonelada-de-maconha-em-itatiaia-rj",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 32,
+      "tags": [
+        "acao",
+        "apreende"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "8fd78842ecde0867",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pensão para órfãos do feminicídio: saiba quem tem direito e como solicitar",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pensao-para-orfaos-do-feminicidio-saiba-quem-tem-direito-e-como-solicitar-o-beneficio",
+      "resumo": "",
+      "publicado_em": "2026-09-04T14:44:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "5dcc55f6066a1e7c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polícia Federal combate exploração ilegal de ouro em área de proteção ambiental",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-combate-exploracao-ilegal-de-ouro-em-area-de-protecao-ambiental",
+      "resumo": "",
+      "publicado_em": "2026-09-04T11:52:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "f715fc102c7997c7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF faz operação contra exploração ilegal de madeira em terra indígena",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-faz-operacao-contra-exploracao-ilegal-de-madeira-em-terra-indigena",
+      "resumo": "",
+      "publicado_em": "2026-09-04T11:20:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
       "id": "0b4dfac12b92a425",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -584,6 +903,134 @@ window.DADOS = {
       "coletado_em": "2026-09-04T11:52:27-03:00"
     },
     {
+      "id": "e36facb3d1ba9695",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal publica edital do Exame de Qualificação Técnica para Despachante Aduaneiro",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-publica-edital-do-exame-de-qualificacao-tecnica-para-despachante-aduaneiro",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "a33a0315b9042077",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika Hilton: \"Está na hora do Nikolas receber três batidinhas da PF\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121991/erika-hilton--esta-na-hora-do-nikolas-receber-tres-batidinhas-da-pf",
+      "resumo": "Deputada cobra investigação sobre a relação de Nikolas Ferreira com Daniel Vorcaro após vazamento de áudio em que pede ajuda ao banqueiro.",
+      "publicado_em": "2026-09-04T14:58:22-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "a67a05e86b6a962c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ao lado de Fachin, Lula critica uso de cargo para benefício pessoal",
+      "link": "https://www.congressoemfoco.com.br/noticia/121990/ao-lado-de-fachin-lula-critica-uso-de-cargo-para-beneficio-pessoal",
+      "resumo": "Presidente defendeu as instituições e pediu que brasileiros não percam a confiança na democracia.",
+      "publicado_em": "2026-09-04T14:23:03-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "217cd32d10d5e463",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Duda Salabert relata tentativa de homicídio durante fiscalização em MG",
+      "link": "https://www.congressoemfoco.com.br/noticia/121988/duda-salabert-relata-tentativa-de-homicidio-durante-fiscalizacao-em-mg",
+      "resumo": "Deputada afirma que foi rendida por homens durante apuração de denúncia de extração ilegal de minério na Grande BH.",
+      "publicado_em": "2026-09-04T13:19:17-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "90ce090bb3e1e7ba",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Crise no STF torna urgente fim do inquérito das fake news, diz Fachin",
+      "link": "https://www.congressoemfoco.com.br/noticia/121987/crise-no-stf-torna-urgente-fim-do-inquerito-das-fake-news-diz-fachin",
+      "resumo": "Presidente do STF afirma que embate entre Moraes e Mendonça reforça necessidade de encerrar investigação aberta em 2019 e promete resposta \"firme, proporcional e rigorosa\". Segundo ele, \"nenhuma autoridade está acima da lei\".",
+      "publicado_em": "2026-09-04T12:49:19-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "870e137487f67f0f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "CNI destaca segurança jurídica em novas regras para Sesi e Senai",
+      "link": "https://www.congressoemfoco.com.br/noticia/121985/cni-destaca-seguranca-juridica-em-novas-regras-para-sesi-e-senai",
+      "resumo": "Nova norma estabelece critérios próprios para prestação de contas, denúncias e avaliação de desempenho dos serviços sociais autônomos.",
+      "publicado_em": "2026-09-04T12:19:41-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "novas regras",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "f9a96be40453ed5c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Rogério Correia pede inquérito contra Nikolas por laudo falso da PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/121984/rogerio-correia-pede-inquerito-contra-nikolas-por-laudo-falso-da-pf",
+      "resumo": "Deputado pede que PF identifique responsáveis pela produção e circulação de documento falso atribuído à corporação.",
+      "publicado_em": "2026-09-04T12:14:12-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "973143586446f555",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O futuro do mandado de segurança tributário no STF",
+      "link": "https://www.congressoemfoco.com.br/artigo/121980/o-futuro-do-mandado-de-seguranca-tributario-no-stf",
+      "resumo": "Corte decidirá se o Tema 1.262 limita a compensação de indébitos anteriores à impetração.",
+      "publicado_em": "2026-09-04T11:19:15-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "tributario",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
       "id": "98db34a7a1d4644d",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -596,6 +1043,38 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "3a7d307589c298d3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Trabalhar precisa permitir viver",
+      "link": "https://www.congressoemfoco.com.br/artigo/121977/trabalhar-precisa-permitir-viver",
+      "resumo": "Com desemprego em níveis historicamente baixos, o Brasil precisa avançar no debate sobre qualidade do emprego, remuneração, saúde mental e negociação coletiva.",
+      "publicado_em": "2026-09-04T10:53:30-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "dc8c16c6c79d6456",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O ocaso do planeta em andamento",
+      "link": "https://www.congressoemfoco.com.br/artigo/121976/o-ocaso-do-planeta-em-andamento",
+      "resumo": "Tragédias ambientais e eventos extremos reforçam o alerta sobre os efeitos da ação humana e a urgência de enfrentar a crise climática.",
+      "publicado_em": "2026-09-04T10:44:47-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
     },
     {
       "id": "b3813ea1b3b318c2",
@@ -716,6 +1195,101 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "d22e03586c388ff8",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Sancionado projeto que destina parte das custas processuais à modernização do Judiciário",
+      "link": "https://www.cnj.jus.br/sancionado-projeto-que-destina-parte-das-custas-processuais-a-modernizacao-do-judiciario/",
+      "resumo": "O Fundo de Modernização do Conselho Nacional de Justiça (FMCNJ) passará a receber recursos das custas processuais destinadas à Justiça Federal. A medida faz parte do Projeto de Lei (PL) 429/2024, que foi sancionado pela Presidência da República nesta sexta-feira (4/9). Para o presidente do CNJ e do ",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "c6bf3aac36eea58c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Webinário apresenta ferramentas de IA para o Judiciário",
+      "link": "https://www.cnj.jus.br/webinario-apresenta-ferramentas-de-ia-para-o-judiciario/",
+      "resumo": "O Conselho Nacional de Justiça promove, na próxima quinta-feira, 10 de setembro, o webinário “Conheça a LIA3R e a OMNIA, novas soluções de IA para o Judiciário”. Realizado pelo Programa Justiça 4.0, o evento ocorre das 15h às 16h por meio da plataforma Microsoft Teams e pelo canal do CNJ",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "1cfc6232e6b3c1f9",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova protocolo nacional para investigar desaparecimento de jovens",
+      "link": "https://www.camara.leg.br/noticias/1302867-comissao-aprova-protocolo-nacional-para-investigar-desaparecimento-de-jovens",
+      "resumo": "",
+      "publicado_em": "2026-09-04T13:36:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "22a99f517ee44b7d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Veículos de comunicação da Câmara e do Senado farão cobertura integrada das eleições",
+      "link": "https://www.camara.leg.br/noticias/1302595-veiculos-de-comunicacao-da-camara-e-do-senado-farao-cobertura-integrada-das-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-09-04T13:14:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "1430fe87fa30a6f3",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova garantia de lazer inclusivo para crianças com deficiência",
+      "link": "https://www.camara.leg.br/noticias/1302860-comissao-aprova-garantia-de-lazer-inclusivo-para-criancas-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-09-04T13:11:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "b5e40bd4e5e402eb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria auxílio-alimentação para pessoas idosas em situação de vulnerabilidade",
+      "link": "https://www.camara.leg.br/noticias/1301710-projeto-cria-auxilio-alimentacao-para-pessoas-idosas-em-situacao-de-vulnerabilidade",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:54:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T15:14:36-03:00"
     },
     {
       "id": "6e11e2d2757918a0",
