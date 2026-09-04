@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-03T19:04:41-03:00",
+  "gerado_em": "2026-09-04T11:52:27-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 15,
+      "itens": 19,
       "erro": null
     },
     {
@@ -251,6 +251,507 @@
   ],
   "noticias": [
     {
+      "id": "2780f16a994089f5",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "‘Direito sem juridiquês’: conheça as ações de controle concentrado de constitucionalidade",
+      "link": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-conheca-as-acoes-de-controle-concentrado-de-constitucionalidade/",
+      "resumo": "Novo episódio explica quais são e para que servem essas ações julgadas pelo STF",
+      "publicado_em": "2026-09-04T10:00:13-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "julga"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "e65514d1106847fa",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Vai à sanção programa permanente de bolsas para formação de professores",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/vai-a-sancao-programa-permanente-de-bolsas-para-formacao-de-professores",
+      "resumo": "",
+      "publicado_em": "2026-09-04T11:41:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "bda8fafcf500bf9d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Programa de bolsas para formar professores será permanente, aprova Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/programa-de-bolsas-para-formar-professores-sera-permanente-aprova-senado",
+      "resumo": "",
+      "publicado_em": "2026-09-04T11:38:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "1b6638d19dec4206",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Plenário aprova acordo de cooperação cultural Brasil-Croácia",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/plenario-aprova-acordo-de-cooperacao-cultural-brasil-croacia",
+      "resumo": "",
+      "publicado_em": "2026-09-04T11:08:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "ff21cbc463846d55",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Carreiro de boi terá dia nacional em 6 de setembro",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/04/carreiro-de-boi-tera-dia-nacional-em-6-de-setembro",
+      "resumo": "",
+      "publicado_em": "2026-09-04T11:07:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "e27977d4616cd0ba",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova redução de juros e reformula seguro rural",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/senado-aprova-reducao-de-juros-e-reformula-seguro-rural",
+      "resumo": "",
+      "publicado_em": "2026-09-04T10:58:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "0455abef7e37ea92",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Proteção a crianças vítimas de violência no exterior volta à Câmara",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/protecao-a-criancas-vitimas-de-violencia-no-exterior-volta-a-camara",
+      "resumo": "",
+      "publicado_em": "2026-09-04T10:18:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "24910dbf63c6ad23",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Piranguinho (MG) pode receber título de capital nacional do pé de moleque",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/piranguinho-podera-receber-titulo-de-capital-nacional-do-pe-de-moleque",
+      "resumo": "",
+      "publicado_em": "2026-09-04T10:02:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "300e09ef3e96d979",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Livraria do Senado participa da Bienal do Livro de São Paulo",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/livraria-do-senado-participa-da-bienal-do-livro-de-sao-paulo",
+      "resumo": "",
+      "publicado_em": "2026-09-04T09:31:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "dc230a5fa07b8186",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Vai à sanção projeto que incentiva futebol feminino profissional",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/vai-a-sancao-projeto-que-incentiva-futebol-feminino-profissional",
+      "resumo": "",
+      "publicado_em": "2026-09-04T09:25:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "sancao",
+        "vai a sancao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "896c103445fcc02d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAE aprova isenção de IR para pessoas com doença rara",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/cae-aprova-isencao-de-ir-para-pessoas-com-doenca-rara",
+      "resumo": "",
+      "publicado_em": "2026-09-04T09:17:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "1194331ee116ad8f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovadas regras que facilitam regularização de áreas rurais embargadas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/aprovadas-regras-que-facilitam-regularizacao-de-areas-rurais-embargadas",
+      "resumo": "",
+      "publicado_em": "2026-09-04T09:09:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "d481713dbe0976b5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sem acordo, MP dos mototaxistas deverá perder validade em setembro",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/sem-acordo-mp-dos-mototaxistas-devera-perder-validade-em-setembro",
+      "resumo": "",
+      "publicado_em": "2026-09-04T09:02:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "f4fd93f42333130e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Voto no exterior cresce 31%; saiba como votar e justificar a ausência",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/04/voto-no-exterior-cresce-31-saiba-como-votar-e-justificar-a-ausencia",
+      "resumo": "",
+      "publicado_em": "2026-09-04T08:50:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "dce487eef069a051",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovada exceção a regras fiscais para benefícios tributários e despesas de 2026",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/aprovada-excecao-a-regras-fiscais-para-beneficios-tributarios-e-despesas-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-04T08:46:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "tributario",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "27a1788bf1e5cae3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Punição mais rígida para roubo de combustíveis vai a sanção",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/punicao-mais-rigida-para-roubo-de-combustiveis-vai-a-sancao",
+      "resumo": "",
+      "publicado_em": "2026-09-04T08:42:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "sancao",
+        "vai a sancao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "d9b3b20199b8f0d1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovado fim da 'taxa das blusinhas' para compras internacionais de até US$ 50",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/aprovado-fim-da-taxa-das-blusinhas-para-compras-internacionais-de-ate-us-50",
+      "resumo": "",
+      "publicado_em": "2026-09-04T08:30:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "0b4dfac12b92a425",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Divulgado o resultado da chamada pública para colaboradores da educação profissional e tecnológica",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/disponivel-resultado-final-de-chamada-publica-para-colaboradores-da-educacao-profissional-e-tecnologica",
+      "resumo": "",
+      "publicado_em": "2026-09-04T10:23:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "6a569ba4d718578d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rádio Nacional do Alto Solimões destaca Dia da Amazônia nesta sexta (4)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/radio-nacional-do-alto-solimoes-destaca-dia-da-amazonia-nesta-sexta-feira-4",
+      "resumo": "",
+      "publicado_em": "2026-09-04T08:50:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "33e11c1314faebe7",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal e PGFN publicam novo edital de transação para controvérsia sobre IRRF de investidores não residentes",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-e-pgfn-publicam-novo-edital-de-transacao-para-controversia-sobre-irrf-de-investidores-nao-residentes",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "irrf",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "fc7ed7922b6da67a",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal abre consulta pública sobre consolidação e modernização de normas relativas aos regimes aduaneiros de mercadorias",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-abre-consulta-publica-sobre-consolidacao-e-modernizacao-de-normas-relativas-aos-regimes-aduaneiros-de-mercadorias",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "98db34a7a1d4644d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin e a política do rule of law",
+      "link": "https://www.congressoemfoco.com.br/artigo/121978/fachin-e-a-politica-do-rule-of-law",
+      "resumo": "Divergências no STF não significam ruptura institucional, mas exigem regras, autocontenção e capacidade de manter as disputas dentro da própria Corte.",
+      "publicado_em": "2026-09-04T11:09:01-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "b3813ea1b3b318c2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Por que a Lei Orçamentária se tornou uma peça de ficção",
+      "link": "https://www.congressoemfoco.com.br/artigo/121975/por-que-a-lei-orcamentaria-se-tornou-uma-peca-de-ficcao",
+      "resumo": "Diretrizes aprovadas com atraso, receitas incertas e bloqueios durante o ano ampliam a distância entre os gastos autorizados e aquilo que o governo consegue executar.",
+      "publicado_em": "2026-09-04T10:25:11-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "3fd7264d76586d38",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio acusa Moraes, Dino e Alcolumbre de articular ação contra ele",
+      "link": "https://www.congressoemfoco.com.br/noticia/121973/flavio-acusa-moraes-dino-e-alcolumbre-de-articular-acao-contra-ele",
+      "resumo": "Candidato à Presidência afirma que suposta articulação teria objetivo de reagir a André Mendonça e desgastá-lo eleitoralmente.",
+      "publicado_em": "2026-09-04T09:42:46-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "eb42d1c7fe3eb069",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin tira pedido contra André Mendonça do inquérito das fake news",
+      "link": "https://www.congressoemfoco.com.br/noticia/121971/fachin-tira-pedido-contra-andre-mendonca-do-inquerito-das-fake-news",
+      "resumo": "Presidente do STF transferiu caso para procedimento próprio e deu cinco dias úteis para a PGR se manifestar antes de ouvir André Mendonça.",
+      "publicado_em": "2026-09-04T08:52:48-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "5a85654c6358e27a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nova lei cria programa para ampliar produção nacional de fertilizantes",
+      "link": "https://www.congressoemfoco.com.br/noticia/121970/nova-lei-cria-programa-para-ampliar-producao-nacional-de-fertilizantes",
+      "resumo": "Programa inclui fertilizantes minerais, sintéticos e orgânicos, além de bioinsumos e biofertilizantes.",
+      "publicado_em": "2026-09-04T08:12:28-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "078b180d67d2b245",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alcolumbre diz que Senado votará fim da escala 6x1 após eleições",
+      "link": "https://www.congressoemfoco.com.br/noticia/121969/alcolumbre-diz-que-senado-votara-fim-da-escala-6x1-apos-eleicoes",
+      "resumo": "Senador fez anúncio em resposta a apelo de Paulo Paim. PEC que reduz jornada máxima de 44 para 40 horas semanais precisa de pelo menos 49 votos favoráveis em dois turnos no Plenário.",
+      "publicado_em": "2026-09-04T07:59:46-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "4f2f2c6f9f396bd3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em meio à crise, Flávio Dino diz que STF é maior que qualquer ministro",
+      "link": "https://www.congressoemfoco.com.br/noticia/121968/em-meio-a-crise-flavio-dino-diz-que-stf-e-maior-que-qualquer-ministro",
+      "resumo": "Ministro prega lealdade institucional e afirma que problemas devem ser enfrentados com devido processo e \"no tempo certo\".",
+      "publicado_em": "2026-09-04T07:39:11-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "f57fba74f9cc564c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Leia a íntegra do relatório da PF usado por Moraes contra Mendonça",
+      "link": "https://www.congressoemfoco.com.br/noticia/121967/leia-a-integra-do-relatorio-da-pf-usado-por-moraes-contra-mendonca",
+      "resumo": "Documento sem valor comprobatório usado por Moraes para pedir apuração sobre Mendonça aponta interferências em investigações e delações.",
+      "publicado_em": "2026-09-04T07:33:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "549b08da31cb4e08",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Emendas parlamentares podem chegar a R$ 57,5 bilhões em 2027",
+      "link": "https://www.congressoemfoco.com.br/noticia/121966/emendas-parlamentares-podem-chegar-a-r-57-5-bilhoes-em-2027",
+      "resumo": "Montante pode representar mais de um quarto das despesas não obrigatórias do governo; Congresso ainda terá de abrir espaço para emendas de comissão.",
+      "publicado_em": "2026-09-04T07:18:25-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "6e11e2d2757918a0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eleições 2026: conheça as regras no dia da votação para eleitores e candidatos",
+      "link": "https://www.camara.leg.br/noticias/1302574-eleicoes-2026-conheca-as-regras-no-dia-da-votacao-para-eleitores-e-candidatos",
+      "resumo": "",
+      "publicado_em": "2026-09-04T09:49:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "3881ab5fa6d29aa9",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova comparecimento obrigatório de agressor a programa de reeducação",
+      "link": "https://www.camara.leg.br/noticias/1302601-comissao-aprova-comparecimento-obrigatorio-de-agressor-a-programa-de-reeducacao",
+      "resumo": "",
+      "publicado_em": "2026-09-04T09:09:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "obrigatorio",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
       "id": "70ac036ea17aec8f",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -314,6 +815,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-03T15:27:42-03:00"
+    },
+    {
+      "id": "bc2c006a3fb1de48",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Membros da Corte da 15ª elegem listas tríplices",
+      "link": "https://trt15.jus.br/noticia/2026/membros-da-corte-da-15a-elegem-listas-triplices",
+      "resumo": "Membros da Corte da 15ª elegem listas tríplices anasiqueira Qui, 03/09/2026 - 17:43 Membros da Corte da 15ª elegem listas tríplices Conteúdo da Notícia Os desembargadores do Tribunal Regional do Trabalho da 15ª Região, em sessão ordinária do Pleno Administrativo nesta quinta-feira, 3/9, conduzida pe",
+      "publicado_em": "2026-09-03T17:43:05-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
     },
     {
       "id": "c2b703228ce0c35b",
@@ -484,6 +999,68 @@
       "coletado_em": "2026-09-03T19:04:41-03:00"
     },
     {
+      "id": "50994b71e396c88f",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF define critérios para concessão da justiça gratuita em todo o Judiciário",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-define-criterios-para-concessao-da-justica-gratuita-em-todo-o-judiciario/",
+      "resumo": "Quem recebe acima de R$ 5 mil deverá demonstrar insuficiência econômica para obter o benefício",
+      "publicado_em": "2026-09-03T21:29:20-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "48ba9af245bca415",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF dá prazo para que ministros, PGR e Polícia Federal se manifestem sobre conduta em investigações",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-da-prazo-para-que-ministros-pgr-e-policia-federal-se-manifestem-sobre-conduta-em-investigacoes/",
+      "resumo": "Segundo ministro Edson Fachin, é dever da Presidência do STF zelar pelas prerrogativas da Corte, respeitando as garantias do devido processo legal, do contraditório e da ampla defesa",
+      "publicado_em": "2026-09-03T21:20:47-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "adi",
+        "prazo",
+        "processo"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "03cc3fc5f5f801aa",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Nota à imprensa",
+      "link": "https://noticias.stf.jus.br/postsnoticias/nota-a-imprensa-45/",
+      "resumo": "",
+      "publicado_em": "2026-09-03T21:11:39-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "b3e5a8d6abef8fe9",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF valida lei do Rio Grande do Sul que autorizou privatização da Corsan",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-valida-lei-do-rio-grande-do-sul-que-autorizou-privatizacao-da-corsan/",
+      "resumo": "Tribunal considerou que a venda seguiu as regras do programa estadual de desestatização e foi autorizada pela Assembleia Legislativa",
+      "publicado_em": "2026-09-03T19:59:06-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
       "id": "406383fd6a65cf39",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -556,6 +1133,53 @@
         "adi"
       ],
       "coletado_em": "2026-09-03T11:55:43-03:00"
+    },
+    {
+      "id": "d6dea65feea1c8c6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Volta à Câmara proposta de proteção a crianças expostas a violência doméstica no exterior",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/volta-a-camara-proposta-de-protecao-a-criancas-expostas-a-violencia-domestica-no-exterior",
+      "resumo": "",
+      "publicado_em": "2026-09-03T21:40:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "005b951a4115780f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Mudanças no seguro rural seguem para sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/03/mudancas-no-seguro-rural-seguem-para-sancao",
+      "resumo": "",
+      "publicado_em": "2026-09-03T21:05:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "sancao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "3dfe29701415ca37",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim da 'taxa das blusinhas' é aprovado no Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/fim-da-taxa-das-blusinhas-e-aprovado-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-09-03T20:51:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
     },
     {
       "id": "cb2e02ad410947fa",
@@ -1075,6 +1699,22 @@
       "coletado_em": "2026-09-03T19:04:41-03:00"
     },
     {
+      "id": "9f54b991a52caf2d",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Capacitação para docência na Segurança Pública está disponível na Rede EaD Senasp",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/capacitacao-para-docencia-na-seguranca-publica-esta-disponivel-na-rede-ead-senasp",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
       "id": "f7befc9c66f6fc14",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1161,6 +1801,20 @@
       "coletado_em": "2026-09-03T15:27:42-03:00"
     },
     {
+      "id": "0df76f1a07cab7a4",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Febre do Nilo Ocidental: saiba mais sobre infecção rara que já tem casos confirmados no Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/febre-do-nilo-ocidental-infeccao-rara-ja-soma-quatro-casos-e-um-obito-no-brasil-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-03T13:33:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
       "id": "2100c9ce923e8378",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1203,6 +1857,85 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "ccc39f01faca5efc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula cobra apuração \"sem blindagem\" no caso Master: \"doa a quem doer\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/121964/lula-cobra-apuracao-sem-blindagem-no-caso-master--doa-a-quem-doer",
+      "resumo": "Chefe do Executivo cobra investigação ampla sobre o escândalo e critica vazamentos seletivos das apurações.",
+      "publicado_em": "2026-09-03T21:32:38-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "b2283210bbf7e029",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin dá cinco dias para Moraes, Mendonça, Gonet e PF se explicarem",
+      "link": "https://www.congressoemfoco.com.br/noticia/121963/fachin-da-cinco-dias-para-moraes-mendonca-gonet-e-pf-se-explicarem",
+      "resumo": "Presidente do STF abriu procedimento para apurar circunstâncias do caso Vorcaro e pediu informações sobre atuação da PF, acesso a documento particular e eventual revelação de dados sigilosos a investigado.",
+      "publicado_em": "2026-09-03T20:53:36-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "c691d7c7c1161c9f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes aponta \"fortes indícios\" de crimes de Mendonça e pede apuração",
+      "link": "https://www.congressoemfoco.com.br/noticia/121962/moraes-aponta-fortes-indicios-de-crimes-de-mendonca-e-pede-apuracao",
+      "resumo": "Ministro do STF alega que André Mendonça violou prerrogativas ao supostamente investigar colega sem permissão do Plenário.",
+      "publicado_em": "2026-09-03T20:18:56-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "dd72e46acd061e53",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB adere ao Pacto Nacional pela Paz e Tolerância nas Eleições",
+      "link": "https://www.congressoemfoco.com.br/noticia/121961/oab-adere-ao-pacto-nacional-pela-paz-e-tolerancia-nas-eleicoes",
+      "resumo": "Acordo promovido pelo TSE estabelece ações de conscientização contra a violência eleitoral e de incentivo ao respeito às divergências.",
+      "publicado_em": "2026-09-03T19:40:02-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "2ebb04915cd27d79",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE/DF indefere candidatura de José Roberto Arruda ao governo do DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/121960/tre-df-indefere-candidatura-de-jose-roberto-arruda-ao-governo-do-df",
+      "resumo": "Candidato do PSD promete recorrer ao TSE após Corte rejeitar por unanimidade seu registro para disputar o governo do DF.",
+      "publicado_em": "2026-09-03T19:14:29-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
     },
     {
       "id": "93c6157c1a336376",
@@ -1763,6 +2496,36 @@
         "recurso"
       ],
       "coletado_em": "2026-09-03T19:04:41-03:00"
+    },
+    {
+      "id": "4e64c3733f796aa1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova regras para patentes criadas com auxílio de inteligência artificial",
+      "link": "https://www.camara.leg.br/noticias/1302597-comissao-aprova-regras-para-patentes-criadas-com-auxilio-de-inteligencia-artificial",
+      "resumo": "",
+      "publicado_em": "2026-09-03T20:53:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "b2bcfa4577f28568",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Leis viabilizam a Copa Feminina de 2027 e propostas reforçam o protagonismo das mulheres no futebol",
+      "link": "https://www.camara.leg.br/noticias/1302724-leis-viabilizam-a-copa-feminina-de-2027-e-propostas-reforcam-o-protagonismo-das-mulheres-no-futebol",
+      "resumo": "",
+      "publicado_em": "2026-09-03T20:08:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T11:52:27-03:00"
     },
     {
       "id": "277a11b7f77ac2fe",
