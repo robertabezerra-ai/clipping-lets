@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-04T16:59:14-03:00",
+  "gerado_em": "2026-09-04T18:58:55-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,15 +154,15 @@ window.DADOS = {
     },
     {
       "id": "pgfn",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /pgfn/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 29,
+      "erro": null
     },
     {
       "id": "senado",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www12.senado.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www12.senado"
+      "status": "ok",
+      "itens": 18,
+      "erro": null
     },
     {
       "id": "camara",
@@ -172,21 +172,21 @@ window.DADOS = {
     },
     {
       "id": "receita_federal",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /receitafederal/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='"
+      "status": "ok",
+      "itens": 3,
+      "erro": null
     },
     {
       "id": "fazenda",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /fazenda/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anpd",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /anpd/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effecti"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@ window.DADOS = {
     },
     {
       "id": "cvm",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cvm/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br'"
+      "status": "ok",
+      "itens": 1,
+      "erro": null
     },
     {
       "id": "bacen",
@@ -210,13 +210,13 @@ window.DADOS = {
       "id": "coaf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /coaf/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/coaf/pt-br/assuntos/noticias"
     },
     {
       "id": "cade",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cade/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "cnj",
@@ -226,15 +226,15 @@ window.DADOS = {
     },
     {
       "id": "mjsp",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mj/pt-br/assuntos/noticias-1 (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "carf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /carf/pt-br/assuntos/novas-noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www."
+      "status": "ok",
+      "itens": 3,
+      "erro": null
     },
     {
       "id": "governo_federal",
@@ -280,6 +280,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "7c59ed839ad87d56",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "PJE fica indisponível no início da noite desta sexta (4/9)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pje-fica-indisponivel-no-inicio-da-noite-desta-sexta-4-9",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
     },
     {
       "id": "36b477ddccfbb385",
@@ -376,6 +390,38 @@ window.DADOS = {
       "coletado_em": "2026-09-04T16:59:14-03:00"
     },
     {
+      "id": "0a46f59485f930a5",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Jurado Voluntário: Justiça de Paulínia está com inscrições abertas",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=114711&pagina=1",
+      "resumo": "Atuação nos Tribunais do Júri da Comarca.\n \n\tA Justiça de Paulínia está com inscrições abertas para voluntários que queiram atuar como jurados nos Tribunais do",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "494f238eb578b3cf",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF vai definir limites para uso de nomes e símbolos religiosos por outras denominações",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-vai-definir-limites-para-uso-de-nomes-e-simbolos-religiosos-por-outras-denominacoes/",
+      "resumo": "Tribunal reconheceu repercussão geral de controvérsia que envolve liberdade religiosa e proteção de marcas",
+      "publicado_em": "2026-09-04T18:44:03-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "repercussao geral"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
       "id": "2d87e236db4bed66",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -449,6 +495,109 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "82e5a4a2037e261e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Vai à Câmara projeto sobre reciclagem de baterias de carros elétricos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/vai-a-camara-projeto-sobre-reciclagem-de-baterias-de-carros-eletricos",
+      "resumo": "",
+      "publicado_em": "2026-09-04T18:05:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "1ea63bd548a2d7b5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pena em crimes contra policiais, membros da Justiça e seguranças pode aumentar",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/pena-em-crimes-contra-policiais-membros-da-justica-e-segurancas-pode-aumentar",
+      "resumo": "",
+      "publicado_em": "2026-09-04T17:57:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "e4ceb34b13d9d229",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi celebra licença do Ibama para poços exploratórios de petróleo no Amapá",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/davi-celebra-licenca-do-ibama-para-pocos-exploratorios-de-petroleo-no-amapa",
+      "resumo": "",
+      "publicado_em": "2026-09-04T17:44:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "1e4ddeea65f467f3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Caso Master: Viana pede providências em relação a denúncias contra Moraes",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/04/caso-master-viana-pede-providencias-em-relacao-a-denuncias-contra-moraes",
+      "resumo": "",
+      "publicado_em": "2026-09-04T17:21:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "5b90ef3e4d580b1b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi comemora autorização para busca de petróleo na costa do Amapá",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/04/davi-comemora-autorizacao-para-busca-de-petroleo-na-costa-do-amapa",
+      "resumo": "",
+      "publicado_em": "2026-09-04T16:58:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "ede519ee1315d626",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Plenário celebra Dia dos Corretores de Imóveis",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/04/plenario-celebra-dia-dos-corretores-de-imoveis",
+      "resumo": "",
+      "publicado_em": "2026-09-04T16:53:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "58e0de5f6ab8d907",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Proposta orçamentária prevê preenchimento de 53.530 vagas no setor público",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/04/proposta-orcamentaria-preve-preenchimento-de-53-530-vagas-no-setor-publico",
+      "resumo": "",
+      "publicado_em": "2026-09-04T15:24:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
     },
     {
       "id": "4eb5b5bc71bed1fc",
@@ -855,6 +1004,64 @@ window.DADOS = {
       "coletado_em": "2026-09-04T15:14:36-03:00"
     },
     {
+      "id": "17203efd22c5610a",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Sedigi defende integração entre setores para prevenir fraudes digitais",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sedigi-defende-integracao-entre-setores-para-prevenir-fraudes-digitais",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "0594ee9caea5c407",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Governo Federal sanciona leis que criam fundos para modernizar instituições do sistema de Justiça",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-sanciona-leis-que-criam-fundos-para-modernizar-instituicoes-do-sistema-de-justica",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "f5ad79b0578cda00",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Wi-Fi público: cuidados essenciais para navegar com segurança",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/wi-fi-publico-cuidados-essenciais-para-navegar-com-seguranca",
+      "resumo": "",
+      "publicado_em": "2026-09-04T17:49:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "0d52cb266eb90a61",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "INCA abre inscrições para Curso de Verão em Oncologia 2027",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/inca-abre-inscricoes-para-curso-de-verao-em-oncologia-2027",
+      "resumo": "",
+      "publicado_em": "2026-09-04T16:46:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
       "id": "cff138cf31ffd064",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -996,6 +1203,39 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "e1a54da4cda8f8e8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Conselho do MPF abre procedimento sobre citações a Gonet",
+      "link": "https://www.congressoemfoco.com.br/noticia/122003/conselho-do-mpf-abre-procedimento-sobre-citacoes-a-gonet",
+      "resumo": "Procurador-geral terá dez dias para explicar mensagens de Vorcaro que citam seu nome e supostos pedidos de atuação no caso Master.",
+      "publicado_em": "2026-09-04T17:52:01-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "27a48154f395c1aa",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB acompanha etapa final dos sistemas que serão usados nas eleições",
+      "link": "https://www.congressoemfoco.com.br/noticia/122002/oab-acompanha-etapa-final-dos-sistemas-que-serao-usados-nas-eleicoes",
+      "resumo": "Procedimento impede alterações nos programas e permite verificar se os sistemas usados na votação são os mesmos que foram fiscalizados.",
+      "publicado_em": "2026-09-04T17:33:40-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
     },
     {
       "id": "82a72d02f38c1cfb",
@@ -1368,6 +1608,179 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "671a5ed91187f109",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Encontro reúne corregedores de justiça de todo o país para diálogo e troca de boas práticas",
+      "link": "https://www.cnj.jus.br/encontro-reune-corregedores-de-justica-de-todo-o-pais-para-dialogo-e-troca-de-boas-praticas/",
+      "resumo": "A cooperação institucional, o compartilhamento de conhecimentos, experiências, projetos e soluções relacionados à atuação correcional. Esses são alguns dos objetivos do Encontro Nacional Integração de Boas Práticas – Diálogos entre o CNJ e o Colégio de Corregedores e Corregedoras da Justiça do Brasi",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "8402e0947c4b0289",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Feirão da Aprendizagem reúne cerca de 600 jovens a dezenas de empresas e parceiros",
+      "link": "https://www.cnj.jus.br/feirao-da-aprendizagem-reune-cerca-de-600-jovens-a-dezenas-de-empresas-e-parceiros/",
+      "resumo": "Cerca de 600 jovens compareceram ao 1º Feirão da Aprendizagem realizado pelo Tribunal Regional do Trabalho de Mato Grosso (TRT-MT). O evento foi organizado para aproximar pessoas de 14 a 24 anos que buscam uma oportunidade de ingresso no mercado de trabalho. Treze empresas e várias entidades parceir",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "a73958bc25f16a42",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Comunidade quilombola do Amapá ganha ponto de inclusão digital",
+      "link": "https://www.cnj.jus.br/comunidade-quilombola-do-amapa-ganha-ponto-de-inclusao-digital/",
+      "resumo": "O Tribunal Regional Eleitoral do Amapá (TRE-AP) inaugurou mais um Ponto de Inclusão Digital (PID), desta vez na Comunidade Quilombola Tapereira, localizada no município de Vitória do Jari, a cerca de 45 minutos de deslocamento por via fluvial da sede municipal. Instalado em uma sala cedida pela Esco",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "2d05719fa2ca8962",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJRJ oferece curso de Libras para remição de pena",
+      "link": "https://www.cnj.jus.br/tribunal-de-justica-oferece-curso-de-libras-para-remicao-de-pena/",
+      "resumo": "O Tribunal de Justiça do Rio de Janeiro (TJRJ) deu início à formação de mais uma turma do Curso de Língua Brasileira de Sinais (Libras). Fruto da parceria entre a Secretaria-Geral de Sustentabilidade e Responsabilidade Social (SGSUS) e a Vara de Execuções de Penas e Medidas Alternativas (Vepema), a ",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "c8b4996961d02909",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Vara de violência doméstica leva serviços e atividades de sensibilização a unidade de saúde em Juazeiro",
+      "link": "https://www.cnj.jus.br/vara-de-violencia-domestica-leva-servicos-e-atividades-de-sensibilizacao-a-unidade-de-saude-em-juazeiro/",
+      "resumo": "Escuta, diálogo e conscientização marcaram o Mutirão de Acolhimento, ação realizada pela Vara de Violência Doméstica e Familiar da Comarca de Juazeiro, no norte da Bahia. A programação proporcionou atendimentos jurídicos, psicológicos, odontológicos, nutricionais e de vacinação, com o objetivo de ap",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "ca6d655953516a96",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Presidente do CNJ participa do Encontro Regional com magistrados da Região Centro-Oeste",
+      "link": "https://www.cnj.jus.br/presidente-do-cnj-participa-do-encontro-regional-com-magistrados-da-regiao-centro-oeste/",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, se reuniu nesta sexta-feira (4/9) com magistrados da Região Centro-Oeste, em Cuiabá (MT), em mais uma edição do Encontro Regional da Magistratura — ação do CNJ para o diálogo com magistrados de todas as regiões do país. Fachi",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "9973790ea1e76a50",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Observatório debate o enfrentamento ao trabalho escravo e a construção de política nacional",
+      "link": "https://www.cnj.jus.br/observatorio-debate-o-enfrentamento-ao-trabalho-escravo-e-a-construcao-de-politica-nacional/",
+      "resumo": "Os integrantes do Observatório do Trabalho Decente reuniram-se em Cuiabá (MT), nesta quinta-feira (3), para debater o tema do enfrentamento ao trabalho escravo durante a programação do 3º Encontro do Fórum Nacional para Monitoramento e Solução das Demandas de Exploração do Trabalho em Condições Anál",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "64b43bf23118f3d0",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Sanção de novos fundos fortalece modernização e acesso à Justiça, destaca Fachin",
+      "link": "https://www.cnj.jus.br/sancao-de-novos-fundos-fortalece-modernizacao-e-acesso-a-justica-destaca-fachin/",
+      "resumo": "O Fundo de Modernização do Conselho Nacional de Justiça (FMCNJ) passará a receber recursos das custas processuais destinadas à Justiça Federal. A medida faz parte do Projeto de Lei (PL) n. 429/2024, que foi sancionado pela Presidência da República nesta sexta-feira (4/9). Para o presidente do CNJ e ",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "sancao",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "99beb161639df933",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que autoriza extensão de estágio após conclusão de curso superior",
+      "link": "https://www.camara.leg.br/noticias/1302980-comissao-aprova-projeto-que-autoriza-extensao-de-estagio-apos-conclusao-de-curso-superior",
+      "resumo": "",
+      "publicado_em": "2026-09-04T18:43:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "fc8d1ad404985856",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova ampliação do porte de arma para servidores",
+      "link": "https://www.camara.leg.br/noticias/1302914-comissao-aprova-ampliacao-do-porte-de-arma-para-servidores",
+      "resumo": "",
+      "publicado_em": "2026-09-04T18:37:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "cb152f2db4837018",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Sancionado programa de incentivo à indústria nacional de fertilizantes",
+      "link": "https://www.camara.leg.br/noticias/1302896-sancionado-programa-de-incentivo-a-industria-nacional-de-fertilizantes",
+      "resumo": "",
+      "publicado_em": "2026-09-04T18:06:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-04T18:58:55-03:00"
     },
     {
       "id": "8222b4a01b688512",
@@ -6050,7 +6463,7 @@ window.DADOS = {
       "id": "cb65f8ee04716f4f",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "STF recebe a partir desta quarta (2) 17ª edição da Jornada Ítalo-Hispano-Brasileira de Direito Público",
+      "titulo": "STF recebe 17ª edição da Jornada Ítalo-Hispano-Brasileira de Direito Público a partir desta quarta (2)",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-a-partir-desta-quarta-2-17a-edicao-da-jornada-italo-hispano-brasileira-de-direito-publico/",
       "resumo": "Evento discutirá resistência democrática e justiça constitucional",
       "publicado_em": "2026-09-01T19:46:45-03:00",
