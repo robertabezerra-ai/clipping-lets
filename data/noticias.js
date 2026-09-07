@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-07T17:52:19-03:00",
+  "gerado_em": "2026-09-07T19:25:15-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,39 +154,39 @@ window.DADOS = {
     },
     {
       "id": "pgfn",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /pgfn/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
-    },
-    {
-      "id": "senado",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www12.senado.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www12.senado"
-    },
-    {
-      "id": "camara",
       "status": "ok",
-      "itens": 10,
+      "itens": 29,
       "erro": null
     },
     {
-      "id": "receita_federal",
+      "id": "senado",
+      "status": "ok",
+      "itens": 18,
+      "erro": null
+    },
+    {
+      "id": "camara",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /receitafederal/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='"
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+    },
+    {
+      "id": "receita_federal",
+      "status": "ok",
+      "itens": 3,
+      "erro": null
     },
     {
       "id": "fazenda",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /fazenda/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anpd",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /anpd/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effecti"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@ window.DADOS = {
     },
     {
       "id": "cvm",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cvm/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br'"
+      "status": "ok",
+      "itens": 1,
+      "erro": null
     },
     {
       "id": "bacen",
@@ -210,13 +210,13 @@ window.DADOS = {
       "id": "coaf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /coaf/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/coaf/pt-br/assuntos/noticias"
     },
     {
       "id": "cade",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cade/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "cnj",
@@ -226,15 +226,15 @@ window.DADOS = {
     },
     {
       "id": "mjsp",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mj/pt-br/assuntos/noticias-1 (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "carf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /carf/pt-br/assuntos/novas-noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www."
+      "status": "ok",
+      "itens": 3,
+      "erro": null
     },
     {
       "id": "governo_federal",
@@ -370,6 +370,20 @@ window.DADOS = {
         "decide"
       ],
       "coletado_em": "2026-09-07T16:04:32-03:00"
+    },
+    {
+      "id": "e515e0d55e4e6315",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio na Paulista: '\"quem vota em Lula está votando em Moraes\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122026/flavio-na-paulista--quem-vota-em-lula-esta-votando-em-moraes",
+      "resumo": "Em ato na Avenida Paulista, candidato do PL associa o presidente ao ministro do STF, chama Moraes de \"laranja podre\" e diz que ele \"vai cair\".",
+      "publicado_em": "2026-09-07T17:21:28-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T19:25:15-03:00"
     },
     {
       "id": "5fb51f8c36d44922",
