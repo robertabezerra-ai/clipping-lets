@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-07T16:04:32-03:00",
+  "gerado_em": "2026-09-07T17:52:19-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -297,6 +297,20 @@
       "coletado_em": "2026-09-07T13:20:01-03:00"
     },
     {
+      "id": "1b1b17c0ca497bfd",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Desfile cívico-militar marca os 204 anos da Independência do Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/desfile-civico-militar-marca-os-204-anos-da-independencia-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-07T16:18:00-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T17:52:19-03:00"
+    },
+    {
       "id": "99de22303494c36c",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -356,6 +370,20 @@
         "decide"
       ],
       "coletado_em": "2026-09-07T16:04:32-03:00"
+    },
+    {
+      "id": "5fb51f8c36d44922",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Atos de 7 de Setembro miram Moraes e Lula em diferentes cidades",
+      "link": "https://www.congressoemfoco.com.br/noticia/122025/atos-de-7-de-setembro-miram-moraes-e-lula-em-diferentes-cidades",
+      "resumo": "Protestos foram registrados em ao menos sete capitais; impeachment de Moraes, críticas ao governo e apoio a André Mendonça estiveram entre as principais bandeiras.",
+      "publicado_em": "2026-09-07T16:03:01-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T17:52:19-03:00"
     },
     {
       "id": "b5f6301493b5de44",
@@ -1754,6 +1782,22 @@
         "exposicao"
       ],
       "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "6f28be1c75614e86",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Uso de aeronaves em campanha pode ter declaração obrigatória",
+      "link": "https://www.congressoemfoco.com.br/noticia/121999/uso-de-aeronaves-em-campanha-pode-ter-declaracao-obrigatoria",
+      "resumo": "Projeto exige que voos cedidos gratuitamente sejam registrados como doação, com valor estimado, trajeto e identificação dos beneficiados.",
+      "publicado_em": "2026-09-04T16:22:34-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T17:52:19-03:00"
     },
     {
       "id": "3292a32ac3a87970",
