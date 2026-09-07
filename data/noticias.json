@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-04T18:58:55-03:00",
+  "gerado_em": "2026-09-07T13:20:01-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,283 @@
   ],
   "noticias": [
     {
+      "id": "439e95083cc3e421",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Cadip lança edição atualizada sobre as alterações na Lei de Improbidade Administrativa",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115239&pagina=1",
+      "resumo": "Inovações e consolidação jurisprudencial.\n \n\tO Centro de Apoio ao Direito Público da Seção de Direito Público do Tribunal de Justiça de São Paulo (Cadip) disponibilizou",
+      "publicado_em": "2026-09-07T12:00:00-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "adi",
+        "improbidade",
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "3e757099f4a68055",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Soberania nacional dá o tom do desfile de 7 de Setembro em Brasília",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/soberania-nacional-da-o-tom-do-desfile-de-7-de-setembro-em-brasilia-1",
+      "resumo": "",
+      "publicado_em": "2026-09-07T12:00:00-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "99de22303494c36c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Sem Censura, da TV Brasil, destaca legado de Cauby Peixoto com especial sobre o astro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/sem-censura-da-tv-brasil-destaca-legado-de-cauby-peixoto-com-especial-sobre-o-astro",
+      "resumo": "",
+      "publicado_em": "2026-09-07T09:30:00-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "ca3da86f61d1cd7c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Conheça a história da Independência do Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/conheca-a-historia-da-independencia-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-07T08:00:00-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "7b7993717fb7d715",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula reúne Fachin, Motta e Alcolumbre no desfile de 7 de Setembro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122021/lula-reune-fachin-motta-e-alcolumbre-no-desfile-de-7-de-setembro",
+      "resumo": "Presidente da Corte dividiu a tribuna com os chefes dos demais Poderes em meio ao embate entre Moraes e Mendonça no caso Master.",
+      "publicado_em": "2026-09-07T10:21:11-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "304726adeaedfe4e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Presidente da OAB cobra respostas \"rápidas e claras\" do STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122020/presidente-da-oab-cobra-respostas-rapidas-e-claras-do-stf",
+      "resumo": "Em vídeo neste 7 de Setembro, Beto Simonetti diz que uma nação independente precisa mais do que soberania. \"O Brasil precisa confiar novamente em suas instituições\".",
+      "publicado_em": "2026-09-07T09:08:19-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "d0a7544c5dd03c7b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Normas e políticas de gestão de precatórios serão tema de audiência pública no CNJ",
+      "link": "https://www.cnj.jus.br/normas-e-politicas-de-gestao-de-precatorios-serao-tema-de-audiencia-publica-no-cnj/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realiza, no próximo dia 9, das 10h às 18h, uma audiência pública para debater temas relacionados ao sistema de precatórios. O encontro vai debater três eixos: Nova Resolução Geral de Precatórios, a Política Judiciária Nacional para o Tratamento Adequado dos Preca",
+      "publicado_em": "2026-09-07T12:00:00-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "resolucao",
+        "precatorio"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "e081ea703cf2c089",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Município de Santos deve nomear candidata preterida em lista de cotas raciais",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115184&pagina=1",
+      "resumo": "Desrespeito à proporção mínima prevista no edital.\n \n\tA 7ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve decisão da 1ª Vara",
+      "publicado_em": "2026-09-06T12:00:00-03:00",
+      "dia": "2026-09-06",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "628b6daca0cc2218",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF apreende mais de meia tonelada de cocaína e realiza duas prisões",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-apreende-mais-de-meia-tonelada-de-cocaina-e-realiza-duas-prisoes",
+      "resumo": "",
+      "publicado_em": "2026-09-06T17:21:00-03:00",
+      "dia": "2026-09-06",
+      "data_estimada": false,
+      "score": 4,
+      "tags": [
+        "apreende",
+        "cocaina"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "db5d524ccb260eab",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Caminhos da Reportagem desta segunda (7) analisa a convivência entre cidade e vida selvagem em São Paulo",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/caminhos-da-reportagem-desta-segunda-7-analisa-a-convivencia-entre-cidade-e-vida-selvagem-em-sao-paulo",
+      "resumo": "",
+      "publicado_em": "2026-09-06T15:15:00-03:00",
+      "dia": "2026-09-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "78c4eae6170beef7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Panteão da Pátria reúne histórias de personagens que marcaram a Independência do Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/panteao-da-patria-reune-historias-de-personagens-que-marcaram-a-independencia-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-06T09:00:00-03:00",
+      "dia": "2026-09-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "2f2266159ea04e9a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula defende soberania e diz que Brasil \"não será colônia de ninguém\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122019/lula-defende-soberania-e-diz-que-brasil-nao-sera-colonia-de-ninguem",
+      "resumo": "Em pronunciamento autorizado pelo TSE, presidente critica pressões externas, defende autonomia comercial e diz que riquezas naturais devem servir ao desenvolvimento do Brasil. Assista ao vídeo.",
+      "publicado_em": "2026-09-06T21:11:49-03:00",
+      "dia": "2026-09-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "669d7c2677e626c2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça libera ao plenário caso das mensagens de Moraes e Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122018/mendonca-libera-ao-plenario-caso-das-mensagens-de-moraes-e-vorcaro",
+      "resumo": "Presidente do STF decidirá se leva relatório da PF ao plenário e se análise será pública ou reservada. PGR aponta nulidades na apuração determinada por Mendonça.",
+      "publicado_em": "2026-09-06T18:00:43-03:00",
+      "dia": "2026-09-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "7777c83c88e5402e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE manda ICL retirar publicações sobre \"lindão\" de Nikolas a Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122017/tre-manda-icl-retirar-conteudos-sobre-lindao-de-nikolas-a-vorcaro",
+      "resumo": "Juiz viu informação falsa no uso de \"lindão\", mas manteve conteúdos sobre atuação do deputado em caso envolvendo ativo minerário. Decisão é liminar.",
+      "publicado_em": "2026-09-06T17:10:30-03:00",
+      "dia": "2026-09-06",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "decisao",
+        "liminar",
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "bdbf44f240aa17f5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Presidenciáveis vão às ruas em 7 de Setembro marcado por crise no STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122016/presidenciaveis-vao-as-ruas-em-7-de-setembro-marcado-por-crise-no-stf",
+      "resumo": "Crise entre Moraes e Mendonça ganha espaço nos atos de Flávio, Zema e Renan; Cury faz caminhada, enquanto Lula e Caiado acompanham desfiles.",
+      "publicado_em": "2026-09-06T16:19:57-03:00",
+      "dia": "2026-09-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "0c37a5eb22ff64e9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Após fala de Fachin, Dino questiona \"promessa\" de fim de inquérito",
+      "link": "https://www.congressoemfoco.com.br/noticia/122015/apos-fala-de-fachin-dino-questiona-promessa-de-fim-de-inquerito",
+      "resumo": "Ministro diz que crise no STF mistura \"problemas reais e graves\" com interesses eleitorais e econômicos e defende critérios legais para encerrar inquéritos.",
+      "publicado_em": "2026-09-06T15:21:21-03:00",
+      "dia": "2026-09-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "f6cc306731be50f6",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Fórum de Piracicaba recebe exposição \"Cats & Company\"",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115177&pagina=1",
+      "resumo": "Visitação gratuita até 30 de setembro.\n \n\tO Fórum Dr. Francisco Morato, na Comarca de Piracicaba, recebe, até 30 de setembro, a exposição “Cats & Company”,",
+      "publicado_em": "2026-09-05T12:00:00-03:00",
+      "dia": "2026-09-05",
+      "data_estimada": true,
+      "score": 18,
+      "tags": [
+        "acao",
+        "visita",
+        "exposicao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "13cd7ac086830df2",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo na Semana destaca definição de critérios para concessão da justiça gratuita",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-na-semana-destaca-definicao-de-criterios-para-concessao-da-justica-gratuita/",
+      "resumo": "O episódio #201 está disponível nas principais plataformas de áudio e no YouTube",
+      "publicado_em": "2026-09-05T12:00:00-03:00",
+      "dia": "2026-09-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
       "id": "d0b406b007b3677a",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -294,6 +571,37 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "44ca6f36085ba079",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Fórum Trabalhista do Guarujá recebe homenagem ao desembargador Gualdo Amaury Formica",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/forum-trabalhista-do-guaruja-recebe-homenagem-ao-desembargador-gualdo-amaury-formica",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "trabalhista",
+        "homenagem"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "45981ccf8647edc3",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "DEJT tem funcionamento normalizado",
+      "link": "https://trt15.jus.br/noticia/2026/dejt-tem-funcionamento-normalizado",
+      "resumo": "DEJT tem funcionamento normalizado anasiqueira Sex, 04/09/2026 - 19:50 DEJT tem funcionamento normalizado Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) comunica que o funcionamento do Diário Eletrônico da Justiça do Trabalho (DEJT) foi restabelecido e o serviço já  está dispo",
+      "publicado_em": "2026-09-04T19:50:18-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
     },
     {
       "id": "36b477ddccfbb385",
@@ -406,6 +714,40 @@
       "coletado_em": "2026-09-04T18:58:55-03:00"
     },
     {
+      "id": "064b5f72bb94ad9f",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF mantém decisão que obriga município pernambucano a fornecer tratamento contra alergia grave",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-decisao-que-obriga-municipio-pernambucano-a-fornecer-tratamento-contra-alergia-grave/",
+      "resumo": "Ministro Fachin negou pedido de suspensão do fornecimento de medicamento a paciente com histórico de choque anafilático e risco de morte",
+      "publicado_em": "2026-09-04T19:58:19-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "5ffb20f0aa8feff3",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Associação questiona decreto de Minas Gerais que restringe publicidade de bets",
+      "link": "https://noticias.stf.jus.br/postsnoticias/associacao-questiona-decreto-de-minas-gerais-que-restringe-publicidade-de-bets/",
+      "resumo": "ANJL afirma que governo mineiro ultrapassou os limites do poder regulamentar ao criar regras para publicidade de apostas por decreto",
+      "publicado_em": "2026-09-04T19:55:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "decreto",
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
       "id": "494f238eb578b3cf",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -495,6 +837,55 @@
         "julga"
       ],
       "coletado_em": "2026-09-04T11:52:27-03:00"
+    },
+    {
+      "id": "0608cc4e320fcc09",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso estará fechado para visitação neste fim de semana e feriado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/04/congresso-estara-fechado-para-visitacao-neste-fim-de-semana-e-feriado",
+      "resumo": "",
+      "publicado_em": "2026-09-04T20:15:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "260ae78c28799458",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Aprova: Fim da \"taxa das blusinhas\"",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/senado-aprova-fim-da-taxa-das-blusinhas",
+      "resumo": "",
+      "publicado_em": "2026-09-04T19:28:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "e63741159bc0b81b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Carlos Viana pede abertura de processo de impeachment de Alexandre de Moraes",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/carlos-viana-pede-abertura-de-processo-de-impeachment-de-alexandre-de-moraes",
+      "resumo": "",
+      "publicado_em": "2026-09-04T18:56:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
     },
     {
       "id": "82e5a4a2037e261e",
@@ -1034,6 +1425,70 @@
       "coletado_em": "2026-09-04T18:58:55-03:00"
     },
     {
+      "id": "bae6c4d98f2d8b51",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senajus debate aprimoramento da transferência internacional de processos",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-debate-aprimoramento-da-transferencia-internacional-de-processos",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "1c724c34ce036a31",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senad fortalece capacidade de identificação de novas substâncias psicoativas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-fortalece-capacidade-de-identificacao-de-novas-substancias-psicoativas",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "3c0a53166338adfb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Aviação do Exército celebra 40 anos de recriação",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/aviacao-do-exercito-celebra-40-anos-de-recriacao",
+      "resumo": "",
+      "publicado_em": "2026-09-04T20:48:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "f1d4e527e188fcde",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Estudantes indígenas podem ingressar na pós-graduação com apoio da Capes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/estudantes-indigenas-podem-ingressar-na-pos-graduacao-com-apoio-da-capes",
+      "resumo": "",
+      "publicado_em": "2026-09-04T19:25:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
       "id": "f5ad79b0578cda00",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1238,6 +1693,23 @@
       "coletado_em": "2026-09-04T18:58:55-03:00"
     },
     {
+      "id": "19bce2501d9edb9a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê porte de arma a pessoas expostas no mercado de cripto",
+      "link": "https://www.congressoemfoco.com.br/noticia/122001/projeto-preve-porte-de-arma-a-pessoas-expostas-no-mercado-de-cripto",
+      "resumo": "Texto contempla pessoas com ativos em autocustódia e exposição pública que possam se tornar alvo de violência para transferência forçada dos recursos.",
+      "publicado_em": "2026-09-04T16:51:48-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "recurso",
+        "exposicao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
       "id": "82a72d02f38c1cfb",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1252,6 +1724,71 @@
         "acao"
       ],
       "coletado_em": "2026-09-04T16:59:14-03:00"
+    },
+    {
+      "id": "ee58812fc4a09888",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto endurece progressão de regime para condenados por feminicídio",
+      "link": "https://www.congressoemfoco.com.br/noticia/121996/projeto-endurece-progressao-de-regime-para-condenados-por-feminicidio",
+      "resumo": "Texto eleva de 75% para 80% o tempo mínimo exigido para progressão de regime de réus primários e veda o livramento condicional.",
+      "publicado_em": "2026-09-04T15:55:27-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "condenado"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "beeb11a6c747de9b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Do 7 de Setembro ao cerco: como nasceu e caiu o 1º Parlamento",
+      "link": "https://www.congressoemfoco.com.br/noticia/121994/do-7-de-setembro-ao-cerco-como-nasceu-e-caiu-o-1-parlamento",
+      "resumo": "No primeiro aniversário da Independência, constituintes celebraram com Dom Pedro. Dois meses depois, tropas a mando do imperador cercaram a Assembleia e interromperam a elaboração da primeira Constituição brasileira.",
+      "publicado_em": "2026-09-04T15:10:04-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "acao",
+        "aniversario"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "0c7a5e2055a400a8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quando o feriado de 7 de Setembro virou crise entre os Poderes",
+      "link": "https://www.congressoemfoco.com.br/noticia/121993/quando-o-feriado-de-7-de-setembro-virou-crise-entre-os-poderes",
+      "resumo": "Celebrações após a redemocratização foram marcadas por vaias e protestos, alcançando novo patamar nas duas últimas décadas.",
+      "publicado_em": "2026-09-04T15:10:01-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "ad2ce9e4e5cb5b95",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Autoritarismo, crime organizado e a disputa pelo Brasil",
+      "link": "https://www.congressoemfoco.com.br/artigo/121992/autoritarismo-crime-organizado-e-a-disputa-pelo-brasil",
+      "resumo": "Eleições livres não bastam quando violência, desigualdade, desinformação e interferências externas reduzem a capacidade da sociedade de decidir seu futuro.",
+      "publicado_em": "2026-09-04T15:09:20-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
     },
     {
       "id": "a33a0315b9042077",
@@ -1282,6 +1819,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "92f67364f026c7dd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto amplia papel de agentes de saúde na assistência social",
+      "link": "https://www.congressoemfoco.com.br/noticia/121989/projeto-amplia-papel-de-agentes-de-saude-na-assistencia-social",
+      "resumo": "Projeto cria programa de capacitação e integração de dados para que agentes comunitários de saúde possam auxiliar órgãos de assistência social.",
+      "publicado_em": "2026-09-04T13:42:38-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
     },
     {
       "id": "217cd32d10d5e463",
@@ -1365,6 +1918,22 @@
       "coletado_em": "2026-09-04T15:14:36-03:00"
     },
     {
+      "id": "a834be961d485c24",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O ouro já deu seu veredito",
+      "link": "https://www.congressoemfoco.com.br/artigo/121982/o-ouro-ja-deu-seu-veredito",
+      "resumo": "Avanço da dívida dos Estados Unidos e temor de desvalorização da moeda ajudam a explicar a corrida de investidores e bancos centrais para o ouro.",
+      "publicado_em": "2026-09-04T11:47:35-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
       "id": "973143586446f555",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1380,6 +1949,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "1c4a9f9e78fafdfb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto tira da Justiça Militar ações de violência contra mulher",
+      "link": "https://www.congressoemfoco.com.br/noticia/121979/projeto-tira-da-justica-militar-acoes-de-violencia-contra-mulher",
+      "resumo": "Projeto apresentado por Cid Gomes garante atuação da Justiça Comum, mesmo quando agressor e vítima forem militares.",
+      "publicado_em": "2026-09-04T11:09:51-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
     },
     {
       "id": "98db34a7a1d4644d",
@@ -1615,7 +2200,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Encontro reúne corregedores de justiça de todo o país para diálogo e troca de boas práticas",
       "link": "https://www.cnj.jus.br/encontro-reune-corregedores-de-justica-de-todo-o-pais-para-dialogo-e-troca-de-boas-praticas/",
-      "resumo": "A cooperação institucional, o compartilhamento de conhecimentos, experiências, projetos e soluções relacionados à atuação correcional. Esses são alguns dos objetivos do Encontro Nacional Integração de Boas Práticas – Diálogos entre o CNJ e o Colégio de Corregedores e Corregedoras da Justiça do Brasi",
+      "resumo": "Cooperação institucional e compartilhamento de conhecimentos, experiências, projetos e soluções relacionados à atuação correcional: esses são alguns dos objetivos do “Encontro Nacional Integração de Boas Práticas: diálogos entre o CNJ e o Colégio de Corregedores e Corregedoras da Justiça do Brasil”,",
       "publicado_em": "2026-09-04T12:00:00-03:00",
       "dia": "2026-09-04",
       "data_estimada": true,
@@ -1707,7 +2292,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Observatório debate o enfrentamento ao trabalho escravo e a construção de política nacional",
       "link": "https://www.cnj.jus.br/observatorio-debate-o-enfrentamento-ao-trabalho-escravo-e-a-construcao-de-politica-nacional/",
-      "resumo": "Os integrantes do Observatório do Trabalho Decente reuniram-se em Cuiabá (MT), nesta quinta-feira (3), para debater o tema do enfrentamento ao trabalho escravo durante a programação do 3º Encontro do Fórum Nacional para Monitoramento e Solução das Demandas de Exploração do Trabalho em Condições Anál",
+      "resumo": "Os integrantes do Observatório do Trabalho Decente reuniram-se em Cuiabá (MT), nesta quinta-feira (3), para debater o tema do enfrentamento ao trabalho escravo durante a programação do 3º Encontro do Fórum Nacional para Monitoramento e Solução das Demandas de Exploração do Trabalho em Condições Anál",
       "publicado_em": "2026-09-04T12:00:00-03:00",
       "dia": "2026-09-04",
       "data_estimada": true,
@@ -1734,6 +2319,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-04T18:58:55-03:00"
+    },
+    {
+      "id": "7e773fd1d3e899d4",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Escola em Ceilândia recebe o CNJ para falar sobre segurança digital por meio da arte",
+      "link": "https://www.cnj.jus.br/escola-em-ceilandia-recebe-o-cnj-para-falar-sobre-seguranca-digital-por-meio-da-arte/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) leva, nesta terça-feira (8/9), às 8h30, a divulgação do concurso nacional de desenho “Juventude Conectada com Direitos: o ECA Digital tá on” à Escola Classe 68 de Ceilândia (DF). O intuito é envolver os alunos na iniciativa voltada à difusão dos direitos no ambie",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
     },
     {
       "id": "99beb161639df933",
@@ -3148,6 +3749,22 @@
       "coletado_em": "2026-09-03T19:04:41-03:00"
     },
     {
+      "id": "a2c4586fb182485e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senador quer estender perda de bem a crime contra sistema financeiro",
+      "link": "https://www.congressoemfoco.com.br/noticia/121956/senador-quer-estender-perda-de-bem-a-crime-contra-sistema-financeiro",
+      "resumo": "Medida estende a aplicação da ação civil de perdimento de bens aos crimes contra o sistema financeiro nacional.",
+      "publicado_em": "2026-09-03T17:58:25-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
       "id": "5725b5fdb0ed7dc3",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -3193,6 +3810,52 @@
         "acao"
       ],
       "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "7e62458a6eaeea4b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "De 1822 a 2026: dois retratos do Brasil separados por 204 anos",
+      "link": "https://www.congressoemfoco.com.br/noticia/121948/de-1822-a-2026-dois-retratos-do-brasil-separados-por-204-anos",
+      "resumo": "Da população às urnas, indicadores mostram um país maior, urbano e longevo, com participação política ampliada, mas ainda desigual.",
+      "publicado_em": "2026-09-03T16:11:56-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "62193c4187973bda",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Do voto censitário às urnas em 2026: quem elegia políticos no Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/121947/do-voto-censitario-as-urnas-em-2026-quem-elegia-politicos-no-brasil",
+      "resumo": "Votação dependia de critérios econômicos, de idade e condição social; mulheres sequer foram mencionadas.",
+      "publicado_em": "2026-09-03T15:58:13-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "73d99e9825dd8978",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senador propõe carreira única e salários escalonados na Polícia Civil",
+      "link": "https://www.congressoemfoco.com.br/noticia/121946/senador-propoe-carreira-unica-e-salarios-escalonados-na-policia-civil",
+      "resumo": "Modelo proposto se inspira na estrutura da Polícia Federal e mantém funções e requisitos distintos.",
+      "publicado_em": "2026-09-03T15:54:55-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
     },
     {
       "id": "e0349bf2efa35eb4",
@@ -3341,6 +4004,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "093c53008c097959",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Como o Congresso ajudou a transformar o 7 de Setembro em feriado",
+      "link": "https://www.congressoemfoco.com.br/noticia/121936/como-o-congresso-ajudou-a-transformar-o-7-de-setembro-em-feriado",
+      "resumo": "Da primeira oficialização em 1826 às leis atuais, data passou por sucessivas decisões do Congresso e de diferentes governos até se consolidar como principal celebração cívica do país.",
+      "publicado_em": "2026-09-03T14:11:18-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
     },
     {
       "id": "e81e07e182808d11",
@@ -4018,23 +4697,6 @@
       "coletado_em": "2026-09-02T15:31:19-03:00"
     },
     {
-      "id": "e0f632a22c58bf5e",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT",
-      "link": "https://trt15.jus.br/noticia/2026/magistrados-do-trt-15-destacam-forca-da-conciliacao-em-seminario-promovido-pelo-mpt",
-      "resumo": "Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT anasiqueira Qua, 02/09/2026 - 19:00 Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora ",
-      "publicado_em": "2026-09-02T19:00:56-03:00",
-      "dia": "2026-09-02",
-      "data_estimada": false,
-      "score": 36,
-      "tags": [
-        "acao",
-        "seminario"
-      ],
-      "coletado_em": "2026-09-02T19:13:07-03:00"
-    },
-    {
       "id": "62c76852bde2d09f",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -4077,6 +4739,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-03T11:55:43-03:00"
+    },
+    {
+      "id": "e0f632a22c58bf5e",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT",
+      "link": "https://trt15.jus.br/noticia/2026/magistrados-do-trt-15-destacam-forca-da-conciliacao-em-seminario-promovido-pelo-mpt",
+      "resumo": "Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT anasiqueira Qua, 02/09/2026 - 11:00 Magistrados do TRT-15 destacam força da conciliação em seminário promovido pelo MPT Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora ",
+      "publicado_em": "2026-09-02T11:00:56-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 36,
+      "tags": [
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-09-02T19:13:07-03:00"
     },
     {
       "id": "e25f77a908ae7ffa",
@@ -37990,37 +38669,6 @@
       "data_estimada": false,
       "score": 46,
       "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "1db079c2375c0536",
-      "fonte_id": "pgfn",
-      "fonte_nome": "PGFN",
-      "titulo": "Regularize muda acesso de pessoa física",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/regularize-muda-acesso-de-pessoa-fisica",
-      "resumo": "",
-      "publicado_em": "2026-06-08T12:00:00-03:00",
-      "dia": "2026-06-08",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "40411a6bc96787bf",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "ANPD inicia processo para sancionar Claro por irregularidades no compartilhamento de dados pessoais de clientes com a Serasa",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/copy_of_anpd-inicia-processo-para-sancionar-claro-por-irregularidades-no-compartilhamento-de-dados-pessoais-de-clientes-com-a-serasa",
-      "resumo": "Operadora de celular responderá a processo administrativo sancionador, enquanto empresa de análise de crédito será alvo de nova fiscalização sobre transparência e direitos dos titulares de dados",
-      "publicado_em": "2026-06-08T13:30:03-03:00",
-      "dia": "2026-06-08",
-      "data_estimada": false,
-      "score": 52,
-      "tags": [
-        "processo",
         "acao"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
