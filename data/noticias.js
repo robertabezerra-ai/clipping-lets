@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-07T13:20:01-03:00",
+  "gerado_em": "2026-09-07T16:04:32-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,39 +154,39 @@ window.DADOS = {
     },
     {
       "id": "pgfn",
-      "status": "ok",
-      "itens": 29,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /pgfn/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "senado",
-      "status": "ok",
-      "itens": 18,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www12.senado.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www12.senado"
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
-      "status": "ok",
-      "itens": 3,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /receitafederal/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='"
     },
     {
       "id": "fazenda",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /fazenda/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
     },
     {
       "id": "anpd",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /anpd/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effecti"
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@ window.DADOS = {
     },
     {
       "id": "cvm",
-      "status": "ok",
-      "itens": 1,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cvm/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br'"
     },
     {
       "id": "bacen",
@@ -210,13 +210,13 @@ window.DADOS = {
       "id": "coaf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/coaf/pt-br/assuntos/noticias"
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /coaf/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "cade",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cade/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "cnj",
@@ -226,15 +226,15 @@ window.DADOS = {
     },
     {
       "id": "mjsp",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mj/pt-br/assuntos/noticias-1 (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "carf",
-      "status": "ok",
-      "itens": 3,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /carf/pt-br/assuntos/novas-noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www."
     },
     {
       "id": "governo_federal",
@@ -267,6 +267,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "3f5a8e49698c8f7d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Nota de pesar",
+      "link": "https://noticias.stf.jus.br/postsnoticias/nota-de-pesar-22/",
+      "resumo": "STF lamenta morte do jurista alemão Robert Alexy",
+      "publicado_em": "2026-09-07T13:34:23-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T16:04:32-03:00"
     },
     {
       "id": "3e757099f4a68055",
@@ -309,6 +323,55 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "628b6daca0cc2218",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF apreende mais de meia tonelada de cocaína e realiza duas prisões",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-apreende-mais-de-meia-tonelada-de-cocaina-e-realiza-duas-prisoes",
+      "resumo": "",
+      "publicado_em": "2026-09-07T07:15:00-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": false,
+      "score": 4,
+      "tags": [
+        "apreende",
+        "cocaina"
+      ],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "64174d7fb82e7985",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Nesta segunda (7), Vasco e Atlético-PI decidem vaga na final do Brasileirão Feminino A2 na tela da TV Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/nesta-segunda-7-vasco-e-atletico-pi-decidem-vaga-na-final-do-brasileirao-feminino-a2-na-tela-da-tv-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-07T06:15:00-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decide"
+      ],
+      "coletado_em": "2026-09-07T16:04:32-03:00"
+    },
+    {
+      "id": "b5f6301493b5de44",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Messias rebate relatório da PF e recebe apoio de entidades da AGU",
+      "link": "https://www.congressoemfoco.com.br/noticia/122024/messias-rebate-relatorio-da-pf-e-recebe-apoio-de-entidades-da-agu",
+      "resumo": "Advogado-geral nega influência de amizades em decisões institucionais. Associações dizem que divergência jurídica não pode ser transformada em suspeição.",
+      "publicado_em": "2026-09-07T14:17:46-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "advogado"
+      ],
+      "coletado_em": "2026-09-07T16:04:32-03:00"
     },
     {
       "id": "7b7993717fb7d715",
@@ -371,23 +434,6 @@ window.DADOS = {
       "score": 52,
       "tags": [
         "decisao"
-      ],
-      "coletado_em": "2026-09-07T13:20:01-03:00"
-    },
-    {
-      "id": "628b6daca0cc2218",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "PF apreende mais de meia tonelada de cocaína e realiza duas prisões",
-      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-apreende-mais-de-meia-tonelada-de-cocaina-e-realiza-duas-prisoes",
-      "resumo": "",
-      "publicado_em": "2026-09-06T17:21:00-03:00",
-      "dia": "2026-09-06",
-      "data_estimada": false,
-      "score": 4,
-      "tags": [
-        "apreende",
-        "cocaina"
       ],
       "coletado_em": "2026-09-07T13:20:01-03:00"
     },
@@ -1710,6 +1756,24 @@ window.DADOS = {
       "coletado_em": "2026-09-07T13:20:01-03:00"
     },
     {
+      "id": "3292a32ac3a87970",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Regularidade ambiental, sistema PRISMA e recuperação judicial",
+      "link": "https://www.congressoemfoco.com.br/artigo/121998/regularidade-ambiental-sistema-prisma-e-recuperacao-judicial",
+      "resumo": "A ampliação da relevância econômica e processual da conformidade ambiental no agronegócio.",
+      "publicado_em": "2026-09-04T16:18:17-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "recuperacao judicial",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-07T16:04:32-03:00"
+    },
+    {
       "id": "82a72d02f38c1cfb",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1740,6 +1804,22 @@ window.DADOS = {
         "condenado"
       ],
       "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "9abfd30769f23ee4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sem mulheres no poder, Brasil governa pela metade",
+      "link": "https://www.congressoemfoco.com.br/artigo/121995/sem-mulheres-no-poder-brasil-governa-pela-metade",
+      "resumo": "Ausência de mulheres nas principais chapas presidenciais expõe o poder das estruturas partidárias sobre quem recebe espaço, recursos e condições reais de disputar.",
+      "publicado_em": "2026-09-04T15:44:23-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-07T16:04:32-03:00"
     },
     {
       "id": "beeb11a6c747de9b",
@@ -1916,6 +1996,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "22d07b1b82c6c928",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bibo Nunes propõe ressarcimento instantâneo de impostos a empresas",
+      "link": "https://www.congressoemfoco.com.br/noticia/121983/bibo-nunes-propoe-ressarcimento-instantaneo-de-impostos-a-empresas",
+      "resumo": "Projeto busca reduzir o impacto da demora no ressarcimento de créditos sobre o caixa das empresas.",
+      "publicado_em": "2026-09-04T12:11:31-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-09-07T16:04:32-03:00"
     },
     {
       "id": "a834be961d485c24",
