@@ -140,16 +140,38 @@
 - id: receita_federal
   nome: "Receita Federal"
   ordem: 10
-  estrategia: gov_br_rss
-  url: "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS"
-  url_fallback: "https://www.gov.br/receitafederal/pt-br/assuntos/noticias"
+  estrategia: scrape
+  url: "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/ultimas-noticias"
+  url_fallback: "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS"
+  padrao_link: "/receitafederal/pt-br/assuntos/noticias/\\d{4}/[a-z]+/[a-z0-9-]{5,}$"
   alerta: true
   status_validacao: ok
   observacao: >
-    Trocado de scraping (protótipo) para o RSS/RDF real, que existe e
-    funciona — mais robusto que HTML. Precisa filtrar
-    dc:type=collective.nitf.content: o mesmo feed devolve pastas e imagens
-    do diretório junto com as notícias de verdade.
+    Corrigido em 08/09/2026: o RSS/RDF (gov_br_rss) usado antes só lista os
+    ~10 objetos mais recentemente modificados em todo o site — na prática
+    isso incluía pastas/imagens não relacionadas e deixava a notícia mais
+    recente com semanas de atraso (chegou a mostrar 22/07 num dia 08/09).
+    A página /ultimas-noticias é a listagem HTML de verdade (mesmo layout
+    "tileItem" clássico do Plone usado por PGFN/Fazenda) e traz dezenas de
+    notícias com data e hora exatas, sempre atualizadas. Voltou a ser
+    scrape, com o RSS antigo mantido só como url_fallback de referência.
+
+- id: cvm
+  nome: "CVM"
+  ordem: 14
+  estrategia: scrape
+  url: "https://www.gov.br/cvm/pt-br/assuntos/noticias"
+  url_fallback: "https://www.gov.br/cvm/pt-br/assuntos/noticias/RSS"
+  padrao_link: "/cvm/pt-br/assuntos/noticias/\\d{4}/[a-z0-9-]{5,}$"
+  alerta: false
+  status_validacao: ok
+  observacao: >
+    Corrigido em 08/09/2026, mesmo motivo da Receita Federal: o RSS/RDF só
+    trazia 1 item, com semanas de atraso. A própria página de notícias
+    (sem precisar de /ultimas-noticias, que não existe pra CVM) já é HTML
+    com a listagem completa — trocado para scrape, ~29 itens atualizados
+    por coleta. A CVM não expõe hora, só o dia (item entra com hora
+    estimada 12h, igual às outras fontes em scrape sem horário).
 
 - id: fazenda
   nome: "Ministério da Fazenda"
@@ -189,16 +211,6 @@
     lumis/api/rest/<nome>/lumgetdata/list.json, mas o <nome> do recurso da
     listagem de notícias não aparece em nenhum lugar do HTML estático — só
     achei os dos banners de menu). Sem RSS. Não inventei o endpoint.
-
-- id: cvm
-  nome: "CVM"
-  ordem: 14
-  estrategia: gov_br_rss
-  url: "https://www.gov.br/cvm/pt-br/assuntos/noticias/RSS"
-  url_fallback: "https://www.gov.br/cvm/pt-br/assuntos/noticias"
-  alerta: false
-  status_validacao: ok
-  observacao: "Mesmo caso da Receita Federal: RSS/RDF real existe, trocado de scraping para gov_br_rss."
 
 - id: bacen
   nome: "Bacen"

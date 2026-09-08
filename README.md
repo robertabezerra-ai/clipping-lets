@@ -20,6 +20,12 @@ O que testar:
 4. Ligue **Listar cada veículo sem novidade** e gere de novo: as 22 linhas aparecem,
    as sem notícia como “Nada”, todas na ordem oficial.
 5. Se algum dia tiver publicação da Receita Federal, veja o banner vermelho no topo.
+6. Pra juntar notícias de mais de um dia num único clipping (ex.: recuperar o
+   fim de semana), ligue **Selecionar mais de um dia** na barra lateral e
+   escolha o dia final em **até**. A lista passa a mostrar as notícias do
+   período inteiro, a seleção de cada dia fica guardada separadamente (dá pra
+   ligar/desligar o modo sem perder o que já foi marcado) e o e-mail gerado
+   sai com o período no lugar da data única.
 
 ---
 
@@ -102,8 +108,9 @@ python -m coletor.alerta_rfb --dry-run
 “Iniciar um programa”, programa `.venv\Scripts\python.exe`,
 argumentos `-m coletor.fetch`, “Iniciar em” = a pasta do projeto
 (sem isso os caminhos relativos falham). Repita para os horários
-08h00, 12h00, 15h00 e 17h00, em dias úteis — o de 17h é a última coleta
-do dia, pra deixar tempo de revisar e montar o e-mail antes do envio.
+08h00, 11h00, 13h00 e 17h00, todos os dias (inclusive sábado e domingo)
+— o de 17h é a última coleta do dia, pra deixar tempo de revisar e
+montar o e-mail antes do envio.
 
 Prefere testar com duplo clique antes de agendar? Use o `coletar.bat`
 desta pasta — ele ativa o venv e roda o coletor sozinho.
@@ -112,7 +119,7 @@ desta pasta — ele ativa o venv e roda o coletor sozinho.
 caminho absoluto real da pasta):
 
 ```
-0 8,12,15,17 * * 1-5  cd /caminho/do/projeto && .venv/bin/python -m coletor.fetch
+0 8,11,13,17 * * *  cd /caminho/do/projeto && .venv/bin/python -m coletor.fetch
 ```
 
 Não instalamos nada disso automaticamente — copie e agende você mesmo
@@ -160,8 +167,8 @@ Duas coisas que **não são bug**, é assim que as fontes publicam de verdade:
 - **CARF** publica raramente na seção de notícias (a atividade dele é
   principalmente pauta de julgamento, que não entra por não ter valor editorial
   pros escritórios) — não estranhe ver poucos ou nenhum item na maioria dos dias.
-- **Receita Federal e CVM** às vezes têm poucos itens no RSS oficial deles mesmo
-  — o coletor está lendo certo, a fonte que publica pouco naquele momento.
+- **Bacen** publica notícia de imprensa com pouca frequência (não é boletim
+  diário) — pode passar dias sem item novo, é o site mesmo que é assim.
 
 Se uma fonte falhar, a página mostra “Nada” para ela igual a uma fonte que
 simplesmente não publicou. **Confira o painel “Saúde das fontes” no rodapé

@@ -3,7 +3,9 @@
   "configurations": [
     {
       "name": "clipping-lets-static",
-      "url": "http://127.0.0.1:8934"
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8934", "--directory", "/Users/robertabezerra/Documents/Criações com Claude"],
+      "port": 8934
     }
   ]
 }

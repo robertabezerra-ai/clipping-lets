@@ -195,6 +195,13 @@
         <button type="button" id="btnProximo" aria-label="Dia seguinte">›</button>
       </div>
       <button type="button" id="btnHoje" class="full">Hoje</button>
+      <label class="toggle" style="margin-top:10px">
+        <input type="checkbox" id="multiDia"> Selecionar mais de um dia
+      </label>
+      <div class="linha-dia" id="linhaAte" style="display:none;margin-top:6px">
+        <span style="font-size:12.5px;color:var(--cinza);white-space:nowrap">até</span>
+        <input type="date" id="seletorDiaAte" aria-label="Até o dia">
+      </div>
     </div>
 
     <div class="secao">
@@ -321,6 +328,8 @@
 
   var estado = {
     dia: null,
+    multiDia: false,    // true = combina noticias de "dia" ate "diaAte" num so clipping
+    diaAte: null,
     busca: "",
     veiculos: {},       // fonte_id -> true quando filtrado
     soAlta: false,
@@ -332,43 +341,100 @@
   // que pode nao existir dependendo de como a pagina foi aberta (file://).
   var selecao = {};   // dia -> { id: true }
 
-  function chaveSel(){ return "clipping-lets:selecao:" + estado.dia; }
-
-  function lerSel(){
-    if(!selecao[estado.dia]){
-      var recuperado = {};
-      try {
-        JSON.parse(localStorage.getItem(chaveSel()) || "[]")
-          .forEach(function(id){ recuperado[id] = true; });
-      } catch(e){ /* sem localStorage: segue só com a memória */ }
-      selecao[estado.dia] = recuperado;
+  // Quando "Selecionar mais de um dia" está ligado, tudo que olha "as
+  // noticias do dia" (lista, selecao, contador, geracao do e-mail) passa a
+  // olhar todos os dias entre estado.dia e estado.diaAte, inclusive. Cada
+  // dia continua com sua propria "gaveta" no localStorage (selecao e
+  // manuais) — diasAtivos() e quem decide quais gavetas entram em jogo.
+  function diasAtivos(){
+    if(!estado.multiDia || !estado.diaAte || estado.diaAte === estado.dia){
+      return [estado.dia];
     }
-    return Object.keys(selecao[estado.dia]);
+    var ini = estado.dia, fim = estado.diaAte;
+    if(fim < ini){ var t = ini; ini = fim; fim = t; }
+    var dias = diasComNoticia().filter(function(d){ return d >= ini && d <= fim; });
+    if(dias.indexOf(ini) === -1) dias.push(ini);
+    if(dias.indexOf(fim) === -1) dias.push(fim);
+    return dias.sort();
   }
 
+  function rotuloPeriodo(){
+    var dias = diasAtivos();
+    if(dias.length <= 1) return brDia(estado.dia);
+    return brDia(dias[0]) + " a " + brDia(dias[dias.length - 1]);
+  }
+
+  function chaveSel(dia){ return "clipping-lets:selecao:" + dia; }
+
+  function lerSelDia(dia){
+    if(!selecao[dia]){
+      var recuperado = {};
+      try {
+        JSON.parse(localStorage.getItem(chaveSel(dia)) || "[]")
+          .forEach(function(id){ recuperado[id] = true; });
+      } catch(e){ /* sem localStorage: segue só com a memória */ }
+      selecao[dia] = recuperado;
+    }
+    return selecao[dia];
+  }
+
+  function gravarSelDia(dia, mapa){
+    selecao[dia] = mapa;
+    var ids = Object.keys(mapa).filter(function(id){ return mapa[id]; });
+    try { localStorage.setItem(chaveSel(dia), JSON.stringify(ids)); } catch(e){}
+  }
+
+  function lerSel(){
+    var ids = [];
+    diasAtivos().forEach(function(dia){
+      var mapa = lerSelDia(dia);
+      Object.keys(mapa).forEach(function(id){ if(mapa[id]) ids.push(id); });
+    });
+    return ids;
+  }
+
+  // ids = lista completa de quem deve ficar marcado, entre os dias ativos.
+  // Cada id só pode pertencer a um dia (n.dia é fixo desde a coleta), então
+  // basta descobrir de qual dia cada id veio pra gravar na gaveta certa.
   function gravarSel(ids){
-    var mapa = {};
-    ids.forEach(function(id){ mapa[id] = true; });
-    selecao[estado.dia] = mapa;
-    try { localStorage.setItem(chaveSel(), JSON.stringify(ids)); } catch(e){}
+    var diaDoId = {};
+    itensDoDia().forEach(function(n){ diaDoId[n.id] = n.dia; });
+    var novoPorDia = {};
+    diasAtivos().forEach(function(dia){ novoPorDia[dia] = {}; });
+    ids.forEach(function(id){
+      var dia = diaDoId[id];
+      if(dia && novoPorDia[dia]) novoPorDia[dia][id] = true;
+    });
+    diasAtivos().forEach(function(dia){ gravarSelDia(dia, novoPorDia[dia]); });
   }
 
   // Notícias adicionadas à mão (quando o coletor não achou sozinho) —
   // por dia, igual à seleção. Somam-se às notícias coletadas em todo
-  // lugar que olha "as notícias do dia" (itensDoDia).
-  function chaveManual(){ return "clipping-lets:manual:" + estado.dia; }
+  // lugar que olha "as notícias do dia" (itensDoDia). O painel de
+  // adicionar/remover manual sempre trabalha no dia primário (estado.dia),
+  // mas a listagem/selecao/exportacao juntam os manuais de todos os dias
+  // ativos.
+  function chaveManual(dia){ return "clipping-lets:manual:" + dia; }
 
-  function lerManual(){
-    try { return JSON.parse(localStorage.getItem(chaveManual()) || "[]"); }
+  function lerManualDia(dia){
+    try { return JSON.parse(localStorage.getItem(chaveManual(dia)) || "[]"); }
     catch(e){ return []; }
   }
 
+  function lerManual(){ return lerManualDia(estado.dia); }
+
   function gravarManualLista(lista){
-    try { localStorage.setItem(chaveManual(), JSON.stringify(lista)); } catch(e){}
+    try { localStorage.setItem(chaveManual(estado.dia), JSON.stringify(lista)); } catch(e){}
   }
 
   function itensDoDia(){
-    return NOTICIAS.filter(function(n){ return n.dia === estado.dia; }).concat(lerManual());
+    var dias = diasAtivos();
+    var porDia = {};
+    dias.forEach(function(d){ porDia[d] = true; });
+    var coletadas = NOTICIAS.filter(function(n){ return porDia[n.dia]; });
+    var manuais = [];
+    dias.forEach(function(d){ manuais = manuais.concat(lerManualDia(d)); });
+    return coletadas.concat(manuais);
   }
 
   // Filtros (busca, veiculos, soAlta, mostrarVazios) tambem ficam em
@@ -383,6 +449,8 @@
       estado.veiculos = salvo.veiculos || {};
       estado.soAlta = !!salvo.soAlta;
       estado.mostrarVazios = !!salvo.mostrarVazios;
+      estado.multiDia = !!salvo.multiDia;
+      estado.diaAte = salvo.diaAte || null;
     } catch(e){ /* sem localStorage: segue com os padroes */ }
   }
 
@@ -390,7 +458,8 @@
     try {
       localStorage.setItem(CHAVE_FILTROS, JSON.stringify({
         busca: estado.busca, veiculos: estado.veiculos,
-        soAlta: estado.soAlta, mostrarVazios: estado.mostrarVazios
+        soAlta: estado.soAlta, mostrarVazios: estado.mostrarVazios,
+        multiDia: estado.multiDia, diaAte: estado.diaAte
       }));
     } catch(e){}
   }
@@ -399,6 +468,9 @@
     $("#busca").value = estado.busca;
     $("#soAlta").checked = estado.soAlta;
     $("#mostrarVazios").checked = estado.mostrarVazios;
+    $("#multiDia").checked = estado.multiDia;
+    $("#linhaAte").style.display = estado.multiDia ? "flex" : "none";
+    if(estado.diaAte) $("#seletorDiaAte").value = estado.diaAte;
   }
 
   /* =========================================================
@@ -464,7 +536,7 @@
 
   function render(){
     $("#seletorDia").value = estado.dia;
-    $("#tituloDia").textContent = "Notícias diárias | " + brDia(estado.dia);
+    $("#tituloDia").textContent = "Notícias diárias | " + rotuloPeriodo();
     $("#modoTexto").textContent = (D.modo || "") +
       "  ·  última coleta: " + (D.gerado_em ? D.gerado_em.replace("T", " às ") : "—");
 
@@ -495,13 +567,14 @@
   }
 
   function fontesComManual(){
-    var manuais = lerManual();
     var vistos = {}, extras = [];
-    manuais.forEach(function(m){
-      if(!vistos[m.fonte_id]){
-        vistos[m.fonte_id] = true;
-        extras.push({id: m.fonte_id, nome: m.fonte_nome, ordem: 1000 + extras.length, custom: true});
-      }
+    diasAtivos().forEach(function(dia){
+      lerManualDia(dia).forEach(function(m){
+        if(!vistos[m.fonte_id]){
+          vistos[m.fonte_id] = true;
+          extras.push({id: m.fonte_id, nome: m.fonte_nome, ordem: 1000 + extras.length, custom: true});
+        }
+      });
     });
     return FONTES.concat(extras);
   }
@@ -512,9 +585,9 @@
     var ids = lerSel();
 
     if(itensDoDia().length === 0){
-      var ehHoje = estado.dia === hojeIso();
+      var ehHoje = !estado.multiDia && estado.dia === hojeIso();
       alvo.innerHTML = '<div class="vazio-geral"><b>Nenhuma notícia coletada em ' +
-        brDia(estado.dia) + '.</b><br>' +
+        rotuloPeriodo() + '.</b><br>' +
         (ehHoje
           ? 'A página só mostra o que o coletor já salvou — ela não busca nada ' +
             'sozinha. Rode o coletor hoje nesta máquina (duplo clique em ' +
@@ -588,7 +661,8 @@
   function atualizaContador(){
     var sel = selecionadas().length;
     var tot = filtradas().length;
-    $("#contador").innerHTML = "<b>" + sel + "</b> selecionada(s) de " + tot + " no dia";
+    $("#contador").innerHTML = "<b>" + sel + "</b> selecionada(s) de " + tot +
+      (estado.multiDia ? " no período" : " no dia");
   }
 
   function renderAlerta(){
@@ -597,7 +671,7 @@
     if(!doDia.length){ btn.style.display = "none"; return; }
     btn.style.display = "block";
     $("#alertaTexto").textContent = "⚠  Receita Federal publicou " + doDia.length +
-      " novidade(s) em " + brDia(estado.dia);
+      " novidade(s) em " + rotuloPeriodo();
     btn.onclick = function(){
       var sec = document.getElementById("veiculo-" + ID_RFB);
       if(sec) sec.scrollIntoView({behavior:"smooth", block:"center"});
@@ -672,7 +746,7 @@
       '<td style="color:' + CREME + ';font-size:19px;font-weight:bold;line-height:24px">' +
         'Notícias diárias</td>' +
       '<td align="right" style="color:#B9B2A2;font-size:13px;line-height:24px;' +
-        'white-space:nowrap">' + brDia(estado.dia) + '</td>' +
+        'white-space:nowrap">' + rotuloPeriodo() + '</td>' +
       '</tr>' +
       '<tr>' +
       '<td colspan="2" style="color:#B9B2A2;font-size:10.5px;font-weight:bold;' +
@@ -747,7 +821,7 @@
       rodape =
         '<tr><td style="background-color:' + CREME + ';padding:12px 22px;color:' + CINZA + ';' +
         'font-size:11.5px;line-height:17px;border-top:1px solid ' + BORDA + '">' +
-        '<b style="color:' + PRETO + '">Sem novidades hoje:</b> ' +
+        '<b style="color:' + PRETO + '">' + (estado.multiDia ? "Sem novidades no período:" : "Sem novidades hoje:") + '</b> ' +
         esc(semItem.join(" · ")) + '</td></tr>';
     }
 
@@ -769,7 +843,7 @@
     var sel = selecionadas();
     var porNome = {};
     sel.forEach(function(n){ (porNome[n.fonte_nome] = porNome[n.fonte_nome] || []).push(n); });
-    var out = "NOTÍCIAS DIÁRIAS | " + brDia(estado.dia) + "\n";
+    var out = "NOTÍCIAS DIÁRIAS | " + rotuloPeriodo() + "\n";
     var vazios = [];
     nomesComCustom(sel).forEach(function(nome){
       var itens = porNome[nome] || [];
@@ -777,7 +851,7 @@
       out += "\n" + nome.toUpperCase() + "\n";
       itens.forEach(function(n){ out += "• " + n.titulo + "\n  " + n.link + "\n"; });
     });
-    if(vazios.length) out += "\nSem novidades hoje: " + vazios.join(" · ") + "\n";
+    if(vazios.length) out += "\n" + (estado.multiDia ? "Sem novidades no período: " : "Sem novidades hoje: ") + vazios.join(" · ") + "\n";
     return out;
   }
 
@@ -867,12 +941,14 @@
 
   function baixar(){
     var doc = '<!DOCTYPE html><html lang="pt-BR"><head><meta charset="utf-8">' +
-              "<title>Notícias diárias | " + brDia(estado.dia) + "</title></head><body>" +
+              "<title>Notícias diárias | " + rotuloPeriodo() + "</title></head><body>" +
               htmlAtual + "</body></html>";
     var url = URL.createObjectURL(new Blob([doc], {type:"text/html;charset=utf-8"}));
     var a = document.createElement("a");
     a.href = url;
-    a.download = "noticias-diarias-" + estado.dia + ".html";
+    var dias = diasAtivos();
+    a.download = "noticias-diarias-" + dias[0] +
+      (dias.length > 1 ? "_a_" + dias[dias.length - 1] : "") + ".html";
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
@@ -928,6 +1004,17 @@
   $("#btnAnterior").onclick = function(){ estado.dia = pular(-1); render(); };
   $("#btnProximo").onclick  = function(){ estado.dia = pular(1);  render(); };
   $("#btnHoje").onclick     = function(){ estado.dia = hojeIso(); render(); };
+  $("#multiDia").onchange = function(){
+    estado.multiDia = this.checked;
+    $("#linhaAte").style.display = estado.multiDia ? "flex" : "none";
+    if(estado.multiDia && !estado.diaAte){
+      estado.diaAte = estado.dia;
+      $("#seletorDiaAte").value = estado.diaAte;
+    }
+    gravarFiltros();
+    render();
+  };
+  $("#seletorDiaAte").onchange = function(){ estado.diaAte = this.value; gravarFiltros(); render(); };
   $("#busca").oninput = function(){ estado.busca = this.value; gravarFiltros(); renderLista(); atualizaContador(); };
   $("#soAlta").onchange = function(){ estado.soAlta = this.checked; gravarFiltros(); renderLista(); atualizaContador(); };
   $("#mostrarVazios").onchange = function(){ estado.mostrarVazios = this.checked; gravarFiltros(); };
