@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-08T16:15:22-03:00",
+  "gerado_em": "2026-09-08T19:12:01-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -459,6 +459,89 @@
       "coletado_em": "2026-09-08T16:15:22-03:00"
     },
     {
+      "id": "1aa05555d961fec7",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "eproc: unidades especializadas em Fazenda Pública e Jefaz iniciam capacitação",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115256&pagina=1",
+      "resumo": "Treinamentos presenciais e virtuais.\n \n\tO Tribunal de Justiça de São Paulo dá continuidade, nos próximos dias, à capacitação do ciclo 3 do eproc em unidades",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "a6cad7a6e7c2943e",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115254&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, reuniu-se, hoje (8), no Gabinete",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "ffc9b42c6d3c3984",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Partido Verde questiona no STF regras sobre fiscalização do Imposto sobre Bens e Serviços",
+      "link": "https://noticias.stf.jus.br/postsnoticias/partido-verde-questiona-no-stf-regras-sobre-fiscalizacao-do-imposto-sobre-bens-e-servicos/",
+      "resumo": "Legenda sustenta que normas restringem autonomia de estados, Distrito Federal e municípios",
+      "publicado_em": "2026-09-08T18:41:55-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "a1be3791417ddae1",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo confirma regras do TSE para partidos que deixam de prestar contas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-confirma-regras-do-tse-para-partidos-que-deixam-de-prestar-contas/",
+      "resumo": "Plenário negou pedido do PRD e do Solidariedade contra dispositivos de resolução da Justiça Eleitoral",
+      "publicado_em": "2026-09-08T18:00:56-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 36,
+      "tags": [
+        "resolucao",
+        "solidariedade"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "bf1cc9fb4dc8bf30",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Maioria das decisões individuais do STF trata do andamento dos processos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/maioria-das-decisoes-individuais-do-stf-trata-do-andamento-dos-processos/",
+      "resumo": "Tribunal proferiu 94.934 decisões monocráticas em 2025; número inclui análise de recursos e outras etapas processuais, e não apenas julgamentos de mérito",
+      "publicado_em": "2026-09-08T16:29:03-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 76,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo",
+        "recurso"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
       "id": "31e1a3f680b1d6b3",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -475,6 +558,82 @@
         "acao"
       ],
       "coletado_em": "2026-09-08T16:15:22-03:00"
+    },
+    {
+      "id": "6bf5b4e17daf288b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovado pelo Senado, fundo para promover acesso à Justiça gratuita vira lei",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/08/aprovado-pelo-senado-fundo-para-promover-acesso-a-justica-gratuita-vira-lei",
+      "resumo": "",
+      "publicado_em": "2026-09-08T18:14:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "c7155a2ddff8c202",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Criada há 30 anos, cota de candidaturas femininas ainda não levou à igualdade",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/08/criada-ha-30-anos-cota-de-candidaturas-femininas-ainda-nao-levou-a-igualdade",
+      "resumo": "",
+      "publicado_em": "2026-09-08T17:27:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "def190bc6a034d25",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Consultorias de Senado e Câmara lançam informativo sobre proposta orçamentária",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/08/consultorias-de-senado-e-camara-lancam-informativo-sobre-proposta-orcamentaria",
+      "resumo": "",
+      "publicado_em": "2026-09-08T17:02:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "1d96156f24d98006",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso prorroga medidas provisórias sobre dívidas rurais e Desenrola Adimplentes",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/08/congresso-prorroga-medidas-provisorias-sobre-dividas-rurais-e-desenrola-adimplentes",
+      "resumo": "",
+      "publicado_em": "2026-09-08T16:55:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "adi",
+        "medidas provisorias"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "68ad5f5f64dffd09",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sancionado, com vetos, reajuste de custas processuais da Justiça Federal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/08/sancionado-com-vetos-reajuste-de-custas-processuais-da-justica-federal",
+      "resumo": "",
+      "publicado_em": "2026-09-08T16:29:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
     },
     {
       "id": "dca57bc9193b893f",
@@ -844,6 +1003,68 @@
       "coletado_em": "2026-09-08T16:15:22-03:00"
     },
     {
+      "id": "39c17b1d3c32c46c",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Força Nacional forma 121 profissionais de 20 unidades da Federação",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-forma-121-profissionais-de-20-unidades-da-federacao",
+      "resumo": "",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "07eea3868d3f4ec9",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Forças de segurança apreendem 4,5 toneladas de skunk, cinco armas de uso restrito e lancha blindada no Amazonas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forcas-de-seguranca-apreendem-4-5-toneladas-de-skunk-cinco-armas-de-uso-restrito-e-lancha-blindada-no-amazonas",
+      "resumo": "",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "b6ff32d1d6f2bcbc",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ação conjunta notifica Google para remover vídeos de IA que divulgam falsas curas e soluções",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/governo-notifica-google-e-cobra-remocao-de-videos-com-falsos-medicos-criados-por-ia",
+      "resumo": "",
+      "publicado_em": "2026-09-08T17:18:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "d44fe6a8bfdedc51",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Gosto amargo: ANP propõe substância que denuncia etanol em bebidas clandestinas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/anp-tomara-medidas-para-coibir-desvio-do-etanol-hidratado-para-fabricacao-clandestina-de-bebidas",
+      "resumo": "",
+      "publicado_em": "2026-09-08T16:49:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
       "id": "4406e1eecd448344",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -858,6 +1079,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-08T16:15:22-03:00"
+    },
+    {
+      "id": "1646924caa1e93fa",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Diagnóstico precoce da fibrose cística abre caminhos para mais qualidade de vida",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/diagnostico-precoce-da-fibrose-cistica-abre-caminhos-para-mais-qualidade-de-vida",
+      "resumo": "",
+      "publicado_em": "2026-09-08T13:43:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
     },
     {
       "id": "04e46fd8ed404332",
@@ -965,6 +1200,94 @@
       "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
+      "id": "a21d50cfe1d50b0f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bancada do PT defende Andrei e acusa Mendonça de agir politicamente",
+      "link": "https://www.congressoemfoco.com.br/noticia/122059/bancada-do-pt-defende-andrei-e-acusa-mendonca-de-agir-politicamente",
+      "resumo": "Deputados acusam André Mendonça de afastar diretor da PF para evitar avanço das investigações sobre aliados de Flávio Bolsonaro.",
+      "publicado_em": "2026-09-08T17:55:35-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "9e54b4dcd52aafaa",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar defende que caso Andrei vá a Plenário e cita disputa eleitoral",
+      "link": "https://www.congressoemfoco.com.br/noticia/122058/gilmar-defende-que-caso-andrei-va-a-plenario-e-cita-disputa-eleitoral",
+      "resumo": "Decano aponta risco de decisões conflitantes e questiona competência da 2ª Turma para analisar afastamento da cúpula da PF.",
+      "publicado_em": "2026-09-08T17:41:16-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "675d5299d6bb8f36",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto quer dar autonomia para Estados oferecerem gasolina sem etanol",
+      "link": "https://www.congressoemfoco.com.br/noticia/122056/projeto-quer-dar-autonomia-para-estados-oferecerem-gasolina-sem-etanol",
+      "resumo": "Texto permite a oferta facultativa de gasolina pura e com 10% de etanol, mas mantém obrigatória a comercialização da gasolina C.",
+      "publicado_em": "2026-09-08T17:10:56-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "65856d25bd0b80ec",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Diretor-executivo da PF defende Andrei: \"a verdade prevalecerá\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122055/diretor-executivo-da-pf-defende-andrei--a-verdade-prevalecera",
+      "resumo": "Substituto de Andrei Passos Rodrigues destacou atuação institucional e \"livre de qualquer viés político\" da corporação.",
+      "publicado_em": "2026-09-08T16:29:41-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "032c630a6ca3daf1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mario Frias diz que Nikolas fez lobby com Vorcaro e cita \"caráter\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122054/mario-frias-diz-que-nikolas-fez-lobby-com-vorcaro-e-cita-carater",
+      "resumo": "Deputado afirmou que produção de Dark Horse enviou mais de 25 mil documentos à polícia e acusou colega de partido de criar \"cortina de fumaça\" ao cobrar explicações.",
+      "publicado_em": "2026-09-08T15:33:52-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "7a1c3f1e80b88e23",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Manoel Gomes defende saidinhas: \"sai lá fora e tem outra visão\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122053/manoel-gomes-defende-saidinhas--sai-la-fora-e-tem-outra-visao",
+      "resumo": "Pré-candidato a deputado federal também apresentou iniciativa para apoiar financeiramente novos talentos da música.",
+      "publicado_em": "2026-09-08T14:34:22-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
       "id": "588e7ff686d5beed",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -995,6 +1318,39 @@
         "acao"
       ],
       "coletado_em": "2026-09-08T16:15:22-03:00"
+    },
+    {
+      "id": "902428f17e1b33fb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto permite medida protetiva imediata por decisão de delegado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122050/projeto-permite-medida-protetiva-imediata-por-decisao-de-delegado",
+      "resumo": "Regra seria restrita a casos de agressão física comprovada por exame e risco de nova violência, com análise posterior da Justiça.",
+      "publicado_em": "2026-09-08T14:12:03-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "3d06fceb221ef774",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes ou Mendonça? O nó górdio que Fachin deverá desatar",
+      "link": "https://www.congressoemfoco.com.br/noticia/122048/moraes-ou-mendonca-o-no-gordio-que-fachin-devera-desatar",
+      "resumo": "Presidente do STF terá de arbitrar embate entre os ministros sobre investigação do caso Master; nota do gabinete de Moraes divulgada em março acrescenta uma peça à disputa.",
+      "publicado_em": "2026-09-08T12:45:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "itr",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
     },
     {
       "id": "dc3abe9747fadba3",
@@ -1315,9 +1671,9 @@
       "id": "c19747e28a8007df",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Corregedorias compartilham experiências e discutem soluções para aprimorar Justiça",
+      "titulo": "Corregedorias compartilham experiências e discutem soluções para aprimorar justiça",
       "link": "https://www.cnj.jus.br/corregedorias-compartilham-experiencias-e-discutem-solucoes-para-aprimorar-justica/",
-      "resumo": "Corregedores e corregedoras de todo o país se reuniram nesta terça-feira (8/9), no Conselho Nacional de Justiça (CNJ), para compartilhar experiências, apresentar soluções de gestão e discutir estratégias para o aprimoramento da atividade correcional. O “Encontro Nacional Integração de Boas Práticas:",
+      "resumo": "Corregedores de todo o país se reuniram nesta terça-feira (8/9), no Conselho Nacional de Justiça (CNJ), para compartilhar experiências, apresentar soluções de gestão e discutir estratégias para o aprimoramento da atividade correcional. O “Encontro Nacional Integração de Boas Práticas: diálogos entre",
       "publicado_em": "2026-09-08T12:00:00-03:00",
       "dia": "2026-09-08",
       "data_estimada": true,
@@ -1333,7 +1689,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Operações policiais e direitos fundamentais são temas de nova capacitação do CNJ com a Enfam",
       "link": "https://www.cnj.jus.br/operacoes-policiais-e-direitos-fundamentais-sao-temas-de-nova-capacitacao-do-cnj-com-a-enfam/",
-      "resumo": "Magistradas, magistrados e demais integrantes do sistema de justiça – incluindo membros do Ministério Público e das Defensorias Públicas – têm até 22 de setembro para se inscrever no curso Acompanhamento Jurisdicional de Operações Policiais: Violência, Produção da Prova e Garantia de Direitos Fundam",
+      "resumo": "Magistradas, magistrados e demais integrantes do sistema de justiça — incluindo membros do Ministério Público e das Defensorias Públicas — têm até 22 de setembro para se inscrever no curso Acompanhamento Jurisdicional de Operações Policiais: Violência, Produção da Prova e Garantia de Direitos Fundam",
       "publicado_em": "2026-09-08T12:00:00-03:00",
       "dia": "2026-09-08",
       "data_estimada": true,
@@ -1376,6 +1732,164 @@
         "seminario"
       ],
       "coletado_em": "2026-09-08T16:15:22-03:00"
+    },
+    {
+      "id": "76402b75eef98dba",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ e Pnud lançam newsletter sobre direitos humanos e acesso à Justiça",
+      "link": "https://www.cnj.jus.br/cnj-e-pnud-lancam-newsletter-sobre-direitos-humanos-e-acesso-a-justica/",
+      "resumo": "Equidade racial, direitos das mulheres e da população LGBTQIA+ e questões socioambientais são algumas das pautas abordadas na recém-lançada newsletter Linhas Plurais. Com periodicidade mensal, o boletim é uma iniciativa do Programa Justiça Plural, parceria entre o Conselho Nacional de Justiça (CNJ) ",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "778d4091b31f4c76",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Oficinas buscam soluções inovadoras para tratamento de processos estruturais",
+      "link": "https://www.cnj.jus.br/oficinas-buscam-solucoes-inovadoras-para-tratamento-de-processos-estruturais/",
+      "resumo": "O grupo de trabalho do Conselho Nacional de Justiça (CNJ) que estuda formas mais eficazes de tratar processos estruturais iniciou, nesta terça-feira (8/9), oficinas de inovação. As atividades discutem soluções para demandas complexas e de grande impacto social e são realizadas na Escola Nacional de ",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "06a3622089c94ed6",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Diversidade e cidadania marcam mais uma edição do Casamento Comunitário LGBTQIAPN+",
+      "link": "https://www.cnj.jus.br/diversidade-e-cidadania-marcam-mais-uma-edicao-do-casamento-comunitario-lgbtqiapn/",
+      "resumo": "A Corregedoria Geral do Foro Extrajudicial do Maranhão (Cogex), em parceria com o Comitê de Diversidade do Tribunal de Justiça do Maranhão (TJMA), realizou mais uma edição do projeto Casamento Comunitário LGBTQIAPN+ em São Luís. A celebração aconteceu em 4/9, na sede da Associação dos Magistrados do",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "31ab878716fce0ce",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Curso gratuito em espanhol aborda equidade racial no Judiciário",
+      "link": "https://www.cnj.jus.br/curso-gratuito-em-espanhol-aborda-equidade-racial-no-judiciario/",
+      "resumo": "Estão abertas as inscrições para a versão em espanhol do curso nacional “Enunciados de Equidade Racial: aplicação prática”, promovido pelo Superior Tribunal de Justiça (STJ). Gratuita, autoinstrucional e com certificado de conclusão, a formação amplia o acesso ao conteúdo sobre equidade racial para ",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "21cc913208ad8295",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Programa Destrava define planejamento para retomar obras paralisadas de saúde e educação",
+      "link": "https://www.cnj.jus.br/programa-destrava-define-planejamento-estrategico-para-retomar-obras-paralisadas-de-saude-e-educacao-no-pais/",
+      "resumo": "O Comitê Executivo Nacional do Programa Destrava definiu o Planejamento Estratégico e o Plano de Ação 2026–2027, organizando as próximas etapas de ação e estabelecendo prioridades para a atuação conjunta na busca por soluções para a conclusão de obras financiadas com recursos federais. O planejament",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "9c81785e186c0500",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Judiciário, Executivo e Legislativo fazem reunião sobre os 200 dias do Pacto Brasil para o Enfrentamento ao Feminicídio",
+      "link": "https://www.cnj.jus.br/judiciario-executivo-e-legislativo-fazem-reuniao-sobre-os-200-dias-do-pacto-brasil-para-o-enfrentamento-ao-feminicidio/",
+      "resumo": "O plenário do Conselho Nacional de Justiça sediará a 4ª Reunião Extraordinária do Comitê Interinstitucional de Gestão do Pacto Brasil entre os Três Poderes no Enfrentamento do Feminicídio. O encontro vai reunir representantes do Judiciário, do Executivo e do Legislativo nesta quarta-feira (9/9), às ",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "f17e25a9afe785ef",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Poder Judiciário tem maior correção das despesas com pessoal no Orçamento de 2027",
+      "link": "https://www.camara.leg.br/noticias/1303244-poder-judiciario-tem-maior-correcao-das-despesas-com-pessoal-no-orcamento-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-09-08T19:08:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "5ce0b10182351007",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Promulgada lei para diminuir filas do INSS",
+      "link": "https://www.camara.leg.br/noticias/1303184-promulgada-lei-para-diminuir-filas-do-inss",
+      "resumo": "",
+      "publicado_em": "2026-09-08T18:44:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "2892352d4287969f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova aumento da pena para organização criminosa com atuação interestadual",
+      "link": "https://www.camara.leg.br/noticias/1303191-comissao-aprova-aumento-da-pena-para-organizacao-criminosa-com-atuacao-interestadual",
+      "resumo": "",
+      "publicado_em": "2026-09-08T18:23:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "0caeab94ca8758f1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova auxílio de R$ 600 para mães atípicas",
+      "link": "https://www.camara.leg.br/noticias/1303186-comissao-aprova-auxilio-de-r-600-para-maes-atipicas",
+      "resumo": "",
+      "publicado_em": "2026-09-08T17:36:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-08T19:12:01-03:00"
     },
     {
       "id": "dd8a410eeb7eb4d7",
