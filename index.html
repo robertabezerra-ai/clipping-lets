@@ -198,9 +198,12 @@
       <label class="toggle" style="margin-top:10px">
         <input type="checkbox" id="multiDia"> Selecionar mais de um dia
       </label>
-      <div class="linha-dia" id="linhaAte" style="display:none;margin-top:6px">
-        <span style="font-size:12.5px;color:var(--cinza);white-space:nowrap">até</span>
-        <input type="date" id="seletorDiaAte" aria-label="Até o dia">
+      <div id="blocoMultiDia" style="display:none;margin-top:8px">
+        <div class="linha-dia">
+          <input type="date" id="seletorDiaExtra" aria-label="Adicionar outro dia">
+          <button type="button" id="btnAdicionarDia">+ Dia</button>
+        </div>
+        <div class="chips-coluna" id="chipsDias" style="margin-top:6px"></div>
       </div>
     </div>
 
@@ -328,8 +331,8 @@
 
   var estado = {
     dia: null,
-    multiDia: false,    // true = combina noticias de "dia" ate "diaAte" num so clipping
-    diaAte: null,
+    multiDia: false,    // true = combina noticias de varios dias num so clipping
+    diasExtras: {},      // dia -> true, dias avulsos alem de estado.dia (nao precisa ser sequencia)
     busca: "",
     veiculos: {},       // fonte_id -> true quando filtrado
     soAlta: false,
@@ -343,25 +346,31 @@
 
   // Quando "Selecionar mais de um dia" está ligado, tudo que olha "as
   // noticias do dia" (lista, selecao, contador, geracao do e-mail) passa a
-  // olhar todos os dias entre estado.dia e estado.diaAte, inclusive. Cada
+  // olhar estado.dia + qualquer dia avulso marcado em estado.diasExtras —
+  // nao precisam ser sequencia, dá pra marcar 2, 3 ou quantos quiser. Cada
   // dia continua com sua propria "gaveta" no localStorage (selecao e
   // manuais) — diasAtivos() e quem decide quais gavetas entram em jogo.
   function diasAtivos(){
-    if(!estado.multiDia || !estado.diaAte || estado.diaAte === estado.dia){
-      return [estado.dia];
+    var vistos = {};
+    vistos[estado.dia] = true;
+    if(estado.multiDia){
+      Object.keys(estado.diasExtras).forEach(function(d){
+        if(estado.diasExtras[d]) vistos[d] = true;
+      });
     }
-    var ini = estado.dia, fim = estado.diaAte;
-    if(fim < ini){ var t = ini; ini = fim; fim = t; }
-    var dias = diasComNoticia().filter(function(d){ return d >= ini && d <= fim; });
-    if(dias.indexOf(ini) === -1) dias.push(ini);
-    if(dias.indexOf(fim) === -1) dias.push(fim);
-    return dias.sort();
+    return Object.keys(vistos).sort();
   }
 
   function rotuloPeriodo(){
     var dias = diasAtivos();
     if(dias.length <= 1) return brDia(estado.dia);
-    return brDia(dias[0]) + " a " + brDia(dias[dias.length - 1]);
+    // se for uma sequencia sem buraco, mostra "de ... a ..."; senao lista
+    // cada dia (podem ser datas avulsas, sem relacao entre si)
+    var ini = new Date(dias[0] + "T00:00:00");
+    var fim = new Date(dias[dias.length - 1] + "T00:00:00");
+    var seqSemBuraco = Math.round((fim - ini) / 86400000) + 1 === dias.length;
+    if(seqSemBuraco) return brDia(dias[0]) + " a " + brDia(dias[dias.length - 1]);
+    return dias.map(brDia).join(" · ");
   }
 
   function chaveSel(dia){ return "clipping-lets:selecao:" + dia; }
@@ -450,7 +459,7 @@
       estado.soAlta = !!salvo.soAlta;
       estado.mostrarVazios = !!salvo.mostrarVazios;
       estado.multiDia = !!salvo.multiDia;
-      estado.diaAte = salvo.diaAte || null;
+      estado.diasExtras = salvo.diasExtras || {};
     } catch(e){ /* sem localStorage: segue com os padroes */ }
   }
 
@@ -459,9 +468,31 @@
       localStorage.setItem(CHAVE_FILTROS, JSON.stringify({
         busca: estado.busca, veiculos: estado.veiculos,
         soAlta: estado.soAlta, mostrarVazios: estado.mostrarVazios,
-        multiDia: estado.multiDia, diaAte: estado.diaAte
+        multiDia: estado.multiDia, diasExtras: estado.diasExtras
       }));
     } catch(e){}
+  }
+
+  function renderDiasExtras(){
+    var el = $("#chipsDias");
+    var dias = Object.keys(estado.diasExtras).filter(function(d){ return estado.diasExtras[d]; }).sort();
+    if(!dias.length){
+      el.innerHTML = '<span class="ajuda-inline">Nenhum dia extra ainda — use o campo acima.</span>';
+      return;
+    }
+    el.innerHTML = dias.map(function(d){
+      return '<span class="chip ativo" style="justify-content:space-between">' + brDia(d) +
+        '<button type="button" data-remover-dia="' + d + '" aria-label="Remover ' + brDia(d) + '" ' +
+        'style="border:0;background:transparent;color:inherit;font-weight:700;padding:0 0 0 8px;cursor:pointer">×</button></span>';
+    }).join("");
+    Array.prototype.forEach.call(el.querySelectorAll("[data-remover-dia]"), function(b){
+      b.onclick = function(){
+        delete estado.diasExtras[this.dataset.removerDia];
+        gravarFiltros();
+        renderDiasExtras();
+        render();
+      };
+    });
   }
 
   function aplicarFiltrosNaUI(){
@@ -469,8 +500,8 @@
     $("#soAlta").checked = estado.soAlta;
     $("#mostrarVazios").checked = estado.mostrarVazios;
     $("#multiDia").checked = estado.multiDia;
-    $("#linhaAte").style.display = estado.multiDia ? "flex" : "none";
-    if(estado.diaAte) $("#seletorDiaAte").value = estado.diaAte;
+    $("#blocoMultiDia").style.display = estado.multiDia ? "block" : "none";
+    renderDiasExtras();
   }
 
   /* =========================================================
@@ -1006,15 +1037,19 @@
   $("#btnHoje").onclick     = function(){ estado.dia = hojeIso(); render(); };
   $("#multiDia").onchange = function(){
     estado.multiDia = this.checked;
-    $("#linhaAte").style.display = estado.multiDia ? "flex" : "none";
-    if(estado.multiDia && !estado.diaAte){
-      estado.diaAte = estado.dia;
-      $("#seletorDiaAte").value = estado.diaAte;
-    }
+    $("#blocoMultiDia").style.display = estado.multiDia ? "block" : "none";
     gravarFiltros();
     render();
   };
-  $("#seletorDiaAte").onchange = function(){ estado.diaAte = this.value; gravarFiltros(); render(); };
+  $("#btnAdicionarDia").onclick = function(){
+    var v = $("#seletorDiaExtra").value;
+    if(!v || v === estado.dia) return;
+    estado.diasExtras[v] = true;
+    $("#seletorDiaExtra").value = "";
+    gravarFiltros();
+    renderDiasExtras();
+    render();
+  };
   $("#busca").oninput = function(){ estado.busca = this.value; gravarFiltros(); renderLista(); atualizaContador(); };
   $("#soAlta").onchange = function(){ estado.soAlta = this.checked; gravarFiltros(); renderLista(); atualizaContador(); };
   $("#mostrarVazios").onchange = function(){ estado.mostrarVazios = this.checked; gravarFiltros(); };

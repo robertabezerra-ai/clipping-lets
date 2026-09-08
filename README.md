@@ -20,12 +20,14 @@ O que testar:
 4. Ligue **Listar cada veículo sem novidade** e gere de novo: as 22 linhas aparecem,
    as sem notícia como “Nada”, todas na ordem oficial.
 5. Se algum dia tiver publicação da Receita Federal, veja o banner vermelho no topo.
-6. Pra juntar notícias de mais de um dia num único clipping (ex.: recuperar o
-   fim de semana), ligue **Selecionar mais de um dia** na barra lateral e
-   escolha o dia final em **até**. A lista passa a mostrar as notícias do
-   período inteiro, a seleção de cada dia fica guardada separadamente (dá pra
-   ligar/desligar o modo sem perder o que já foi marcado) e o e-mail gerado
-   sai com o período no lugar da data única.
+6. Pra juntar notícias de mais de um dia num único clipping (ex.: recuperar
+   3 dias que ficaram pra trás, não precisa ser sequência), ligue
+   **Selecionar mais de um dia** na barra lateral e vá adicionando cada dia
+   com o campo **+ Dia** (cada um vira uma etiqueta removível). A lista passa
+   a mostrar as notícias de todos os dias marcados, a seleção de cada dia
+   fica guardada separadamente (dá pra ligar/desligar o modo sem perder o
+   que já foi marcado) e o e-mail gerado sai com as datas no lugar da data
+   única.
 
 ---
 
