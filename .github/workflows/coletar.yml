@@ -2,12 +2,13 @@ name: Coleta diária Clipping LETS
 
 on:
   schedule:
-    # Horários em UTC (Brasília = UTC-3, sem horário de verão): 08h, 12h,
-    # 15h e 17h BRT viram 11h, 15h, 18h e 20h UTC. Só em dias úteis.
-    - cron: "0 11 * * 1-5"
-    - cron: "0 15 * * 1-5"
-    - cron: "0 18 * * 1-5"
-    - cron: "0 20 * * 1-5"
+    # Horários em UTC (Brasília = UTC-3, sem horário de verão): 08h, 11h,
+    # 13h e 17h BRT viram 11h, 14h, 16h e 20h UTC. Todos os dias, inclusive
+    # sábado e domingo.
+    - cron: "0 11 * * *"
+    - cron: "0 14 * * *"
+    - cron: "0 16 * * *"
+    - cron: "0 20 * * *"
   workflow_dispatch: {}  # permite rodar na mão pela aba Actions do GitHub
 
 permissions:
@@ -27,12 +28,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Rodar coletor
-        # Sem config.local.yml, o coletor pula sozinho o e-mail automático da
-        # Receita Federal e segue normal — o banner vermelho na página
-        # continua avisando de qualquer forma. Se um dia vocês quiserem
-        # ligar o e-mail automático, é só recriar o passo que gera
-        # config.local.yml com os segredos SMTP_USUARIO/SMTP_SENHA/
-        # RFB_DESTINATARIOS cadastrados no repositório.
         run: python -m coletor.fetch --dias 90
 
       - name: Publicar dados atualizados (aciona o redeploy automático no Vercel)
