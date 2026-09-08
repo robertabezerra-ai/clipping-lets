@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-07T19:25:15-03:00",
+  "gerado_em": "2026-09-08T11:12:24-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,13 +126,13 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 403 Client Error: Forbidden for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "no element found: line 1, column 0"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "trt2",
@@ -161,19 +161,19 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 19,
       "erro": null
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 3,
+      "itens": 28,
       "erro": null
     },
     {
@@ -197,7 +197,7 @@ window.DADOS = {
     {
       "id": "cvm",
       "status": "ok",
-      "itens": 1,
+      "itens": 29,
       "erro": null
     },
     {
@@ -250,6 +250,399 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "8e34b9259e5271d5",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Empresa é condenada por colher sangue de empregada sem autorização",
+      "link": "https://www.tst.jus.br/-/empresa-e-condenada-por-colher-sangue-de-empregada-sem-autorizacao-1",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume 08/9/2026 - A Primeira Turma do Tribunal Superior do Trabalho condenou uma empresa a pagar R$ 20 mil de indenização a uma trabalhadora que teve sangue coletado sem autorização durante atendimento médico após desmaiar",
+      "publicado_em": "2026-09-08T09:07:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "condenada",
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "df8edd2c43a3dc3e",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "TST restabelece inclusão de empregador doméstico na “lista suja” do trabalho escravo",
+      "link": "https://www.tst.jus.br/-/tst-restabelece-inclusao-de-empregador-domestico-na-lista-suja-do-trabalho-escravo-1",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume 08/9/2026 - O presidente do Tribunal Superior do Trabalho (TST), ministro Vieira de Mello Filho, acolheu pedido da Advocacia-Geral da União (AGU) para restabelecer a inclusão do nome de um empregador doméstico de San",
+      "publicado_em": "2026-09-08T08:41:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "e07f958cd4bb32ae",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Cartilha de Enfrentamento ao Assédio Eleitoral no Trabalho é lançada pelo TRT-CE e MPT-CE",
+      "link": "https://www.tst.jus.br/-/cartilha-de-enfrentamento-ao-assedio-eleitoral-no-trabalho-e-lancada-pelo-trt-ce-e-mpt-ce",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume 08/09/2026 - O Tribunal Regional do Trabalho da 7ª Região (TRT-CE) e o Ministério Público do Trabalho no Ceará (MPT-CE) lançaram oficialmente, na última terça-feira (1º/9), a Cartilha sobre Assédio Eleitoral no Traba",
+      "publicado_em": "2026-09-08T08:34:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "d7484e4a4f30b3f1",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Rede atacadista indenizará mecânico que caiu de 12m após questionar segurança de operação",
+      "link": "https://www.tst.jus.br/-/rede-atacadista-indenizara-mecanico-que-caiu-de-12m-apos-questionar-seguranca-de-operacao",
+      "resumo": "Gaiola usada por ele estava mal acoplada a empilhadeira Imprimir Resumo: Uma rede de atacadista foi condenada a indenizar um mecânico que caiu de 12 metros após a gaiola mal acoplada onde ele estava se desprender da empilhadeira que a sustentava. O trabalhador sofreu sequelas graves e permanentes, p",
+      "publicado_em": "2026-09-08T08:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 76,
+      "tags": [
+        "condenada",
+        "indenizar",
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "d0f72d95f44d13c1",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Empresa é condenada à revelia após sócio faltar a audiência virtual com atestado genérico",
+      "link": "https://www.tst.jus.br/-/empresa-e-condenada-a-revelia-apos-socio-faltar-a-audiencia-virtual-com-atestado-generico",
+      "resumo": "Documento não indicava expressamente a impossibilidade de locomoção ou de participação na audiência Imprimir Resumo: A 6ª Turma do TST manteve a pena de revelia contra uma empresa cujo sócio faltou à audiência virtual sem apresentar atestado médico que comprovasse expressamente a impossibilidade de ",
+      "publicado_em": "2026-09-08T08:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "condenada",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "47eebe8970583770",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei cria fundo para o Ministério Público da União com vetos a fontes de receita",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/08/lei-cria-fundo-para-o-ministerio-publico-da-uniao-com-vetos-a-fontes-de-receita",
+      "resumo": "",
+      "publicado_em": "2026-09-08T10:58:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "8e8c777828a51408",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Cláusula de barreira e menos partidos explicam queda no número de candidatos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/clausula-de-barreira-e-menos-partidos-explicam-queda-no-numero-de-candidatos",
+      "resumo": "",
+      "publicado_em": "2026-09-08T10:19:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "20ef24ba400d2b15",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova redução de impostos para empresas de resseguro",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/senado-aprova-reducao-de-impostos-para-empresas-de-resseguro",
+      "resumo": "",
+      "publicado_em": "2026-09-08T09:21:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "imposto",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "40304c8ccf76e1e6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Incentivo a educação de filhos baseada no respeito vai a Plenário",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/incentivo-a-educacao-de-filhos-baseada-no-respeito-vai-a-plenario",
+      "resumo": "",
+      "publicado_em": "2026-09-08T09:02:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "21f94a6c9dc1de26",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Vai ao Plenário ampliação de direitos para pessoas com síndrome de Ehlers-Danlos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/vai-ao-plenario-ampliacao-de-direitos-para-pessoas-com-sindrome-de-ehlers-danlos",
+      "resumo": "",
+      "publicado_em": "2026-09-08T08:57:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "5603b74e6496016c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAE aprova fator para ampliar recursos da educação em estados da Amazônia",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/cae-aprova-fator-para-ampliar-recursos-da-educacao-em-estados-da-amazonia",
+      "resumo": "",
+      "publicado_em": "2026-09-08T08:55:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "aprova",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "9182edbf65ef6db3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Setembro Amarelo: como identificar quem precisa de ajuda",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/setembro-amarelo-como-identificar-e-ajudar-quem-precisa-no-ambiente-de-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-09-08T08:45:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "4aac9ae90f4c4997",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Representantes dos Três Poderes participam do desfile de 7 de setembro em Brasília",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/representantes-dos-tres-poderes-participam-do-desfile-de-7-de-setembro-em-brasilia",
+      "resumo": "",
+      "publicado_em": "2026-09-08T08:35:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "bd47be679992cfea",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Sessão de Julgamento em 8/9",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/sessao-de-julgamento-em-8-9",
+      "resumo": "",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "5f082870d5b402df",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "2ª Turma forma maioria para manter afastamento de Andrei da PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122036/2-turma-forma-maioria-para-manter-afastamento-de-andrei-da-pf",
+      "resumo": "Fux e Nunes Marques acompanharam André Mendonça mesmo após pedido de vista de Gilmar Mendes. Julgamento no plenário virutal está suspenso, mas decisão continua em vigor.",
+      "publicado_em": "2026-09-08T10:05:15-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 74,
+      "tags": [
+        "decisao",
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "709fb123e6276a28",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ao afastar Andrei, Mendonça diz que foi monitorado pela PF por 30 dias",
+      "link": "https://www.congressoemfoco.com.br/noticia/122035/ao-afastar-andrei-mendonca-diz-que-foi-monitorado-pela-pf-por-30-dias",
+      "resumo": "Ministro afirmou que relatórios de inteligência representam monitoramento ilícito e disse que Moraes teve conhecimento prévio dos documentos.",
+      "publicado_em": "2026-09-08T09:40:31-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "e10b5f3bca7a849f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "André Mendonça pede que 2ª Turma analise hoje afastamento de Andrei",
+      "link": "https://www.congressoemfoco.com.br/noticia/122034/andre-mendonca-pede-que-2-turma-analise-hoje-afastamento-de-andrei",
+      "resumo": "Ministro solicitou sessão virtual extraordinária das 10h às 23h59 para referendar decisão que também afastou o diretor de Inteligência da PF, Leandro Almada.",
+      "publicado_em": "2026-09-08T09:13:17-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "1a6d2dfbedab8802",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "André Mendonça manda afastar Andrei Rodrigues da direção-geral da PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122033/andre-mendonca-manda-afastar-andrei-rodrigues-da-direcao-geral-da-pf",
+      "resumo": "Ministro também afastou chefe da inteligência e suspendeu relatórios sobre atos praticados por integrantes do Supremo, da AGU e da própria Polícia Federal. Veja os principais argumentos de Mendonça e a íntegra da decisão.",
+      "publicado_em": "2026-09-08T08:57:21-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "fc3b6a3adce09b30",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE-BA mantém sátira com IA que põe Jerônimo Rodrigues em buraco",
+      "link": "https://www.congressoemfoco.com.br/noticia/122032/tre-ba-mantem-satira-com-ia-que-poe-jeronimo-rodrigues-em-buraco",
+      "resumo": "Tribunal negou pedido urgente para retirar do ar propaganda que critica estradas e a Ponte Salvador-Itaparica.",
+      "publicado_em": "2026-09-08T08:53:23-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "6ddaf69424bfccab",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sem votação no Congresso, cinco medidas provisórias perdem a validade",
+      "link": "https://www.congressoemfoco.com.br/noticia/122030/sem-votacao-no-congresso-cinco-medidas-provisorias-perdem-a-validade",
+      "resumo": "Entre elas está a MP que criou o Novo Desenrola Brasil, encerrado em 31 de agosto; outras duas medidas provisórias tiveram a vigência prorrogada por mais 60 dias.",
+      "publicado_em": "2026-09-08T08:20:04-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 76,
+      "tags": [
+        "medidas provisorias",
+        "prorrogad",
+        "vigencia",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "05d187f1774bb6d3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "BTG/Nexus: Flávio tem 46% e Lula 45% em eventual 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/122029/btg-nexus-flavio-tem-46-e-lula-45-em-eventual-2-turno",
+      "resumo": "Senador aparece numericamente à frente de Lula pela primeira vez na série do instituto. Cury também supera o presidente, mas ambos os cenários são de empate técnico.",
+      "publicado_em": "2026-09-08T07:41:39-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "6976b627e4340917",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula e Flávio Bolsonaro empatam em 41% no 2º turno, aponta Quaest",
+      "link": "https://www.congressoemfoco.com.br/noticia/122028/lula-e-flavio-bolsonaro-empatam-em-41-no-2-turno-aponta-quaest",
+      "resumo": "Presidente mantém sete pontos de vantagem no primeiro turno; no confronto direto, diferença caiu de cinco pontos em agosto para zero.",
+      "publicado_em": "2026-09-08T07:22:16-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "aff8cd185220179f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei cria o Dia Nacional do Carreiro de Boi",
+      "link": "https://www.camara.leg.br/noticias/1302903-lei-cria-o-dia-nacional-do-carreiro-de-boi",
+      "resumo": "",
+      "publicado_em": "2026-09-08T10:49:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "9edc45225ebc3c35",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade reconhece prática de gun jumping entre Cervejaria Petrópolis e Imcopa",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-reconhece-pratica-de-gun-jumping-entre-cervejaria-petropolis-e-imcopa",
+      "resumo": "",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "2a38f95b4f9bf93b",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Ajustes pontuais organizam regras operacionais do Pix Automático",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21252/nota",
+      "resumo": "Padronização reduz barreiras tecnológicas e estimula a concorrência no setor financeiro.",
+      "publicado_em": "2026-09-08T11:03:02-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
     {
       "id": "439e95083cc3e421",
       "fonte_id": "tjsp",
@@ -375,7 +768,7 @@ window.DADOS = {
       "id": "e515e0d55e4e6315",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "Flávio na Paulista: '\"quem vota em Lula está votando em Moraes\"",
+      "titulo": "Flávio na Paulista: \"quem vota em Lula está votando em Moraes\"",
       "link": "https://www.congressoemfoco.com.br/noticia/122026/flavio-na-paulista--quem-vota-em-lula-esta-votando-em-moraes",
       "resumo": "Em ato na Avenida Paulista, candidato do PL associa o presidente ao ministro do STF, chama Moraes de \"laranja podre\" e diz que ele \"vai cair\".",
       "publicado_em": "2026-09-07T17:21:28-03:00",
@@ -414,6 +807,23 @@ window.DADOS = {
         "advogado"
       ],
       "coletado_em": "2026-09-07T16:04:32-03:00"
+    },
+    {
+      "id": "50e8afcc4f5cec65",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sem sessões no Congresso, STF e eleições movimentam semana política",
+      "link": "https://www.congressoemfoco.com.br/noticia/122022/sem-sessoes-no-congresso-stf-e-eleicoes-movimentam-semana-politica",
+      "resumo": "Fachin aguarda esclarecimentos sobre embate na Corte, enquanto candidatos entram no prazo para entregar prestação parcial de contas.",
+      "publicado_em": "2026-09-07T12:22:49-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "7b7993717fb7d715",
@@ -584,6 +994,20 @@ window.DADOS = {
       "coletado_em": "2026-09-07T13:20:01-03:00"
     },
     {
+      "id": "6d3b36f486a267f9",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "TST restabelece inclusão de empregador doméstico na “lista suja” do trabalho escravo",
+      "link": "https://www.tst.jus.br/-/tst-restabelece-inclusao-de-empregador-domestico-na-lista-suja-do-trabalho-escravo",
+      "resumo": "Resgatada em 2023, mulher trabalhou por 40 anos na casa da família, em Florianópolis, sem direitos e sem contato com a família biológica, sob o pretexto de ser “da família” Imprimir 5/9/2026 - O presidente do Tribunal Superior do Trabalho (TST), ministro Vieira de Mello Filho, acolheu pedido da Advo",
+      "publicado_em": "2026-09-05T11:03:00-03:00",
+      "dia": "2026-09-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
       "id": "f6cc306731be50f6",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -614,6 +1038,70 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
+    {
+      "id": "64af0a89ea63fc21",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "TST e TRT da 4ª Região (RS)  assinam acordo para nacionalização da plataforma digital LaborNexus",
+      "link": "https://www.tst.jus.br/-/tst-e-trt-da-4-regiao-rs-assinam-acordo-para-nacionalizacao-da-plataforma-digital-labornexus",
+      "resumo": "Iniciativa pioneira desenvolvida na Justiça do Trabalho gaúcha facilita acesso a Normas Internacionais do Trabalho com traduções técnicas e cruzamento de dados Imprimir 04/09/2026 - O Tribunal Superior do Trabalho (TST) e o Tribunal Regional do Trabalho da 4ª Região (RS) assinaram, nesta sexta-feira",
+      "publicado_em": "2026-09-04T18:11:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "db8645b6c3447198",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Assédio eleitoral no trabalho pode ocorrer de diferentes formas; saiba como identificar",
+      "link": "https://www.tst.jus.br/-/assedio-eleitoral-no-trabalho-pode-ocorrer-de-diferentes-formas-saiba-como-identificar-2",
+      "resumo": "Prática pode envolver ameaças, constrangimentos, discriminação e outras formas de pressão para influenciar a escolha política de trabalhadores Imprimir 04/09/2026 - A liberdade de escolher em quem votar é um direito fundamental. O voto é livre e secreto, e nenhuma relação de trabalho pode limitar o ",
+      "publicado_em": "2026-09-04T16:24:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "c45c0785c3750948",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "TRT da 5ª Região (BA) assina parceria para transporte de pessoas com deficiência nas eleições",
+      "link": "https://www.tst.jus.br/-/trt-da-5-regiao-ba-assina-parceria-para-transporte-de-pessoas-com-deficiencia-nas-eleicoes",
+      "resumo": "Acordo faz parte do programa \"Seu Voto Importa\" Imprimir 04/09/2026 - O Tribunal Regional do Trabalho da 5ª Região (BA) assinou, nesta sexta-feira (4), termo de cooperação com o Tribunal Regional Eleitoral da Bahia (TRE-BA) para viabilizar o programa \"Seu Voto Importa\", iniciativa que oferece transp",
+      "publicado_em": "2026-09-04T15:37:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "f843aa7716981fd7",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "TST e CSJT atingem nota máxima no Ranking da Transparência 2026 do CNJ",
+      "link": "https://www.tst.jus.br/-/tst-e-csjt-atingem-nota-maxima-no-ranking-da-transparencia-2026-do-cnj",
+      "resumo": "04/09/2026 - O Tribunal Superior do Trabalho (TST) e o Conselho Superior da Justiça do Trabalho (CSJT) atingiram o patamar máximo de eficiência e abertura ao público ao conquistarem 100% de aproveitamento no Ranking da Transparência 2026, premiação anual realizada pelo Conselho Nacional de Justiça (",
+      "publicado_em": "2026-09-04T14:27:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "d0b406b007b3677a",
@@ -1452,6 +1940,53 @@ window.DADOS = {
       "coletado_em": "2026-09-04T11:52:27-03:00"
     },
     {
+      "id": "f76d666e60ebb82b",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Publicado edital do Exame de Qualificação Técnica para Despachante Aduaneiro 2026",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/publicado-edital-do-exame-de-qualificacao-tecnica-para-despachante-aduaneiro-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:31:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "5e6b81870f30ae9f",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal e PGFN publicam novo edital de transação para controvérsia sobre IRRF de investidores não residentes",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-e-pgfn-publicam-novo-edital-de-transacao-para-controversia-sobre-irrf-de-investidores-nao-residentes",
+      "resumo": "",
+      "publicado_em": "2026-09-04T08:12:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "irrf",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "8f75eef7e33a9bbf",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal abre consulta pública sobre os regimes aduaneiros especiais de depósito de mercadorias",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/rfb-abre-consulta-publica-para-receber-contribuicoes-sobre-consolidacao-e-modernizacao-de-normas-relativas-aos-regimes-aduaneiros-de-mercadorias",
+      "resumo": "",
+      "publicado_em": "2026-09-04T07:37:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
       "id": "1bc9c19626f55acc",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -1746,6 +2281,36 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-04T15:14:36-03:00"
+    },
+    {
+      "id": "3f56b3d9f1d2fd30",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Área técnica da CVM esclarece orientações para coordenadores de ofertas públicas",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-esclarece-orientacoes-para-coordenadores-de-ofertas-publicas",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "dfd8532bb270be83",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM debate tokenização de ativos no Brasil",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-debate-tokenizacao-de-ativos-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-04T12:00:00-03:00",
+      "dia": "2026-09-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "e1a54da4cda8f8e8",
@@ -3539,6 +4104,22 @@ window.DADOS = {
       "coletado_em": "2026-09-03T11:55:43-03:00"
     },
     {
+      "id": "db4cdafee606d354",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal retém 98,5 quilos de cocaína em Paranaguá",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-retem-98-5-quilos-de-cocaina-em-paranagua",
+      "resumo": "",
+      "publicado_em": "2026-09-03T07:20:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": false,
+      "score": 18,
+      "tags": [
+        "cocaina"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
       "id": "34b6ea0adbdc67f9",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -3772,6 +4353,96 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-03T17:14:09-03:00"
+    },
+    {
+      "id": "2c8110df68e13452",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM participa do 9º Encontro Nacional da ANFIDC",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-do-9o-encontro-nacional-da-anfidc",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "eb4d245bc948ec68",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Revertida suspensão de oferta pública de distribuição de cotas do NTZ Empreendimentos FIDC Multicarteira Resp Limitada",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-de-oferta-publica-de-distribuicao-de-cotas-do-ntz-empreendimentos-fidc-multicarteira-resp-limitada",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "180973f073848fea",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Suspensa oferta de Certificados de Recebíveis Imobiliários (CRI) da OPEA Securitizadora S.A.",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-opea-securitizadora-s-a",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "520e1f8e5b62bc7e",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Área técnica da CVM divulga Ofício Circular Anual sobre atuação do auditor independente",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-divulga-oficio-circular-anual-sobre-atuacao-do-auditor-independente",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "30fa03d6cac63158",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Colegiado da CVM aprova novo aditivo em acordo de cooperação com a Anbima referente à supervisão de fundos de investimento",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-aprova-novo-aditivo-em-acordo-de-cooperacao-com-a-anbima-referente-a-supervisao-de-fundos-de-investimento",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "adi",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "effa8eb111aea41a",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Colegiado da CVM rejeita proposta de Termo de Compromisso com diretores da Ambipar Participações e Empreendimentos S.A.",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-rejeita-proposta-de-termo-de-compromisso-com-diretores-da-ambipar-participacoes-e-empreendimentos-s-a",
+      "resumo": "",
+      "publicado_em": "2026-09-03T12:00:00-03:00",
+      "dia": "2026-09-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "ccc39f01faca5efc",
@@ -5702,6 +6373,20 @@ window.DADOS = {
       "coletado_em": "2026-09-02T15:31:19-03:00"
     },
     {
+      "id": "e677b726b39e7d6a",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal aperfeiçoa regras de acompanhamento da fruição de benefícios fiscais",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-aperfeicoa-regras-de-acompanhamento-da-fruicao-de-beneficios-fiscais",
+      "resumo": "",
+      "publicado_em": "2026-09-02T07:55:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
       "id": "70e8b79a92b781e3",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -5966,6 +6651,34 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-02T15:31:19-03:00"
+    },
+    {
+      "id": "7fbe0d7262474655",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM participa de encontro sobre combate ao crime financeiro em São Paulo",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-de-encontro-sobre-combate-ao-crime-financeiro-em-sao-paulo",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "5222671eea788692",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Área técnica da CVM informa mudança de layout no quadro 6.1/2 do Formulário de Referência",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-informa-mudanca-de-layout-no-quadro-6-1-2-do-formulario-de-referencia",
+      "resumo": "",
+      "publicado_em": "2026-09-02T12:00:00-03:00",
+      "dia": "2026-09-02",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "0a611e65369345c8",
@@ -8442,6 +9155,42 @@ window.DADOS = {
       "coletado_em": "2026-09-01T12:25:51-03:00"
     },
     {
+      "id": "8f686830201f86db",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal alerta: começa hoje o prazo para opção pelo Simples Nacional e para a escolha do modelo de recolhimento do IBS e da CBS em 2027",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-alerta-comeca-hoje-o-prazo-para-opcao-pelo-simples-nacional-e-para-a-escolha-do-modelo-de-recolhimento-do-ibs-e-da-cbs-em-2027",
+      "resumo": "",
+      "publicado_em": "2026-09-01T10:18:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 90,
+      "tags": [
+        "prazo",
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "01b3d7c71770b9b1",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal disponibiliza o Perguntas e Respostas do Imposto Territorial Rural - ITR - 2026",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-disponibiliza-o-perguntas-e-respostas-do-imposto-territorial-rural-itr-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-01T09:13:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "imposto",
+        "itr"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
       "id": "b24d6175496d8b0b",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -8880,6 +9629,20 @@ window.DADOS = {
         "cbs"
       ],
       "coletado_em": "2026-09-01T15:19:17-03:00"
+    },
+    {
+      "id": "fb4484b36799909c",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Confira o que aconteceu na CVM em... agosto!",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/destques-da-cvm-em-agosto-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-01T12:00:00-03:00",
+      "dia": "2026-09-01",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "c73ee84068c2b928",
@@ -10687,6 +11450,52 @@ window.DADOS = {
       "coletado_em": "2026-08-31T14:57:26-03:00"
     },
     {
+      "id": "f6b4b3dc84178818",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal no Porto de Santos frusta a tentativa de exportação de madeira protegida",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-no-porto-de-santos-frusta-a-tentativa-de-exportacao-de-madeira-protegida",
+      "resumo": "",
+      "publicado_em": "2026-08-31T15:32:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "b16d5d02be2a7bf6",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal em Foz do Iguaçu retém mais de 500 kg de substância análoga à maconha na Ponte da Amizade",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-em-foz-do-iguacu-retem-mais-de-500-kg-de-substancia-analoga-a-maconha-na-ponte-da-amizade",
+      "resumo": "",
+      "publicado_em": "2026-08-31T15:02:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "e9db3a32cca0f641",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Manaus sediará nesta terça-feira (1º) o Módulo 15 do Curso Reforma Tributária do Consumo",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/manaus-sediara-nesta-terca-feira-1o-o-modulo-15-do-curso-reforma-tributaria-do-consumo",
+      "resumo": "",
+      "publicado_em": "2026-08-31T12:10:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
       "id": "120925f6ecea07f7",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -11018,6 +11827,37 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-31T17:44:37-03:00"
+    },
+    {
+      "id": "0e523c3634385664",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Sessão de Julgamento em 1º/9",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/sessao-de-julgamento-em-1o-9",
+      "resumo": "",
+      "publicado_em": "2026-08-31T12:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "8e5ff6eee2ddb791",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Expediente na CVM no dia 7/9",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/expediente-na-cvm-no-dia-7-9",
+      "resumo": "",
+      "publicado_em": "2026-08-31T12:00:00-03:00",
+      "dia": "2026-08-31",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "a25e509b48ae0819",
@@ -12613,6 +13453,101 @@ window.DADOS = {
       "coletado_em": "2026-08-28T18:19:59-03:00"
     },
     {
+      "id": "f2e479e48b09b6bf",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação conjunta apreende 3.400 ampolas de medicamentos irregulares em Rolândia",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/operacao-conjunta-apreende-3-400-ampolas-de-medicamentos-irregulares-em-rolandia",
+      "resumo": "",
+      "publicado_em": "2026-08-28T16:48:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "acao",
+        "apreende"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "e3b25acb3cc9d8e5",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende carga milionária de celulares após abordagem na BR-277",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-apreende-carga-milionaria-de-celulares-apos-abordagem-na-br-277",
+      "resumo": "",
+      "publicado_em": "2026-08-28T15:31:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "5cf456941a5744cb",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal aperfeiçoa Programa Sintonia para fortalecer confiança, previsibilidade e segurança para os contribuintes mais conformes",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-aperfeicoa-programa-sintonia-para-fortalecer-confianca-previsibilidade-e-seguranca-para-os-contribuintes-mais-conformes",
+      "resumo": "",
+      "publicado_em": "2026-08-28T12:33:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "e9ee3fee5bee9c13",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação Bomba Oculta fecha o cerco a postos de combustíveis clandestinos",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/operacao-bomba-oculta-fecha-o-cerco-a-postos-de-combustiveis-clandestinos",
+      "resumo": "",
+      "publicado_em": "2026-08-28T09:13:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "91d35055b3294e5e",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal e MPF realizam coletiva da Operação Jogo de Sombras",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-e-mpf-realizam-coletiva-da-operacao-jogo-de-sombras",
+      "resumo": "",
+      "publicado_em": "2026-08-28T08:35:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "af09235f05bbd2c6",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal e Ministério Público Federal deflagram Operação Jogo de Sombras contra esquema envolvendo apostas esportivas",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-e-ministerio-publico-federal-deflagram-operacao-jogo-de-sombras-contra-esquema-envolvendo-apostas-esportivas",
+      "resumo": "",
+      "publicado_em": "2026-08-28T08:12:00-03:00",
+      "dia": "2026-08-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
       "id": "8af9031daf5b35f0",
       "fonte_id": "pgfn",
       "fonte_nome": "PGFN",
@@ -14147,6 +15082,84 @@ window.DADOS = {
       "coletado_em": "2026-08-27T17:56:35-03:00"
     },
     {
+      "id": "edf37ab88a6ca9bd",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal oferece oportunidade de regularização de divergências de PIS e Cofins",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-oferece-oportunidade-de-regularizacao-de-divergencias-de-pis-e-cofins",
+      "resumo": "",
+      "publicado_em": "2026-08-27T18:05:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "619fb64d9907e5b9",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende aproximadamente 300 kg de substância análoga à maconha em duas ações na Ponte da Amizade",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-apreende-aproximadamente-300-kg-de-substancia-analoga-a-maconha-em-duas-acoes-na-ponte-da-amizade",
+      "resumo": "",
+      "publicado_em": "2026-08-27T16:09:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "6b8b427b0f624d0b",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal retém quase 250 kg de substância análoga à maconha após tentativa de fuga na Ponte da Amizade",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-retem-quase-250-kg-de-substancia-analoga-a-maconha-apos-tentativa-de-fuga-na-ponte-da-amizade",
+      "resumo": "",
+      "publicado_em": "2026-08-27T15:02:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "b754881ad14c1f11",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende medicamentos para emagrecimento ocultos em tênis de passageira",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/tenis-do-crime-receita-federal-encontra-emagrecedores-escondidos",
+      "resumo": "",
+      "publicado_em": "2026-08-27T08:10:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "fc460c8ee3288f7b",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação Peça-Chave combate descaminho de autopeças e lavagem de capitais em São Paulo e Mato Grosso do Sul",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/operacao-peca-chave-combate-descaminho-de-autopecas-e-lavagem-de-capitais-em-sao-paulo-e-mato-grosso-do-sul",
+      "resumo": "",
+      "publicado_em": "2026-08-27T08:05:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
       "id": "54a4a6600a470372",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -14410,6 +15423,23 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-27T21:20:07-03:00"
+    },
+    {
+      "id": "f7337a5183cb420c",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Áreas técnicas da CVM orientam sobre aplicação da Resolução CVM 244, que alterou a Resolução CVM 193",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/areas-tecnicas-da-cvm-orientam-sobre-aplicacao-da-resolucao-cvm-244-que-alterou-a-resolucao-cvm-193",
+      "resumo": "",
+      "publicado_em": "2026-08-27T12:00:00-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "resolucao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "63300a485d9d4b09",
@@ -15827,6 +16857,53 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-26T19:37:14-03:00"
+    },
+    {
+      "id": "66462a724f1743a0",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM multa Infinite Trade LLC. em R$ 3,9 milhões",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-multa-infinite-trade-llc-em-r-3-9-milhoes",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "87c51051f5739b26",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Comitê Consultivo de Educação da CVM entrega 19º Prêmio Imprensa de Educação ao Investidor",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/comite-consultivo-de-educacao-da-cvm-entrega-19o-premio-imprensa-de-educacao-ao-investidor",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "fd2e30166cc223ea",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM participa de Reunião do Conselho Diretor da Abrasca, em São Paulo",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-de-reuniao-do-conselho-diretor-da-abrasca-em-sao-paulo",
+      "resumo": "",
+      "publicado_em": "2026-08-26T12:00:00-03:00",
+      "dia": "2026-08-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "4264127d3d5da18a",
@@ -17250,6 +18327,54 @@ window.DADOS = {
       "coletado_em": "2026-08-25T12:50:48-03:00"
     },
     {
+      "id": "c31ca5278330fc73",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal comenta nesta quarta-feira (26) a arrecadação do mês de julho",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-comenta-nesta-quarta-feira-26-a-arrecadacao-do-mes-de-julho",
+      "resumo": "",
+      "publicado_em": "2026-08-25T15:40:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "2552cdc7e3b5078b",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Informação para imprensa – 25/8/2026",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/informacao-para-imprensa-2013-25-8-2026",
+      "resumo": "",
+      "publicado_em": "2026-08-25T09:04:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "d75be4c1f4a5b2e3",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal, PF e MPF deflagram operação contra organização criminosa no Aeroporto de Fortaleza",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/operacao-snooker-2-justica-federal-decreta-prisoes-e-bloqueio-de-bens-em-investigacao-sobre-corrupcao-fraudes-em-importacoes-e-lavagem-de-dinheiro",
+      "resumo": "",
+      "publicado_em": "2026-08-25T07:50:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
       "id": "49a6cc163652aa40",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -17471,6 +18596,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-25T17:19:47-03:00"
+    },
+    {
+      "id": "5d1b0a79cc04a250",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM está pronta para receber novos CNPJs alfanuméricos gerados pela Receita Federal",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-esta-pronta-para-receber-novos-cnpjs-alfanumericos-gerados-pela-receita-federal",
+      "resumo": "",
+      "publicado_em": "2026-08-25T12:00:00-03:00",
+      "dia": "2026-08-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "6ac8af457225b3b9",
@@ -18611,6 +19750,71 @@ window.DADOS = {
       "coletado_em": "2026-08-24T08:33:43-03:00"
     },
     {
+      "id": "467ca250a14e7dfd",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal retém três ônibus de turismo com mercadorias avaliadas em R$ 1,5 milhão",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/receita-federal-retem-tres-onibus-de-turismo-com-mercadorias-avaliadas-em-r-1-5-milhao",
+      "resumo": "",
+      "publicado_em": "2026-08-24T16:35:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "b017c814b17af62c",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Ponte da Integração registra primeira apreensão de entorpecentes desde o início das operações",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/ponte-da-integracao-registra-primeira-apreensao-de-entorpecentes-desde-o-inicio-das-operacoes",
+      "resumo": "",
+      "publicado_em": "2026-08-24T16:12:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "acao",
+        "apreensao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "de836db2fd4e60c0",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação conjunta apreende ampolas de medicação ocultas em pneu estepe",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/operacao-conjunta-apreende-ampolas-de-medicacao-ocultas-em-pneu-estepe",
+      "resumo": "",
+      "publicado_em": "2026-08-24T16:12:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "acao",
+        "apreende"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "30797341f9cb617f",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação Áquila combate contrabando e entrada irregular de mercadorias no Sul de Minas",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/agosto/operacao-aquila-combate-contrabando-e-entrada-irregular-de-mercadorias-no-sul-de-minas",
+      "resumo": "",
+      "publicado_em": "2026-08-24T13:07:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "contrabando"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
       "id": "4b31ae724052213e",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -18874,6 +20078,23 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-24T15:22:08-03:00"
+    },
+    {
+      "id": "65075281331baf7c",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Sessão de Julgamento em 25/8",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/sessao-de-julgamento-em-25-8",
+      "resumo": "",
+      "publicado_em": "2026-08-24T12:00:00-03:00",
+      "dia": "2026-08-24",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "0e558ff12060fb6d",
@@ -20721,6 +21942,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-24T08:33:43-03:00"
+    },
+    {
+      "id": "5213cd2317d2ca12",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Área técnica da CVM confirma ampliação da lista de mercados admitidos em parcerias com intermediários estrangeiros",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-confirma-ampliacao-da-lista-de-mercados-admitidos-em-parcerias-com-intermediarios-estrangeiros",
+      "resumo": "",
+      "publicado_em": "2026-08-21T12:00:00-03:00",
+      "dia": "2026-08-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "96b6349c7182a4fb",
@@ -22621,6 +23858,22 @@ window.DADOS = {
       "coletado_em": "2026-08-21T08:31:31-03:00"
     },
     {
+      "id": "33bc45bf88ac7fdb",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Otto Lobo tem encontro com Presidente do TCU e apresenta projetos para fortalecimento e modernização da CVM",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/otto-lobo-tem-encontro-com-presidente-do-tcu-e-apresenta-projetos-para-fortalecimento-e-modernizacao-da-cvm",
+      "resumo": "",
+      "publicado_em": "2026-08-20T12:00:00-03:00",
+      "dia": "2026-08-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
       "id": "631e2267f98ebd31",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -24358,6 +25611,34 @@ window.DADOS = {
         "simples nacional"
       ],
       "coletado_em": "2026-08-19T15:16:57-03:00"
+    },
+    {
+      "id": "6cd4a683bcd47227",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM se reúne com executivos da NYSE e da NASDAQ nos EUA",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-se-reune-com-executivos-da-nyse-e-da-nasdaq-nos-eua",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "33216330df9dbfb3",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Área técnica da CVM orienta sobre alterações nos Formulários de Informações Trimestrais e de Demonstrações Financeiras Padronizadas",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-orienta-sobre-alteracoes-nos-formularios-de-informacoes-trimestrais-e-de-demonstracoes-financeiras-padronizadas",
+      "resumo": "",
+      "publicado_em": "2026-08-19T12:00:00-03:00",
+      "dia": "2026-08-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "f2e3456f43f4065a",
@@ -26326,6 +27607,20 @@ window.DADOS = {
       "coletado_em": "2026-08-18T12:38:22-03:00"
     },
     {
+      "id": "458e8ebeca51ecf0",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Área técnica da CVM orienta sobre requerimentos de registro automático de ofertas públicas de distribuição de valores mobiliários",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-orienta-sobre-requerimentos-de-registro-automatico-de-ofertas-publicas-de-distribuicao-de-valores-mobiliarios",
+      "resumo": "",
+      "publicado_em": "2026-08-18T12:00:00-03:00",
+      "dia": "2026-08-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
       "id": "7d6eddfb2ed339f1",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -28120,6 +29415,52 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-17T12:31:26-03:00"
+    },
+    {
+      "id": "b71e5e19c5d6ed14",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Revertida suspensão da oferta pública de distribuição de cotas do NTZ Financiamentos Longo Prazo FIDC Resp Limitada",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-da-oferta-publica-de-distribuicao-de-cotas-do-ntz-financiamentos-longo-prazo-fidc-resp-limitada",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "e7dcb28562818ec0",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Revertida suspensão da oferta pública de distribuição de CRI da Riza Securitizadora S.A.",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-da-oferta-publica-de-distribuicao-de-cri-da-riza-securitizadora-s-a",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "5b1d7e0d12025681",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM tem encontro com comissão de negociação de contratos futuros de commodities dos EUA",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-tem-encontro-com-comissao-de-negociacao-de-contratos-futuros-de-commodities-dos-eua",
+      "resumo": "",
+      "publicado_em": "2026-08-17T12:00:00-03:00",
+      "dia": "2026-08-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "752ca404f4cd19b1",
@@ -30253,6 +31594,23 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-17T08:30:27-03:00"
+    },
+    {
+      "id": "91cd9efe3d759ce8",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM visita a SEC, nos EUA, e debate agenda regulatória, modernização tecnológica e tokenização do mercado de capitais",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-visita-a-sec-nos-eua-e-debate-agenda-regulatoria-modernizacao-tecnologica-e-tokenizacao-do-mercado-de-capitais",
+      "resumo": "",
+      "publicado_em": "2026-08-14T12:00:00-03:00",
+      "dia": "2026-08-14",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
       "id": "24049b59173e1f60",
