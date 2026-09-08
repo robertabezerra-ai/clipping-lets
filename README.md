@@ -148,21 +148,28 @@ de palavra, então plural pode precisar de entrada própria
 
 ## Limitações conhecidas
 
-`python -m coletor.validar_fontes` confirma **19 das 22 fontes ok**, testado contra os
-sites reais. As 3 que não consegui deixar funcionando, com o motivo real (não
+`python -m coletor.validar_fontes` confirma **20 das 22 fontes ok**, testado contra os
+sites reais. As 2 que não consegui deixar funcionando, com o motivo real (não
 adivinhado — está tudo documentado em [`sources.yml`](sources.yml)):
 
 - **STJ** — o portal (`stj.jus.br`) é um SharePoint que renderiza a listagem de
   notícias inteira via JavaScript; não há link nenhum no HTML cru, nem RSS, nem
-  API pública que eu tenha achado.
+  API pública que eu tenha achado, nem sitemap.
 - **Anbima** — mesma ideia: a listagem usa um CMS (Lumis) que carrega as notícias
   via chamada JavaScript cujo endpoint não aparece em lugar nenhum do HTML estático.
-- **Coaf** — o portal devolve `401` pra qualquer requisição automatizada (RSS,
-  scraping da página e a API do gov.br novo, testei os três), mesmo sem pressa
-  entre tentativas. Parece bloqueio deliberado a bots.
+  Tem `sitemap.xml`, mas sem data nenhuma nele — não dá pra saber quais notícias
+  são recentes só com isso.
 
-Nos três casos, tentar “forçar” exigiria um navegador headless — que a
-especificação deste projeto pede pra não usar.
+Forçar os dois exigiria um navegador automatizado (tipo abrir a página de
+verdade e esperar o JavaScript rodar) — decidimos não usar, pra manter o
+projeto simples e leve. Quando sair notícia relevante desses dois, dá pra
+adicionar na mão pelo painel "Adicionar notícia manualmente".
+
+O **Coaf** publicava `401` (bloqueado) pra listagem e API, mas o sitemap do
+site escapa do bloqueio e traz a data de cada notícia — o coletor lê o
+sitemap e busca o título na página de cada notícia individual (que abre
+normal). Publica pouco (às vezes passa mais de um mês sem notícia nova),
+então "Nada" com frequência é normal, não é bug.
 
 Duas coisas que **não são bug**, é assim que as fontes publicam de verdade:
 

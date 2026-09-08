@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-08T11:12:24-03:00",
+  "gerado_em": "2026-09-08T11:32:33-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/coaf/pt-br/assuntos/noticias"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -454,6 +454,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "2f7a9219d0648d22",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pix evolui e cobrança automática fica simples e segura para empresas e clientes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/ajustes-pontuais-organizam-regras-operacionais-do-pix-automatico",
+      "resumo": "",
+      "publicado_em": "2026-09-08T11:03:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
     },
     {
       "id": "bd47be679992cfea",
@@ -38894,6 +38908,40 @@ window.DADOS = {
       "coletado_em": "2026-08-14T16:49:53-03:00"
     },
     {
+      "id": "33c18b21c5ea839f",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Coaf examina 9 processos na sessão de julgamento de junho",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-examina-9-processos-na-sessao-de-julgamento-de-junho",
+      "resumo": "",
+      "publicado_em": "2026-07-14T15:18:49-03:00",
+      "dia": "2026-07-14",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
+    },
+    {
+      "id": "c714624474886911",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Atenção! O Coaf não bloqueia, libera ou retém dinheiro, bens ou qualquer outro tipo de recurso financeiro",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/atencao-o-coaf-nao-bloqueia-libera-ou-retem-dinheiro-bens-ou-qualquer-outro-tipo-de-recurso-financeiro",
+      "resumo": "",
+      "publicado_em": "2026-07-14T14:58:59-03:00",
+      "dia": "2026-07-14",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
+    },
+    {
       "id": "2cde104da9d8a7c6",
       "fonte_id": "cade",
       "fonte_nome": "Cade",
@@ -39350,6 +39398,36 @@ window.DADOS = {
       "coletado_em": "2026-08-14T16:49:53-03:00"
     },
     {
+      "id": "4df579d0983e8f39",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "São Paulo: primeira regional do Coaf é inaugurada no centro financeiro do país",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/sao-paulo-primeira-regional-do-coaf-e-inaugurada-no-centro-financeiro-do-pais",
+      "resumo": "",
+      "publicado_em": "2026-07-01T19:19:50-03:00",
+      "dia": "2026-07-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
+    },
+    {
+      "id": "28ff7dd2a5084ec1",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "RJ: Representantes do Coaf se reúnem com o MPF para fortalecer atuação no combate ao crime organizado",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/rj-representantes-do-coaf-se-reunem-com-o-mpf-para-fortalecer-atuacao-no-combate-ao-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-07-01T14:48:44-03:00",
+      "dia": "2026-07-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
+    },
+    {
       "id": "5f8a48c6488c48b4",
       "fonte_id": "cade",
       "fonte_nome": "Cade",
@@ -39618,6 +39696,34 @@ window.DADOS = {
       "coletado_em": "2026-08-14T16:49:53-03:00"
     },
     {
+      "id": "cfbf0f76bc2fc709",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Inscreva-se: Coaf lança Fórum Siscoaf",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/inscreva-se-coaf-lanca-forum-siscoaf",
+      "resumo": "",
+      "publicado_em": "2026-06-25T19:26:57-03:00",
+      "dia": "2026-06-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
+    },
+    {
+      "id": "654e7a0747ac86fb",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Coaf recebe R$ 30 milhões do programa nacional contra o crime organizado",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-recebe-r-30-milhoes-do-programa-nacional-contra-o-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-06-25T18:09:36-03:00",
+      "dia": "2026-06-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
+    },
+    {
       "id": "552358bdd96ec884",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -39696,6 +39802,20 @@ window.DADOS = {
       "coletado_em": "2026-08-14T16:49:53-03:00"
     },
     {
+      "id": "3286552f0e4d1eef",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Coaf participa de reuniões dos grupos de trabalho e da Plenária do Gafi",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-participa-de-reunioes-dos-grupos-de-trabalho-e-da-plenaria-do-gafi",
+      "resumo": "",
+      "publicado_em": "2026-06-24T18:32:48-03:00",
+      "dia": "2026-06-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
+    },
+    {
       "id": "4afc78224f8b4ec7",
       "fonte_id": "anpd",
       "fonte_nome": "ANPD",
@@ -39742,6 +39862,36 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "ae24289a0d98d66d",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Coaf reforça atuação no combate à lavagem de dinheiro no mercado de bens culturais",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-reforca-atuacao-no-combate-a-lavagem-de-dinheiro-no-mercado-de-bens-culturais",
+      "resumo": "",
+      "publicado_em": "2026-06-23T17:40:53-03:00",
+      "dia": "2026-06-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
+    },
+    {
+      "id": "bc54f424001bbb27",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Coaf participa do Encontro Nacional das FICCOs em Foz do Iguaçu",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-participa-do-encontro-nacional-das-ficcos-em-foz-do-iguacu-1",
+      "resumo": "",
+      "publicado_em": "2026-06-23T11:39:34-03:00",
+      "dia": "2026-06-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
     },
     {
       "id": "281453e49445e6a5",
@@ -39837,6 +39987,20 @@ window.DADOS = {
       "coletado_em": "2026-08-14T16:49:53-03:00"
     },
     {
+      "id": "8d4924f14409b06f",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Coaf reforça ações contra a lavagem de dinheiro em conferência do Gafilat",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-reforca-acoes-contra-a-lavagem-de-dinheiro-em-conferencia-do-gafilat",
+      "resumo": "",
+      "publicado_em": "2026-06-22T14:40:43-03:00",
+      "dia": "2026-06-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
+    },
+    {
       "id": "d18d32cbf79b3668",
       "fonte_id": "bacen",
       "fonte_nome": "Bacen",
@@ -39851,6 +40015,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "205337b7bb23c3e5",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Coaf no Rio de janeiro: coordenadoria regional inicia reuniões pré inauguração",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-no-rio-de-janeiro-coordenadoria-regional-inicia-reunioes-pre-inauguracao",
+      "resumo": "",
+      "publicado_em": "2026-06-21T01:56:24-03:00",
+      "dia": "2026-06-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
     },
     {
       "id": "9b38874a4323ad3b",
@@ -40168,6 +40348,53 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
+    },
+    {
+      "id": "23febde5a0fbe9d6",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Coaf presente na Oficina sobre Regulamentação e Identificação de Minérios",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-presente-na-oficina-sobre-regulamentacao-e-identificacao-de-minerios-1",
+      "resumo": "",
+      "publicado_em": "2026-06-10T16:05:59-03:00",
+      "dia": "2026-06-10",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
+    },
+    {
+      "id": "7b5d5cec76d635ad",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Coaf participa de oficina sobre Supervisão com Enfoque Baseado em Riscos para APNFD na Colômbia",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-participa-de-oficina-sobre-supervisao-com-enfoque-baseado-em-riscos-para-apnfd-na-colombia",
+      "resumo": "",
+      "publicado_em": "2026-06-10T16:01:00-03:00",
+      "dia": "2026-06-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
+    },
+    {
+      "id": "2349fe8edf229df2",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Coaf convida para participação no Fórum Siscoaf",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-convida-para-participacao-no-forum-siscoaf-1",
+      "resumo": "",
+      "publicado_em": "2026-06-10T15:32:14-03:00",
+      "dia": "2026-06-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T11:32:33-03:00"
     },
     {
       "id": "ed5f7ce993a02074",

@@ -13,6 +13,7 @@ backoff e no máximo 1 requisição por segundo por domínio; quem decide se
 a fonte falhou é fetch.py, não este módulo.
 """
 
+import gzip
 import re
 import time
 import unicodedata
@@ -344,9 +345,55 @@ def p_json_bacen(f):
     return saida
 
 
+# ---------------------------------------------------------------------------
+# sitemap — para sites cuja listagem de notícias é bloqueada (401/JS), mas
+# cujo sitemap.xml escapa do bloqueio (webmaster deixa de fora pro Google
+# indexar) e lista cada artigo com data real. A página de cada notícia
+# costuma abrir normal mesmo com a listagem bloqueada — só busca o título
+# ali. Limitado às N mais recentes porque cada uma custa 1 requisição.
+# ---------------------------------------------------------------------------
+
+NS_SITEMAP = "{http://www.sitemaps.org/schemas/sitemap/0.9}"
+LIMITE_SITEMAP_ITENS = 20
+
+
+def p_sitemap(f):
+    r = baixar(f["url"])
+    conteudo = gzip.decompress(r.content) if f["url"].endswith(".gz") else r.content
+    raiz = ET.fromstring(conteudo)
+    padrao = re.compile(f["padrao_link"])
+
+    candidatos = []
+    for url_el in raiz.iter(f"{NS_SITEMAP}url"):
+        loc = (url_el.findtext(f"{NS_SITEMAP}loc") or "").strip()
+        lastmod = (url_el.findtext(f"{NS_SITEMAP}lastmod") or "").strip()
+        if not loc or not lastmod or not padrao.search(loc):
+            continue
+        try:
+            quando = datetime.fromisoformat(lastmod.replace("Z", "+00:00")).astimezone(FUSO_BR)
+        except ValueError:
+            continue
+        candidatos.append((quando, loc))
+    candidatos.sort(key=lambda c: c[0], reverse=True)
+
+    saida = []
+    for quando, link in candidatos[:LIMITE_SITEMAP_ITENS]:
+        try:
+            rp = baixar(link)
+        except Exception:                          # noqa: BLE001
+            continue
+        m = re.search(r"<title[^>]*>(.*?)</title>", rp.text, re.S)
+        titulo = re.sub(r"\s+", " ", m.group(1)).strip() if m else ""
+        if len(titulo) < 8:
+            continue
+        saida.append((titulo, normalizar_link(link), "", quando, False))
+    return saida
+
+
 JSON_POR_ID = {"stf": p_json_stf, "anpd": p_json_anpd, "bacen": p_json_bacen}
 
-POR_ESTRATEGIA = {"rss": p_rss, "gov_br_rss": p_gov_br_rss, "scrape": p_scrape}
+POR_ESTRATEGIA = {"rss": p_rss, "gov_br_rss": p_gov_br_rss, "scrape": p_scrape,
+                   "sitemap": p_sitemap}
 
 
 def coletar_fonte(f):
