@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-08T19:12:01-03:00",
+  "gerado_em": "2026-09-09T12:01:13-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -250,6 +250,508 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "ef7643030560bff9",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Revista do TRT-2 recebe artigos até 14 de setembro",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/revista-do-trt-2-recebe-artigos-ate-14-de-setembro-1",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-08-12T15:14:18-03:00"
+    },
+    {
+      "id": "55384a548440b349",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Empresa é condenada por assédio sexual e deve pagar multa por negar conhecimento dos episódios",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/empresa-e-condenada-por-assedio-sexual-e-deve-pagar-multa-por-negar-conhecimento-dos-episodios",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "condenada",
+        "multa"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "b29cfbd8ca6e3754",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 e PRF-3 firmam acordo para ampliar conciliação em processos contra autarquias e fundações federais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-e-prf3-firmam-acordo-para-ampliar-conciliacao-em-processos-contra-autarquias-e-fundacoes-federais",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "14dd6303acc4eb58",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "CGJ disponibiliza formulário para pedido de gratuidade de documentos em cartórios de Registro Civil",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115260&pagina=1",
+      "resumo": "Acesso pelo Portal do Extrajudicial.\n \n\tO Tribunal de Justiça de São Paulo, por meio da Corregedoria-Geral da Justiça (CGJ), disponibiliza, no Portal do Extrajudicial, modelo",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "45c235b17b83b90c",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Lei que determina utilização de QR Code para transparência em obras municipais é constitucional, decide OE",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115250&pagina=1",
+      "resumo": "Efetivação da publicidade dos atos administrativos.\n \n\tO Órgão Especial do Tribunal de Justiça de São Paulo declarou constitucional a Lei Municipal nº 1.674/25, de Jacupiranga,",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decide",
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "be4aa2e40c7b9ff3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fundo Eleitoral reduz desigualdade entre partidos, mas diferenças internas persistem",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/09/fundo-eleitoral-reduz-desigualdade-entre-partidos-mas-diferencas-internas-persistem",
+      "resumo": "",
+      "publicado_em": "2026-09-09T10:58:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "83b97f2f1ccd8573",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sem aprovação pelo Congresso, cinco medidas provisórias perdem validade",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/sem-aprovacao-pelo-congresso-cinco-medidas-provisorias-perdem-validade",
+      "resumo": "",
+      "publicado_em": "2026-09-09T10:16:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "medidas provisorias",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "e16cc3a67dd4e2a6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Publicada MP com crédito extraordinário para a agricultura familiar",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/09/publicada-mp-com-credito-extraordinario-para-a-agricultura-familiar",
+      "resumo": "",
+      "publicado_em": "2026-09-09T10:01:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "8a2c864a64df3039",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "MP libera R$ 6,6 bilhões para subsídios a combustíveis",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/09/mp-libera-r-6-6-bilhoes-para-subsidios-a-combustiveis",
+      "resumo": "",
+      "publicado_em": "2026-09-09T09:33:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "78096fc8b69f9702",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso promulga lei que reduz filas para a concessão de benefícios do INSS",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/congresso-promulga-lei-para-reduzir-filas-para-a-concessao-de-beneficios-do-inss",
+      "resumo": "",
+      "publicado_em": "2026-09-09T09:08:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "2b044a8190e39f0b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Acesso ao Fundo Partidário depende de desempenho em eleição anterior",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/acesso-ao-fundo-partidario-depende-de-desempenho-em-eleicao-anterior",
+      "resumo": "",
+      "publicado_em": "2026-09-09T08:47:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "86dff1b3681d3291",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal lança novos indicadores mensais e regionais no Painel Receita",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-lanca-novos-indicadores-mensais-e-regionais-no-painel-receita",
+      "resumo": "",
+      "publicado_em": "2026-09-09T10:13:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "05286962638821cd",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "DeRE - Receita Federal publica versão 1.2.0 da documentação técnica da DeRE",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/dere-receita-federal-publica-versao-1-2-0-da-documentacao-tecnica-da-dere",
+      "resumo": "",
+      "publicado_em": "2026-09-09T09:51:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "80d067192dac3f5c",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP lança edital para fortalecer gestão de pesquisas e dados sobre políticas de drogas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-lanca-edital-para-fortalecer-gestao-de-pesquisas-e-dados-sobre-politicas-de-drogas",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 20,
+      "tags": [
+        "droga"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "3051f435ebde6fc9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Após consulta ao público, MEC prepara atualização de cursos técnicos profissionalizantes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/consulta-para-novo-catalogo-de-cursos-tecnicos-recebe-mais-de-2-mil-contribuicoes",
+      "resumo": "",
+      "publicado_em": "2026-09-09T10:19:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "3a6df39a24746f30",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Hoje é o último dia para participar da consulta pública sobre autorização de bets",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/spa-encerra-nesta-quarta-feira-09-09-consulta-publica-sobre-autorizacao-de-bets",
+      "resumo": "",
+      "publicado_em": "2026-09-09T09:12:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "24e751caa37a09c7",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "SPA encerra nesta quarta-feira (09/09) consulta pública sobre autorização de bets",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/spa-encerra-nesta-quarta-feira-09-09-consulta-publica-sobre-autorizacao-de-bets",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "a9e14b08305a027a",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM publica Relatório da Atividade Sancionadora do 2º trimestre de 2026",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-publica-relatorio-da-atividade-sancionadora-do-2o-trimestre-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "c559ec1e7ff27e26",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE/PR valida registro de candidatura de Deltan Dallagnol ao Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122076/tre-pr-valida-registro-de-candidatura-de-deltan-dallagnol-ao-senado",
+      "resumo": "Decisão foi tomada por quatro votos favoráveis e três contrários; PT anunciou que irá recorrer.",
+      "publicado_em": "2026-09-09T11:03:59-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "5d93b9345633a9db",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em meio à crise, Fachin cancela sessão do plenário do STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122075/em-meio-a-crise-fachin-cancela-sessao-do-plenario-do-stf",
+      "resumo": "Sessão estava marcada para as 14h desta quarta-feira. Cancelamento ocorre após novos embates envolvendo ministros e o comando da PF.",
+      "publicado_em": "2026-09-09T10:53:41-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "f61514af92a517c0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE/CE manda Ciro retirar acusação de \"quadrilha\" contra Elmano",
+      "link": "https://www.congressoemfoco.com.br/noticia/122073/tre-ce-manda-ciro-retirar-acusacao-de-quadrilha-contra-elmano",
+      "resumo": "Tribunal deu 24 horas para retirada do trecho e preservou críticas sobre obra metroviária.",
+      "publicado_em": "2026-09-09T10:50:48-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "21c7579db7d9f305",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Meio/Ideia: Lula e Flávio Bolsonaro empatam nos dois turnos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122072/meio-ideia-lula-e-flavio-bolsonaro-empatam-nos-dois-turnos",
+      "resumo": "No primeiro turno estimulado, Lula tem 38,4% e Flávio, 37,3%; no segundo, ambos marcam 46%. Os dois também estão tecnicamente empatados na rejeição",
+      "publicado_em": "2026-09-09T10:07:55-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "2b9814aba5570cef",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino questiona se Mendonça é \"juiz de si\" e cita encontro com Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122070/dino-questiona-se-mendonca-e-juiz-de-si-e-cita-encontro-com-vorcaro",
+      "resumo": "Ao reintegrar Andrei Rodrigues e Leandro Almada à PF, Flávio Dino faz críticas à atuação de André Mendonça, fala em decisão \"em causa própria\" e cita reunião do ministro com ex-controlador do Master.",
+      "publicado_em": "2026-09-09T09:19:02-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "23a004abf23a01ae",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Celina Leão aparece à frente em todos os cenários para o governo do DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122069/celina-leao-aparece-a-frente-em-todos-os-cenarios-para-o-governo-do-df",
+      "resumo": "Real Time Big Data ouviu 1.600 eleitores e aponta vantagem de Celina sobre os principais adversários.",
+      "publicado_em": "2026-09-09T09:17:28-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "0b56b0000745649d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF investiga pressão eleitoral contra servidores públicos em Roraima",
+      "link": "https://www.congressoemfoco.com.br/noticia/122068/pf-investiga-pressao-eleitoral-contra-servidores-publicos-em-roraima",
+      "resumo": "Investigação também mira possível oferta de benefícios em troca de apoio a uma candidatura.",
+      "publicado_em": "2026-09-09T09:00:35-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "4e0455039ffd2799",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Dino manda reintegrar Andrei e Leandro Almada à direção da PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122067/flavio-dino-manda-reintegrar-andrei-e-leandro-almada-a-direcao-da-pf",
+      "resumo": "Decisão de Flávio Dino derruba ato de André Mendonça, reintegra o diretor-geral Andrei Rodrigues e o diretor de Inteligência Leandro Almada e remete a controvérsia ao Plenário do STF.",
+      "publicado_em": "2026-09-09T08:58:11-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "30482e943dd5b146",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Manifesto de empresários à crise no STF reúne de Huck a Armínio Fraga",
+      "link": "https://www.congressoemfoco.com.br/noticia/122064/manifesto-de-empresarios-a-crise-no-stf-reune-de-huck-a-arminio-fraga",
+      "resumo": "Documento assinado por mais de 150 empresários, economistas, acadêmicos e representantes da sociedade civil pede apuração independente, afastamento cautelar de investigados e código de conduta para cortes superiores.",
+      "publicado_em": "2026-09-09T07:59:15-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "88e63d357e9990b4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB/DF abre processo disciplinar contra escritório da esposa de Moraes",
+      "link": "https://www.congressoemfoco.com.br/noticia/122063/oab-df-abre-processo-disciplinar-contra-escritorio-da-esposa-de-moraes",
+      "resumo": "Apuração foi aberta com base em fatos citados em relatório da PF sobre o Banco Master; entidade afirma que medida não antecipa culpa.",
+      "publicado_em": "2026-09-09T07:54:01-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "processo",
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "b8d4fd8269361f13",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Manifesto com quase 3 mil entidades empresariais cobra reação do STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122062/manifesto-com-quase-3-mil-entidades-empresariais-cobra-reacao-do-stf",
+      "resumo": "Abaixo-assinado pede que o Plenário examine os fatos em sessão pública e decida com urgência, sem \"subterfúgios\" nem \"corporativismo\".",
+      "publicado_em": "2026-09-09T07:21:58-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "1a8b413ce224b0b0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova inclusão de povos indígenas e comunidades tradicionais na agricultura familiar",
+      "link": "https://www.camara.leg.br/noticias/1303188-comissao-aprova-inclusao-de-povos-indigenas-e-comunidades-tradicionais-na-agricultura-familiar",
+      "resumo": "",
+      "publicado_em": "2026-09-09T09:35:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "adi",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "ecb7f28f7aff8ae3",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova destinação de recursos públicos para combate a crimes financeiros virtuais",
+      "link": "https://www.camara.leg.br/noticias/1302915-comissao-aprova-destinacao-de-recursos-publicos-para-combate-a-crimes-financeiros-virtuais",
+      "resumo": "",
+      "publicado_em": "2026-09-09T09:08:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "aprova",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "8f96cda8723a4fd9",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD abre inscrições para audiência e inicia consulta pública para atualização de Regulamento de Fiscalização",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-abre-audiencia-consulta-atualizacao-regulamento-fiscalizacao",
+      "resumo": "As contribuições podem ser enviadas até 26/10, enquanto as inscrições para a audiência virtual do dia 24/09 podem ser feitas até 18/09",
+      "publicado_em": "2026-09-09T08:17:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
     {
       "id": "8e34b9259e5271d5",
       "fonte_id": "tst",
@@ -487,6 +989,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "6486984f410314a8",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "CESTF faz primeira reunião de grupo de estudos sobre limites e restrições a direitos fundamentais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cestf-faz-primeira-reuniao-de-grupo-de-estudos-sobre-limites-e-restricoes-a-direitos-fundamentais/",
+      "resumo": "Primeiro encontro foi dedicado à estruturação das atividades do grupo e à delimitação dos principais eixos de investigação",
+      "publicado_em": "2026-09-08T19:22:35-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
     },
     {
       "id": "ffc9b42c6d3c3984",
@@ -913,6 +1431,23 @@ window.DADOS = {
       "coletado_em": "2026-09-08T11:12:24-03:00"
     },
     {
+      "id": "448bc8c8d7329ba4",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal inicia processo de contratação de instituição para executar concurso público",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-inicia-processo-de-contratacao-de-instituicao-para-executar-concurso-publico",
+      "resumo": "",
+      "publicado_em": "2026-09-08T19:30:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
       "id": "eb9dce39d2208a0a",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -1033,6 +1568,36 @@ window.DADOS = {
         "apreende"
       ],
       "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "38f7a7b82afdefd0",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Anvisa autoriza ampliação de uso de vacina contra meningite",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/anvisa-autoriza-ampliacao-de-uso-de-vacina-contra-meningite",
+      "resumo": "",
+      "publicado_em": "2026-09-08T21:38:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "d8ea3d0666fea3aa",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PodMEC debate Enare, Enamed e novo cenário da saúde no País",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/podmec-debate-enare-enamed-e-novo-cenario-da-saude-no-pais",
+      "resumo": "",
+      "publicado_em": "2026-09-08T18:55:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
     },
     {
       "id": "b6ff32d1d6f2bcbc",
@@ -1198,6 +1763,34 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "10049afab42e4521",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AGU aciona Fachin e pede suspensão do afastamento de Andrei Rodrigues",
+      "link": "https://www.congressoemfoco.com.br/noticia/122061/agu-aciona-fachin-e-pede-suspensao-do-afastamento-de-andrei-rodrigues",
+      "resumo": "União afirma que afastamento da cúpula da PF pode causar grave lesão à ordem pública e administrativa e cita interrupção de atividades.",
+      "publicado_em": "2026-09-08T19:23:18-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "d7c6c475b3d04fe9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"O Poder Judiciário está à altura dos desafios\", diz Edson Fachin",
+      "link": "https://www.congressoemfoco.com.br/noticia/122060/o-poder-judiciario-esta-a-altura-dos-desafios--diz-edson-fachin",
+      "resumo": "Ministro afirma que Justiça não faltará aos deveres constitucionais enquanto STF enfrenta disputa interna envolvendo o caso Master.",
+      "publicado_em": "2026-09-08T18:53:58-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
     },
     {
       "id": "a21d50cfe1d50b0f",
@@ -1829,6 +2422,50 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-08T19:12:01-03:00"
+    },
+    {
+      "id": "c16ac128785288b2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ busca solução consensual para sobreposição de territórios em Oriximiná (PA)",
+      "link": "https://www.cnj.jus.br/cnj-busca-solucao-consensual-para-sobreposicao-de-territorios-em-oriximina-pa/",
+      "resumo": "Representantes do Conselho Nacional de Justiça (CNJ) farão, nesta semana, visita técnica a Oriximiná (PA) e à Aldeia Kaspakuru, localizada no município. A visita está sendo conduzida pela Comissão Nacional de Soluções Fundiárias do CNJ e vai acontecer nos dias 10 e 11/09. Trata-se da segunda missão ",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "bfe3315057b08238",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Ministro Fachin apresenta prioridades da Justiça no âmbito das corregedorias",
+      "link": "https://www.cnj.jus.br/ministro-fachin-apresenta-prioridades-da-justica-no-ambito-das-corregedorias/",
+      "resumo": "O diálogo entre os tribunais é essencial para responder aos desafios contemporâneos da Justiça brasileira, e a construção de pontes entre o conhecimento e as boas práticas possibilita o aperfeiçoamento da Justiça, segundo o presidente do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin. Ele",
+      "publicado_em": "2026-09-08T12:00:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "972b3881e57d9c6d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei cria fundo para promover acesso à Justiça gratuita",
+      "link": "https://www.camara.leg.br/noticias/1303131-nova-lei-cria-fundo-para-promover-acesso-a-justica-gratuita",
+      "resumo": "",
+      "publicado_em": "2026-09-08T19:33:00-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T12:01:13-03:00"
     },
     {
       "id": "f17e25a9afe785ef",
@@ -37682,20 +38319,6 @@ window.DADOS = {
       "coletado_em": "2026-08-12T15:14:18-03:00"
     },
     {
-      "id": "ef7643030560bff9",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Revista do TRT-2 recebe artigos até 14 de setembro",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/revista-do-trt-2-recebe-artigos-ate-14-de-setembro-1",
-      "resumo": "",
-      "publicado_em": "2026-08-11T12:00:00-03:00",
-      "dia": "2026-08-11",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-12T15:14:18-03:00"
-    },
-    {
       "id": "9ca0ad55712e3237",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -41731,69 +42354,6 @@ window.DADOS = {
       "resumo": "Diretora Izabela Correa destacou educação financeira como elemento central para ampliar a autonomia da população brasileira. Banco Central tem reforçado a atuação em educação financeira, com avanço do programa Aprender Valor e expansão para o ensino médio.  Encontro de Educação Financeira debateu de",
       "publicado_em": "2026-06-12T17:41:09-03:00",
       "dia": "2026-06-12",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "23febde5a0fbe9d6",
-      "fonte_id": "coaf",
-      "fonte_nome": "Coaf",
-      "titulo": "Coaf presente na Oficina sobre Regulamentação e Identificação de Minérios",
-      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-presente-na-oficina-sobre-regulamentacao-e-identificacao-de-minerios-1",
-      "resumo": "",
-      "publicado_em": "2026-06-10T16:05:59-03:00",
-      "dia": "2026-06-10",
-      "data_estimada": false,
-      "score": 60,
-      "tags": [
-        "regulamenta",
-        "acao"
-      ],
-      "coletado_em": "2026-09-08T11:32:33-03:00"
-    },
-    {
-      "id": "7b5d5cec76d635ad",
-      "fonte_id": "coaf",
-      "fonte_nome": "Coaf",
-      "titulo": "Coaf participa de oficina sobre Supervisão com Enfoque Baseado em Riscos para APNFD na Colômbia",
-      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-participa-de-oficina-sobre-supervisao-com-enfoque-baseado-em-riscos-para-apnfd-na-colombia",
-      "resumo": "",
-      "publicado_em": "2026-06-10T16:01:00-03:00",
-      "dia": "2026-06-10",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-08T11:32:33-03:00"
-    },
-    {
-      "id": "2349fe8edf229df2",
-      "fonte_id": "coaf",
-      "fonte_nome": "Coaf",
-      "titulo": "Coaf convida para participação no Fórum Siscoaf",
-      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-convida-para-participacao-no-forum-siscoaf-1",
-      "resumo": "",
-      "publicado_em": "2026-06-10T15:32:14-03:00",
-      "dia": "2026-06-10",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-09-08T11:32:33-03:00"
-    },
-    {
-      "id": "ed5f7ce993a02074",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "ANPD inicia monitoramento da adequação de lojas de aplicativos e sistemas operacionais ao ECA Digital",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/copy_of_anpd-monitoramento-lojas-de-aplicativos-sistemas-operacionais",
-      "resumo": "Objetivo é acompanhar a implementação das obrigações relacionadas à aferição de idade e à disponibilização de sinais de idade previstas no ECA Digital",
-      "publicado_em": "2026-06-10T15:00:00-03:00",
-      "dia": "2026-06-10",
       "data_estimada": false,
       "score": 46,
       "tags": [
