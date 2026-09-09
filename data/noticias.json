@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-09T16:04:03-03:00",
+  "gerado_em": "2026-09-09T19:07:06-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -317,6 +317,40 @@
       "coletado_em": "2026-09-09T14:23:55-03:00"
     },
     {
+      "id": "a1657e9a00694a60",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Presidência recebe visita do Sindiquinze e Assojaf-15 para discutir provimento de 44 cargos",
+      "link": "https://trt15.jus.br/noticia/2026/presidencia-recebe-visita-do-sindiquinze-e-assojaf-15-para-discutir-provimento-de-44",
+      "resumo": "Presidência recebe visita do Sindiquinze e Assojaf-15 para discutir provimento de 44 cargos marianaaassuncao Qua, 09/09/2026 - 17:04 Presidência recebe visita do Sindiquinze e Assojaf-15 para discutir provimento de 44 cargos Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Re",
+      "publicado_em": "2026-09-09T17:04:12-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "0fcecf16afeb24dd",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Seminário na EJud-15 debate a aplicação e os impactos do sistema de precedentes na Justiça do Trabalho",
+      "link": "https://trt15.jus.br/noticia/2026/seminario-na-ejud-15-debate-aplicacao-e-os-impactos-do-sistema-de-precedentes-na",
+      "resumo": "Seminário na EJud-15 debate a aplicação e os impactos do sistema de precedentes na Justiça do Trabalho marianaaassuncao Qua, 09/09/2026 - 16:53 Seminário na EJud-15 debate a aplicação e os impactos do sistema de precedentes na Justiça do Trabalho Conteúdo da Notícia O Centro de Inteligência, o Núcle",
+      "publicado_em": "2026-09-09T16:53:56-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "precedente",
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
       "id": "228073fd3bff79ad",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -397,6 +431,71 @@
         "acao"
       ],
       "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
+      "id": "c63a97fb5fb55447",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Palestra do GMF debate redução da maioridade penal",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115263&pagina=1",
+      "resumo": "Apresentação do advogado Ariel de Castro Alves.\n \n\tO Grupo de Monitoramento e Fiscalização do Sistema Carcerário (GMF), em parceria com a Escola Judicial dos Servidores",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "judicial",
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "b7fc15abe1a6cb6e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF rejeita ação contra perícias do INSS por telemedicina e análise documental",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-acao-contra-pericias-do-inss-por-telemedicina-e-analise-documental/",
+      "resumo": "Entendimento foi de que a falta de questionamento de todas as normas sobre o tema inviabiliza a análise da ação",
+      "publicado_em": "2026-09-09T17:52:55-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "71bdceeafe497f16",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Nota à Imprensa",
+      "link": "https://noticias.stf.jus.br/postsnoticias/nota-a-imprensa-46/",
+      "resumo": "Presidente do STF, ministro Edson Fachin, tomou decisões em três diferentes procedimentos",
+      "publicado_em": "2026-09-09T17:27:15-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "151c7c642353eaa7",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF mantém subordinação administrativa de consultorias jurídicas da AGU a ministérios",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-subordinacao-administrativa-de-consultorias-juridicas-da-agu-a-ministerios/",
+      "resumo": "Por unanimidade, Plenário entendeu que vínculo se limita à gestão interna e não interfere na direção jurídica, exercida pelo advogado-geral da União",
+      "publicado_em": "2026-09-09T16:57:09-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
     },
     {
       "id": "62d112fd15263d24",
@@ -621,6 +720,52 @@
       "coletado_em": "2026-09-09T12:01:13-03:00"
     },
     {
+      "id": "d1c5835c59ca8fb1",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Nota à imprensa",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nota-a-imprensa",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "4bfab1c44f5981c5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Faltam 60 dias para a aplicação da prova do Exame Nacional do Ensino Médio",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/faltam-60-dias-para-a-aplicacao-da-prova-1",
+      "resumo": "",
+      "publicado_em": "2026-09-09T17:02:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "0a9ebcb2cec8b14f",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil e Canadá ampliam diálogo institucional na área de mineração",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/brasil-e-canada-ampliam-dialogo-institucional-na-area-de-mineracao",
+      "resumo": "",
+      "publicado_em": "2026-09-09T16:26:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
       "id": "f574b332ae3b1092",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -635,6 +780,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
+      "id": "27447802737ed94c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Força Nacional do SUS recebe base no Rio para enfrentar emergências climáticas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/forca-nacional-do-sus-recebe-base-no-rio-de-janeiro-para-enfrentar-emergencias-climaticas",
+      "resumo": "",
+      "publicado_em": "2026-09-09T15:11:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
     },
     {
       "id": "3be17068ef2cdb78",
@@ -805,6 +964,20 @@
       "coletado_em": "2026-09-09T16:04:03-03:00"
     },
     {
+      "id": "9bd4c55bdecda4e1",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Governo Federal adota novas medidas para combustíveis após novos aumentos do petróleo",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-federal-adota-novas-medidas-para-combustiveis-apos-novos-aumentos-do-petroleo",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
       "id": "a9e14b08305a027a",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -817,6 +990,174 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "01c1c5fc81edcb75",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Colegiado da CVM aceita proposta de Termo de Compromisso com administrador da Plano & Plano Desenvolvimento Imobiliário S.A.",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-aceita-proposta-de-termo-de-compromisso-com-administrador-da-plano-plano-desenvolvimento-imobiliario-s-a",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "dcf2411260a5e4e8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Edson Fachin classifica crise como \"grave lesão\" à integridade do STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122105/edson-fachin-classifica-crise-como-grave-lesao-a-integridade-do-stf",
+      "resumo": "Ministro suspendeu decisões de Mendonça e Dino, além de retirar inquérito das fake news de Moraes.",
+      "publicado_em": "2026-09-09T18:01:09-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "a813b7951173c41f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin marca sessão no dia 15 sobre investigações contra ministros",
+      "link": "https://www.congressoemfoco.com.br/noticia/122104/fachin-marca-sessao-no-dia-15-sobre-investigacoes-contra-ministros",
+      "resumo": "Sessão extraordinária analisará pedido da PGR contra relatório produzido no inquérito conduzido por André Mendonça.",
+      "publicado_em": "2026-09-09T17:25:16-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "3474703a1f1e2188",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Edson Fachin tira Moraes da relatoria do inquérito das fake news",
+      "link": "https://www.congressoemfoco.com.br/noticia/122103/edson-fachin-tira-moraes-da-relatoria-do-inquerito-das-fake-news",
+      "resumo": "Inquérito foi instalado para investigar ameaças, notícias fraudulentas e ataques contra integrantes da Corte; apuração será conduzida pelo próprio presidente do STF.",
+      "publicado_em": "2026-09-09T17:23:55-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "015726494970d098",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ronaldo Caiado pede levantamento de sigilo nos casos Master e INSS",
+      "link": "https://www.congressoemfoco.com.br/noticia/122102/ronaldo-caiado-pede-levantamento-de-sigilo-nos-casos-master-e-inss",
+      "resumo": "Presidenciável defende divulgação de material colhido pela PF para que eleitores possam decidir sobre seus candidatos.",
+      "publicado_em": "2026-09-09T17:12:36-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "1cc155a93fc81f6d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin suspende liminares e afastamento de Andrei vai a Plenário",
+      "link": "https://www.congressoemfoco.com.br/noticia/122101/fachin-suspende-liminares-e-afastamento-de-andrei-vai-a-plenario",
+      "resumo": "Decisões de André Mendonça e Flávio Dino perdem efeito; presidente do STF afirma existir um quadro de \"conflitos e sobreposições processuais\".",
+      "publicado_em": "2026-09-09T17:12:27-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "liminar"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "04f2e12b24d34690",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Avança projeto que prevê defesa a policiais processados em serviço",
+      "link": "https://www.congressoemfoco.com.br/noticia/122100/avanca-projeto-que-preve-defesa-a-policiais-processados-em-servico",
+      "resumo": "Assistência gratuita será destinada a agentes que respondam a processos relacionados a atos praticados no exercício da função.",
+      "publicado_em": "2026-09-09T16:39:58-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "9ecba58b593721ad",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Novo tenta reverter decisão de Dino sobre recondução de Andrei",
+      "link": "https://www.congressoemfoco.com.br/noticia/122099/novo-tenta-reverter-decisao-de-dino-sobre-reconducao-de-andrei",
+      "resumo": "Partido contesta recondução de Andrei, prepara pedido de impeachment contra Dino e cobra providências de Edson Fachin.",
+      "publicado_em": "2026-09-09T16:39:21-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "f67f6221109bc10b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "André Mendonça manda soltar filho do Careca do INSS com tornozeleira",
+      "link": "https://www.congressoemfoco.com.br/noticia/122098/andre-mendonca-manda-soltar-filho-do-careca-do-inss-com-tornozeleira",
+      "resumo": "Decisão substitui prisão preventiva por medidas cautelares.",
+      "publicado_em": "2026-09-09T16:18:40-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "98385f1265b90dbb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Janja cobra investigação contra Flávio e questiona sigilo do Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122097/janja-cobra-investigacao-contra-flavio-e-questiona-sigilo-do-master",
+      "resumo": "Primeira-dama utiliza declarações de Haddad para pedir explicações sobre repasses ao Dark Horse.",
+      "publicado_em": "2026-09-09T16:07:51-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "6f592e9865eebc4a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Um dia para valorizar o que construímos juntos até aqui",
+      "link": "https://www.congressoemfoco.com.br/artigo/122095/um-dia-para-valorizar-o-que-construimos-juntos-ate-aqui",
+      "resumo": "O Brasil só mudará de verdade pela nossa capacidade de seguir juntos.",
+      "publicado_em": "2026-09-09T15:19:28-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
     },
     {
       "id": "17471055c75185eb",
@@ -852,6 +1193,23 @@
       "coletado_em": "2026-09-09T16:04:03-03:00"
     },
     {
+      "id": "48eee741a46774f7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Por que precisamos de candidatas de direita",
+      "link": "https://www.congressoemfoco.com.br/artigo/122092/por-que-precisamos-de-candidatas-de-direita",
+      "resumo": "O Brasil e o mundo vivem uma escalada de radicalização política entre mulheres jovens, não um simples deslocamento à esquerda. Precisamos reagir a essa tendência.",
+      "publicado_em": "2026-09-09T14:58:06-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
       "id": "15e362f05098e870",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -880,6 +1238,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
+      "id": "9791db51eb32e560",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB recorre ao governo por melhorias no acesso aos sistemas do INSS",
+      "link": "https://www.congressoemfoco.com.br/noticia/122089/oab-recorre-ao-governo-por-melhorias-no-acesso-aos-sistemas-do-inss",
+      "resumo": "Entidade levou ao Ministério da Previdência demandas relacionadas ao acesso aos sistemas do INSS, retomada de canais especializados e dificuldades com a senha Gov.br.",
+      "publicado_em": "2026-09-09T14:07:47-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "oab"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
     },
     {
       "id": "20c7d2158aab5e7d",
@@ -956,6 +1330,36 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "b3e25d2e74636fa3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Decisão de Dino que reintegrou diretor da PF repercute entre políticos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122082/decisao-de-dino-que-reintegrou-diretor-da-pf-repercute-entre-politicos",
+      "resumo": "Enquanto parte dos políticos defendeu os fundamentos apresentados pelo ministro, críticos acusaram o ministro de avançar sobre atribuições de outros Poderes.",
+      "publicado_em": "2026-09-09T12:56:59-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "2e7c8d90ff582fa4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto impede menores de 14 anos de manter contas em redes sociais",
+      "link": "https://www.congressoemfoco.com.br/noticia/122081/projeto-impede-menores-de-14-anos-de-manter-contas-em-redes-sociais",
+      "resumo": "Plataformas terão de verificar a idade dos usuários e suspender contas de menores de 14 anos, inclusive as já existentes.",
+      "publicado_em": "2026-09-09T12:40:14-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
     },
     {
       "id": "a8234c03eb102ee7",
@@ -1179,6 +1583,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "db50effdc4eba811",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pacto contra o Feminicídio amplia proteção e reduz tempo de análise de medidas protetivas",
+      "link": "https://www.cnj.jus.br/pacto-contra-o-feminicidio-amplia-protecao-e-reduz-tempo-de-analise-de-medidas-protetivas/",
+      "resumo": "Mais de 54% das 650 mil medidas protetivas de urgência concedidas a mulheres vítimas de violência foram analisadas e deferidas pelo Poder Judiciário no mesmo dia da solicitação. O tempo médio nacional de apreciação dos pedidos também caiu pela metade: de quatro para até dois dias. Os resultados faze",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T19:07:06-03:00"
     },
     {
       "id": "3c0c9afd699941b3",
@@ -2971,7 +3391,7 @@
       "fonte_nome": "CNJ",
       "titulo": "CNJ busca solução consensual para sobreposição de territórios em Oriximiná (PA)",
       "link": "https://www.cnj.jus.br/cnj-busca-solucao-consensual-para-sobreposicao-de-territorios-em-oriximina-pa/",
-      "resumo": "Representantes do Conselho Nacional de Justiça (CNJ) farão, nesta semana, visita técnica a Oriximiná (PA) e à Aldeia Kaspakuru, localizada no município. A visita está sendo conduzida pela Comissão Nacional de Soluções Fundiárias do CNJ e vai acontecer nos dias 10 e 11/09. Trata-se da segunda missão ",
+      "resumo": "Representantes do Conselho Nacional de Justiça (CNJ) farão, nesta semana, visita técnica a Oriximiná (PA) e à Aldeia Kaspakuru, localizada no município. A visita está sendo conduzida pela Comissão Nacional de Soluções Fundiárias do CNJ e vai acontecer nos dias 10 e 11/9. Trata-se da segunda missão à",
       "publicado_em": "2026-09-08T12:00:00-03:00",
       "dia": "2026-09-08",
       "data_estimada": true,
