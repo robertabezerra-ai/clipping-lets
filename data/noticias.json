@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-09T14:23:55-03:00",
+  "gerado_em": "2026-09-09T16:04:03-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -233,7 +233,7 @@
     {
       "id": "carf",
       "status": "ok",
-      "itens": 3,
+      "itens": 4,
       "erro": null
     },
     {
@@ -382,6 +382,39 @@
       "coletado_em": "2026-09-09T14:23:55-03:00"
     },
     {
+      "id": "2f6e5be845e60422",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Justiça autoriza medidas em operação que apura fraude em licitação bilionária em Bauru",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115264&pagina=1",
+      "resumo": "Decisão da Vara Regional das Garantias da 3ª RAJ.\n \n\tA Vara Regional das Garantias da 3ª Região Administrativa Judiciária (RAJ) – Bauru autorizou medidas cautelares",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
+      "id": "62d112fd15263d24",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Grupo de estudos do STF inicia análise de propostas para modernização do sistema de Justiça",
+      "link": "https://noticias.stf.jus.br/postsnoticias/grupo-de-estudos-do-stf-inicia-analise-de-propostas-para-modernizacao-do-sistema-de-justica/",
+      "resumo": "Nova etapa dos trabalhos coordenados pelo CESTF começa após consulta pública que recebeu contribuições de instituições de todo o país",
+      "publicado_em": "2026-09-09T14:53:16-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
       "id": "f36588be4754f553",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -396,6 +429,20 @@
         "decisao"
       ],
       "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "83480a7cef84faef",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Entenda como são feitas as pesquisas eleitorais",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/entenda-como-sao-feitas-as-pesquisas-eleitorais",
+      "resumo": "",
+      "publicado_em": "2026-09-09T14:34:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
     },
     {
       "id": "83942701c8ccab17",
@@ -574,6 +621,54 @@
       "coletado_em": "2026-09-09T12:01:13-03:00"
     },
     {
+      "id": "f574b332ae3b1092",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Reduc faz 65 anos pronta para produzir biocombustível de aviação e diesel renovável",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/reduc-completa-65-anos-com-certificacao-internacional-para-producao-de-combustivel-sustentavel-de-aviacao",
+      "resumo": "",
+      "publicado_em": "2026-09-09T15:30:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
+      "id": "3be17068ef2cdb78",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Saiba como funciona a instalação de fibra óptica em rios amazônicos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/entenda-como-funciona-a-instalacao-de-fibra-optica-em-rios-amazonicos",
+      "resumo": "",
+      "publicado_em": "2026-09-09T14:49:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
+      "id": "b42d5e638a804351",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Sala de Concerto, da Rádio MEC, apresenta ópera “Vênus e Adônis”",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/sala-de-concerto-da-radio-mec-apresenta-opera-201cvenus-e-adonis201d",
+      "resumo": "",
+      "publicado_em": "2026-09-09T13:25:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
       "id": "522c3dcdb123402c",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -678,6 +773,38 @@
       "coletado_em": "2026-09-09T14:23:55-03:00"
     },
     {
+      "id": "303d93b576a6b6c1",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal publica versão 1.2.0 da documentação técnica da Declaração de Regimes Específicos, DeRE",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-publica-versao-1-2-0-da-documentacao-tecnica-da-declaracao-de-regimes-especificos-dere",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
+      "id": "63517d680a79ce34",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal é autorizada a fazer concurso público e inicia processo para contratar instituição organizadora",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-e-autorizada-a-fazer-concurso-publico-e-inicia-processo-para-contratar-instituicao-organizador",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
       "id": "a9e14b08305a027a",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -690,6 +817,69 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "17471055c75185eb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O Tribunal que virou parte",
+      "link": "https://www.congressoemfoco.com.br/artigo/122094/o-tribunal-que-virou-parte",
+      "resumo": "A crise entre Alexandre de Moraes e André Mendonça não é um duelo entre dois ministros. É o retrato de um país que aprendeu a transformar toda divergência em guerra de posições — inclusive dentro da instituição criada exatamente para impedir isso.",
+      "publicado_em": "2026-09-09T15:12:56-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
+      "id": "4aa78946457d0892",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Partido Verde aciona STF por regras do imposto de Estados e municípios",
+      "link": "https://www.congressoemfoco.com.br/noticia/122093/partido-verde-aciona-stf-por-regras-do-imposto-de-estados-e-municipios",
+      "resumo": "Legenda diz que regulamentação ultrapassou limites definidos pela reforma tributária.",
+      "publicado_em": "2026-09-09T15:01:54-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 88,
+      "tags": [
+        "regulamenta",
+        "reforma tributaria",
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
+      "id": "15e362f05098e870",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Até onde ele irá?",
+      "link": "https://www.congressoemfoco.com.br/artigo/122091/ate-onde-ele-ira",
+      "resumo": "O controle jurisdicional é indispensável à democracia, porém a tutela judicial não pode converter-se em tutela política sobre a Polícia Federal.",
+      "publicado_em": "2026-09-09T14:48:32-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
+      "id": "ec08278d0f6f803a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AGU cobra Google por vídeos de falsos médicos gerados por IA",
+      "link": "https://www.congressoemfoco.com.br/noticia/122090/agu-cobra-google-por-videos-de-falsos-medicos-gerados-por-ia",
+      "resumo": "Parte dos vídeos mirava idosos e usava falsa autoridade médica para promover produtos e serviços pagos.",
+      "publicado_em": "2026-09-09T14:16:48-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
     },
     {
       "id": "20c7d2158aab5e7d",
@@ -722,6 +912,22 @@
         "oab"
       ],
       "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "1ac822768006f837",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino manda governo e Congresso criar identificador para emendas",
+      "link": "https://www.congressoemfoco.com.br/noticia/122086/dino-manda-governo-e-congresso-propor-identificador-para-emendas",
+      "resumo": "Executivo e Legislativo terão até 30 de novembro para apresentar proposta conjunta que ligue cada indicação ao respectivo empenho.",
+      "publicado_em": "2026-09-09T13:36:19-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
     },
     {
       "id": "38d8c64b7887c432",
@@ -973,6 +1179,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "3c0c9afd699941b3",
+      "fonte_id": "carf",
+      "fonte_nome": "CARF",
+      "titulo": "CARF convoca 2ª Turma da CSRF para analisar cancelamento da Súmula 147",
+      "link": "https://www.gov.br/carf/pt-br/assuntos/novas-noticias/carf-convoca-2a-turma-da-csrf-para-analisar-cancelamento-da-sumula-147",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "sumula"
+      ],
+      "coletado_em": "2026-09-09T16:04:03-03:00"
     },
     {
       "id": "19294446a4609ad9",
@@ -2749,7 +2971,7 @@
       "fonte_nome": "CNJ",
       "titulo": "CNJ busca solução consensual para sobreposição de territórios em Oriximiná (PA)",
       "link": "https://www.cnj.jus.br/cnj-busca-solucao-consensual-para-sobreposicao-de-territorios-em-oriximina-pa/",
-      "resumo": "Representantes do Conselho Nacional de Justiça (CNJ) farão, nesta semana, visita técnica a Oriximiná (PA) e à Aldeia Kaspakuru, localizada no município. A visita está sendo conduzida pela Comissão Nacional de Soluções Fundiárias do CNJ e vai acontecer nos dias 10 e 11/9. Trata-se da segunda missão à",
+      "resumo": "Representantes do Conselho Nacional de Justiça (CNJ) farão, nesta semana, visita técnica a Oriximiná (PA) e à Aldeia Kaspakuru, localizada no município. A visita está sendo conduzida pela Comissão Nacional de Soluções Fundiárias do CNJ e vai acontecer nos dias 10 e 11/09. Trata-se da segunda missão ",
       "publicado_em": "2026-09-08T12:00:00-03:00",
       "dia": "2026-09-08",
       "data_estimada": true,
