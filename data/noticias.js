@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-09T12:01:13-03:00",
+  "gerado_em": "2026-09-09T14:23:55-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -299,6 +299,40 @@ window.DADOS = {
       "coletado_em": "2026-09-09T12:01:13-03:00"
     },
     {
+      "id": "449ff356673e7626",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 sedia encontro da polícia judicial e inaugura exposição comemorativa",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-sedia-encontro-da-policia-judicial-e-inaugura-exposicao-comemorativa",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 16,
+      "tags": [
+        "judicial",
+        "comemora",
+        "exposicao"
+      ],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "228073fd3bff79ad",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "15 juízes tomam posse como titulares de vara do trabalho do TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/15-juizes-tomam-posse-como-titulares-de-vara-do-trabalho-do-trt-15",
+      "resumo": "15 juízes tomam posse como titulares de vara do trabalho do TRT-15 marianaaassuncao Qua, 09/09/2026 - 12:16 15 juízes tomam posse como titulares de vara do trabalho do TRT-15 Conteúdo da Notícia 15 juízes do Tribunal Regional do Trabalho da 15ª Região tomaram posse, nesta terça-feira, 8/9, no cargo ",
+      "publicado_em": "2026-09-09T12:16:22-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
       "id": "14dd6303acc4eb58",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -330,6 +364,80 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "c2995650381b6cbb",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Boas práticas: Justiça de Pacaembu recebe alunos da rede pública de ensino",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115247&pagina=1",
+      "resumo": "Aproximação do Judiciário com a sociedade.\n \n\tO Fórum da Comarca de Pacaembu recebeu, na última quinta-feira (3), alunos do 2º ano do Ensino Médio da",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "f36588be4754f553",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Cancelada a sessão plenária desta quarta-feira (9)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cancelada-a-sessao-plenaria-desta-quarta-feira-9/",
+      "resumo": "Decisão foi tomada pela Presidência do Supremo",
+      "publicado_em": "2026-09-09T12:39:21-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "83942701c8ccab17",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado terá centro cultural em Brasília",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/09/senado-tera-centro-cultural-em-brasilia",
+      "resumo": "",
+      "publicado_em": "2026-09-09T13:31:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "2dab2b8650ef4994",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "TREs já começaram a instalar sistemas para as eleições de outubro",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/tres-ja-comecaram-a-instalar-sistemas-para-as-eleicoes-de-outubro",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:34:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "d2f58edf5479f21e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pessoas com deficiência devem ter direitos plenos nas eleições, aponta debate",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/pessoas-com-deficiencia-devem-ter-direitos-plenos-nas-eleicoes-aponta-debate",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:20:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
     },
     {
       "id": "be4aa2e40c7b9ff3",
@@ -466,6 +574,48 @@ window.DADOS = {
       "coletado_em": "2026-09-09T12:01:13-03:00"
     },
     {
+      "id": "522c3dcdb123402c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Força tarefa resgata 479 trabalhadores de escravidão moderna",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/forca-tarefa-resgata-479-trabalhadores-de-escravidao-moderna",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:27:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "2e380803136b4ef2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Setembro Amarelo: Tarde Nacional Brasília debate prevenção ao burnout no ambiente de trabalho",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/setembro-amarelo-tarde-nacional-brasilia-debate-prevencao-ao-burnout-e-saude-mental-no-ambiente-de-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "d1ba4fb0acc9ed64",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Locais da Prova Nacional Docente já estão disponíveis",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pnd-2026-locais-de-prova-ja-estao-disponiveis",
+      "resumo": "",
+      "publicado_em": "2026-09-09T11:37:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
       "id": "3051f435ebde6fc9",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -514,6 +664,20 @@ window.DADOS = {
       "coletado_em": "2026-09-09T12:01:13-03:00"
     },
     {
+      "id": "46431b22eaea36e1",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal lança indicadores mensais e regionais no Painel Receita",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-lanca-indicadores-mensais-e-regionais-no-painel-receita",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
       "id": "a9e14b08305a027a",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -526,6 +690,98 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "20c7d2158aab5e7d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika formaliza pedido de quebra de sigilos do caso Master ao STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122088/erika-formaliza-pedido-de-quebra-de-sigilos-do-caso-master-ao-stf",
+      "resumo": "Parlamentar cobra tratamento uniforme aos investigados e acesso público aos elementos já produzidos pela Suprema Corte.",
+      "publicado_em": "2026-09-09T14:06:52-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "8cf208937bec131b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB/DF aprova proposta de impeachment de Moraes e Toffoli",
+      "link": "https://www.congressoemfoco.com.br/noticia/122087/oab-df-aprova-proposta-de-impeachment-de-moraes-e-toffoli",
+      "resumo": "Medida aprovada pela seccional do Distrito Federal também prevê investigação dos dois ministros do STF e levantamento de sigilo de apurações envolvendo autoridades. O texto será submetido ao Conselho Federal da OAB.",
+      "publicado_em": "2026-09-09T13:56:20-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "aprova",
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "38d8c64b7887c432",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio usa mesma camiseta e refaz trajeto da facada de Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122085/flavio-usa-mesma-camiseta-e-refaz-trajeto-da-facada-de-bolsonaro",
+      "resumo": "Candidato ao Planalto reproduz percurso do ex-presidente no local do atentado conduzido por Adélio Bispo.",
+      "publicado_em": "2026-09-09T13:27:59-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "74bf4466f87577c7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sessão na Câmara de Bayeux tem briga generalizada e spray de peido",
+      "link": "https://www.congressoemfoco.com.br/noticia/122083/sessao-na-camara-de-bayeux-tem-briga-generalizada-e-spray-de-peido",
+      "resumo": "Encontro foi marcado por sucessivas interrupções e questionamentos da oposição.",
+      "publicado_em": "2026-09-09T13:12:52-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "a8234c03eb102ee7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula defende quebra completa do sigilo na apuração do caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122079/lula-defende-quebra-completa-do-sigilo-na-apuracao-do-caso-master",
+      "resumo": "Presidente afirmou que o país precisa conhecer a íntegra das informações relacionadas aos envolvidos.",
+      "publicado_em": "2026-09-09T11:39:45-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "825bd96f5fe2525a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino cobra apuração sobre uso irregular de R$ 8,4 milhões em emendas",
+      "link": "https://www.congressoemfoco.com.br/noticia/122078/dino-cobra-apuracao-sobre-uso-irregular-de-r-8-4-milhoes-em-emendas",
+      "resumo": "Auditorias do Denasus apontam aplicação irregular ou não comprovada. Ministro também dá 30 dias para o DF e 23 Estados corrigirem falhas de transparência.",
+      "publicado_em": "2026-09-09T11:27:10-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
     },
     {
       "id": "c559ec1e7ff27e26",
@@ -700,6 +956,70 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-09T12:01:13-03:00"
+    },
+    {
+      "id": "fa17b660d4854203",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Audiência pública reúne diferentes setores para aperfeiçoar gestão de precatórios",
+      "link": "https://www.cnj.jus.br/audiencia-publica-reune-diferentes-setores-para-aperfeicoar-gestao-de-precatorios/",
+      "resumo": "Aperfeiçoamento da gestão dos precatórios e ampliação da efetividade do cumprimento das decisões judiciais relacionadas ao tema estão no centro dos debates da Audiência Pública dos Atos Normativos Relacionados aos Precatórios, realizada nesta quarta-feira (9/9), no Conselho Nacional de Justiça (CNJ)",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "precatorio",
+        "acao"
+      ],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "19294446a4609ad9",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara dos Deputados anuncia novo concurso público com mais de 150 vagas",
+      "link": "https://www.camara.leg.br/noticias/1303542-camara-dos-deputados-anuncia-novo-concurso-publico-com-mais-de-150-vagas",
+      "resumo": "",
+      "publicado_em": "2026-09-09T14:06:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "7553d5809aeabc0b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova regras para saída temporária de condenados por violência doméstica",
+      "link": "https://www.camara.leg.br/noticias/1303351-comissao-aprova-regras-para-saida-temporaria-de-condenados-por-violencia-domestica",
+      "resumo": "",
+      "publicado_em": "2026-09-09T13:31:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "condenado",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "eaf18bc3a06fc67a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova gratuidade por 15 minutos em estacionamento rotativo pago nas vias públicas",
+      "link": "https://www.camara.leg.br/noticias/1303294-comissao-aprova-gratuidade-por-15-minutos-em-estacionamento-rotativo-pago-nas-vias-publicas",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:48:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-09T14:23:55-03:00"
     },
     {
       "id": "1a8b413ce224b0b0",
@@ -2429,7 +2749,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "CNJ busca solução consensual para sobreposição de territórios em Oriximiná (PA)",
       "link": "https://www.cnj.jus.br/cnj-busca-solucao-consensual-para-sobreposicao-de-territorios-em-oriximina-pa/",
-      "resumo": "Representantes do Conselho Nacional de Justiça (CNJ) farão, nesta semana, visita técnica a Oriximiná (PA) e à Aldeia Kaspakuru, localizada no município. A visita está sendo conduzida pela Comissão Nacional de Soluções Fundiárias do CNJ e vai acontecer nos dias 10 e 11/09. Trata-se da segunda missão ",
+      "resumo": "Representantes do Conselho Nacional de Justiça (CNJ) farão, nesta semana, visita técnica a Oriximiná (PA) e à Aldeia Kaspakuru, localizada no município. A visita está sendo conduzida pela Comissão Nacional de Soluções Fundiárias do CNJ e vai acontecer nos dias 10 e 11/9. Trata-se da segunda missão à",
       "publicado_em": "2026-09-08T12:00:00-03:00",
       "dia": "2026-09-08",
       "data_estimada": true,
