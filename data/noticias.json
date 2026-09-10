@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-10T11:50:53-03:00",
+  "gerado_em": "2026-09-10T14:22:29-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -365,6 +365,20 @@
       "coletado_em": "2026-09-10T11:50:53-03:00"
     },
     {
+      "id": "4c3187d44d698c98",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 sediará 48º Colégio de Ouvidores da Justiça do Trabalho",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/48o-colegio-de-ouvidores-da-justica-do-trabalho-esta-com-inscricoes-abertas",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
       "id": "3b36f9c961804fe5",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -398,6 +412,37 @@
       "coletado_em": "2026-09-10T11:50:53-03:00"
     },
     {
+      "id": "b3b43b4a8d8c15c6",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Vara Estadual das Garantias de Organizações Criminosas autoriza medidas em megaoperação contra receptação de celulares",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115275&pagina=1",
+      "resumo": "Decisão inclui buscas, prisões e sequestro de bens.\n\n\n \n\n\n\tA Vara Estadual das Garantias de Organizações Criminosas e Lavagem de Bens, Direitos e Valores autorizou medidas",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
+      "id": "6ad63e1198a1e0b2",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Cancelada a sessão extraordinária do STF desta quinta-feira (10)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cancelada-a-sessao-extraordinaria-do-stf-desta-quinta-feira-10/",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:56:59-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
       "id": "66e3827afa0dd0e7",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -412,6 +457,34 @@
         "adi"
       ],
       "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "e322afc6bf2924cb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições 2026: quem fica, quem sai e quem concorre ao Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/10/eleicoes-2026-quem-fica-quem-sai-e-quem-concorre-ao-senado",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:07:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
+      "id": "7978479873acad0d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Arquivo do Senado revela histórias curiosas do Brasil",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/arquivo-do-senado-revela-historias-curiosas-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:02:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
     },
     {
       "id": "6f7c8c3c74fe5268",
@@ -558,6 +631,72 @@
       "coletado_em": "2026-09-10T10:03:10-03:00"
     },
     {
+      "id": "693e3147cc4fd1c8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula sanciona medida provisória do fim da taxa das blusinhas",
+      "link": "https://www.congressoemfoco.com.br/noticia/122135/lula-sanciona-medida-provisoria-do-fim-da-taxa-das-blusinhas",
+      "resumo": "Nova lei mantém isenção para compras de até US$ 50 e prevê monitoramento dos impactos sobre comércio, emprego e arrecadação.",
+      "publicado_em": "2026-09-10T13:56:29-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "medida provisoria",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
+      "id": "d1dd5354b63c329a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF apreende sete armas de Mario Frias em operação sobre Dark Horse",
+      "link": "https://www.congressoemfoco.com.br/noticia/122133/pf-apreende-sete-armas-de-mario-frias-em-operacao-sobre-dark-horse",
+      "resumo": "Arsenal registrado em nome do deputado foi encontrado em endereço diferente do informado às autoridades. PF vai apurar eventual posse ilegal.",
+      "publicado_em": "2026-09-10T12:57:06-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 14,
+      "tags": [
+        "acao",
+        "posse",
+        "apreende"
+      ],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
+      "id": "7c3e92401d15e8e5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin cancela sessão pela 2ª vez; STF discute caso Master na terça",
+      "link": "https://www.congressoemfoco.com.br/noticia/122132/fachin-cancela-sessao-pela-2-vez-stf-discute-caso-master-na-terca",
+      "resumo": "Presidente do Supremo reiterou que a reunião convocada para o dia 15 permanece confirmada.",
+      "publicado_em": "2026-09-10T12:45:28-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
+      "id": "b46f83c500b4e113",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF rastreia R$ 750 mil ligados a emendas de Frias até Dark Horse",
+      "link": "https://www.congressoemfoco.com.br/noticia/122128/pf-rastreia-r-750-mil-ligados-a-emendas-de-frias-ate-dark-horse",
+      "resumo": "Investigação apura se recursos de emenda de Mario Frias chegaram à produtora de Dark Horse, filme sobre Jair Bolsonaro do qual o deputado é produtor-executivo. Dino proíbe deputado e demais investigados de deixar o país.",
+      "publicado_em": "2026-09-10T12:01:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
       "id": "26ddbc112e9de066",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -570,6 +709,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-10T11:50:53-03:00"
+    },
+    {
+      "id": "bfbabdf5731034f2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Simone Tebet: \"Bandido bom é bandido preso, trabalhando e estudando\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122125/simone-tebet--bandido-bom-e-bandido-preso-trabalhando-e-estudando",
+      "resumo": "Tebet colocou a segurança entre os principais problemas do país e defendeu revisão das regras contra facções.",
+      "publicado_em": "2026-09-10T11:21:03-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
     },
     {
       "id": "49853cd81e18f089",
@@ -600,6 +753,23 @@
         "acao"
       ],
       "coletado_em": "2026-09-10T10:22:23-03:00"
+    },
+    {
+      "id": "ebbc4e316d42a1f2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem vai representar o Brasil quando o IBS precisar falar com o mundo?",
+      "link": "https://www.congressoemfoco.com.br/artigo/122119/quem-vai-representar-o-brasil-quando-o-ibs-precisar-falar-com-o-mundo",
+      "resumo": "Arrecadação eficiente é um bem coletivo: administrações frágeis abrem espaço para fraude transnacional e distorções que contaminam o comércio.",
+      "publicado_em": "2026-09-10T09:46:43-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "ibs",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
     },
     {
       "id": "ed848023ba78d474",
@@ -748,7 +918,7 @@
       "fonte_nome": "CNJ",
       "titulo": "CNJ anuncia vencedores do 2º Prêmio Eficiência Tributária",
       "link": "https://www.cnj.jus.br/cnj-anuncia-vencedores-do-2o-premio-eficiencia-tributaria/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) divulgou, nessa quarta-feira (9/9), os vencedores do 2º Prêmio Eficiência Tributária. A iniciativa reconhece, valoriza e dissemina ações, projetos e programas inovadores que mostram diferentes caminhos para lidar com cobranças e conflitos tributários, com propost",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) divulgou, nesta quarta-feira (9/9), os vencedores do 2º Prêmio Eficiência Tributária. A iniciativa reconhece, valoriza e dissemina ações, projetos e programas inovadores que mostram diferentes caminhos para lidar com cobranças e conflitos tributários, com propost",
       "publicado_em": "2026-09-10T12:00:00-03:00",
       "dia": "2026-09-10",
       "data_estimada": true,
@@ -763,9 +933,9 @@
       "id": "7ab49da62fe02714",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Debates contribuem para elaboração de norma sobre processos estruturais",
+      "titulo": "Debates contribuem para a elaboração de norma sobre processos estruturais",
       "link": "https://www.cnj.jus.br/debates-contribuem-para-elaboracao-de-norma-sobre-processos-estruturais/",
-      "resumo": "As discussões das oficinas de inovação voltadas para as soluções de demandas complexas e de grande impacto social vão subsidiar a construção de uma normativa que possa dar diretrizes às questões dos processos estruturais. Conduzidas pelo Conselho Nacional de Justiça (CNJ), as oficinas debateram espe",
+      "resumo": "As discussões das oficinas de inovação voltadas às soluções de demandas complexas e de grande impacto social vão subsidiar a construção de uma normativa que possa dar diretrizes às questões dos processos estruturais. Conduzidas pelo Conselho Nacional de Justiça (CNJ), as oficinas debateram especialm",
       "publicado_em": "2026-09-10T12:00:00-03:00",
       "dia": "2026-09-10",
       "data_estimada": true,
@@ -775,6 +945,70 @@
         "acao"
       ],
       "coletado_em": "2026-09-10T11:50:53-03:00"
+    },
+    {
+      "id": "48637f74c09ca65f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJPE lança + DJe com navegação mais rápida, novo visual e acesso facilitado",
+      "link": "https://www.cnj.jus.br/tjpe-lanca-dje-com-navegacao-mais-rapida-novo-visual-e-acesso-facilitado/",
+      "resumo": "Com o objetivo de aprimorar a navegabilidade, o desempenho e a usabilidade do Diário de Justiça eletrônico da instituição, o Tribunal de Justiça de Pernambuco (TJPE) disponibiliza, nesta quarta-feira (9/9), o + DJe. Com novo visual, a nova versão da plataforma permite uma navegação ágil, seja no ace",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
+      "id": "4405a459ac699503",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Alunos do 5º ano visitam o fórum da Comarca de Pérola (PR) após etapas de aprendizado",
+      "link": "https://www.cnj.jus.br/alunos-do-5o-ano-visitam-o-forum-da-comarca-de-perola-pr-apos-etapas-de-aprendizado/",
+      "resumo": "A Comarca de Pérola realizou a edição 2026 do Programa “Justiça e Cidadania Também se Aprendem na Escola”, iniciativa da 2ª Vice-Presidência do Tribunal de Justiça do Estado do Paraná (TJPR) para aproximar os estudantes do Poder Judiciário. A ação contou com a participação de 20 alunos do 5º ano",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
+      "id": "429b7f77035a255e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJAM promove formação online sobre Direitos Humanos e Atendimento Socioeducativo",
+      "link": "https://www.cnj.jus.br/tjam-promove-formacao-online-sobre-direitos-humanos-e-atendimento-socioeducativo/",
+      "resumo": "O Tribunal de Justiça do Amazonas (TJAM), por meio da Escola Judicial (Ejud/TJAM), promove de 15 a 18 de setembro o curso online “Direitos Humanos e o Atendimento Socioeducativo: Perspectivas Contemporâneas”. A formação ocorre das 14h às 17h e é voltada a magistrados, assessores e profissionais do P",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
+      "id": "418371ef5bb4a334",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto permite transferência gratuita de titularidade de passagem aérea",
+      "link": "https://www.camara.leg.br/noticias/1303529-projeto-permite-transferencia-gratuita-de-titularidade-de-passagem-aerea",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:45:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
     },
     {
       "id": "2a15a271c532f59b",
@@ -19522,6 +19756,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-08-27T17:56:35-03:00"
+    },
+    {
+      "id": "3d07e504c2642198",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE anula cassação de prefeito por abuso dos meios de comunicação",
+      "link": "https://www.congressoemfoco.com.br/noticia/121725/tse-anula-cassacao-de-prefeito-por-abuso-dos-meios-de-comunicacao",
+      "resumo": "Gestores de Porto da Folha haviam sido cassados por abuso dos meios de comunicação durante as eleições municipais.",
+      "publicado_em": "2026-08-27T13:00:37-03:00",
+      "dia": "2026-08-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T14:22:29-03:00"
     },
     {
       "id": "ce58a818afdcb601",
