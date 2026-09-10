@@ -48,6 +48,12 @@ def baixar(url, aceita_json=False):
             r = requests.get(url, headers=cabecalhos, timeout=TIMEOUT)
             _ultima_req[dominio] = time.time()
             r.raise_for_status()
+            if not r.content.strip():
+                # alguns sites devolvem 200 com corpo vazio em vez de um
+                # erro de verdade (bloqueio silencioso) — trata como falha
+                # pra entrar no retry, em vez de estourar "XML inválido"
+                # 2 camadas acima, no parser
+                raise RuntimeError("resposta 200 com corpo vazio")
             if not aceita_json:
                 r.encoding = r.apparent_encoding or "utf-8"
             return r

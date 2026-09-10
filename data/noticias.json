@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-09T19:07:06-03:00",
+  "gerado_em": "2026-09-10T10:07:19-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,13 +126,13 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 403 Client Error: Forbidden for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "no element found: line 1, column 0"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "trt2",
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -250,6 +250,426 @@
     }
   ],
   "noticias": [
+    {
+      "id": "3bc290693f358846",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Falta de sócio à audiência virtual com atestado genérico motiva condenação de empresa à revelia",
+      "link": "https://www.tst.jus.br/-/falta-de-socio-a-audiencia-virtual-com-atestado-generico-motiva-condenacao-de-empresa-a-revelia",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume 10/9/2026 - A Sexta Turma do Tribunal Superior do Trabalho decidiu que o atestado médico apresentado por empresário sócio da Gomes de Melo Empreendimentos e Participações Ltda. não é suficiente para justificar sua au",
+      "publicado_em": "2026-09-10T09:51:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "e4975f8b64d6b98d",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "TST celebra 80 anos",
+      "link": "https://www.tst.jus.br/-/tst-celebra-80-anos",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume 10/9/2026 - O Tribunal Superior do Trabalho (TST) realizou, na quarta-feira (16), às 18h, uma Sessão Solene Comemorativa em alusão aos 80 anos do Tribunal. A cerimônia foi realizada no Plenário Ministro Arnaldo Süsse",
+      "publicado_em": "2026-09-10T08:48:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "comemora"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "b34be333688e777e",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Gerente de TV que perdeu estabilidade pré-aposentadoria faltando nove dias recebe indenização",
+      "link": "https://www.tst.jus.br/-/gerente-de-tv-que-perdeu-estabilidade-pre-aposentadoria-faltando-nove-dias-recebe-indenizacao-1",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume 10/9/2026 - A Segunda Turma do Tribunal Superior do Trabalho condenou a TV O Estado Ltda., afiliada da TV Record em Chapecó (SC), a pagar indenização equivalente ao salário que um gerente receberia no período de gara",
+      "publicado_em": "2026-09-10T08:44:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "96ef7ef49a3013af",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Gerente sequestrado com a família para abrir cofre de banco tem indenização aumentada",
+      "link": "https://www.tst.jus.br/-/gerente-sequestrado-com-a-familia-para-abrir-cofre-de-banco-tem-indenizacao-aumentada",
+      "resumo": "Laudos médicos comprovaram estado de choque emocional e tensão, além de outras reações ao estresse. Imprimir Resumo A 2ª Turma do TST aumentou de R$ 50 mil para R$ 300 mil a indenização devida pelo Bradesco a um gerente sequestrado com sua família durante um assalto em Sergipe. Laudos periciais comp",
+      "publicado_em": "2026-09-10T08:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "ed58c77ae8606c24",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Indústria consegue validade de contrato de experiência com renovação automática",
+      "link": "https://www.tst.jus.br/-/industria-consegue-validade-de-contrato-de-experiencia-com-renovacao-automatica",
+      "resumo": "O contrato começou com 45 dias, mas tinha uma previsão de que poderia ser renovado, o que tornou válido o aumento para 89 dias. Imprimir Resumo: O TST considerou válido o contrato de experiência de um analista de compliance que durou 89 dias, embora o contrato inicial previsse 45 dias e não houvesse",
+      "publicado_em": "2026-09-10T08:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "compliance",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "3b36f9c961804fe5",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Judiciário, executivo e sociedade se unem em prol da ampliação do serviço de família acolhedora",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115265&pagina=1",
+      "resumo": "Garantia de direito constitucional a crianças e adolescentes.\n\tA Constituição Federal assegura a crianças e adolescentes o direito à convivência familiar, inclusive àqueles afastados de seus",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "66e3827afa0dd0e7",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quinta-feira (10)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-10/",
+      "resumo": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "publicado_em": "2026-09-10T09:56:15-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "032c886789c607b4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova projeto de incentivo ao futebol feminino",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/senado-aprova-projeto-de-incentivo-ao-futebol-feminino",
+      "resumo": "",
+      "publicado_em": "2026-09-10T09:44:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "16be630349c94d54",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Brasília ganhará centro cultural do Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/brasilia-ganhara-centro-cultural-do-senado",
+      "resumo": "",
+      "publicado_em": "2026-09-10T09:21:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "a5f178e13f5a3fbe",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei amplia proteção a pessoas com Síndrome de Tourette",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/lei-amplia-protecao-a-pessoas-com-sindrome-de-tourette",
+      "resumo": "",
+      "publicado_em": "2026-09-10T09:16:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "45a34fd06d2930ef",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado vai inaugurar espaço cultural em dezembro",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/senado-vai-inaugurar-espaco-cultural-em-dezembro",
+      "resumo": "",
+      "publicado_em": "2026-09-10T09:11:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "29a5134873cad26c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Abertas as inscrições para a Semana de Educação Midiática",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/abertas-inscricoes-para-a-semana-de-educacao-midiatica",
+      "resumo": "",
+      "publicado_em": "2026-09-10T08:55:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "7bdcaabac289cafe",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polícia Federal combate apologia ao nazismo, racismo e homofobia praticados pela internet",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-combate-apologia-ao-nazismo-racismo-homofobia-e-transfobia-praticados-pela-internet",
+      "resumo": "",
+      "publicado_em": "2026-09-10T07:55:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "30840bb222024830",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Tempos de desinteligência",
+      "link": "https://www.congressoemfoco.com.br/artigo/122117/tempos-de-desinteligencia",
+      "resumo": "Enquanto assistimos exemplos de desenvolvimento científico que ultrapassam nossa imaginação, sofremos ainda em nosso país com o atraso e a desinformação, em parte por culpa de ações políticas.",
+      "publicado_em": "2026-09-10T09:21:39-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "ea24a9793d5382e0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Da Malhação ao Congresso: quem é Mario Frias, deputado alvo da PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122115/da-malhacao-ao-congresso-quem-e-mario-frias-deputado-alvo-da-pf",
+      "resumo": "Ator ganhou projeção na TV, comandou a Secretaria de Cultura no governo Bolsonaro e virou deputado. Roteirista e produtor de \"Dark Horse\", ele é autor de emendas investigadas pela Polícia Federal.",
+      "publicado_em": "2026-09-10T09:00:22-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "5b147330ce95cc7f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alexandre de Moraes cancela pronunciamento que faria nesta quinta",
+      "link": "https://www.congressoemfoco.com.br/noticia/122114/alexandre-de-moraes-cancela-pronunciamento-que-faria-nesta-quinta",
+      "resumo": "Ministro do STF falaria às 11h, mas desistiu da manifestação após agravamento da crise interna na Corte; tema do pronunciamento não havia sido divulgado.",
+      "publicado_em": "2026-09-10T08:47:08-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "ed846fd56d2765e1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes fará pronunciamento nesta quinta em meio à crise no STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122113/moraes-fara-pronunciamento-nesta-quinta-em-meio-a-crise-no-stf",
+      "resumo": "Manifestação ocorrerá um dia após Fachin retirar Moraes da relatoria do inquérito das Fake News e convocar sessão do plenário para discutir apurações envolvendo ministros da Corte.",
+      "publicado_em": "2026-09-10T08:12:22-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "aaeeabd06bc165ee",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governo reduz tributos sobre gasolina e etanol e subsidia diesel",
+      "link": "https://www.congressoemfoco.com.br/noticia/122112/governo-reduz-tributos-sobre-gasolina-e-etanol-e-subsidia-diesel",
+      "resumo": "Pacote temporário busca conter impacto da alta do petróleo e terá custo estimado de R$ 7 bilhões por mês.",
+      "publicado_em": "2026-09-10T08:06:15-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "32f767903d15c63e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB pede acesso a investigações e saída de Gonet de ação sobre Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122110/oab-pede-acesso-a-investigacoes-e-saida-de-gonet-de-acao-sobre-master",
+      "resumo": "Entidade alega que procurador-geral foi citado nas apurações, pede que ele não atue no processo e cria comissão para analisar a conduta de ministros do STF.",
+      "publicado_em": "2026-09-10T07:34:17-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "processo",
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "0c9ffed2b6d10628",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dark Horse: PF faz buscas contra Mario Frias por filme sobre Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122109/dark-horse-pf-faz-buscas-contra-mario-frias-por-filme-sobre-bolsonaro",
+      "resumo": "Operação autorizada por Flávio Dino apura possível uso irregular de emendas e outros recursos públicos no financiamento da produção. Karina Ferreira da Gama, produtora do filme, também é alvo de buscas.",
+      "publicado_em": "2026-09-10T07:08:48-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "cc8209fb81a919ff",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que exige separação de torcidas nos estádios",
+      "link": "https://www.camara.leg.br/noticias/1303642-comissao-aprova-projeto-que-exige-separacao-de-torcidas-nos-estadios",
+      "resumo": "",
+      "publicado_em": "2026-09-10T08:53:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "adi",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "4f7431bce4a0ea16",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Devedor trabalhista pode ter bens bloqueados para quitar dívida reconhecida pela Justiça",
+      "link": "https://www.tst.jus.br/-/devedor-trabalhista-pode-ter-bens-bloqueados-para-quitar-divida-reconhecida-pela-justica",
+      "resumo": "Na fase de execução, a Justiça do Trabalho busca localizar bens e valores para garantir o pagamento e permite acordos para solucionar processos pendentes Imprimir 10/09/2026 - Quando uma empresa ou uma pessoa é condenada em ação trabalhista, a decisão da Justiça deve ser cumprida. Mas se o pagamento",
+      "publicado_em": "2026-09-09T18:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 84,
+      "tags": [
+        "decisao",
+        "condenada",
+        "trabalhista",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "d75f028a2cc45d9d",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "TST celebra 80 anos com Sessão Solene Comemorativa",
+      "link": "https://www.tst.jus.br/-/tst-celebra-80-anos-com-sessao-solene-comemorativa",
+      "resumo": "Profissionais de imprensa que quiserem acompanhar o evento presencialmente devem se credenciar Imprimir 9/9/2026 - O Tribunal Superior do Trabalho (TST) realizará, na próxima quarta-feira (16), às 18h, uma Sessão Solene Comemorativa em alusão aos 80 anos do Tribunal. A cerimônia será realizada no Pl",
+      "publicado_em": "2026-09-09T17:48:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "comemora"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "db989af8f4acac2a",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "No Meu Voto Mando Eu - Denunciar - Conteúdo",
+      "link": "https://www.tst.jus.br/noticias?p_p_id=89Dk&p_p_lifecycle=0&refererPlid=10730&_89Dk_articleId=36828731&_89Dk_groupId=10157",
+      "resumo": "Denuncie o assédio eleitoral no trabalho Se você sofreu ou viu alguém sofrer pressão, ameaça ou constrangimento por causa de voto no\n    trabalho, denuncie. O assédio eleitoral no trabalho é ilegal. Ninguém pode ser pressionado, ameaçado ou constrangido\n    por causa de sua escolha política. Como de",
+      "publicado_em": "2026-09-09T15:58:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "20f11fbee7a8f606",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "TST celebra 80 anos com logomarca comemorativa inspirada em Athos Bulcão",
+      "link": "https://www.tst.jus.br/-/tst-celebra-80-anos-com-logomarca-comemorativa-inspirada-em-athos-bulcao-1",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume 09/09/2026 - Criado em 9 de setembro de 1946, no contexto da redemocratização do país após o Estado Novo, o Tribunal Superior do Trabalho substituiu o Conselho Nacional do Trabalho (CNT) e ocupou o Palácio do Trabalh",
+      "publicado_em": "2026-09-09T11:28:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "21a17cab0c9a3948",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Justiça do Trabalho garante rescisão indireta a trabalhadora adventista que sofreu violação de liberdade de crença e irregularidade em depósitos do FGTS",
+      "link": "https://www.tst.jus.br/-/violacao-de-liberdade-de-crenca-e-irregularidade-em-depositos-do-fgts-garantem-rescisao-indireta-a-trabalhadora-adventista",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume 09/09/2026 - A Primeira Turma do Tribunal Regional da 18ª Região (TRT-GO) reconheceu por unanimidade a rescisão indireta do contrato de trabalho de uma funcionária adventista contra uma rede de drogarias. O colegiado",
+      "publicado_em": "2026-09-09T08:22:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 36,
+      "tags": [
+        "fgts",
+        "acao",
+        "droga"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
     {
       "id": "ef7643030560bff9",
       "fonte_id": "trt2",
@@ -449,6 +869,25 @@
         "advogado"
       ],
       "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "834bf74f04b39391",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Governo e Congresso deverão propor código único para rastrear emendas parlamentares, decide relator",
+      "link": "https://noticias.stf.jus.br/postsnoticias/governo-e-congresso-deverao-propor-codigo-unico-para-rastrear-emendas-parlamentares-decide-relator/",
+      "resumo": "Segundo decisão do ministro Flávio Dino, identificador deverá permitir acompanhamento entre indicação parlamentar e execução dos recursos",
+      "publicado_em": "2026-09-09T19:33:53-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "decisao",
+        "decide",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
     },
     {
       "id": "b7fc15abe1a6cb6e",
@@ -734,6 +1173,52 @@
       "coletado_em": "2026-09-09T19:07:06-03:00"
     },
     {
+      "id": "d072c9e43da06c72",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério da Educação homologa parecer sobre ano letivo na Copa Feminina",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/mec-homologa-parecer-sobre-ano-letivo-na-copa-feminina",
+      "resumo": "",
+      "publicado_em": "2026-09-09T19:07:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "e4b92202f5e4531b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo Federal adota novas medidas para combustíveis frente a oscilações do petróleo",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/governo-federal-adota-novas-medidas-para-combustiveis-frente-oscilacoes-petroleo",
+      "resumo": "",
+      "publicado_em": "2026-09-09T18:47:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "0378fb3334f7a5b8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Prêmio Brasil de Ensino de Matemática abre inscrições",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/premio-brasil-de-ensino-de-matematica-abre-inscricoes",
+      "resumo": "",
+      "publicado_em": "2026-09-09T17:31:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
       "id": "4bfab1c44f5981c5",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1004,6 +1489,52 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "a62e4fa46416bfe5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Decisão de Fachin sobre Andrei restaura a ordem pública, diz AGU",
+      "link": "https://www.congressoemfoco.com.br/noticia/122108/decisao-de-fachin-sobre-andrei-restaura-a-ordem-publica--diz-agu",
+      "resumo": "Advocacia-Geral diz que decisão de Fachin estabiliza comando da PF, preserva competências do Executivo e reduz crise no STF.",
+      "publicado_em": "2026-09-09T21:07:06-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "19e2bcbbcc94af1e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Solução de crise no STF é \"questão de sobrevivência\", diz Michel Temer",
+      "link": "https://www.congressoemfoco.com.br/noticia/122107/solucao-de-crise-no-stf-e-questao-de-sobrevivencia--diz-michel-temer",
+      "resumo": "Ex-presidente defendeu solução rápida e baseada no diálogo para crise institucional na Suprema Corte.",
+      "publicado_em": "2026-09-09T19:49:21-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "3a73dd5751cd72d6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF buscará a verdade \"doa a quem doer\", diz Wellington César",
+      "link": "https://www.congressoemfoco.com.br/noticia/122106/pf-buscara-a-verdade-doa-a-quem-doer--diz-wellington-cesar",
+      "resumo": "Ministro da Justiça defende autonomia da PF e diz confiar que o STF superará a crise interna que abalou a cúpula da corporação.",
+      "publicado_em": "2026-09-09T19:29:13-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
     },
     {
       "id": "dcf2411260a5e4e8",
@@ -1615,6 +2146,135 @@
         "sumula"
       ],
       "coletado_em": "2026-09-09T16:04:03-03:00"
+    },
+    {
+      "id": "e0b1f5127c53d707",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova atendimento acessível a mulheres com deficiência vítimas de violência doméstica",
+      "link": "https://www.camara.leg.br/noticias/1303636-comissao-aprova-atendimento-acessivel-a-mulheres-com-deficiencia-vitimas-de-violencia-domestica",
+      "resumo": "",
+      "publicado_em": "2026-09-09T20:13:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "8b58ff96738957b8",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto limita a rolagem contínua de vídeos em redes sociais para proteger saúde mental",
+      "link": "https://www.camara.leg.br/noticias/1302968-projeto-limita-a-rolagem-continua-de-videos-em-redes-sociais-para-proteger-saude-mental",
+      "resumo": "",
+      "publicado_em": "2026-09-09T19:34:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "0400621b8bea5f07",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que amplia possibilidades de embarque armado para agentes de segurança pública",
+      "link": "https://www.camara.leg.br/noticias/1303311-comissao-aprova-projeto-que-amplia-possibilidades-de-embarque-armado-para-agentes-de-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-09-09T19:03:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "3439bb687b3c61bd",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei atualiza custas judiciais e cria fundos para Justiça Federal e STJ",
+      "link": "https://www.camara.leg.br/noticias/1303313-lei-atualiza-custas-judiciais-e-cria-fundos-para-justica-federal-e-stj",
+      "resumo": "",
+      "publicado_em": "2026-09-09T17:34:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "f1cd746749400ca8",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova regulamentação da atividade de operador logístico no Brasil",
+      "link": "https://www.camara.leg.br/noticias/1303299-comissao-aprova-regulamentacao-da-atividade-de-operador-logistico-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-09T17:08:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "regulamenta",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "c08a288fefeecbf7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova avaliação de risco para benefícios de condenados por crimes ligados a facções",
+      "link": "https://www.camara.leg.br/noticias/1303200-comissao-aprova-avaliacao-de-risco-para-beneficios-de-condenados-por-crimes-ligados-a-faccoes",
+      "resumo": "",
+      "publicado_em": "2026-09-09T16:40:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "condenado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "a197874605124ed7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei limita multas e amplia acordos tributários",
+      "link": "https://www.camara.leg.br/noticias/1303227-lei-limita-multas-e-amplia-acordos-tributarios",
+      "resumo": "",
+      "publicado_em": "2026-09-09T16:11:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "multa",
+        "tributario"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "6ddc825d8c9f1279",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova direito de mulheres e idosos desembarcarem fora da parada de ônibus à noite",
+      "link": "https://www.camara.leg.br/noticias/1303283-comissao-aprova-direito-de-mulheres-e-idosos-desembarcarem-fora-da-parada-de-onibus-a-noite",
+      "resumo": "",
+      "publicado_em": "2026-09-09T15:19:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-10T10:03:10-03:00"
     },
     {
       "id": "19294446a4609ad9",

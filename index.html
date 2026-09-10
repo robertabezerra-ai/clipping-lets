@@ -297,7 +297,7 @@
   </div>
 </div>
 
-<script src="data/noticias.js?v=1788991626"></script>
+<script src="data/noticias.js?v=1789045639"></script>
 <script>
 (function(){
   "use strict";
@@ -792,19 +792,17 @@
     var rodape = "";
 
     function blocoVeiculo(nome, itens, i){
-      var rfb = nome === "Receita Federal";
       var temItens = itens.length > 0;
-      var fundo = temItens && rfb ? "#FBE3E4" : "#F7F3E9";
       var corBorda = temItens ? VERMELHO : BORDA;
       var corTexto = temItens ? VERMELHO : CINZA;
 
       var bloco =
         '<tr><td style="padding:' + (i === 0 ? "0" : "20px") + ' 0 0 0">' +
           tabela(null,
-            '<tr><td style="background-color:' + fundo + ';padding:7px 10px;' +
+            '<tr><td style="background-color:#F7F3E9;padding:7px 10px;' +
             'border-left:3px solid ' + corBorda + ';color:' + corTexto + ';' +
             'font-size:11px;font-weight:bold;line-height:14px">' +
-            (temItens && rfb ? "&#9888; " : "") + esc(nome.toUpperCase()) +
+            esc(nome.toUpperCase()) +
             '</td></tr>') +
         '</td></tr>';
 
