@@ -17,10 +17,11 @@ O que testar:
 1. Navegue entre os dias com `‹ Dia anterior` / `Dia seguinte ›`.
 2. Marque algumas notícias de veículos diferentes.
 3. Clique em **Gerar HTML para Outlook** → **Copiar formatado** → cole num e-mail do Outlook.
-4. Ligue **Listar cada veículo sem novidade** e gere de novo: as 22 linhas aparecem,
-   as sem notícia como “Nada”, todas na ordem oficial.
-5. Se algum dia tiver publicação da Receita Federal, veja o banner vermelho no topo.
-6. Pra juntar notícias de mais de um dia num único clipping (ex.: recuperar
+   Só os veículos com notícia marcada entram como bloco no corpo; os demais dos
+   22 (sem nada selecionado) ficam resumidos numa linha no rodapé, não geram
+   coluna vazia no e-mail.
+4. Se algum dia tiver publicação da Receita Federal, veja o banner vermelho no topo.
+5. Pra juntar notícias de mais de um dia num único clipping (ex.: recuperar
    3 dias que ficaram pra trás, não precisa ser sequência), ligue
    **Selecionar mais de um dia** na barra lateral e vá adicionando cada dia
    com o campo **+ Dia** (cada um vira uma etiqueta removível). A lista passa

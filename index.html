@@ -219,7 +219,6 @@
 
     <div class="secao">
       <label class="toggle"><input type="checkbox" id="soAlta"> Só alta relevância</label>
-      <label class="toggle"><input type="checkbox" id="mostrarVazios"> Listar cada veículo sem novidade</label>
     </div>
   </div>
 
@@ -297,7 +296,7 @@
   </div>
 </div>
 
-<script src="data/noticias.js?v=1789045639"></script>
+<script src="data/noticias.js?v=1789046543"></script>
 <script>
 (function(){
   "use strict";
@@ -336,7 +335,6 @@
     busca: "",
     veiculos: {},       // fonte_id -> true quando filtrado
     soAlta: false,
-    mostrarVazios: false,   // false = resume no rodapé; true = uma linha "Nada" por veículo
     foco: -1
   };
 
@@ -446,9 +444,9 @@
     return coletadas.concat(manuais);
   }
 
-  // Filtros (busca, veiculos, soAlta, mostrarVazios) tambem ficam em
-  // localStorage, para nao perder ao fechar e voltar — mas globais, nao
-  // por dia: filtro de veiculo/relevancia costuma valer pra rotina toda.
+  // Filtros (busca, veiculos, soAlta) tambem ficam em localStorage, para
+  // nao perder ao fechar e voltar — mas globais, nao por dia: filtro de
+  // veiculo/relevancia costuma valer pra rotina toda.
   var CHAVE_FILTROS = "clipping-lets:filtros";
 
   function carregarFiltros(){
@@ -457,7 +455,6 @@
       estado.busca = salvo.busca || "";
       estado.veiculos = salvo.veiculos || {};
       estado.soAlta = !!salvo.soAlta;
-      estado.mostrarVazios = !!salvo.mostrarVazios;
       estado.multiDia = !!salvo.multiDia;
       estado.diasExtras = salvo.diasExtras || {};
     } catch(e){ /* sem localStorage: segue com os padroes */ }
@@ -467,7 +464,7 @@
     try {
       localStorage.setItem(CHAVE_FILTROS, JSON.stringify({
         busca: estado.busca, veiculos: estado.veiculos,
-        soAlta: estado.soAlta, mostrarVazios: estado.mostrarVazios,
+        soAlta: estado.soAlta,
         multiDia: estado.multiDia, diasExtras: estado.diasExtras
       }));
     } catch(e){}
@@ -498,7 +495,6 @@
   function aplicarFiltrosNaUI(){
     $("#busca").value = estado.busca;
     $("#soAlta").checked = estado.soAlta;
-    $("#mostrarVazios").checked = estado.mostrarVazios;
     $("#multiDia").checked = estado.multiDia;
     $("#blocoMultiDia").style.display = estado.multiDia ? "block" : "none";
     renderDiasExtras();
@@ -827,16 +823,10 @@
       return bloco;
     }
 
-    if(estado.mostrarVazios){
-      // modo antigo: os 22 veiculos aparecem, na ORDEM FIXA do sources.yml
-      // (+ os manuais depois, se houver) — com item ou "Nada" — sem
-      // separar "tem noticia" de "nao tem".
-      listaVeiculos.forEach(function(nome, i){
-        corpo += blocoVeiculo(nome, porNome[nome] || [], i);
-      });
-    } else if(comItem.length){
-      // modo padrao: só os veiculos com noticia, na ordem fixa; os vazios
-      // ficam resumidos no rodape (ver abaixo)
+    if(comItem.length){
+      // só os veiculos com noticia aparecem no corpo, na ordem fixa; os
+      // vazios ficam resumidos no rodape (ver abaixo) — nunca um bloco
+      // "Nada" por veiculo.
       comItem.forEach(function(nome, i){
         corpo += blocoVeiculo(nome, porNome[nome], i);
       });
@@ -845,8 +835,8 @@
               "Nenhuma notícia selecionada para este dia.</td></tr>";
     }
 
-    // ---------- rodape: veiculos sem novidade (só no modo resumido) ----------
-    if(!estado.mostrarVazios && semItem.length){
+    // ---------- rodape: veiculos sem novidade ----------
+    if(semItem.length){
       rodape =
         '<tr><td style="background-color:' + CREME + ';padding:12px 22px;color:' + CINZA + ';' +
         'font-size:11.5px;line-height:17px;border-top:1px solid ' + BORDA + '">' +
@@ -1050,7 +1040,6 @@
   };
   $("#busca").oninput = function(){ estado.busca = this.value; gravarFiltros(); renderLista(); atualizaContador(); };
   $("#soAlta").onchange = function(){ estado.soAlta = this.checked; gravarFiltros(); renderLista(); atualizaContador(); };
-  $("#mostrarVazios").onchange = function(){ estado.mostrarVazios = this.checked; gravarFiltros(); };
   $("#btnLimpar").onclick = function(){ gravarSel([]); renderLista(); atualizaContador(); };
   $("#btnBuscar").onclick = function(){ render(); };
   $("#btnGerar").onclick = abrirModal;

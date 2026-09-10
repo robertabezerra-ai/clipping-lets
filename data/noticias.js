@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-10T10:07:19-03:00",
+  "gerado_em": "2026-09-10T10:22:23-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -335,6 +335,20 @@ window.DADOS = {
       "coletado_em": "2026-09-10T10:03:10-03:00"
     },
     {
+      "id": "3b5633adc25b88d0",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Empresa deve ressarcir trabalhadora por uso de aparelho celular pessoal",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/empresa-deve-ressarcir-trabalhadora-por-uso-de-aparelho-celular-pessoal",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T10:22:23-03:00"
+    },
+    {
       "id": "3b36f9c961804fe5",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -455,6 +469,22 @@ window.DADOS = {
       "coletado_em": "2026-09-10T10:03:10-03:00"
     },
     {
+      "id": "9137b3a6f7509f8a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula veta fundo de crédito à exportação e amplia atuação do BNDES",
+      "link": "https://www.congressoemfoco.com.br/noticia/122120/lula-veta-fundo-de-credito-a-exportacao-e-amplia-atuacao-do-bndes",
+      "resumo": "Congresso poderá manter ou derrubar os vetos presidenciais aos dispositivos sobre financiamento às exportações.",
+      "publicado_em": "2026-09-10T09:57:54-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T10:22:23-03:00"
+    },
+    {
       "id": "30840bb222024830",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -469,6 +499,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "d9884b7acdabf772",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ciro e Elmano discutem, apontam dedos e são contidos em debate",
+      "link": "https://www.congressoemfoco.com.br/noticia/122116/ciro-e-elmano-discutem-apontam-dedos-e-sao-contidos-em-debate",
+      "resumo": "Debate teve acusações sobre desvios, aliados políticos e investigações da PF.",
+      "publicado_em": "2026-09-10T09:21:15-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T10:22:23-03:00"
     },
     {
       "id": "ea24a9793d5382e0",
