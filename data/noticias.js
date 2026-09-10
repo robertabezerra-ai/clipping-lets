@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-10T15:56:19-03:00",
+  "gerado_em": "2026-09-10T19:06:43-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -136,9 +136,9 @@ window.DADOS = {
     },
     {
       "id": "trt2",
-      "status": "ok",
-      "itens": 100,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='ww2.trt2.jus.br', port=443): Read timed out. (read timeout=20)"
     },
     {
       "id": "trt15",
@@ -173,7 +173,7 @@ window.DADOS = {
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 28,
+      "itens": 25,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -232,9 +232,9 @@ window.DADOS = {
     },
     {
       "id": "carf",
-      "status": "ok",
-      "itens": 4,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "governo_federal",
@@ -393,6 +393,20 @@ window.DADOS = {
       "coletado_em": "2026-09-10T15:56:19-03:00"
     },
     {
+      "id": "2cad8d67998cadaf",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Dicas Inovadoras em 70 Minutos aborda experiências práticas com Inteligência Artificial no TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/dicas-inovadoras-em-70-minutos-aborda-experiencias-praticas-com-inteligencia",
+      "resumo": "Dicas Inovadoras em 70 Minutos aborda experiências práticas com Inteligência Artificial no TRT-15 marianaaassuncao Qui, 10/09/2026 - 15:14 Dicas Inovadoras em 70 Minutos aborda experiências práticas com Inteligência Artificial no TRT-15 Conteúdo da Notícia O Co.Labora 15 promove, no dia 14 de setemb",
+      "publicado_em": "2026-09-10T15:14:13-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
       "id": "3b36f9c961804fe5",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -441,6 +455,69 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
+      "id": "c68f45b83758f548",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Boas Práticas: Justiça de Cerqueira César realiza evento sobre saúde emocional no ambiente de trabalho",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115276&pagina=1",
+      "resumo": "Palestra focada em aprimorar relações interpessoais.\n \n\tA Justiça de Cerqueira César realizou, em 28 de agosto, a palestra \"Saúde Emocional na Era da Ansiedade\", sobre",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "b017d1adbde8a65a",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Estudantes realizam júri simulado no Palácio da Justiça",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115287&pagina=1",
+      "resumo": "Atividade do Colégio Suller Garcia.\n \n\tO Tribunal de Justiça de São Paulo recebeu, ontem (9), estudantes do Colégio Suller Garcia para realização de júri simulado.",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "9393c3f7699db7b6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF homologa planos estaduais contra violações de direitos no sistema prisional",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-homologa-planos-estaduais-contra-violacoes-de-direitos-no-sistema-prisional/",
+      "resumo": "Medidas buscam enfrentar problemas como superlotação, excesso de presos provisórios e condições degradantes nos presídios",
+      "publicado_em": "2026-09-10T18:09:20-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "e35d69ab6c67eee9",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF autoriza operação da PF sobre destinação de emendas parlamentares no caso Dark Horse",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-operacao-da-pf-sobre-destinacao-de-emendas-parlamentares-no-caso-dark-horse/",
+      "resumo": "Medidas de busca e apreensão, autorizadas pelo ministro Flávio Dino, alcançam o deputado Mário Frias e demais investigados; relator retirou o sigilo dos autos",
+      "publicado_em": "2026-09-10T16:19:28-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "acao",
+        "apreensao"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
     },
     {
       "id": "6ad63e1198a1e0b2",
@@ -652,6 +729,76 @@ window.DADOS = {
       "coletado_em": "2026-09-10T15:56:19-03:00"
     },
     {
+      "id": "6a57030835753328",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Protocolo define parâmetros para investigações com perspectiva racial e de gênero",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/protocolo-define-parametros-para-investigacoes-com-perspectiva-racial-e-de-genero",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "d6338f52d0bae5b3",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Curso sobre crimes cibernéticos está disponível na Rede EaD Senasp",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/curso-sobre-crimes-ciberneticos-esta-disponivel-na-rede-ead-senasp",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "3a98bc8f56d654cc",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Inep lança manual explicativo sobre o Enamed",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/inep-lanca-manual-explicativo-sobre-o-enamed",
+      "resumo": "",
+      "publicado_em": "2026-09-10T18:16:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "6126b707b99d249d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "El Niño: probabilidade de 75% de ser o evento climático mais forte registrado desde 1950",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/el-nino-probabilidade-de-75-de-ser-o-evento-climatico-mais-forte-registrado-desde-1950",
+      "resumo": "",
+      "publicado_em": "2026-09-10T17:35:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "a2bbc9ee0961e760",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Conab registra queda do custo da cesta básica em 25 capitais no mês de agosto",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/custo-da-cesta-basica-registra-queda-em-25-capitais-no-mes-de-agosto",
+      "resumo": "",
+      "publicado_em": "2026-09-10T16:02:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
       "id": "9375d2a2346486d5",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -752,6 +899,103 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "60466a9fd2ca0a9f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula atribui a Lira criação \"a contragosto\" da taxa das blusinhas",
+      "link": "https://www.congressoemfoco.com.br/noticia/122145/lula-atribui-a-lira-criacao-a-contragosto-da-taxa-das-blusinhas",
+      "resumo": "Presidente relata que aceitou cobrança após telefonema de Arthur Lira e diz que revogação corrige decisão de 2024.",
+      "publicado_em": "2026-09-10T17:50:34-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "954bacb433a2600a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Um quinto dos jovens de até 17 anos já apostou em bet, revela pesquisa",
+      "link": "https://www.congressoemfoco.com.br/noticia/122143/um-quinto-dos-jovens-de-ate-17-anos-ja-apostou-em-bet-revela-pesquisa",
+      "resumo": "Levantamento realizado pela Frente Parlamentar Mista da Educação mostra que 9,5% das crianças de 11 anos já apostaram.",
+      "publicado_em": "2026-09-10T16:40:19-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "frente parlamentar"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "f23f837de648bcb1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Embarque armado de agentes públicos em voos avança na Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/122142/embarque-armado-de-agentes-publicos-em-voos-avanca-na-camara",
+      "resumo": "Substitutivo amplia alcance da medida, mas mantém exigência de autorização da Polícia Federal e de comprovação da necessidade de portar a arma.",
+      "publicado_em": "2026-09-10T16:26:51-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "81a2b734bf873b1f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dark Horse \"não tem um centavo de dinheiro público\", diz Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/122141/dark-horse-nao-tem-um-centavo-de-dinheiro-publico--diz-flavio",
+      "resumo": "Após operação da PF contra produtora, candidato do PL nega uso de recursos irregulares para gravações do filme.",
+      "publicado_em": "2026-09-10T16:26:45-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "3619caf867fb94b0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto limita rolagem infinita em redes sociais após 30 vídeos vistos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122140/projeto-limita-rolagem-infinita-em-redes-sociais-apos-30-videos-vistos",
+      "resumo": "Texto prevê interrupção de cinco minutos na rolagem contínua e multas de até R$ 5 milhões para plataformas que descumprirem as regras.",
+      "publicado_em": "2026-09-10T16:13:52-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "8f12dfb6b96f3afd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio tem 46,4% contra 46,2% de Lula em 2º turno, diz Atlas/Bloomberg",
+      "link": "https://www.congressoemfoco.com.br/noticia/122139/flavio-tem-46-4-contra-46-2-de-lula-em-2-turno-diz-atlas-bloomberg",
+      "resumo": "Presidenciável tem empate técnico na pesquisa divulgada nesta quinta-feira (10).",
+      "publicado_em": "2026-09-10T15:55:32-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
     },
     {
       "id": "516672f14520afbc",
@@ -1198,6 +1442,87 @@ window.DADOS = {
       "coletado_em": "2026-09-10T14:22:29-03:00"
     },
     {
+      "id": "8cab53eb420d0c27",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Próxima sessão do Plenário do CNJ será em 29 de setembro",
+      "link": "https://www.cnj.jus.br/proxima-sessao-do-plenario-do-cnj-sera-em-29-de-setembro/",
+      "resumo": "A 14ª Sessão Ordinária de 2026 do Plenário do Conselho Nacional de Justiça, que aconteceria em 15 de setembro, foi cancelada por meio da Portaria CNJ n. 427/26.  A próxima sessão será a 15ª Sessão Ordinária de 2026, em 29 de setembro, de acordo com calendário divulgado na Portaria CNJ n. 127/26.   A",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "portaria"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "cc33357ddd7ad17a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Medida Provisória abre crédito no Orçamento de 2026 para financiamento da agricultura familiar",
+      "link": "https://www.camara.leg.br/noticias/1303872-medida-provisoria-abre-credito-no-orcamento-de-2026-para-financiamento-da-agricultura-familiar",
+      "resumo": "",
+      "publicado_em": "2026-09-10T17:31:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "72e9256e63706998",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Constituição e Justiça aprova inclusão de pessoas idosas no programa Educação de Jovens e Adultos",
+      "link": "https://www.camara.leg.br/noticias/1303926-comissao-de-constituicao-e-justica-aprova-inclusao-de-pessoas-idosas-no-programa-educacao-de-jovens-e-adultos",
+      "resumo": "",
+      "publicado_em": "2026-09-10T17:12:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "f70c6c2fc14eda26",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto amplia mecanismos para regularização de dívidas com a União",
+      "link": "https://www.camara.leg.br/noticias/1303527-projeto-amplia-mecanismos-para-regularizacao-de-dividas-com-a-uniao",
+      "resumo": "",
+      "publicado_em": "2026-09-10T17:08:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "4bd2c52aa6fa5eba",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Medida provisória amplia crédito para subsídios aos preços dos combustíveis",
+      "link": "https://www.camara.leg.br/noticias/1303849-medida-provisoria-amplia-credito-para-subsidios-aos-precos-dos-combustiveis",
+      "resumo": "",
+      "publicado_em": "2026-09-10T16:32:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
       "id": "7b564d11268b44f5",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1258,6 +1583,37 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "79627ea2a6c39807",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Oportunidade de estágio no Gabinete da Superintendência",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/oportunidade-de-estagio-no-gabinete-da-superintendencia",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "af8658d8df60dd77",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Novas regras ampliam transparência sobre riscos sociais, ambientais e climáticos no Sistema Financeiro Nacional",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21257/nota",
+      "resumo": "Relatório GRSAC terá métricas padronizadas e maior comparabilidade. Divulgação seguirá cronograma gradual conforme porte das instituições. Medida reforça transparência, disciplina de mercado e estabilidade financeira.",
+      "publicado_em": "2026-09-10T18:31:39-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "novas regras",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T19:06:43-03:00"
     },
     {
       "id": "4f7431bce4a0ea16",
@@ -3189,22 +3545,6 @@ window.DADOS = {
       "coletado_em": "2026-09-08T16:15:22-03:00"
     },
     {
-      "id": "172de88f0ebed7dd",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Presidência do TRT-15 recebe visita da Fetcesp",
-      "link": "https://trt15.jus.br/noticia/2026/presidencia-do-trt-15-recebe-visita-da-fetcesp",
-      "resumo": "Presidência do TRT-15 recebe visita da Fetcesp anagatto Ter, 08/09/2026 - 14:19 Presidência do TRT-15 recebe visita da Fetcesp Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora Ana Paula Pellegrina Lockmann, recebeu nesta terça-feira, 8/9, a visita de re",
-      "publicado_em": "2026-09-08T14:19:57-03:00",
-      "dia": "2026-09-08",
-      "data_estimada": false,
-      "score": 28,
-      "tags": [
-        "visita"
-      ],
-      "coletado_em": "2026-09-08T16:15:22-03:00"
-    },
-    {
       "id": "ca3e38450dcc0dab",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -4992,6 +5332,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-08T11:12:24-03:00"
+    },
+    {
+      "id": "172de88f0ebed7dd",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Presidência do TRT-15 recebe visita da Fetcesp",
+      "link": "https://trt15.jus.br/noticia/2026/presidencia-do-trt-15-recebe-visita-da-fetcesp",
+      "resumo": "Presidência do TRT-15 recebe visita da Fetcesp anagatto Seg, 07/09/2026 - 14:19 Presidência do TRT-15 recebe visita da Fetcesp Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora Ana Paula Pellegrina Lockmann, recebeu nesta terça-feira, 8/9, a visita de re",
+      "publicado_em": "2026-09-07T14:19:57-03:00",
+      "dia": "2026-09-07",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-08T16:15:22-03:00"
     },
     {
       "id": "439e95083cc3e421",
