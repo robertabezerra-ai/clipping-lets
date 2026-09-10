@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-10T14:22:29-03:00",
+  "gerado_em": "2026-09-10T15:56:19-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -379,6 +379,20 @@ window.DADOS = {
       "coletado_em": "2026-09-10T14:22:29-03:00"
     },
     {
+      "id": "682ce46769b47f41",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Debate sobre violência de gênero abre Mês da Diversidade na 2ª Região",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/debate-sobre-violencia-de-genero-abre-mes-da-diversidade-no-trt-2",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
+    },
+    {
       "id": "3b36f9c961804fe5",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -457,6 +471,53 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "07beb453179a6583",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovado pelo Senado, fim da taxa das blusinhas é sancionado",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/aprovado-pelo-senado-fim-da-taxa-das-blusinhas-e-sancionado",
+      "resumo": "",
+      "publicado_em": "2026-09-10T15:45:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
+    },
+    {
+      "id": "9aec011a1af3160d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Há 25 anos, Senado repercutiu atentados de 11 de setembro",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/ha-25-anos-senado-repercutiu-atentados-de-11-de-setembro",
+      "resumo": "",
+      "publicado_em": "2026-09-10T15:10:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
+    },
+    {
+      "id": "9ba573bbe03c5e32",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sancionada lei que autoriza o BNDES a criar subsidiárias",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/10/sancionada-lei-que-autoriza-o-bndes-a-criar-subsidiarias",
+      "resumo": "",
+      "publicado_em": "2026-09-10T14:32:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "sancionada"
+      ],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
     },
     {
       "id": "e322afc6bf2924cb",
@@ -559,6 +620,68 @@ window.DADOS = {
       "coletado_em": "2026-09-10T10:03:10-03:00"
     },
     {
+      "id": "4857c8b63c4af2e7",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senad realiza primeira formação em prevenção adaptada a contextos indígenas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/capacitacao-do-programa-cria-no-amazonas-aborda-diretrizes-internacionais-de-prevencao-a-partir-das-especificidades-socioculturais-dos-povos-indigenas",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
+    },
+    {
+      "id": "b2a878850a6cc8f6",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP extradita ao Brasil homem apontado como maior traficante de armas da América do Sul",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-extradita-ao-brasil-homem-apontado-como-maior-traficante-de-armas-da-america-do-sul",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
+    },
+    {
+      "id": "9375d2a2346486d5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rádio Nacional celebra 90 anos neste sábado (12) com o especial ‘Somos Uma Só Nacional’",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/radio-nacional-celebra-90-anos-neste-sabado-12-com-o-especial-2018somos-uma-so-nacional2019",
+      "resumo": "",
+      "publicado_em": "2026-09-10T15:31:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
+    },
+    {
+      "id": "864037194adedb61",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Prevenção do Suicídio: conectividade e serviços digitais fortalecem o cuidado com a saúde mental",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/prevencao-do-suicidio-conectividade-e-servicos-digitais-fortalecem-o-cuidado-com-a-saude-mental",
+      "resumo": "",
+      "publicado_em": "2026-09-10T14:13:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
+    },
+    {
       "id": "2b67221c006b447f",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -590,7 +713,7 @@ window.DADOS = {
       "id": "ac5643888b5d5373",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "EJA, que ajudou na menor taxa de analfabetismo, é ofertado em todo o País. Veja como acessar",
+      "titulo": "EJA é ofertado em todo o País. Veja como acessar",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/pernambuco-mantem-taxa-de-analfabetismo",
       "resumo": "",
       "publicado_em": "2026-09-10T09:43:00-03:00",
@@ -631,6 +754,40 @@ window.DADOS = {
       "coletado_em": "2026-09-10T10:03:10-03:00"
     },
     {
+      "id": "516672f14520afbc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes autoriza visita de parentes de Michelle na casa de Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122137/moraes-autoriza-visita-de-parentes-de-michelle-na-casa-de-bolsonaro",
+      "resumo": "Parentes de Michelle foram autorizados a visitar Bolsonaro para ajudar nos cuidados do ex-presidente durante o período eleitoral.",
+      "publicado_em": "2026-09-10T14:39:06-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
+    },
+    {
+      "id": "8b95ad31322547ea",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senador pede sessão do Senado durante julgamento do Master no STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122136/senador-pede-sessao-do-senado-durante-julgamento-do-master-no-stf",
+      "resumo": "Requerimento cita conflito de interesses e defende atuação do Legislativo diante da crise no Supremo.",
+      "publicado_em": "2026-09-10T14:34:19-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
+    },
+    {
       "id": "693e3147cc4fd1c8",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -646,6 +803,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
+      "id": "0c95bcb7c6946e4d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cury diz que não apoiaria Lula no segundo turno em \"hipótese alguma\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122134/cury-diz-que-nao-apoiaria-lula-no-segundo-turno-em-hipotese-alguma",
+      "resumo": "Presidenciável afirmou que sua candidatura seria um \"pesadelo\" para o petista; Cury admite possibilidade de apoio a Flávio.",
+      "publicado_em": "2026-09-10T13:12:48-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "tese"
+      ],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
     },
     {
       "id": "d1dd5354b63c329a",
@@ -737,6 +910,34 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-10T11:50:53-03:00"
+    },
+    {
+      "id": "ce8eedc7643191c9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Crise e pronunciamento convocado por Moraes revivem dia D de Temer",
+      "link": "https://www.congressoemfoco.com.br/noticia/122122/crise-e-pronunciamento-convocado-por-moraes-revivem-dia-d-de-temer",
+      "resumo": "Nove anos após Temer negar que deixaria a Presidência no auge de uma crise política, Moraes cancela pronunciamento cercado por especulações sobre o que pretendia dizer. Em 2017, Temer contrariou rumores e permaneceu no cargo.",
+      "publicado_em": "2026-09-10T10:29:14-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
+    },
+    {
+      "id": "3078ae7a19005076",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sobra energia, falta preço",
+      "link": "https://www.congressoemfoco.com.br/coluna/122121/sobra-energia-falta-preco",
+      "resumo": "É o nosso teorema do impossível: queremos energia limpa, segura, abundante e barata, tudo ao mesmo tempo, sem escolher.",
+      "publicado_em": "2026-09-10T10:01:14-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
     },
     {
       "id": "9137b3a6f7509f8a",
@@ -968,7 +1169,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Alunos do 5º ano visitam o fórum da Comarca de Pérola (PR) após etapas de aprendizado",
       "link": "https://www.cnj.jus.br/alunos-do-5o-ano-visitam-o-forum-da-comarca-de-perola-pr-apos-etapas-de-aprendizado/",
-      "resumo": "A Comarca de Pérola realizou a edição 2026 do Programa “Justiça e Cidadania Também se Aprendem na Escola”, iniciativa da 2ª Vice-Presidência do Tribunal de Justiça do Estado do Paraná (TJPR) para aproximar os estudantes do Poder Judiciário. A ação contou com a participação de 20 alunos do 5º ano",
+      "resumo": "A Comarca de Pérola (PR) realizou a edição 2026 do programa Justiça e Cidadania Também se Aprendem na Escola, iniciativa da 2ª Vice-Presidência do Tribunal de Justiça do Paraná (TJPR) para aproximar os estudantes do Poder Judiciário. A ação contou com a participação de 20 alunos do 5º ano da",
       "publicado_em": "2026-09-10T12:00:00-03:00",
       "dia": "2026-09-10",
       "data_estimada": true,
@@ -983,9 +1184,9 @@ window.DADOS = {
       "id": "429b7f77035a255e",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "TJAM promove formação online sobre Direitos Humanos e Atendimento Socioeducativo",
+      "titulo": "TJAM promove formação on-line sobre Direitos Humanos e Atendimento Socioeducativo",
       "link": "https://www.cnj.jus.br/tjam-promove-formacao-online-sobre-direitos-humanos-e-atendimento-socioeducativo/",
-      "resumo": "O Tribunal de Justiça do Amazonas (TJAM), por meio da Escola Judicial (Ejud/TJAM), promove de 15 a 18 de setembro o curso online “Direitos Humanos e o Atendimento Socioeducativo: Perspectivas Contemporâneas”. A formação ocorre das 14h às 17h e é voltada a magistrados, assessores e profissionais do P",
+      "resumo": "O Tribunal de Justiça do Amazonas (TJAM), por meio da Escola Judicial (Ejud/TJAM), promove de 15 a 18 de setembro o curso on-line Direitos Humanos e o Atendimento Socioeducativo: Perspectivas Contemporâneas. A formação ocorre das 14h às 17h e é voltada a magistrados, assessores e profissionais do Po",
       "publicado_em": "2026-09-10T12:00:00-03:00",
       "dia": "2026-09-10",
       "data_estimada": true,
@@ -995,6 +1196,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
+      "id": "7b564d11268b44f5",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto obriga postos a trocar bombas de combustíveis flagradas em fraude",
+      "link": "https://www.camara.leg.br/noticias/1303080-projeto-obriga-postos-a-trocar-bombas-de-combustiveis-flagradas-em-fraude",
+      "resumo": "",
+      "publicado_em": "2026-09-10T15:13:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
     },
     {
       "id": "418371ef5bb4a334",
@@ -1920,6 +2135,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "2069e50a38e90011",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Governo Federal adota novas medidas para combustíveis frente a oscilações do petróleo",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-federal-adota-novas-medidas-para-combustiveis-frente-a-oscilacoes-do-petroleo",
+      "resumo": "",
+      "publicado_em": "2026-09-09T12:00:00-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-10T15:56:19-03:00"
     },
     {
       "id": "a9e14b08305a027a",
