@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-10T19:06:43-03:00",
+  "gerado_em": "2026-09-11T11:50:36-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -136,9 +136,9 @@ window.DADOS = {
     },
     {
       "id": "trt2",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='ww2.trt2.jus.br', port=443): Read timed out. (read timeout=20)"
+      "status": "ok",
+      "itens": 100,
+      "erro": null
     },
     {
       "id": "trt15",
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -232,9 +232,9 @@ window.DADOS = {
     },
     {
       "id": "carf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 4,
+      "erro": null
     },
     {
       "id": "governo_federal",
@@ -250,6 +250,458 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "5d21d76a8adaa2db",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Semana Nacional da Execução Trabalhista acontece de 14 a 18 de setembro",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/semana-nacional-da-execucao-trabalhista-acontece-de-14-a-18-de-setembro",
+      "resumo": "",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "7490cbd723fa8b8b",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Presidente do TRT-15 participa do \"Café com o Ministro\" em Ribeirão Preto",
+      "link": "https://trt15.jus.br/noticia/2026/presidente-do-trt-15-participa-do-cafe-com-o-ministro-em-ribeirao-preto",
+      "resumo": "Presidente do TRT-15 participa do \"Café com o Ministro\" em Ribeirão Preto anagatto Sex, 11/09/2026 - 10:12 Presidente do TRT-15 participa do \"Café com o Ministro\" em Ribeirão Preto Conteúdo da Notícia A desembargadora Ana Paula Pellegrina Lockmann, presidente do Tribunal Regional do Trabalho da 15ª ",
+      "publicado_em": "2026-09-11T10:12:12-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "5eb651f8f9c30661",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira os destaques do Plenário Virtual",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-25/",
+      "resumo": "Sessão começou às 11h desta sexta (11) e termina em 18/9, às 23h59",
+      "publicado_em": "2026-09-11T11:16:41-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "78a7250618fa4898",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Nota à Imprensa",
+      "link": "https://noticias.stf.jus.br/postsnoticias/nota-a-imprensa-47/",
+      "resumo": "STF disponibiliza documentos e peças da Petição 15.556",
+      "publicado_em": "2026-09-11T10:59:41-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "d6daad1a57e08688",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso é iluminado de amarelo em apoio à prevenção do suicídio",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/congresso-e-iluminado-de-amarelo-em-apoio-a-prevencao-do-suicidio",
+      "resumo": "",
+      "publicado_em": "2026-09-11T11:48:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "303b73ab93e12195",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Quem fiscaliza as eleições no Brasil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/11/quem-fiscaliza-as-eleicoes-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-11T10:59:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "45403212feae5017",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Com proibição suspensa pelo TSE, presos provisórios votarão em 2026",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/11/com-proibicao-suspensa-pelo-tse-presos-provisorios-votarao-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-11T09:30:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "d4152e70d433d5a0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão debate prevenção ao suicídio por ocasião do Setembro Amarelo",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/comissao-debate-prevencao-ao-suicidio-por-ocasiao-do-setembro-amarelo",
+      "resumo": "",
+      "publicado_em": "2026-09-11T09:01:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "5d6a35c1f8958867",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "TSE divulga dados dos partidos para mulheres, pessoas negras e indígenas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/tse-divulga-dados-dos-partidos-para-mulheres-pessoas-negras-e-indigenas",
+      "resumo": "",
+      "publicado_em": "2026-09-11T08:50:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "45828f85cb9ba442",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Setembro Amarelo: prevenção ao suicídio é desafio ao poder público, dizem debatedores",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/setembro-amarelo-prevencao-ao-suicidio-e-desafio-ao-poder-publico-dizem-debatedores",
+      "resumo": "",
+      "publicado_em": "2026-09-11T08:36:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "f86b67d9bef79c6b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Preços da energia elétrica e dos alimentos caem, e país tem deflação em agosto",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/precos-da-energia-eletrica-e-dos-alimentos-caem-e-pais-tem-deflacao-em-agosto",
+      "resumo": "",
+      "publicado_em": "2026-09-11T09:55:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "16567f4a5ec89f0a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF e IBAMA realizam ação de combate à extração ilegal de minério em terra indígena",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-e-ibama-realizam-acao-de-combate-a-extracao-ilegal-de-minerio-em-terra-indigena",
+      "resumo": "",
+      "publicado_em": "2026-09-11T09:20:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "944b33f26d5e88af",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Exército nomeia primeira mulher para a função de Adjunto de Comando",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/exercito-brasileiro-nomeia-primeira-mulher-para-a-funcao-de-adjunto-de-comando",
+      "resumo": "",
+      "publicado_em": "2026-09-11T08:07:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "3db9c275b9d7f3ff",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio tem 45,4% contra 45% de Lula no 2º turno segundo nova pesquisa",
+      "link": "https://www.congressoemfoco.com.br/noticia/122159/flavio-tem-45-4-contra-45-de-lula-no-2-turno-segundo-nova-pesquisa",
+      "resumo": "Levantamento Futura Inteligência/100% Cidades considera resultado empate técnico.",
+      "publicado_em": "2026-09-11T10:53:19-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "1b91dc52cb1b78d9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Distribuidora suspende lançamento de \"Dark Horse\" após ação da PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122158/distribuidora-suspende-lancamento-de-dark-horse-apos-acao-da-pf",
+      "resumo": "Empresa responsável pela distribuição afirmou que o momento exige cautela antes de levar o filme aos cinemas.",
+      "publicado_em": "2026-09-11T10:28:02-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "4fa96194be43658b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "STF retoma julgamento sobre reforma da Lei da Ficha Limpa",
+      "link": "https://www.congressoemfoco.com.br/noticia/122157/stf-retoma-julgamento-sobre-reforma-da-lei-da-ficha-limpa",
+      "resumo": "Resultado de ação pode redefinir prazos de inelegibilidade e afetar candidaturas já registradas para as eleições de outubro.",
+      "publicado_em": "2026-09-11T10:16:31-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "julgamento",
+        "julga",
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "83a9cae84762cc2f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dark Horse: Quebra de sigilo no STF confirma Flávio como investigado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122156/dark-horse-quebra-de-sigilo-no-stf-confirma-flavio-como-investigado",
+      "resumo": "Inquérito autorizado por André Mendonça apura atuação do senador na busca de recursos junto a Daniel Vorcaro para financiar Dark Horse, produção sobre Jair Bolsonaro.",
+      "publicado_em": "2026-09-11T10:08:49-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "8d5f9bad734b2559",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "1ª Turma julga recurso de Eduardo contra condenação por lobby nos EUA",
+      "link": "https://www.congressoemfoco.com.br/noticia/122155/1-turma-julga-recurso-de-eduardo-contra-condenacao-por-lobby-nos-eua",
+      "resumo": "Defensoria questiona pontos da decisão que condenou Eduardo Bolsonaro por articulações feitas nos Estados Unidos.",
+      "publicado_em": "2026-09-11T09:43:24-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 86,
+      "tags": [
+        "decisao",
+        "julga",
+        "condenacao",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "d8256bc2800e27d0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Chefes da supervisão do BC agiam como \"empregados\" de Vorcaro, diz PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122153/chefes-da-supervisao-do-bc-agiam-como-empregados-de-vorcaro-diz-pf",
+      "resumo": "Servidores preparavam o banqueiro para reuniões, revisavam documentos destinados ao próprio BC e alertavam sobre fiscalizações, segundo representação da PF ao STF.",
+      "publicado_em": "2026-09-11T08:43:47-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "887daa536a695374",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF cumpre busca contra suspeito de ameaças a parlamentar de MG",
+      "link": "https://www.congressoemfoco.com.br/noticia/122152/pf-cumpre-busca-contra-suspeito-de-ameacas-a-parlamentar-de-mg",
+      "resumo": "Investigação apura mensagens enviadas por e-mail com ameaças e dados pessoais da vítima.",
+      "publicado_em": "2026-09-11T08:20:39-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "bfdb36efd9639f73",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Caso Master: PF diz que Vorcaro soube antes de operação que o prendeu",
+      "link": "https://www.congressoemfoco.com.br/noticia/122150/caso-master-pf-diz-que-vorcaro-soube-antes-de-operacao-que-o-prendeu",
+      "resumo": "Banqueiro tinha nomes de investigadores, sabia quem era o juiz do caso e mudou planos na véspera da Compliance Zero. Peça retirada do sigilo por Mendonça detalha os indícios apontados pela PF.",
+      "publicado_em": "2026-09-11T07:40:05-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "compliance",
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "236ca27c7bdd44a7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A pedido de Fachin, Mendonça derruba sigilo de casos ligados ao Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122149/a-pedido-de-fachin-mendonca-derruba-sigilo-de-casos-ligados-ao-master",
+      "resumo": "Presidente do STF determinou abertura da Pet 15.556 e de procedimentos relacionados antes de julgamento extraordinário; Mendonça liberou 14 processos e enviará cópia integral aos ministros.",
+      "publicado_em": "2026-09-11T06:50:01-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "375b4659faec7b48",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TSE abre inscrições para curso de capacitação em Direito Eleitoral voltado a jornalistas",
+      "link": "https://www.cnj.jus.br/tse-abre-inscricoes-para-curso-de-capacitacao-em-direito-eleitoral-voltado-a-jornalistas/",
+      "resumo": "O Tribunal Superior Eleitoral (TSE) abre, a partir desta sexta-feira (11/9), as inscrições para o curso “Direito Eleitoral para Jornalistas – Eleições 2026”. A capacitação, promovida pela Secretaria de Comunicação e Multimídia (Secom) em parceria com a Escola Judiciária Eleitoral (EJE/TSE), é gratui",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "5655220c2204ec0d",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Linguagem e acolhimento influenciam a experiência nas audiências, aponta pesquisa",
+      "link": "https://www.cnj.jus.br/linguagem-e-acolhimento-influenciam-a-experiencia-nas-audiencias-aponta-pesquisa/",
+      "resumo": "A forma como uma audiência de instrução é conduzida, momento em que o juiz ouve as partes e testemunhas e analisa as provas do processo, pode fazer diferença na maneira como cidadãos e cidadãs compreendem, participam e percebem a Justiça. É o que mostra a pesquisa “Acesso e percepção dos",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "582946631c77ae90",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prioriza doadores frequentes de sangue em campanhas de vacinação",
+      "link": "https://www.camara.leg.br/noticias/1303641-projeto-prioriza-doadores-frequentes-de-sangue-em-campanhas-de-vacinacao",
+      "resumo": "",
+      "publicado_em": "2026-09-11T11:23:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "7b14fdb837ad0a71",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Constituição e Justiça aprova projeto que proíbe o uso do termo \"elefantíase\" em documentos públicos",
+      "link": "https://www.camara.leg.br/noticias/1303928-comissao-de-constituicao-e-justica-aprova-projeto-que-proibe-o-uso-do-termo-elefantiase-em-documentos-publicos",
+      "resumo": "",
+      "publicado_em": "2026-09-11T10:07:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "95f048030d5c36e3",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei autoriza o BNDES a criar subsidiárias",
+      "link": "https://www.camara.leg.br/noticias/1303953-nova-lei-autoriza-o-bndes-a-criar-subsidiarias",
+      "resumo": "",
+      "publicado_em": "2026-09-11T08:09:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "43b6cb68b3ad6b26",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que proíbe ruas com nomes iguais no mesmo município",
+      "link": "https://www.camara.leg.br/noticias/1303923-comissao-aprova-projeto-que-proibe-ruas-com-nomes-iguais-no-mesmo-municipio",
+      "resumo": "",
+      "publicado_em": "2026-09-11T07:46:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "ee54252dd5d84be2",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "46º PinCade tem inscrições prorrogadas",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/46o-pincade-tem-inscricoes-prorrogadas",
+      "resumo": "",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "prorrogad",
+        "cade"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
     {
       "id": "3bc290693f358846",
       "fonte_id": "tst",
@@ -393,6 +845,22 @@ window.DADOS = {
       "coletado_em": "2026-09-10T15:56:19-03:00"
     },
     {
+      "id": "ca6175ef536e0976",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Presidente do TRT-2 recebe visita institucional de conselheiro do CNJ",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/presidente-do-trt-2-recebe-visita-institucional-de-conselheiro-do-cnj-1",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
       "id": "2cad8d67998cadaf",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -487,10 +955,58 @@ window.DADOS = {
       "coletado_em": "2026-09-10T19:06:43-03:00"
     },
     {
+      "id": "54c4f43d2cff02f3",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP participa de audiência pública sobre precatórios no CNJ",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115289&pagina=1",
+      "resumo": "Sugestões para aperfeiçoamento de normas.\n \n\tO desembargador Afonso de Barros Faro Júnior, coordenador da Diretoria de Execuções de Precatórios (Depre) do Tribunal de Justiça de",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "precatorio"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "fee3899cd277f5bc",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Obras jurídicas com prefácio da ministra Cármen Lúcia são lançadas no STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/obras-juridicas-com-prefacio-da-ministra-carmen-lucia-sao-lancadas-no-stf/",
+      "resumo": "No evento, ministra destacou o trabalho e a contribuição acadêmica dos autores",
+      "publicado_em": "2026-09-10T21:06:57-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "7823797ce6b40577",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF fará audiência pública sobre responsabilidade de parlamentares na destinação de emendas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-fara-audiencia-publica-sobre-responsabilidade-de-parlamentares-na-destinacao-de-emendas/",
+      "resumo": "Convocado pelo ministro Flávio Dino, encontro ocorrerá em 22 de setembro; inscrições estão abertas para especialistas e instituições que pretendem participar como expositores",
+      "publicado_em": "2026-09-10T19:30:47-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
       "id": "9393c3f7699db7b6",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "STF homologa planos estaduais contra violações de direitos no sistema prisional",
+      "titulo": "Supremo homologa planos estaduais contra violações de direitos no sistema prisional",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-homologa-planos-estaduais-contra-violacoes-de-direitos-no-sistema-prisional/",
       "resumo": "Medidas buscam enfrentar problemas como superlotação, excesso de presos provisórios e condições degradantes nos presídios",
       "publicado_em": "2026-09-10T18:09:20-03:00",
@@ -550,6 +1066,52 @@ window.DADOS = {
       "coletado_em": "2026-09-10T10:03:10-03:00"
     },
     {
+      "id": "c596a1411ef65447",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Na CDH, especialistas propõem medidas para prevenir automutilação e suicídio",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/10/na-cdh-especialistas-propoem-medidas-para-prevenir-automutilacao-e-suicidio",
+      "resumo": "",
+      "publicado_em": "2026-09-10T20:47:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "b43e307435784de8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "TSE envia aos TREs programas de registro e apuração de votos das urnas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/tse-envia-aos-tres-programas-de-registro-e-apuracao-de-votos-das-urnas",
+      "resumo": "",
+      "publicado_em": "2026-09-10T19:48:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "905ce13c44c81c8a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim da 'taxa das blusinhas' é sancionado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/fim-da-taxa-das-blusinhas-e-sancionado",
+      "resumo": "",
+      "publicado_em": "2026-09-10T19:46:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
       "id": "07beb453179a6583",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -584,7 +1146,7 @@ window.DADOS = {
       "id": "9ba573bbe03c5e32",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "Sancionada lei que autoriza o BNDES a criar subsidiárias",
+      "titulo": "Sancionada lei que autoriza o BNDES a criar subsidiárias; novo fundo é vetado",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/09/10/sancionada-lei-que-autoriza-o-bndes-a-criar-subsidiarias",
       "resumo": "",
       "publicado_em": "2026-09-10T14:32:00-03:00",
@@ -757,6 +1319,52 @@ window.DADOS = {
       "coletado_em": "2026-09-10T19:06:43-03:00"
     },
     {
+      "id": "2263af5d08bfe95f",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon discute endividamento com o Sistema Nacional de Defesa do Consumidor",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-discute-endividamento-com-o-sistema-nacional-de-defesa-do-consumidor",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "1065b28320b3588d",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon inicia averiguação sobre mudanças no Amazon Prime Video",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-inicia-averiguacao-sobre-mudancas-no-amazon-prime-video",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "70ebe942075b67e5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério da Saúde reforça orientações para proteger população durante frio no Sul",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/ministerio-da-saude-reforca-orientacoes-para-proteger-a-populacao-durante-frio-no-sul",
+      "resumo": "",
+      "publicado_em": "2026-09-10T19:13:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
       "id": "3a98bc8f56d654cc",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -769,6 +1377,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "4fdecfe0d362d48a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Operação Gota faz última etapa de vacinação em aldeias do Amazonas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/operacao-gota-encerra-acoes-de-2026-com-vacinacao-no-medio-rio-purus-no-amazonas",
+      "resumo": "",
+      "publicado_em": "2026-09-10T18:13:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
     },
     {
       "id": "6126b707b99d249d",
@@ -901,6 +1525,71 @@ window.DADOS = {
       "coletado_em": "2026-09-10T10:03:10-03:00"
     },
     {
+      "id": "f967bbff63eb7835",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM comunica celebração de novo Acordo Administrativo em Processo de Supervisão relacionado à companhia Americanas S.A.",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-comunica-celebracao-de-novo-acordo-administrativo-em-processo-de-supervisao-relacionado-a-companhia-americanas-s-a",
+      "resumo": "",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "88c05b51e26407dd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula defende atuação de Andrei Rodrigues em inquérito do caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122148/lula-defende-atuacao-de-andrei-rodrigues-em-inquerito-do-caso-master",
+      "resumo": "Chefe do Executivo diz que Andrei fez \"trabalho extraordinário\" e defende liberdade da PF para aprofundar apurações sobre o Master.",
+      "publicado_em": "2026-09-10T20:35:32-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "1fe0110bf251ee0c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula elogia intervenção de Fachin e defende investigação sobre Moraes",
+      "link": "https://www.congressoemfoco.com.br/noticia/122147/lula-elogia-intervencao-de-fachin-e-defende-investigacao-sobre-moraes",
+      "resumo": "Presidente elogia decisões de Fachin para conter crise no Supremo e diz que suspeitas contra ministros precisam ser amplamente investigadas.",
+      "publicado_em": "2026-09-10T20:20:23-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "b6b1cf986dcf6d2f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Vou entregar cada documento\", diz Mario Frias sobre caso Dark Horse",
+      "link": "https://www.congressoemfoco.com.br/noticia/122146/vou-entregar-cada-documento--diz-mario-frias-sobre-caso-dark-horse",
+      "resumo": "Alvo de buscas da PF, deputado diz que recursos foram destinados a projetos sociais e promete colaborar com as investigações.",
+      "publicado_em": "2026-09-10T19:14:20-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
       "id": "60466a9fd2ca0a9f",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -916,6 +1605,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "27f503e283fa9303",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MEC prevê ajuste no calendário escolar durante Copa Feminina",
+      "link": "https://www.congressoemfoco.com.br/noticia/122144/mec-preve-ajuste-no-calendario-escolar-durante-copa-feminina",
+      "resumo": "Orientação alcança cidades-sede e áreas diretamente afetadas pelo torneio; demais redes poderão decidir se adaptam o período de férias.",
+      "publicado_em": "2026-09-10T17:04:54-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
     },
     {
       "id": "954bacb433a2600a",
@@ -1456,6 +2161,38 @@ window.DADOS = {
         "portaria"
       ],
       "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "d5d2e00b1fcba40c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Aperfeiçoamento do Tribunal do Júri é tema de seminário no CNJ",
+      "link": "https://www.cnj.jus.br/aperfeicoamento-do-tribunal-do-juri-e-tema-seminario-no-cnj/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) promoverá, nos dias 22 e 23 de setembro, o Seminário Nacional de Magistrados e Servidores que Atuam em Varas do Tribunal do Júri. O evento, que será realizado na sede do CNJ, em Brasília, é voltado a magistrados, membros do Ministério Público, da Defensoria",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "a83f3de9cc5ad380",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Seminário em Cuiabá leva ministros do STF e do STJ a discutirem conflitos fundiários",
+      "link": "https://www.cnj.jus.br/seminario-em-cuiaba-leva-ministros-do-stf-e-stj-para-discutir-conflitos-fundiarios/",
+      "resumo": "Os ministros Gilmar Mendes, do Supremo Tribunal Federal (STF), e Reynaldo Soares da Fonseca, do Superior Tribunal de Justiça (STJ), participam, nos dias 21 e 22 de setembro, em Cuiabá, do “Seminário de Soluções Fundiárias: atividade jurisdicional e conciliatória”. O evento reúne magistrados e repres",
+      "publicado_em": "2026-09-10T12:00:00-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
     },
     {
       "id": "cc33357ddd7ad17a",
@@ -45011,36 +45748,6 @@ window.DADOS = {
       "data_estimada": true,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "95169d64c46ce30a",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "TRT-2 amplia sala da advocacia no Fórum da Zona Sul",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-amplia-sala-da-advocacia-no-forum-da-zona-sul",
-      "resumo": "",
-      "publicado_em": "2026-06-12T12:00:00-03:00",
-      "dia": "2026-06-12",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "c0c87c088cd5d1f1",
-      "fonte_id": "bacen",
-      "fonte_nome": "Bacen",
-      "titulo": "Educação financeira é central para ampliar autonomia da população, diz diretora do BC",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21160/nota",
-      "resumo": "Diretora Izabela Correa destacou educação financeira como elemento central para ampliar a autonomia da população brasileira. Banco Central tem reforçado a atuação em educação financeira, com avanço do programa Aprender Valor e expansão para o ensino médio.  Encontro de Educação Financeira debateu de",
-      "publicado_em": "2026-06-12T17:41:09-03:00",
-      "dia": "2026-06-12",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
