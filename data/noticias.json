@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-11T15:57:55-03:00",
+  "gerado_em": "2026-09-11T19:06:40-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 4,
       "erro": null
     },
     {
@@ -173,7 +173,7 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 25,
+      "itens": 28,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -299,6 +299,22 @@
       "coletado_em": "2026-09-11T14:24:06-03:00"
     },
     {
+      "id": "81c0a9cd0d2d11d3",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Fórum Trabalhista do Guarujá-SP passa a se chamar Desembargador Gualdo Amaury Formica",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/forum-trabalhista-do-guaruja-sp-passa-a-se-chamar-desembargador-gualdo-amaury-formica",
+      "resumo": "",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
       "id": "e2aee64bcb10c7a2",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -360,6 +376,149 @@
       "coletado_em": "2026-09-11T14:24:06-03:00"
     },
     {
+      "id": "47d934532ab34b70",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Iniciadas as comemorações do centenário do poeta Paulo Bomfim",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115305&pagina=1",
+      "resumo": "Primeiro evento ocorreu na APL.\n \n\tForam abertas, ontem (10), na sede da Academia Paulista de Letras (APL), as comemorações do centenário de nascimento de Paulo",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "cade",
+        "comemora"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "5072acf917724266",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP inicia prazo para autodeclaração de pessoa negra para o 6º Enam e validação da autodeclaração de pessoa negra, condição de pessoa indígena e quilombola para o 4º Enac",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115307&pagina=1",
+      "resumo": "Solicitação para exames nacionais vai até 24 de setembro.\n \n\tO Tribunal de Justiça de São Paulo iniciou o prazo para que candidatos do 6º Exame",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "657a1ae650fa8c7a",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115303&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, reuniu-se, hoje (11), no Gabinete",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "dcee46bdbd4f31e6",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Vara das Execuções Fiscais Municipais da Capital registra crescimento da utilização do Sisbajud",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115304&pagina=1",
+      "resumo": "Ferramenta reforça efetividade da execução fiscal.\n \n\tA Vara das Execuções Fiscais Municipais da Capital registrou expressivo crescimento na utilização do Sistema de Busca de",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "d5dc9866d6470885",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Desembargadores Cláudio Teixeira Villar, Mário Daccache, Marcos Pimentel Tamassia e Érika Mascarenhas são empossados em solenidade",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115298&pagina=1",
+      "resumo": "Magistrados com mais de 35 anos de carreira.\n \n\tO Tribunal de Justiça de São Paulo promoveu, ontem (10), a posse solene de quatro novos integrantes",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "e426307e78a6fc88",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "CNJ lança painel para acompanhar conformidade dos tribunais com resoluções",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cnj-lanca-painel-para-acompanhar-conformidade-dos-tribunais-com-resolucoes/",
+      "resumo": "Dados são disponibilizados em formato de Business Intelligence (BI) e podem ser consultados no portal do CNJ",
+      "publicado_em": "2026-09-11T18:15:57-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "bac19fbfad067e6f",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF vai decidir se crise humanitária pode dispensar visto para reunião familiar no Brasil",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-vai-decidir-se-crise-humanitaria-pode-dispensar-visto-para-reuniao-familiar-no-brasil/",
+      "resumo": "Tribunal reconheceu repercussão geral da matéria; caso concreto envolve uma família de haitianos",
+      "publicado_em": "2026-09-11T17:10:07-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "repercussao geral"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "9f17117d1f8a5d4d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF promoverá escuta de lideranças indígenas em Salvador (BA)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-promovera-escuta-de-liderancas-indigenas-em-salvador-ba/",
+      "resumo": "3ª edição do programa Escuta Territorializada, iniciativa da Ouvidoria dos Povos Indígenas, Quilombolas e Comunidades Tradicionais do STF, busca identificar demandas e barreiras de acesso à Justiça",
+      "publicado_em": "2026-09-11T16:41:55-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "58967aeb5ba2dfe0",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF anula lei municipal que proibia seguradoras de comprar peças de reposição de veículos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-anula-lei-municipal-que-proibia-seguradoras-de-comprar-pecas-de-reposicao-de-veiculos/",
+      "resumo": "Norma de São José do Rio Preto (SP) contrariava a regulamentação federal sobre mercado de seguros",
+      "publicado_em": "2026-09-11T16:05:11-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
       "id": "ffe1ec57e618fdb3",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -400,6 +559,64 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "c1f042cc271a99f3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado homenageia trabalhadores da área de limpeza",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/senado-homenageia-trabalhadores-da-area-da-limpeza",
+      "resumo": "",
+      "publicado_em": "2026-09-11T17:19:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "e43416a2f75f858e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Programa Jovem Senador ganha destaque em documentário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/11/programa-jovem-senador-ganha-destaque-em-documentario",
+      "resumo": "",
+      "publicado_em": "2026-09-11T17:09:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "c1e70823b36607dd",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Nova lei autoriza BNDES a criar empresas subsidiárias",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/nova-lei-autoriza-bndes-a-criar-empresas-subsidiarias",
+      "resumo": "",
+      "publicado_em": "2026-09-11T16:48:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "dcad6a36eb4d151d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Importância dos profissionais da limpeza é destacada em sessão especial",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/11/importancia-dos-profissionais-da-limpeza-e-destacada-em-sessao-especial",
+      "resumo": "",
+      "publicado_em": "2026-09-11T16:31:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
     },
     {
       "id": "1de135636de1ea5f",
@@ -577,6 +794,52 @@
       "coletado_em": "2026-09-11T15:57:55-03:00"
     },
     {
+      "id": "cfe88a63dd627b71",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Forças policiais integradas prendem, em São Paulo, membro do 'Novo Cangaço'",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/ficco-go-captura-integrante-de-grupo-criminoso-ligado-ao-201cnovo-cangaco201d-em-sp",
+      "resumo": "",
+      "publicado_em": "2026-09-11T17:47:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "5ea7fede55aabfcd",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Neste domingo (13), Rádio Nacional transmite clássico nacional entre Flamengo e Corinthians",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/neste-domingo-13-radio-nacional-transmite-classico-nacional-entre-flamengo-e-corinthians",
+      "resumo": "",
+      "publicado_em": "2026-09-11T16:10:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "e127d7cb7b56f261",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enamed 2026: solicitação de reaplicação poderá ser feita nos dias 14 e 15 de setembro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/enamed-2026-solicitacao-de-reaplicacao-podera-ser-feita-nos-dias-14-e-15-de-setembro",
+      "resumo": "",
+      "publicado_em": "2026-09-11T15:20:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
       "id": "87bc5d561ed145cb",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -665,6 +928,243 @@
       "coletado_em": "2026-09-11T15:57:55-03:00"
     },
     {
+      "id": "456e6d00fa6beb9b",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Women Leaders in Finance e Strategic Economics Alliance abrem chamada para artigos de pesquisa",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/women-leaders-in-finance-e-strategic-economics-alliance-abrem-chamada-para-artigos-de-pesquisa",
+      "resumo": "",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "31ca46f6deb1f0ed",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM participa do III Seminário Nacional sobre Crédito, em Brasília",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-do-iii-seminario-nacional-sobre-credito-em-brasilia",
+      "resumo": "",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "3f3d8a54b0d233d3",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Área técnica da CVM orienta sobre impossibilidade de vinculação da taxa de performance de FIDC à remuneração da consultoria",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-orienta-sobre-impossibilidade-de-vinculacao-da-taxa-de-performance-de-fidc-a-remuneracao-da-consultoria",
+      "resumo": "",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "15107c4682a3e953",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar diz que caso contra Moraes nem sequer tem pedido a ser julgado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122195/gilmar-diz-que-caso-contra-moraes-nem-sequer-tem-pedido-a-ser-julgado",
+      "resumo": "Decano diz ter \"sérias dúvidas\" de que a Pet 16.662 esteja pronta para julgamento, propõe reunião com processo conduzido pela presidência e, se sessão de terça for mantida, defende que Fachin relate o caso.",
+      "publicado_em": "2026-09-11T18:43:53-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "ca195768e65d8035",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça rebate Moraes e chama de \"imprestável\" tabela sobre 180 peças",
+      "link": "https://www.congressoemfoco.com.br/noticia/122194/mendonca-rebate-moraes-e-chama-de-imprestavel-tabela-sobre-180-pecas",
+      "resumo": "Ministro afirmou que diferença apontada pelo colega decorre do funcionamento do sistema do STF e diz que todos os documentos efetivamente disponíveis foram tornados públicos.",
+      "publicado_em": "2026-09-11T18:13:18-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "260f55ee2ed58255",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça diz que cópia de celular de Vorcaro está lacrada e intocada",
+      "link": "https://www.congressoemfoco.com.br/noticia/122193/mendonca-diz-que-copia-de-celular-de-vorcaro-esta-lacrada-e-intocada",
+      "resumo": "Ministro afirma que aparelho original está sob custódia da Polícia Federal e que HD com dados extraídos foi entregue espontaneamente pela corporação ao gabinete, mas nunca teria sido aberto.",
+      "publicado_em": "2026-09-11T18:06:55-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "48cc13c7fd508429",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE tem maioria para barrar candidatura de Pablo Marçal à presidência",
+      "link": "https://www.congressoemfoco.com.br/noticia/122192/tse-tem-maioria-para-barrar-candidatura-de-pablo-marcal-a-presidencia",
+      "resumo": "Corte tem cinco votos pelo indeferimento do registro do candidato do PRTB, considerado inelegível até 2032 por condenação relacionada à campanha eleitoral de 2024.",
+      "publicado_em": "2026-09-11T17:47:54-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "f1407c300fa067bf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Datafolha: Celina tem 40%, Arruda, 17%, e Grass, 16% no DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122191/datafolha-celina-tem-40--arruda-17--e-grass-16-no-df",
+      "resumo": "Governadora amplia vantagem na disputa pelo Palácio do Buriti; ex-governador cai 11 pontos e passa a empatar tecnicamente com o candidato do PT.",
+      "publicado_em": "2026-09-11T17:29:02-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "7298af6a5dab200b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Soraya ironiza ausência de Contar em debate: \"virou Capitão América?\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122190/soraya-ironiza-ausencia-de-contar-em-debate--virou-capitao-america",
+      "resumo": "Senadora também lamentou a falta de adversários e afirmou que as ausências prejudicam o debate democrático.",
+      "publicado_em": "2026-09-11T17:14:46-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "398d5170e9a69cf4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AGU cita \"afastamento sem justa causa\" e defende Andrei a Fachin",
+      "link": "https://www.congressoemfoco.com.br/noticia/122189/agu-cita-afastamento-sem-justa-causa-e-defende-andrei-a-fachin",
+      "resumo": "Instituição sustenta que a definição sobre a permanência do chefe da PF pertence às competências do presidente.",
+      "publicado_em": "2026-09-11T17:13:37-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "44b004f9bad93db9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE/RJ indefere candidatura de Anthony Garotinho por unanimidade",
+      "link": "https://www.congressoemfoco.com.br/noticia/122187/tre-rj-indefere-candidatura-de-anthony-garotinho-por-unanimidade",
+      "resumo": "Corte considerou que o político está com os direitos políticos suspensos por oito anos, com início em 2025; candidato considera data em 2018.",
+      "publicado_em": "2026-09-11T16:45:36-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "de0a7ca27981f16e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O que há disponível quando uma criança desliga a tela?",
+      "link": "https://www.congressoemfoco.com.br/artigo/122186/o-que-ha-disponivel-quando-uma-crianca-desliga-a-tela",
+      "resumo": "Quando uma criança desliga a tela, deveria existir um mundo de possibilidades esperando por ela.",
+      "publicado_em": "2026-09-11T16:10:48-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "af7f9f781670cbff",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O balanço da reconstrução e o futuro das conquistas",
+      "link": "https://www.congressoemfoco.com.br/coluna/122183/o-balanco-da-reconstrucao-e-o-futuro-das-conquistas",
+      "resumo": "O debate de 2026 não será apenas entre nomes ou candidaturas, mas uma disputa sobre o papel do Estado brasileiro.",
+      "publicado_em": "2026-09-11T16:00:03-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "cd46c5327e74e741",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Na imprensa, o candidato despreparado não tem mais para onde correr",
+      "link": "https://www.congressoemfoco.com.br/artigo/122182/na-imprensa-o-candidato-despreparado-nao-tem-mais-para-onde-correr",
+      "resumo": "Um jornalismo que cobra detalhamento cria demanda por propostas bem desenhadas e oferece ao eleitor um critério que o algoritmo ainda não entrega.",
+      "publicado_em": "2026-09-11T15:40:40-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "843d098b05ba40a1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Teatros da Amazônia são Patrimônios Mundiais: E agora?",
+      "link": "https://www.congressoemfoco.com.br/artigo/122181/teatros-da-amazonia-sao-patrimonios-mundiais-e-agora",
+      "resumo": "Patrimônio vivo não é aquele que permanece intocado pelo tempo, mas aquele que consegue atravessá-lo produzindo novos significados.",
+      "publicado_em": "2026-09-11T15:19:04-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "b6ca2cea9e385205",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Política não é concurso de popularidade",
+      "link": "https://www.congressoemfoco.com.br/artigo/122180/politica-nao-e-concurso-de-popularidade",
+      "resumo": "Em 2026, talvez devamos perguntar menos quem consegue desagradar a menos pessoas e mais quais convicções cada candidato está disposto a sustentar quando elas custam votos.",
+      "publicado_em": "2026-09-11T15:13:19-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
       "id": "b3439ef6abc6f377",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -710,6 +1210,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
+      "id": "4199702c31b6803e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A vez do Supremo",
+      "link": "https://www.congressoemfoco.com.br/artigo/122174/a-vez-do-supremo",
+      "resumo": "Duas décadas de crises redesenharam o equilíbrio entre os Poderes no Brasil. Talvez agora seja a vez do Supremo entrar no centro desse reajuste.",
+      "publicado_em": "2026-09-11T14:48:38-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
     },
     {
       "id": "6de9bd9374879919",
@@ -834,6 +1348,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "69b8836809d97404",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula tem empate técnico com Flávio e Caiado em 2º turno, diz pesquisa",
+      "link": "https://www.congressoemfoco.com.br/noticia/122162/lula-tem-empate-tecnico-com-flavio-e-caiado-em-2-turno-diz-pesquisa",
+      "resumo": "No confronto direto, petista registra 43,7% das intenções de voto, enquanto ex-governador soma 42,8%.",
+      "publicado_em": "2026-09-11T11:59:21-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
     },
     {
       "id": "15ecddd91f8d66a6",
@@ -1086,7 +1614,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Palmas ganha sala da Justiça Restaurativa voltada a conflitos que envolvam adolescentes",
       "link": "https://www.cnj.jus.br/palmas-ganha-sala-da-justica-restaurativa-voltada-a-conflitos-que-envolvam-adolescentes/",
-      "resumo": "O Tribunal de Justiça do Tocantins (TJTO) inaugurou, nesta quinta-feira (10) a Sala da Justiça Restaurativa, no Núcleo de Atendimento Integrado (NAI), em Palmas. Os atendimentos no novo espaço terão início em 15 de setembro e serão voltados à resolução de situações de conflitos que envolvam adolesce",
+      "resumo": "O Tribunal de Justiça do Tocantins (TJTO) inaugurou, nesta quinta-feira (10), a Sala da Justiça Restaurativa, no Núcleo de Atendimento Integrado (NAI), em Palmas. Os atendimentos no novo espaço terão início em 15 de setembro e serão voltados à resolução de situações de conflito que envolvam adolesce",
       "publicado_em": "2026-09-11T12:00:00-03:00",
       "dia": "2026-09-11",
       "data_estimada": true,
@@ -1102,13 +1630,137 @@
       "fonte_nome": "CNJ",
       "titulo": "Após ouvir quilombolas, CNJ faz escuta de indígenas para solução de questão fundiária em Oriximiná (PA)",
       "link": "https://www.cnj.jus.br/apos-ouvir-quilombolas-cnj-faz-escuta-de-indigenas-para-solucao-de-questao-fundiaria-em-oriximina-pa/",
-      "resumo": "A Comissão Nacional de Soluções Fundiárias do Conselho Nacional de Justiça (CNJ) se reuniu na quinta-feira (10/9) com lideranças indígenas em continuidade às escutas que visam solucionar conflito fundiário envolvendo a Terra Indígena Kaxuyana-Tunayana e o território da Comunidade Remanescente de Qui",
+      "resumo": "A Comissão Nacional de Soluções Fundiárias do Conselho Nacional de Justiça (CNJ) se reuniu na quinta-feira (10/9) com lideranças indígenas em continuidade às escutas que visam solucionar conflito fundiário envolvendo a terra indígena Kaxuyana-Tunayana e o território da Comunidade Remanescente de Qui",
       "publicado_em": "2026-09-11T12:00:00-03:00",
       "dia": "2026-09-11",
       "data_estimada": true,
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
+      "id": "b408a05fa4520872",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Rede colaborativa do Judiciário atenderá comunidades vulneráveis na Bahia",
+      "link": "https://www.cnj.jus.br/rede-colaborativa-do-judiciario-atendera-comunidades-vulneraveis-na-bahia/",
+      "resumo": "Aproximar o Poder Judiciário das comunidades em situação de vulnerabilidade e construir soluções de forma integrada. Com esse propósito, o Tribunal de Justiça da Bahia (TJBA) lançou, nesta sexta-feira (10), o Projeto Pertencer. A iniciativa é voltada ao atendimento a comunidades em situação de vulne",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "d275e79bf1e7fb40",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ vai realizar novo Censo do Poder Judiciário",
+      "link": "https://www.cnj.jus.br/cnj-vai-realizar-novo-censo-do-poder-judiciario/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) vai realizar um novo Censo do Poder Judiciário, pesquisa destinada a traçar o perfil de magistrados e magistradas que compõem o Poder Judiciário brasileiro, com o objetivo de atualizar dados. O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribuna",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "90a39c27cd640980",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Dia Mundial de Prevenção ao Suicídio é tema de programação no RN",
+      "link": "https://www.cnj.jus.br/dia-mundial-de-prevencao-ao-suicidio-e-tema-de-programacao-no-rn/",
+      "resumo": "Em alusão ao Dia Mundial de Prevenção ao Suicídio, celebrado nesta quinta-feira (10), o Núcleo de Orientação e Acompanhamento aos Usuários e Dependentes Químicos do Tribunal de Justiça do Rio Grande do Norte (Noad/TJRN) realiza uma ação de conscientização com servidores, magistrados e servidores que",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "ab70188c89c31b74",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Inteligência artificial é tema de debate no Pará",
+      "link": "https://www.cnj.jus.br/inteligencia-artificial-e-tema-de-debate-no-para/",
+      "resumo": "A Escola Judicial do Poder Judiciário do Estado do Pará (EJPA) lançou o Programa EJPA Conecta, iniciativa que levará magistradas, magistrados, servidoras e servidores do Tribunal de Justiça do Pará (TJPA) às instituições de ensino superior para a realização de palestras, oficinas, treinamentos e out",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "50d7049fddaf37c1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Conselho de Comunicação Social debate regulação das redes sociais nesta segunda-feira; participe",
+      "link": "https://www.camara.leg.br/noticias/1304206-conselho-de-comunicacao-social-debate-regulacao-das-redes-sociais-nesta-segunda-feira-participe",
+      "resumo": "",
+      "publicado_em": "2026-09-11T17:34:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "98d8dd229725a0ee",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova inclusão no ECA de regra sobre atuação do Ministério Público em pedido de pensão",
+      "link": "https://www.camara.leg.br/noticias/1304213-comissao-aprova-inclusao-no-eca-de-regra-sobre-atuacao-do-ministerio-publico-em-pedido-de-pensao",
+      "resumo": "",
+      "publicado_em": "2026-09-11T17:29:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "ddc05b38e016e25f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eleições 2026: conheça as regras para inteligência artificial e propaganda dos candidatos",
+      "link": "https://www.camara.leg.br/noticias/1304078-eleicoes-2026-conheca-as-regras-para-inteligencia-artificial-e-propaganda-dos-candidatos",
+      "resumo": "",
+      "publicado_em": "2026-09-11T16:46:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "02d24d8291942584",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Maioria dos deputados em exercício busca a reeleição, mas cresce o número de quem concorre a outros cargos",
+      "link": "https://www.camara.leg.br/noticias/1304085-maioria-dos-deputados-em-exercicio-busca-a-reeleicao-mas-cresce-o-numero-de-quem-concorre-a-outros-cargos",
+      "resumo": "",
+      "publicado_em": "2026-09-11T16:06:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
     },
     {
       "id": "07b4de14284064e0",
@@ -1123,6 +1775,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
+      "id": "e04951f822099979",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Fim da 'taxa das blusinhas' para compras até US$ 50 agora é lei",
+      "link": "https://www.camara.leg.br/noticias/1304183-fim-da-taxa-das-blusinhas-para-compras-ate-us-50-agora-e-lei",
+      "resumo": "",
+      "publicado_em": "2026-09-11T15:31:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
     },
     {
       "id": "a5acff202584f03b",
@@ -2481,6 +3147,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-10T10:03:10-03:00"
+    },
+    {
+      "id": "4c7f85028c0f5762",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Uma sociedade que precisa rever conceitos e atitudes!",
+      "link": "https://www.congressoemfoco.com.br/artigo/122117/uma-sociedade-que-precisa-rever-conceitos-e-atitudes",
+      "resumo": "A educação é a única saída para nosso país poder se desenvolver com sustentabilidade.",
+      "publicado_em": "2026-09-10T09:21:39-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
     },
     {
       "id": "d9884b7acdabf772",
