@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-11T14:24:06-03:00",
+  "gerado_em": "2026-09-11T15:57:55-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -402,6 +402,22 @@
       "coletado_em": "2026-09-11T11:50:36-03:00"
     },
     {
+      "id": "1de135636de1ea5f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Conselho de Comunicação Social debate regulação de redes sociais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/11/conselho-de-comunicacao-social-debate-regulacao-de-redes-sociais",
+      "resumo": "",
+      "publicado_em": "2026-09-11T15:09:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
       "id": "bd6e891010010b06",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -544,6 +560,37 @@
       "coletado_em": "2026-09-11T14:24:06-03:00"
     },
     {
+      "id": "a4705115284d7934",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação ClickFix desarticula grupo cibercriminoso e apreende mais de R$ 8,7 milhões em criptoativos",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-clickfix-desarticula-grupo-cibercriminoso-e-apreende-mais-de-r-8-7-milhoes-em-criptoativos",
+      "resumo": "",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 32,
+      "tags": [
+        "acao",
+        "apreende"
+      ],
+      "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
+      "id": "87bc5d561ed145cb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Conab realiza primeiro leilão de compra de arroz para formar estoques públicos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/conab-realiza-primeiro-leilao-de-compra-de-arroz-para-formar-estoques-publicos",
+      "resumo": "",
+      "publicado_em": "2026-09-11T14:05:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
       "id": "97cabad497ebdd13",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -604,6 +651,83 @@
       "coletado_em": "2026-09-11T11:50:36-03:00"
     },
     {
+      "id": "66c2941c09e6b9dc",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Embrapa apoia cidades para sistemas alimentares mais saudáveis, sustentáveis e circulares",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/projeto-apoia-cidades-na-construcao-de-sistemas-alimentares-mais-saudaveis-sustentaveis-e-circulares",
+      "resumo": "",
+      "publicado_em": "2026-09-11T00:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
+      "id": "b3439ef6abc6f377",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Andrei nega monitoramento de Mendonça e defende relatórios da PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122179/andrei-nega-monitoramento-de-mendonca-e-defende-relatorios-da-pf",
+      "resumo": "Defesa afirma que não houve vigilância clandestina, coleta dirigida de dados ou investigação ilegal contra autoridades.",
+      "publicado_em": "2026-09-11T15:12:16-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
+      "id": "147d931e10243af6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin manda Mendonça esclarecer acesso a dados de celular de Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122176/fachin-manda-mendonca-esclarecer-acesso-a-dados-de-celular-de-vorcaro",
+      "resumo": "Presidente do STF cobra informações sobre pedido de Zanin para acessar a íntegra dos dados extraídos do celular de Vorcaro.",
+      "publicado_em": "2026-09-11T14:59:44-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
+      "id": "25242f88ae63eeba",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Os prazos da Ficha Limpa não são cláusula pétrea",
+      "link": "https://www.congressoemfoco.com.br/artigo/122175/os-prazos-da-ficha-limpa-nao-sao-clausula-petrea",
+      "resumo": "Transformar os prazos de 2010 em piso constitucional limita a liberdade de conformação do legislador e confunde proteção suficiente com maior severidade.",
+      "publicado_em": "2026-09-11T14:52:16-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
+      "id": "6de9bd9374879919",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin dá 24 horas para Mendonça abrir todos os casos do Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122172/fachin-da-24-horas-para-mendonca-abrir-todos-os-casos-do-master",
+      "resumo": "Fachin acolheu pedido da PGR no mesmo sentido de requerimento de Moraes e mandou Mendonça entregar, em 24 horas, todos os procedimentos ligados ao caso, com levantamento do sigilo salvo em diligências em andamento.",
+      "publicado_em": "2026-09-11T14:33:17-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "diligencia"
+      ],
+      "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
       "id": "53f310c82a973fdb",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -619,6 +743,20 @@
         "julga"
       ],
       "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "b0a3c26e71011f5b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes diz que \"sigilo seletivo\" de Mendonça \"obstaculariza\" análise",
+      "link": "https://www.congressoemfoco.com.br/noticia/122170/moraes-diz-que-sigilo-seletivo-de-mendonca-obstaculariza-analise",
+      "resumo": "Ministro acusou colega de retirar sigilo apenas \"do que entendeu conveniente\".",
+      "publicado_em": "2026-09-11T13:24:32-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T15:57:55-03:00"
     },
     {
       "id": "5668e82d02ce4969",
@@ -814,6 +952,20 @@
       "coletado_em": "2026-09-11T11:50:36-03:00"
     },
     {
+      "id": "c039d20e31d101a5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Caso Master: Como a quebra do banco abriu uma teia de investigações",
+      "link": "https://www.congressoemfoco.com.br/noticia/122154/caso-master-como-a-quebra-do-banco-abriu-uma-teia-de-investigacoes",
+      "resumo": "Do BRB ao Supremo, o caso se expandiu com novas suspeitas encontradas em documentos, contratos e movimentações financeiras.",
+      "publicado_em": "2026-09-11T09:24:38-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
       "id": "d8256bc2800e27d0",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -927,6 +1079,50 @@
         "seminario"
       ],
       "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "4c4875dfb9252f28",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Palmas ganha sala da Justiça Restaurativa voltada a conflitos que envolvam adolescentes",
+      "link": "https://www.cnj.jus.br/palmas-ganha-sala-da-justica-restaurativa-voltada-a-conflitos-que-envolvam-adolescentes/",
+      "resumo": "O Tribunal de Justiça do Tocantins (TJTO) inaugurou, nesta quinta-feira (10) a Sala da Justiça Restaurativa, no Núcleo de Atendimento Integrado (NAI), em Palmas. Os atendimentos no novo espaço terão início em 15 de setembro e serão voltados à resolução de situações de conflitos que envolvam adolesce",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "resolucao"
+      ],
+      "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
+      "id": "b817d4ccf382b6c2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Após ouvir quilombolas, CNJ faz escuta de indígenas para solução de questão fundiária em Oriximiná (PA)",
+      "link": "https://www.cnj.jus.br/apos-ouvir-quilombolas-cnj-faz-escuta-de-indigenas-para-solucao-de-questao-fundiaria-em-oriximina-pa/",
+      "resumo": "A Comissão Nacional de Soluções Fundiárias do Conselho Nacional de Justiça (CNJ) se reuniu na quinta-feira (10/9) com lideranças indígenas em continuidade às escutas que visam solucionar conflito fundiário envolvendo a Terra Indígena Kaxuyana-Tunayana e o território da Comunidade Remanescente de Qui",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T15:57:55-03:00"
+    },
+    {
+      "id": "07b4de14284064e0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Fim 'taxa das blusinhas' para compras até US$ 50 agora é lei",
+      "link": "https://www.camara.leg.br/noticias/1304183-fim-taxa-das-blusinhas-para-compras-ate-us-50-agora-e-lei",
+      "resumo": "",
+      "publicado_em": "2026-09-11T15:31:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T15:57:55-03:00"
     },
     {
       "id": "a5acff202584f03b",
