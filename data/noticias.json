@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-11T11:50:36-03:00",
+  "gerado_em": "2026-09-11T14:24:06-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -267,6 +267,52 @@
       "coletado_em": "2026-09-11T11:50:36-03:00"
     },
     {
+      "id": "ad0c1b2865bb4427",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "DEJT tem funcionamento normalizado; pautas voltam aos Cadernos Judiciários em 14/9",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/dejt-tem-funcionamento-normalizado-pautas-voltam-aos-cadernos-judiciarios-em-14-9",
+      "resumo": "",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "c47ce5c63dbdb5da",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Juiz e juíza tomam posse como titulares de vara",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/juiz-e-juiza-tomam-posse-como-titulares-de-vara",
+      "resumo": "",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "e2aee64bcb10c7a2",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "6ª Câmara aplica Tema 542 do STF e reconhece estabilidade gestante em trabalho temporário",
+      "link": "https://trt15.jus.br/noticia/2026/6a-camara-aplica-tema-542-do-stf-e-reconhece-estabilidade-gestante-em-trabalho",
+      "resumo": "6ª Câmara aplica Tema 542 do STF e reconhece estabilidade gestante em trabalho temporário anagatto Sex, 11/09/2026 - 13:47 6ª Câmara aplica Tema 542 do STF e reconhece estabilidade gestante em trabalho temporário Conteúdo da Notícia A 6ª Câmara do Tribunal Regional do Trabalho da 15ª Região manteve ",
+      "publicado_em": "2026-09-11T13:47:53-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
       "id": "7490cbd723fa8b8b",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -279,6 +325,53 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "4f6aca2229599465",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agência indenizará casal após recusa de vistos de trabalho para o Japão",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115294&pagina=1",
+      "resumo": "Caracterizada relação de consumo entre as partes.\n \n\tA 25ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve sentença da 3ª Vara",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "indenizar",
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "755130c5e60f6236",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "CNJ promove Ciclo de Capacitação sobre identificação civil e emissão de documentos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115295&pagina=1",
+      "resumo": "Inscrições já estão abertas.\n \n\tNos dias 16 e 17 de setembro, o Conselho Nacional de Justiça (CNJ) promove o 6º Ciclo de Capacitação Online da",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "ffe1ec57e618fdb3",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Sessão extraordinária do dia 15/9 terá acesso ao Plenário mediante credenciamento",
+      "link": "https://noticias.stf.jus.br/postsnoticias/sessao-extraordinaria-do-dia-15-9-tera-acesso-ao-plenario-mediante-credenciamento/",
+      "resumo": "",
+      "publicado_em": "2026-09-11T13:14:58-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
     },
     {
       "id": "5eb651f8f9c30661",
@@ -307,6 +400,36 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "bd6e891010010b06",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sancionada lei que autoriza zerar 'taxa das blusinhas' em compras de até US$ 50",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/11/sancionada-lei-que-autoriza-zerar-taxa-das-blusinhas-ate-us-50",
+      "resumo": "",
+      "publicado_em": "2026-09-11T13:11:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "sancionada"
+      ],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "f72dae43ee5b3481",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições 2026: influenciadores podem ser contratados para fazer campanha?",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/11/eleicoes-2026-influenciadores-podem-ser-contratados-para-fazer-campanha-eleitoral",
+      "resumo": "",
+      "publicado_em": "2026-09-11T11:50:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
     },
     {
       "id": "d6daad1a57e08688",
@@ -393,6 +516,48 @@
       "coletado_em": "2026-09-11T11:50:36-03:00"
     },
     {
+      "id": "65d0bccf0e1abc63",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Inscrições abertas para o Programa Integridade, Governança e Controle do Fundo Nacional de Segurança Pública",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/inscricoes-abertas-para-o-programa-integridade-governanca-e-controle-do-fundo-nacional-de-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "c4dad8cb0911c0d1",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Código de Defesa do Consumidor completa 36 anos e acompanha mudanças nas relações de consumo",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/codigo-de-defesa-do-consumidor-completa-36-anos-e-acompanha-mudancas-nas-relacoes-de-consumo",
+      "resumo": "",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "97cabad497ebdd13",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Anvisa proíbe produto da medicina chinesa vendido de forma irregular",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/anvisa-proibe-produto-da-medicina-chinesa-vendido-de-forma-irregular",
+      "resumo": "",
+      "publicado_em": "2026-09-11T12:47:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
       "id": "f86b67d9bef79c6b",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -437,6 +602,130 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "53f310c82a973fdb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino leva julgamento da reforma da Ficha Limpa ao Plenário presencial",
+      "link": "https://www.congressoemfoco.com.br/noticia/122171/dino-leva-julgamento-da-reforma-da-ficha-limpa-ao-plenario-presencial",
+      "resumo": "Ministro apresentou destaque em julgamento virtual após Gilmar Mendes abrir divergência à posição da relatora.",
+      "publicado_em": "2026-09-11T13:48:30-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "5668e82d02ce4969",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio diz que PF tenta interferir em eleição ao investigar Dark Horse",
+      "link": "https://www.congressoemfoco.com.br/noticia/122169/flavio-diz-que-pf-tenta-interferir-em-eleicao-ao-investigar-dark-horse",
+      "resumo": "Flávio chama corporação de \"PF do Lula\", acusa Dino de interferência eleitoral e elogia Mendonça, ministro que autorizou a investigação contra ele.",
+      "publicado_em": "2026-09-11T13:18:55-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "e28c3e26ffd63588",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zanin pede íntegra de celular de Vorcaro sob guarda de Mendonça",
+      "link": "https://www.congressoemfoco.com.br/noticia/122168/zanin-pede-integra-de-celular-de-vorcaro-sob-guarda-de-mendonca",
+      "resumo": "Ministro deixa claro que o pedido não está limitado ao material que serviu de suporte para o laudo da PF.",
+      "publicado_em": "2026-09-11T12:57:55-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "90cf8d7f97194564",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes pede para Fachin levar a Plenário na terça caso contra Mendonça",
+      "link": "https://www.congressoemfoco.com.br/noticia/122166/moraes-pede-para-fachin-levar-a-plenario-caso-contra-mendonca-na-terca",
+      "resumo": "Ministro argumenta que a análise separada dos procedimentos pode provocar \"risco concreto de decisões contraditórias e de tumulto processual\".",
+      "publicado_em": "2026-09-11T12:36:27-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "53363f2bac7b767b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes diz que Mendonça liberou só o \"conveniente\" e omitiu 180 peças",
+      "link": "https://www.congressoemfoco.com.br/noticia/122164/moraes-diz-que-mendonca-liberou-so-o-conveniente-e-omitiu-180-pecas",
+      "resumo": "Ministro pediu a Fachin que documentos sejam tirados do sigilo.",
+      "publicado_em": "2026-09-11T12:20:16-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "b3c9d49b68bd2de1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A guerra do delivery e a janela que ainda resta ao Cade",
+      "link": "https://www.congressoemfoco.com.br/artigo/122163/a-guerra-do-delivery-e-a-janela-que-ainda-resta-ao-cade",
+      "resumo": "A contestabilidade dos mercados digitais brasileiros deve ser assegurada com base na eficiência operacional e na inovação, inibindo o uso de aportes financeiros ilimitados como instrumento de eliminação da concorrência.",
+      "publicado_em": "2026-09-11T12:07:41-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "15ecddd91f8d66a6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRF-2 recebe denúncia contra TH Joias por envolvimento com o CV",
+      "link": "https://www.congressoemfoco.com.br/noticia/122161/trf2-recebe-denuncia-contra-th-joias-por-envolvimento-com-o-cv",
+      "resumo": "Ex-deputado é acusado de usar estrutura da Alerj para negociar munições, intermediar drogas e favorecer integrantes do Comando Vermelho.",
+      "publicado_em": "2026-09-11T11:52:33-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "droga"
+      ],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "e17ae2dada3b65c8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Presos provisórios mantêm direito ao voto nas eleições de outubro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122160/presos-provisorios-mantem-direito-ao-voto-nas-eleicoes-de-outubro",
+      "resumo": "TSE afastou restrição da Lei Antifacção para este ano, mas regra pode valer nos próximos pleitos.",
+      "publicado_em": "2026-09-11T11:08:27-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
     },
     {
       "id": "3db9c275b9d7f3ff",
@@ -597,7 +886,7 @@
       "fonte_nome": "CNJ",
       "titulo": "TSE abre inscrições para curso de capacitação em Direito Eleitoral voltado a jornalistas",
       "link": "https://www.cnj.jus.br/tse-abre-inscricoes-para-curso-de-capacitacao-em-direito-eleitoral-voltado-a-jornalistas/",
-      "resumo": "O Tribunal Superior Eleitoral (TSE) abre, a partir desta sexta-feira (11/9), as inscrições para o curso “Direito Eleitoral para Jornalistas – Eleições 2026”. A capacitação, promovida pela Secretaria de Comunicação e Multimídia (Secom) em parceria com a Escola Judiciária Eleitoral (EJE/TSE), é gratui",
+      "resumo": "O Tribunal Superior Eleitoral (TSE) abre, a partir desta sexta-feira (11/9), as inscrições para o curso Direito Eleitoral para Jornalistas — Eleições 2026. A capacitação, promovida pela Secretaria de Comunicação e Multimídia (Secom) em parceria com a Escola Judiciária Eleitoral (EJE/TSE), é gratuita",
       "publicado_em": "2026-09-11T12:00:00-03:00",
       "dia": "2026-09-11",
       "data_estimada": true,
@@ -613,7 +902,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Linguagem e acolhimento influenciam a experiência nas audiências, aponta pesquisa",
       "link": "https://www.cnj.jus.br/linguagem-e-acolhimento-influenciam-a-experiencia-nas-audiencias-aponta-pesquisa/",
-      "resumo": "A forma como uma audiência de instrução é conduzida, momento em que o juiz ouve as partes e testemunhas e analisa as provas do processo, pode fazer diferença na maneira como cidadãos e cidadãs compreendem, participam e percebem a Justiça. É o que mostra a pesquisa “Acesso e percepção dos",
+      "resumo": "A forma como uma audiência de instrução é conduzida, momento em que o juiz ouve as partes e testemunhas e analisa as provas do processo, pode fazer diferença na maneira como cidadãos e cidadãs compreendem, participam e percebem a Justiça. É o que mostra a pesquisa Acesso e Percepção dos",
       "publicado_em": "2026-09-11T12:00:00-03:00",
       "dia": "2026-09-11",
       "data_estimada": true,
@@ -622,6 +911,52 @@
         "processo"
       ],
       "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "a2c39745d7a2018c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Cuiabá recebe seminário sobre conflitos fundiários urbanos e rurais no fim de setembro",
+      "link": "https://www.cnj.jus.br/cuiaba-recebe-seminario-sobre-conflitos-fundiarios-urbanos-e-rurais-no-fim-de-setembro/",
+      "resumo": "A Escola de Magistratura Federal da 1ª Região (Esmaf), em parceria com o Tribunal Regional Federal da 1ª Região (TRF-1), o Tribunal de Justiça do Estado de Mato Grosso (TJMT) e a Escola Superior da Magistratura de Mato Grosso (Esmagis/MT), promove o “Seminário de Soluções Fundiárias: atividade juris",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "a5acff202584f03b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê exibição obrigatória nos cinemas de campanhas sobre vacina contra o HPV",
+      "link": "https://www.camara.leg.br/noticias/1304043-projeto-preve-exibicao-obrigatoria-nos-cinemas-de-campanhas-sobre-vacina-contra-o-hpv",
+      "resumo": "",
+      "publicado_em": "2026-09-11T13:34:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "26497e83091f1724",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê uso de recursos do Fundo Social no combate à malária na Amazônia Legal",
+      "link": "https://www.camara.leg.br/noticias/1304022-projeto-preve-uso-de-recursos-do-fundo-social-no-combate-a-malaria-na-amazonia-legal",
+      "resumo": "",
+      "publicado_em": "2026-09-11T12:01:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-11T14:24:06-03:00"
     },
     {
       "id": "582946631c77ae90",
