@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-11T19:06:40-03:00",
+  "gerado_em": "2026-09-12T10:53:38-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@ window.DADOS = {
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -250,6 +250,66 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "c15c34d003df71bd",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Familiares serão indenizados após troca de corpos em sepultamento",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115255&pagina=1",
+      "resumo": "Danos morais fixados em R$ 45 mil.\n \n\tA 2ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve, em parte, decisão da",
+      "publicado_em": "2026-09-12T12:00:00-03:00",
+      "dia": "2026-09-12",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
+    {
+      "id": "e6057c82f2e10562",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Quando Cada Minuto Conta: Receita Federal e Anvisa garantem liberação emergencial de medicamento em Guarulhos",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/quando-cada-minuto-conta-receita-federal-e-anvisa-garantem-liberacao-emergencial-de-medicamento-em-guarulhos",
+      "resumo": "",
+      "publicado_em": "2026-09-12T10:23:00-03:00",
+      "dia": "2026-09-12",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
+    {
+      "id": "b74a2db05cf69a23",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula canta Roberto Carlos e entrega rosas ao público",
+      "link": "https://www.congressoemfoco.com.br/noticia/122203/lula-canta-roberto-carlos-e-entrega-rosas-ao-publico",
+      "resumo": "Presidente fez referência a \"Como É Grande o Meu Amor por Você\" antes de seguir com o discurso.",
+      "publicado_em": "2026-09-12T09:03:58-03:00",
+      "dia": "2026-09-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
+    {
+      "id": "64f6a8a48ef34d5c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar vê acesso \"assimétrico\" a celular de Vorcaro e cobra íntegra",
+      "link": "https://www.congressoemfoco.com.br/noticia/122202/gilmar-ve-acesso-assimetrico-a-celular-de-vorcaro-e-cobra-integra",
+      "resumo": "Caso Mendonça não forneça os dados, Gilmar sugere que sejam solicitados diretamente à Polícia Federal.",
+      "publicado_em": "2026-09-12T08:37:15-03:00",
+      "dia": "2026-09-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
     {
       "id": "5d21d76a8adaa2db",
       "fonte_id": "trt2",
@@ -456,6 +516,42 @@ window.DADOS = {
       "coletado_em": "2026-09-11T19:06:40-03:00"
     },
     {
+      "id": "8666d5e8936f455e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF restabelece condenação de ex-presidente da Assembleia Legislativa de Rondônia",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-restabelece-condenacao-de-ex-presidente-da-assembleia-legislativa-de-rondonia/",
+      "resumo": "Relatora entendeu que não havia motivo para anular julgamento feito pelo TJ-RO",
+      "publicado_em": "2026-09-11T20:28:03-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "julgamento",
+        "julga",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
+    {
+      "id": "c5f6f2566c0c169e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF intensifica agenda para modernizar sistema de Justiça",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-intensifica-agenda-para-modernizar-sistema-de-justica/",
+      "resumo": "Grupo de trabalho amplia ritmo das reuniões, incorpora contribuições da sociedade e avança na elaboração de recomendações para fortalecer as instituições",
+      "publicado_em": "2026-09-11T19:57:42-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "acao",
+        "comenda"
+      ],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
+    {
       "id": "e426307e78a6fc88",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -505,7 +601,7 @@ window.DADOS = {
       "id": "58967aeb5ba2dfe0",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "STF anula lei municipal que proibia seguradoras de comprar peças de reposição de veículos",
+      "titulo": "Supremo anula lei municipal que proibia seguradoras de comprar peças de reposição de veículos",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-anula-lei-municipal-que-proibia-seguradoras-de-comprar-pecas-de-reposicao-de-veiculos/",
       "resumo": "Norma de São José do Rio Preto (SP) contrariava a regulamentação federal sobre mercado de seguros",
       "publicado_em": "2026-09-11T16:05:11-03:00",
@@ -974,6 +1070,105 @@ window.DADOS = {
       "coletado_em": "2026-09-11T19:06:40-03:00"
     },
     {
+      "id": "28a24b864264cbc0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça cita \"gravíssimos fatos\" e defende afastamento de Andrei",
+      "link": "https://www.congressoemfoco.com.br/noticia/122201/mendonca-cita-gravissimos-fatos-e-defende-afastamento-de-andrei",
+      "resumo": "Ministro rebateu alegações da AGU de que medida invadiu as competências do presidente da República.",
+      "publicado_em": "2026-09-11T20:45:11-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
+    {
+      "id": "e0ea2118d1810c4f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Toma lá, dá cá: Em 2h, ministros fazem 8 peças com acusações e pedidos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122200/toma-la-da-ca-em-2h-ministros-fazem-8-pecas-com-acusacoes-e-pedidos",
+      "resumo": "Gilmar, Mendonça, Moraes e Zanin protagonizaram sequência de ofícios e despachos sobre sigilos, celular de Vorcaro e julgamento de terça; documentos revelaram respostas quase em tempo real dentro do STF.",
+      "publicado_em": "2026-09-11T20:41:03-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
+    {
+      "id": "ef92cf743962e1bc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça tira sigilo de casos Dark Horse, Castro, Ciro e Wagner",
+      "link": "https://www.congressoemfoco.com.br/noticia/122199/mendonca-tira-sigilo-de-casos-dark-horse-castro-ciro-e-wagner",
+      "resumo": "Ministro amplia abertura de processos após pedido da Vice-PGR e libera investigações que haviam permanecido sob reserva.",
+      "publicado_em": "2026-09-11T20:00:07-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
+    {
+      "id": "9c32de7426b85099",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes cobra acesso imediato à íntegra dos dados do celular de Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122198/moraes-cobra-acesso-imediato-a-integra-dos-dados-do-celular-de-vorcaro",
+      "resumo": "Ministro acompanhou pedido de Zanin, disse que cópia lacrada no gabinete de Mendonça pode ser compartilhada e pediu também acesso à indexação feita pela PF.",
+      "publicado_em": "2026-09-11T19:32:09-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
+    {
+      "id": "6224cf1ba3b9590b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes reforça seletividade de Mendonça e o acusa de proteção política",
+      "link": "https://www.congressoemfoco.com.br/noticia/122197/moraes-reforca-seletividade-de-mendonca-e-o-acusa-de-protecao-politica",
+      "resumo": "Ministro voltou a contestar abertura de sigilos no caso Master, apontou 180 documentos ainda inacessíveis e disse que relator não pode escolher o que o colegiado verá antes do julgamento.",
+      "publicado_em": "2026-09-11T19:23:26-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
+    {
+      "id": "3e42fa4f5f7fbc5d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zanin rebate Mendonça e reforça acesso a dados do celular de Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122196/zanin-rebate-mendonca-e-reforca-acesso-a-dados-do-celular-de-vorcaro",
+      "resumo": "Ministro afirma que cópia está no gabinete do relator e diz que todos os integrantes do STF devem ter a mesma oportunidade de analisar material antes do julgamento.",
+      "publicado_em": "2026-09-11T19:00:15-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
+    {
       "id": "15107c4682a3e953",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1107,6 +1302,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "a51b14b6bac6e807",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Previdência: eis a questão!",
+      "link": "https://www.congressoemfoco.com.br/coluna/122185/previdencia-eis-a-questao",
+      "resumo": "Menos gente nascendo, trabalhando e contribuindo. Mais gente aposentando, vivendo e usufruindo.",
+      "publicado_em": "2026-09-11T16:08:41-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
     },
     {
       "id": "af7f9f781670cbff",
@@ -1700,6 +1909,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "73638fe261ff37f6",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Minicurso do CNJ aborda atuação do Judiciário no combate ao assédio eleitoral",
+      "link": "https://www.cnj.jus.br/minicurso-do-cnj-aborda-atuacao-do-judiciario-no-combate-ao-assedio-eleitoral/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realiza, na quarta-feira (16/9), o minicurso Assédio Eleitoral e o Seu Enfrentamento, iniciativa que busca ampliar a capacidade do Poder Judiciário para reconhecer, prevenir e enfrentar situações de assédio eleitoral. O evento acontece das 10h às 18h, em formato ",
+      "publicado_em": "2026-09-11T12:00:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
     },
     {
       "id": "50d7049fddaf37c1",
@@ -3056,6 +3281,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-10T11:50:53-03:00"
+    },
+    {
+      "id": "95d0a16d0bad0769",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Prazo para solicitar substituição de candidatos acaba nesta segunda",
+      "link": "https://www.congressoemfoco.com.br/noticia/122123/prazo-para-solicitar-substituicao-de-candidatos-acaba-nesta-segunda",
+      "resumo": "Prazo alcança as disputas aos cargos majoritários e proporcionais.",
+      "publicado_em": "2026-09-10T10:57:27-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
     },
     {
       "id": "ce8eedc7643191c9",
@@ -4841,6 +5082,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-09T14:23:55-03:00"
+    },
+    {
+      "id": "c5838f591bbf5f3a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quebrar vidro de carro para roubar pode render até 14 anos de prisão",
+      "link": "https://www.congressoemfoco.com.br/noticia/122084/quebrar-vidro-de-carro-para-roubar-pode-render-ate-14-anos-de-prisao",
+      "resumo": "Segundo projeto, pena de oito a 14 anos será aplicada quando o criminoso romper parte de veículo ocupado e expuser passageiros a risco ou estilhaços.",
+      "publicado_em": "2026-09-09T13:25:45-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-12T10:53:38-03:00"
     },
     {
       "id": "74bf4466f87577c7",
