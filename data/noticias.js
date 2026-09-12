@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-12T10:53:38-03:00",
+  "gerado_em": "2026-09-12T13:35:40-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@ window.DADOS = {
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -267,6 +267,22 @@ window.DADOS = {
       "coletado_em": "2026-09-12T10:53:38-03:00"
     },
     {
+      "id": "98ddcb5b4936cba5",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Programa Semear apresenta e analisa projetos em encontro mensal",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115293&pagina=1",
+      "resumo": "Esforços realizados em prol de reeducandos.\n \n\tIntegrantes do Sistema Estadual de Métodos para Execução Penal e Adaptação Social do Recuperando (Semear) participaram, na quinta-feira (10),",
+      "publicado_em": "2026-09-12T12:00:00-03:00",
+      "dia": "2026-09-12",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-12T13:35:40-03:00"
+    },
+    {
       "id": "e6057c82f2e10562",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -281,6 +297,36 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
+    {
+      "id": "30fb38ae4932d3e7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mais de 152 mil inscritos farão o Enamed 2026 neste domingo (13)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/mais-de-152-mil-inscritos-farao-o-enamed-2026-neste-domingo-13",
+      "resumo": "",
+      "publicado_em": "2026-09-12T10:10:00-03:00",
+      "dia": "2026-09-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-12T13:35:40-03:00"
+    },
+    {
+      "id": "1e629d08607e04c4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin mantém caso contra Moraes na terça e contra Mendonça no dia 23",
+      "link": "https://www.congressoemfoco.com.br/noticia/122204/fachin-mantem-caso-contra-moraes-na-terca-e-contra-mendonca-no-dia-23",
+      "resumo": "Presidente do STF diz que caso contra Mendonça ainda não está pronto para análise e mantém sessão extraordinária de terça-feira restrita à ação contra Moraes.",
+      "publicado_em": "2026-09-12T11:21:31-03:00",
+      "dia": "2026-09-12",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-12T13:35:40-03:00"
     },
     {
       "id": "b74a2db05cf69a23",
@@ -890,6 +936,20 @@ window.DADOS = {
       "coletado_em": "2026-09-11T15:57:55-03:00"
     },
     {
+      "id": "07120dbc45eb781a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MEC Livros organiza acervo com best-sellers, clássicos e biografias. Plataforma já soma 450 mil horas de leitura",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/mec-livros-organiza-acervo-com-best-sellers-e-26-categorias",
+      "resumo": "",
+      "publicado_em": "2026-09-11T18:07:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-12T13:35:40-03:00"
+    },
+    {
       "id": "cfe88a63dd627b71",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -904,6 +964,22 @@ window.DADOS = {
       "coletado_em": "2026-09-11T19:06:40-03:00"
     },
     {
+      "id": "90b731f1f70e7b63",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rádio Nacional celebra na segunda (14) os 45 anos do ‘Viva Maria’ com especial ao vivo e série em podcast",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/radio-nacional-celebra-nesta-segunda-14-o-aniversario-de-45-anos-do-2018viva-maria2019-com-especial-ao-vivo-e-serie-em-podcast",
+      "resumo": "",
+      "publicado_em": "2026-09-11T17:30:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-12T13:35:40-03:00"
+    },
+    {
       "id": "5ea7fede55aabfcd",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -916,22 +992,6 @@ window.DADOS = {
       "score": 50,
       "tags": [
         "adi"
-      ],
-      "coletado_em": "2026-09-11T19:06:40-03:00"
-    },
-    {
-      "id": "e127d7cb7b56f261",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Enamed 2026: solicitação de reaplicação poderá ser feita nos dias 14 e 15 de setembro",
-      "link": "https://agenciagov.ebc.com.br/noticias/202609/enamed-2026-solicitacao-de-reaplicacao-podera-ser-feita-nos-dias-14-e-15-de-setembro",
-      "resumo": "",
-      "publicado_em": "2026-09-11T15:20:00-03:00",
-      "dia": "2026-09-11",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
       ],
       "coletado_em": "2026-09-11T19:06:40-03:00"
     },
@@ -962,6 +1022,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "e127d7cb7b56f261",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enamed 2026: solicitação de reaplicação poderá ser feita nos dias 14 e 15 de setembro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/enamed-2026-solicitacao-de-reaplicacao-podera-ser-feita-nos-dias-14-e-15-de-setembro",
+      "resumo": "",
+      "publicado_em": "2026-09-11T11:30:00-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-11T19:06:40-03:00"
     },
     {
       "id": "f86b67d9bef79c6b",
@@ -3241,6 +3317,22 @@ window.DADOS = {
       "coletado_em": "2026-09-10T14:22:29-03:00"
     },
     {
+      "id": "f142e5eadac48873",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto veta eliminação de pintinhos machos pela indústria de ovos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122127/projeto-veta-eliminacao-de-pintinhos-machos-pela-industria-de-ovos",
+      "resumo": "Texto prevê financiamento para adaptação do setor e permite alternativas como identificação do sexo ainda durante a incubação.",
+      "publicado_em": "2026-09-10T11:47:37-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-12T13:35:40-03:00"
+    },
+    {
       "id": "26ddbc112e9de066",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -4910,6 +5002,23 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "da001cd6495d6567",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto atualiza regras para preservação de arquivos públicos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122096/projeto-atualiza-regras-para-preservacao-de-arquivos-publicos",
+      "resumo": "Texto estabelece critérios para eliminação de documentos, protege arquivos permanentes e cria a Rede Nacional de Arquivos.",
+      "publicado_em": "2026-09-09T16:01:44-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "atualiza regras",
+        "acao"
+      ],
+      "coletado_em": "2026-09-12T13:35:40-03:00"
     },
     {
       "id": "6f592e9865eebc4a",
