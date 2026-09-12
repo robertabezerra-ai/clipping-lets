@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-12T13:35:40-03:00",
+  "gerado_em": "2026-09-12T15:04:50-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -46891,7 +46891,7 @@ window.DADOS = {
       "id": "bc54f424001bbb27",
       "fonte_id": "coaf",
       "fonte_nome": "Coaf",
-      "titulo": "Coaf participa do Encontro Nacional das FICCOs em Foz do Iguaçu",
+      "titulo": "Estamos em manutenção",
       "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-participa-do-encontro-nacional-das-ficcos-em-foz-do-iguacu-1",
       "resumo": "",
       "publicado_em": "2026-06-23T11:39:34-03:00",
