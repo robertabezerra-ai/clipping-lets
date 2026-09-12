@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-12T15:04:50-03:00",
+  "gerado_em": "2026-09-12T18:50:06-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -148,9 +148,9 @@ window.DADOS = {
     },
     {
       "id": "tjsp",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "pgfn",
@@ -166,9 +166,9 @@ window.DADOS = {
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -283,6 +283,20 @@ window.DADOS = {
       "coletado_em": "2026-09-12T13:35:40-03:00"
     },
     {
+      "id": "a0cd536831ca6bb6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Aberto credenciamento de imprensa para sessão do STF da próxima terça-feira (15)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/aberto-credenciamento-de-imprensa-para-sessao-do-stf-da-proxima-terca-feira-15/",
+      "resumo": "Profissionais de imprensa devem se cadastrar até o domingo (13)",
+      "publicado_em": "2026-09-12T18:01:02-03:00",
+      "dia": "2026-09-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-12T18:50:06-03:00"
+    },
+    {
       "id": "e6057c82f2e10562",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -311,6 +325,36 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-12T13:35:40-03:00"
+    },
+    {
+      "id": "0f69de8947c8b8c4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Muitas ações, pouca surpresa: Vorcaro vira coadjuvante no caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122206/muitas-acoes-pouca-surpresa-vorcaro-vira-coadjuvante-no-caso-master",
+      "resumo": "Abertura de mais de 30 processos criou expectativa de novas revelações, mas milhares de documentos trouxeram, até aqui, poucas surpresas e deslocaram o foco do banqueiro para ministros do STF, policiais e políticos.",
+      "publicado_em": "2026-09-12T17:08:13-03:00",
+      "dia": "2026-09-12",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-12T18:50:06-03:00"
+    },
+    {
+      "id": "a60715e72abbf42f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin dá 24 horas para PF explicar custódia do celular de Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122205/fachin-da-24-horas-para-pf-explicar-custodia-do-celular-de-vorcaro",
+      "resumo": "Presidente do STF cobra informações sobre a custódia do material após Zanin, Moraes e Gilmar pedirem acesso à íntegra dos dados.",
+      "publicado_em": "2026-09-12T12:03:20-03:00",
+      "dia": "2026-09-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-12T18:50:06-03:00"
     },
     {
       "id": "1e629d08607e04c4",
@@ -3298,6 +3342,36 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-10T14:22:29-03:00"
+    },
+    {
+      "id": "ce72c44aa2592ad6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê internet via satélite em viaturas de segurança",
+      "link": "https://www.congressoemfoco.com.br/noticia/122131/projeto-preve-internet-via-satelite-em-viaturas-de-seguranca",
+      "resumo": "Medida busca garantir acesso contínuo ao Sinesp e a outros bancos de dados durante operações em áreas remotas ou com baixa cobertura.",
+      "publicado_em": "2026-09-10T12:45:02-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-12T18:50:06-03:00"
+    },
+    {
+      "id": "14df0610b0d701ed",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veterinários iniciantes poderão ter contrato especial de até dois anos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122130/veterinarios-iniciantes-poderao-ter-contrato-especial-de-ate-dois-anos",
+      "resumo": "Modalidade prevê acompanhamento técnico e regras para evitar uso permanente desse tipo de contratação.",
+      "publicado_em": "2026-09-10T12:22:07-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-12T18:50:06-03:00"
     },
     {
       "id": "b46f83c500b4e113",
@@ -46891,7 +46965,7 @@ window.DADOS = {
       "id": "bc54f424001bbb27",
       "fonte_id": "coaf",
       "fonte_nome": "Coaf",
-      "titulo": "Estamos em manutenção",
+      "titulo": "Coaf participa do Encontro Nacional das FICCOs em Foz do Iguaçu",
       "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-participa-do-encontro-nacional-das-ficcos-em-foz-do-iguacu-1",
       "resumo": "",
       "publicado_em": "2026-06-23T11:39:34-03:00",
