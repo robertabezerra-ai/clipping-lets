@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-12T18:50:06-03:00",
+  "gerado_em": "2026-09-13T11:48:19-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -148,9 +148,9 @@
     },
     {
       "id": "tjsp",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "pgfn",
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -251,6 +251,70 @@
   ],
   "noticias": [
     {
+      "id": "d164fc18dc7a16e4",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação de homem que forjou próprio sequestro para extorquir a mãe",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115272&pagina=1",
+      "resumo": "Réu exigiu R$ 800 como pagamento pelo resgate.\n \n\tA 11ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve decisão da Vara",
+      "publicado_em": "2026-09-13T12:00:00-03:00",
+      "dia": "2026-09-13",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-13T11:48:19-03:00"
+    },
+    {
+      "id": "40ddb75e74e21b65",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino diz que sigilo seletivo escolhe alvos por \"amizade ou inimizade\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122210/dino-diz-que-sigilo-seletivo-escolhe-alvos-por-amizade-ou-inimizade",
+      "resumo": "MInistro reitera que vazamentos podem \"agradar\" políticos, banqueiros e \"alimentar passeatas\".",
+      "publicado_em": "2026-09-13T10:43:04-03:00",
+      "dia": "2026-09-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-13T11:48:19-03:00"
+    },
+    {
+      "id": "e6bd4489fed76a59",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mário Frias seria peça central em esquema de Dark Horse, aponta Dino",
+      "link": "https://www.congressoemfoco.com.br/noticia/122209/mario-frias-seria-peca-central-em-esquema-de-dark-horse-aponta-dino",
+      "resumo": "Ministro diz que apuração indica atuação ativa do parlamentar em movimentações financeiras sob suspeita.",
+      "publicado_em": "2026-09-13T10:30:18-03:00",
+      "dia": "2026-09-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-13T11:48:19-03:00"
+    },
+    {
+      "id": "e89ca9e00b4341b6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino retira sigilo de investigação sobre Dark Horse em São Paulo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122208/dino-retira-sigilo-de-investigacao-sobre-dark-horse-em-sao-paulo",
+      "resumo": "Ministro afirmou que o Supremo passa por uma \"viragem jurisprudencial\" em relação à publicidade das investigações.",
+      "publicado_em": "2026-09-13T10:21:58-03:00",
+      "dia": "2026-09-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-13T11:48:19-03:00"
+    },
+    {
       "id": "c15c34d003df71bd",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -281,6 +345,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-12T13:35:40-03:00"
+    },
+    {
+      "id": "40846273c549adb8",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF assume relatoria de petição e determina envio de casos Master e INSS à Presidência",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-assume-relatoria-de-peticao-e-determina-envio-de-casos-master-e-inss-a-presidencia/",
+      "resumo": "Ministro Edson Fachin será o relator da Pet 16662, que será levada ao Plenário na terça-feira (15)",
+      "publicado_em": "2026-09-12T22:04:44-03:00",
+      "dia": "2026-09-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-13T11:48:19-03:00"
     },
     {
       "id": "a0cd536831ca6bb6",
@@ -325,6 +403,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-12T13:35:40-03:00"
+    },
+    {
+      "id": "172ab8bb71b39a2e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Caso Master: Fachin assume relatoria de ação contra Moraes",
+      "link": "https://www.congressoemfoco.com.br/noticia/122207/caso-master-fachin-assume-relatoria-de-acao-contra-moraes",
+      "resumo": "Presidente da Corte cita possibilidade de que ações se enquadrem no Código de Processo Civil; medida também inclui a fraude no INSS.",
+      "publicado_em": "2026-09-12T20:23:26-03:00",
+      "dia": "2026-09-12",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-13T11:48:19-03:00"
     },
     {
       "id": "0f69de8947c8b8c4",
@@ -983,7 +1078,7 @@
       "id": "07120dbc45eb781a",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "MEC Livros organiza acervo com best-sellers, clássicos e biografias. Plataforma já soma 450 mil horas de leitura",
+      "titulo": "Biblioteca digital do MEC disponibiliza acervo para todas as idades e soma 450 mil horas de leitura",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/mec-livros-organiza-acervo-com-best-sellers-e-26-categorias",
       "resumo": "",
       "publicado_em": "2026-09-11T18:07:00-03:00",
@@ -1394,6 +1489,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "b10841a00fcd52ef",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê acesso da vítima a processo por assédio em órgão público",
+      "link": "https://www.congressoemfoco.com.br/noticia/122188/projeto-preve-acesso-da-vitima-a-processo-por-assedio-em-orgao-publico",
+      "resumo": "Texto garante que vítima seja reconhecida como interessada no procedimento e possa recorrer de decisões.",
+      "publicado_em": "2026-09-11T17:10:35-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-13T11:48:19-03:00"
     },
     {
       "id": "44b004f9bad93db9",
@@ -3374,6 +3485,22 @@
       "coletado_em": "2026-09-12T18:50:06-03:00"
     },
     {
+      "id": "ec4bf081ddf8caeb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto pune como tráfico aliciamento de brasileiros para guerras",
+      "link": "https://www.congressoemfoco.com.br/noticia/122129/projeto-pune-como-trafico-aliciamento-de-brasileiros-para-guerras",
+      "resumo": "Proposta mira redes que, mediante fraude, coação ou violência, aliciam pessoas para combate em conflitos armados no exterior.",
+      "publicado_em": "2026-09-10T12:14:16-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-13T11:48:19-03:00"
+    },
+    {
       "id": "b46f83c500b4e113",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -5323,6 +5450,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-09T19:07:06-03:00"
+    },
+    {
+      "id": "4e79003a4a6e4315",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe pena maior para agressões domésticas contra mulheres",
+      "link": "https://www.congressoemfoco.com.br/noticia/122080/deputado-propoe-pena-maior-para-agressoes-domesticas-contra-mulheres",
+      "resumo": "Mudança no Código Penal busca ampliar a resposta a agressões domésticas antes de episódios mais graves.",
+      "publicado_em": "2026-09-09T12:31:36-03:00",
+      "dia": "2026-09-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-13T11:48:19-03:00"
     },
     {
       "id": "a8234c03eb102ee7",
