@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-13T15:31:42-03:00",
+  "gerado_em": "2026-09-13T18:57:27-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -286,6 +286,48 @@ window.DADOS = {
       "coletado_em": "2026-09-13T14:07:10-03:00"
     },
     {
+      "id": "e5a2b4c4d363755e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes aponta petição suprimida e pede nova quebra de sigilo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122215/moraes-aponta-peticao-suprimida-e-pede-nova-quebra-de-sigilo",
+      "resumo": "Fachin respondeu ao pedido e encaminhou para que a PGR se manifeste.",
+      "publicado_em": "2026-09-13T18:29:25-03:00",
+      "dia": "2026-09-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-13T18:57:27-03:00"
+    },
+    {
+      "id": "4b5f57aa11b24780",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zanin manda PF entregar dados do celular de Vorcaro até 23h de hoje",
+      "link": "https://www.congressoemfoco.com.br/noticia/122214/zanin-manda-pf-entregar-dados-do-celular-de-vorcaro-ate-23h-de-hoje",
+      "resumo": "Ministro destacou que não há hierarquia entre membros da Corte.",
+      "publicado_em": "2026-09-13T17:10:05-03:00",
+      "dia": "2026-09-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-13T18:57:27-03:00"
+    },
+    {
+      "id": "c7aa22bd040e187e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Caso Master e eleições dominam a semana; Congresso segue parado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122213/caso-master-e-eleicoes-dominam-a-semana-congresso-segue-parado",
+      "resumo": "Crise institucional e reta final da campanha concentram o debate político e mantêm o Legislativo esvaziado.",
+      "publicado_em": "2026-09-13T16:37:41-03:00",
+      "dia": "2026-09-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-13T18:57:27-03:00"
+    },
+    {
       "id": "a5923ada383dd955",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -414,9 +456,9 @@ window.DADOS = {
       "id": "a0cd536831ca6bb6",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "Aberto credenciamento de imprensa para sessão do STF da próxima terça-feira (15)",
+      "titulo": "Credenciamento de imprensa para sessão da próxima terça-feira (15) termina neste domingo",
       "link": "https://noticias.stf.jus.br/postsnoticias/aberto-credenciamento-de-imprensa-para-sessao-do-stf-da-proxima-terca-feira-15/",
-      "resumo": "Profissionais de imprensa devem se cadastrar até o domingo (13)",
+      "resumo": "Profissionais de imprensa devem se cadastrar até as 23h59",
       "publicado_em": "2026-09-12T18:01:02-03:00",
       "dia": "2026-09-12",
       "data_estimada": false,
@@ -1840,6 +1882,24 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "c8c3adb4aeddd80d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê desconto de 60% em tributos sobre ração para pets",
+      "link": "https://www.congressoemfoco.com.br/noticia/122165/projeto-preve-desconto-de-60-em-tributos-sobre-racao-para-pets",
+      "resumo": "Texto trata da redução das alíquotas do IBS e da CBS incidentes sobre alimentos destinados a cães e gatos.",
+      "publicado_em": "2026-09-11T12:27:17-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "ibs",
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-09-13T18:57:27-03:00"
     },
     {
       "id": "53363f2bac7b767b",
