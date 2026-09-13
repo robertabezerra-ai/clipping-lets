@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-13T14:07:10-03:00",
+  "gerado_em": "2026-09-13T15:31:42-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -284,6 +284,23 @@ window.DADOS = {
         "comemora"
       ],
       "coletado_em": "2026-09-13T14:07:10-03:00"
+    },
+    {
+      "id": "a5923ada383dd955",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça diz que abrir celular de Vorcaro tumultua julgamento",
+      "link": "https://www.congressoemfoco.com.br/noticia/122212/mendonca-diz-que-abrir-celular-de-vorcaro-tumultua-julgamento",
+      "resumo": "Ministro afirma que novos elementos às vésperas da sessão de terça podem comprometer investigações e pede esclarecimentos a quatro delegados da PF.",
+      "publicado_em": "2026-09-13T14:48:40-03:00",
+      "dia": "2026-09-13",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-13T15:31:42-03:00"
     },
     {
       "id": "367669deeeaf24ed",
@@ -1791,6 +1808,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-11T14:24:06-03:00"
+    },
+    {
+      "id": "ed1c0e612ed59997",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senador propõe piso de R$ 13,7 mil para engenheiros e agrônomos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122167/senador-propoe-piso-de-r-13-7-mil-para-engenheiros-e-agronomos",
+      "resumo": "Texto prevê aplicação do piso a servidores estatutários e trabalhadores da iniciativa privada.",
+      "publicado_em": "2026-09-11T12:55:31-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-13T15:31:42-03:00"
     },
     {
       "id": "90cf8d7f97194564",
