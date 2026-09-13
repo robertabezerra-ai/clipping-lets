@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-13T11:48:19-03:00",
+  "gerado_em": "2026-09-13T14:07:10-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -269,6 +269,39 @@
       "coletado_em": "2026-09-13T11:48:19-03:00"
     },
     {
+      "id": "cc8d6de0e434b4c1",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Sesc Consolação abre suas portas às comemorações do centenário do poeta Paulo Bomfim",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115274&pagina=1",
+      "resumo": "Evento será nesta quarta-feira, dia 16.\n \n\tAs comemorações do centenário de nascimento de Paulo Bomfim, escritor, jornalista, cronista e poeta que se tornou conhecido como",
+      "publicado_em": "2026-09-13T12:00:00-03:00",
+      "dia": "2026-09-13",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-09-13T14:07:10-03:00"
+    },
+    {
+      "id": "367669deeeaf24ed",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dados de celular de Vorcaro podem ser enviados imediatamente, diz PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122211/dados-de-celular-de-vorcaro-podem-ser-enviados-imediatamente-diz-pf",
+      "resumo": "Manifestação ocorre após Fachin dar 24h para que a corporação explicar custódia do aparelho.",
+      "publicado_em": "2026-09-13T11:59:25-03:00",
+      "dia": "2026-09-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-13T14:07:10-03:00"
+    },
+    {
       "id": "40ddb75e74e21b65",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -286,7 +319,7 @@
       "id": "e6bd4489fed76a59",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "Mário Frias seria peça central em esquema de Dark Horse, aponta Dino",
+      "titulo": "Mario Frias seria peça central em esquema de Dark Horse, aponta Dino",
       "link": "https://www.congressoemfoco.com.br/noticia/122209/mario-frias-seria-peca-central-em-esquema-de-dark-horse-aponta-dino",
       "resumo": "Ministro diz que apuração indica atuação ativa do parlamentar em movimentações financeiras sob suspeita.",
       "publicado_em": "2026-09-13T10:30:18-03:00",
@@ -1547,6 +1580,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-12T10:53:38-03:00"
+    },
+    {
+      "id": "9857181d349374fc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto cria prazo para partidos anunciarem regras antes do pleito",
+      "link": "https://www.congressoemfoco.com.br/noticia/122184/projeto-cria-prazo-para-partidos-anunciarem-regras-antes-do-pleito",
+      "resumo": "Texto também torna obrigatória a criação de códigos de ética e conduta e exige fundamentação nas decisões disciplinares contra filiados.",
+      "publicado_em": "2026-09-11T16:08:27-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-13T14:07:10-03:00"
     },
     {
       "id": "af7f9f781670cbff",
