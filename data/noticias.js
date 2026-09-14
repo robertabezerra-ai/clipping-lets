@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-14T17:08:38-03:00",
+  "gerado_em": "2026-09-14T19:52:24-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 17,
+      "itens": 18,
       "erro": null
     },
     {
@@ -173,7 +173,7 @@ window.DADOS = {
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 28,
+      "itens": 27,
       "erro": null
     },
     {
@@ -184,9 +184,9 @@ window.DADOS = {
     },
     {
       "id": "anpd",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "Expecting value: line 1 column 1 (char 0)"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anbima",
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -443,6 +443,71 @@ window.DADOS = {
       "coletado_em": "2026-09-14T17:08:38-03:00"
     },
     {
+      "id": "9843ed6a5189bc1f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Justiça determina que bar reduza ruídos e indenize moradores em Botucatu",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115325&pagina=1",
+      "resumo": "Multa diária em caso de descumprimento. \n \n\tA 29ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo determinou que bar de Botucatu reduza",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "d584aad0881391f1",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Fundação da Fraternidade Judiciária amplia Programa Quali Vida com Projeto de Arteterapia",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115317&pagina=1",
+      "resumo": "Iniciativa gratuita é destinada aos servidores do TJSP.\n \n\tA Fundação da Fraternidade Judiciária, nos últimos três anos, ampliou suas ações de apoio aos servidores do",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "a954577de286a99e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Cartórios questionam no STF regras do CNJ sobre garantia de obrigações trabalhistas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cartorios-questionam-no-stf-regras-do-cnj-sobre-garantia-de-obrigacoes-trabalhistas/",
+      "resumo": "Segundo associação do setor, provimento impõe restrições ao patrimônio de tabeliães e registradores sem previsão em lei",
+      "publicado_em": "2026-09-14T19:33:44-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "94ce1bcd817bea62",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF disponibiliza documentos e peças de processos que tiveram sigilo retirado",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-disponibiliza-documentos-e-pecas-de-processos-que-sigilos-foram-levantados/",
+      "resumo": "Material pode ser acessado por links zipados ou detalhados",
+      "publicado_em": "2026-09-14T17:14:06-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
       "id": "73a3549a3978acc7",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -507,6 +572,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "a788ee1538177a22",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pesquisa apresentada em Conselho aponta alta taxa de depressão entre jornalistas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/14/pesquisa-apresentada-em-conselho-aponta-alta-taxa-de-depressao-entre-jornalistas",
+      "resumo": "",
+      "publicado_em": "2026-09-14T18:22:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
     },
     {
       "id": "2bc9a590433e943c",
@@ -766,6 +845,36 @@ window.DADOS = {
       "coletado_em": "2026-09-14T15:56:43-03:00"
     },
     {
+      "id": "5b2392ae82cf2310",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operações no Rio apreendem mais de 510 kg de maconha e 11 fuzis em 10 dias",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacoes-no-rio-apreendem-mais-de-510-kg-de-maconha-e-11-fuzis-em-10-dias",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "f1c66d35f3975f21",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Vacina pneumo20 vai ser ofertada para quem tem mais de 85 anos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/vacina-pneumo20-vai-ser-ofertada-para-quem-tem-mais-de-85-anos",
+      "resumo": "",
+      "publicado_em": "2026-09-14T16:25:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
       "id": "e87af22768d0b0f0",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -900,6 +1009,116 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "a7b62a8feeb026da",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM lança novo Sistema de Atendimento ao Cidadão (SAC)",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-lanca-novo-sistema-de-atendimento-ao-cidadao-sac",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "74d2143a036a5906",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM participa de debates sobre caminhos da tokenização de ativos mobiliários no País",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-de-debates-sobre-caminhos-da-tokenizacao-de-ativos-mobiliarios-no-pais",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "333fdde52b35ca83",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Imprensa fora, raio x e lacre em celular: Veja como será sessão do STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122250/imprensa-fora-raio-x-e-lacre-em-celular-veja-como-sera-sessao-do-stf",
+      "resumo": "Sessão extraordinária terá acesso restrito ao Plenário, inspeção com detectores de metais e celulares desligados e lacrados.",
+      "publicado_em": "2026-09-14T17:35:55-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "151abd6f2c6cd56c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE/AL indefere candidatura de João Neto após violência doméstica",
+      "link": "https://www.congressoemfoco.com.br/noticia/122249/tre-al-indefere-candidatura-de-joao-neto-apos-violencia-domestica",
+      "resumo": "Pedido de impugnação foi apresentado pelo senador Renan Calheiros; ainda cabe recurso ao TSE.",
+      "publicado_em": "2026-09-14T17:25:45-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "378ef777c37119cc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O que oito anos de mandato me ensinaram sobre fazer política",
+      "link": "https://www.congressoemfoco.com.br/coluna/122248/o-que-oito-anos-de-mandato-me-ensinaram-sobre-fazer-politica",
+      "resumo": "Dois mandatos na Alesp me mostraram que escuta e coragem podem transformar problemas concretos em políticas públicas capazes de cuidar das pessoas.",
+      "publicado_em": "2026-09-14T17:18:02-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "64a21c53baab3bb6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Saiba como será o rito do julgamento de Moraes no STF nesta terça",
+      "link": "https://www.congressoemfoco.com.br/noticia/122246/saiba-como-sera-o-rito-do-julgamento-de-moraes-no-stf-nesta-terca",
+      "resumo": "Julgamento começa às 10h; sessão será transmitida pela TV Justiça, pela Rádio Justiça e pelo canal do STF no YouTube.",
+      "publicado_em": "2026-09-14T16:26:44-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "julgamento",
+        "julga",
+        "adi"
+      ],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "9ac0dbe779222030",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O desafio do Brasil é transformar riqueza mineral em tecnologia",
+      "link": "https://www.congressoemfoco.com.br/artigo/122243/o-desafio-do-brasil-e-transformar-riqueza-mineral-em-tecnologia",
+      "resumo": "O Brasil não deveria enxergar o investimento estrangeiro apenas como fonte de recursos para exploração mineral, mas como oportunidade de incorporar conhecimento e desenvolver novas capacidades produtivas.",
+      "publicado_em": "2026-09-14T15:26:16-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
     },
     {
       "id": "346b1863eb505878",
@@ -1325,6 +1544,64 @@ window.DADOS = {
         "aprova"
       ],
       "coletado_em": "2026-09-14T17:08:38-03:00"
+    },
+    {
+      "id": "8398f898b333bf59",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Ex-deputado federal Philemon Rodrigues morre aos 94 anos",
+      "link": "https://www.camara.leg.br/noticias/1304531-ex-deputado-federal-philemon-rodrigues-morre-aos-94-anos",
+      "resumo": "",
+      "publicado_em": "2026-09-14T19:39:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "c2da088506d5d323",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto garante oferta contínua de medicamentos para asma no SUS",
+      "link": "https://www.camara.leg.br/noticias/1302977-projeto-garante-oferta-continua-de-medicamentos-para-asma-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-09-14T18:45:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "e57bdc2559e3f4a4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Especialistas defendem cuidado na regulação de redes para não comprometer liberdade de expressão",
+      "link": "https://www.camara.leg.br/noticias/1304413-especialistas-defendem-cuidado-na-regulacao-de-redes-para-nao-comprometer-liberdade-de-expressao",
+      "resumo": "",
+      "publicado_em": "2026-09-14T17:40:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "c03f714ab1d32d0a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "MP prevê ajuda do governo a produtores e importadores para reduzir preço final do óleo diesel",
+      "link": "https://www.camara.leg.br/noticias/1304359-mp-preve-ajuda-do-governo-a-produtores-e-importadores-para-reduzir-preco-final-do-oleo-diesel",
+      "resumo": "",
+      "publicado_em": "2026-09-14T17:29:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T19:52:24-03:00"
     },
     {
       "id": "ce39be48fec9347d",
