@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-14T15:56:43-03:00",
+  "gerado_em": "2026-09-14T17:08:38-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 16,
+      "itens": 17,
       "erro": null
     },
     {
@@ -184,9 +184,9 @@
     },
     {
       "id": "anpd",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "Expecting value: line 1 column 1 (char 0)"
     },
     {
       "id": "anbima",
@@ -233,7 +233,7 @@
     {
       "id": "carf",
       "status": "ok",
-      "itens": 4,
+      "itens": 5,
       "erro": null
     },
     {
@@ -427,6 +427,74 @@
       "coletado_em": "2026-09-14T15:56:43-03:00"
     },
     {
+      "id": "58321b9f247f5fb9",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "eproc: unidades especializadas em Fazenda Pública e Jefaz de cinco RAJs iniciam capacitação nos próximos dias",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115315&pagina=1",
+      "resumo": "Treinamento em formato híbrido.\n \n\tO Tribunal de Justiça de São Paulo segue a capacitação em formato híbrido nas unidades do ciclo 3 do eproc. Nas",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T17:08:38-03:00"
+    },
+    {
+      "id": "73a3549a3978acc7",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF discutirá se Executivo pode limitar ingresso de pessoas que moram sozinhas no Bolsa Família",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-discutira-se-executivo-pode-limitar-ingresso-de-pessoas-que-moram-sozinhas-no-bolsa-familia/",
+      "resumo": "Caso que teve repercussão geral reconhecida envolve compatibilizar direitos sociais e limitações fiscal-orçamentárias com a Constituição",
+      "publicado_em": "2026-09-14T16:17:51-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "repercussao geral"
+      ],
+      "coletado_em": "2026-09-14T17:08:38-03:00"
+    },
+    {
+      "id": "2a562c6a58de5060",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Entenda o rito para o julgamento desta terça-feira (15)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/entenda-o-rito-para-o-julgamento-desta-terca-feira-15/",
+      "resumo": "Julgamento começa às 10h; sessão será transmitida pela TV e Rádio Justiça e pelo canal do STF no YouTube",
+      "publicado_em": "2026-09-14T16:11:29-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "julgamento",
+        "julga",
+        "adi"
+      ],
+      "coletado_em": "2026-09-14T17:08:38-03:00"
+    },
+    {
+      "id": "3110077c120612f6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira as regras de acesso ao STF para a sessão desta terça-feira (15)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-as-regras-de-acesso-ao-stf-para-a-sessao-desta-terca-feira-15/",
+      "resumo": "Julgamento começa às 10h; sessão será transmitida pela TV e Rádio Justiça e pelo canal do STF no YouTube",
+      "publicado_em": "2026-09-14T15:57:24-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "julgamento",
+        "julga",
+        "adi"
+      ],
+      "coletado_em": "2026-09-14T17:08:38-03:00"
+    },
+    {
       "id": "0482e0dfb132d7b1",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -439,6 +507,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "2bc9a590433e943c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Verifica: Como votar nas duas vagas para o Senado e evitar erros",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/senado-verifica-como-votar-nas-duas-vagas-para-o-senado-e-evitar-erros",
+      "resumo": "",
+      "publicado_em": "2026-09-14T16:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T17:08:38-03:00"
     },
     {
       "id": "72b747cde447c32e",
@@ -848,6 +930,20 @@
       "coletado_em": "2026-09-14T15:56:43-03:00"
     },
     {
+      "id": "bf415e5e8fd14ab9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Por que não quero falar de política neste pleito?",
+      "link": "https://www.congressoemfoco.com.br/artigo/122240/por-que-nao-quero-falar-de-politica-neste-pleito",
+      "resumo": "Continuo acreditando na democracia como o único caminho viável, mas compreendi que uma estrutura jurídica ou institucional sólida é estéril se não for sustentada por uma sociedade empática.",
+      "publicado_em": "2026-09-14T15:13:37-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T17:08:38-03:00"
+    },
+    {
       "id": "0893a3fbb01306c4",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1212,6 +1308,23 @@
         "acao"
       ],
       "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "d7328c6cffc3a0cc",
+      "fonte_id": "carf",
+      "fonte_nome": "CARF",
+      "titulo": "CARF aprova oito novos enunciados de súmulas em sessão realizada nesta segunda-feira (14/9)",
+      "link": "https://www.gov.br/carf/pt-br/assuntos/novas-noticias/carf-aprova-oito-novos-enunciados-de-sumulas-em-sessao-realizada-nesta-segunda-feira-14-9",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "sumula",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-14T17:08:38-03:00"
     },
     {
       "id": "ce39be48fec9347d",
