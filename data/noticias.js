@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-14T13:47:26-03:00",
+  "gerado_em": "2026-09-14T15:56:43-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,39 +154,39 @@ window.DADOS = {
     },
     {
       "id": "pgfn",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /pgfn/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 29,
+      "erro": null
     },
     {
       "id": "senado",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www12.senado.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www12.senado"
+      "status": "ok",
+      "itens": 16,
+      "erro": null
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /receitafederal/pt-br/assuntos/noticias/RSS (Caused by NewConnectionError(\"HTTPSConnection(ho"
+      "status": "ok",
+      "itens": 28,
+      "erro": null
     },
     {
       "id": "fazenda",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /fazenda/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anpd",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /anpd/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effecti"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@ window.DADOS = {
     },
     {
       "id": "cvm",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cvm/pt-br/assuntos/noticias/RSS (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
+      "status": "ok",
+      "itens": 29,
+      "erro": null
     },
     {
       "id": "bacen",
@@ -208,15 +208,15 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /coaf/sitemap1.xml.gz (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port="
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cade/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "cnj",
@@ -226,15 +226,15 @@ window.DADOS = {
     },
     {
       "id": "mjsp",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mj/pt-br/assuntos/noticias-1 (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "carf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /carf/pt-br/assuntos/novas-noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www."
+      "status": "ok",
+      "itens": 4,
+      "erro": null
     },
     {
       "id": "governo_federal",
@@ -309,6 +309,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "433ab0d7e95b7ac9",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Habilitação em acordo direto com a Fazenda Estadual pode ser feita até 25/9",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/habilitacao-em-acordo-direto-com-a-fazenda-estadual-pode-ser-feita-ate-25-9",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
     },
     {
       "id": "92fc3339af06dd4c",
@@ -394,6 +410,311 @@ window.DADOS = {
       "coletado_em": "2026-09-14T13:47:26-03:00"
     },
     {
+      "id": "43cbe9d0fa54dfe6",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "CIJ discute orfandade por feminicídio em palestra virtual",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115310&pagina=1",
+      "resumo": "Exposição da psicóloga Roberta Scaramussa da Silva.\n \n\tA Coordenadoria da Infância e da Juventude (CIJ) e a Escola Judicial dos Servidores (EJUS) do Tribunal de",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 32,
+      "tags": [
+        "judicial",
+        "exposicao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "0482e0dfb132d7b1",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Corte Aberta reúne dados do STF em painéis interativos e bases para download",
+      "link": "https://noticias.stf.jus.br/postsnoticias/corte-aberta-reune-dados-do-stf-em-paineis-interativos-e-bases-para-download/",
+      "resumo": "Plataforma permite consultar estatísticas, aplicar filtros e baixar bases de dados do Tribunal em formatos abertos",
+      "publicado_em": "2026-09-14T10:37:56-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "72b747cde447c32e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado celebra o Dia do Administrador",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/senado-celebra-o-dia-do-administrador",
+      "resumo": "",
+      "publicado_em": "2026-09-14T15:27:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "704a1d4d16b63ed7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Conselho de Comunicação Social debate até que ponto regular redes sociais",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/conselho-de-comunicacao-social-debate-ate-que-ponto-regular-redes-sociais",
+      "resumo": "",
+      "publicado_em": "2026-09-14T15:17:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "4cfcff90cd4c15f0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Regulação das redes sociais divide especialistas em audiência no Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/regulacao-das-redes-sociais-divide-especialistas-em-audiencia-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-09-14T14:45:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "82b85281233978b8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Especialistas defendem transparência e divergem sobre regulação das plataformas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/14/especialistas-defendem-transparencia-e-divergem-sobre-regulacao-das-plataformas",
+      "resumo": "",
+      "publicado_em": "2026-09-14T14:44:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "958494dda8877c7f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sessão especial do Dia do Administrador aborda desafio das novas tecnologias",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/sessao-especial-do-dia-do-administrador-aborda-desafio-das-novas-tecnologias",
+      "resumo": "",
+      "publicado_em": "2026-09-14T14:42:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "fb395d537e2ef8ed",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Filmes sobre Abdias, Darcy e Eunice levam realidade virtual ao Festival de Brasília",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/14/filmes-sobre-abdias-darcy-e-eunice-levam-realidade-virtual-ao-festival-de-brasilia",
+      "resumo": "",
+      "publicado_em": "2026-09-14T14:28:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "e3de10f74cd4f920",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "'Lei do Mar' voltará a ser analisada na Comissão de Infraestrutura",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/lei-do-mar-voltara-a-ser-analisada-na-comissao-de-infraestrutura",
+      "resumo": "",
+      "publicado_em": "2026-09-14T13:27:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "8d1e27296467a6b1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Em sessão pelo Dia do Administrador, profissionais defendem formação contínua",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/14/em-sessao-pelo-dia-do-administrador-profissionais-defendem-formacao-continuada",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:39:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "e221c0b93c9ab2c5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Medida provisória estende subsídio para baratear diesel",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/14/medida-provisoria-estende-subsidio-para-baratear-diesel",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:38:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "0b3054e4810dbf24",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PLOA é enviado com reajustes travados pelo Arcabouço Fiscal e Regra de Ouro",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/ploa-e-enviado-com-reajustes-travados-pelo-arcabouco-fiscal-e-regra-de-ouro",
+      "resumo": "",
+      "publicado_em": "2026-09-14T09:08:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "02af2579e5a68f78",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto regulamenta exercício da psicoterapia",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/projeto-regulamenta-exercicio-da-psicoterapia",
+      "resumo": "",
+      "publicado_em": "2026-09-14T08:56:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "f53a9931d208e54a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto que transforma Cefets em universidades federais aguarda sanção",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/projeto-que-transforma-cefets-em-universidades-federais-aguarda-sancao",
+      "resumo": "",
+      "publicado_em": "2026-09-14T08:45:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "sancao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "66b3ade16e4f62d0",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal publica nova documentação técnica das APIs de apuração da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-publica-nova-documentacao-tecnica-das-apis-de-apuracao-de-cbs",
+      "resumo": "",
+      "publicado_em": "2026-09-14T09:39:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "8909402a35da1bbc",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Rede EaD Senasp disponibiliza curso sobre gestão de projeto aplicada à segurança pública",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rede-ead-senasp-disponibiliza-curso-sobre-gestao-de-projeto-aplicada-a-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "af110b82c00a9f0d",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Seminário na Bahia debate desafios atuais das relações de consumo nos 36 anos do CDC",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/seminario-na-bahia-debate-desafios-atuais-das-relacoes-de-consumo-nos-36-anos-do-cdc",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "c425ed14172a418f",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "CNCP realiza audiência pública sobre venda de produtos contrafeitos e irregulares em plataformas digitais",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cncp-realiza-audiencia-publica-sobre-venda-de-produtos-contrafeitos-e-irregulares-em-plataformas-digitais",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "e87af22768d0b0f0",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enamed 2026: aberto prazo para solicitar reaplicação",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/enamed-2026-aberto-prazo-para-solicitar-reaplicacao",
+      "resumo": "",
+      "publicado_em": "2026-09-14T14:42:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "6d4c036dc5636329",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MEC disponibiliza painel com dados do Ideb para análise da aprendizagem",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/mec-disponibiliza-painel-com-dados-do-ideb-para-analise-da-aprendizagem",
+      "resumo": "",
+      "publicado_em": "2026-09-14T13:34:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
       "id": "fed0c38f61bca0b4",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -436,6 +757,157 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "3488f63f8f381fc4",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Coalizão Aberta aprova plano de trabalho e define estrutura de Secretariado na China",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/coalizao-aberta-aprova-plano-de-trabalho-e-define-estrutura-de-secretariado-na-china",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "5aad95ff98514dc7",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal publica nova documentação técnica das APIs de apuração de CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-publica-nova-documentacao-tecnica-das-apis-de-apuracao-de-cbs",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "9d904f042ad86e34",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Confira o Ofício Circular Anual da SRE sobre ofertas públicas",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/confira-o-oficio-circular-anual-da-sre-sobre-ofertas-publicas",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "0aa7ca14907d123f",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Indisponibilidade temporária de acesso ao Sistema Eletrônico de Informações (SEI)",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/indisponibilidade-temporaria-de-acesso-ao-sistema-eletronico-de-informacoes-sei",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "346b1863eb505878",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O Banco Master e seu impacto no mundo do futebol",
+      "link": "https://www.congressoemfoco.com.br/artigo/122242/o-banco-master-e-seu-impacto-no-mundo-do-futebol",
+      "resumo": "Relações entre instituições financeiras, clubes e casas de apostas expõem os riscos por trás dos grandes patrocínios esportivos.",
+      "publicado_em": "2026-09-14T15:20:06-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "2e51099dd7276058",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Uma crise com DNA masculino no STF",
+      "link": "https://www.congressoemfoco.com.br/coluna/122241/uma-crise-com-dna-masculino-no-stf",
+      "resumo": "Em 218 anos de existência, o Supremo Tribunal Federal só teve três mulheres.",
+      "publicado_em": "2026-09-14T15:14:56-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "0893a3fbb01306c4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Defesa de Cezinha nega irregularidades e cita contexto eleitoral",
+      "link": "https://www.congressoemfoco.com.br/noticia/122239/defesa-de-cezinha-nega-irregularidades-e-cita-contexto-eleitoral",
+      "resumo": "Advogados dizem que parlamentar prestará todos os esclarecimentos necessários à investigação.",
+      "publicado_em": "2026-09-14T15:04:34-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "85dbf9c77a4b05f3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Reforma do Judiciário: o que mudam as duas propostas na Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/122237/reforma-do-judiciario-o-que-mudam-as-duas-propostas-na-camara",
+      "resumo": "Textos de Reginaldo Lopes e Danilo Forte preveem mandato para futuros ministros do STF, mas divergem sobre indicações à Corte, decisões monocráticas, paridade de gênero e regras de controle da magistratura.",
+      "publicado_em": "2026-09-14T13:41:41-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "6aff91ba1d7344c6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Crise no STF impulsiona propostas de reforma do Judiciário na Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/122235/crise-no-stf-impulsiona-propostas-de-reforma-do-judiciario-na-camara",
+      "resumo": "A 20 dias do primeiro turno, os deputados Reginaldo Lopes e Danilo Forte tentam reunir as assinaturas necessárias para oficializar propostas que, entre outras mudanças, criam mandato para futuros ministros do Supremo.",
+      "publicado_em": "2026-09-14T13:04:39-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "911ddd9e354fecfd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bolsonaro perde ação contra Janones por o acusar de mandar matar Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/122234/bolsonaro-perde-acao-contra-janones-por-o-acusar-de-mandar-matar-lula",
+      "resumo": "Ex-presidente havia pedido R$ 50 mil de indenização por danos morais e a retirada do vídeo das redes sociais.",
+      "publicado_em": "2026-09-14T12:56:34-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
     },
     {
       "id": "86ed2896866828a0",
@@ -740,6 +1212,156 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "ce39be48fec9347d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto isenta profissionais da saúde do Imposto de Renda sobre horas extras nas redes pública e privada",
+      "link": "https://www.camara.leg.br/noticias/1303066-projeto-isenta-profissionais-da-saude-do-imposto-de-renda-sobre-horas-extras-nas-redes-publica-e-privada",
+      "resumo": "",
+      "publicado_em": "2026-09-14T15:12:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "846dcf6b0a1b2348",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto reforça gratuidade em ligações para centrais do INSS e do Ministério do Trabalho",
+      "link": "https://www.camara.leg.br/noticias/1303077-projeto-reforca-gratuidade-em-ligacoes-para-centrais-do-inss-e-do-ministerio-do-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-09-14T14:27:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "ffff92b3f58676b6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria estatuto para proteger consumidor de energia solar",
+      "link": "https://www.camara.leg.br/noticias/1303781-projeto-cria-estatuto-para-proteger-consumidor-de-energia-solar",
+      "resumo": "",
+      "publicado_em": "2026-09-14T14:06:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "90713e08e01e9ed2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê vistoria anual para veículos de transporte escolar sem restrições",
+      "link": "https://www.camara.leg.br/noticias/1303881-projeto-preve-vistoria-anual-para-veiculos-de-transporte-escolar-sem-restricoes",
+      "resumo": "",
+      "publicado_em": "2026-09-14T13:13:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "91e7289c08bd09c4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto amplia certificado de saúde mental para incluir prevenção ao vício em apostas",
+      "link": "https://www.camara.leg.br/noticias/1300089-projeto-amplia-certificado-de-saude-mental-para-incluir-prevencao-ao-vicio-em-apostas",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:21:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "666814e56b77f86a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que prioriza atendimento remoto acessível a pessoas com deficiência",
+      "link": "https://www.camara.leg.br/noticias/1302920-comissao-aprova-projeto-que-prioriza-atendimento-remoto-acessivel-a-pessoas-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-09-14T11:55:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "568643df769e435d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Entidade de comunicação pública propõe 14 compromissos a candidatos das eleições de 2026",
+      "link": "https://www.camara.leg.br/noticias/1304092-entidade-de-comunicacao-publica-propoe-14-compromissos-a-candidatos-das-eleicoes-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-14T11:49:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "330437e1453d3265",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Conheça o caminho do voto, desde a seção eleitoral até a divulgação do resultado",
+      "link": "https://www.camara.leg.br/noticias/1304325-conheca-o-caminho-do-voto-desde-a-secao-eleitoral-ate-a-divulgacao-do-resultado",
+      "resumo": "",
+      "publicado_em": "2026-09-14T11:12:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "3e3f98afff3a8283",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Conheça as medidas de segurança das urnas; testes começam com um ano de antecedência",
+      "link": "https://www.camara.leg.br/noticias/1304307-conheca-as-medidas-de-seguranca-das-urnas-testes-comecam-com-um-ano-de-antecedencia",
+      "resumo": "",
+      "publicado_em": "2026-09-14T11:02:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "550487a134861ccb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto de lei cria programa de valorização da pecuária leiteira",
+      "link": "https://www.camara.leg.br/noticias/1303453-projeto-de-lei-cria-programa-de-valorizacao-da-pecuaria-leiteira",
+      "resumo": "",
+      "publicado_em": "2026-09-14T10:33:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T15:56:43-03:00"
     },
     {
       "id": "45981ccf8647edc3",
@@ -1703,7 +2325,7 @@ window.DADOS = {
       "id": "90b731f1f70e7b63",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Rádio Nacional celebra na segunda (14) os 45 anos do ‘Viva Maria’ com especial ao vivo e série em podcast",
+      "titulo": "Rádio Nacional celebra nesta segunda (14) os 45 anos do ‘Viva Maria’ com especial ao vivo",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/radio-nacional-celebra-nesta-segunda-14-o-aniversario-de-45-anos-do-2018viva-maria2019-com-especial-ao-vivo-e-serie-em-podcast",
       "resumo": "",
       "publicado_em": "2026-09-11T17:30:00-03:00",
@@ -4737,7 +5359,7 @@ window.DADOS = {
       "id": "79627ea2a6c39807",
       "fonte_id": "cade",
       "fonte_nome": "Cade",
-      "titulo": "Oportunidade de estágio no Gabinete da Superintendência",
+      "titulo": "Oportunidade de estágio no Gabinete da Superintendência-Geral",
       "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/oportunidade-de-estagio-no-gabinete-da-superintendencia",
       "resumo": "",
       "publicado_em": "2026-09-10T12:00:00-03:00",
