@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-13T18:57:27-03:00",
+  "gerado_em": "2026-09-14T13:47:26-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,39 +154,39 @@
     },
     {
       "id": "pgfn",
-      "status": "ok",
-      "itens": 29,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /pgfn/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "senado",
-      "status": "ok",
-      "itens": 4,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www12.senado.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www12.senado"
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
-      "status": "ok",
-      "itens": 28,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /receitafederal/pt-br/assuntos/noticias/RSS (Caused by NewConnectionError(\"HTTPSConnection(ho"
     },
     {
       "id": "fazenda",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /fazenda/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
     },
     {
       "id": "anpd",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /anpd/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effecti"
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@
     },
     {
       "id": "cvm",
-      "status": "ok",
-      "itens": 29,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cvm/pt-br/assuntos/noticias/RSS (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
     },
     {
       "id": "bacen",
@@ -208,15 +208,15 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /coaf/sitemap1.xml.gz (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port="
     },
     {
       "id": "cade",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cade/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "cnj",
@@ -226,15 +226,15 @@
     },
     {
       "id": "mjsp",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mj/pt-br/assuntos/noticias-1 (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "carf",
-      "status": "ok",
-      "itens": 4,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /carf/pt-br/assuntos/novas-noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www."
     },
     {
       "id": "governo_federal",
@@ -250,6 +250,511 @@
     }
   ],
   "noticias": [
+    {
+      "id": "5d21d76a8adaa2db",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Semana Nacional da Execução Trabalhista acontece de 14 a 18 de setembro",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/semana-nacional-da-execucao-trabalhista-acontece-de-14-a-18-de-setembro",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-09-11T11:50:36-03:00"
+    },
+    {
+      "id": "fd81be417125fbd3",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Hospital deve indenizar por cancelar unilateralmente plano de saúde",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/hospital-deve-indenizar-por-cancelar-unilateralmente-plano-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "indenizar"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "d468bf20004b5e7b",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Sessões do Tribunal Pleno e Órgão Especial ocorrem a partir das 13h",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/sessoes-do-tribunal-pleno-e-orgao-especial-ocorrem-a-partir-das-13h-2",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "58ab18ed86defc72",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Semana do(a) Servidor(a) apresenta série de palestras sobre qualidade de vida e bem-estar",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/semana-doa-servidora-apresenta-serie-de-palestras-sobre-qualidade-de-vida-e-bem-estar",
+      "resumo": "",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "92fc3339af06dd4c",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "EJud-15 promove debate sobre o livro \"Ressalga\" no projeto Direito em Páginas",
+      "link": "https://trt15.jus.br/noticia/2026/ejud-15-promove-debate-sobre-o-livro-ressalga-no-projeto-direito-em-paginas",
+      "resumo": "EJud-15 promove debate sobre o livro \"Ressalga\" no projeto Direito em Páginas anagatto Seg, 14/09/2026 - 12:37 EJud-15 promove debate sobre o livro \"Ressalga\" no projeto Direito em Páginas Conteúdo da Notícia A Escola Judicial do Tribunal Regional do Trabalho da 15ª Região realiza, no dia 16 de sete",
+      "publicado_em": "2026-09-14T12:37:18-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "3cbe8a388bc943bc",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Semana Nacional da Execução Trabalhista acontece de 14 a 18 de setembro",
+      "link": "https://trt15.jus.br/noticia/2026/semana-nacional-da-execucao-trabalhista-acontece-de-14-18-de-setembro",
+      "resumo": "Semana Nacional da Execução Trabalhista acontece de 14 a 18 de setembro anagatto Seg, 14/09/2026 - 11:25 Semana Nacional da Execução Trabalhista acontece de 14 a 18 de setembro Conteúdo da Notícia Começou nesta segunda-feira 14/9 a 16ª Semana Nacional da Execução Trabalhista, com o tema “Seu direito",
+      "publicado_em": "2026-09-14T11:25:52-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "44937e994fe2fdc6",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "1ª Jornada de Proteção de Dados Pessoais do TRT-15 debate LGPD, IA e segurança cibernética",
+      "link": "https://trt15.jus.br/noticia/2026/1a-jornada-de-protecao-de-dados-pessoais-do-trt-15-debate-lgpd-ia-e-seguranca",
+      "resumo": "1ª Jornada de Proteção de Dados Pessoais do TRT-15 debate LGPD, IA e segurança cibernética marianaaassuncao Seg, 14/09/2026 - 10:26 1ª Jornada de Proteção de Dados Pessoais do TRT-15 debate LGPD, IA e segurança cibernética Conteúdo da Notícia O Comitê de Proteção de Dados e Segurança da Informação, ",
+      "publicado_em": "2026-09-14T10:26:41-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 76,
+      "tags": [
+        "lgpd",
+        "protecao de dados",
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "a68df1b3dd6a2302",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Palestra do PPA Novos Tempos explora ensinamentos de clássicos gregos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115309&pagina=1",
+      "resumo": "Apresentação baseada na Ilíada e na Odisseia.\n \n\tO Tribunal de Justiça de São Paulo, por meio do Programa Novos Tempos - Preparação à Aposentadoria de",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "69a4b23843b81b8e",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "PGM-SP lança edital do programa “Fique em Dia” para renegociação de débitos municipais inscritos na dívida ativa",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115306&pagina=1",
+      "resumo": "Prazo para adesão até 15 de outubro.\n \n\tA Procuradoria Geral do Município de São Paulo (PGM-SP) lançou novo edital de transação excepcional no âmbito do",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "fed0c38f61bca0b4",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Festival de Música Rádio Nacional apresenta novo cronograma da edição 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/festival-de-musica-radio-nacional-apresenta-novo-cronograma-da-edicao-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-14T11:01:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "bbe02733bacb92d3",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Hoje (14) é o último dia para comprovar informações da lista de espera do ProUni",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/prouni-hoje-14-e-o-ultimo-dia-para-comprovar-informacoes-da-lista-de-espera",
+      "resumo": "",
+      "publicado_em": "2026-09-14T10:16:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "ca52e4ed2410d245",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Observatório Nacional abre seleção para mestrado e doutorado em Astronomia",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/observatorio-nacional-abre-selecao-para-mestrado-e-doutorado-em-astronomia",
+      "resumo": "",
+      "publicado_em": "2026-09-14T08:57:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "86ed2896866828a0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin manda retirar sigilo de ação sobre pagamentos de Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122233/fachin-manda-retirar-sigilo-de-acao-sobre-pagamentos-de-vorcaro",
+      "resumo": "Processo sob responsabilidade de Mendonça é apontado como relevante para julgamento no Supremo.",
+      "publicado_em": "2026-09-14T12:19:23-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 74,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "4b644374b2d7f512",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veja íntegra da operação autorizada por Dino contra deputado Cezinha",
+      "link": "https://www.congressoemfoco.com.br/noticia/122232/veja-integra-da-operacao-autorizada-por-dino-contra-deputado-cezinha",
+      "resumo": "Esposa do parlamentar teria recebido R$ 3 mi em honorários por ações no STF.",
+      "publicado_em": "2026-09-14T12:13:11-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "cb21aa7b79565ca0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MP aciona PF após Rico Melquíades ameaçar demitir funcionária petista",
+      "link": "https://www.congressoemfoco.com.br/noticia/122231/mp-aciona-pf-apos-rico-melquiades-ameacar-demitir-funcionaria-petista",
+      "resumo": "Ministério Público Eleitoral vê possível coação eleitoral em vídeo publicado pelo influenciador.",
+      "publicado_em": "2026-09-14T12:01:35-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "9ecd0893e8e778fc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula diz que Flávio \"nasceu na milícia e tem escritório com o Careca\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122230/lula-diz-que-flavio-nasceu-na-milicia-e-tem-escritorio-com-o-careca",
+      "resumo": "Candidato à reeleição também disse existir presidenciável que \"parece um capataz de fazenda no tempo da escravidão\".",
+      "publicado_em": "2026-09-14T11:52:40-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "107a71bf81f7f849",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zanatta quer sustar política de equidade de gênero criada na UFSC",
+      "link": "https://www.congressoemfoco.com.br/noticia/122229/zanatta-quer-sustar-politica-de-equidade-de-genero-criada-na-ufsc",
+      "resumo": "Deputada argumenta que a universidade não pode criar por resolução obrigações que, segundo ela, dependeriam de lei aprovada pelo Congresso.",
+      "publicado_em": "2026-09-14T11:07:48-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "resolucao",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "f355cf05552f8a61",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quaest: Flávio aparece numericamente à frente de Lula no 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/122228/quaest-flavio-aparece-numericamente-a-frente-de-lula-no-2-turno",
+      "resumo": "Senador do PL marca 42% contra 40% do presidente, mas os dois seguem em empate técnico. No primeiro turno, petista lidera por 36% a 31%.",
+      "publicado_em": "2026-09-14T10:36:27-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "9fed8091a713c21c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zanin recebe da PF cópia dos dados do celular de Daniel Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122227/zanin-recebe-da-pf-copia-dos-dados-do-celular-de-daniel-vorcaro",
+      "resumo": "Cópia dos dados foi encaminhada após pedido do ministro às vésperas de julgamento no Supremo.",
+      "publicado_em": "2026-09-14T10:18:12-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "a30ce5dbf3fc7981",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE/DF mantém propaganda que diz que Arruda \"já te roubou\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122226/tre-df-mantem-propaganda-que-diz-que-arruda-ja-te-roubou",
+      "resumo": "Decisão considera que linguagem dura e negativa não caracteriza, por si só, propaganda degradante.",
+      "publicado_em": "2026-09-14T09:20:53-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "2f0a716749950674",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Voto de Gilmar na Ficha Limpa pode reforçar inelegibilidade de Arruda",
+      "link": "https://www.congressoemfoco.com.br/noticia/122225/voto-de-gilmar-na-ficha-limpa-pode-reforcar-inelegibilidade-de-arruda",
+      "resumo": "Ministro restringe teto de 12 anos a condenações por improbidade conexas, enquanto TRE/DF concluiu que as sete ações contra o ex-governador não têm conexão entre si.",
+      "publicado_em": "2026-09-14T09:20:18-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "improbidade"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "43610ad08379ce12",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem é Cezinha de Madureira, deputado alvo da PF e aliado de Mendonça",
+      "link": "https://www.congressoemfoco.com.br/noticia/122224/quem-e-cezinha-de-madureira-deputado-alvo-da-pf-e-aliado-de-mendonca",
+      "resumo": "Ex-presidente da bancada evangélica, parlamentar atuou pela aprovação do ministro ao STF em 2021. Segundo apurações da PF, ele ajudou a articular encontro entre André Mendonça e Daniel Vorcaro.",
+      "publicado_em": "2026-09-14T09:19:03-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "b292706b5250cbd3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Candidata a suplente ao Senado pelo PT é agredida por PMs em SC",
+      "link": "https://www.congressoemfoco.com.br/noticia/122223/candidata-a-suplente-ao-senado-pelo-pt-e-agredida-por-pms-em-sc",
+      "resumo": "Advogada Fernanda Klitzke foi derrubada, chutada e atingida por balas de borracha. OAB, TRE/SC e PT reagem. Veja o vídeo.",
+      "publicado_em": "2026-09-14T08:50:32-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "oab"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "24df176effb2da25",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE/SP libera vídeo em que Pavanato chama Erika de \"travesti do Lula\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122222/tre-sp-libera-video-em-que-pavanato-chama-erika-de-travesti-do-lula",
+      "resumo": "Candidato comemorou decisão e voltou a atacar a deputada após conseguir reverter retirada da publicação.",
+      "publicado_em": "2026-09-14T08:47:21-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "b565a78617ddd26d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PGR pede queda do sigilo e diz que não tem acesso a processo suprimido",
+      "link": "https://www.congressoemfoco.com.br/noticia/122221/pgr-pede-queda-do-sigilo-e-diz-que-nao-tem-acesso-a-processo-suprimido",
+      "resumo": "Procuradoria afirma que Petição 15.645 não aparecia em seu sistema e defende retirada do sigilo para que ministros do STF conheçam o conteúdo.",
+      "publicado_em": "2026-09-14T08:23:43-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "240a0cc31fbeb1e4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE/AL manda retirar menções a Lira de matérias sobre festa de Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122220/tre-al-manda-retirar-mencoes-a-lira-de-materias-sobre-festa-de-vorcaro",
+      "resumo": "Decisões liminares atingem quatro veículos e levam em conta registros que apontam Lira em compromissos oficiais em Brasília na noite da festa do banqueiro em São Paulo.",
+      "publicado_em": "2026-09-14T08:12:47-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "liminar"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "fd9d01600678bdea",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF mira Cezinha de Madureira em operação sobre tráfico de influência",
+      "link": "https://www.congressoemfoco.com.br/noticia/122219/pf-mira-cezinha-de-madureira-em-operacao-sobre-trafico-de-influencia",
+      "resumo": "Investigação apura pagamentos que teriam sido condicionados ao resultado de processos judiciais em tribunais superiores.",
+      "publicado_em": "2026-09-14T07:55:58-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "ec988c96c8696f63",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar Mendes critica Mendonça por liberar só \"recortes\" de diálogos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122218/gilmar-mendes-critica-mendonca-por-liberar-so-recortes-de-dialogos",
+      "resumo": "Decano diz que colegas foram reduzidos a \"espectadores\" ao receber apenas trechos selecionados das mensagens de Vorcaro e cobra acesso ao contexto completo dos diálogos.",
+      "publicado_em": "2026-09-14T07:37:06-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "ef4520067359e90e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "BTG/Nexus: Lula tem 47% e Flávio, 46%, em empate técnico no 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/122217/btg-nexus-lula-tem-47-e-flavio-46--em-empate-tecnico-no-2-turno",
+      "resumo": "Pesquisa marca o retorno de Lula à dianteira numérica sobre Flávio no segundo turno, por 47% a 46%, mas a diferença está dentro da margem de erro e configura empate técnico; levantamento foi feito após a revelação do caso Dark Horse.",
+      "publicado_em": "2026-09-14T07:12:53-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "d32fff2d0740fee0",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Conheça as ações do TST para o Setembro Amarelo",
+      "link": "https://www.cnj.jus.br/conheca-as-acoes-do-tst-para-o-setembro-amarelo/",
+      "resumo": "Mensagem de trabalho fora do expediente, dificuldade de se desconectar, celular que continua tocando quando a jornada já terminou: essas situações, presentes na rotina profissional, estão no centro de uma campanha sobre saúde mental no trabalho desenvolvida em parceria entre o Tribunal Superior do T",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "92adcddb98800c4c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Justiça Pesquisa: CNJ recebe propostas para estudos sobre pessoa idosa e Justiça Restaurativa",
+      "link": "https://www.cnj.jus.br/justica-pesquisa-cnj-recebe-propostas-para-estudos-sobre-pessoa-idosa-e-justica-restaurativa/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) lançou a 1ª Convocação Pública da 8ª edição da série Justiça Pesquisa, que seleciona instituições de ensino superior, fundações de apoio à pesquisa e entidades sem fins lucrativos para desenvolver estudos que contribuam para aprimorar as políticas do Poder Judici",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "45981ccf8647edc3",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "DEJT tem funcionamento normalizado",
+      "link": "https://trt15.jus.br/noticia/2026/dejt-tem-funcionamento-normalizado",
+      "resumo": "DEJT tem funcionamento normalizado anasiqueira Dom, 13/09/2026 - 19:50 DEJT tem funcionamento normalizado Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) comunica que o funcionamento do Diário Eletrônico da Justiça do Trabalho (DEJT) foi restabelecido e o serviço já  está dispo",
+      "publicado_em": "2026-09-13T19:50:18-03:00",
+      "dia": "2026-09-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
+    },
     {
       "id": "d164fc18dc7a16e4",
       "fonte_id": "tjsp",
@@ -405,6 +910,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-13T11:48:19-03:00"
+    },
+    {
+      "id": "f3e6ab15a18cfc31",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Judiciário e Executivo do Paraná firmam cooperação para fornecimento de medicamentos",
+      "link": "https://www.cnj.jus.br/judiciario-e-executivo-do-parana-firmam-cooperacao-para-fornecimento-de-medicamentos/",
+      "resumo": "O Tribunal de Justiça do Estado do Paraná (TJPR) e o Governo do Paraná, por intermédio da Secretaria de Estado de Saúde (Sesa), firmaram um Termo de Cooperação Técnica para estabelecer uma atuação conjunta no cumprimento de decisões judiciais que determinam o fornecimento de medicamentos pelo estado",
+      "publicado_em": "2026-09-13T12:00:00-03:00",
+      "dia": "2026-09-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
     },
     {
       "id": "c15c34d003df71bd",
@@ -586,22 +1107,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-12T10:53:38-03:00"
-    },
-    {
-      "id": "5d21d76a8adaa2db",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Semana Nacional da Execução Trabalhista acontece de 14 a 18 de setembro",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/semana-nacional-da-execucao-trabalhista-acontece-de-14-a-18-de-setembro",
-      "resumo": "",
-      "publicado_em": "2026-09-11T12:00:00-03:00",
-      "dia": "2026-09-11",
-      "data_estimada": true,
-      "score": 50,
-      "tags": [
-        "trabalhista"
-      ],
-      "coletado_em": "2026-09-11T11:50:36-03:00"
     },
     {
       "id": "ad0c1b2865bb4427",
@@ -798,7 +1303,7 @@
       "fonte_nome": "STF",
       "titulo": "STF restabelece condenação de ex-presidente da Assembleia Legislativa de Rondônia",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-restabelece-condenacao-de-ex-presidente-da-assembleia-legislativa-de-rondonia/",
-      "resumo": "Relatora entendeu que não havia motivo para anular julgamento feito pelo TJ-RO",
+      "resumo": "Relatora entendeu que não havia motivo para anular julgamento feito pelo TJRO",
       "publicado_em": "2026-09-11T20:28:03-03:00",
       "dia": "2026-09-11",
       "data_estimada": false,
@@ -2669,6 +3174,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "ca3e38450dcc0dab",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "4ª Câmara reconhece competência da Justiça do Trabalho para julgar ação de empregado público por desvio de função",
+      "link": "https://trt15.jus.br/noticia/2026/4a-camara-reconhece-competencia-da-justica-do-trabalho-para-julgar-acao-de-empregado",
+      "resumo": "4ª Câmara reconhece competência da Justiça do Trabalho para julgar ação de empregado público por desvio de função anagatto Qui, 10/09/2026 - 11:09 4ª Câmara reconhece competência da Justiça do Trabalho para julgar ação de empregado público por desvio de função Conteúdo da Notícia A 4ª Câmara do Trib",
+      "publicado_em": "2026-09-10T11:09:08-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-08T16:15:22-03:00"
     },
     {
       "id": "3b36f9c961804fe5",
@@ -6217,23 +6739,6 @@
       "coletado_em": "2026-09-08T16:15:22-03:00"
     },
     {
-      "id": "ca3e38450dcc0dab",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "4ª Câmara reconhece competência da Justiça do Trabalho para julgar ação de empregado público por desvio de função",
-      "link": "https://trt15.jus.br/noticia/2026/4a-camara-reconhece-competencia-da-justica-do-trabalho-para-julgar-acao-de-empregado",
-      "resumo": "4ª Câmara reconhece competência da Justiça do Trabalho para julgar ação de empregado público por desvio de função anagatto Ter, 08/09/2026 - 11:09 4ª Câmara reconhece competência da Justiça do Trabalho para julgar ação de empregado público por desvio de função Conteúdo da Notícia A 4ª Câmara do Trib",
-      "publicado_em": "2026-09-08T11:09:08-03:00",
-      "dia": "2026-09-08",
-      "data_estimada": false,
-      "score": 56,
-      "tags": [
-        "julga",
-        "acao"
-      ],
-      "coletado_em": "2026-09-08T16:15:22-03:00"
-    },
-    {
       "id": "6d083ff1c561080b",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -8541,20 +9046,6 @@
         "trabalhista",
         "homenagem"
       ],
-      "coletado_em": "2026-09-07T13:20:01-03:00"
-    },
-    {
-      "id": "45981ccf8647edc3",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "DEJT tem funcionamento normalizado",
-      "link": "https://trt15.jus.br/noticia/2026/dejt-tem-funcionamento-normalizado",
-      "resumo": "DEJT tem funcionamento normalizado anasiqueira Sex, 04/09/2026 - 19:50 DEJT tem funcionamento normalizado Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) comunica que o funcionamento do Diário Eletrônico da Justiça do Trabalho (DEJT) foi restabelecido e o serviço já  está dispo",
-      "publicado_em": "2026-09-04T19:50:18-03:00",
-      "dia": "2026-09-04",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
       "coletado_em": "2026-09-07T13:20:01-03:00"
     },
     {
@@ -47625,64 +48116,6 @@
       "tags": [
         "acao"
       ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "3d721a48d2850164",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "TRT-2 participa de encontro de ouvidores(as) realizado em Fortaleza-CE",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-participa-de-encontro-de-ouvidoresas-realizado-em-fortaleza-ce",
-      "resumo": "",
-      "publicado_em": "2026-06-15T12:00:00-03:00",
-      "dia": "2026-06-15",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "1553f5a45f51f680",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Aprendizagem profissional é destaque em campanha da Justiça do Trabalho",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/aprendizagem-profissional-e-destaque-em-campanha-da-justica-do-trabalho",
-      "resumo": "",
-      "publicado_em": "2026-06-15T12:00:00-03:00",
-      "dia": "2026-06-15",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "2a5ca42bd276e6b6",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Dispensa de trabalhador aposentado ou apto à aposentadoria configura etarismo e gera dever de indenizar",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/dispensa-de-trabalhador-aposentado-ou-apto-a-aposentadoria-configura-etarismo-e-gera-dever-de-indenizar",
-      "resumo": "",
-      "publicado_em": "2026-06-15T12:00:00-03:00",
-      "dia": "2026-06-15",
-      "data_estimada": true,
-      "score": 50,
-      "tags": [
-        "indenizar"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "ae21c3342409f9bd",
-      "fonte_id": "pgfn",
-      "fonte_nome": "PGFN",
-      "titulo": "PGFN atualiza identidade visual de serviços",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/pgfn-atualiza-identidade-visual-de-servicos",
-      "resumo": "",
-      "publicado_em": "2026-06-15T12:00:00-03:00",
-      "dia": "2026-06-15",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
