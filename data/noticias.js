@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-15T14:48:42-03:00",
+  "gerado_em": "2026-09-15T16:30:47-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@ window.DADOS = {
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -310,6 +310,37 @@ window.DADOS = {
       "coletado_em": "2026-09-15T14:48:42-03:00"
     },
     {
+      "id": "efeff91185abd9ed",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Homem que perdeu filho e neto em deslizamento será indenizado por município",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115314&pagina=1",
+      "resumo": "Omissão do Executivo diante de situação de risco.\n \n\tA 3ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve, em parte, decisão",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "f0bcec5d688dde73",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Justiça de Caraguatatuba abre inscrições para voluntários em atuar como jurado em Tribunais do Júri",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115327&pagina=1",
+      "resumo": "Cadastro até 30 de novembro.\n \n\tA Justiça de Caraguatatuba está com inscrições abertas para interessados em atuar como jurado nos Tribunais do Júri da comarca.",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
       "id": "94737d13ecdd8d51",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -402,7 +433,7 @@ window.DADOS = {
       "id": "9ad0a70995c7c8de",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "Sem votação no Congresso, MP dos mototaxistas perde validade",
+      "titulo": "Sem votação do Congresso, MP dos mototaxistas perde validade",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/09/15/sem-votacao-no-congresso-mp-dos-mototaxistas-perde-validade",
       "resumo": "",
       "publicado_em": "2026-09-15T11:03:00-03:00",
@@ -578,6 +609,80 @@ window.DADOS = {
       "coletado_em": "2026-09-15T14:48:42-03:00"
     },
     {
+      "id": "221f901bcf224a85",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Espírito Santo sedia quarta Jornada Respad com mais de 120 bombeiros militares",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/espirito-santo-sedia-quarta-jornada-respad-com-mais-de-120-bombeiros-militares",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "b04dcc332cabc08a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Inep divulga gabarito preliminar do Enamed 2026 e da 1ª etapa do Revalida 2026/2",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/inep-divulga-gabarito-preliminar-do-enamed-2026-e-da-1a-etapa-do-revalida-2026-2-1",
+      "resumo": "",
+      "publicado_em": "2026-09-15T16:09:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "liminar"
+      ],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "7d4d03653b967957",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pesquisa da UFC usa tecnologia para prevenir quedas de idosos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pesquisa-da-ufc-usa-tecnologia-para-prevenir-quedas-de-idosos",
+      "resumo": "",
+      "publicado_em": "2026-09-15T16:04:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "791bce09e5e8384d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Portos brasileiros iniciam temporada de cruzeiros em outubro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/portos-brasileiros-iniciam-temporada-de-cruzeiros-2026-2027-em-outubro",
+      "resumo": "",
+      "publicado_em": "2026-09-15T14:54:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "d3ddb0db5c82a9fc",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Entenda como revalidar diploma estrangeiro no Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/saiba-como-revalidar-diploma-estrangeiro-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-15T14:49:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "diploma"
+      ],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
       "id": "070f8870c88ec538",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -648,6 +753,20 @@ window.DADOS = {
       "coletado_em": "2026-09-15T14:48:42-03:00"
     },
     {
+      "id": "24dbd0a0f36aa8e4",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Mercado projeta déficit primário de R$ 52,271 bilhões para o Governo Central em 2026, mostra Prisma Fiscal",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/mercado-projeta-deficit-primario-de-r-52-271-bilhoes-para-o-governo-central-em-2026-mostra-prisma-fiscal",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
       "id": "1408c539d46745be",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -660,6 +779,51 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "8a02e5304a54fc54",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em sessão marcada por acusações, Carmén Lúcia fica em silêncio",
+      "link": "https://www.congressoemfoco.com.br/noticia/122287/em-sessao-marcada-por-acusacoes-carmen-lucia-fica-em-silencio",
+      "resumo": "Enquanto todos os demais integrantes do colegiado protagonizaram manifestações acaloradas, a voz da ministra não foi ouvida.",
+      "publicado_em": "2026-09-15T15:27:11-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "85dcc23188947fa6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF apura R$ 1 milhão em espécie e suspeita de crimes eleitorais em SP",
+      "link": "https://www.congressoemfoco.com.br/noticia/122285/pf-apura-r-1-milhao-em-especie-e-suspeita-de-crimes-eleitorais-em-sp",
+      "resumo": "Operação cumpre três mandados em Sorocaba e apura origem e destino de recursos movimentados durante o período eleitoral.",
+      "publicado_em": "2026-09-15T14:50:37-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "90a78a9f85b90b92",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vieira vai ao STF para tentar obrigar Senado a instalar CPI do Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122284/vieira-vai-ao-stf-para-tentar-obrigar-senado-a-instalar-cpi-do-master",
+      "resumo": "Pedido reúne 41 assinaturas e, segundo o senador Alessandro Vieira, está há seis meses na mesa de Davi Alcolumbre sem encaminhamento.",
+      "publicado_em": "2026-09-15T14:35:37-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
     },
     {
       "id": "955309afe3986bc6",
@@ -688,6 +852,54 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "5d5fe76c2366edcf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Mesmo que junte mãos de todos não vai caber\", diz Dino de corruptos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122279/mesmo-que-junte-maos-de-todos-nao-vai-caber--diz-dino-de-corruptos",
+      "resumo": "Ministro comparou o cenário atual com 1994, quando ingressou na magistratura por concurso público.",
+      "publicado_em": "2026-09-15T13:29:44-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "4d4b303980cd86e1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin vota contra união de processos e para manter julgamento de hoje",
+      "link": "https://www.congressoemfoco.com.br/noticia/122277/fachin-vota-contra-uniao-de-processos-e-para-manter-julgamento-de-hoje",
+      "resumo": "Questão de ordem previa unir processos, redistribuí-los e apurar magistrados citados no caso Master.",
+      "publicado_em": "2026-09-15T13:26:50-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "c5af505c05e8406d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino se diz indignado com supostas sanções dos EUA: \"ilegítimo\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122276/dino-se-diz-indignado-com-supostas-sancoes-dos-eua--ilegitimo",
+      "resumo": "Ministro afirmou que eventual medida contra brasileiros por pressão não mudaria sua atuação.",
+      "publicado_em": "2026-09-15T12:51:15-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
     },
     {
       "id": "ce65e4f78ab97939",
@@ -1017,6 +1229,97 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "5c8048185b1cf033",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pesquisas abordam envelhecimento, pessoas com deficiência e inclusão no Judiciário",
+      "link": "https://www.cnj.jus.br/pesquisas-abordam-envelhecimento-pessoas-com-deficiencia-e-inclusao-no-judiciario/",
+      "resumo": "A convivência entre diferentes gerações no ambiente de trabalho, a inclusão de pessoas com deficiência e o cumprimento das cotas de contratação por empresas terceirizadas do Poder Judiciário. Esses três temas serão debatidos, nesta quinta-feira (17/9), em mais uma edição do Seminário de Pesquisas Em",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 36,
+      "tags": [
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "4c39800521cf0ec4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que permite videoconferência em Juizados Especiais Cíveis e Criminais",
+      "link": "https://www.camara.leg.br/noticias/1304732-comissao-aprova-projeto-que-permite-videoconferencia-em-juizados-especiais-civeis-e-criminais",
+      "resumo": "",
+      "publicado_em": "2026-09-15T15:18:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "03c9ca583bcd4cd2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê inclusão automática de aposentados de baixa renda na Tarifa Social de Energia Elétrica",
+      "link": "https://www.camara.leg.br/noticias/1304561-projeto-preve-inclusao-automatica-de-aposentados-de-baixa-renda-na-tarifa-social-de-energia-eletrica",
+      "resumo": "",
+      "publicado_em": "2026-09-15T14:17:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "1dee5e378d61aafa",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe fabricação e venda de cigarros eletrônicos no país",
+      "link": "https://www.camara.leg.br/noticias/1304553-projeto-proibe-fabricacao-e-venda-de-cigarros-eletronicos-no-pais",
+      "resumo": "",
+      "publicado_em": "2026-09-15T13:09:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "b8f849f396904a11",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei prevê financiamento de veículos para motoristas de aplicativo e taxistas",
+      "link": "https://www.camara.leg.br/noticias/1304604-nova-lei-preve-financiamento-de-veiculos-para-motoristas-de-aplicativo-e-taxistas",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:47:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "2f7c8691d443ef82",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria piso salarial nacional de R$ 2.450 para recepcionistas",
+      "link": "https://www.camara.leg.br/noticias/1304601-projeto-cria-piso-salarial-nacional-de-r-2-450-para-recepcionistas",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:41:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T16:30:47-03:00"
     },
     {
       "id": "e0f0e5bc99804b7e",
@@ -2000,16 +2303,15 @@ window.DADOS = {
       "id": "08404000ee979982",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "STF suspende até 15h sessão que julga apuração contra Moraes",
+      "titulo": "AO VIVO: STF retoma sessão que decide se Moraes será investigado",
       "link": "https://www.congressoemfoco.com.br/noticia/122245/stf-suspende-ate-15h-sessao-que-julga-apuracao-contra-moraes",
       "resumo": "Sessão da manhã foi marcada por forte tensão, com bate-boca entre ministros, questionamentos sobre a relatoria de Fachin e troca de acusações entre Moraes e Mendonça.",
       "publicado_em": "2026-09-14T15:46:06-03:00",
       "dia": "2026-09-14",
       "data_estimada": false,
-      "score": 56,
+      "score": 52,
       "tags": [
-        "julga",
-        "acao"
+        "decide"
       ],
       "coletado_em": "2026-09-15T14:48:42-03:00"
     },
@@ -2428,7 +2730,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Conheça as ações do TST para o Setembro Amarelo",
       "link": "https://www.cnj.jus.br/conheca-as-acoes-do-tst-para-o-setembro-amarelo/",
-      "resumo": "Mensagem de trabalho fora do expediente, dificuldade de se desconectar, celular que continua tocando quando a jornada já terminou. Situações presentes na rotina profissional estão no centro de uma campanha sobre saúde mental no trabalho desenvolvida em parceria entre o Tribunal Superior do Trabalho ",
+      "resumo": "Mensagem de trabalho fora do expediente, dificuldade de se desconectar, celular que continua tocando quando a jornada já terminou: essas situações, presentes na rotina profissional, estão no centro de uma campanha sobre saúde mental no trabalho desenvolvida em parceria entre o Tribunal Superior do T",
       "publicado_em": "2026-09-14T12:00:00-03:00",
       "dia": "2026-09-14",
       "data_estimada": true,
@@ -2440,7 +2742,7 @@ window.DADOS = {
       "id": "92adcddb98800c4c",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Justiça Pesquisa: CNJ recebe propostas para estudos sobre pessoa idosa e justiça restaurativa",
+      "titulo": "Justiça Pesquisa: CNJ recebe propostas para estudos sobre pessoa idosa e Justiça Restaurativa",
       "link": "https://www.cnj.jus.br/justica-pesquisa-cnj-recebe-propostas-para-estudos-sobre-pessoa-idosa-e-justica-restaurativa/",
       "resumo": "O Conselho Nacional de Justiça (CNJ) lançou a 1ª Convocação Pública da 8ª edição da série Justiça Pesquisa, que seleciona instituições de ensino superior, fundações de apoio à pesquisa e entidades sem fins lucrativos para desenvolver estudos que contribuam para aprimorar as políticas do Poder Judici",
       "publicado_em": "2026-09-14T12:00:00-03:00",
@@ -2456,9 +2758,9 @@ window.DADOS = {
       "id": "005a70f97e4b2268",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "3ª Edição da Corrida do Judiciário arrecada 36 mil fraldas em Porto Velho",
+      "titulo": "3ª edição da Corrida do Judiciário arrecada 36 mil fraldas em Porto Velho",
       "link": "https://www.cnj.jus.br/3a-edicao-da-corrida-do-judiciario-arrecada-36-mil-fraldas-em-porto-velho/",
-      "resumo": "O Tribunal de Justiça de Rondônia (TJRO) entregou 36.038 unidades de fraldas geriátricas e infantis para a Secretaria Municipal de Assistência Social e Família (SEMAS) de Porto Velho. Os itens foram arrecadados durante a 3ª Edição da Corrida do Judiciário e terão destinação social. A cerimônia que m",
+      "resumo": "O Tribunal de Justiça de Rondônia (TJRO) entregou 36.038 unidades de fraldas geriátricas e infantis para a Secretaria Municipal de Assistência Social e Família (Semias) de Porto Velho (RO). Os itens foram arrecadados durante a 3ª edição da Corrida do Judiciário e terão destinação social. A cerimônia",
       "publicado_em": "2026-09-14T12:00:00-03:00",
       "dia": "2026-09-14",
       "data_estimada": true,
