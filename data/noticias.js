@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-15T12:27:07-03:00",
+  "gerado_em": "2026-09-15T14:48:42-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -120,7 +120,7 @@ window.DADOS = {
       "id": "stf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 504 Server Error: Gateway Time-out for url: https://noticias.stf.jus.br/"
+      "erro": "falhou após 3 tentativas: 403 Client Error: Forbidden for url: https://noticias.stf.jus.br/"
     },
     {
       "id": "stj",
@@ -161,19 +161,19 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 27,
+      "itens": 24,
       "erro": null
     },
     {
@@ -265,6 +265,20 @@ window.DADOS = {
       "coletado_em": "2026-09-15T12:27:07-03:00"
     },
     {
+      "id": "84b4f33502613fd8",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "PJe e sistemas de informática ficam indisponíveis no fim de semana",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pje-e-sistemas-de-informatica-ficam-indisponiveis-no-fim-de-semana",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
       "id": "9ad55ad7f82bfd8e",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -280,6 +294,109 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "b2bf82424810a0c3",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Comissões de acessibilidade e de enfrentamento ao assédio se reúnem para balanço de atividades",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115311&pagina=1",
+      "resumo": "Encontros no Fórum João Mendes Júnior.\n \n\tO Tribunal de Justiça de São Paulo, por meio da Diretoria de Apoio aos Servidores (Daps), realizou, nas últimas",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "94737d13ecdd8d51",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CDH acompanha julgamento no STF",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/15/cdh-acompanha-julgamento-no-stf",
+      "resumo": "",
+      "publicado_em": "2026-09-15T14:44:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "a5312fd53ad4f817",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CDH discute desdobramentos do caso Master e atribuições do Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/cdh-discute-desdobramentos-do-caso-master-e-atribuicoes-do-senado",
+      "resumo": "",
+      "publicado_em": "2026-09-15T13:46:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "35cb71dc9cc3ef98",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CI aprovou voto de aplauso ao youtuber Lito Sousa",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/ci-aprovou-voto-de-aplauso-ao-youtuber-lito-sousa",
+      "resumo": "",
+      "publicado_em": "2026-09-15T13:35:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "acd575782d07cf23",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Livraria do Senado vende mais de 20 mil livros na Bienal de São Paulo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/15/livraria-do-senado-vende-mais-de-20-mil-livros-na-bienal-de-sao-paulo",
+      "resumo": "",
+      "publicado_em": "2026-09-15T13:13:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "5de05385678f7643",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Bienal Internacional do Livro, encerrada no domingo, contou com a participação do Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/bienal-internacional-do-livro-encerrada-no-domingo-contou-com-a-participacao-do-senado",
+      "resumo": "",
+      "publicado_em": "2026-09-15T13:10:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "695d34e7a7cbc1e4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Há 50 anos morria Bertha Lutz, 'sufragista' e pioneira dos direitos das mulheres",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/ha-50-anos-morria-bertha-lutz-sufragista-e-pioneira-dos-direitos-das-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:52:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
     },
     {
       "id": "9ad0a70995c7c8de",
@@ -400,6 +517,20 @@ window.DADOS = {
       "coletado_em": "2026-09-15T12:27:07-03:00"
     },
     {
+      "id": "2d42b7388ce924fd",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal retém aproximadamente 300 kg de substância análoga à maconha na Ponte da Amizade",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-retem-aproximadamente-300-kg-de-substancia-analoga-a-maconha-na-ponte-da-amizade",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:22:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
       "id": "503e8c8785eaa0f7",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -431,6 +562,34 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "90c23594d7ba69bd",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senasp qualifica profissionais de segurança pública com cursos realizados em quatro estados",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-qualifica-profissionais-de-seguranca-publica-com-cursos-realizados-em-quatro-estados",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "070f8870c88ec538",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Historiadora Lilia Schwarcz e atriz Stella Miranda participam do Sem Censura, da TV Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/historiadora-lilia-schwarcz-e-atriz-stella-miranda-participam-do-sem-censura-da-tv-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:20:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
     },
     {
       "id": "7900f6e72f8f8147",
@@ -475,6 +634,20 @@ window.DADOS = {
       "coletado_em": "2026-09-15T12:27:07-03:00"
     },
     {
+      "id": "26e3feab1234de20",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Tesouro honra em agosto R$ 79,95 milhões em dívidas garantidas pela União",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/tesouro-honra-em-agosto-r-79-95-milhoes-em-dividas-garantidas-pela-uniao",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
       "id": "1408c539d46745be",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -487,6 +660,146 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "955309afe3986bc6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula sanciona Redata com R$ 5,2 bi em incentivos a data centers",
+      "link": "https://www.congressoemfoco.com.br/noticia/122283/lula-sanciona-redata-com-r-5-2-bi-em-incentivos-a-data-centers",
+      "resumo": "Programa suspende tributos federais sobre equipamentos e prevê contrapartidas em pesquisa, energia e atendimento ao mercado brasileiro.",
+      "publicado_em": "2026-09-15T13:48:32-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "15b52ad90819a2db",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Adriana Ventura é impedida de acessar Plenário do STF e oficia Fachin",
+      "link": "https://www.congressoemfoco.com.br/noticia/122282/adriana-ventura-e-impedida-de-acessar-stf-e-questiona-acao-a-fachin",
+      "resumo": "Deputada alega ter recebido \"resposta genérica\" de presidência da Corte.",
+      "publicado_em": "2026-09-15T13:47:31-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "ce65e4f78ab97939",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar a Mendonça: \"quem não se dá ao respeito não merece respeito\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122275/gilmar-a-mendonca--quem-nao-se-da-ao-respeito-nao-merece-respeito",
+      "resumo": "Discussão no plenário teve acusações, interrupções e cobrança de respeito entre ministros.",
+      "publicado_em": "2026-09-15T12:37:50-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "4438a8bae0d7d3e5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fux e Mendonça dizem que há uma \"PF paralela\" que monitoram ministros",
+      "link": "https://www.congressoemfoco.com.br/noticia/122274/fux-e-mendonca-dizem-que-ha-uma-pf-paralela-que-monitoram-ministros",
+      "resumo": "Ministros afirmam que estrutura atuaria contra integrantes do Supremo; direção da Polícia Federal já negou monitoramento ilegal.",
+      "publicado_em": "2026-09-15T12:33:19-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "c0aece6fbdf7875d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senadores se reúnem na CDH para acompanhar julgamento de Moraes",
+      "link": "https://www.congressoemfoco.com.br/noticia/122273/senadores-se-reunem-na-cdh-para-acompanhar-julgamento-de-moraes",
+      "resumo": "Grupo se reuniu na Comissão de Direitos Humanos após Alcolumbre não autorizar pedido para realização de sessão extraordinária nesta terça-feira.",
+      "publicado_em": "2026-09-15T12:12:06-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "030210f22657311d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bate-boca: Moraes acusa Mendonça de pedir para PF incluí-lo em delação",
+      "link": "https://www.congressoemfoco.com.br/noticia/122272/bate-boca-moraes-acusa-mendonca-de-pedir-para-pf-inclui-lo-em-delacao",
+      "resumo": "Mendonça rebate acusação e diz que é mentira.",
+      "publicado_em": "2026-09-15T12:10:51-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "a33757831875c0eb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino questiona Fachin e pede julgamento conjunto do Master no dia 23",
+      "link": "https://www.congressoemfoco.com.br/noticia/122271/dino-questiona-fachin-e-pede-julgamento-conjunto-do-master-no-dia-23",
+      "resumo": "Ministro afirma que Presidência do STF avocou processos sem base legal e aciona Gilmar Mendes, decano da Corte, para restabelecer o rito dos casos.",
+      "publicado_em": "2026-09-15T11:52:28-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "653cfe6c118b59d0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes-Vorcaro: Dino crítica mudança na relatoria e ações de Fachin",
+      "link": "https://www.congressoemfoco.com.br/noticia/122270/moraes-vorcaro-dino-critica-mudanca-na-relatoria-e-acoes-de-fachin",
+      "resumo": "\"Só é possível fazer Justiça conforme o devido processo legal. Toda vez que nos afastamos disso, o Brasil vivencia desastres\", destacou o ministro.",
+      "publicado_em": "2026-09-15T11:05:26-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "6a83a5f454fe8f36",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O custo de não decidir",
+      "link": "https://www.congressoemfoco.com.br/artigo/122269/o-custo-de-nao-decidir",
+      "resumo": "O Congresso pode controlar o seu próprio prazo, mas não o das demais instituições.",
+      "publicado_em": "2026-09-15T10:21:01-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
     },
     {
       "id": "f30aa2afaadf9f6a",
@@ -551,6 +864,20 @@ window.DADOS = {
       "coletado_em": "2026-09-15T12:27:07-03:00"
     },
     {
+      "id": "2af7819f96d61537",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar diz que suspender Andrei é como \"afastar presidente da Nasa\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122264/gilmar-diz-que-suspender-andrei-e-como-afastar-presidente-da-nasa",
+      "resumo": "Ministro do STF classificou a medida como grave e \"sem noção\".",
+      "publicado_em": "2026-09-15T09:48:41-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
       "id": "ccd6de4d76f39078",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -579,6 +906,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "486ce45bd6de4fd0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quando o patrimônio cultural imaterial ultrapassa fronteiras",
+      "link": "https://www.congressoemfoco.com.br/artigo/122261/quando-o-patrimonio-cultural-imaterial-ultrapassa-fronteiras",
+      "resumo": "Patrimônios compartilhados entre países desafiam a ideia de pertencimento nacional e abrem novas possibilidades para políticas culturais.",
+      "publicado_em": "2026-09-15T09:25:36-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
     },
     {
       "id": "d5c11bc8348a2311",
@@ -1334,6 +1675,20 @@ window.DADOS = {
       "coletado_em": "2026-09-14T19:52:24-03:00"
     },
     {
+      "id": "d0ddd2e461a5dc4d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Produção brasileira de carnes deve ultrapassar 34 milhões de toneladas em 2026 e 2027",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/producao-brasileira-de-carnes-deve-ultrapassar-34-milhoes-de-toneladas-em-2026-e-2027",
+      "resumo": "",
+      "publicado_em": "2026-09-14T20:20:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
       "id": "9e3672dfb2bfa8f6",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1356,7 +1711,7 @@ window.DADOS = {
       "titulo": "Vacina pneumo20 vai ser ofertada para quem tem mais de 85 anos",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/vacina-pneumo20-vai-ser-ofertada-para-quem-tem-mais-de-85-anos",
       "resumo": "",
-      "publicado_em": "2026-09-14T16:25:00-03:00",
+      "publicado_em": "2026-09-14T18:05:00-03:00",
       "dia": "2026-09-14",
       "data_estimada": false,
       "score": 40,
@@ -1640,6 +1995,23 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "08404000ee979982",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "STF suspende até 15h sessão que julga apuração contra Moraes",
+      "link": "https://www.congressoemfoco.com.br/noticia/122245/stf-suspende-ate-15h-sessao-que-julga-apuracao-contra-moraes",
+      "resumo": "Sessão da manhã foi marcada por forte tensão, com bate-boca entre ministros, questionamentos sobre a relatoria de Fachin e troca de acusações entre Moraes e Mendonça.",
+      "publicado_em": "2026-09-14T15:46:06-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
     },
     {
       "id": "7c5e0afb2193f7fe",
@@ -2056,7 +2428,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Conheça as ações do TST para o Setembro Amarelo",
       "link": "https://www.cnj.jus.br/conheca-as-acoes-do-tst-para-o-setembro-amarelo/",
-      "resumo": "Mensagem de trabalho fora do expediente, dificuldade de se desconectar, celular que continua tocando quando a jornada já terminou: essas situações, presentes na rotina profissional, estão no centro de uma campanha sobre saúde mental no trabalho desenvolvida em parceria entre o Tribunal Superior do T",
+      "resumo": "Mensagem de trabalho fora do expediente, dificuldade de se desconectar, celular que continua tocando quando a jornada já terminou. Situações presentes na rotina profissional estão no centro de uma campanha sobre saúde mental no trabalho desenvolvida em parceria entre o Tribunal Superior do Trabalho ",
       "publicado_em": "2026-09-14T12:00:00-03:00",
       "dia": "2026-09-14",
       "data_estimada": true,
@@ -2068,7 +2440,7 @@ window.DADOS = {
       "id": "92adcddb98800c4c",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Justiça Pesquisa: CNJ recebe propostas para estudos sobre pessoa idosa e Justiça Restaurativa",
+      "titulo": "Justiça Pesquisa: CNJ recebe propostas para estudos sobre pessoa idosa e justiça restaurativa",
       "link": "https://www.cnj.jus.br/justica-pesquisa-cnj-recebe-propostas-para-estudos-sobre-pessoa-idosa-e-justica-restaurativa/",
       "resumo": "O Conselho Nacional de Justiça (CNJ) lançou a 1ª Convocação Pública da 8ª edição da série Justiça Pesquisa, que seleciona instituições de ensino superior, fundações de apoio à pesquisa e entidades sem fins lucrativos para desenvolver estudos que contribuam para aprimorar as políticas do Poder Judici",
       "publicado_em": "2026-09-14T12:00:00-03:00",
