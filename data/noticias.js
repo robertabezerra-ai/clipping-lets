@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-14T19:52:24-03:00",
+  "gerado_em": "2026-09-15T12:27:07-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -118,9 +118,9 @@ window.DADOS = {
   "fontes_status": [
     {
       "id": "stf",
-      "status": "ok",
-      "itens": 50,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: 504 Server Error: Gateway Time-out for url: https://noticias.stf.jus.br/"
     },
     {
       "id": "stj",
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 19,
       "erro": null
     },
     {
@@ -250,6 +250,479 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "747ee690251c9189",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 promove o 10º Encontro de Enfermagem do Poder Judiciário e Ministério Público",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-promove-o-10o-encontro-de-enfermagem-do-poder-judiciario-e-ministerio-publico",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "9ad55ad7f82bfd8e",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Julgamento com perspectiva de gênero será debatido em curso da EPM",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115288&pagina=1",
+      "resumo": "Inscrições abertas até o dia 23/9.\n \n\tA Escola Paulista da Magistratura (EPM) promove, de 28 de setembro de 2026 a 8 de novembro de 2027, o",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "9ad0a70995c7c8de",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sem votação no Congresso, MP dos mototaxistas perde validade",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/15/sem-votacao-no-congresso-mp-dos-mototaxistas-perde-validade",
+      "resumo": "",
+      "publicado_em": "2026-09-15T11:03:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "0769310f9d2975dd",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sarau no Senado reúne vozes e cultura de mulheres indígenas",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/sarau-no-senado-reune-vozes-e-cultura-de-mulheres-indigenas",
+      "resumo": "",
+      "publicado_em": "2026-09-15T11:01:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "cc4ea01f37b97ec3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei facilita financiamento para renovação de veículos de profissionais de transporte",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/15/lei-facilita-financiamento-para-renovacao-de-veiculos-de-profissionais-de-transporte",
+      "resumo": "",
+      "publicado_em": "2026-09-15T10:53:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "44909b2d3ac11d57",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleitores impedidos de votar poderão justificar pelo aplicativo do TSE",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/eleitores-impedidos-de-votar-poderao-justificar-pelo-aplicativo-do-tse",
+      "resumo": "",
+      "publicado_em": "2026-09-15T10:03:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "4fe9e8796b5a0f4b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "São Paulo e Amazonas confirmam novos casos de sarampo em 2026",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/sao-paulo-e-amazonas-confirmam-novos-casos-de-sarampo-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-15T09:23:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "be8ac81547c17952",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Jovem Senador 2027 discute mulheres nos espaços de poder",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/jovem-senador-2027-discute-mulheres-nos-espacos-de-poder",
+      "resumo": "",
+      "publicado_em": "2026-09-15T09:04:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "c89c6529c6130d14",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso votará Orçamento de 2027 após as eleições",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/congresso-votara-orcamento-de-2027-apos-as-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-09-15T09:02:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "e47789ca5892ddeb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Big techs: debate mostra desafio de cumprimento da legislação contra abusos",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/big-techs-debate-mostra-desafio-de-cumprimento-da-legislacao-contra-abusos",
+      "resumo": "",
+      "publicado_em": "2026-09-15T08:33:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "503e8c8785eaa0f7",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita federal em Joaçaba em operação conjunta com PMRv-SC apreende cerca de 7 mil garrafas de vinho em Abelardo Luz (SC)",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-em-joacaba-em-operacao-conjunta-com-pmrv-sc-apreende-cerca-de-7-mil-garrafas-de-vinho-em-abelardo-luz-sc",
+      "resumo": "",
+      "publicado_em": "2026-09-15T08:59:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "acao",
+        "apreende"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "508fef24bda617a8",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação Lívia cumpre 12 medidas judiciais em cinco estados contra rede investigada por crimes praticados no ambiente digital",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-livia-cumpre-12-medidas-judiciais-em-cinco-estados-contra-rede-investigada-por-crimes-praticados-no-ambiente-digital",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "7900f6e72f8f8147",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Safra de grãos 2026/27 deve atingir 366,6 milhões de toneladas. Projeção é da Conab",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/producao-de-graos-na-safra-2026-27-pode-chegar-a-366-6-milhoes-de-toneladas-projeta-conab",
+      "resumo": "",
+      "publicado_em": "2026-09-15T10:34:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "31a9f880eec707a2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Conab estima produção recorde na safra 2025/26 com 361,7 milhões de toneladas de grãos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/conab-estima-producao-de-361-7-milhoes-de-toneladas-de-graos-na-safra-2025-26",
+      "resumo": "",
+      "publicado_em": "2026-09-15T09:08:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "532be75283c18485",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polícia Federal combate pesca ilegal na Reserva de Alcatrazes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-combate-pesca-ilegal-na-reserva-de-alcatrazes",
+      "resumo": "",
+      "publicado_em": "2026-09-15T09:03:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "1408c539d46745be",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Suspensa indisponibilidade temporária de acesso ao Sistema Eletrônico de Informações (SEI)",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-indisponibilidade-temporaria-de-acesso-ao-sistema-eletronico-de-informacoes-sei",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "f30aa2afaadf9f6a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin e Dino se desentendem durante aparte: \"seguirei regimento\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122268/fachin-e-dino-se-desentendem-durante-aparte--seguirei-regimento",
+      "resumo": "Discussão começou quando Dino pediu para fazer uma intervenção durante fala de Toffoli; Fachin interrompeu e pediu que as solicitações sejam direcionadas à presidência.",
+      "publicado_em": "2026-09-15T09:55:09-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "b9ed2bf3dce6d1e7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Toffoli se declara suspeito em caso Moraes-Vorcaro \"por coerência\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122267/toffoli-se-declara-suspeito-em-caso-moraes-vorcaro-por-coerencia",
+      "resumo": "Ministro afirma que não se considera impedido, mas mantém posição adotada em processos ligados ao Banco Master.",
+      "publicado_em": "2026-09-15T09:52:49-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "1cf0f0399fb5ca8f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula dividiu poder com Moraes e deixou país \"sem comando\", diz Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/122266/lula-dividiu-poder-com-moraes-e-deixou-pais-sem-comando--diz-flavio",
+      "resumo": "Candidato à presidência afirmou que o atual governo tem criado um \"desequilíbrio institucional\".",
+      "publicado_em": "2026-09-15T09:51:55-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "b27df3cbdbad82de",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques se declara impedido em julgamento Moraes-Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122265/nunes-marques-se-declara-impedido-em-julgamento-moraes-vorcaro",
+      "resumo": "Ministro negou relação com Vorcaro, mas destacou atuação como presidente do TSE para se afastar.",
+      "publicado_em": "2026-09-15T09:51:15-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "ccd6de4d76f39078",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin pede serenidade e diz que STF não julga pessoas, mas fatos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122263/fachin-pede-serenidade-e-diz-que-stf-nao-julga-pessoas-mas-fatos",
+      "resumo": "Presidente do Supremo afirma que Corte vive período difícil e pede que divergências jurídicas não se transformem em confrontos pessoais.",
+      "publicado_em": "2026-09-15T09:44:28-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "julga"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "25da4b6eab6d116e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "CNT/MDA: Lula tem 47,3% e Flávio Bolsonaro, 40% no 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/122262/cnt-mda-lula-tem-47-3-e-flavio-bolsonaro-40-no-2-turno",
+      "resumo": "Diferença entre Lula e Flávio no 2º turno cai de 8,9 para 7,3 pontos percentuais desde agosto; no 1º turno, presidente tem 40,5%, contra 30,4% do senador.",
+      "publicado_em": "2026-09-15T09:31:56-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "d5c11bc8348a2311",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ex-deputado por Minas e Paraíba, Philemon Rodrigues morre aos 94 anos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122260/ex-deputado-por-minas-e-paraiba-philemon-rodrigues-morre-aos-94-anos",
+      "resumo": "Parlamentar representou dois estados na Câmara e presidiu a Comissão de Viação e Transportes.",
+      "publicado_em": "2026-09-15T09:10:46-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "450982b4a7005398",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Presidente da OAB diz que entidade não silenciará sobre fatos no STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122259/presidente-da-oab-diz-que-entidade-nao-silenciara-sobre-fatos-no-stf",
+      "resumo": "Simonetti cobra transparência diante da crise no Supremo e diz que defender a Corte não significa silenciar sobre fatos que atinjam sua imagem.",
+      "publicado_em": "2026-09-15T08:40:50-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "oab"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "98661f4d80518567",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino pede apuração de conexões entre Mendonça, Master e cemitérios",
+      "link": "https://www.congressoemfoco.com.br/noticia/122258/dino-pede-apuracao-de-conexoes-entre-mendonca-master-e-cemiterios",
+      "resumo": "Ministro destaca encontro de André Mendonça com Daniel Vorcaro na véspera de pedido de vista em ação sobre cemitérios e manda reunir informações sobre vínculos com o Banco Master.",
+      "publicado_em": "2026-09-15T08:33:35-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "46bc59a2a32cd37f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senador diz que ministros do STF pressionam Congresso contra mudanças",
+      "link": "https://www.congressoemfoco.com.br/noticia/122257/senador-diz-que-ministros-do-stf-pressionam-congresso-contra-mudancas",
+      "resumo": "Alessandro Vieira afirma ter testemunhado pressão direta sobre parlamentares nos últimos oito anos para barrar propostas de mandato para ministros e mudanças na indicação e sabatina no STF.",
+      "publicado_em": "2026-09-15T07:33:43-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "6361d93fb85009c8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "André Mendonça justifica intimação presencial à PF por risco ao sigilo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122255/andre-mendonca-justifica-intimacao-presencial-a-pf-por-risco-ao-sigilo",
+      "resumo": "Ministro afirma que menções a Andrei Rodrigues e Paulo Gonet em documentos da investigação exigiram cautela adicional na condução do caso que envolve Alexandre de Moraes.",
+      "publicado_em": "2026-09-15T07:08:44-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "ba75a9112198a0e4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em defesa, Moraes fala em \"golpe\" e cita auxílio de órgão estrangeiro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122254/em-defesa-moraes-fala-em-golpe-e-cita-auxilio-de-orgao-estrangeiro",
+      "resumo": "Ministro nega irregularidades no caso Master, questiona relatório da PF e afirma que investigação foi direcionada para incriminá-lo.",
+      "publicado_em": "2026-09-15T06:56:25-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "e0f0e5bc99804b7e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto garante teletrabalho para gestante com gravidez de risco",
+      "link": "https://www.camara.leg.br/noticias/1303525-projeto-garante-teletrabalho-para-gestante-com-gravidez-de-risco",
+      "resumo": "",
+      "publicado_em": "2026-09-15T10:35:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "d7ce713b633b16a5",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto torna obrigatória aula de educação alimentar para crianças e adolescentes",
+      "link": "https://www.camara.leg.br/noticias/1304420-projeto-torna-obrigatoria-aula-de-educacao-alimentar-para-criancas-e-adolescentes",
+      "resumo": "",
+      "publicado_em": "2026-09-15T09:54:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "4ae3cddf9a9d2f33",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Cientista político avalia que propaganda eleitoral gratuita no rádio e na TV ajuda indecisos",
+      "link": "https://www.camara.leg.br/noticias/1304063-cientista-politico-avalia-que-propaganda-eleitoral-gratuita-no-radio-e-na-tv-ajuda-indecisos",
+      "resumo": "",
+      "publicado_em": "2026-09-15T09:14:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
     {
       "id": "5d21d76a8adaa2db",
       "fonte_id": "trt2",
@@ -861,6 +1334,22 @@ window.DADOS = {
       "coletado_em": "2026-09-14T19:52:24-03:00"
     },
     {
+      "id": "9e3672dfb2bfa8f6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Educação de jovens e adultos é tema de episódio do PodMEC",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/educacao-de-jovens-e-adultos-e-tema-de-episodio-do-podmec",
+      "resumo": "",
+      "publicado_em": "2026-09-14T20:19:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
       "id": "f1c66d35f3975f21",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1041,6 +1530,37 @@ window.DADOS = {
       "coletado_em": "2026-09-14T19:52:24-03:00"
     },
     {
+      "id": "8f97bc614b23033e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alessandro Vieira: \"Eleição será resolvida pelo escândalo da semana\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122252/alessandro-vieira--eleicao-sera-resolvida-pelo-escandalo-da-semana",
+      "resumo": "Senador afirmou que uma parcela relativamente pequena do eleitorado ainda pode mudar de posição diante de novas notícias.",
+      "publicado_em": "2026-09-14T18:44:15-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "e98f846b37a4d2de",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Tiroteio\" no STF é ruim para Corte, mas bom para o país, diz Vieira",
+      "link": "https://www.congressoemfoco.com.br/noticia/122251/tiroteio-no-stf-e-ruim-para-corte-mas-bom-para-o-pais-diz-vieira",
+      "resumo": "Senador avalia que se a resposta à crise não vier no julgamento desta terça, virá nas urnas.",
+      "publicado_em": "2026-09-14T18:18:52-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
       "id": "333fdde52b35ca83",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1102,6 +1622,38 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-09-14T19:52:24-03:00"
+    },
+    {
+      "id": "7b4dc2f368df895c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AO VIVO: STF julga apuração contra Alexandre de Moraes no caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122245/stf-julga-hoje-apuracao-contra-alexandre-de-moraes-no-caso-master",
+      "resumo": "Plenário decide próximos passos de uma das maiores crises internas recentes da Corte. Acompanhe a transmissão.",
+      "publicado_em": "2026-09-14T15:46:06-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "decide",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "7c5e0afb2193f7fe",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Janaína Riva troca suplentes e põe nomes polêmicos na chapa ao Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122244/janaina-riva-troca-suplentes-e-poe-nomes-polemicos-na-chapa-ao-senado",
+      "resumo": "Candidata ao Senado por Mato Grosso muda chapa e inclui Danilo Trento, alvo da CPI da Pandemia e investigado no caso do INSS, e Rafael Yamada, denunciado pelo MP/MT, como suplentes.",
+      "publicado_em": "2026-09-14T15:38:03-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
     },
     {
       "id": "9ac0dbe779222030",
@@ -1529,6 +2081,54 @@ window.DADOS = {
       "coletado_em": "2026-09-14T13:47:26-03:00"
     },
     {
+      "id": "005a70f97e4b2268",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "3ª Edição da Corrida do Judiciário arrecada 36 mil fraldas em Porto Velho",
+      "link": "https://www.cnj.jus.br/3a-edicao-da-corrida-do-judiciario-arrecada-36-mil-fraldas-em-porto-velho/",
+      "resumo": "O Tribunal de Justiça de Rondônia (TJRO) entregou 36.038 unidades de fraldas geriátricas e infantis para a Secretaria Municipal de Assistência Social e Família (SEMAS) de Porto Velho. Os itens foram arrecadados durante a 3ª Edição da Corrida do Judiciário e terão destinação social. A cerimônia que m",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "c34bc84437df5c14",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Telegram detalha ações contra desinformação em plano para Eleições de 2026",
+      "link": "https://www.cnj.jus.br/telegram-detalha-acoes-contra-desinformacao-em-plano-para-eleicoes-de-2026/",
+      "resumo": "O Telegram apresentou ao Tribunal Superior Eleitoral (TSE) um plano de conformidade para as Eleições Gerais de 2026, o qual reúne medidas adotadas pela plataforma para prevenir e combater desinformação, conteúdos ilícitos, mensagens em massa (spam), automação abusiva e uso de identidades falsas dura",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "1d51acf07fd8053c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Estão abertas as inscrições para reunião sobre trabalho decente nas plataformas digitais",
+      "link": "https://www.cnj.jus.br/abertas-inscricoes-para-reuniao-sobre-decente-nas-plataformas-digitais/",
+      "resumo": "O Observatório do Trabalho Decente (OTD) do Conselho Nacional de Justiça (CNJ) promoverá, em 22 de setembro, o evento “Trabalho Decente na Economia de Plataformas Digitais: desafios para a efetividade da Convenção 193 da OIT”. O encontro, organizado em parceria com a Organização Internacional do Tra",
+      "publicado_em": "2026-09-14T12:00:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
       "id": "d7328c6cffc3a0cc",
       "fonte_id": "carf",
       "fonte_nome": "CARF",
@@ -1544,6 +2144,36 @@ window.DADOS = {
         "aprova"
       ],
       "coletado_em": "2026-09-14T17:08:38-03:00"
+    },
+    {
+      "id": "96466b5502bc7e0b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Cientista político destaca que eleitorado está ficando mais velho",
+      "link": "https://www.camara.leg.br/noticias/1304068-cientista-politico-destaca-que-eleitorado-esta-ficando-mais-velho",
+      "resumo": "",
+      "publicado_em": "2026-09-14T21:07:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "adb85985d5a14881",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Pesquisa apresentada no Conselho de Comunicação aponta alta taxa de depressão entre jornalistas",
+      "link": "https://www.camara.leg.br/noticias/1304523-pesquisa-apresentada-no-conselho-de-comunicacao-aponta-alta-taxa-de-depressao-entre-jornalistas",
+      "resumo": "",
+      "publicado_em": "2026-09-14T20:13:00-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T12:27:07-03:00"
     },
     {
       "id": "8398f898b333bf59",
@@ -49082,52 +49712,6 @@ window.DADOS = {
       "data_estimada": true,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "24638aadd0bbe696",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "2ª Região sedia fórum nacional de governança das contratações",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2a-regiao-sedia-forum-nacional-de-governanca-das-contratacoes",
-      "resumo": "",
-      "publicado_em": "2026-06-16T12:00:00-03:00",
-      "dia": "2026-06-16",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "f07457c9bdbcda91",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Café com Cejusc debate estratégias para ampliar a conciliação e fortalecer a cultura da mediação em Guarulhos",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/cafe-com-cejusc-debate-estrategias-para-ampliar-a-conciliacao-e-fortalecer-a-cultura-da-mediacao-em-guarulhos",
-      "resumo": "",
-      "publicado_em": "2026-06-16T12:00:00-03:00",
-      "dia": "2026-06-16",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "afc84456622596dc",
-      "fonte_id": "bacen",
-      "fonte_nome": "Bacen",
-      "titulo": "Pix recebe registro de marca de alto renome",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21161/nota",
-      "resumo": "Pix é a primeira marca de titularidade de órgão público a receber a distinção. O usuário ganha proteção especial contra uso indevido da marca. Conheça pesquisa que subsidiou comprovação do reconhecimento da marca.",
-      "publicado_em": "2026-06-16T15:30:53-03:00",
-      "dia": "2026-06-16",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
