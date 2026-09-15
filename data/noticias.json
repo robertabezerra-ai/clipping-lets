@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-15T16:30:47-03:00",
+  "gerado_em": "2026-09-15T19:33:37-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -118,9 +118,9 @@
   "fontes_status": [
     {
       "id": "stf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: 403 Client Error: Forbidden for url: https://noticias.stf.jus.br/"
+      "status": "ok",
+      "itens": 50,
+      "erro": null
     },
     {
       "id": "stj",
@@ -173,13 +173,13 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 24,
+      "itens": 27,
       "erro": null
     },
     {
       "id": "fazenda",
       "status": "ok",
-      "itens": 30,
+      "itens": 29,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -339,6 +339,118 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "cc8d6de0e434b4c1",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Sesc Consolação abre suas portas às comemorações do centenário do poeta Paulo Bomfim",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115274&pagina=1",
+      "resumo": "Evento será amanhã, dia 16.\n \n\tAs comemorações do centenário de nascimento de Paulo Bomfim, escritor, jornalista, cronista e poeta que se tornou conhecido como o",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-09-13T14:07:10-03:00"
+    },
+    {
+      "id": "7bdd5cb0a576d17e",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Gapri lança novas edições do Repertório de jurisprudência",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115330&pagina=1",
+      "resumo": "Periódicos trazem seleção de julgados de Direito Privado.\n \n\tO Grupo de Apoio ao Direito Privado do Tribunal de Justiça de São Paulo (Gapri) disponibilizou as",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "julga"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "81acde988a5c0f38",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF decide que venda interestadual de combustíveis não exige cancelamento de créditos de ICMS",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-decide-que-venda-interestadual-de-combustiveis-nao-exige-cancelamento-de-creditos-de-icms/",
+      "resumo": "Discussão envolveu aplicação do princípio do destino e tributação das operações anteriores dentro do estado de origem",
+      "publicado_em": "2026-09-15T16:39:30-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decide",
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "613f2dc9dfa564c2",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF ressalta papel institucional e histórico da Corte em sessão extraordinária",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-reforca-importancia-institucional-e-historica-da-corte-em-sessao-extraordinaria/",
+      "resumo": "Em pronunciamento, ministro Edson Fachin reforçou a importância da colegialidade na decisão do Plenário sobre a Pet 16662",
+      "publicado_em": "2026-09-15T11:57:10-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "e42187f31cf9c5a3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Combate à desinformação: Senado Verifica será apresentado em evento",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/combate-a-desinformacao-senado-verifica-sera-apresentado-em-evento",
+      "resumo": "",
+      "publicado_em": "2026-09-15T19:15:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "c08d13328ad9cacb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Realidade virtual leva vidas de senadores ao Festival de Brasília de cinema",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/realidade-virtual-leva-vidas-de-senadores-ao-festival-de-brasilia-de-cinema",
+      "resumo": "",
+      "publicado_em": "2026-09-15T18:06:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "706d84ec16cababf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições: prazo para troca de candidatos se encerrou na segunda",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/15/eleicoes-prazo-para-troca-de-candidatos-se-encerrou-na-segunda",
+      "resumo": "",
+      "publicado_em": "2026-09-15T16:57:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
     },
     {
       "id": "94737d13ecdd8d51",
@@ -548,6 +660,22 @@
       "coletado_em": "2026-09-15T12:27:07-03:00"
     },
     {
+      "id": "137170233aef9763",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal indica oportunidade de regularização de créditos de PIS/Pasep e Cofins",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-indica-oportunidade-de-regularizacao-de-creditos-de-pis-pasep-e-cofins",
+      "resumo": "",
+      "publicado_em": "2026-09-15T16:42:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
       "id": "2d42b7388ce924fd",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -621,6 +749,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "df1d8e1aaf5310f3",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon participa de aula inaugural de escola de educação para o consumo em Montes Claros",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-participa-de-aula-inaugural-de-escola-de-educacao-para-o-consumo-em-montes-claros",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
     },
     {
       "id": "b04dcc332cabc08a",
@@ -767,6 +911,38 @@
       "coletado_em": "2026-09-15T16:30:47-03:00"
     },
     {
+      "id": "a9a22f90ca007b05",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal indica oportunidade de regularização de créditos de PIS/Pasep e Cofins",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-indica-oportunidade-de-regularizacao-de-creditos-de-pis-pasep-e-cofins",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "ff0cb63d2006d0cd",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "SPA publica portaria de enfrentamento ao mercado ilegal de apostas",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/spa-publica-portaria-de-enfrentamento-ao-mercado-ilegal-de-apostas",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "portaria"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
       "id": "1408c539d46745be",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -779,6 +955,221 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "c4df5291c3df3f8b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes acusa Mendonça de manter \"investigação ilegal\" contra ele",
+      "link": "https://www.congressoemfoco.com.br/noticia/122300/moraes-acusa-mendonca-de-manter-investigacao-ilegal-contra-ele",
+      "resumo": "Ministro afirmou que colega manteve petição \"guardadinha\" durante três meses.",
+      "publicado_em": "2026-09-15T18:36:36-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "1ab49bcb24e07fc9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar compara julgamento no STF a ladrão de galinhas: \"mal feito\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122299/gilmar-compara-julgamento-no-stf-a-ladrao-de-galinhas--mal-feito",
+      "resumo": "Decano defendeu que o STF coloque \"ordem\" nos processos relacionados ao caso Master.",
+      "publicado_em": "2026-09-15T18:35:10-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "7198dbacc3207b8e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Não tive relacionamento de proximidade com Vorcaro\", diz Paulo Gonet",
+      "link": "https://www.congressoemfoco.com.br/noticia/122298/nao-tive-relacionamento-de-proximidade-com-vorcaro--diz-paulo-gonet",
+      "resumo": "Procurador-geral afirma ter encontrado ex-banqueiro uma única vez e classifica ligação intermediada por advogado como breve e banal.",
+      "publicado_em": "2026-09-15T18:28:43-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "2dce63be0a20545c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes e Mendonça batem boca no STF: \"patética essa alegação\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122297/moraes-e-mendonca-batem-boca-no-stf--patetica-essa-alegacao",
+      "resumo": "Ministros divergiam sobre relatórios de inteligência produzidos pela Polícia Federal.",
+      "publicado_em": "2026-09-15T18:24:40-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "4f96218ba8b023f6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cármen Lúcia vota por separar julgamentos de Moraes e Mendonça",
+      "link": "https://www.congressoemfoco.com.br/noticia/122296/carmen-lucia-vota-por-separar-julgamentos-de-moraes-e-mendonca",
+      "resumo": "Ministra acompanhou a ala contrária à reunião das petições e deixou o julgamento empatado.",
+      "publicado_em": "2026-09-15T18:10:19-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "00aee6ee6095506e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cármen Lúcia pede desculpas por situação no STF: \"profunda tristeza\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122295/carmen-lucia-pede-desculpas-por-situacao-no-stf--profunda-tristeza",
+      "resumo": "Ministra disse se sentir  \"um pouco até envergonhada\" diante da repercussão dos conflitos no Supremo.",
+      "publicado_em": "2026-09-15T18:06:59-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "f660f8471bdf0f8b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "4x3: Fux vota por manter processos de Moraes e Mendonça separados",
+      "link": "https://www.congressoemfoco.com.br/noticia/122294/4x3-fux-vota-por-manter-processos-de-moraes-e-mendonca-separados",
+      "resumo": "Falta apenas Cármen Lúcia votar.",
+      "publicado_em": "2026-09-15T18:00:31-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "9f866fb8319e35a1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar e Mendonca sobem o tom e gritam no STF: \"pode chorar\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122293/gilmar-e-mendonca-sobem-o-tom-e-gritam-no-stf--pode-chorar",
+      "resumo": "Ministro Flávio Dino pediu vista ao caracterizar julgamento de \"degradante\".",
+      "publicado_em": "2026-09-15T17:47:30-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "27b358e0287de698",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça rebate Gilmar: \"não ponha palavras na minha boca\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122292/mendonca-rebate-gilmar--nao-ponha-palavras-na-minha-boca",
+      "resumo": "Mendonça afirmou que recebe advogados, mas não trata de colaboração premiada nos encontros.",
+      "publicado_em": "2026-09-15T17:05:08-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "da377f662f464bf1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "4x2: Mendonça acompanha Fachin para manter processos separados",
+      "link": "https://www.congressoemfoco.com.br/noticia/122291/4x2-mendonca-acompanha-fachin-para-manter-processos-separados",
+      "resumo": "Falta Cármen Lúcia e Luiz Fux votar; Dias Toffoli e Nunes Marques se declararam impedidos.",
+      "publicado_em": "2026-09-15T17:01:26-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "6775987e22672982",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alexandre de Moraes vota para juntar processos; placar é 4x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/122290/alexandre-de-moraes-vota-para-juntar-processos-placar-e-4x1",
+      "resumo": "Ministro já havia solicitado a Fachin que as ações fossem votadas em conjunto.",
+      "publicado_em": "2026-09-15T16:59:23-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "d49443d849d634c9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes diz que não há pedido para investigá-lo: \"vai votar o quê?\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122289/moraes-diz-que-nao-ha-pedido-para-investiga-lo--vai-votar-o-que",
+      "resumo": "Ministro sustentou que não há imputação formal contra ele nem pedido de investigação nos autos.",
+      "publicado_em": "2026-09-15T16:58:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "a0aba80d8ee28419",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "3x1: Zanin e Dino votam para juntar ações contra Moraes e Mendonça",
+      "link": "https://www.congressoemfoco.com.br/noticia/122288/3x1-zanin-e-dino-votam-para-juntar-acoes-contra-moraes-e-mendonca",
+      "resumo": "Ministros acompanharam solicitação feita por Gilmar Mendes; relator, Fachin quer manter separação.",
+      "publicado_em": "2026-09-15T16:46:49-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
     },
     {
       "id": "8a02e5304a54fc54",
@@ -854,6 +1245,23 @@
       "coletado_em": "2026-09-15T14:48:42-03:00"
     },
     {
+      "id": "953b2dbb1be3f401",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino ao citar Lava Jato: \"não é possível que não haja aprendizado\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122281/dino-ao-citar-lava-jato--nao-e-possivel-que-nao-haja-aprendizado",
+      "resumo": "Ministro afirma que combate à corrupção não pode sacrificar devido processo legal e cita consequências institucionais da operação.",
+      "publicado_em": "2026-09-15T13:32:19-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
       "id": "5d5fe76c2366edcf",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -866,6 +1274,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "1dacbde631b96efa",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino e Fux divergem sobre inquérito contra Moraes: \"então é nulo\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122278/dino-e-fux-divergem-sobre-inquerito-contra-moraes--entao-e-nulo",
+      "resumo": "Ministros votam continuidade do julgamento ou análise conjunta com caso contra Mendonça.",
+      "publicado_em": "2026-09-15T13:28:34-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
     },
     {
       "id": "4d4b303980cd86e1",
@@ -1246,6 +1671,113 @@
         "seminario"
       ],
       "coletado_em": "2026-09-15T16:30:47-03:00"
+    },
+    {
+      "id": "1de873a739ec763c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Quatro iniciativas vencem premiação do CNJ em gestão de pessoas do Judiciário",
+      "link": "https://www.cnj.jus.br/quatro-iniciativas-vencem-premiacao-do-cnj-em-gestao-de-pessoas-do-judiciario/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) divulgou os vencedores da 2ª Premiação de Práticas em Gestão de Pessoas do Poder Judiciário. A iniciativa destaca ações que promovem melhorias e aperfeiçoam a gestão de pessoas no Judiciário por meio do fortalecimento de lideranças, da valorização do ambiente lab",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "72bf46581c71ff32",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Relatório traça panorama inédito das estruturas de direitos humanos nos tribunais brasileiros",
+      "link": "https://www.cnj.jus.br/relatorio-traca-panorama-inedito-das-estruturas-de-direitos-humanos-nos-tribunais-brasileiros/",
+      "resumo": "As estruturas internas dos tribunais dedicadas à defesa dos direitos humanos foram mapeadas em estudo inédito do Programa Justiça Plural, parceria entre o Conselho Nacional de Justiça (CNJ) e o Programa das Nações Unidas para o Desenvolvimento (Pnud). O levantamento Justiça e Direitos Humanos: um pa",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "f7922d6d71d226d4",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Gestão e liderança da Polícia Judicial devem se adaptar à atualidade",
+      "link": "https://www.cnj.jus.br/gestao-e-lideranca-da-policia-judicial-devem-se-adaptar-a-sociedade-atual/",
+      "resumo": "O desenvolvimento de competências de liderança e gestão na condução de equipes e processos de trabalho é o objetivo do 2º Curso Gestão e Liderança para Gestores, promovido pela Academia Nacional da Polícia Judicial (ANJP). O curso, iniciado nesta segunda-feira (14/9) no Conselho Nacional de Justiça ",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "cade",
+        "judicial",
+        "processo"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "c0dd19cd602bf2bc",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Rio Grande do Norte recebe nova edição do Fonajus Itinerante",
+      "link": "https://www.cnj.jus.br/rio-grande-do-norte-recebe-nova-edicao-do-fonajus-itinerante/",
+      "resumo": "O conhecimento técnico, o diálogo institucional e a construção de soluções mais eficientes vão nortear as discussões sobre os desafios que a judicialização de saúde impõe ao Judiciário no Rio Grande do Norte. Essas questões serão abordadas durante o Fonajus Itinerante, que acontecerá nos dias 16 e 1",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "d1a23bec7bc475b5",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto obriga hospitais a fornecer assistência médica a profissionais de enfermagem",
+      "link": "https://www.camara.leg.br/noticias/1302960-projeto-obriga-hospitais-a-fornecer-assistencia-medica-a-profissionais-de-enfermagem",
+      "resumo": "",
+      "publicado_em": "2026-09-15T18:54:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "d964d47eae7de29b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto flexibiliza regras e dispensa licença para uso civil de drones",
+      "link": "https://www.camara.leg.br/noticias/1301701-projeto-flexibiliza-regras-e-dispensa-licenca-para-uso-civil-de-drones",
+      "resumo": "",
+      "publicado_em": "2026-09-15T17:11:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "1fbfe9178cb68267",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe narradores e comentaristas de divulgar cotações de apostas em transmissões esportivas",
+      "link": "https://www.camara.leg.br/noticias/1300379-projeto-proibe-narradores-e-comentaristas-de-divulgar-cotacoes-de-apostas-em-transmissoes-esportivas",
+      "resumo": "",
+      "publicado_em": "2026-09-15T16:32:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T19:33:37-03:00"
     },
     {
       "id": "4c39800521cf0ec4",
@@ -3088,23 +3620,6 @@
         "acao"
       ],
       "coletado_em": "2026-09-13T11:48:19-03:00"
-    },
-    {
-      "id": "cc8d6de0e434b4c1",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Sesc Consolação abre suas portas às comemorações do centenário do poeta Paulo Bomfim",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115274&pagina=1",
-      "resumo": "Evento será nesta quarta-feira, dia 16.\n \n\tAs comemorações do centenário de nascimento de Paulo Bomfim, escritor, jornalista, cronista e poeta que se tornou conhecido como",
-      "publicado_em": "2026-09-13T12:00:00-03:00",
-      "dia": "2026-09-13",
-      "data_estimada": true,
-      "score": 30,
-      "tags": [
-        "acao",
-        "comemora"
-      ],
-      "coletado_em": "2026-09-13T14:07:10-03:00"
     },
     {
       "id": "e5a2b4c4d363755e",
