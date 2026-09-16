@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-16T12:20:19-03:00",
+  "gerado_em": "2026-09-16T14:48:28-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -279,6 +279,22 @@
       "coletado_em": "2026-09-16T12:20:19-03:00"
     },
     {
+      "id": "ab85e1ff17d7bcc1",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "11ª Câmara reconhece invalidade de dispensa de cipeiro sem assistência sindical",
+      "link": "https://trt15.jus.br/noticia/2026/11a-camara-reconhece-invalidade-de-dispensa-de-cipeiro-sem-assistencia-sindical",
+      "resumo": "11ª Câmara reconhece invalidade de dispensa de cipeiro sem assistência sindical anagatto Qua, 16/09/2026 - 13:06 11ª Câmara reconhece invalidade de dispensa de cipeiro sem assistência sindical Conteúdo da Notícia A 11ª Câmara do Tribunal Regional do Trabalho da 15ª Região negou o recurso da reclamad",
+      "publicado_em": "2026-09-16T13:06:13-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-16T14:48:28-03:00"
+    },
+    {
       "id": "6af50dc94c119ce1",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -294,6 +310,24 @@
         "acao"
       ],
       "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "8b108a14b7b33f84",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Produtor rural é condenado por danos em APP causados por rebanho",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115333&pagina=1",
+      "resumo": "Gados acessavam vegetação protegida por abertura na cerca.\n \n\tA 11ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve decisão da 1ª",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "condenado",
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T14:48:28-03:00"
     },
     {
       "id": "ac2f2ed278472d62",
@@ -431,6 +465,54 @@
       "coletado_em": "2026-09-16T12:20:19-03:00"
     },
     {
+      "id": "62278551495e21d0",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Curso capacita profissionais para atuarem na identificação de pessoas falecidas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/curso-capacita-profissionais-para-atuarem-na-identificacao-de-pessoas-falecidas",
+      "resumo": "",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T14:48:28-03:00"
+    },
+    {
+      "id": "2641f0933ed11ff6",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Escola Nacional de Segurança Pública realiza capacitação para atendimento aos povos indígenas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-realiza-capacitacao-para-atendimento-aos-povos-indigenas",
+      "resumo": "",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T14:48:28-03:00"
+    },
+    {
+      "id": "c10e8e3cfb66f4b4",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Censo da População em Situação de Rua tem prova-piloto em Goiânia",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/censo-da-populacao-em-situacao-de-rua-tem-prova-piloto-em-goiania",
+      "resumo": "",
+      "publicado_em": "2026-09-16T11:43:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T14:48:28-03:00"
+    },
+    {
       "id": "9be540436b4bad5e",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -505,6 +587,70 @@
       "coletado_em": "2026-09-16T12:20:19-03:00"
     },
     {
+      "id": "172536feb6d052ab",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Técnicos da CVM finalizam proposta de piloto para testar tokenização no mercado de capitais",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/tecnicos-da-cvm-finalizam-proposta-de-piloto-para-testar-tokenizacao-no-mercado-de-capitais",
+      "resumo": "",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T14:48:28-03:00"
+    },
+    {
+      "id": "14cbe2d39256399d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula afirma que Moraes prestou \"grandes serviços à democracia\" no TSE",
+      "link": "https://www.congressoemfoco.com.br/noticia/122321/lula-afirma-que-moraes-prestou-grandes-servicos-a-democracia-no-tse",
+      "resumo": "Presidente relembra embates de Moraes com Bolsonaro nas eleições de 2022 e defende investigação com ampla defesa.",
+      "publicado_em": "2026-09-16T14:31:39-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T14:48:28-03:00"
+    },
+    {
+      "id": "b5fed2d67ff364f3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O Supremo pode ser juiz de sua própria crise?",
+      "link": "https://www.congressoemfoco.com.br/artigo/122320/o-supremo-pode-ser-juiz-de-sua-propria-crise",
+      "resumo": "Episódio mostra a necessidade de critérios objetivos para julgar casos que alcançam integrantes do próprio Tribunal.",
+      "publicado_em": "2026-09-16T14:24:41-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "julga"
+      ],
+      "coletado_em": "2026-09-16T14:48:28-03:00"
+    },
+    {
+      "id": "438d857b6645d540",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mais de mil candidaturas foram barradas; 73% estão em fase de recurso",
+      "link": "https://www.congressoemfoco.com.br/noticia/122315/mais-de-mil-candidaturas-foram-barradas-73-estao-em-fase-de-recurso",
+      "resumo": "Falhas formais e causas de inelegibilidade, como as previstas na Lei da Ficha Limpa, estão entre os principais motivos. TSE já analisou mais de 99% dos pedidos de registro de candidatura.",
+      "publicado_em": "2026-09-16T12:56:52-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-16T14:48:28-03:00"
+    },
+    {
       "id": "c3796e8ae3468c8d",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -519,6 +665,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "c0d4f85d22804191",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto proíbe uso eleitoral de perfis com mais de 100 mil seguidores",
+      "link": "https://www.congressoemfoco.com.br/noticia/122310/projeto-proibe-uso-eleitoral-de-perfis-com-mais-de-100-mil-seguidores",
+      "resumo": "Medida veda propaganda, impulsionamento e collabs em contas de grande alcance durante o período eleitoral.",
+      "publicado_em": "2026-09-16T11:04:56-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T14:48:28-03:00"
     },
     {
       "id": "c8334e8209e2e680",
@@ -642,6 +802,36 @@
         "acao"
       ],
       "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "4f6d773a79c75dd5",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Diretor de Comunicação da Câmara ressalta desafio de aproximar o Legislativo do cidadão",
+      "link": "https://www.camara.leg.br/noticias/1305022-diretor-de-comunicacao-da-camara-ressalta-desafio-de-aproximar-o-legislativo-do-cidadao",
+      "resumo": "",
+      "publicado_em": "2026-09-16T13:10:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T14:48:28-03:00"
+    },
+    {
+      "id": "f46d6e13fda35a16",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei cria política para diagnosticar e tratar doença pulmonar rara",
+      "link": "https://www.camara.leg.br/noticias/1304915-lei-cria-politica-para-diagnosticar-e-tratar-doenca-pulmonar-rara",
+      "resumo": "",
+      "publicado_em": "2026-09-16T12:28:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T14:48:28-03:00"
     },
     {
       "id": "7aa430fd44b815a0",
