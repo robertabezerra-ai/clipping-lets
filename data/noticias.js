@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-16T16:22:03-03:00",
+  "gerado_em": "2026-09-16T19:29:52-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,7 +173,7 @@ window.DADOS = {
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 22,
+      "itens": 23,
       "erro": null
     },
     {
@@ -197,7 +197,7 @@ window.DADOS = {
     {
       "id": "cvm",
       "status": "ok",
-      "itens": 29,
+      "itens": 28,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -360,6 +360,53 @@ window.DADOS = {
       "coletado_em": "2026-09-16T16:22:03-03:00"
     },
     {
+      "id": "6a1b367e3441fd06",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Desembargador Luiz Antonio Figueiredo Gonçalves recebe homenagens após carreira de quase cinco décadas no Judiciário paulista",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115339&pagina=1",
+      "resumo": "Magistrado se aposentará nos próximos dias.\n \n\tO desembargador Luiz Antonio Figueiredo Gonçalves recebeu, nesta semana, homenagens em virtude de sua aposentadoria após 47 anos de",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "635cf2f8b8633bc7",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Programa de liderança feminina do STF é reconhecido entre melhores práticas de gestão de pessoas do Judiciário",
+      "link": "https://noticias.stf.jus.br/postsnoticias/programa-de-lideranca-feminina-do-stf-e-reconhecido-entre-melhores-praticas-de-gestao-de-pessoas-do-judiciario/",
+      "resumo": "Premiação do CNJ destaca relevância de iniciativa do STF voltada à ampliação da participação das mulheres em espaços de liderança",
+      "publicado_em": "2026-09-16T17:57:22-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "7225ec8132206ad4",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF valida limite mensal para compensação de créditos tributários federais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-valida-limite-mensal-para-compensacao-de-creditos-tributarios-federais/",
+      "resumo": "Em sessão virtual, o Tribunal decidiu que a legislação pode estabelecer condições para a utilização dos créditos",
+      "publicado_em": "2026-09-16T17:33:04-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "tributario",
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
       "id": "bf3d640b3b7dfc11",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -391,6 +438,34 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "8f6e9ece0edf11d0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCJ pode criar grupo de trabalho para discutir reforma do Judiciário",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/ccj-pode-criar-grupo-de-trabalho-para-discutir-reforma-do-judiciario",
+      "resumo": "",
+      "publicado_em": "2026-09-16T16:55:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "af194bf2b56c3194",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições 2026: saiba a ordem dos votos na urna eletrônica",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/16/eleicoes-2026-saiba-a-ordem-dos-votos-na-urna-eletronica",
+      "resumo": "",
+      "publicado_em": "2026-09-16T16:35:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
     },
     {
       "id": "dfb0c109feed7af3",
@@ -514,6 +589,20 @@ window.DADOS = {
       "coletado_em": "2026-09-16T12:20:19-03:00"
     },
     {
+      "id": "3ed29f93a77c5c12",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal retém mais de 250 kg de substância análoga à maconha na Aduana da Ponte Internacional da Amizade",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-retem-mais-de-250-kg-de-substancia-analoga-a-maconha-na-aduana-da-ponte-internacional-da-amizade",
+      "resumo": "",
+      "publicado_em": "2026-09-16T15:31:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
       "id": "211df3f0747d7504",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -558,6 +647,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-16T14:48:28-03:00"
+    },
+    {
+      "id": "f1d77cbf03d4be27",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Compras de milho preveem até 224 mil toneladas para formação de estoques",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/compras-de-milho-preveem-ate-224-mil-toneladas-para-formacao-de-estoques",
+      "resumo": "",
+      "publicado_em": "2026-09-16T16:13:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
     },
     {
       "id": "a0ca22946db4778e",
@@ -692,6 +797,131 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-16T14:48:28-03:00"
+    },
+    {
+      "id": "bd7ea2f59a195c75",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM aplica multas que somam mais de R$ 200 milhões em caso envolvendo Banco Master",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-aplica-multas-que-somam-mais-de-r-200-milhoes-em-caso-envolvendo-banco-master",
+      "resumo": "",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "f34097acd574ef70",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Me recuso a ir numa igreja falar de política\", diz Lula a pastores",
+      "link": "https://www.congressoemfoco.com.br/noticia/122337/me-recuso-a-ir-numa-igreja-falar-de-politica--diz-lula-a-pastores",
+      "resumo": "Em encontro com pastores, presidente afirmou que atividades eleitorais devem ficar fora das igrejas em respeito à fé dos frequentadores.",
+      "publicado_em": "2026-09-16T19:12:56-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "9f95ec9dbba0eca7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula sanciona Política Nacional de Minerais Críticos e Estratégicos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122336/lula-sanciona-politica-nacional-de-minerais-criticos-e-estrategicos",
+      "resumo": "Lei prevê incentivos à transformação de minerais no Brasil e instrumentos para reforçar soberania mineral e desenvolvimento tecnológico.",
+      "publicado_em": "2026-09-16T18:22:06-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "5819b4232c3905b6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gleisi aciona TSE por retirada de conteúdo contra voto feminino",
+      "link": "https://www.congressoemfoco.com.br/noticia/122335/gleisi-aciona-tse-por-retirada-de-conteudo-contra-voto-feminino",
+      "resumo": "Deputada argumenta que conteúdos contra a autonomia do voto feminino podem configurar violência política e pede ação urgente do TSE.",
+      "publicado_em": "2026-09-16T17:52:10-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "f1e61b5b5125b43b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado do PSDB perde mandato por infidelidade partidária",
+      "link": "https://www.congressoemfoco.com.br/noticia/122334/deputado-do-psdb-perde-mandato-por-infidelidade-partidaria",
+      "resumo": "Substituto de Odair Cunha, Glaycon Franco havia trocado de sigla durante a janela partidária ainda na condição de suplente.",
+      "publicado_em": "2026-09-16T17:11:03-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "4065b2a1bafca472",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Trump acusa Brasil de \"falhar\" em confronto contra facções criminosas",
+      "link": "https://www.congressoemfoco.com.br/noticia/122332/trump-acusa-brasil-de-falhar-em-confronto-contra-faccoes-criminosas",
+      "resumo": "Casa Branca aponta PCC e CV como ameaça internacional e amplia pressão sobre o Brasil por medidas mais duras contra as facções.",
+      "publicado_em": "2026-09-16T16:25:14-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "6e7bcd28674392db",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "LGPD no B2B: quem deve comprovar a origem dos dados pessoais?",
+      "link": "https://www.congressoemfoco.com.br/artigo/122328/lgpd-no-b2b-quem-deve-comprovar-a-origem-dos-dados-pessoais",
+      "resumo": "A obrigação de demonstrar a origem dos dados pessoais e os deveres de empresas e plataformas diante dos princípios da transparência, responsabilização e prestação de contas previstos na LGPD.",
+      "publicado_em": "2026-09-16T15:45:39-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "lgpd",
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "8cf4aa4aac951aec",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Do PIS/Cofins ao IBS/CBS: impactos nas administradoras de bens",
+      "link": "https://www.congressoemfoco.com.br/artigo/122326/do-pis-cofins-ao-ibs-cbs-impactos-nas-administradoras-de-bens",
+      "resumo": "Tributação incidente sobre estruturas societárias sofreu impacto significativo no que se refere à respectiva carga tributária.",
+      "publicado_em": "2026-09-16T15:26:13-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "ibs",
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
     },
     {
       "id": "8de6a36cb8746703",
@@ -999,6 +1229,70 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "e96d47bcb17e31d8",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ destaca prevenção e liberdade de escolha em capacitação contra assédio eleitoral",
+      "link": "https://www.cnj.jus.br/cnj-destaca-prevencao-e-liberdade-de-escolha-em-capacitacao-contra-assedio-eleitoral/",
+      "resumo": "O reconhecimento, a prevenção e o enfrentamento de situações de assédio eleitoral são abordados em minicurso gratuito sobre o tema oferecido pelo Conselho Nacional de Justiça (CNJ), nesta quarta-feira (16/9). Apesar de ter como principal objetivo capacitar servidores e servidoras do Poder Judiciário",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "e084597f78b82ca2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto limita anuidade da OAB e de outros conselhos de classe a até R$ 250",
+      "link": "https://www.camara.leg.br/noticias/1303782-projeto-limita-anuidade-da-oab-e-de-outros-conselhos-de-classe-a-ate-r-250",
+      "resumo": "",
+      "publicado_em": "2026-09-16T18:44:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "oab"
+      ],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "9f199061a6792b9f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto estende a institutos estaduais de pesquisa agropecuária a isenção de taxas já concedida à Embrapa",
+      "link": "https://www.camara.leg.br/noticias/1304996-projeto-estende-a-institutos-estaduais-de-pesquisa-agropecuaria-a-isencao-de-taxas-ja-concedida-a-embrapa",
+      "resumo": "",
+      "publicado_em": "2026-09-16T17:58:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "0c30d94d6a36a235",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova criação de datas comemorativas e homenagens a eventos e figuras históricas",
+      "link": "https://www.camara.leg.br/noticias/1305025-comissao-aprova-criacao-de-datas-comemorativas-e-homenagens-a-eventos-e-figuras-historicas",
+      "resumo": "",
+      "publicado_em": "2026-09-16T17:23:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 38,
+      "tags": [
+        "aprova",
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-09-16T19:29:52-03:00"
     },
     {
       "id": "6dc0df4f3aa8c971",
@@ -2692,7 +2986,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Relatório traça panorama inédito das estruturas de direitos humanos nos tribunais brasileiros",
       "link": "https://www.cnj.jus.br/relatorio-traca-panorama-inedito-das-estruturas-de-direitos-humanos-nos-tribunais-brasileiros/",
-      "resumo": "As estruturas internas dos tribunais dedicadas à defesa dos direitos humanos foram mapeadas em estudo inédito do Programa Justiça Plural, parceria entre o Conselho Nacional de Justiça (CNJ) e o Programa das Nações Unidas para o Desenvolvimento (Pnud). O levantamento Justiça e Direitos Humanos: um pa",
+      "resumo": "As estruturas internas dos tribunais dedicadas à defesa dos direitos humanos foram mapeadas em estudo inédito do Programa Justiça Plural, parceria entre o Conselho Nacional de Justiça (CNJ) e o Programa das Nações Unidas para o Desenvolvimento (Pnud). O levantamento “Justiça e Direitos Humanos: um p",
       "publicado_em": "2026-09-15T12:00:00-03:00",
       "dia": "2026-09-15",
       "data_estimada": true,
@@ -2706,7 +3000,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Gestão e liderança da Polícia Judicial devem se adaptar à atualidade",
       "link": "https://www.cnj.jus.br/gestao-e-lideranca-da-policia-judicial-devem-se-adaptar-a-sociedade-atual/",
-      "resumo": "O desenvolvimento de competências de liderança e gestão na condução de equipes e processos de trabalho é o objetivo do 2º Curso Gestão e Liderança para Gestores, promovido pela Academia Nacional da Polícia Judicial. O curso, iniciado nesta segunda-feira (14/9) no Conselho Nacional de Justiça (CNJ), ",
+      "resumo": "O desenvolvimento de competências de liderança e gestão na condução de equipes e processos de trabalho é o objetivo do 2º Curso Gestão e Liderança para Gestores, promovido pela Academia Nacional da Polícia Judicial (ANJP). O curso, iniciado nesta segunda-feira (14/9) no Conselho Nacional de Justiça ",
       "publicado_em": "2026-09-15T12:00:00-03:00",
       "dia": "2026-09-15",
       "data_estimada": true,
