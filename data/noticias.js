@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-16T14:48:28-03:00",
+  "gerado_em": "2026-09-16T16:22:03-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -330,6 +330,53 @@ window.DADOS = {
       "coletado_em": "2026-09-16T14:48:28-03:00"
     },
     {
+      "id": "fca61f25762b3fec",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP participa de Semana do Estágio da SanFran Jr.",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115338&pagina=1",
+      "resumo": "Evento aproxima estudantes de oportunidades.\n\n\n \n\n\n\tO Tribunal de Justiça de São Paulo participou, hoje (16), da Semana do Estágio da SanFran Jr., evento de estágios",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
+      "id": "884271208442983c",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Fórum de Itanhaém recebe exposição artística",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115328&pagina=1",
+      "resumo": "Mostra aberta ao público até 30/9.\n \n\tO Fórum da Comarca de Itanhaém recebe, até 30 de setembro, exposição de pinturas em óleo sobre tela da",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
+      "id": "bf3d640b3b7dfc11",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF rejeita ação contra novas regras para vale-alimentação e vale-refeição",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-acao-contra-novas-regras-para-vale-alimentacao-e-vale-refeicao/",
+      "resumo": "Ministra Cármen Lúcia considerou inadequado o meio processual para questionar as alterações operacionais",
+      "publicado_em": "2026-09-16T15:52:52-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "novas regras",
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
       "id": "ac2f2ed278472d62",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -344,6 +391,22 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "dfb0c109feed7af3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei facilita corte de impostos para data centers e programas contra câncer",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/16/lei-facilita-corte-de-impostos-para-data-centers-e-programas-contra-cancer",
+      "resumo": "",
+      "publicado_em": "2026-09-16T15:08:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
     },
     {
       "id": "e3019d72ae4f6ada",
@@ -497,6 +560,34 @@ window.DADOS = {
       "coletado_em": "2026-09-16T14:48:28-03:00"
     },
     {
+      "id": "a0ca22946db4778e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Prova Nacional Docente 2026: entenda como funciona a prova",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/prova-nacional-docente-2026-entenda-como-funciona-a-prova",
+      "resumo": "",
+      "publicado_em": "2026-09-16T15:24:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
+      "id": "6aefc804c26b757c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Segurança digital: como proteger crianças e adolescentes no ambiente online",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/seguranca-digital-como-proteger-criancas-e-adolescentes-no-ambiente-online",
+      "resumo": "",
+      "publicado_em": "2026-09-16T14:51:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
       "id": "c10e8e3cfb66f4b4",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -603,6 +694,50 @@ window.DADOS = {
       "coletado_em": "2026-09-16T14:48:28-03:00"
     },
     {
+      "id": "8de6a36cb8746703",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika Kokay quer proibir familiares como suplentes de vaga no Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122324/erika-kokay-quer-proibir-familiares-como-suplentes-de-vaga-no-senado",
+      "resumo": "Deputada disputa vaga na Casa contra Michelle Bolsonaro (PL) e Bia Kicis (PL), ambas com familiares na chapa.",
+      "publicado_em": "2026-09-16T14:55:59-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
+      "id": "c905adfd242e5e69",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Proteger o professor não é proibir que ele seja ajudado",
+      "link": "https://www.congressoemfoco.com.br/artigo/122323/proteger-o-professor-nao-e-proibir-que-ele-seja-ajudado",
+      "resumo": "Antes de homologar as diretrizes sobre IA, o MEC precisa separar assistência de decisão e explicar o que acontece com os programas públicos que já corrigem redações.",
+      "publicado_em": "2026-09-16T14:39:14-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
+      "id": "1b436d16b5b543e8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe pena de até seis anos para corrupção no setor privado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122322/deputado-propoe-pena-de-ate-seis-anos-para-corrupcao-no-setor-privado",
+      "resumo": "Proposta alcança atividades econômicas, empresariais, financeiras, comerciais, associativas e profissionais.",
+      "publicado_em": "2026-09-16T14:36:16-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
       "id": "14cbe2d39256399d",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -635,6 +770,54 @@ window.DADOS = {
       "coletado_em": "2026-09-16T14:48:28-03:00"
     },
     {
+      "id": "9b197748c292ad2e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Por que cuidar de São Paulo começa pelo olhar de bairro",
+      "link": "https://www.congressoemfoco.com.br/artigo/122319/por-que-cuidar-de-sao-paulo-comeca-pelo-olhar-de-bairro",
+      "resumo": "Em uma cidade com as dimensões de São Paulo, olhar de perto não significa perder de vista o conjunto. É uma condição para cuidar melhor dele.",
+      "publicado_em": "2026-09-16T14:23:20-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
+      "id": "911ae9f3b928b382",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB reage a fala de Dino e critica \"criminalização da advocacia\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122318/oab-reage-a-fala-de-dino-e-critica-criminalizacao-da-advocacia",
+      "resumo": "Entidade critica declaração do ministro de que não existe venda de sentença sem advogado comprando.",
+      "publicado_em": "2026-09-16T14:18:18-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "acao",
+        "oab",
+        "advogado"
+      ],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
+      "id": "be66ad7dbcd2218f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pessoas em situação de rua podem votar mesmo sem endereço fixo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122316/pessoas-em-situacao-de-rua-podem-votar-mesmo-sem-endereco-fixo",
+      "resumo": "Justiça Eleitoral permite que vínculos afetivos, familiares, profissionais ou comunitários sejam usados para definir o domicílio eleitoral.",
+      "publicado_em": "2026-09-16T13:37:13-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
       "id": "438d857b6645d540",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -649,6 +832,20 @@ window.DADOS = {
         "recurso"
       ],
       "coletado_em": "2026-09-16T14:48:28-03:00"
+    },
+    {
+      "id": "4d13343223916049",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Livro celebra dez anos de Ney Bello como desembargador do TRF-1",
+      "link": "https://www.congressoemfoco.com.br/noticia/122313/livro-celebra-dez-anos-de-ney-bello-como-desembargador-do-trf-1",
+      "resumo": "Coletânea reúne artigos sobre Direito Penal e Processual Penal e tem prefácio do ministro Alexandre de Moraes.",
+      "publicado_em": "2026-09-16T11:40:19-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
     },
     {
       "id": "c3796e8ae3468c8d",
@@ -802,6 +999,68 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "6dc0df4f3aa8c971",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe uso de recursos da União para hospedagem de luxo de autoridades",
+      "link": "https://www.camara.leg.br/noticias/1303514-projeto-proibe-uso-de-recursos-da-uniao-para-hospedagem-de-luxo-de-autoridades",
+      "resumo": "",
+      "publicado_em": "2026-09-16T16:16:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
+      "id": "383bba048ea4e1eb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei que cria exceções a regras fiscais em 2026 é sancionada com veto",
+      "link": "https://www.camara.leg.br/noticias/1304952-lei-que-cria-excecoes-a-regras-fiscais-em-2026-e-sancionada-com-veto",
+      "resumo": "",
+      "publicado_em": "2026-09-16T16:12:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "sancionada"
+      ],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
+      "id": "994cb8e5575d5d3b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto aumenta pena para lesão corporal e homicídio causados por drones",
+      "link": "https://www.camara.leg.br/noticias/1304705-projeto-aumenta-pena-para-lesao-corporal-e-homicidio-causados-por-drones",
+      "resumo": "",
+      "publicado_em": "2026-09-16T16:06:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
+      "id": "b109bb4b8306ab8f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei cria incentivo fiscal para instalação de datacenters no Brasil",
+      "link": "https://www.camara.leg.br/noticias/1304932-nova-lei-cria-incentivo-fiscal-para-instalacao-de-datacenters-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-16T15:52:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T16:22:03-03:00"
     },
     {
       "id": "4f6d773a79c75dd5",
@@ -2433,7 +2692,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Relatório traça panorama inédito das estruturas de direitos humanos nos tribunais brasileiros",
       "link": "https://www.cnj.jus.br/relatorio-traca-panorama-inedito-das-estruturas-de-direitos-humanos-nos-tribunais-brasileiros/",
-      "resumo": "As estruturas internas dos tribunais dedicadas à defesa dos direitos humanos foram mapeadas em estudo inédito do Programa Justiça Plural, parceria entre o Conselho Nacional de Justiça (CNJ) e o Programa das Nações Unidas para o Desenvolvimento (Pnud). O levantamento “Justiça e Direitos Humanos: um p",
+      "resumo": "As estruturas internas dos tribunais dedicadas à defesa dos direitos humanos foram mapeadas em estudo inédito do Programa Justiça Plural, parceria entre o Conselho Nacional de Justiça (CNJ) e o Programa das Nações Unidas para o Desenvolvimento (Pnud). O levantamento Justiça e Direitos Humanos: um pa",
       "publicado_em": "2026-09-15T12:00:00-03:00",
       "dia": "2026-09-15",
       "data_estimada": true,
@@ -2447,7 +2706,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Gestão e liderança da Polícia Judicial devem se adaptar à atualidade",
       "link": "https://www.cnj.jus.br/gestao-e-lideranca-da-policia-judicial-devem-se-adaptar-a-sociedade-atual/",
-      "resumo": "O desenvolvimento de competências de liderança e gestão na condução de equipes e processos de trabalho é o objetivo do 2º Curso Gestão e Liderança para Gestores, promovido pela Academia Nacional da Polícia Judicial (ANJP). O curso, iniciado nesta segunda-feira (14/9) no Conselho Nacional de Justiça ",
+      "resumo": "O desenvolvimento de competências de liderança e gestão na condução de equipes e processos de trabalho é o objetivo do 2º Curso Gestão e Liderança para Gestores, promovido pela Academia Nacional da Polícia Judicial. O curso, iniciado nesta segunda-feira (14/9) no Conselho Nacional de Justiça (CNJ), ",
       "publicado_em": "2026-09-15T12:00:00-03:00",
       "dia": "2026-09-15",
       "data_estimada": true,
