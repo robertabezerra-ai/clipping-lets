@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-15T19:33:37-03:00",
+  "gerado_em": "2026-09-16T12:20:19-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,7 +173,7 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 27,
+      "itens": 22,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -250,6 +250,448 @@
     }
   ],
   "noticias": [
+    {
+      "id": "f225bee37d7faf48",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça reconhece abusividade em exigir renúncia a ações para adesão a plano de demissão voluntária",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-reconhece-abusividade-em-exigir-renuncia-a-acoes-para-adesao-a-plano-de-demissao-voluntaria",
+      "resumo": "",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "bf938384e7a7a542",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Boletim reúne ações de sustentabilidade do Regional no 2º quadrimestre de 2026",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/boletim-reune-acoes-de-sustentabilidade-do-regional-no-2o-quadrimestre-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "6af50dc94c119ce1",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Cadicrim lança publicação sobre a Lei nº 15.455/26",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115271&pagina=1",
+      "resumo": "Combate ao trabalho em condição análoga à de escravo.\n \n\tO Centro de Apoio da Seção de Direito Criminal do Tribunal de Justiça de São Paulo",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "ac2f2ed278472d62",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quarta-feira (16)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-16/",
+      "resumo": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "publicado_em": "2026-09-16T10:25:32-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "e3019d72ae4f6ada",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Motoristas de aplicativo e taxistas têm crédito facilitado para veículo novo",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/motoristas-de-aplicativo-e-taxistas-tem-credito-facilitado-para-veiculo-novo",
+      "resumo": "",
+      "publicado_em": "2026-09-16T12:01:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "fc84fdaa19d314e1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Urna eletrônica: veja como funciona e como o voto é protegido",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/16/urna-eletronica-veja-como-funciona-e-como-o-voto-e-protegido",
+      "resumo": "",
+      "publicado_em": "2026-09-16T11:28:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "5a9a86e73556d59c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Política nacional de conscientização e orientação sobre LAM agora é lei",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/16/politica-nacional-de-conscientizacao-e-orientacao-sobre-lam-agora-e-lei",
+      "resumo": "",
+      "publicado_em": "2026-09-16T11:10:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "ff71d89ec62fb864",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Política nacional sobre a doença rara LAM entre em vigor",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/politica-nacional-sobre-a-doenca-rara-lam-entre-em-vigor",
+      "resumo": "",
+      "publicado_em": "2026-09-16T10:54:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "408c3526f6b9a223",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sancionada lei de incentivo à instalação de data centers",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/16/sancionada-lei-de-incentivo-para-a-instalacao-de-data-centers",
+      "resumo": "",
+      "publicado_em": "2026-09-16T10:32:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "sancionada",
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "e2df0685bd20e3b7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sarau literário celebra Dia Internacional das Mulheres Indígenas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/sarau-literario-celebra-dia-internacional-das-mulheres-indigenas",
+      "resumo": "",
+      "publicado_em": "2026-09-16T10:01:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "13cf443ed1cb45ed",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Incentivo para instalação de datacenters no Brasil é sancionado",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/incentivo-para-instalacao-de-datacenters-no-brasil-e-sancionado",
+      "resumo": "",
+      "publicado_em": "2026-09-16T08:39:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "211df3f0747d7504",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP e Funai promovem escuta sobre enfrentamento à violência contra mulheres e meninas indígenas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-funai-promovem-escuta-sobre-enfrentamento-a-violencia-contra-mulheres-e-meninas-indigenas",
+      "resumo": "",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "9be540436b4bad5e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Veja quais condutas de passageiros são consideradas indisciplina em voo na nova regra da Anac",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/comeca-a-vigorar-norma-que-responsabiliza-passageiros-indisciplinados",
+      "resumo": "",
+      "publicado_em": "2026-09-16T11:30:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "520dc09e31c6796c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Sancionado o Regime Especial de Tributação para Serviços de Datacenter",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/regime-especial-de-tributacao-para-servicos-de-datacenter-e-sancionado",
+      "resumo": "",
+      "publicado_em": "2026-09-16T11:04:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "1d3146676e898aa2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Exército Brasileiro conduz exercício de defesa cibernética entre delegações sul-americanas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/exercito-brasileiro-conduz-exercicio-combinado-de-defesa-cibernetica",
+      "resumo": "",
+      "publicado_em": "2026-09-16T10:12:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "30e95bd3ab65a7c4",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Trilha Verde da Maria Fumaça valoriza patrimônio histórico e turismo de experiência em MG",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/trilha-verde-da-maria-fumaca-valoriza-patrimonio-historico-natureza-e-turismo-de-experiencia-em-minas-gerais",
+      "resumo": "",
+      "publicado_em": "2026-09-16T08:58:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "1b96acf232589fdb",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Regime Especial de Tributação para Serviços de Datacenter é sancionado",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/regime-especial-de-tributacao-para-servicos-de-datacenter-e-sancionado",
+      "resumo": "",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "c3796e8ae3468c8d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF mira Adail Filho em operação contra fraudes na prefeitura do pai",
+      "link": "https://www.congressoemfoco.com.br/noticia/122311/pf-mira-adail-filho-em-operacao-contra-fraudes-na-prefeitura-do-pai",
+      "resumo": "Adail Pinheiro, pai do deputado, foi afastado da administração pública.",
+      "publicado_em": "2026-09-16T11:25:52-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "c8334e8209e2e680",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Anvisa proíbe venda e uso da caneta emagrecedora T36 no Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/122309/anvisa-proibe-venda-e-uso-da-caneta-emagrecedora-t36-no-brasil",
+      "resumo": "Produto à base de tirzepatida, fabricado no Paraguai, não tem registro sanitário nem teve segurança e eficácia avaliadas no país.",
+      "publicado_em": "2026-09-16T10:28:20-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "b7b80f08cd7eb7db",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"O Supremo sem os ministros de Lula, tem solução\", diz Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/122308/o-supremo-sem-os-ministros-de-lula-tem-solucao--diz-flavio",
+      "resumo": "Presidenciável acusa indicados por Lula de tentar blindar Moraes e promete nomear cinco ministros para a Corte se eleito.",
+      "publicado_em": "2026-09-16T08:53:52-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "c9e359c01610393b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula chama adversários de \"mequetrefes\": \"olha o meu vice e o deles\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122307/lula-chama-adversarios-de-mequetrefes--olha-o-meu-vice-e-o-deles",
+      "resumo": "Candidato à reeleição compara sua chapa às dos concorrentes, elogia Geraldo Alckmin e diz que pretende \"fazer muito mais\" em eventual quarto mandato.",
+      "publicado_em": "2026-09-16T08:33:27-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "d357aa96b10647eb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Após sessão do STF, Nikolas convoca manifestação",
+      "link": "https://www.congressoemfoco.com.br/noticia/122306/apos-sessao-do-stf-nikolas-convoca-manifestacao",
+      "resumo": "Em vídeo, Nikolas Ferreira afirmou que o país precisa recuperar o \"sentimento de 2016\".",
+      "publicado_em": "2026-09-16T08:20:46-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "bda4c8bcf8bd20bf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Master: Lula acusa Mendonça de soltar só o que \"interessava a ele\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122305/master-lula-acusa-mendonca-de-soltar-so-o-que-interessava-a-ele",
+      "resumo": "Presidente critica Mendonça, defende abertura dos sigilos do caso Master e questiona por que Toffoli e Nunes Marques não participaram do julgamento no STF.",
+      "publicado_em": "2026-09-16T07:58:19-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "939b014131172617",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "iFood anuncia no MOVE investimento recorde de R$ 24 bilhões no Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/122304/ifood-anuncia-no-move-investimento-recorde-de-r-24-bilhoes-no-brasil",
+      "resumo": "Recursos serão destinados à expansão do delivery, tecnologia, crédito para restaurantes e novas frentes de negócios.",
+      "publicado_em": "2026-09-16T07:56:51-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "125334e32dde9ccf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula promete reforma do Judiciário e cobra \"critério de moralização\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122302/lula-promete-reforma-do-judiciario-e-cobra-criterio-de-moralizacao",
+      "resumo": "Presidente diz que integrantes do Judiciário \"não podem querer ficar ricos\" e defende mudanças nas regras de escolha e permanência de magistrados.",
+      "publicado_em": "2026-09-16T07:26:20-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "30b0d323cf72fd71",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TRT-CE define rodízio da coleta seletiva entre associações de catadores",
+      "link": "https://www.cnj.jus.br/trt-ce-define-rodizio-da-coleta-seletiva-entre-associacoes-de-catadores/",
+      "resumo": "O Tribunal Regional do Trabalho da 7ª Região (TRT-CE) definiu, em sessão pública realizada nesta quinta-feira (3/9), a ordem de rodízio das associações e cooperativas de catadores credenciadas para a prestação de serviços de coleta seletiva. Cada entidade ficará responsável pelo serviço por quatro m",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "7aa430fd44b815a0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Sem votação do Congresso, medida provisória dos mototaxistas perde validade",
+      "link": "https://www.camara.leg.br/noticias/1304911-sem-votacao-do-congresso-medida-provisoria-dos-mototaxistas-perde-validade",
+      "resumo": "",
+      "publicado_em": "2026-09-16T09:49:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "medida provisoria",
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "86b3a6757d06a88f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto exige temporizador em semáforos com fiscalização eletrônica",
+      "link": "https://www.camara.leg.br/noticias/1302638-projeto-exige-temporizador-em-semaforos-com-fiscalizacao-eletronica",
+      "resumo": "",
+      "publicado_em": "2026-09-16T09:19:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "5a962d5af6ecd456",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Projeto Sandbox Regulatório de IA da ANPD é finalista de prêmio internacional",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/projeto-sandbox-regulatorio-de-ia-da-anpd-e-finalista-de-premio-internacional",
+      "resumo": "Iniciativa pioneira da Agência concorre na edição 2026 do Global Privacy and Data Protection Awards e disputa também a categoria de voto popular",
+      "publicado_em": "2026-09-16T09:19:53-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
     {
       "id": "747ee690251c9189",
       "fonte_id": "trt2",
@@ -346,7 +788,7 @@
       "fonte_nome": "TJSP",
       "titulo": "Sesc Consolação abre suas portas às comemorações do centenário do poeta Paulo Bomfim",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115274&pagina=1",
-      "resumo": "Evento será amanhã, dia 16.\n \n\tAs comemorações do centenário de nascimento de Paulo Bomfim, escritor, jornalista, cronista e poeta que se tornou conhecido como o",
+      "resumo": "Evento será hoje, dia 16.\n \n\tAs comemorações do centenário de nascimento de Paulo Bomfim, escritor, jornalista, cronista e poeta que se tornou conhecido como o",
       "publicado_em": "2026-09-15T12:00:00-03:00",
       "dia": "2026-09-15",
       "data_estimada": true,
@@ -372,6 +814,24 @@
         "julga"
       ],
       "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "69cf7958e55d1e53",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Pedido de vista suspende discussão sobre julgamento conjunto de duas petições do caso Master",
+      "link": "https://noticias.stf.jus.br/postsnoticias/pedido-de-vista-suspende-discussao-sobre-julgamento-conjunto-de-duas-peticoes-do-caso-master/",
+      "resumo": "Plenário do STF analisa questão de ordem que propõe reunir as Petições 16662 e 16704; mérito dos processos não foi examinado",
+      "publicado_em": "2026-09-15T20:51:11-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
     },
     {
       "id": "81acde988a5c0f38",
@@ -405,6 +865,23 @@
         "decisao"
       ],
       "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "21afa04bbbf5704d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CDH aprova indicação para que CCJ crie grupo de reforma do Judiciário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/15/cdh-aprova-indicacao-para-que-ccj-crie-grupo-de-reforma-do-judiciario",
+      "resumo": "",
+      "publicado_em": "2026-09-15T19:49:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
     },
     {
       "id": "e42187f31cf9c5a3",
@@ -767,6 +1244,64 @@
       "coletado_em": "2026-09-15T19:33:37-03:00"
     },
     {
+      "id": "2ef4592087931128",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP realiza abertura da 6ª edição do curso sobre o papel dos profissionais do SUSP na defesa da democracia",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-realiza-abertura-da-6a-edicao-do-curso-sobre-o-papel-dos-profissionais-do-susp-na-defesa-da-democracia",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "fa31b11bfc7f0860",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Ministério da Justiça, TSE e PRF alinham apoio logístico e operacional para as eleições de 2026",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-tse-e-prf-alinham-apoio-logistico-e-operacional-para-as-eleicoes-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "c169dc56e399abcb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mais de 1 milhão de brasileiros se autoexcluíram das plataformas de jogos e apostas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/mais-de-um-milhao-de-brasileiros-se-autoexcluiram-das-plataformas-de-jogos-e-apostas",
+      "resumo": "",
+      "publicado_em": "2026-09-15T17:50:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "e66ad85abe8151db",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Portaria fortalece o enfrentamento ao mercado ilegal de apostas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/spa-publica-portaria-de-enfrentamento-ao-mercado-ilegal-de-apostas",
+      "resumo": "",
+      "publicado_em": "2026-09-15T16:43:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "portaria"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
       "id": "b04dcc332cabc08a",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -955,6 +1490,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-15T12:27:07-03:00"
+    },
+    {
+      "id": "48c40894e6438360",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Caso Moraes pode voltar ao STF já com novo ministro indicado por Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/122301/caso-moraes-pode-voltar-ao-stf-ja-com-novo-ministro-indicado-por-lula",
+      "resumo": "Vista de Dino pode levar questão de ordem para depois das eleições; posição já antecipada pelo ministro aponta para empate de 4 a 4.",
+      "publicado_em": "2026-09-15T19:01:21-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
     },
     {
       "id": "c4df5291c3df3f8b",
@@ -1694,7 +2243,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Relatório traça panorama inédito das estruturas de direitos humanos nos tribunais brasileiros",
       "link": "https://www.cnj.jus.br/relatorio-traca-panorama-inedito-das-estruturas-de-direitos-humanos-nos-tribunais-brasileiros/",
-      "resumo": "As estruturas internas dos tribunais dedicadas à defesa dos direitos humanos foram mapeadas em estudo inédito do Programa Justiça Plural, parceria entre o Conselho Nacional de Justiça (CNJ) e o Programa das Nações Unidas para o Desenvolvimento (Pnud). O levantamento Justiça e Direitos Humanos: um pa",
+      "resumo": "As estruturas internas dos tribunais dedicadas à defesa dos direitos humanos foram mapeadas em estudo inédito do Programa Justiça Plural, parceria entre o Conselho Nacional de Justiça (CNJ) e o Programa das Nações Unidas para o Desenvolvimento (Pnud). O levantamento “Justiça e Direitos Humanos: um p",
       "publicado_em": "2026-09-15T12:00:00-03:00",
       "dia": "2026-09-15",
       "data_estimada": true,
@@ -1903,7 +2452,7 @@
       "id": "5d21d76a8adaa2db",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
-      "titulo": "Semana Nacional da Execução Trabalhista acontece de 14 a 18 de setembro",
+      "titulo": "Semana Nacional da Execução Trabalhista acontece até 18 de setembro",
       "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/semana-nacional-da-execucao-trabalhista-acontece-de-14-a-18-de-setembro",
       "resumo": "",
       "publicado_em": "2026-09-14T12:00:00-03:00",
@@ -1974,22 +2523,6 @@
         "acao"
       ],
       "coletado_em": "2026-09-14T15:56:43-03:00"
-    },
-    {
-      "id": "92fc3339af06dd4c",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "EJud-15 promove debate sobre o livro \"Ressalga\" no projeto Direito em Páginas",
-      "link": "https://trt15.jus.br/noticia/2026/ejud-15-promove-debate-sobre-o-livro-ressalga-no-projeto-direito-em-paginas",
-      "resumo": "EJud-15 promove debate sobre o livro \"Ressalga\" no projeto Direito em Páginas anagatto Seg, 14/09/2026 - 12:37 EJud-15 promove debate sobre o livro \"Ressalga\" no projeto Direito em Páginas Conteúdo da Notícia A Escola Judicial do Tribunal Regional do Trabalho da 15ª Região realiza, no dia 16 de sete",
-      "publicado_em": "2026-09-14T12:37:18-03:00",
-      "dia": "2026-09-14",
-      "data_estimada": false,
-      "score": 48,
-      "tags": [
-        "judicial"
-      ],
-      "coletado_em": "2026-09-14T13:47:26-03:00"
     },
     {
       "id": "3cbe8a388bc943bc",
@@ -2846,6 +3379,25 @@
         "decide"
       ],
       "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
+      "id": "c665a07ad091ca8f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Julgamento do caso Moraes-Vorcaro no STF é adiado após pedido de vista",
+      "link": "https://www.congressoemfoco.com.br/noticia/122245/julgamento-do-caso-moraes-vorcaro-no-stf-e-adiado-apos-pedido-de-vista",
+      "resumo": "Pedido de vista de Flávio Dino interrompeu a análise quando o placar estava em 4 a 3 pela separação dos casos de Moraes e Mendonça; sessão teve bate-bocas entre ministros.",
+      "publicado_em": "2026-09-14T15:46:06-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "julgamento",
+        "julga",
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-16T12:20:19-03:00"
     },
     {
       "id": "7c5e0afb2193f7fe",
@@ -6005,6 +6557,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-10T19:06:43-03:00"
+    },
+    {
+      "id": "117f3c14fc7bf98b",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "2ª Câmara afasta pagamento de intervalo de digitador a caixa bancária após alteração da cláusula coletiva",
+      "link": "https://trt15.jus.br/noticia/2026/2a-camara-afasta-pagamento-de-intervalo-de-digitador-caixa-bancaria-apos-alteracao-da",
+      "resumo": "2ª Câmara afasta pagamento de intervalo de digitador a caixa bancária após alteração da cláusula coletiva anagatto Qui, 10/09/2026 - 11:12 2ª Câmara afasta pagamento de intervalo de digitador a caixa bancária após alteração da cláusula coletiva Conteúdo da Notícia A 2ª Câmara do Tribunal Regional do",
+      "publicado_em": "2026-09-10T11:12:45-03:00",
+      "dia": "2026-09-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T14:57:26-03:00"
     },
     {
       "id": "ca3e38450dcc0dab",
@@ -9568,6 +10136,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-08T16:15:22-03:00"
+    },
+    {
+      "id": "92fc3339af06dd4c",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "EJud-15 promove debate sobre o livro \"Ressalga\" no projeto Direito em Páginas",
+      "link": "https://trt15.jus.br/noticia/2026/ejud-15-promove-debate-sobre-o-livro-ressalga-no-projeto-direito-em-paginas",
+      "resumo": "EJud-15 promove debate sobre o livro \"Ressalga\" no projeto Direito em Páginas anagatto Ter, 08/09/2026 - 12:37 EJud-15 promove debate sobre o livro \"Ressalga\" no projeto Direito em Páginas Conteúdo da Notícia A Escola Judicial do Tribunal Regional do Trabalho da 15ª Região realiza, no dia 16 de sete",
+      "publicado_em": "2026-09-08T12:37:18-03:00",
+      "dia": "2026-09-08",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-09-14T13:47:26-03:00"
     },
     {
       "id": "6d083ff1c561080b",
@@ -21555,22 +22139,6 @@
         "trabalhista"
       ],
       "coletado_em": "2026-08-31T17:44:37-03:00"
-    },
-    {
-      "id": "117f3c14fc7bf98b",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "2ª Câmara afasta pagamento de intervalo de digitador a caixa bancária após alteração da cláusula coletiva",
-      "link": "https://trt15.jus.br/noticia/2026/2a-camara-afasta-pagamento-de-intervalo-de-digitador-caixa-bancaria-apos-alteracao-da",
-      "resumo": "2ª Câmara afasta pagamento de intervalo de digitador a caixa bancária após alteração da cláusula coletiva anagatto Seg, 31/08/2026 - 11:12 2ª Câmara afasta pagamento de intervalo de digitador a caixa bancária após alteração da cláusula coletiva Conteúdo da Notícia A 2ª Câmara do Tribunal Regional do",
-      "publicado_em": "2026-08-31T11:12:45-03:00",
-      "dia": "2026-08-31",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-31T14:57:26-03:00"
     },
     {
       "id": "7a535dac88b365ec",
@@ -50873,34 +51441,6 @@
         "indenizacao",
         "acao"
       ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "2835a2c6f0d48e47",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Evento discute direitos da natureza e proteção de povos originários",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/evento-discute-direitos-da-natureza-e-protecao-de-povos-originarios",
-      "resumo": "",
-      "publicado_em": "2026-06-17T12:00:00-03:00",
-      "dia": "2026-06-17",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "c8b98ac13c725b34",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Justiça reconhece dispensa discriminatória de trabalhadora com baixa visão e condena empresa por assédio moral",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-reconhece-dispensa-discriminatoria-de-trabalhadora-com-baixa-visao-e-condena-empresa-por-assedio-moral",
-      "resumo": "",
-      "publicado_em": "2026-06-17T12:00:00-03:00",
-      "dia": "2026-06-17",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
