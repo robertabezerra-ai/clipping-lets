@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-16T19:29:52-03:00",
+  "gerado_em": "2026-09-17T12:26:20-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -250,6 +250,658 @@
     }
   ],
   "noticias": [
+    {
+      "id": "d2c9f2ed2886cde0",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça condena banco por dispensa discriminatória de trabalhador com transtorno do espectro autista",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-condena-banco-por-dispensa-discriminatoria-de-trabalhador-com-transtorno-do-espectro-autista",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "dbfe66bbb03274ef",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Supermercado indenizará homem sequestrado em estacionamento",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115342&pagina=1",
+      "resumo": "Reparação de mais de R$ 30 mil.\n \n\tA 35ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve decisão da 2ª Vara",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "indenizar",
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "fcdbfeea80b8f491",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Conheça as Metas Nacionais do Poder Judiciário 2026",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115337&pagina=1",
+      "resumo": "Objetivos orientam a Justiça brasileira no ano.\n \n\tAs Metas Nacionais do Poder Judiciário transformam grandes desafios da Justiça em objetivos comuns. Definidas anualmente, elas direcionam",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "6c2c369576198a1e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Informe da Secretaria de Comunicação",
+      "link": "https://noticias.stf.jus.br/postsnoticias/informe-da-secretaria-de-comunicacao/",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:25:25-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "69f0c2801827b52e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Cancelada a sessão extraordinária do STF desta quinta-feira (17)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cancelada-a-sessao-extraordinaria-do-stf-desta-quinta-feira-17/",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:09:59-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "95fffec4120ecdf2",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF afasta cobrança de adicional de ICMS sobre telecomunicações em Mato Grosso",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-afasta-cobranca-de-adicional-de-icms-sobre-telecomunicacoes-em-mato-grosso/",
+      "resumo": "Em sessão virtual, Plenário declarou que edição de lei complementar federal suspendeu, desde junho de 2022, efeitos de normas que permitiam a incidência",
+      "publicado_em": "2026-09-17T09:22:31-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "a820215bc8c22145",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Nova lei institui Política Nacional de Minerais Críticos e Estratégicos",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/nova-lei-institui-politica-nacional-de-minerais-criticos-e-estrategicos",
+      "resumo": "",
+      "publicado_em": "2026-09-17T10:55:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "2d3498d1f5dc4ba1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Política Nacional de Minerais Críticos e Estratégicos é sancionada",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/politica-nacional-de-minerais-criticos-e-estrategicos-e-sancionada",
+      "resumo": "",
+      "publicado_em": "2026-09-17T10:24:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "sancionada"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "1c268d4352b9c4d5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sancionada Política Nacional de Minerais Críticos e Estratégicos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/17/sancionada-politica-nacional-de-minerais-criticos-e-estrategicos",
+      "resumo": "",
+      "publicado_em": "2026-09-17T10:23:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "sancionada"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "f918ac0db485a2d2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei de incentivo à instalação de data centers é sancionada",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/lei-de-incentivo-a-instalacao-de-data-centers-e-sancionada",
+      "resumo": "",
+      "publicado_em": "2026-09-17T08:21:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "sancionada",
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "0433ed68ed68143e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Cultural vai expor itens recuperados de antigas sedes da Casa",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/senado-cultural-vai-expor-itens-recuperados-de-antigas-sedes-da-casa",
+      "resumo": "",
+      "publicado_em": "2026-09-17T08:15:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "31c8d33d89b46c0d",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal participa da Operação Última Chamada",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/2a-fase-da-operacao-ultima-chamada-amplia-fiscalizacao-sobre-comercio-de-celulares-irregulares",
+      "resumo": "",
+      "publicado_em": "2026-09-17T10:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "2a9606bcce8276cc",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal deflagra a Operação Termidor",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-deflagra-a-operacao-termidor",
+      "resumo": "",
+      "publicado_em": "2026-09-17T09:25:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "6076ef60642a170b",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "2ª fase da Operação Última Chamada amplia fiscalização sobre comércio de celulares irregulares",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/2a-fase-da-operacao-ultima-chamada-amplia-fiscalizacao-sobre-comercio-de-celulares-irregulares",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "35c336fb5b083826",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Segunda fase da Operação Última Chamada amplia fiscalização do comércio de celulares irregulares",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/2a-fase-da-operacao-ultima-chamada-amplia-fiscalizacao-sobre-comercio-de-celulares-irregulares-1",
+      "resumo": "",
+      "publicado_em": "2026-09-17T11:15:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "4bc920f156c86644",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mata Atlântica: Patrimônio Mundial reúne florestas, cavernas e ilhas entre São Paulo e Paraná",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/mata-atlantica-patrimonio-mundial-reune-florestas-cavernas-e-ilhas-entre-sao-paulo-e-parana",
+      "resumo": "",
+      "publicado_em": "2026-09-17T10:02:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "e6e22507046fb223",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "São Luís: azulejos e casarões contam a história de um Patrimônio Mundial",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/sao-luis-azulejos-e-casaroes-contam-a-historia-de-um-patrimonio-mundial",
+      "resumo": "",
+      "publicado_em": "2026-09-17T09:57:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "20a316ef1f529e78",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Política de minerais críticos prevê rastreabilidade e agregação de valor",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/politica-de-minerais-criticos-preve-rastreabilidade-e-agregacao-de-valor",
+      "resumo": "",
+      "publicado_em": "2026-09-17T08:42:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "d1d5271bf63c26b0",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Petrobras assina oito contratos de partilha de produção na Costa do Marfim",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/petrobras-assina-oito-contratos-de-partilha-de-producao-na-costa-do-marfim",
+      "resumo": "",
+      "publicado_em": "2026-09-17T00:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "6789279f2dff8e49",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Política se faz olhando no olho: assim surgiu o nosso Gabinete de Rua",
+      "link": "https://www.congressoemfoco.com.br/artigo/122358/politica-se-faz-olhando-no-olho-assim-surgiu-o-nosso-gabinete-de-rua",
+      "resumo": "É preciso sair do gabinete, visitar cidades e olhar no olho das pessoas que estão na ponta, onde vidas são transformadas.",
+      "publicado_em": "2026-09-17T12:07:33-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "d6c73b2a27f7cc11",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça manda apagar montagem com Lula e Janja sob mira de arma",
+      "link": "https://www.congressoemfoco.com.br/noticia/122357/mendonca-manda-apagar-montagem-com-lula-e-janja-sob-mira-de-arma",
+      "resumo": "Ministro do TSE classificou a publicação como de \"particular gravidade\" e afirmou que a representação visual apresenta o candidato como alvo.",
+      "publicado_em": "2026-09-17T11:35:44-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "a6a6aa74e5d4e593",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Debate entre candidatos a deputado estadual em SP termina em socos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122356/debate-entre-candidatos-a-deputado-estadual-em-sp-termina-em-socos",
+      "resumo": "Thomaz Henrique chamou  de \"bandida\" a avó de Leonardo Grandini, que agrediu o candidato do PL.",
+      "publicado_em": "2026-09-17T11:17:50-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "38f0ea3830b729a2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vorcaro discutiu \"atacar\" Celina por críticas à operação Master-BRB",
+      "link": "https://www.congressoemfoco.com.br/noticia/122355/vorcaro-discutiu-atacar-celina-por-criticas-a-operacao-master-brb",
+      "resumo": "Mensagens apreendidas pela PF mostram banqueiro reagindo a declarações da então vice-governadora sobre a operação; Celina afirmou que diálogo revela tentativa de atacá-la por ser contrária ao negócio.",
+      "publicado_em": "2026-09-17T11:12:43-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "80ba3e57e3cbf646",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula anuncia primeiro reajuste no Bolsa Família desde março de 2023",
+      "link": "https://www.congressoemfoco.com.br/noticia/122353/lula-anuncia-primeiro-reajuste-no-bolsa-familia-desde-marco-de-2023",
+      "resumo": "Aumento é de 15,04%, o que eleva o piso de R$ 600 para R$ 691.",
+      "publicado_em": "2026-09-17T10:55:01-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "21422d509c757385",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Crise empresarial se agrava quando reação ao endividamento demora",
+      "link": "https://www.congressoemfoco.com.br/artigo/122352/crise-empresarial-se-agrava-quando-reacao-ao-endividamento-demora",
+      "resumo": "Queda de receita, aumento das dívidas e dependência de crédito podem indicar a necessidade de reestruturar o negócio.",
+      "publicado_em": "2026-09-17T10:51:27-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "6f197ed1af491bcd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE/DF manda Arruda apagar posts em que afirma estar elegível",
+      "link": "https://www.congressoemfoco.com.br/noticia/122351/tre-df-manda-arruda-apagar-posts-em-que-afirma-estar-elegivel",
+      "resumo": "Publicações já foram retiradas do Instagram; registro do candidato ao governo do DF segue indeferido enquanto recurso tramita.",
+      "publicado_em": "2026-09-17T10:21:54-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "294351fc703bce8c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Operação contra PCC mira Milton Leite, ex-presidente da Câmara de SP",
+      "link": "https://www.congressoemfoco.com.br/noticia/122350/operacao-contra-pcc-mira-milton-leite-ex-presidente-da-camara-de-sp",
+      "resumo": "A investigação apura a infiltração do PCC em empresas de ônibus. Alvo de mandado de prisão, ex-vereador nega as acusações e diz que vai se apresentar à polícia.",
+      "publicado_em": "2026-09-17T10:09:25-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "d75478edd532269c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula é candidato, mas fala como presidente ao descartar socorro ao BRB",
+      "link": "https://www.congressoemfoco.com.br/noticia/122349/lula-e-candidato-mas-fala-como-presidente-ao-descartar-socorro-ao-brb",
+      "resumo": "Declaração em comício transforma crise de uma instituição financeira pública em tema eleitoral; decisão sobre eventual garantia da União exige critérios técnicos, fiscais e jurídicos.",
+      "publicado_em": "2026-09-17T10:09:13-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "d90a026d91a974c0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A democracia também adoece pelas ausências",
+      "link": "https://www.congressoemfoco.com.br/artigo/122348/a-democracia-tambem-adoece-pelas-ausencias",
+      "resumo": "Quando quem tem algo a oferecer se recusa a assumir responsabilidades públicas, o poder não fica vazio. Outros o ocupam — e 2026 deveria nos fazer pensar seriamente sobre isso.",
+      "publicado_em": "2026-09-17T10:00:37-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "5535bb8b2444c423",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "André Mendonça rebate Gilmar e diz que plenário virou \"picadeiro\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122347/andre-mendonca-rebate-gilmar-e-diz-que-plenario-virou-picadeiro",
+      "resumo": "Mendonça responde ao decano, defende atuação no caso Master e cobra regras de conduta para ministros.",
+      "publicado_em": "2026-09-17T09:57:28-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "2a0d8deeb8d2c797",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em post, Gilmar chama Mendonça novamente de \"pixuleco eleitoral\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122346/em-post-gilmar-chama-mendonca-novamente-de-pixuleco-eleitoral",
+      "resumo": "Decano acusa colega de tentar obter dividendos políticos com exposição de Paulo Gonet e compara atuação à Lava Jato.",
+      "publicado_em": "2026-09-17T09:35:12-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "acao",
+        "exposicao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "592eaa93b4e25c85",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar acusa Fux de \"prévio ajuste\" com Mendonça ao pautar caso Andrei",
+      "link": "https://www.congressoemfoco.com.br/noticia/122345/gilmar-acusa-fux-de-previo-ajuste-com-mendonca-ao-pautar-caso-andrei",
+      "resumo": "Decano afirma que sessão extraordinária sobre o afastamento de Andrei Rodrigues e Leandro Almada foi marcada após entendimento entre Fux e Mendonça sem prévia comunicação a parte da 2ª Turma.",
+      "publicado_em": "2026-09-17T09:21:56-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "38dcd93fdf05b8a6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Com facão, Flávio defende castração química para estupradores",
+      "link": "https://www.congressoemfoco.com.br/noticia/122344/com-facao-flavio-defende-castracao-quimica-para-estupradores",
+      "resumo": "Candidato à Presidência fez a declaração durante comício no Recife; medida integra as propostas de segurança de sua campanha.",
+      "publicado_em": "2026-09-17T08:21:58-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "897b7ddbffc28f47",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Atlas/Bloomberg: Flávio tem 47,2% e Lula, 46,8% no 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/122343/atlas-bloomberg-flavio-tem-47-2-e-lula-46-8-no-2-turno",
+      "resumo": "Diferença de 0,4 ponto está dentro da margem de erro. No primeiro turno, Flávio reduziu para 2,4 pontos a distância em relação a Lula.",
+      "publicado_em": "2026-09-17T08:14:16-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "1508f0f4e9a25f75",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula diz que Brasil rejeita \"político vira-lata de quatro para os EUA\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122341/lula-diz-que-brasil-rejeita-politico-vira-lata-de-quatro-para-os-eua",
+      "resumo": "Presidente acusou adversários de submissão aos Estados Unidos.",
+      "publicado_em": "2026-09-17T07:46:56-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "77948ae4e721c2c0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em resposta a Trump, governo nega falha no combate ao crime organizado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122340/em-resposta-a-trump-governo-nega-falha-no-combate-ao-crime-organizado",
+      "resumo": "Ministério da Justiça afirma que críticas dos EUA ignoram ações contra PCC e CV e a cooperação entre os dois países no enfrentamento às facções. Veja a íntegra da nota.",
+      "publicado_em": "2026-09-17T07:45:12-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "4693822867059d63",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Especialistas destacam necessidade de priorizar diálogo e acessibilidade na comunicação pública",
+      "link": "https://www.camara.leg.br/noticias/1305232-especialistas-destacam-necessidade-de-priorizar-dialogo-e-acessibilidade-na-comunicacao-publica",
+      "resumo": "",
+      "publicado_em": "2026-09-17T11:52:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "4800d9054663b8ce",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria regras para identidade digital, uso de pseudônimos e conteúdos com IA",
+      "link": "https://www.camara.leg.br/noticias/1304625-projeto-cria-regras-para-identidade-digital-uso-de-pseudonimos-e-conteudos-com-ia",
+      "resumo": "",
+      "publicado_em": "2026-09-17T10:48:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "9ea778639986f77d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe o funcionamento de zoológicos no Brasil",
+      "link": "https://www.camara.leg.br/noticias/1303083-projeto-proibe-o-funcionamento-de-zoologicos-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-17T10:48:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "c29a068a041c9f45",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto torna obrigatória a formação de professores em educação inclusiva",
+      "link": "https://www.camara.leg.br/noticias/1304556-projeto-torna-obrigatoria-a-formacao-de-professores-em-educacao-inclusiva",
+      "resumo": "",
+      "publicado_em": "2026-09-17T10:20:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "1f0d25f2945fa81d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria endereços digitais para facilitar localização em áreas remotas",
+      "link": "https://www.camara.leg.br/noticias/1303286-projeto-cria-enderecos-digitais-para-facilitar-localizacao-em-areas-remotas",
+      "resumo": "",
+      "publicado_em": "2026-09-17T09:07:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "f2588ba5a287fc8b",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Pauta da próxima sessão de julgamento (23/09) do Cade é publicada",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/pauta-da-proxima-sessao-de-julgamento-23-09-do-cade-e-publicada-1",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "julgamento",
+        "julga",
+        "cade"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
     {
       "id": "f225bee37d7faf48",
       "fonte_id": "trt2",
@@ -374,6 +1026,58 @@
       "coletado_em": "2026-09-16T19:29:52-03:00"
     },
     {
+      "id": "6218353dce435c9c",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF suspende decisão que determinava execução de emendas parlamentares de 2025 em Teresina (PI)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-decisao-que-determinava-execucao-de-emendas-parlamentares-de-2025-em-teresina-pi/",
+      "resumo": "Ministro Edson Fachin considerou que a execução de despesas no valor de R$ 2,8 milhões sem previsão no orçamento de 2026 poderia comprometer recursos já destinados a outras políticas públicas",
+      "publicado_em": "2026-09-16T20:50:35-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "decisao",
+        "recurso"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "e393671864ecb7c9",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF começa a analisar unificação de prazos de licença-maternidade biológica e adotiva",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-comeca-a-analisar-unificacao-de-prazos-de-licenca-maternidade-biologica-e-adotiva/",
+      "resumo": "Plenário tem quatro votos para equiparar a licença-maternidade sem distinguir a origem biológica ou adotiva da criança ou a natureza do vínculo profissional da pessoa beneficiária",
+      "publicado_em": "2026-09-16T20:38:42-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "fc383d150e671cba",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF avança em julgamento sobre imunidade de ITBI para integralização de capital social de imobiliárias",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-avanca-em-julgamento-sobre-imunidade-de-itbi-para-integralizacao-de-capital-social-de-imobiliarias/",
+      "resumo": "Cinco ministros entendem que a não incidência é válida, e dois votaram em sentido contrário",
+      "publicado_em": "2026-09-16T20:19:24-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
       "id": "635cf2f8b8633bc7",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -438,6 +1142,22 @@
         "adi"
       ],
       "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "9d080f78cb898905",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Medida provisória dos mototaxistas perde a validade",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/medida-provisoria-dos-mototaxistas-perde-a-validade",
+      "resumo": "",
+      "publicado_em": "2026-09-16T19:33:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
     },
     {
       "id": "8f6e9ece0edf11d0",
@@ -649,6 +1369,37 @@
       "coletado_em": "2026-09-16T14:48:28-03:00"
     },
     {
+      "id": "05c9706d805a499c",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Assunto: Ato interno dos Estados Unidos de determinação dos maiores países produtores e de trânsito de drogas para o ano fiscal de 2027",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/assunto-ato-interno-dos-estados-unidos-de-determinacao-dos-maiores-paises-produtores-e-de-transito-de-drogas-para-o-ano-fiscal-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 26,
+      "tags": [
+        "acao",
+        "droga"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "abf5aec9ce46e068",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Passageiro indisciplinado pode ficar até um ano sem embarcar em voos domésticos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/passageiro-indisciplinado-pode-ficar-ate-um-ano-sem-embarcar-em-voos-domesticos",
+      "resumo": "",
+      "publicado_em": "2026-09-16T16:25:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
       "id": "f1d77cbf03d4be27",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -783,6 +1534,20 @@
       "coletado_em": "2026-09-16T12:20:19-03:00"
     },
     {
+      "id": "7ec70af6910740c7",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Na China, Brasil avança em parceria estratégica em mercados de carbono e realiza agendas bilaterais com parceiros",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/na-china-brasil-avanca-em-parceria-estrategica-em-mercados-de-carbono-e-realiza-agendas-bilaterais-com-parceiros",
+      "resumo": "",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
       "id": "172536feb6d052ab",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -887,6 +1652,52 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "9a5a98024da38050",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Toma seu Careca, toma seu Vorcaro\": Jardim critica polarização",
+      "link": "https://www.congressoemfoco.com.br/noticia/122331/toma-seu-careca-toma-seu-vorcaro--jardim-critica-polarizacao",
+      "resumo": "Coordenador de mobilização de Caiado diz que ataques dominam campanha, vê eleição contaminada pela crise no STF e critica empobrecimento do debate político.",
+      "publicado_em": "2026-09-16T16:16:21-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "3eddc31e2592a2cc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vice-presidente da FPA cobra avanço na renegociação das dívidas rurais",
+      "link": "https://www.congressoemfoco.com.br/noticia/122330/vice-presidente-da-fpa-cobra-avanco-na-renegociacao-das-dividas-rurais",
+      "resumo": "Arnaldo Jardim afirma que medidas em vigor ainda não atendem produtores afetados por perdas de safra e defende reforço do seguro rural e retomada das negociações com o governo.",
+      "publicado_em": "2026-09-16T16:12:30-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "928bd632b761cd26",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Relator dos minerais críticos quer capital externo e indústria no país",
+      "link": "https://www.congressoemfoco.com.br/noticia/122329/relator-dos-minerais-criticos-quer-capital-externo-e-industria-no-pais",
+      "resumo": "Relator da nova lei defende investimentos de Estados Unidos, China e outros países, mas diz que o Brasil não pode se limitar a exportar commodities minerais e importar produtos de maior valor agregado.",
+      "publicado_em": "2026-09-16T16:02:40-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
     },
     {
       "id": "6e7bcd28674392db",
@@ -1236,7 +2047,7 @@
       "fonte_nome": "CNJ",
       "titulo": "CNJ destaca prevenção e liberdade de escolha em capacitação contra assédio eleitoral",
       "link": "https://www.cnj.jus.br/cnj-destaca-prevencao-e-liberdade-de-escolha-em-capacitacao-contra-assedio-eleitoral/",
-      "resumo": "O reconhecimento, a prevenção e o enfrentamento de situações de assédio eleitoral são abordados em minicurso gratuito sobre o tema oferecido pelo Conselho Nacional de Justiça (CNJ), nesta quarta-feira (16/9). Apesar de ter como principal objetivo capacitar servidores e servidoras do Poder Judiciário",
+      "resumo": "O reconhecimento, a prevenção e o enfrentamento de situações de assédio eleitoral são abordados em minicurso gratuito sobre o tema oferecido pelo Conselho Nacional de Justiça (CNJ) nesta quarta-feira (16/9). Apesar de ter como principal objetivo capacitar servidores e servidoras do Poder Judiciário,",
       "publicado_em": "2026-09-16T12:00:00-03:00",
       "dia": "2026-09-16",
       "data_estimada": true,
@@ -1245,6 +2056,50 @@
         "acao"
       ],
       "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "6d5776a38e9c8794",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Estados se mobilizam para implantar Agenda Justiça Juvenil no sistema socioeducativo",
+      "link": "https://www.cnj.jus.br/estados-se-mobilizam-para-implantar-agenda-justica-juvenil-no-sistema-socioeducativo/",
+      "resumo": "O Conselho Nacional de Justiça promove reuniões com representantes dos tribunais em cada unidade da federação para monitorar planos de ação da Agenda Justiça Juvenil, criada pelo CNJ para qualificar a atuação do Judiciário no sistema socioeducativo. O acompanhamento é conduzido pelo Departamento de ",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "443607b5f691c62c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prioriza armazenagem de hortifrutis em programas federais de infraestrutura",
+      "link": "https://www.camara.leg.br/noticias/1302605-projeto-prioriza-armazenagem-de-hortifrutis-em-programas-federais-de-infraestrutura",
+      "resumo": "",
+      "publicado_em": "2026-09-16T20:06:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "a478acc5b954db5d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei cria a Política Nacional de Minerais Críticos e Estratégicos",
+      "link": "https://www.camara.leg.br/noticias/1305164-nova-lei-cria-a-politica-nacional-de-minerais-criticos-e-estrategicos",
+      "resumo": "",
+      "publicado_em": "2026-09-16T19:50:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
     },
     {
       "id": "e084597f78b82ca2",
@@ -1418,6 +2273,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-16T12:20:19-03:00"
+    },
+    {
+      "id": "6a660e611c738057",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ECA Digital completa um ano e é marco na proteção de crianças e adolescentes na internet",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/eca-digital-completa-um-ano-e-e-marco-na-protecao-de-criancas-e-adolescentes-na-internet",
+      "resumo": "Lei abriu caminho para a ANPD regular e fiscalizar plataformas digitais para garantir segurança do público infantojuvenil na internet",
+      "publicado_em": "2026-09-16T20:27:59-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T12:26:20-03:00"
     },
     {
       "id": "5a962d5af6ecd456",
@@ -52139,51 +53008,6 @@
       "data_estimada": false,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "2c5dcc90381ce48c",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "PJe e sistemas de informática ficam indisponíveis neste domingo (21/6)",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pje-e-sistemas-de-tic-ficam-indisponiveis-neste-domingo-21-6",
-      "resumo": "",
-      "publicado_em": "2026-06-18T12:00:00-03:00",
-      "dia": "2026-06-18",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "4d3037553adef0eb",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Fórum de São Bernardo do Campo-SP sedia projeto “Circuito Indispensável TRT-2” da região do ABC paulista",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/forum-de-sao-bernardo-do-campo-sp-sedia-projeto-circuito-indispensavel-trt-2-da-regiao-do-abc-paulista",
-      "resumo": "",
-      "publicado_em": "2026-06-18T12:00:00-03:00",
-      "dia": "2026-06-18",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "355dc14d1f5e4557",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Trabalhador trans obtém rescisão indireta e indenização por desrespeito à identidade de gênero",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trabalhador-trans-obtem-rescisao-indireta-e-indenizacao-por-desrespeito-a-identidade-de-genero",
-      "resumo": "",
-      "publicado_em": "2026-06-18T12:00:00-03:00",
-      "dia": "2026-06-18",
-      "data_estimada": true,
-      "score": 56,
-      "tags": [
-        "indenizacao",
-        "acao"
-      ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
