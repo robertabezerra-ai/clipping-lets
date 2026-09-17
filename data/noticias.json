@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-17T12:26:20-03:00",
+  "gerado_em": "2026-09-17T14:48:52-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,7 +173,7 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 23,
+      "itens": 22,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -263,6 +263,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "9c050dc92aa2aead",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Café com Cejusc ocorre em Barueri na segunda-feira (21/9)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/cafe-com-cejusc-ocorre-em-barueri-na-segunda-feira-21-9",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
     },
     {
       "id": "dbfe66bbb03274ef",
@@ -343,6 +357,22 @@
       "coletado_em": "2026-09-17T12:26:20-03:00"
     },
     {
+      "id": "37f8c90ecf5bc3e6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado leva ao ComPública debate sobre combate à desinformação",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/17/senado-leva-ao-compublica-debate-sobre-combate-a-desinformacao",
+      "resumo": "",
+      "publicado_em": "2026-09-17T13:12:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
       "id": "a820215bc8c22145",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -420,6 +450,52 @@
       "coletado_em": "2026-09-17T12:26:20-03:00"
     },
     {
+      "id": "a9a8175b0ec59029",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende quase R$ 13 milhões em mercadorias irregulares em um único caminhão",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-apreende-quase-r-13-milhoes-em-mercadorias-irregulares-em-um-unico-caminhao",
+      "resumo": "",
+      "publicado_em": "2026-09-17T13:32:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
+      "id": "906e44cb295d14c9",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Fauna fitness: leão e raposa impressos em 3D escondiam medicamentos para emagrecer",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/fauna-fitness-leao-e-raposa-impressos-em-3d-escondiam-medicamentos-para-emagrecer",
+      "resumo": "",
+      "publicado_em": "2026-09-17T13:28:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
+      "id": "8fa851bb0690651e",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Aviso de Pauta: Força-Tarefa - Reforma Tributária",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/aviso-de-pauta-forca-tarefa-reforma-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:07:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
       "id": "31c8d33d89b46c0d",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -452,6 +528,20 @@
       "coletado_em": "2026-09-17T12:26:20-03:00"
     },
     {
+      "id": "4baf6d16f5f6d474",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "Novo acesso ao Regularize para representantes de empresas",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novo-acesso-ao-regularize-para-representantes-de-empresas",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
       "id": "6076ef60642a170b",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -468,6 +558,37 @@
       "coletado_em": "2026-09-17T12:26:20-03:00"
     },
     {
+      "id": "a63e24740f0b4179",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Ação das Ficcos mobiliza 20 unidades da Federação para apreensão de R$ 510 milhões e 137 presos",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acao-das-ficcos-mobiliza-20-unidades-da-federacao-para-apreensao-de-r-510-milhoes-e-137-presos",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 32,
+      "tags": [
+        "acao",
+        "apreensao"
+      ],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
+      "id": "2b802f6a97ae6190",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon notifica plataformas de transporte para esclarecimentos sobre atendimento a pessoas idosas e com deficiência",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-notifica-plataformas-de-transporte-para-esclarecimentos-sobre-atendimento-a-pessoas-idosas-e-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
       "id": "35c336fb5b083826",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -482,6 +603,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "a2e1ed6f34e5ca0d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Política de minerais críticos prevê rastreabilidade e agregação de valor",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/politica-de-minerais-criticos-preve-rastreabilidade-e-agregacao-de-valor-1",
+      "resumo": "",
+      "publicado_em": "2026-09-17T11:08:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
     },
     {
       "id": "4bc920f156c86644",
@@ -540,6 +677,86 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "a5fd95173d93b684",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Presidente da CVM participa de fórum em Nova York voltado para integridade, regulação, compliance e gestão de riscos nos mercados de ativos digitais",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/presidente-da-cvm-participa-de-forum-em-nova-york-voltado-para-integridade-regulacao-compliance-e-gestao-de-riscos-nos-mercados-de-ativos-digitais",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "compliance",
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
+      "id": "4a00ffd92a167da4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE rastreia Pix de sites que usam campanha de Flávio para dar golpes",
+      "link": "https://www.congressoemfoco.com.br/noticia/122366/tse-rastreia-pix-de-sites-que-usam-campanha-de-flavio-para-dar-golpes",
+      "resumo": "Corte apura cinco páginas apontadas pelo PL como falsos canais de arrecadação da campanha presidencial do senador.",
+      "publicado_em": "2026-09-17T13:58:42-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
+      "id": "ef978bdfa52669e8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Após quebra de sigilo por Mendonça, Senado teve 14 ações contra Moraes",
+      "link": "https://www.congressoemfoco.com.br/noticia/122363/apos-quebra-de-sigilo-por-mendonca-senado-teve-14-acoes-contra-moraes",
+      "resumo": "Sendo 13 pedidos de impeachment, dois foram protocolados por senadores e restante é de autoria de cidadãos.",
+      "publicado_em": "2026-09-17T13:08:22-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
+      "id": "7c45021ce94aa009",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Da legítima defesa da honra à Lei Mariana Ferrer",
+      "link": "https://www.congressoemfoco.com.br/artigo/122360/da-legitima-defesa-da-honra-a-lei-mariana-ferrer",
+      "resumo": "Há um tipo específico de violência que não deixa hematomas, mas deixa jurisprudência. Ela se manifesta em perguntas que não buscam fatos, mas submissão.",
+      "publicado_em": "2026-09-17T12:24:14-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
+      "id": "65fd75e9b3d729e2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin adia sessão do STF que julgaria atuação de Mendonça no Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122359/fachin-adia-sessao-do-stf-que-julgaria-atuacao-de-mendonca-no-master",
+      "resumo": "Nova data será definida após o Plenário decidir a questão de ordem sobre a tramitação dos processos do caso Master.",
+      "publicado_em": "2026-09-17T12:19:55-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "julga",
+        "adi",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
     },
     {
       "id": "6789279f2dff8e49",
@@ -602,6 +819,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "7a6b2fe1a702008e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Justiça, renúncias e rearranjos: os motivos das trocas de suplentes",
+      "link": "https://www.congressoemfoco.com.br/noticia/122354/justica-renuncias-e-rearranjos-os-motivos-das-trocas-de-suplentes",
+      "resumo": "Mudanças envolveram decisões judiciais, idade mínima, problemas de documentação e rearranjos políticos; em Mato Grosso, substituição provocou embate público.",
+      "publicado_em": "2026-09-17T11:08:14-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
     },
     {
       "id": "80ba3e57e3cbf646",
@@ -807,6 +1040,40 @@
         "acao"
       ],
       "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "4251093a5f7c0846",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJPI apresenta robô Soseverino para automatizar gestão de processos sobrestados",
+      "link": "https://www.cnj.jus.br/tjpi-apresenta-robo-soseverino-para-automatizar-gestao-de-processos-sobrestados/",
+      "resumo": "Dando mais um passo na modernização processual, a Vice-Presidência do Tribunal de Justiça do Piauí (TJPI) apresentou, na manhã desta segunda-feira (17), o robô Soseverino. A ferramenta — idealizada pelo Tribunal de Justiça do Rio Grande do Norte (TJRN) e implementada no Piauí via Acordo de Cooperaçã",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
+      "id": "d8c20e837375bd1e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ vai ao território Kalunga, em Goiás, para ouvir comunidade e ampliar acesso à Justiça",
+      "link": "https://www.cnj.jus.br/cnj-vai-ao-territorio-kalunga-em-goias-para-ouvir-comunidade-e-ampliar-acesso-a-justica/",
+      "resumo": "O território Kalunga, em Cavalcante (GO), receberá, nos dias 21 e 22 de setembro, a visita do Conselho Nacional de Justiça (CNJ), com programação que inclui inauguração de pontos de inclusão digital, articulação com a rede de proteção infantojuvenil e oitiva da comunidade. A ação, realizada em parce",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
     },
     {
       "id": "4693822867059d63",
@@ -1735,6 +2002,22 @@
       "coletado_em": "2026-09-16T19:29:52-03:00"
     },
     {
+      "id": "f36037c86ce459ab",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Na reta final, ao menos 16 candidatos ao Senado trocaram suplentes",
+      "link": "https://www.congressoemfoco.com.br/noticia/122325/na-reta-final-ao-menos-16-candidatos-ao-senado-trocaram-suplentes",
+      "resumo": "Mudanças ocorreram em ao menos oito Estados; prazo para substituições terminou em 14 de setembro. Veja as alterações nas chapas.",
+      "publicado_em": "2026-09-16T14:57:11-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
       "id": "8de6a36cb8746703",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2072,6 +2355,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "5f7e760a65471ecc",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Delegação de Timor-Leste conhece ações da Justiça brasileira de atenção à mulher",
+      "link": "https://www.cnj.jus.br/delegacao-de-timor-leste-conhece-acoes-da-justica-brasileira-de-atencao-a-mulher/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) e a Defensoria Pública da União (DPU) receberam, nesta quarta-feira (16/9), uma delegação da Defensoria Pública de Timor-Leste para ações de cooperação internacional bilateral. A reunião, realizada na sede do CNJ, em Brasília, foi conduzida pela conselheira do CN",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T14:48:52-03:00"
     },
     {
       "id": "443607b5f691c62c",
