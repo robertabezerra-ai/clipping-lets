@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-17T16:31:26-03:00",
+  "gerado_em": "2026-09-17T19:32:41-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -148,9 +148,9 @@
     },
     {
       "id": "tjsp",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.tjsp.jus.br', port=443): Read timed out. (read timeout=20)"
     },
     {
       "id": "pgfn",
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -279,6 +279,52 @@
       "coletado_em": "2026-09-17T14:48:52-03:00"
     },
     {
+      "id": "4d503b2cc29bb030",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 promove sua 1ª Jornada de Proteção de Dados Pessoais",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-promove-sua-1a-jornada-de-protecao-de-dados-pessoais",
+      "resumo": "TRT-15 promove sua 1ª Jornada de Proteção de Dados Pessoais anagatto Qui, 17/09/2026 - 17:22 TRT-15 promove sua 1ª Jornada de Proteção de Dados Pessoais Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora Ana Paula Pellegrina Lockmann, e o coordenador do C",
+      "publicado_em": "2026-09-17T17:22:04-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "7049423baa904ffb",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Justiça do Trabalho informa acesso indevido ao sistema Malote Digital",
+      "link": "https://trt15.jus.br/noticia/2026/justica-do-trabalho-informa-acesso-indevido-ao-sistema-malote-digital",
+      "resumo": "Justiça do Trabalho informa acesso indevido ao sistema Malote Digital marianaaassuncao Qui, 17/09/2026 - 16:43 Justiça do Trabalho informa acesso indevido ao sistema Malote Digital Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) e o Tribunal Superior do Trabalho (TST) informam ",
+      "publicado_em": "2026-09-17T16:43:20-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "439b503cf5910eaa",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 recebe visita de estudantes da Anhanguera e Univap",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-recebe-visita-de-estudantes-da-anhanguera-e-univap",
+      "resumo": "TRT-15 recebe visita de estudantes da Anhanguera e Univap anagatto Qui, 17/09/2026 - 16:26 TRT-15 recebe visita de estudantes da Anhanguera e Univap Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região recebeu, na tarde desta quarta-feira, 16/9, a visita de 78 estudantes do curso de Dir",
+      "publicado_em": "2026-09-17T16:26:29-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
       "id": "dbfe66bbb03274ef",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -347,6 +393,39 @@
       "coletado_em": "2026-09-17T16:31:26-03:00"
     },
     {
+      "id": "57d10f2aff25d829",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Regra que impede delegados de chefiar policiamento ostensivo no RJ é válida, decide STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/regra-que-impede-delegados-de-chefiar-policiamento-ostensivo-no-rj-e-valida-decide-stf/",
+      "resumo": "Por unanimidade, Plenário considerou que o estado pode definir regras específicas para a organização da Polícia Civil",
+      "publicado_em": "2026-09-17T17:50:29-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decide",
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "641b9c84eb208cc7",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF Escuta Territorializada ouve lideranças e estudantes indígenas na Bahia",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-escuta-territorializada-ouve-liderancas-e-estudantes-indigenas-na-bahia/",
+      "resumo": "Projeto da Ouvidoria da Corte ouviu, na UFBA, manifestações sobre proteção dos territórios, violência, acesso à Justiça, à saúde, à educação e enfrentamento do racismo e da discriminação",
+      "publicado_em": "2026-09-17T16:34:43-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
       "id": "6c2c369576198a1e",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -391,6 +470,50 @@
         "adi"
       ],
       "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "97ffee449e510079",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Importância do direito tributário é destacada em sessão especial",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/17/importancia-do-direito-tributario-e-destacada-em-sessao-especial",
+      "resumo": "",
+      "publicado_em": "2026-09-17T18:37:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "tributario"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "51adf87f522fdd0e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Dia de Luta da Pessoa com Deficiência será tema de sessão especial",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/dia-da-luta-da-pessoa-com-deficiencia-sera-tema-de-sessao-especial",
+      "resumo": "",
+      "publicado_em": "2026-09-17T17:27:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "ab4db4f89c6d384f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Governo terá que cortar despesas para fechar as contas em 2027, diz IFI",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/17/governo-tera-que-cortar-despesas-para-fechar-as-contas-em-2027-diz-ifi",
+      "resumo": "",
+      "publicado_em": "2026-09-17T17:27:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
     },
     {
       "id": "37f8c90ecf5bc3e6",
@@ -641,6 +764,110 @@
       "coletado_em": "2026-09-17T16:31:26-03:00"
     },
     {
+      "id": "ba61698def0ec582",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP e governo do RJ avançam para nova fase de ações integradas nos corredores logísticos",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-governo-do-rj-avancam-para-nova-fase-de-acoes-integradas-nos-corredores-logisticos",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "6e5ffe7ff4826f30",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação Segunda Chamada fiscaliza 241 estabelecimentos em 15 estados para combater comércio irregular de celulares",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-segunda-chamada-fiscaliza-241-estabelecimentos-em-15-estados-para-combater-comercio-irregular-de-celulares-1",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "38a2820ae88afeba",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Escola Nacional de Segurança Pública capacita 90 profissionais para combate ao crime organizado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-capacita-90-profissionais-para-combate-ao-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "c831d6280ff64cf3",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Embrapa participa de missão na China em busca de cooperação científica na agricultura",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/embrapa-participa-de-missao-na-china-em-busca-de-cooperacao-cientifica-e-agenda-no-wafi-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-17T18:30:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "77540578bc2b3603",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polícia Federal  restitui 164 publicações históricas à Fundação Biblioteca Nacional",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-restitui-164-publicacoes-historias-a-fundacao-biblioteca-nacional",
+      "resumo": "",
+      "publicado_em": "2026-09-17T18:20:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "1eec5ee1b8d8ea2d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "ECA Digital completa um ano e estabelece maior proteção para crianças e adolescentes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/1-ano-de-eca-digital-o-que-mudou-para-criancas-e-adolescentes",
+      "resumo": "",
+      "publicado_em": "2026-09-17T18:15:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "2ec105ebf238fde7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ceará apresenta forte potencial de lítio na província de Solonópole, diz pesquisa",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/sgb-divulga-dados-sobre-o-potencial-de-litio-na-provincia-pegmatitica-de-solonopole-ce-sgb",
+      "resumo": "",
+      "publicado_em": "2026-09-17T17:34:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
       "id": "c90f1ba8205cf3a1",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -762,6 +989,130 @@
       "coletado_em": "2026-09-17T14:48:52-03:00"
     },
     {
+      "id": "299f3dc8110c4227",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zohran Mamdani convida Lula para reunião durante visita a Nova York",
+      "link": "https://www.congressoemfoco.com.br/noticia/122379/zohran-mamdani-convida-lula-para-reuniao-durante-visita-a-nova-york",
+      "resumo": "Prefeito e presidente brasileiro compartilham críticas a políticas de Trump e posições semelhantes em temas internacionais.",
+      "publicado_em": "2026-09-17T19:15:39-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "1ae8712dd580efb2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula diz que Pazuello \"sabia de tudo, menos de SUS\" na pandemia",
+      "link": "https://www.congressoemfoco.com.br/noticia/122378/lula-diz-que-pazuello-sabia-de-tudo-menos-de-sus-na-pandemia",
+      "resumo": "Presidente atribuiu o número elevado de mortes à gestão do Ministério da Saúde no governo Bolsonaro.",
+      "publicado_em": "2026-09-17T18:14:33-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "fce29c59833f6da1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eduardo diz que EUA podem intervir caso STF anule eleição de Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/122377/eduardo-diz-que-eua-podem-intervir-caso-stf-anule-eleicao-de-flavio",
+      "resumo": "Ex-deputado disse ter alertado integrantes do governo Trump sobre suposto risco.",
+      "publicado_em": "2026-09-17T17:57:08-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "d8b3cbbfe60ee0ce",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "André Mendonça relatará ação contra Lula por reajuste do Bolsa Família",
+      "link": "https://www.congressoemfoco.com.br/noticia/122376/andre-mendonca-relatara-acao-contra-lula-por-reajuste-do-bolsa-familia",
+      "resumo": "Representação foi protocolada pelo deputado Zé Trovão, que alega prática de conduta vedada em ano eleitoral.",
+      "publicado_em": "2026-09-17T17:27:47-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "e4a1985de56ba984",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bibo Nunes defende proibição de wind banners em campanhas eleitorais",
+      "link": "https://www.congressoemfoco.com.br/noticia/122375/bibo-nunes-defende-proibicao-de-wind-banners-em-campanhas-eleitorais",
+      "resumo": "Deputado argumenta que uso das estruturas provoca problemas de ordenamento urbano e dificulta a fiscalização eleitoral.",
+      "publicado_em": "2026-09-17T17:26:43-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "3ddb464f43e8556a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado estadual em SC homenageia PMs que agrediram candidata do PT",
+      "link": "https://www.congressoemfoco.com.br/noticia/122374/deputado-estadual-em-sc-homenageia-pms-que-agrediram-candidata-do-pt",
+      "resumo": "Deputado apresentou moção de aplausos aos agentes e afirmou que eleitores de esquerda esquerda não deveriam viver em Santa Catarina.",
+      "publicado_em": "2026-09-17T16:52:47-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "2769f21617d15fd2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Candidato a deputado tem pé de maconha apreendido após protesto em MG",
+      "link": "https://www.congressoemfoco.com.br/noticia/122373/candidato-a-deputado-tem-pe-de-maconha-apreendido-apos-protesto-em-mg",
+      "resumo": "Planta possui registro e foi utilizada em ato política de defesa à legalização.",
+      "publicado_em": "2026-09-17T16:36:58-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "f8967b563232f43e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula diz que Mendonça \"fez política\" com relatoria do caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122372/lula-diz-que-mendonca-fez-politica-com-relatoria-do-caso-master",
+      "resumo": "Presidente defendeu que a apuração revele quem participou das orgias de Vorcaro e do esquema de fraudes.",
+      "publicado_em": "2026-09-17T16:16:24-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
       "id": "78d894ab717240d0",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -781,7 +1132,7 @@
       "fonte_nome": "Congresso em Foco",
       "titulo": "TSE indefere candidatura do ex-governador Edilson Damião à Câmara",
       "link": "https://www.congressoemfoco.com.br/noticia/122370/tse-indefere-candidatura-do-ex-governador-edilson-damiao-a-camara",
-      "resumo": "Ministro Ricardo Villas Bôas Cueva entendeu que o registro possui irregularidades no período de desimcompatibilização.",
+      "resumo": "Ministro Ricardo Villas Bôas Cueva entendeu que o registro possui irregularidades no período de desincompatibilização.",
       "publicado_em": "2026-09-17T15:05:58-03:00",
       "dia": "2026-09-17",
       "data_estimada": false,
@@ -1260,6 +1611,64 @@
         "acordao"
       ],
       "coletado_em": "2026-09-17T16:31:26-03:00"
+    },
+    {
+      "id": "a47b343387b444bc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Proposta assegura CNH definitiva a quem cometer apenas infrações administrativas",
+      "link": "https://www.camara.leg.br/noticias/1305252-proposta-assegura-cnh-definitiva-a-quem-cometer-apenas-infracoes-administrativas",
+      "resumo": "",
+      "publicado_em": "2026-09-17T18:39:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "09c1045a7feaaffe",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto isenta de carência a concessão de salário-maternidade pelo INSS",
+      "link": "https://www.camara.leg.br/noticias/1305238-projeto-isenta-de-carencia-a-concessao-de-salario-maternidade-pelo-inss",
+      "resumo": "",
+      "publicado_em": "2026-09-17T17:39:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "272d00d1c25fd197",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto isenta rádios de punição por interferência de sinal",
+      "link": "https://www.camara.leg.br/noticias/1305293-projeto-isenta-radios-de-punicao-por-interferencia-de-sinal",
+      "resumo": "",
+      "publicado_em": "2026-09-17T15:44:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
+    },
+    {
+      "id": "55bcc485d9e8ab06",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe empréstimos consignados para pessoas idosas sem assinatura presencial",
+      "link": "https://www.camara.leg.br/noticias/1303891-projeto-proibe-emprestimos-consignados-para-pessoas-idosas-sem-assinatura-presencial",
+      "resumo": "",
+      "publicado_em": "2026-09-17T14:48:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T19:32:41-03:00"
     },
     {
       "id": "4693822867059d63",
@@ -6239,20 +6648,6 @@
       "coletado_em": "2026-09-14T15:56:43-03:00"
     },
     {
-      "id": "45981ccf8647edc3",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "DEJT tem funcionamento normalizado",
-      "link": "https://trt15.jus.br/noticia/2026/dejt-tem-funcionamento-normalizado",
-      "resumo": "DEJT tem funcionamento normalizado anasiqueira Dom, 13/09/2026 - 19:50 DEJT tem funcionamento normalizado Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) comunica que o funcionamento do Diário Eletrônico da Justiça do Trabalho (DEJT) foi restabelecido e o serviço já  está dispo",
-      "publicado_em": "2026-09-13T19:50:18-03:00",
-      "dia": "2026-09-13",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-07T13:20:01-03:00"
-    },
-    {
       "id": "d164fc18dc7a16e4",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -6406,6 +6801,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-14T13:47:26-03:00"
+    },
+    {
+      "id": "117f3c14fc7bf98b",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "2ª Câmara afasta pagamento de intervalo de digitador a caixa bancária após alteração da cláusula coletiva",
+      "link": "https://trt15.jus.br/noticia/2026/2a-camara-afasta-pagamento-de-intervalo-de-digitador-caixa-bancaria-apos-alteracao-da",
+      "resumo": "2ª Câmara afasta pagamento de intervalo de digitador a caixa bancária após alteração da cláusula coletiva anagatto Sáb, 12/09/2026 - 11:12 2ª Câmara afasta pagamento de intervalo de digitador a caixa bancária após alteração da cláusula coletiva Conteúdo da Notícia A 2ª Câmara do Tribunal Regional do",
+      "publicado_em": "2026-09-12T11:12:45-03:00",
+      "dia": "2026-09-12",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-08-31T14:57:26-03:00"
     },
     {
       "id": "c15c34d003df71bd",
@@ -6635,6 +7046,20 @@
         "trabalhista"
       ],
       "coletado_em": "2026-09-11T19:06:40-03:00"
+    },
+    {
+      "id": "45981ccf8647edc3",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "DEJT tem funcionamento normalizado",
+      "link": "https://trt15.jus.br/noticia/2026/dejt-tem-funcionamento-normalizado",
+      "resumo": "DEJT tem funcionamento normalizado anasiqueira Sex, 11/09/2026 - 19:50 DEJT tem funcionamento normalizado Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) comunica que o funcionamento do Diário Eletrônico da Justiça do Trabalho (DEJT) foi restabelecido e o serviço já  está dispo",
+      "publicado_em": "2026-09-11T19:50:18-03:00",
+      "dia": "2026-09-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-07T13:20:01-03:00"
     },
     {
       "id": "e2aee64bcb10c7a2",
@@ -8654,22 +9079,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-10T19:06:43-03:00"
-    },
-    {
-      "id": "117f3c14fc7bf98b",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "2ª Câmara afasta pagamento de intervalo de digitador a caixa bancária após alteração da cláusula coletiva",
-      "link": "https://trt15.jus.br/noticia/2026/2a-camara-afasta-pagamento-de-intervalo-de-digitador-caixa-bancaria-apos-alteracao-da",
-      "resumo": "2ª Câmara afasta pagamento de intervalo de digitador a caixa bancária após alteração da cláusula coletiva anagatto Qui, 10/09/2026 - 11:12 2ª Câmara afasta pagamento de intervalo de digitador a caixa bancária após alteração da cláusula coletiva Conteúdo da Notícia A 2ª Câmara do Tribunal Regional do",
-      "publicado_em": "2026-09-10T11:12:45-03:00",
-      "dia": "2026-09-10",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-31T14:57:26-03:00"
     },
     {
       "id": "ca3e38450dcc0dab",
