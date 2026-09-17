@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-17T14:48:52-03:00",
+  "gerado_em": "2026-09-17T16:31:26-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@ window.DADOS = {
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -309,6 +309,42 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-17T12:26:20-03:00"
+    },
+    {
+      "id": "22f4b825038bbd64",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Sesc Consolação homenageia Paulo Bomfim com evento cultural no Teatro Anchieta",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115343&pagina=1",
+      "resumo": "Noite Poética integra comemorações ao centenário do poeta.\n \n\tO Tribunal de Justiça de São Paulo continua com as comemorações do centenário de nascimento de Paulo Bomfim,",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 10,
+      "tags": [
+        "acao",
+        "homenageia",
+        "comemora"
+      ],
+      "coletado_em": "2026-09-17T16:31:26-03:00"
+    },
+    {
+      "id": "9ebf7f6ded36e6d8",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Clube de futebol indenizará torcedor atingido por placa metálica em estádio",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115345&pagina=1",
+      "resumo": "Acidente causou fraturas e afastamento do trabalho.\n \n\tA 34ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve decisão da 9ª Vara",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "decisao",
+        "indenizar",
+        "adi"
+      ],
+      "coletado_em": "2026-09-17T16:31:26-03:00"
     },
     {
       "id": "6c2c369576198a1e",
@@ -589,6 +625,36 @@ window.DADOS = {
       "coletado_em": "2026-09-17T14:48:52-03:00"
     },
     {
+      "id": "7bb2eb3ee9527650",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senad divulga alerta sobre identificação de substâncias análogas à cetamina em amostras de saliva",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-divulga-alerta-sobre-identificacao-de-substancias-analogas-a-cetamina-em-amostras-de-saliva",
+      "resumo": "",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T16:31:26-03:00"
+    },
+    {
+      "id": "c90f1ba8205cf3a1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Inca oferece mestrado em Saúde Coletiva e Controle do Câncer. Inscrições até o dia 30",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/inscricoes-abertas-para-o-mestrado-profissional-em-saude-coletiva-e-controle-do-cancer-do-inca",
+      "resumo": "",
+      "publicado_em": "2026-09-17T14:31:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T16:31:26-03:00"
+    },
+    {
       "id": "35c336fb5b083826",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -696,6 +762,82 @@ window.DADOS = {
       "coletado_em": "2026-09-17T14:48:52-03:00"
     },
     {
+      "id": "78d894ab717240d0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Trio elétrico capota e candidata a deputada federal fratura maxilar",
+      "link": "https://www.congressoemfoco.com.br/noticia/122371/trio-eletrico-capota-e-candidata-a-deputada-federal-fratura-maxilar",
+      "resumo": "Maria Yvelônia permanece no hospital para mais exames.",
+      "publicado_em": "2026-09-17T15:52:53-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T16:31:26-03:00"
+    },
+    {
+      "id": "97bf82aac90a6083",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE indefere candidatura do ex-governador Edilson Damião à Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/122370/tse-indefere-candidatura-do-ex-governador-edilson-damiao-a-camara",
+      "resumo": "Ministro Ricardo Villas Bôas Cueva entendeu que o registro possui irregularidades no período de desimcompatibilização.",
+      "publicado_em": "2026-09-17T15:05:58-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T16:31:26-03:00"
+    },
+    {
+      "id": "3b6641a91a0a51df",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino divulga ofício que pede apuração de ministros no caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122369/dino-divulga-oficio-que-pede-apuracao-de-ministros-no-caso-master",
+      "resumo": "Ministro apresentou íntegra da questão de ordem em suas redes sociais e retomou cobrança por investigação ampla na Corte.",
+      "publicado_em": "2026-09-17T14:48:41-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T16:31:26-03:00"
+    },
+    {
+      "id": "ce7c8fb3f6f1976a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino manda investigar cemitérios e aciona Fachin por menção a Mendonça",
+      "link": "https://www.congressoemfoco.com.br/noticia/122368/dino-manda-investigar-cemiterios-e-aciona-fachin-por-mencao-a-mendonca",
+      "resumo": "Ministro manda apurar relações do Master com concessionárias de cemitérios de São Paulo, veta atos da PF contra André Mendonça e comunica Fachin para que avalie eventuais providências sobre a atuação do colega.",
+      "publicado_em": "2026-09-17T14:30:23-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-17T16:31:26-03:00"
+    },
+    {
+      "id": "133d7bcf9a6c55ef",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sebastião Coelho critica \"dancinhas\" de Michelle e escolha de suplente",
+      "link": "https://www.congressoemfoco.com.br/noticia/122367/sebastiao-coelho-critica-dancinhas-de-michelle-e-escolha-de-suplente",
+      "resumo": "Candidato critica estratégia eleitoral de Michelle e acusa adversária de agir contra sua candidatura.",
+      "publicado_em": "2026-09-17T14:23:28-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T16:31:26-03:00"
+    },
+    {
       "id": "4a00ffd92a167da4",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -724,6 +866,34 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
+      "id": "6d5634a63951e432",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado cobra atenção a pescadores que vivem nos \"rincões do Brasil\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122362/deputado-cobra-atencao-a-pescadores-que-vivem-nos-rincoes-do-brasil",
+      "resumo": "Raimundo Costa é o único parlamentar com origem na pesca artesanal.",
+      "publicado_em": "2026-09-17T12:53:19-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T16:31:26-03:00"
+    },
+    {
+      "id": "b85f0405b3e7e7d4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Pescadores precisam ter garantia de negócio\", defende Raimundo Costa",
+      "link": "https://www.congressoemfoco.com.br/noticia/122361/pescadores-precisam-ter-garantia-de-negocio--defende-raimundo-costa",
+      "resumo": "Deputado destaca avanços em direitos, mas critica falta de apoio econômico ao setor.",
+      "publicado_em": "2026-09-17T12:46:16-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-17T16:31:26-03:00"
     },
     {
       "id": "7c45021ce94aa009",
@@ -1074,6 +1244,22 @@ window.DADOS = {
         "visita"
       ],
       "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
+      "id": "a30baa5fa1def7c0",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Meio ambiente: concurso de decisões judiciais recebe inscrições até domingo (20/9)",
+      "link": "https://www.cnj.jus.br/meio-ambiente-concurso-de-decisoes-judiciais-recebe-inscricoes-ate-domingo-20-9/",
+      "resumo": "As inscrições de decisões que tenham tido como base a proteção e promoção do direito ao meio ambiente ecologicamente equilibrado terminam no próximo dia 20 de setembro. As peças serão avaliadas no II Concurso Nacional de Decisões Interlocutórias, Sentenças e Acórdãos sobre Meio Ambiente, promovido p",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "acordao"
+      ],
+      "coletado_em": "2026-09-17T16:31:26-03:00"
     },
     {
       "id": "4693822867059d63",
@@ -1730,7 +1916,7 @@ window.DADOS = {
       "id": "9be540436b4bad5e",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Veja quais condutas de passageiros são consideradas indisciplina em voo na nova regra da Anac",
+      "titulo": "Veja quais condutas de passageiros são consideradas indisciplina em voo na nova regra",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/comeca-a-vigorar-norma-que-responsabiliza-passageiros-indisciplinados",
       "resumo": "",
       "publicado_em": "2026-09-16T11:30:00-03:00",
