@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-18T14:20:50-03:00",
+  "gerado_em": "2026-09-18T15:51:33-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -340,6 +340,22 @@
       "coletado_em": "2026-09-18T14:20:50-03:00"
     },
     {
+      "id": "22949fd4c3668a2b",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Boas Práticas: Justiça recebe estudantes para atividades pedagógicas",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115350&pagina=1",
+      "resumo": "Visitas aproximam jovens do Poder Judiciário.\n \n\tOs fóruns de Osasco e São Manuel realizaram, na última semana, atividades educativas com crianças e adolescentes. Os jovens",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-18T15:51:33-03:00"
+    },
+    {
       "id": "50dde6da508301f6",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -382,6 +398,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "88c8249c0b7bbb79",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei proíbe prisão de candidatos e eleitores durante período de votação",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/18/lei-proibe-prisao-de-candidatos-e-eleitores-durante-periodo-eleitoral",
+      "resumo": "",
+      "publicado_em": "2026-09-18T15:01:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T15:51:33-03:00"
     },
     {
       "id": "6f5de633679756cf",
@@ -520,12 +552,44 @@
       "titulo": "Comparecimento às urnas vale como Prova de Vida automática no INSS",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/comparecimento-as-urnas-vale-como-prova-de-vida-automatica-no-inss",
       "resumo": "",
-      "publicado_em": "2026-09-18T11:46:00-03:00",
+      "publicado_em": "2026-09-18T15:20:00-03:00",
       "dia": "2026-09-18",
       "data_estimada": false,
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "8dfa18f6290dc372",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Construído no Brasil, navio afretado pela Petrobras ganha o mar com tripulação 100% feminina",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/primeiro-navio-afretado-pela-petrobras-entregue-no-programa-mar-aberto-e-batizado-no-rio-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-09-18T15:20:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T15:51:33-03:00"
+    },
+    {
+      "id": "f65950e4fdf4a783",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Doação de medula óssea traz esperança e vida. Conheça histórias e saiba como doar",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/doacao-de-medula-ossea-e-esperanca-no-tratamento-de-doencas-graves-do-sangue",
+      "resumo": "",
+      "publicado_em": "2026-09-18T13:24:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T15:51:33-03:00"
     },
     {
       "id": "22e3e235fe6e14ac",
@@ -574,6 +638,48 @@
       "coletado_em": "2026-09-18T14:20:50-03:00"
     },
     {
+      "id": "4b32e99768c328fc",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "PGFN divulga nova forma de acesso ao Regularize para representantes de empresas",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/pgfn-divulga-nova-forma-de-acesso-ao-regularize-para-representantes-de-empresas",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T15:51:33-03:00"
+    },
+    {
+      "id": "63eb9452733ce9a4",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Presidente Otto Lobo e Diretor Igor Muniz são apresentados ao mercado em cerimônia na sede da CVM",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/presidente-otto-lobo-e-diretor-igor-muniz-sao-apresentados-ao-mercado-em-cerimonia-na-sede-da-cvm",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T15:51:33-03:00"
+    },
+    {
+      "id": "2d2ac124b0a62c09",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula já disse que futebol viveu \"um século e meio sem as bets\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122410/lula-ja-disse-que-futebol-viveu-um-seculo-e-meio-sem-as-bets",
+      "resumo": "Em entrevista concedida em abril, presidente questionou os benefícios das plataformas e defendeu reduzir a presença delas no país.",
+      "publicado_em": "2026-09-18T14:01:47-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T15:51:33-03:00"
+    },
+    {
       "id": "06b459c6456d2fe0",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -592,6 +698,22 @@
       "coletado_em": "2026-09-18T14:20:50-03:00"
     },
     {
+      "id": "136fc344e5269669",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula diz que tem deputado comandando RJ e que \"manda soltar bandido\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122407/lula-diz-que-tem-deputado-comandando-rj-e-que-manda-soltar-bandido",
+      "resumo": "Presidente não citou nomes nem esclareceu se declaração se refere à esfera estadual ou federal.",
+      "publicado_em": "2026-09-18T13:18:29-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T15:51:33-03:00"
+    },
+    {
       "id": "bb8df170f29ae523",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -604,6 +726,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "e503375d850aad11",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A eleição que se confere em público",
+      "link": "https://www.congressoemfoco.com.br/artigo/122404/a-eleicao-que-se-confere-em-publico",
+      "resumo": "Quando ouvirem que \"não se pode auditar a urna\", saibam que o contrário é verdade, pois o sistema eleitoral brasileiro foi aberto, atacado por especialistas independentes, corrigido e retestado.",
+      "publicado_em": "2026-09-18T12:54:26-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T15:51:33-03:00"
     },
     {
       "id": "b8eedd6b94ece822",
@@ -880,6 +1016,34 @@
         "processo"
       ],
       "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "356807e01693e47b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê ações para combate à evasão de mães do ensino superior",
+      "link": "https://www.camara.leg.br/noticias/1303518-projeto-preve-acoes-para-combate-a-evasao-de-maes-do-ensino-superior",
+      "resumo": "",
+      "publicado_em": "2026-09-18T15:44:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T15:51:33-03:00"
+    },
+    {
+      "id": "805fb8465d17a7be",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria regras para gratuidade de justiça a produtores rurais",
+      "link": "https://www.camara.leg.br/noticias/1303762-projeto-cria-regras-para-gratuidade-de-justica-a-produtores-rurais",
+      "resumo": "",
+      "publicado_em": "2026-09-18T14:34:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T15:51:33-03:00"
     },
     {
       "id": "98128e8f8d8ba646",
@@ -1532,7 +1696,7 @@
       "id": "6e5ffe7ff4826f30",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
-      "titulo": "Operação Segunda Chamada fiscaliza 241 estabelecimentos em 15 estados para combater comércio irregular de celulares",
+      "titulo": "Operação Última Chamada fiscaliza 241 estabelecimentos em 15 estados para combater comércio irregular de celulares",
       "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-segunda-chamada-fiscaliza-241-estabelecimentos-em-15-estados-para-combater-comercio-irregular-de-celulares-1",
       "resumo": "",
       "publicado_em": "2026-09-17T12:00:00-03:00",
@@ -1562,7 +1726,7 @@
       "id": "07d5d4eef7ecad58",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Cartilha da Anvisa orienta sobre o uso correto dos fitoterápicos",
+      "titulo": "Cartilha da Anvisa orienta sobre o uso correto de produtos fitoterápicos",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/anvisa-publica-cartilha-e-folder-atualizados-sobre-o-uso-de-fitoterapicos",
       "resumo": "",
       "publicado_em": "2026-09-17T21:49:00-03:00",
