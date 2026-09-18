@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-18T11:47:42-03:00",
+  "gerado_em": "2026-09-18T14:20:50-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
@@ -265,6 +265,97 @@ window.DADOS = {
       "coletado_em": "2026-09-18T11:47:42-03:00"
     },
     {
+      "id": "3f4de401dba8186c",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça do Trabalho informa acesso indevido ao sistema Malote Digital",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-do-trabalho-informa-acesso-indevido-ao-sistema-malote-digital",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "4f492fa12261e6df",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "9ª Câmara afasta vínculo de emprego entre motoboy e estabelecimento comercial",
+      "link": "https://trt15.jus.br/noticia/2026/9a-camara-afasta-vinculo-de-emprego-entre-motoboy-e-estabelecimento-comercial",
+      "resumo": "9ª Câmara afasta vínculo de emprego entre motoboy e estabelecimento comercial anagatto Sex, 18/09/2026 - 12:50 9ª Câmara afasta vínculo de emprego entre motoboy e estabelecimento comercial Conteúdo da Notícia A 9ª Câmara do Tribunal Regional do Trabalho da 15ª Região concluiu que não houve vínculo d",
+      "publicado_em": "2026-09-18T12:50:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "43f4f91589c87bca",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Comissão Regional de Soluções Fundiárias se reúne para discutir plano de desocupação na zona leste da Capital",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115353&pagina=1",
+      "resumo": "Construção coletiva para garantir a segurança de todos.\n \n\tA Comissão Regional de Soluções Fundiárias, presidida pelo juiz Rodrigo Tellini de Camargo, realizou, ontem (17) reunião no",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "a118cf64d8777546",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Universidade deve restabelecer matrícula de aluno cotista",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115354&pagina=1",
+      "resumo": "Instituição questionava autodeclaração. \n \n\tA 10ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve a decisão da 15ª Vara da Fazenda Pública",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "4c118212de0f2616",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Justiça de Itatiba abre inscrições para interessados em atuar nos Tribunais do Júri da comarca",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115356&pagina=1",
+      "resumo": "Cadastro até 2/10.\n \n\tA Justiça de Itatiba está com inscrições abertas para voluntários que queiram atuar como jurados nos Tribunais do Júri da comarca. Os",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "50dde6da508301f6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Divulgado cronograma de audiência pública sobre responsabilidade de parlamentares em emendas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/divulgado-cronograma-de-audiencia-publica-sobre-responsabilidade-de-parlamentares-em-emendas/",
+      "resumo": "Debate será realizado na próxima terça (22) e contará com representantes do Congresso, de órgãos de controle, da academia e da sociedade civil",
+      "publicado_em": "2026-09-18T12:49:57-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
       "id": "349b7e8e06ba034c",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -293,6 +384,92 @@ window.DADOS = {
       "coletado_em": "2026-09-18T11:47:42-03:00"
     },
     {
+      "id": "6f5de633679756cf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Há 80 anos, Constituição de 1946 marcou retomada democrática no Brasil",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/ha-80-anos-constituicao-de-1946-marcou-retomada-democratica-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:44:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "f24c8ccf18c6be98",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAS vota projeto da vacina contra herpes-zóster em turno suplementar",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/cas-vota-projeto-da-vacina-contra-herpes-zoster-em-turno-suplementar",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:15:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "874790887090f2b1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Urna eletrônica registra cada voto de forma individual",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/urna-eletronica-registra-cada-voto-de-forma-individual",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:11:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "4a506c90d99fdee3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Parlamentares apresentam 37 emendas à medida provisória que barateia diesel",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/parlamentares-apresentam-37-emendas-a-medida-provisoria-que-barateia-diesel",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:07:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "3415a0f509fc9a29",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Presos provisórios votam pela última vez em 2026",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/presos-provisorios-votam-pela-ultima-vez-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:06:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "aadd9165a4dd919d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Justiça Eleitoral prepara urnas para eleições de 2026",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/justica-eleitoral-prepara-urnas-para-eleicoes-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:05:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
       "id": "253095df4922ca76",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -307,10 +484,54 @@ window.DADOS = {
       "coletado_em": "2026-09-18T11:47:42-03:00"
     },
     {
+      "id": "347c63fcc26039eb",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Copa do Mundo Feminina 2027: MJSP regulamenta residência para trabalhadores imigrantes",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/copa-do-mundo-feminina-2027-mjsp-regulamenta-residencia-para-trabalhadores-imigrantes",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "44da8e427358bcae",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "ECA Digital completa um ano e MJSP consolida ações de enfrentamento à violência contra crianças e adolescentes na internet",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/eca-digital-completa-um-ano-e-mjsp-consolida-acoes-de-enfrentamento-a-violencia-contra-criancas-e-adolescentes-na-internet",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "d130a519f441b703",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Comparecimento às urnas vale como Prova de Vida automática no INSS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/comparecimento-as-urnas-vale-como-prova-de-vida-automatica-no-inss",
+      "resumo": "",
+      "publicado_em": "2026-09-18T11:46:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
       "id": "22e3e235fe6e14ac",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Cartilha da redação do Enem está disponível",
+      "titulo": "Cartilha da redação do Enem 2026 está disponível. Confira",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/enem-2026-cartilha-da-redacao-esta-disponivel-1",
       "resumo": "",
       "publicado_em": "2026-09-18T10:52:00-03:00",
@@ -321,6 +542,142 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "fd7dd939d7ca69e2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polícia Federal incinera 10 toneladas de drogas apreendidas na região da Tríplice Fronteira",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-realiza-operacao-para-incinerar-mais-de-10-toneladas-de-drogas",
+      "resumo": "",
+      "publicado_em": "2026-09-18T10:35:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "droga"
+      ],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "4ee63f39fab77343",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Finep publica chamada para impulsionar soluções tecnológicas na economia solidária",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/finep-publica-chamada-de-r-100-milhoes-para-impulsionar-solucoes-tecnologicas-na-economia-solidaria",
+      "resumo": "",
+      "publicado_em": "2026-09-18T02:01:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "06b459c6456d2fe0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "BC anuncia novas regras de funcionamento do Pix; veja o que muda",
+      "link": "https://www.congressoemfoco.com.br/noticia/122408/bc-anuncia-novas-regras-de-funcionamento-do-pix-veja-o-que-muda",
+      "resumo": "Autoridade financeira atualizou regulamentação do sistema Pix, com novas políticas de segurança para transações.",
+      "publicado_em": "2026-09-18T13:37:18-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 74,
+      "tags": [
+        "regulamenta",
+        "novas regras",
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "bb8df170f29ae523",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem fez o terrorismo criticado por Trump foi o Bolsonaro, diz Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/122405/quem-fez-o-terrorismo-criticado-por-trump-foi-o-bolsonaro-diz-lula",
+      "resumo": "Presidente declarou não concordar com enquadramento de facções no modelo de terrorismo de Trump.",
+      "publicado_em": "2026-09-18T13:08:56-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "b8eedd6b94ece822",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Rico Melquiades se retrata após ameaça de demitir funcionária petista",
+      "link": "https://www.congressoemfoco.com.br/noticia/122403/rico-melquiades-se-retrata-apos-ameaca-de-demitir-funcionaria-petista",
+      "resumo": "Influenciador pediu desculpas aos trabalhadores e afirmou que ninguém deve sofrer coação política no ambiente de trabalho.",
+      "publicado_em": "2026-09-18T12:47:58-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "690e27a38195d78e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A crise das Casas Bahia tem rostos, famílias e histórias",
+      "link": "https://www.congressoemfoco.com.br/artigo/122400/a-crise-das-casas-bahia-tem-rostos-familias-e-historias",
+      "resumo": "Relatos de mais de 200 trabalhadores revelam o impacto das demissões na vida de famílias que ainda aguardam seus direitos.",
+      "publicado_em": "2026-09-18T12:01:10-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "496dc3b562726462",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula conta ter negado ajuda a Vorcaro: \"aqui ninguém é perseguido\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122399/lula-conta-ter-negado-ajuda-a-vorcaro--aqui-ninguem-e-perseguido",
+      "resumo": "Presidente disse ter respondido que o governo investigaria a situação.",
+      "publicado_em": "2026-09-18T11:40:46-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "0f5d9a77d9505082",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula ironiza R$ 10 mil a prostituta no Master: \"faltou Desenrola\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122396/lula-ironiza-r-10-mil-a-prostituta-no-master--faltou-desenrola",
+      "resumo": "Sem citar nomes, presidente afirmou que um \"cidadão\" mandou o banco pagar serviço.",
+      "publicado_em": "2026-09-18T11:20:12-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "045861033b41da87",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Empreendedorismo feminino também é política de enfrentamento",
+      "link": "https://www.congressoemfoco.com.br/artigo/122395/empreendedorismo-feminino-tambem-e-politica-de-enfrentamento",
+      "resumo": "Romper ciclos de violência exige mais do que proteção: exige renda, cuidado e condições concretas para que as mulheres possam escolher e reconstruir suas vidas.",
+      "publicado_em": "2026-09-18T11:06:54-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
     },
     {
       "id": "5cb49ba3da41d66a",
@@ -476,6 +833,95 @@ window.DADOS = {
         "portaria"
       ],
       "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "3f64466b5b723aaa",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Superendividamento: Comitê Gestor da Conciliação participa de primeira reunião de fórum da Justiça",
+      "link": "https://www.cnj.jus.br/superendividamento-comite-gestor-da-conciliacao-participa-de-primeira-reuniao-de-forum-da-justica/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) marcou presença no 1º Fórum Nacional do Superendividamento (Fonasuper), realizado na quarta-feira (16/9), no Tribunal de Justiça do Estado do Rio Grande do Sul (TJRS). O evento reuniu magistrados e autoridades para o nivelamento de conhecimentos, a troca de boas ",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "5bdd63e0ff76aa32",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ debate avanços e desafios do Pena Justa em encontro sobre segurança pública",
+      "link": "https://www.cnj.jus.br/cnj-debate-avancos-e-desafios-do-pena-justa-em-encontro-sobre-seguranca-publica/",
+      "resumo": "Os avanços e contribuições do plano Pena Justa para a segurança pública estiveram em debate no 20º Encontro do Fórum Brasileiro de Segurança Pública (FBSP), nesta quinta-feira (17/9), em São Paulo. O plano foi tema de painel com representantes do Conselho Nacional de Justiça (CNJ), da Secretaria Nac",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "11e283608fe0c632",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJMA automatiza atos no PJe e passa a comunicar decisões em microssegundos",
+      "link": "https://www.cnj.jus.br/tjma-automatiza-atos-no-pje-e-passa-a-comunicar-decisoes-em-microssegundos/",
+      "resumo": "O Tribunal de Justiça do Maranhão (TJMA), por meio da Coordenadoria do Processo Judicial Eletrônico e dentro do programa Automais PJe, colocou em produção três novas rotinas automatizadas que realizam atos processuais de forma instantânea, sem depender das filas de trabalho das secretarias. Com a no",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "processo"
+      ],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "98128e8f8d8ba646",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto institui programa de combate ao desperdício de medicamentos no SUS",
+      "link": "https://www.camara.leg.br/noticias/1304303-projeto-institui-programa-de-combate-ao-desperdicio-de-medicamentos-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-09-18T13:50:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "ebce963e84a1e957",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto define critérios para a limpeza de pastagens em áreas rurais consolidadas",
+      "link": "https://www.camara.leg.br/noticias/1302729-projeto-define-criterios-para-a-limpeza-de-pastagens-em-areas-rurais-consolidadas",
+      "resumo": "",
+      "publicado_em": "2026-09-18T13:15:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "4500ada8f91fc13a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto anistia famílias que não vacinaram crianças contra Covid-19",
+      "link": "https://www.camara.leg.br/noticias/1303510-projeto-anistia-familias-que-nao-vacinaram-criancas-contra-covid-19",
+      "resumo": "",
+      "publicado_em": "2026-09-18T13:07:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T14:20:50-03:00"
     },
     {
       "id": "ccdd59e147874618",
@@ -1988,7 +2434,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Fórum de Segurança Pública: CNJ lidera debate sobre mortes e desaparecimentos em ações do Estado",
       "link": "https://www.cnj.jus.br/forum-de-seguranca-publica-cnj-lidera-debate-sobre-mortes-e-desaparecimentos-em-acoes-do-estado/",
-      "resumo": "O caso de Kathlen Romeu – designer de 24 anos morta no Rio de Janeiro, em 2021, quando estava grávida de 3 meses – foi um dos muitos citados durante o painel Prevenção e responsabilização de mortes e desaparecimentos em ações de agentes de Estado, realizado durante o 20º Encontro",
+      "resumo": "O caso de Kathlen Romeu, designer de 24 anos morta no Rio de Janeiro, em 2021, quando estava grávida de 3 meses, foi um dos muitos citados durante o painel Prevenção e responsabilização de mortes e desaparecimentos em ações de agentes de Estado, realizado durante o 20º Encontro do Fórum",
       "publicado_em": "2026-09-17T12:00:00-03:00",
       "dia": "2026-09-17",
       "data_estimada": true,
@@ -2004,7 +2450,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Fonajus Itinerante aprofunda diálogo sobre judicialização da saúde no Rio Grande do Norte",
       "link": "https://www.cnj.jus.br/fonajus-itinerante-aprofunda-dialogo-sobre-judicializacao-da-saude-no-rio-grande-do-norte/",
-      "resumo": "A supervisora do Fórum Nacional do Judiciário para a Saúde (Fonajus) e conselheira do Conselho Nacional de Justiça (CNJ), Daiane Nogueira de Lira, cumpriu agenda no Rio Grande Norte, na quarta (16/9) e na quinta-feira (17/9), para discutir com o Sistema de Justiça local os desafios da judicialização",
+      "resumo": "A supervisora do Fórum Nacional do Judiciário para a Saúde (Fonajus) e conselheira do Conselho Nacional de Justiça (CNJ), Daiane Nogueira de Lira, cumpriu agenda no Rio Grande Norte, na quarta (16/9) e na quinta-feira (17/9), para discutir com o sistema de justiça local os desafios da judicialização",
       "publicado_em": "2026-09-17T12:00:00-03:00",
       "dia": "2026-09-17",
       "data_estimada": true,
