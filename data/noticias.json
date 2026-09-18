@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-18T15:51:33-03:00",
+  "gerado_em": "2026-09-18T19:05:43-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -148,9 +148,9 @@
     },
     {
       "id": "tjsp",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.tjsp.jus.br', port=443): Read timed out. (read timeout=20)"
     },
     {
       "id": "pgfn",
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 18,
       "erro": null
     },
     {
@@ -173,7 +173,7 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 21,
+      "itens": 22,
       "erro": null
     },
     {
@@ -279,6 +279,38 @@
       "coletado_em": "2026-09-18T14:20:50-03:00"
     },
     {
+      "id": "9efcc5bcfc1b3bd8",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Palestra na EJud-15 aborda a inteligência comunicacional no serviço público",
+      "link": "https://trt15.jus.br/noticia/2026/palestra-na-ejud-15-aborda-inteligencia-comunicacional-no-servico-publico",
+      "resumo": "Palestra na EJud-15 aborda a inteligência comunicacional no serviço público anagatto Sex, 18/09/2026 - 15:42 Palestra na EJud-15 aborda a inteligência comunicacional no serviço público Conteúdo da Notícia O Comitê de Gestão de Pessoas e a Escola Judicial do Tribunal Regional do Trabalho da 15ª Regiã",
+      "publicado_em": "2026-09-18T15:42:46-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
+      "id": "2da5bc631ba1b673",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Magistrados do TRT-15 recebem moeda comemorativa dos 40 anos",
+      "link": "https://trt15.jus.br/noticia/2026/magistrados-do-trt-15-recebem-moeda-comemorativa-dos-40-anos",
+      "resumo": "Magistrados do TRT-15 recebem moeda comemorativa dos 40 anos anagatto Sex, 18/09/2026 - 14:49 Magistrados do TRT-15 recebem moeda comemorativa dos 40 anos Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora Ana Paula Pellegrina Lockmann, conduziu na manhã ",
+      "publicado_em": "2026-09-18T14:49:06-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "comemora"
+      ],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
       "id": "4f492fa12261e6df",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -354,6 +386,38 @@
         "visita"
       ],
       "coletado_em": "2026-09-18T15:51:33-03:00"
+    },
+    {
+      "id": "082ab889e316c407",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ouvidoria do STF visita terreiro em Salvador e ouve lideranças de comunidades de matriz africana",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ouvidoria-do-stf-visita-terreiro-em-salvador-e-ouve-liderancas-de-comunidades-de-matriz-africana/",
+      "resumo": "Atividade integrou agenda do Programa de Escuta Territorializada na Bahia",
+      "publicado_em": "2026-09-18T19:04:07-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
+      "id": "b0db4792cec1013b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Centro de Estudos Constitucionais do STF fará audiência acadêmica em Curitiba na segunda (21)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/centro-de-estudos-constitucionais-do-stf-fara-audiencia-academica-em-curitiba-na-proxima-segunda-21/",
+      "resumo": "Objetivo é atualizar o ensino do direito constitucional no século XXI",
+      "publicado_em": "2026-09-18T16:49:03-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
     },
     {
       "id": "50dde6da508301f6",
@@ -516,6 +580,23 @@
       "coletado_em": "2026-09-18T11:47:42-03:00"
     },
     {
+      "id": "c3d04fcbe04cd60f",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Orientação Conjunta Receita Federal/CGIBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/orientacao-conjunta-rfb-cgibs",
+      "resumo": "",
+      "publicado_em": "2026-09-18T16:48:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "ibs",
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
       "id": "347c63fcc26039eb",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -544,6 +625,52 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "a3308b46ab103e46",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP apresenta contribuição para o segundo Plano Nacional de Promoção da Igualdade Racial",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-apresenta-contribuicao-para-o-segundo-plano-nacional-de-promocao-da-igualdade-racial",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
+      "id": "94896f5b90eb936b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Reforma tributária zera o IBS e o CBS para cooperativas. Saiba como aderir",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/orientacao-conjunta-receita-federal-cgibs",
+      "resumo": "",
+      "publicado_em": "2026-09-18T16:48:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 82,
+      "tags": [
+        "reforma tributaria",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
+      "id": "3ddc910ac27aac45",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Conselho composto por governos, universidades e iniciativa privada vai coordenar política de minerais críticos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/conselho-governos-universidades-iniciativa-privada-vai-coordenar-politica-minerais-criticos",
+      "resumo": "",
+      "publicado_em": "2026-09-18T16:35:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
     },
     {
       "id": "d130a519f441b703",
@@ -652,6 +779,36 @@
       "coletado_em": "2026-09-18T15:51:33-03:00"
     },
     {
+      "id": "9f44f4f929e9e673",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Tesouro publica cronograma de emissões da Dívida Pública para o 4º trimestre de 2026",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/tesouro-publica-cronograma-de-emissoes-da-divida-publica-para-o-4o-trimestre-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
+      "id": "b0a8cead8a51dcb3",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Governo sanciona marco legal dos minerais críticos e estratégicos alinhado à Transformação Ecológica",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-sanciona-marco-legal-dos-minerais-criticos-e-estrategicos-alinhado-a-transformacao-ecologica",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
       "id": "63eb9452733ce9a4",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -664,6 +821,36 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-18T15:51:33-03:00"
+    },
+    {
+      "id": "6c77bfd8fbed5b07",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Damares cobra remoção de comentários sexuais após morte de influencer",
+      "link": "https://www.congressoemfoco.com.br/noticia/122416/damares-cobra-remocao-de-comentarios-sexuais-apos-morte-de-influencer",
+      "resumo": "Senadora afirma que publicações insinuariam ou celebrariam acesso inadequado ao corpo da jovem.",
+      "publicado_em": "2026-09-18T16:21:02-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
+      "id": "26430f49f8092354",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "João Campos ironiza Raquel sobre inauguração de delegacias: \"é zero\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122414/joao-campos-ironiza-raquel-sobre-inauguracao-de-delegacias--e-zero",
+      "resumo": "Governadora alegou pouco tempo de resposta se limitou a dizer regiões com delegacias.",
+      "publicado_em": "2026-09-18T15:53:15-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
     },
     {
       "id": "2d2ac124b0a62c09",
@@ -714,6 +901,22 @@
       "coletado_em": "2026-09-18T15:51:33-03:00"
     },
     {
+      "id": "662df28dadfff093",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "e-Título exige atenção do eleitor antes das eleições",
+      "link": "https://www.congressoemfoco.com.br/artigo/122406/e-titulo-exige-atencao-do-eleitor-antes-das-eleicoes",
+      "resumo": "Em uma eleição, quando milhões de pessoas acessam simultaneamente os sistemas da Justiça Eleitoral, antecipar procedimentos é uma forma objetiva de reduzir imprevistos.",
+      "publicado_em": "2026-09-18T13:12:34-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
       "id": "bb8df170f29ae523",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -758,6 +961,22 @@
       "coletado_em": "2026-09-18T14:20:50-03:00"
     },
     {
+      "id": "fecb5028321fb855",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Um roteiro para a inclusão: acessibilidade eleitoral em 53 perguntas",
+      "link": "https://www.congressoemfoco.com.br/artigo/122402/um-roteiro-para-a-inclusao-acessibilidade-eleitoral-em-53-perguntas",
+      "resumo": "53 perguntas para verificar a acessibilidade eleitoral, apoiar a Justiça Eleitoral e missões de observação e fazer da inclusão um indicador da qualidade democrática.",
+      "publicado_em": "2026-09-18T12:24:56-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
       "id": "690e27a38195d78e",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -786,6 +1005,36 @@
         "acao"
       ],
       "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "1969597746936c94",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto facilita porte de arma para mulheres que trabalham à noite",
+      "link": "https://www.congressoemfoco.com.br/noticia/122398/projeto-facilita-porte-de-arma-para-mulheres-que-trabalham-a-noite",
+      "resumo": "Proposta contempla mulheres que trabalham ou estudam entre 18h e 6h e vítimas de violência doméstica com medida protetiva.",
+      "publicado_em": "2026-09-18T11:39:57-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
+      "id": "6df42d31277ae897",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O Supremo contra si mesmo",
+      "link": "https://www.congressoemfoco.com.br/artigo/122397/o-supremo-contra-si-mesmo",
+      "resumo": "Entre o tempo do processo e o tempo das urnas, o STF arrisca deixar ao Senado a resposta que ainda não conseguiu dar a si mesmo.",
+      "publicado_em": "2026-09-18T11:21:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
     },
     {
       "id": "0f5d9a77d9505082",
@@ -1016,6 +1265,66 @@
         "processo"
       ],
       "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "35cb6ae6307d0f78",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Ação com líderes religiosos fortalece enfrentamento à intolerância religiosa no Brasil",
+      "link": "https://www.cnj.jus.br/acao-com-lideres-religiosos-fortalece-enfrentamento-a-intolerancia-religiosa-no-brasil/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ), por meio do Observatório de Direitos Humanos do Poder Poder Judiciário (ODH), promoveu uma ação para fortalecer os mecanismos de garantia da liberdade religiosa e enfrentamento à intolerância motivada por crença no Brasil. Nos dias 17 e 18, foi realizada a escut",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
+      "id": "1e17e2119d73914a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TST e TRTs passam a usar remessa digital de ofícios pelo Jus.br",
+      "link": "https://www.cnj.jus.br/justica-do-trabalho-passa-a-usar-remessa-digital-de-oficios-pelo-jus-br/",
+      "resumo": "O Tribunal Superior do Trabalho (TST) e os 24 tribunais regionais do Trabalho finalizaram a integração à remessa de ofícios no Jus.br, portal que centraliza os serviços digitais do Poder Judiciário. Desenvolvida no âmbito do Programa Justiça 4.0, fruto de parceria entre o Conselho Nacional de Justiç",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
+      "id": "837ac53bfac3a033",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria protocolo para atendimento de pessoas LGBTQIA+ no SUS",
+      "link": "https://www.camara.leg.br/noticias/1303854-projeto-cria-protocolo-para-atendimento-de-pessoas-lgbtqia-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-09-18T18:15:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
+      "id": "297697308fb3666f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria quarentena de dez anos para tribunais e agências reguladoras",
+      "link": "https://www.camara.leg.br/noticias/1301324-projeto-cria-quarentena-de-dez-anos-para-tribunais-e-agencias-reguladoras",
+      "resumo": "",
+      "publicado_em": "2026-09-18T17:08:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T19:05:43-03:00"
     },
     {
       "id": "356807e01693e47b",
@@ -2806,6 +3115,20 @@
       "coletado_em": "2026-09-16T12:20:19-03:00"
     },
     {
+      "id": "84b4f33502613fd8",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "PJe e sistemas de informática ficam indisponíveis no fim de semana",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pje-e-sistemas-de-informatica-ficam-indisponiveis-no-fim-de-semana",
+      "resumo": "",
+      "publicado_em": "2026-09-16T12:00:00-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-15T14:48:42-03:00"
+    },
+    {
       "id": "ab85e1ff17d7bcc1",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -4224,20 +4547,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-15T12:27:07-03:00"
-    },
-    {
-      "id": "84b4f33502613fd8",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "PJe e sistemas de informática ficam indisponíveis no fim de semana",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pje-e-sistemas-de-informatica-ficam-indisponiveis-no-fim-de-semana",
-      "resumo": "",
-      "publicado_em": "2026-09-15T12:00:00-03:00",
-      "dia": "2026-09-15",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-15T14:48:42-03:00"
     },
     {
       "id": "9ad55ad7f82bfd8e",
