@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-17T19:32:41-03:00",
+  "gerado_em": "2026-09-18T11:47:42-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -148,9 +148,9 @@
     },
     {
       "id": "tjsp",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.tjsp.jus.br', port=443): Read timed out. (read timeout=20)"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "pgfn",
@@ -173,7 +173,7 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 22,
+      "itens": 21,
       "erro": null
     },
     {
@@ -250,6 +250,263 @@
     }
   ],
   "noticias": [
+    {
+      "id": "32c0ea4d510eca35",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 sedia 10º Encontro de Enfermagem do Poder Judiciário e do Ministério Público",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-sedia-10o-encontro-de-enfermagem-do-poder-judiciario-e-do-ministerio-publico",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "349b7e8e06ba034c",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira os destaques do Plenário Virtual",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-26/",
+      "resumo": "Sessão virtual começou às 11h desta sexta-feira (18) e termina no dia 25/09",
+      "publicado_em": "2026-09-18T11:10:16-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "6a05ba881e0b8ad4",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "‘Direito sem juridiquês’: entenda para que servem as audiências públicas no STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-entenda-para-que-servem-as-audiencias-publicas-no-stf/",
+      "resumo": "Novo vídeo da série já está disponível no canal do STF no YouTube",
+      "publicado_em": "2026-09-18T10:00:17-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "253095df4922ca76",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Instituição Fiscal estima déficit em 2027",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/instituicao-fiscal-estima-deficit-em-2027",
+      "resumo": "",
+      "publicado_em": "2026-09-18T08:56:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "22e3e235fe6e14ac",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Cartilha da redação do Enem está disponível",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/enem-2026-cartilha-da-redacao-esta-disponivel-1",
+      "resumo": "",
+      "publicado_em": "2026-09-18T10:52:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "5cb49ba3da41d66a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MPT apresenta ação contra Luciano Hang por assédio eleitoral",
+      "link": "https://www.congressoemfoco.com.br/noticia/122394/mpt-apresenta-acao-contra-luciano-hang-por-assedio-eleitoral",
+      "resumo": "Procuradoria pede R$ 30 milhões e retratação após discurso de Hang sobre o fim da escala 6x1 durante inauguração de loja.",
+      "publicado_em": "2026-09-18T10:42:58-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "6704d1f0a68a40dc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Juíza constata violência política de gênero contra equipe de candidata",
+      "link": "https://www.congressoemfoco.com.br/noticia/122393/juiza-constata-violencia-politica-de-genero-contra-equipe-de-candidata",
+      "resumo": "Para a magistrada, intimidação de mulheres que trabalhavam na campanha buscam dificultar atividade eleitoral.",
+      "publicado_em": "2026-09-18T10:35:30-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "1706707a44ce27f5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Coordenadora de campanha de Renan pede impeachment de Dias Toffoli",
+      "link": "https://www.congressoemfoco.com.br/noticia/122391/coordenadora-de-campanha-de-renan-pede-impeachment-de-dias-toffoli",
+      "resumo": "Amanda Verrorazzo acusa ministro de esvaziar prerrogativas de CPI ao dispensar comparecimento de executivos da Hapvida.",
+      "publicado_em": "2026-09-18T09:52:09-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "5295a8dd8ce53b4d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Fim do futebol\": Clubes reagem a possíveis restrições às bets",
+      "link": "https://www.congressoemfoco.com.br/noticia/122390/fim-do-futebol--clubes-reagem-a-possiveis-restricoes-as-bets",
+      "resumo": "Manifesto defende fiscalização mais rígida sem inviabilizar o mercado regulamentado.",
+      "publicado_em": "2026-09-18T09:34:42-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "14611deecb2420f4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vorcaro pede a Fachin revogação da prisão e cita impasse no STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122389/vorcaro-pede-a-fachin-revogacao-da-prisao-e-cita-impasse-no-stf",
+      "resumo": "Defesa afirma que empresário está há seis meses preso sem denúncia e diz que indefinição sobre a condução das investigações não pode prolongar a custódia.",
+      "publicado_em": "2026-09-18T09:02:43-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "c05a8970522066bd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pedido de impeachment contra André Mendonça é apresentado ao Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122388/pedido-de-impeachment-contra-andre-mendonca-e-apresentado-ao-senado",
+      "resumo": "Documento reúne acusações de quebra de imparcialidade, abuso de autoridade e desvio de conduta.",
+      "publicado_em": "2026-09-18T08:49:36-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "f476398bdc0f1a44",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "FPA cobra ajustes em MP de dívidas rurais após recuo da agropecuária",
+      "link": "https://www.congressoemfoco.com.br/noticia/122387/fpa-cobra-ajustes-em-mp-de-dividas-rurais-apos-queda-da-agropecuaria",
+      "resumo": "Bancada aponta entraves na renegociação em momento de queda da atividade agropecuária e aumento do endividamento no campo.",
+      "publicado_em": "2026-09-18T08:00:46-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "6498d2581e68dd1d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro critica alta de 15% no Bolsa Família: \"essa merreca?\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122386/flavio-bolsonaro-critica-alta-de-15-no-bolsa-familia--essa-merreca",
+      "resumo": "Apesar das críticas ao aumento, senador afirma que Bolsa Família e reajuste estarão garantidos em eventual governo.",
+      "publicado_em": "2026-09-18T07:56:07-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "1e00ef9c8b7b8016",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula anuncia canetas emagrecedoras gratuitas pelo SUS",
+      "link": "https://www.congressoemfoco.com.br/noticia/122384/lula-anuncia-canetas-emagrecedoras-gratuitas-pelo-sus",
+      "resumo": "Presidente afirma que medicamento será gratuito para pessoas com obesidade quando houver indicação clínica; Saúde ainda define protocolo de acesso.",
+      "publicado_em": "2026-09-18T07:22:31-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "54fb3459c79ad8fb",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Corregedoria Nacional de Justiça inspeciona o TJRN a partir da próxima quarta (23/9)",
+      "link": "https://www.cnj.jus.br/corregedoria-nacional-de-justica-inspeciona-o-tjrn-a-partir-de-quarta-23-9/",
+      "resumo": "O Tribunal de Justiça do Rio de Grande do Norte (TJRN) receberá, a partir de quarta-feira (23/9), uma equipe da Corregedoria Nacional de Justiça para inspeção de seus setores administrativos e judiciais. Os trabalhos se estenderão até sexta-feira (25/9) e foram determinados pela Portaria n. 111/2026",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "portaria"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "ccdd59e147874618",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eleições 2026: especialistas analisam desafios em educação, segurança, saúde mental, agronegócio e meio ambiente",
+      "link": "https://www.camara.leg.br/noticias/1305384-eleicoes-2026-especialistas-analisam-desafios-em-educacao-seguranca-saude-mental-agronegocio-e-meio-ambiente",
+      "resumo": "",
+      "publicado_em": "2026-09-18T10:45:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "db86e5df5fa485b5",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria incentivos para a abate de gado jovem de alta qualidade",
+      "link": "https://www.camara.leg.br/noticias/1303237-projeto-cria-incentivos-para-a-abate-de-gado-jovem-de-alta-qualidade",
+      "resumo": "",
+      "publicado_em": "2026-09-18T08:35:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
     {
       "id": "d2c9f2ed2886cde0",
       "fonte_id": "trt2",
@@ -391,6 +648,54 @@
         "adi"
       ],
       "coletado_em": "2026-09-17T16:31:26-03:00"
+    },
+    {
+      "id": "bafb144992abcbb4",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP realiza 5ª reunião da mesa de negociação de 2026",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115351&pagina=1",
+      "resumo": "Em pauta dois itens para discussão.\n \n\tNa tarde de hoje (17), a Presidência do Tribunal de Justiça de São Paulo realizou a 5ª reunião da",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "59f502f324d44c24",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP instala Cejusc na Comarca de Cerqueira César",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115346&pagina=1",
+      "resumo": "Estímulo à conciliação e mediação de conflitos.\n \n\tO Tribunal de Justiça de São Paulo instalou, hoje (17), o Centro Judiciário de Solução de Conflitos e",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "df449e0caa2e6a19",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ouvidoria do STF se reúne com Defensoria Pública da Bahia",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ouvidoria-do-stf-se-reune-com-defensoria-publica-da-bahia/",
+      "resumo": "Representantes das duas ouvidorias trocaram experiências sobre participação social, escuta e acolhimento.",
+      "publicado_em": "2026-09-17T19:57:15-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
     },
     {
       "id": "57d10f2aff25d829",
@@ -808,6 +1113,20 @@
       "coletado_em": "2026-09-17T19:32:41-03:00"
     },
     {
+      "id": "07d5d4eef7ecad58",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Cartilha da Anvisa orienta sobre o uso correto dos fitoterápicos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/anvisa-publica-cartilha-e-folder-atualizados-sobre-o-uso-de-fitoterapicos",
+      "resumo": "",
+      "publicado_em": "2026-09-17T21:49:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
       "id": "c831d6280ff64cf3",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -987,6 +1306,57 @@
         "acao"
       ],
       "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
+      "id": "bafef7a9fd4c7357",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula \"conseguiu bagunçar o Supremo\" no julgamento de terça, diz Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/122382/lula-conseguiu-baguncar-o-supremo-no-julgamento-de-terca-diz-flavio",
+      "resumo": "Flávio Bolsonaro acusa o presidente Lula de interferência no STF durante julgamento sobre investigação contra Moraes.",
+      "publicado_em": "2026-09-17T20:55:37-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "4269b38cb1e8cc2f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça rejeita ação de Zé Trovão contra reajuste do Bolsa Família",
+      "link": "https://www.congressoemfoco.com.br/noticia/122381/mendonca-rejeita-acao-de-ze-trovao-contra-reajuste-do-bolsa-familia",
+      "resumo": "Relator encerrou processo sem análise de mérito por entender que deputado não possuía legitimidade para apresentar a ação.",
+      "publicado_em": "2026-09-17T20:19:20-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "b5e84b45e1824764",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Setor produtivo no DF pede recuperação despolitizada do BRB",
+      "link": "https://www.congressoemfoco.com.br/noticia/122380/setor-produtivo-no-df-pede-recuperacao-despolitizada-do-brb",
+      "resumo": "Manifesto cobra rigor técnico, apuração de irregularidades e decisões independentes de disputas partidárias sobre o banco.",
+      "publicado_em": "2026-09-17T19:52:41-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
     },
     {
       "id": "299f3dc8110c4227",
@@ -1611,6 +1981,39 @@
         "acordao"
       ],
       "coletado_em": "2026-09-17T16:31:26-03:00"
+    },
+    {
+      "id": "6a79b714f72ce015",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Fórum de Segurança Pública: CNJ lidera debate sobre mortes e desaparecimentos em ações do Estado",
+      "link": "https://www.cnj.jus.br/forum-de-seguranca-publica-cnj-lidera-debate-sobre-mortes-e-desaparecimentos-em-acoes-do-estado/",
+      "resumo": "O caso de Kathlen Romeu – designer de 24 anos morta no Rio de Janeiro, em 2021, quando estava grávida de 3 meses – foi um dos muitos citados durante o painel Prevenção e responsabilização de mortes e desaparecimentos em ações de agentes de Estado, realizado durante o 20º Encontro",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "ca1e580d49d8a1ab",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Fonajus Itinerante aprofunda diálogo sobre judicialização da saúde no Rio Grande do Norte",
+      "link": "https://www.cnj.jus.br/fonajus-itinerante-aprofunda-dialogo-sobre-judicializacao-da-saude-no-rio-grande-do-norte/",
+      "resumo": "A supervisora do Fórum Nacional do Judiciário para a Saúde (Fonajus) e conselheira do Conselho Nacional de Justiça (CNJ), Daiane Nogueira de Lira, cumpriu agenda no Rio Grande Norte, na quarta (16/9) e na quinta-feira (17/9), para discutir com o Sistema de Justiça local os desafios da judicialização",
+      "publicado_em": "2026-09-17T12:00:00-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-18T11:47:42-03:00"
     },
     {
       "id": "a47b343387b444bc",
@@ -53793,116 +54196,6 @@
         "acao"
       ],
       "coletado_em": "2026-09-08T11:32:33-03:00"
-    },
-    {
-      "id": "9b38874a4323ad3b",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Ouvidoria da 2ª Região integra encontro temático no Espírito Santo",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/ouvidoria-da-2a-regiao-integra-encontro-tematico-no-espirito-santo",
-      "resumo": "",
-      "publicado_em": "2026-06-19T12:00:00-03:00",
-      "dia": "2026-06-19",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "d5cd68f7f08a5e14",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Modernização administrativa e gestão de riscos são destaques em encerramento de fórum de governança",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/modernizacao-administrativa-e-gestao-de-riscos-sao-destaques-em-encerramento-de-forum-de-governanca",
-      "resumo": "",
-      "publicado_em": "2026-06-19T12:00:00-03:00",
-      "dia": "2026-06-19",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "9c538e08a2ff1c5e",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Seminário discute avanço da precarização do trabalho no Brasil",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/seminario-debate-avanco-da-precarizacao-do-trabalho-no-brasil",
-      "resumo": "",
-      "publicado_em": "2026-06-19T12:00:00-03:00",
-      "dia": "2026-06-19",
-      "data_estimada": true,
-      "score": 36,
-      "tags": [
-        "acao",
-        "seminario"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "d4f71052c3179793",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "STF retira suspensão de processos sobre pejotização na primeira instância e nos TRTs",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/stf-retira-suspensao-de-processos-sobre-pejotizacao-na-primeira-instancia-e-nos-trts",
-      "resumo": "",
-      "publicado_em": "2026-06-19T12:00:00-03:00",
-      "dia": "2026-06-19",
-      "data_estimada": true,
-      "score": 52,
-      "tags": [
-        "processo",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "5919b7953a25d19b",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "TRT-2 promove campanha de vacinação contra a gripe",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-promove-campanha-de-vacinacao-contra-a-gripe",
-      "resumo": "",
-      "publicado_em": "2026-06-19T12:00:00-03:00",
-      "dia": "2026-06-19",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "92458d7104924b3e",
-      "fonte_id": "bacen",
-      "fonte_nome": "Bacen",
-      "titulo": "Pix por aproximação ganha mais flexibilidade e deixa de ter teto fixo de R$500",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21169/nota",
-      "resumo": "Nova regra equipara pagamentos por aproximação às demais formas de uso do Pix. Instituições terão até 1º de outubro para adaptar sistemas e implementar a mudança.",
-      "publicado_em": "2026-06-19T16:01:50-03:00",
-      "dia": "2026-06-19",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "80ead30d5d05bf29",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "ANPD começa o monitoramento de sites com conteúdo pornográfico",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/copy_of_anpd-monitoramento-sites-com-conteudo-pornografico-eca-digital",
-      "resumo": "Objetivo é verificar se empresas estão adotando medidas de restrição de acesso por crianças e adolescentes. Serão monitorados 18 sites de empresas que representam 98% do tráfego desse tipo de conteúdo",
-      "publicado_em": "2026-06-19T13:05:00-03:00",
-      "dia": "2026-06-19",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
 }
