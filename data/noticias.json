@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-18T19:05:43-03:00",
+  "gerado_em": "2026-09-19T11:11:32-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -148,9 +148,9 @@
     },
     {
       "id": "tjsp",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.tjsp.jus.br', port=443): Read timed out. (read timeout=20)"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "pgfn",
@@ -251,6 +251,34 @@
   ],
   "noticias": [
     {
+      "id": "b24181c25fdf5d97",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Jurado voluntário: últimos dias para inscrição em Ribeirão Preto",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115355&pagina=1",
+      "resumo": "Cadastro até 20/9. \n \n\tA 1ª Vara do Júri e das Execuções Criminais de Ribeirão Preto está com inscrições abertas até amanhã (20) para voluntários que",
+      "publicado_em": "2026-09-19T12:00:00-03:00",
+      "dia": "2026-09-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
+    },
+    {
+      "id": "fa725c4ef685c14d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula rebate clubes de futebol e fala em \"acabar com as bets\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122420/lula-rebate-clubes-de-futebol-e-fala-em-acabar-com-as-bets",
+      "resumo": "Presidente cita títulos conquistados antes das bets e rebate clubes que apontam risco de perdas financeiras com restrições ao setor.",
+      "publicado_em": "2026-09-19T10:17:14-03:00",
+      "dia": "2026-09-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
+    },
+    {
       "id": "32c0ea4d510eca35",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -277,6 +305,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-18T14:20:50-03:00"
+    },
+    {
+      "id": "c07e66cc8f44c1c4",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Cerimônia homenageia desembargador aposentado Rafael Pugliese com a entrega definitiva da toga",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/cerimonia-homenageia-desembargador-aposentado-rafael-pugliese-com-a-entrega-definitiva-da-toga",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
     },
     {
       "id": "9efcc5bcfc1b3bd8",
@@ -386,6 +430,36 @@
         "visita"
       ],
       "coletado_em": "2026-09-18T15:51:33-03:00"
+    },
+    {
+      "id": "6553bab979ea4b1c",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115367&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, reuniu-se, hoje (18), no Gabinete",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
+    },
+    {
+      "id": "fbd65b661fc769ef",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF reconhece que reajuste do Bolsa Família cumpre decisão da Corte sobre renda básica",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-reconhece-que-reajuste-do-bolsa-familia-cumpre-decisao-da-corte-sobre-renda-basica/",
+      "resumo": "Ministro Gilmar Mendes considerou que medida atualizou os valores mediante critério objetivo de correção monetária",
+      "publicado_em": "2026-09-18T20:48:03-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
     },
     {
       "id": "082ab889e316c407",
@@ -641,6 +715,62 @@
       "coletado_em": "2026-09-18T19:05:43-03:00"
     },
     {
+      "id": "32d957052f92c77a",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP participa de debates sobre crime organizado, garantia de direitos e segurança pública em fórum nacional",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-participa-de-debates-sobre-crime-organizado-garantia-de-direitos-e-seguranca-publica-em-forum-nacional-1",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
+    },
+    {
+      "id": "526149fe9b875c04",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Escola de defesa do consumidor no Acre terá ações educativas preventivas voltadas às relações de consumo e à prevenção de conflitos",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-de-defesa-do-consumidor-no-acre-tera-acoes-educativas-preventivas-voltados-as-relacoes-de-consumo-e-a-prevencao-de-conflitos",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
+    },
+    {
+      "id": "859b5c0e022242c6",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP reforça importância do trabalho integrado das forças de segurança pública no Rio de Janeiro",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-reforca-importancia-do-trabalho-integrado-das-forcas-de-seguranca-publica-no-rio-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
+    },
+    {
+      "id": "d2dfb02108d3be03",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministérios reúnem representantes do setor produtivo para debater competitividade",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/gt-reune-setor-produtivo-para-debater-competitividade-e-melhoria-do-ambiente-de-negocios",
+      "resumo": "",
+      "publicado_em": "2026-09-18T17:49:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
+    },
+    {
       "id": "94896f5b90eb936b",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -809,6 +939,23 @@
       "coletado_em": "2026-09-18T19:05:43-03:00"
     },
     {
+      "id": "5b6d010833bd402f",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal e Comitê Gestor do Imposto sobre Bens e Serviços divulgam Orientação Conjunta",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-e-comite-gestor-do-imposto-sobre-bens-e-servicos-divulgam-orientacao-conjunta",
+      "resumo": "",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
+    },
+    {
       "id": "63eb9452733ce9a4",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -821,6 +968,56 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-18T15:51:33-03:00"
+    },
+    {
+      "id": "ef881e21e4b2316c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "1ª Turma mantém condenação de Eduardo Bolsonaro por lobby nos EUA",
+      "link": "https://www.congressoemfoco.com.br/noticia/122419/1-turma-mantem-condenacao-de-eduardo-bolsonaro-por-lobby-nos-eua",
+      "resumo": "Colegiado acompanhou voto do relator Alexandre de Moraes pela preservação da sentença por coação processual.",
+      "publicado_em": "2026-09-18T20:52:04-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
+    },
+    {
+      "id": "f2ef5828717fc9e0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar Mendes reconhece legalidade de reajuste do Bolsa Família",
+      "link": "https://www.congressoemfoco.com.br/noticia/122418/gilmar-mendes-reconhece-legalidade-de-reajuste-do-bolsa-familia",
+      "resumo": "Ministro relembrou que o próprio STF já havia determinado a obrigatoriedade de atualização periódica de programas de transferência de renda.",
+      "publicado_em": "2026-09-18T19:28:01-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "obrigatoriedade",
+        "acao"
+      ],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
+    },
+    {
+      "id": "1a6146749204abeb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mais de 100 congressistas têm parentes candidatos em 2026",
+      "link": "https://www.congressoemfoco.com.br/noticia/122417/mais-de-100-congressistas-tem-parentes-candidatos-em-2026",
+      "resumo": "Levantamento exclusivo do Congresso em Foco identifica 104 congressistas com familiares na disputa. Em alguns casos, parentes concorrem à cadeira atualmente ocupada pelo titular",
+      "publicado_em": "2026-09-18T17:07:25-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
     },
     {
       "id": "6c77bfd8fbed5b07",
@@ -853,6 +1050,22 @@
       "coletado_em": "2026-09-18T19:05:43-03:00"
     },
     {
+      "id": "20e7bbf1a0eb20ed",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dos Gomes aos Trad, eleição põe irmãos em lados opostos no CE e em MS",
+      "link": "https://www.congressoemfoco.com.br/noticia/122413/dos-gomes-aos-trad-eleicao-poe-irmaos-em-lados-opostos-no-ce-e-em-ms",
+      "resumo": "Rachas em famílias tradicionais atravessam as eleições no Ceará e em Mato Grosso do Sul. Em Pernambuco, primos  voltam ao mesmo palanque, mas divergências permanecem entre os Arraes.",
+      "publicado_em": "2026-09-18T15:38:26-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
+    },
+    {
       "id": "2d2ac124b0a62c09",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -865,6 +1078,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-18T15:51:33-03:00"
+    },
+    {
+      "id": "74259fd5189ca6c4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "De Bolsonaro a Arraes: Veja as famílias com mais candidatos em 2026",
+      "link": "https://www.congressoemfoco.com.br/noticia/122409/de-bolsonaro-a-arraes-veja-as-familias-com-mais-candidatos-em-2026",
+      "resumo": "Levantamento do Congresso em Foco considera famílias ligadas a atuais deputados e senadores com quatro ou mais candidatos; os Bolsonaro formam o maior grupo, com oito nomes.",
+      "publicado_em": "2026-09-18T13:40:10-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
     },
     {
       "id": "06b459c6456d2fe0",
@@ -975,6 +1202,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
+      "id": "b7f7f9a9dcc95b26",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Previdência: eis a questão! (II)",
+      "link": "https://www.congressoemfoco.com.br/coluna/122401/previdencia-eis-a-questao--ii",
+      "resumo": "Trabalhadores ativos e as empresas pagam a conta relativa aos direitos dos aposentados e pensionistas.",
+      "publicado_em": "2026-09-18T12:09:06-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
     },
     {
       "id": "690e27a38195d78e",
@@ -5563,6 +5804,24 @@
       "coletado_em": "2026-09-15T16:30:47-03:00"
     },
     {
+      "id": "6eb8a8fb1f0f2eda",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto muda regras de controle de frequência de advogados públicos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122286/projeto-muda-regras-de-controle-de-frequencia-de-advogados-publicos",
+      "resumo": "Avaliação passaria a considerar eficiência, cumprimento de atribuições e prazos, em vez do registro dos horários de entrada e saída.",
+      "publicado_em": "2026-09-15T15:13:07-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "prazo",
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
+    },
+    {
       "id": "85dcc23188947fa6",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -7330,6 +7589,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "4aa480c86e7c0bf1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prioriza animais de pessoas em situação de rua para castração",
+      "link": "https://www.congressoemfoco.com.br/noticia/122236/projeto-prioriza-animais-de-pessoas-em-situacao-de-rua-para-castracao",
+      "resumo": "Texto também garante gratuidade do cadastro nacional.",
+      "publicado_em": "2026-09-14T13:37:03-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-19T11:11:32-03:00"
     },
     {
       "id": "6aff91ba1d7344c6",
