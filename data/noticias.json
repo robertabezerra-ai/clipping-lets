@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-19T13:51:50-03:00",
+  "gerado_em": "2026-09-19T15:24:36-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -1587,6 +1587,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-18T19:05:43-03:00"
+    },
+    {
+      "id": "d26abc5c0038a7f5",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Fórum debate carreira de servidores, combate ao assédio e valorização do 1º grau",
+      "link": "https://www.cnj.jus.br/forum-debate-carreira-de-servidores-combate-ao-assedio-e-valorizacao-do-1o-grau/",
+      "resumo": "O Fórum de Discussão Permanente de Gestão da Carreira dos Servidores do Poder Judiciário da União (PJU) se reuniu, nesta sexta-feira (18), no Conselho Nacional de Justiça (CNJ), para o delineamento dos trabalhos do colegiado. Na pauta, a reestrutura do plano de carreira dos servidores do Judiciário,",
+      "publicado_em": "2026-09-18T12:00:00-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-19T15:24:36-03:00"
     },
     {
       "id": "837ac53bfac3a033",
@@ -4405,6 +4421,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-16T16:22:03-03:00"
+    },
+    {
+      "id": "27cf41a143e84a9d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe assistência jurídica 24h a PMs e bombeiros militares",
+      "link": "https://www.congressoemfoco.com.br/noticia/122312/deputado-propoe-assistencia-juridica-24h-a-pms-e-bombeiros-militares",
+      "resumo": "Medida alcança procedimentos administrativos, investigações e processos ligados ao exercício da função.",
+      "publicado_em": "2026-09-16T11:26:03-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-19T15:24:36-03:00"
     },
     {
       "id": "c3796e8ae3468c8d",
