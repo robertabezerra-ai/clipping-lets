@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-19T15:24:36-03:00",
+  "gerado_em": "2026-09-19T18:57:26-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -298,6 +298,20 @@
         "julga"
       ],
       "coletado_em": "2026-09-19T13:51:50-03:00"
+    },
+    {
+      "id": "567feeab17f373fb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Os Ministérios da Igualdade Racial e do Esporte repudiam ataques racistas contra o atleta Evandro, do vôlei de praia",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/os-ministerios-da-igualdade-racial-e-do-esporte-repudiam-ataques-racistas-contra-o-atleta-evandro-do-volei-de-praia",
+      "resumo": "",
+      "publicado_em": "2026-09-19T15:13:00-03:00",
+      "dia": "2026-09-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-19T18:57:26-03:00"
     },
     {
       "id": "d9f630f0d3a9d464",
@@ -4082,6 +4096,22 @@
         "multa"
       ],
       "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "53391f6c4ed7bad7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eliziane propõe acréscimo do salário-maternidade para mães de gêmeos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122338/eliziane-propoe-acrescimo-do-salario-maternidade-para-maes-de-gemeos",
+      "resumo": "Proposta prevê adicional de 50% para gêmeos e de 100% para trigêmeos ou mais, diante dos custos e cuidados após o parto.",
+      "publicado_em": "2026-09-16T19:53:20-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-19T18:57:26-03:00"
     },
     {
       "id": "f34097acd574ef70",
