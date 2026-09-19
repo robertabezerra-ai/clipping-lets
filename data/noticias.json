@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-19T11:11:32-03:00",
+  "gerado_em": "2026-09-19T13:51:50-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -263,6 +263,55 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-19T11:11:32-03:00"
+    },
+    {
+      "id": "7a2b4a5adc292ee8",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP recebe alunos de Direito para atividade prática de julgamento",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115359&pagina=1",
+      "resumo": "Simulação de Tribunal do Júri.\n \n\tO Tribunal de Justiça de São Paulo recebeu, na quarta-feira (16), estudantes da Escola Paulista de Direito para júri simulado.",
+      "publicado_em": "2026-09-19T12:00:00-03:00",
+      "dia": "2026-09-19",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-19T13:51:50-03:00"
+    },
+    {
+      "id": "cf20993ebcc42c70",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Início do julgamento sobre petição ligada ao caso Master é destaque no Supremo na Semana",
+      "link": "https://noticias.stf.jus.br/postsnoticias/inicio-do-julgamento-sobre-peticao-ligada-ao-caso-master-e-destaque-no-supremo-na-semana/",
+      "resumo": "O episódio #202 está disponível nas principais plataformas de áudio e no YouTube",
+      "publicado_em": "2026-09-19T12:00:00-03:00",
+      "dia": "2026-09-19",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-19T13:51:50-03:00"
+    },
+    {
+      "id": "d9f630f0d3a9d464",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "A Anvisa na história recente de 36 anos do Sistema Único de Saúde",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/a-anvisa-tambem-faz-parte-dessa-historia",
+      "resumo": "",
+      "publicado_em": "2026-09-19T11:05:00-03:00",
+      "dia": "2026-09-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-19T13:51:50-03:00"
     },
     {
       "id": "fa725c4ef685c14d",
@@ -792,7 +841,7 @@
       "id": "3ddc910ac27aac45",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Conselho composto por governos, universidades e iniciativa privada vai coordenar política de minerais críticos",
+      "titulo": "Conselho composto por governos, universidades e setor privado vai coordenar política de minerais críticos",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/conselho-governos-universidades-iniciativa-privada-vai-coordenar-politica-minerais-criticos",
       "resumo": "",
       "publicado_em": "2026-09-18T16:35:00-03:00",
@@ -4328,6 +4377,20 @@
         "recurso"
       ],
       "coletado_em": "2026-09-16T14:48:28-03:00"
+    },
+    {
+      "id": "17f24a4f49bfaf3f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto permite acompanhar evolução patrimonial de autoridades",
+      "link": "https://www.congressoemfoco.com.br/noticia/122314/projeto-permite-acompanhar-evolucao-patrimonial-de-autoridades",
+      "resumo": "Informações deverão ser atualizadas anualmente e disponibilizadas em sistema que permita comparar a evolução dos bens ao longo do tempo.",
+      "publicado_em": "2026-09-16T12:18:33-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-19T13:51:50-03:00"
     },
     {
       "id": "4d13343223916049",
