@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-20T11:30:53-03:00",
+  "gerado_em": "2026-09-20T14:04:48-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -1239,6 +1239,20 @@ window.DADOS = {
       "coletado_em": "2026-09-20T11:30:53-03:00"
     },
     {
+      "id": "34315708f1fc2866",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto padroniza critérios salariais de postos nas polícias militares",
+      "link": "https://www.congressoemfoco.com.br/noticia/122411/projeto-padroniza-criterios-salariais-de-postos-nas-policias-militares",
+      "resumo": "Proposta estabelece escalonamento proporcional entre cargos da mesma carreira e deixa a definição dos percentuais a cargo dos Estados.",
+      "publicado_em": "2026-09-18T14:45:47-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-20T14:04:48-03:00"
+    },
+    {
       "id": "2d2ac124b0a62c09",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1718,9 +1732,9 @@ window.DADOS = {
       "id": "1e17e2119d73914a",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "TST e TRTs passam a usar remessa digital de ofícios pelo Jus.br",
+      "titulo": "Justiça do Trabalho passa a usar remessa digital de ofícios pelo Jus.br",
       "link": "https://www.cnj.jus.br/justica-do-trabalho-passa-a-usar-remessa-digital-de-oficios-pelo-jus-br/",
-      "resumo": "O Tribunal Superior do Trabalho (TST) e os 24 tribunais regionais do Trabalho finalizaram a integração à remessa de ofícios no Jus.br, portal que centraliza os serviços digitais do Poder Judiciário. Desenvolvida no âmbito do Programa Justiça 4.0, fruto de parceria entre o Conselho Nacional de Justiç",
+      "resumo": "O Tribunal Superior do Trabalho (TST) e os 24 Tribunais Regionais do Trabalho finalizaram a integração à remessa de ofícios no Jus.br, portal que centraliza os serviços digitais do Poder Judiciário. Desenvolvida no âmbito do Programa Justiça 4.0, fruto de parceria entre o Conselho Nacional de Justiç",
       "publicado_em": "2026-09-18T12:00:00-03:00",
       "dia": "2026-09-18",
       "data_estimada": true,
