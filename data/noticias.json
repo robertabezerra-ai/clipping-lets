@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-20T15:28:40-03:00",
+  "gerado_em": "2026-09-20T19:03:22-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -281,6 +281,20 @@
         "decisao"
       ],
       "coletado_em": "2026-09-20T11:30:53-03:00"
+    },
+    {
+      "id": "596af415fe6a34e6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Caminhos da Reportagem desta segunda destaca o voto de jovens e idosos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/caminhos-da-reportagem-desta-segunda-destaca-o-voto-de-jovens-e-idosos",
+      "resumo": "",
+      "publicado_em": "2026-09-20T17:00:00-03:00",
+      "dia": "2026-09-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-20T19:03:22-03:00"
     },
     {
       "id": "0e4f1e83707008ec",
@@ -2972,6 +2986,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
+      "id": "4ded5fcd9b9cfc6c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto endurece punição para maus-tratos contra animais idosos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122365/projeto-endurece-punicao-para-maus-tratos-contra-animais-idosos",
+      "resumo": "Texto prevê aumento de até dois terços da pena quando a violência resultar na morte de cães ou gatos idosos.",
+      "publicado_em": "2026-09-17T13:52:47-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-20T19:03:22-03:00"
     },
     {
       "id": "194f1af64d031969",
