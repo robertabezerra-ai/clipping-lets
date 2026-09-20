@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-20T14:04:48-03:00",
+  "gerado_em": "2026-09-20T15:28:40-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -313,6 +313,24 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-09-20T11:30:53-03:00"
+    },
+    {
+      "id": "0a276d05dc97e2f6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Porchat narra julgamento do STF como jogo de futebol e diverte a web",
+      "link": "https://www.congressoemfoco.com.br/noticia/122422/porchat-narra-julgamento-do-stf-como-jogo-de-futebol-e-diverte-a-web",
+      "resumo": "Humorista transformou embates entre ministros em partida com escalação, faltas, catimba, pedido de vista e até intervalo patrocinado pelo Banco Master.",
+      "publicado_em": "2026-09-20T13:55:09-03:00",
+      "dia": "2026-09-20",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-20T15:28:40-03:00"
     },
     {
       "id": "b24181c25fdf5d97",
@@ -1732,9 +1750,9 @@ window.DADOS = {
       "id": "1e17e2119d73914a",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Justiça do Trabalho passa a usar remessa digital de ofícios pelo Jus.br",
+      "titulo": "TST e TRTs passam a usar remessa digital de ofícios pelo Jus.br",
       "link": "https://www.cnj.jus.br/justica-do-trabalho-passa-a-usar-remessa-digital-de-oficios-pelo-jus-br/",
-      "resumo": "O Tribunal Superior do Trabalho (TST) e os 24 Tribunais Regionais do Trabalho finalizaram a integração à remessa de ofícios no Jus.br, portal que centraliza os serviços digitais do Poder Judiciário. Desenvolvida no âmbito do Programa Justiça 4.0, fruto de parceria entre o Conselho Nacional de Justiç",
+      "resumo": "O Tribunal Superior do Trabalho (TST) e os 24 tribunais regionais do Trabalho finalizaram a integração à remessa de ofícios no Jus.br, portal que centraliza os serviços digitais do Poder Judiciário. Desenvolvida no âmbito do Programa Justiça 4.0, fruto de parceria entre o Conselho Nacional de Justiç",
       "publicado_em": "2026-09-18T12:00:00-03:00",
       "dia": "2026-09-18",
       "data_estimada": true,
@@ -2954,6 +2972,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-17T14:48:52-03:00"
+    },
+    {
+      "id": "194f1af64d031969",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê isenção de taxa para autistas em concursos federais",
+      "link": "https://www.congressoemfoco.com.br/noticia/122364/projeto-preve-isencao-de-taxa-para-autistas-em-concursos-federais",
+      "resumo": "Proposta do deputado Daniel Barbosa altera lei de 2018 e prevê que isenção independa da renda ou de inscrição em programas sociais.",
+      "publicado_em": "2026-09-17T13:10:30-03:00",
+      "dia": "2026-09-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-20T15:28:40-03:00"
     },
     {
       "id": "ef978bdfa52669e8",
