@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-19T18:57:26-03:00",
+  "gerado_em": "2026-09-20T11:30:53-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -251,6 +251,70 @@
   ],
   "noticias": [
     {
+      "id": "514d489f6371cb14",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Continuam as comemorações do centenário do poeta Paulo Bomfim",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115368&pagina=1",
+      "resumo": "Desta vez, evento será no Museu do TJSP.\n \n\tAs comemorações do centenário de nascimento de Paulo Bomfim, escritor, jornalista, cronista e poeta que se",
+      "publicado_em": "2026-09-20T12:00:00-03:00",
+      "dia": "2026-09-20",
+      "data_estimada": true,
+      "score": 24,
+      "tags": [
+        "comemora"
+      ],
+      "coletado_em": "2026-09-20T11:30:53-03:00"
+    },
+    {
+      "id": "6b32c2e9701ed9b1",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Município é responsabilizado por submeter paciente a cirurgia desnecessária",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115249&pagina=1",
+      "resumo": "Procedimento retirou parte da mama da autora.\n \n\tA 13ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve decisão da 4ª Vara",
+      "publicado_em": "2026-09-20T12:00:00-03:00",
+      "dia": "2026-09-20",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-20T11:30:53-03:00"
+    },
+    {
+      "id": "0e4f1e83707008ec",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rádio Nacional transmite Corinthians x Fluminense pelo Brasileirão neste domingo (20)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/radio-nacional-transmite-corinthians-x-fluminense-pelo-brasileirao-neste-domingo-20",
+      "resumo": "",
+      "publicado_em": "2026-09-20T07:30:00-03:00",
+      "dia": "2026-09-20",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-20T11:30:53-03:00"
+    },
+    {
+      "id": "7653d51b03cecf4d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rádio MEC transmite ao vivo concerto da Orquestra Filarmônica de Minas Gerais neste domingo (20)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/radio-mec-transmite-ao-vivo-concerto-da-orquestra-filarmonica-de-minas-gerais-neste-domingo-20",
+      "resumo": "",
+      "publicado_em": "2026-09-20T06:05:00-03:00",
+      "dia": "2026-09-20",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-20T11:30:53-03:00"
+    },
+    {
       "id": "b24181c25fdf5d97",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -300,6 +364,22 @@
       "coletado_em": "2026-09-19T13:51:50-03:00"
     },
     {
+      "id": "b9fa2e18f9afd9dc",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério da Saúde lamenta falecimento de Paulo Roberto Teixeira",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/ministerio-da-saude-lamenta-falecimento-de-paulo-roberto-teixeira",
+      "resumo": "",
+      "publicado_em": "2026-09-19T19:30:00-03:00",
+      "dia": "2026-09-19",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "falecimento"
+      ],
+      "coletado_em": "2026-09-20T11:30:53-03:00"
+    },
+    {
       "id": "567feeab17f373fb",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -326,6 +406,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-19T13:51:50-03:00"
+    },
+    {
+      "id": "3bb0f7ca643cf736",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas pede afastamento de Gonet por foto fumando charuto com Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122421/nikolas-pede-afastamento-de-gonet-por-foto-fumando-charuto-com-vorcaro",
+      "resumo": "Deputado afirma que vazamento de fotos e de mensagens do procurador-geral da República indicam falta de isenção para acompanhar caso Master.",
+      "publicado_em": "2026-09-19T18:47:59-03:00",
+      "dia": "2026-09-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-20T11:30:53-03:00"
     },
     {
       "id": "fa725c4ef685c14d",
@@ -1129,6 +1223,22 @@
       "coletado_em": "2026-09-19T11:11:32-03:00"
     },
     {
+      "id": "6d609eec9a10c5d2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Saiba quais parlamentares deixarão a política a partir de 2027",
+      "link": "https://www.congressoemfoco.com.br/noticia/122412/saiba-quais-parlamentares-deixarao-a-politica-a-partir-de-2027",
+      "resumo": "Seis deputados e seis senadores encerram suas trajetórias na política eleitoral; parte deles pretende aconselhar a próxima geração de congressistas.",
+      "publicado_em": "2026-09-18T15:06:48-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-20T11:30:53-03:00"
+    },
+    {
       "id": "2d2ac124b0a62c09",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1399,6 +1509,24 @@
         "acao"
       ],
       "coletado_em": "2026-09-18T11:47:42-03:00"
+    },
+    {
+      "id": "7eaf39baa5c42c1b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Esperidião propõe reajuste anual da isenção do IR com base na inflação",
+      "link": "https://www.congressoemfoco.com.br/noticia/122392/esperidiao-propoe-reajuste-anual-da-isencao-do-ir-com-base-na-inflacao",
+      "resumo": "Se aprovado, o mecanismo passará a produzir efeitos a partir de 1º de janeiro de 2027.",
+      "publicado_em": "2026-09-18T10:10:21-03:00",
+      "dia": "2026-09-18",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-09-20T11:30:53-03:00"
     },
     {
       "id": "1706707a44ce27f5",
@@ -4172,6 +4300,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-16T19:29:52-03:00"
+    },
+    {
+      "id": "8c6a45c90edbb57c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê participação popular no destino de emendas",
+      "link": "https://www.congressoemfoco.com.br/noticia/122333/projeto-preve-participacao-popular-no-destino-de-emendas",
+      "resumo": "Proposta de Erika Kokay prevê que a população decida como serão usados recursos de parte das emendas parlamentares destinadas a investimentos.",
+      "publicado_em": "2026-09-16T16:33:25-03:00",
+      "dia": "2026-09-16",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-20T11:30:53-03:00"
     },
     {
       "id": "4065b2a1bafca472",
@@ -7700,6 +7845,24 @@
         "advogado"
       ],
       "coletado_em": "2026-09-14T15:56:43-03:00"
+    },
+    {
+      "id": "f65ca37284edf874",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto estende benefício tributário do extrato ao molho de tomate",
+      "link": "https://www.congressoemfoco.com.br/noticia/122238/projeto-estende-beneficio-tributario-do-extrato-ao-molho-de-tomate",
+      "resumo": "Texto busca dar ao molho de tomate o mesmo tratamento tributário já previsto para o extrato, com redução das alíquotas de IBS e CBS.",
+      "publicado_em": "2026-09-14T14:57:05-03:00",
+      "dia": "2026-09-14",
+      "data_estimada": false,
+      "score": 76,
+      "tags": [
+        "tributario",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-09-20T11:30:53-03:00"
     },
     {
       "id": "85dbf9c77a4b05f3",
@@ -55499,22 +55662,6 @@
         "acao"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "205337b7bb23c3e5",
-      "fonte_id": "coaf",
-      "fonte_nome": "Coaf",
-      "titulo": "Coaf no Rio de janeiro: coordenadoria regional inicia reuniões pré inauguração",
-      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-no-rio-de-janeiro-coordenadoria-regional-inicia-reunioes-pre-inauguracao",
-      "resumo": "",
-      "publicado_em": "2026-06-21T01:56:24-03:00",
-      "dia": "2026-06-21",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-09-08T11:32:33-03:00"
     }
   ]
 }
