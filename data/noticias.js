@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-21T15:57:30-03:00",
+  "gerado_em": "2026-09-21T17:15:24-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,7 +173,7 @@ window.DADOS = {
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 23,
+      "itens": 24,
       "erro": null
     },
     {
@@ -279,6 +279,20 @@ window.DADOS = {
       "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
+      "id": "bbb5f6b4f2530d6f",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados",
+      "link": "https://trt15.jus.br/noticia/2026/acesso-indevido-ao-dejt-e-ao-malote-digital-verifique-se-seus-dados-foram-acessados",
+      "resumo": "Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados anagatto Seg, 21/09/2026 - 15:59 Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados Conteúdo da Notícia Ambos sistemas já foram restabelecidos. Polícia Federal e a ANPD foram inform",
+      "publicado_em": "2026-09-21T15:59:21-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
+    },
+    {
       "id": "d667f612f4b97f1c",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -341,6 +355,37 @@ window.DADOS = {
       "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
+      "id": "515df4d3e489a7b2",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Daps Itinerante realiza atendimentos em Ribeirão Preto",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115374&pagina=1",
+      "resumo": "Evento aproxima o Tribunal dos servidores.\n \n\tO Tribunal de Justiça de São Paulo, por meio da Diretoria de Apoio aos Servidores (Daps), realizou, na sexta-feira",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
+    },
+    {
+      "id": "6dccfdd4dafa0c02",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF mantém decreto de Minas Gerais que restringe publicidade de bets",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-decreto-de-minas-gerais-que-restringe-publicidade-de-bets/",
+      "resumo": "Decisão do ministro Flávio Dino considera que restrição a anúncios em bens e eventos públicos estaduais está inserida na autonomia do ente federado",
+      "publicado_em": "2026-09-21T16:44:41-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "decisao",
+        "decreto"
+      ],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
+    },
+    {
       "id": "bddb14d6b672f86d",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -372,6 +417,20 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "ddf45514c97fe892",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Especialistas pedem mais políticas inclusivas para pessoas com deficiência",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/especialistas-pedem-mais-politicas-inclusivas-para-pessoas-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-09-21T16:30:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
     },
     {
       "id": "91b42626a97c0004",
@@ -543,6 +602,22 @@ window.DADOS = {
       "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
+      "id": "2fe48156c91ef61d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Operação fecha pontos de garimpo ilegal na Terra Indígena Munduruku",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/operacao-fecha-pontos-de-garimpo-ilegal-na-terra-indigena-munduruku-pa",
+      "resumo": "",
+      "publicado_em": "2026-09-21T15:51:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
+    },
+    {
       "id": "c0c98c77da8d7a62",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -633,6 +708,20 @@ window.DADOS = {
       "coletado_em": "2026-09-21T13:48:02-03:00"
     },
     {
+      "id": "b838184651725669",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal abre consulta ao lote residual de restituição do IRPF 2026 nesta quarta-feira (23/9)",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-quarta-feira-23-9",
+      "resumo": "",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
+    },
+    {
       "id": "8e8b86f56a7f1a13",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -659,6 +748,70 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "290c9293406a45ca",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cinco projetos têm fim do prazo para sanção nesta semana; veja quais",
+      "link": "https://www.congressoemfoco.com.br/noticia/122446/cinco-projetos-tem-fim-do-prazo-para-sancao-nesta-semana-veja-quais",
+      "resumo": "Presidente tem até sexta-feira para sancionar ou vetar propostas sobre saúde, educação, psicopedagogia, combustíveis e empresas juniores.",
+      "publicado_em": "2026-09-21T14:49:04-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "sancao",
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
+    },
+    {
+      "id": "c524d134d88b8173",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Candidatos a deputado estadual concentram 56% das audoações",
+      "link": "https://www.congressoemfoco.com.br/noticia/122445/candidatos-a-deputado-estadual-concentram-56-das-audoacoes",
+      "resumo": "Disputa pelas assembleias reúne 60% das candidaturas que usaram recursos próprios. Grupo colocou R$ 54 milhões nas campanhas. Veja os candidatos a deputado estadual que mais investiram do próprio bolso na campanha até agora.",
+      "publicado_em": "2026-09-21T14:30:23-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
+    },
+    {
+      "id": "b91db64dd0031740",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pessoas físicas já doaram R$ 456 milhões; veja maiores financiadores",
+      "link": "https://www.congressoemfoco.com.br/noticia/122444/pessoas-fisicas-ja-doaram-r-456-milhoes-veja-maiores-financiadores",
+      "resumo": "Montante equivale a 9% dos recursos já repassados pelo Fundo Eleitoral e pelo Fundo Partidário; 34 doadores contribuíram com ao menos R$ 1 milhão.",
+      "publicado_em": "2026-09-21T14:05:05-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
+    },
+    {
+      "id": "c7c1a57d2d29373a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Do próprio bolso: Candidatos já puseram R$ 96 milhões nas campanhas",
+      "link": "https://www.congressoemfoco.com.br/noticia/122440/do-proprio-bolso-candidatos-ja-puseram-r-96-milhoes-nas-campanhas",
+      "resumo": "Gelson Merísio, que concorre a governador em Santa Catarina, lidera o ranking individual, com R$ 1 milhão destinado à própria campanha. PL aparece no topo entre os partidos.",
+      "publicado_em": "2026-09-21T12:08:36-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
     },
     {
       "id": "b8288e3bef625e7d",
@@ -707,6 +860,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "5248d9df89416bf5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vices e suplentes já puseram R$ 4 milhões nas próprias chapas",
+      "link": "https://www.congressoemfoco.com.br/noticia/122434/vices-e-suplentes-ja-puseram-r-4-milhoes-nas-proprias-chapas",
+      "resumo": "Grupo de 16 integrantes concentrou 86% dos aportes; em 12 das 15 campanhas beneficiadas pelos maiores valores, o titular não colocou dinheiro próprio.",
+      "publicado_em": "2026-09-21T09:41:59-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
     },
     {
       "id": "c595e958c4757b02",
@@ -969,6 +1136,20 @@ window.DADOS = {
         "seminario"
       ],
       "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "0fca275761f5dbba",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto garante livre parada e faixa exclusiva para táxis e carros de aplicativo",
+      "link": "https://www.camara.leg.br/noticias/1303766-projeto-garante-livre-parada-e-faixa-exclusiva-para-taxis-e-carros-de-aplicativo",
+      "resumo": "",
+      "publicado_em": "2026-09-21T16:51:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
     },
     {
       "id": "ba635b2f20f12822",
