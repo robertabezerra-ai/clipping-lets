@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-20T19:03:22-03:00",
+  "gerado_em": "2026-09-21T13:48:02-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,7 +173,7 @@ window.DADOS = {
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 22,
+      "itens": 23,
       "erro": null
     },
     {
@@ -251,6 +251,618 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "90687f9d887273c8",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acesso-indevido-ao-dejt-e-ao-malote-digital-verifique-se-seus-dados-foram-acessados",
+      "resumo": "",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "d667f612f4b97f1c",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "7ª Câmara afasta responsabilidade solidária de empresa por falta de prova de grupo econômico familiar",
+      "link": "https://trt15.jus.br/noticia/2026/7a-camara-afasta-responsabilidade-solidaria-de-empresa-por-falta-de-prova-de-grupo",
+      "resumo": "7ª Câmara afasta responsabilidade solidária de empresa por falta de prova de grupo econômico familiar anagatto Seg, 21/09/2026 - 10:16 7ª Câmara afasta responsabilidade solidária de empresa por falta de prova de grupo econômico familiar Conteúdo da Notícia A 7ª Câmara do Tribunal Regional do Trabalh",
+      "publicado_em": "2026-09-21T10:16:44-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "8a75c61b5e62670d",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação de professora por tortura de crianças de dois e três anos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115369&pagina=1",
+      "resumo": "Pena de cinco anos e cinco meses de reclusão. \n \n\tA 13ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve decisão da",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "6969f17780e31b5f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Tribunal participa da 20ª Primavera dos Museus",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115358&pagina=1",
+      "resumo": "Visitas no Palácio da Justiça e no Museu.\n \n\tO Tribunal de Justiça de São Paulo participa, nos dias 26 e 27 de setembro, da 20ª",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "bddb14d6b672f86d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Um caso pode valer por milhares: como funciona a repercussão geral no STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/um-caso-pode-valer-por-milhares-como-funciona-a-repercussao-geral-no-stf/",
+      "resumo": "Mecanismo permite tratar de forma concentrada questões constitucionais repetidas",
+      "publicado_em": "2026-09-21T10:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "repercussao geral"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "c8923217cf49f2c0",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF garante direitos das pessoas com deficiência em decisões e assegura inclusão no dia a dia da Corte",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-garante-direitos-das-pessoas-com-deficiencia-em-decisoes-e-assegura-inclusao-no-dia-a-dia-da-corte/",
+      "resumo": "No Dia Nacional de Luta da Pessoa com Deficiência, matéria especial lembra julgamentos sobre o tema e medidas internas adotadas para reduzir barreiras",
+      "publicado_em": "2026-09-21T10:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "e11a10bbbe55bf0f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "32 senadores tentam a reeleição neste ano",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/32-senadores-tentam-a-reeleicao-neste-ano",
+      "resumo": "",
+      "publicado_em": "2026-09-21T12:59:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "bcf29f0cef71deb4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei garante avaliação anual da saúde da mulher pelo SUS",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/lei-garante-avaliacao-anual-da-saude-da-mulher-pelo-sus",
+      "resumo": "",
+      "publicado_em": "2026-09-21T09:33:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "9c0dea5d634bbb94",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "21 de setembro: Dia do Auditor-Fiscal",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/21-de-setembro-dia-do-auditor-fiscal",
+      "resumo": "",
+      "publicado_em": "2026-09-21T13:09:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "dcdd18c13477f951",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal comenta, nesta terça-feira (22/9), a arrecadação do mês de agosto",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-comenta-nesta-terca-feira-22-9-a-arrecadacao-do-mes-de-agosto",
+      "resumo": "",
+      "publicado_em": "2026-09-21T11:05:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "44bf6ed023198dda",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Ação integrada do Projeto Captura resulta na prisão de foragido apontado como fundador de organização criminosa",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/acao-integrada-do-projeto-captura-resulta-na-prisao-de-foragido-apontado-como-fundador-de-organizacao-criminosa",
+      "resumo": "",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "eacbe0d126060e31",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP reúne operação nacional, tecnologia e capacitação no combate ao crime organizado no sistema prisional",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-reune-operacao-nacional-tecnologia-e-capacitacao-no-combate-ao-crime-organizado-no-sistema-prisional",
+      "resumo": "",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "7fab75ebac428910",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Aviação civil brasileira movimentou 11,5 milhões de passageiros em agosto",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/aviacao-civil-brasileira-movimentou-11-5-milhoes-de-passageiros-em-agosto",
+      "resumo": "",
+      "publicado_em": "2026-09-21T09:54:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "4bb77d936cd5dcbe",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Sob coordenação federal, forças policiais fazem operação contra o crime organizado em presídios",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/mjsp-reune-operacao-nacional-tecnologia-e-capacitacao-no-combate-ao-crime-organizado-no-sistema-prisional",
+      "resumo": "",
+      "publicado_em": "2026-09-21T08:30:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "6a46eb6ed45ccce0",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Edital cria rede nacional de pesquisa em Educação Especial Inclusiva",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/edital-cria-rede-nacional-de-pesquisa-em-educacao-especial-inclusiva",
+      "resumo": "",
+      "publicado_em": "2026-09-21T08:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "b8288e3bef625e7d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino mantém decreto de MG que proíbe anúncio de bets em bens públicos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122439/dino-mantem-decreto-de-mg-que-proibe-anuncio-de-bets-em-bens-publicos",
+      "resumo": "Decisão foi proferida após representação da Associação Nacional de Jogos e Loterias.",
+      "publicado_em": "2026-09-21T12:05:05-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "decisao",
+        "decreto",
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "44e7a5821c31c354",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Jack Rocha relata ataque com artefato explosivo em ato de campanha",
+      "link": "https://www.congressoemfoco.com.br/noticia/122438/jack-rocha-relata-ataque-com-artefato-explosivo-em-ato-de-campanha",
+      "resumo": "Deputada denunciou dois episódios de violência registrados em menos de 24 horas no Espírito Santo.",
+      "publicado_em": "2026-09-21T11:27:36-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "6d79eb1741f09b5b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Janja faz acordo com ex-conselheiro do Corinthians por ofensa \"putana\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122437/janja-faz-acordo-com-ex-conselheiro-do-corinthians-por-ofensa-putana",
+      "resumo": "Primeira-dama havia pedido R$ 50 mil por danos morais e uma retratação pública.",
+      "publicado_em": "2026-09-21T11:27:30-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "c595e958c4757b02",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Romeu Zema defende alternativa à CLT e ironiza jornada de 40 horas",
+      "link": "https://www.congressoemfoco.com.br/noticia/122433/romeu-zema-defende-alternativa-a-clt-e-ironiza-jornada-de-40-horas",
+      "resumo": "Candidato do Novo propõe contratação por hora e afirma que redução da carga semanal não garante desenvolvimento econômico.",
+      "publicado_em": "2026-09-21T09:23:06-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "fe8bb537b1036da1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula imita Flávio e diz querer vencer para manter Bolsonaro preso",
+      "link": "https://www.congressoemfoco.com.br/noticia/122432/lula-imita-flavio-e-diz-querer-vencer-para-manter-bolsonaro-preso",
+      "resumo": "Presidente ironizou a promessa do adversário de libertar o pai caso seja eleito.",
+      "publicado_em": "2026-09-21T09:09:43-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "e4f92c768659264a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eduardo Bolsonaro é demitido da Polícia Federal por abandono de cargo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122431/eduardo-bolsonaro-e-demitido-da-policia-federal-por-abandono-de-cargo",
+      "resumo": "Ex-deputado não reassumiu o posto de escrivão após perder o mandato e permanecer nos EUA. Decisão ocorre após STF confirmar condenação do ex-deputado a 4 anos de prisão e à perda do cargo público por coação em processo.",
+      "publicado_em": "2026-09-21T08:53:31-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 74,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "af4f1ccd2a5e1ec1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Campanha de Lula pede ao TSE suspensão da \"TV Celular\" de Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/122430/campanha-de-lula-pede-ao-tse-suspensao-da-tv-celular-de-flavio",
+      "resumo": "Alternativamente, coligação solicita bloqueio dos downloads e aplicação de multa.",
+      "publicado_em": "2026-09-21T08:24:52-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "7d7839f744d6182e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "BTG/Nexus aponta empate técnico entre Lula e Flávio nos dois turnos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122429/btg-nexus-aponta-empate-tecnico-entre-lula-e-flavio-nos-dois-turnos",
+      "resumo": "No 1º turno, a diferença numérica cai de cinco para três pontos em uma semana. Na simulação de 2º turno, Lula aparece um ponto à frente de Flávio, como na rodada anterior.",
+      "publicado_em": "2026-09-21T08:21:01-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "c4e74d5a12e3e1b3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A exposição de um Brasil que preferíamos não enxergar",
+      "link": "https://www.congressoemfoco.com.br/artigo/122428/a-exposicao-de-um-brasil-que-preferiamos-nao-enxergar",
+      "resumo": "Há algo profundamente preocupante quando a sociedade começa a olhar para suas instituições com desconfiança e passa a considerar normal aquilo que deveria causar espanto.",
+      "publicado_em": "2026-09-21T08:20:05-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "6d1204dc88ee83ad",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Raquel Lyra se desculpa por fala sobre laqueadura: \"faz sem ela saber\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122426/raquel-lyra-se-desculpa-por-fala-sobre-laqueadura--faz-sem-ela-saber",
+      "resumo": "Candidata classificou o comentário como infeliz e afirmou que não tem compromisso com o erro.",
+      "publicado_em": "2026-09-21T07:53:09-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "be18247f47b4e91d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE suspende campanha de Deltan Dallagnol ao Senado no Paraná",
+      "link": "https://www.congressoemfoco.com.br/noticia/122425/tse-suspende-campanha-de-deltan-dallagnol-ao-senado-no-parana",
+      "resumo": "Liminar impede atos de campanha, propaganda no rádio e na TV, participação em debates e uso de recursos públicos até julgamento do recurso.",
+      "publicado_em": "2026-09-21T07:44:09-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 98,
+      "tags": [
+        "julgamento",
+        "julga",
+        "liminar",
+        "adi",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "4d35d126a3b02fde",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula se reúne hoje em Nova York com Mamdani, Sanders e Yamandú Orsi",
+      "link": "https://www.congressoemfoco.com.br/noticia/122424/lula-se-reune-hoje-em-nova-york-com-mamdani-sanders-e-yamandu-orsi",
+      "resumo": "Na véspera da abertura da Assembleia da ONU, presidente cumpre agenda com o prefeito de Nova York, um dos principais nomes da esquerda americana no Senado e o presidente do Uruguai.",
+      "publicado_em": "2026-09-21T07:18:14-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "1b75892f51f18ee3",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ capacita 4,6 mil pessoas em identificação e documentação nos sistemas penal e socioeducativo",
+      "link": "https://www.cnj.jus.br/cnj-capacita-46-mil-pessoas-em-identificacao-e-documentacao-nos-sistemas-penal-e-socioeducativo/",
+      "resumo": "O 6º Ciclo de Capacitação Online da Ação Nacional de Identificação Civil e Emissão de Documentos, realizado pelo Conselho Nacional de Justiça (CNJ) nos dias 16 e 17 de setembro, formou 4.637 participantes nos sete módulos oferecidos. Com a nova edição da ação, os seis ciclos de formação realizados d",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "35aca5ea7f33cfcf",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Crianças e adolescentes do Novos Caminhos vivem primeira experiência com Balé Bolshoi",
+      "link": "https://www.cnj.jus.br/criancas-e-adolescentes-do-novos-caminhos-vivem-primeira-experiencia-com-bale-bolshoi/",
+      "resumo": "A música ecoa pelo teatro. Os bailarinos entram em cena. Todos os olhos na plateia se voltam para o palco, inclusive os do grupo de crianças e adolescentes do programa Novos Caminhos, que pela primeira vez acompanham a apresentação de balé da Escola do Teatro Bolshoi, em Joinville, cidade reconhecid",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "fe70d375f4b30d13",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Agenda Justiça Juvenil: adolescentes do sistema socioeducativo são capacitados em economia criativa",
+      "link": "https://www.cnj.jus.br/agenda-justica-juvenil-adolescentes-do-sistema-socioeducativo-sao-capacitados-em-economia-criativa/",
+      "resumo": "Adolescentes que cumprem medidas socioeducativas no Amapá, em Minas Gerais, em Pernambuco e no Rio de Janeiro começam nesta segunda-feira (21) formação profissional focada em áreas da economia criativa. A capacitação é resultado entre o Conselho Nacional de Justiça (CNJ) e a Fundação Roberto Marinho",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "2b8d179f8ae76415",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Liberdade religiosa: visita a terreiro promove diálogo com comunidades de matrizes africanas",
+      "link": "https://www.cnj.jus.br/liberdade-religiosa-visita-a-terreiro-promove-dialogo-com-comunidades-de-matrizes-africanas/",
+      "resumo": "Em visita técnica ao terreiro Ilê Axé Opô Afonjá, em Salvador, na tarde da última sexta-feira (18), representantes do Conselho Nacional de Justiça (CNJ), do Tribunal de Justiça uda Bahia (TJBA) e do Ministério Público da Bahia (MPBA) se comprometeram a defender o direito à liberdade de culto. A ativ",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "363eb15d2becf7e6",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Entenda como o pagamento prévio do ITCMD descomplica a partilha de bens",
+      "link": "https://www.cnj.jus.br/entenda-como-o-pagamento-previo-do-itcmd-descomplica-a-partilha-de-bens/",
+      "resumo": "O Plenário do Conselho Nacional de Justiça (CNJ) decidiu que não é preciso pagar antecipadamente o Imposto sobre Transmissão Causa Mortis e Doação (ITCMD) para fazer uma escritura pública de inventário extrajudicial — procedimento realizado em cartório para dividir os bens de uma pessoa que morreu. ",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "imposto",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "4e10c06f587d6ecc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto garante assistência integral e cirurgias reparadoras para vítimas de queimaduras",
+      "link": "https://www.camara.leg.br/noticias/1303789-projeto-garante-assistencia-integral-e-cirurgias-reparadoras-para-vitimas-de-queimaduras",
+      "resumo": "",
+      "publicado_em": "2026-09-21T13:36:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "b53caef3f50ff32e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê ensino técnico alinhado a vocações econômicas de cada região",
+      "link": "https://www.camara.leg.br/noticias/1305674-projeto-preve-ensino-tecnico-alinhado-a-vocacoes-economicas-de-cada-regiao",
+      "resumo": "",
+      "publicado_em": "2026-09-21T12:33:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "d0f57d8e9b166060",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe publicidade de alimentos ultraprocessados dirigida a crianças",
+      "link": "https://www.camara.leg.br/noticias/1304964-projeto-proibe-publicidade-de-alimentos-ultraprocessados-dirigida-a-criancas",
+      "resumo": "",
+      "publicado_em": "2026-09-21T11:47:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "26e6886aed79a50c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto obriga escolas a instalar câmeras nos acessos a banheiros para reforçar segurança",
+      "link": "https://www.camara.leg.br/noticias/1304204-projeto-obriga-escolas-a-instalar-cameras-nos-acessos-a-banheiros-para-reforcar-seguranca",
+      "resumo": "",
+      "publicado_em": "2026-09-21T11:44:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "5ff833af88ffd21f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei proíbe prisão de candidatos e eleitores durante período de votação",
+      "link": "https://www.camara.leg.br/noticias/1305696-lei-proibe-prisao-de-candidatos-e-eleitores-durante-periodo-de-votacao",
+      "resumo": "",
+      "publicado_em": "2026-09-21T11:20:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "1bc39c0480b75157",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eleições 2026: eleitores de todo o país irão às urnas em horário unificado, seguindo fuso de Brasília",
+      "link": "https://www.camara.leg.br/noticias/1305622-eleicoes-2026-eleitores-de-todo-o-pais-irao-as-urnas-em-horario-unificado-seguindo-fuso-de-brasilia",
+      "resumo": "",
+      "publicado_em": "2026-09-21T09:47:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "ad0c0cae6f7a7e6a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto institui a política de blindagem rural para combater criminalidade no campo",
+      "link": "https://www.camara.leg.br/noticias/1303467-projeto-institui-a-politica-de-blindagem-rural-para-combater-criminalidade-no-campo",
+      "resumo": "",
+      "publicado_em": "2026-09-21T09:38:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
       "id": "514d489f6371cb14",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -295,6 +907,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-20T19:03:22-03:00"
+    },
+    {
+      "id": "099a0ec0d762d53e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pioneiro, Núcleo de Telessaúde de Parintins completa 20 anos de acesso à saúde na Amazônia",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pioneiro-no-pais-nucleo-de-telessaude-de-parintins-completa-20-anos-ampliando-acesso-a-saude-na-amazonia",
+      "resumo": "",
+      "publicado_em": "2026-09-20T14:35:00-03:00",
+      "dia": "2026-09-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
     },
     {
       "id": "0e4f1e83707008ec",
@@ -981,7 +1607,7 @@ window.DADOS = {
       "id": "3ddc910ac27aac45",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Conselho composto por governos, universidades e setor privado vai coordenar política de minerais críticos",
+      "titulo": "Conselho com governos, universidades e setor privado vai coordenar minerais críticos",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/conselho-governos-universidades-iniciativa-privada-vai-coordenar-politica-minerais-criticos",
       "resumo": "",
       "publicado_em": "2026-09-18T16:35:00-03:00",
@@ -1782,7 +2408,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Fórum debate carreira de servidores, combate ao assédio e valorização do 1º grau",
       "link": "https://www.cnj.jus.br/forum-debate-carreira-de-servidores-combate-ao-assedio-e-valorizacao-do-1o-grau/",
-      "resumo": "O Fórum de Discussão Permanente de Gestão da Carreira dos Servidores do Poder Judiciário da União (PJU) se reuniu, nesta sexta-feira (18), no Conselho Nacional de Justiça (CNJ), para o delineamento dos trabalhos do colegiado. Na pauta, a reestrutura do plano de carreira dos servidores do Judiciário,",
+      "resumo": "O Fórum de Discussão Permanente de Gestão da Carreira dos Servidores do Poder Judiciário da União (PJU) se reuniu, nesta sexta-feira (18), no Conselho Nacional de Justiça (CNJ), para o delineamento dos trabalhos do colegiado. Na pauta, estavam a reestrutura do plano de carreira dos servidores do Jud",
       "publicado_em": "2026-09-18T12:00:00-03:00",
       "dia": "2026-09-18",
       "data_estimada": true,
@@ -55623,113 +56249,6 @@ window.DADOS = {
       "resumo": "Certificação é o mais alto reconhecimento internacional da atividade de auditoria interna. Conquista evidencia a atuação estratégica da Auditoria do BC, com foco em riscos, tecnologia, dados e geração de valor. BC foi a primeira instituição do setor público brasileiro a obter a certificação do IIA B",
       "publicado_em": "2026-06-23T17:12:15-03:00",
       "dia": "2026-06-23",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "36809accd81d2731",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Justiça do Trabalho Itinerante atende Rio Grande da Serra-SP",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-do-trabalho-itinerante-atende-rio-grande-da-serra-sp",
-      "resumo": "",
-      "publicado_em": "2026-06-22T12:00:00-03:00",
-      "dia": "2026-06-22",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "2405418eeadde842",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Congresso de magistrados(as) debate linguagem simples e construção da decisão judicial",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/congresso-de-magistradosas-debate-linguagem-simples-e-construcao-da-decisao-judicial",
-      "resumo": "",
-      "publicado_em": "2026-06-22T12:00:00-03:00",
-      "dia": "2026-06-22",
-      "data_estimada": true,
-      "score": 60,
-      "tags": [
-        "decisao",
-        "judicial"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "3c64a92a474f333f",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "2ª Região altera horário de funcionamento na quarta-feira (24/6)",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2a-regiao-altera-horario-de-funcionamento-na-quarta-feira-24-6",
-      "resumo": "",
-      "publicado_em": "2026-06-22T12:00:00-03:00",
-      "dia": "2026-06-22",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "a4bf6f809efbff3d",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Gerente que desviou recursos para apostar deve ressarcir empresa",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/gerente-que-desviou-recursos-para-apostar-deve-ressarcir-empresa",
-      "resumo": "",
-      "publicado_em": "2026-06-22T12:00:00-03:00",
-      "dia": "2026-06-22",
-      "data_estimada": true,
-      "score": 48,
-      "tags": [
-        "recurso"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "2b0c4bb2793ed187",
-      "fonte_id": "pgfn",
-      "fonte_nome": "PGFN",
-      "titulo": "Novos editais de transação da PGFN estão disponíveis",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novos-editais-de-transacao-da-pgfn-estao-disponiveis",
-      "resumo": "",
-      "publicado_em": "2026-06-22T12:00:00-03:00",
-      "dia": "2026-06-22",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "8d4924f14409b06f",
-      "fonte_id": "coaf",
-      "fonte_nome": "Coaf",
-      "titulo": "Coaf reforça ações contra a lavagem de dinheiro em conferência do Gafilat",
-      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-reforca-acoes-contra-a-lavagem-de-dinheiro-em-conferencia-do-gafilat",
-      "resumo": "",
-      "publicado_em": "2026-06-22T14:40:43-03:00",
-      "dia": "2026-06-22",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-08T11:32:33-03:00"
-    },
-    {
-      "id": "d18d32cbf79b3668",
-      "fonte_id": "bacen",
-      "fonte_nome": "Bacen",
-      "titulo": "Mais eficiência nos pagamentos com o uso do Open Finance",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21170/nota",
-      "resumo": "Clientes poderão autorizar compartilhamento de saldo e limite de sua conta ao conectá-la no Pix por Aproximação. Jornada otimizada vai possibilitar visualização de saldo e limite da conta no momento da transação, entre outras soluções. Alterações entram em vigor hoje; leia a matéria e saiba mais sob",
-      "publicado_em": "2026-06-22T08:30:42-03:00",
-      "dia": "2026-06-22",
       "data_estimada": false,
       "score": 46,
       "tags": [
