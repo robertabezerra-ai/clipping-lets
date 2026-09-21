@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-21T17:15:24-03:00",
+  "gerado_em": "2026-09-21T19:56:25-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -277,6 +277,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "3493dda5e71675cf",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Café com Cejusc fortalece a cultura da medição em Barueri-SP",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/cafe-com-cejusc-fortalece-a-cultura-da-medicao-em-barueri-sp",
+      "resumo": "",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
     },
     {
       "id": "bbb5f6b4f2530d6f",
@@ -369,6 +383,70 @@ window.DADOS = {
       "coletado_em": "2026-09-21T17:15:24-03:00"
     },
     {
+      "id": "fd29bab58f25a720",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Começa a 7ª Semana da Acessibilidade e Inclusão do TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115381&pagina=1",
+      "resumo": "Palestras promovem igualdade de condições.\n \n\tO Tribunal de Justiça de São Paulo iniciou, hoje (21), a 7ª edição da Semana da Acessibilidade e Inclusão, promovida",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "a37067c1ba5cbaa0",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF realiza nesta terça (22) audiência pública sobre responsabilidade de parlamentares em emendas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-realiza-nesta-terca-22-audiencia-publica-sobre-responsabilidade-de-parlamentares-em-emendas/",
+      "resumo": "Debate terá transmissão ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube",
+      "publicado_em": "2026-09-21T19:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "0e94a65afa261eff",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "CESTF realiza audiência acadêmica em Curitiba (PR) para debater desafios do ensino do direito constitucional",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cestf-realiza-audiencia-academica-em-curitiba-pr-para-debater-desafios-do-ensino-do-direito-constitucional/",
+      "resumo": "Encontro reuniu representantes da comunidade acadêmica do Paraná e discutiu como atualizar a formação jurídica diante de mudanças sociais, tecnológicas e ambientais",
+      "publicado_em": "2026-09-21T18:30:42-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "1d40a849c4259df1",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "União tem 90 dias para reavaliar normas que regulamentam a CVM",
+      "link": "https://noticias.stf.jus.br/postsnoticias/uniao-tem-90-dias-para-reavaliar-normas-que-regulamentam-a-cvm/",
+      "resumo": "Decisão do ministro Flávio Dino leva em conta fragilidades na rastreabilidade das operações e nos mecanismos de prevenção à lavagem de dinheiro",
+      "publicado_em": "2026-09-21T18:07:23-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "decisao",
+        "regulamenta"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
       "id": "6dccfdd4dafa0c02",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -417,6 +495,20 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "09136e4efd23808b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Para usar o e-Título, eleitor deve fazer primeiro acesso até 3 de outubro",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/para-usar-o-e-titulo-eleitor-deve-fazer-primeiro-acesso-ate-3-de-outubro",
+      "resumo": "",
+      "publicado_em": "2026-09-21T18:28:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
     },
     {
       "id": "ddf45514c97fe892",
@@ -602,6 +694,52 @@ window.DADOS = {
       "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
+      "id": "7fd98c6df7d18070",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon instaura 70 processos contra postos por suspeita de aumento abusivo de combustíveis",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-instaura-70-processos-contra-postos-por-suspeita-de-aumento-abusivo-de-combustiveis-1",
+      "resumo": "",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "d8e5caf92f0287f5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Receita, Sebrae e contadores criam tira-dúvidas sobre Reforma Tributária; acesse",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/tire-duvidas-reforma-tributaria-com-a-receita-sebrae-contadores",
+      "resumo": "",
+      "publicado_em": "2026-09-21T19:20:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "15ecb1d0fa1aa916",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Forças Armadas e sociedade civil treinam defesa do espaço cibernético nacional",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/exercicio-guardiao-cibernetico-8-0-reunira-cerca-de-1-300-participantes-em-brasilia",
+      "resumo": "",
+      "publicado_em": "2026-09-21T15:59:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
       "id": "2fe48156c91ef61d",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -722,6 +860,87 @@ window.DADOS = {
       "coletado_em": "2026-09-21T17:15:24-03:00"
     },
     {
+      "id": "dec7cd7735d42415",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Ação concentra orientações sobre a Reforma Tributária",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/acao-concentra-orientacoes-sobre-a-reforma-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "reforma tributaria",
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "fb4c25b6d04e8492",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Reforma tributária precisará de constante aperfeiçoamento",
+      "link": "https://www.congressoemfoco.com.br/artigo/122456/reforma-tributaria-precisara-de-constante-aperfeicoamento",
+      "resumo": "Depois de anos de discussão sobre o desenho da reforma, chegou o momento de observar como ela se comportará diante de milhões de operações reais.",
+      "publicado_em": "2026-09-21T18:03:04-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "a374ec41963afbfa",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mais mulheres na política para um Brasil melhor",
+      "link": "https://www.congressoemfoco.com.br/artigo/122455/mais-mulheres-na-politica-para-um-brasil-melhor",
+      "resumo": "A busca da igualdade no exercício do poder não se volta para reproduzir desvios de conduta no trato da questão pública, realidade que nos entristece muito. É para levar ao poder a sensibilidade e o olhar feminino, lapidados no decorrer dos séculos pelo carinho que sempre atou a relação mãe e filho.",
+      "publicado_em": "2026-09-21T17:38:54-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "f0740e3b9ee60a2c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O Brasil que escolhe não crescer",
+      "link": "https://www.congressoemfoco.com.br/artigo/122454/o-brasil-que-escolhe-nao-crescer",
+      "resumo": "Com dívida, juros e gastos em alta, o país segue financiando desequilíbrios correntes e adiando as reformas que poderiam reduzir o risco fiscal e elevar a produtividade.",
+      "publicado_em": "2026-09-21T17:31:36-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "eb0eaa798578b46a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleição proporcional: o voto vira mandato e o papel do voto de legenda",
+      "link": "https://www.congressoemfoco.com.br/coluna/122453/eleicao-proporcional-o-voto-vira-mandato-e-o-papel-do-voto-de-legenda",
+      "resumo": "Para votar com consciência, compreender essa diferença é fundamental para que o eleitor saiba como seu voto participa da transformação da votação em representação parlamentar.",
+      "publicado_em": "2026-09-21T17:22:41-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
       "id": "8e8b86f56a7f1a13",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -782,6 +1001,22 @@ window.DADOS = {
         "recurso"
       ],
       "coletado_em": "2026-09-21T17:15:24-03:00"
+    },
+    {
+      "id": "680fcae9ba762d82",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Candidatos a deputado estadual concentram 56% das autodoações",
+      "link": "https://www.congressoemfoco.com.br/noticia/122445/candidatos-a-deputado-estadual-concentram-56-das-autodoacoes",
+      "resumo": "Disputa pelas assembleias reúne 60% das candidaturas que usaram recursos próprios. Grupo colocou R$ 54 milhões nas campanhas. Veja os candidatos a deputado estadual que mais investiram do próprio bolso na campanha até agora.",
+      "publicado_em": "2026-09-21T14:30:23-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
     },
     {
       "id": "b91db64dd0031740",
@@ -1121,6 +1356,22 @@ window.DADOS = {
       "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
+      "id": "b4f3431a610ad6db",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Inclusão e escuta fortalecem acesso à justiça no território Kalunga",
+      "link": "https://www.cnj.jus.br/inclusao-e-escuta-fortalecem-acesso-a-justica-no-territorio-kalunga/",
+      "resumo": "A escuta atenta como instrumento de inclusão marcou a inauguração do novo Ponto de Inclusão Digital (PID) na comunidade Kalunga de Engenho II, em Cavalcante (GO). O evento, realizado nesta segunda-feira (21/9), reuniu conselheiros do Conselho Nacional de Justiça (CNJ), representantes do Tribunal de ",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
       "id": "4e9c27f7f37fe96a",
       "fonte_id": "carf",
       "fonte_nome": "CARF",
@@ -1136,6 +1387,48 @@ window.DADOS = {
         "seminario"
       ],
       "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "06e622487d063b0a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política de infraestrutura familiar nas praias",
+      "link": "https://www.camara.leg.br/noticias/1303803-projeto-cria-politica-de-infraestrutura-familiar-nas-praias",
+      "resumo": "",
+      "publicado_em": "2026-09-21T19:04:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "3a9170f07cad08da",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria figura do “boi bombeiro” na prevenção de incêndios no Pantanal",
+      "link": "https://www.camara.leg.br/noticias/1303621-projeto-cria-figura-do-boi-bombeiro-na-prevencao-de-incendios-no-pantanal",
+      "resumo": "",
+      "publicado_em": "2026-09-21T18:11:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "f29895830acf45ff",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria regras para anúncios de emprego em plataformas digitais e para combater tráfico de pessoas",
+      "link": "https://www.camara.leg.br/noticias/1305694-projeto-cria-regras-para-anuncios-de-emprego-em-plataformas-digitais-e-para-combater-trafico-de-pessoas",
+      "resumo": "",
+      "publicado_em": "2026-09-21T17:41:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
     },
     {
       "id": "0fca275761f5dbba",
@@ -1285,6 +1578,25 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "a153d0aa3eb2308a",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD divulga resultado preliminar do 4º Prêmio Danilo Doneda",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-divulga-resultado-preliminar-do-4o-premio-danilo-doneda",
+      "resumo": "Os trabalhos vencedores abordam temas como inteligência artificial, os desafios da Agência  diante da automatização das plataformas digitais e a governança de dados pela LGPD",
+      "publicado_em": "2026-09-21T17:44:24-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "liminar",
+        "lgpd",
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
     },
     {
       "id": "514d489f6371cb14",
