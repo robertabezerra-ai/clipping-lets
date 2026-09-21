@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-21T13:48:02-03:00",
+  "gerado_em": "2026-09-21T15:57:30-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 17,
       "erro": null
     },
     {
@@ -233,7 +233,7 @@
     {
       "id": "carf",
       "status": "ok",
-      "itens": 5,
+      "itens": 6,
       "erro": null
     },
     {
@@ -263,6 +263,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "079155653734f1fe",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Campanha \"Em pauta a melhor idade\" concilia casos de pessoas com 60 anos ou mais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/campanha-em-pauta-a-melhor-idade-concilia-casos-de-pessoas-com-60-anos-ou-mais",
+      "resumo": "",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
       "id": "d667f612f4b97f1c",
@@ -313,6 +327,20 @@
       "coletado_em": "2026-09-21T13:48:02-03:00"
     },
     {
+      "id": "80e6a97b923a248a",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP realiza 1ª Semana da Pessoa Idosa a partir de segunda (28)",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115375&pagina=1",
+      "resumo": "Inscrições já estão abertas.\n \n\tO Tribunal de Justiça de São Paulo realiza, entre 28 de setembro e 2 de outubro, a primeira edição da Semana",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
       "id": "bddb14d6b672f86d",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -346,6 +374,53 @@
       "coletado_em": "2026-09-21T13:48:02-03:00"
     },
     {
+      "id": "91b42626a97c0004",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Memória do pai leva jornalista do Senado à final do Prêmio Vladimir Herzog",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/memoria-do-pai-leva-jornalista-do-senado-a-final-do-premio-vladimir-herzog",
+      "resumo": "",
+      "publicado_em": "2026-09-21T15:39:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 38,
+      "tags": [
+        "adi",
+        "premio"
+      ],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "673c7ad7b1a3098c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Participantes de sessão cobram avaliação biopsicossocial de PCDs",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/21/participantes-de-sessao-cobram-avaliacao-biopsicossocial-de-pcds",
+      "resumo": "",
+      "publicado_em": "2026-09-21T14:14:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "36e5ea899278ff40",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAS: projeto traz regras para uso da inteligência artificial na saúde pública",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/cas-projeto-traz-regras-para-uso-da-inteligencia-artificial-na-saude-publica",
+      "resumo": "",
+      "publicado_em": "2026-09-21T13:49:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
       "id": "e11a10bbbe55bf0f",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -374,6 +449,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "1019b6a83144de6b",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal abre consulta ao lote residual de restituição do IRPF 2026 nesta quarta-feira (23)",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-quarta-feira-23",
+      "resumo": "",
+      "publicado_em": "2026-09-21T15:20:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
       "id": "9c0dea5d634bbb94",
@@ -438,6 +527,64 @@
       "coletado_em": "2026-09-21T13:48:02-03:00"
     },
     {
+      "id": "c83c0c0dfa6677cb",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Ministro da Justiça e Segurança Pública reforça a importância da integração entre União, estados e municípios no enfrentamento ao crime organizado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-e-seguranca-publica-reforca-a-importancia-da-integracao-entre-uniao-estados-e-municipios-no-enfrentamento-ao-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "c0c98c77da8d7a62",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Aplicativo MEC Idiomas oferece cursos gratuitos de inglês e espanhol, do básico ao avançado",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/conheca-recursos-do-mec-idiomas-para-aprender-nova-lingua",
+      "resumo": "",
+      "publicado_em": "2026-09-21T15:31:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "8a2c2a739439ff7b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Dia Nacional de Luta da Pessoa com Deficiência reforça combate ao capacitismo",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/dia-nacional-de-luta-da-pessoa-com-deficiencia-reforca-combate-ao-capacitismo",
+      "resumo": "",
+      "publicado_em": "2026-09-21T14:45:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "d8f18ad245c57021",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "SUS adota nova técnica cirúrgica que trata glaucoma e catarata ao mesmo tempo",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/sus-vai-oferecer-cirurgia-que-trata-glaucoma-e-catarata-ao-mesmo-tempo",
+      "resumo": "",
+      "publicado_em": "2026-09-21T11:43:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
       "id": "7fab75ebac428910",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -484,6 +631,34 @@
         "acao"
       ],
       "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "8e8b86f56a7f1a13",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Morre Sônia Carneiro, jornalista que acompanhou Diretas e Constituinte",
+      "link": "https://www.congressoemfoco.com.br/noticia/122448/morre-sonia-carneiro-jornalista-que-acompanhou-diretas-e-constituinte",
+      "resumo": "Com trajetória de mais de 50 anos, jornalista foi uma das pioneiras entre as mulheres na cobertura política em Brasília.",
+      "publicado_em": "2026-09-21T15:04:27-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "2659d2a95bc6eaf2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula presenteia prefeito de Nova York com camisa do Corinthians",
+      "link": "https://www.congressoemfoco.com.br/noticia/122447/lula-presenteia-prefeito-de-nova-york-com-camisa-do-corinthians",
+      "resumo": "Prefeito retribuiu o presente com uma camisa do New York City FC produzida para a Copa do Mundo.",
+      "publicado_em": "2026-09-21T14:58:09-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
       "id": "b8288e3bef625e7d",
@@ -702,7 +877,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Crianças e adolescentes do Novos Caminhos vivem primeira experiência com Balé Bolshoi",
       "link": "https://www.cnj.jus.br/criancas-e-adolescentes-do-novos-caminhos-vivem-primeira-experiencia-com-bale-bolshoi/",
-      "resumo": "A música ecoa pelo teatro. Os bailarinos entram em cena. Todos os olhos na plateia se voltam para o palco, inclusive os do grupo de crianças e adolescentes do programa Novos Caminhos, que pela primeira vez acompanham a apresentação de balé da Escola do Teatro Bolshoi, em Joinville, cidade reconhecid",
+      "resumo": "A música ecoa pelo teatro. Os bailarinos entram em cena. Todos os olhos na plateia se voltam para o palco, inclusive os do grupo de crianças e adolescentes do programa Novos Caminhos, que, pela primeira vez, acompanham a apresentação de balé da Escola do Teatro Bolshoi, em Joinville, cidade reconhec",
       "publicado_em": "2026-09-21T12:00:00-03:00",
       "dia": "2026-09-21",
       "data_estimada": true,
@@ -718,7 +893,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Agenda Justiça Juvenil: adolescentes do sistema socioeducativo são capacitados em economia criativa",
       "link": "https://www.cnj.jus.br/agenda-justica-juvenil-adolescentes-do-sistema-socioeducativo-sao-capacitados-em-economia-criativa/",
-      "resumo": "Adolescentes que cumprem medidas socioeducativas no Amapá, em Minas Gerais, em Pernambuco e no Rio de Janeiro começam nesta segunda-feira (21) formação profissional focada em áreas da economia criativa. A capacitação é resultado entre o Conselho Nacional de Justiça (CNJ) e a Fundação Roberto Marinho",
+      "resumo": "Adolescentes que cumprem medidas socioeducativas no Amapá, em Minas Gerais, em Pernambuco e no Rio de Janeiro começam, nesta segunda-feira (21), formação profissional focada em áreas da economia criativa. A capacitação é resultado entre o Conselho Nacional de Justiça (CNJ) e a Fundação Roberto Marin",
       "publicado_em": "2026-09-21T12:00:00-03:00",
       "dia": "2026-09-21",
       "data_estimada": true,
@@ -734,7 +909,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Liberdade religiosa: visita a terreiro promove diálogo com comunidades de matrizes africanas",
       "link": "https://www.cnj.jus.br/liberdade-religiosa-visita-a-terreiro-promove-dialogo-com-comunidades-de-matrizes-africanas/",
-      "resumo": "Em visita técnica ao terreiro Ilê Axé Opô Afonjá, em Salvador, na tarde da última sexta-feira (18), representantes do Conselho Nacional de Justiça (CNJ), do Tribunal de Justiça uda Bahia (TJBA) e do Ministério Público da Bahia (MPBA) se comprometeram a defender o direito à liberdade de culto. A ativ",
+      "resumo": "Em visita técnica ao terreiro Ilê Axé Opô Afonjá, em Salvador (BA), na tarde da última sexta-feira (18), representantes do Conselho Nacional de Justiça (CNJ), do Tribunal de Justiça da Bahia (TJBA) e do Ministério Público da Bahia (MPBA) se comprometeram a defender o direito à liberdade de culto. A",
       "publicado_em": "2026-09-21T12:00:00-03:00",
       "dia": "2026-09-21",
       "data_estimada": true,
@@ -761,6 +936,74 @@
         "acao"
       ],
       "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "fb0bc97fb6e42675",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Boas práticas e parceria institucional fortalecem Juizados Especiais",
+      "link": "https://www.cnj.jus.br/boas-praticas-e-parceria-institucional-fortalecem-juizados-especiais/",
+      "resumo": "O fortalecimento dos Juizados Especiais passa pela parceria institucional e pela troca de boas práticas. A afirmação foi feita pela conselheira Andréa Cunha Esmeraldo, durante o II Fórum Estadual dos Juizados Especiais (Foestajes), realizado pelo Tribunal de Justiça do Espírito Santo (TJES) na sexta",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "4e9c27f7f37fe96a",
+      "fonte_id": "carf",
+      "fonte_nome": "CARF",
+      "titulo": "XII Seminário CARF reúne especialistas para debater reforma tributária, segurança jurídica e contencioso fiscal",
+      "link": "https://www.gov.br/carf/pt-br/assuntos/novas-noticias/xii-seminario-carf-reune-especialistas-para-debater-reforma-tributaria-seguranca-juridica-e-contencioso-fiscal",
+      "resumo": "",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "reforma tributaria",
+        "seminario"
+      ],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "ba635b2f20f12822",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Frente parlamentar reúne diplomatas, parlamentares e setor portuário para discutir integração Brasil–Ásia",
+      "link": "https://www.camara.leg.br/noticias/1305830-frente-parlamentar-reune-diplomatas-parlamentares-e-setor-portuario-para-discutir-integracao-brasil-asia",
+      "resumo": "",
+      "publicado_em": "2026-09-21T15:51:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "acao",
+        "diploma",
+        "frente parlamentar"
+      ],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "a0adc46a4d4692c2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria portal único obrigatório para processos seletivos de emprego",
+      "link": "https://www.camara.leg.br/noticias/1303596-projeto-cria-portal-unico-obrigatorio-para-processos-seletivos-de-emprego",
+      "resumo": "",
+      "publicado_em": "2026-09-21T14:26:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "obrigatorio",
+        "processo"
+      ],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
       "id": "4e10c06f587d6ecc",
