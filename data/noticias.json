@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-21T19:56:25-03:00",
+  "gerado_em": "2026-09-22T12:25:47-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,497 @@
   ],
   "noticias": [
     {
+      "id": "e480611fd1dcbe77",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Pesquisa colhe sugestões para Plano Estratégico 2027-2032 da Justiça do Trabalho",
+      "link": "https://trt15.jus.br/noticia/2026/pesquisa-colhe-sugestoes-para-plano-estrategico-2027-2032-da-justica-do-trabalho",
+      "resumo": "Pesquisa colhe sugestões para Plano Estratégico 2027-2032 da Justiça do Trabalho anagatto Ter, 22/09/2026 - 10:57 Pesquisa colhe sugestões para Plano Estratégico 2027-2032 da Justiça do Trabalho Conteúdo da Notícia A partir desta segunda-feira (21), a Justiça do Trabalho vai ouvir a sociedade para d",
+      "publicado_em": "2026-09-22T10:57:14-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "91cb4e26c8b8f1c8",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Boas Práticas: Fórum Regional de Santo Amaro inaugura Biblioteca Circulante",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115361&pagina=1",
+      "resumo": "Estímulo à leitura e integração entre servidores.\n \n\tIdeia boa é ideia compartilhada! Na última sexta-feira (18), o Fórum Regional de Santo Amaro inaugurou um espaço",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "49ffa3ac6cd4be89",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Ponte sobre o Rio Paraguai recebe nome de ex-prefeito de Porto Murtinho",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/22/ponte-sobre-o-rio-paraguai-recebe-nome-de-ex-prefeito-de-porto-murtinho",
+      "resumo": "",
+      "publicado_em": "2026-09-22T11:16:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "0f16add6891832ff",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "MP destina R$ 64,3 mi para segurança alimentar e apoio a povos indígenas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/22/mp-destina-r-64-3-milhoes-para-seguranca-alimentar-e-povos-indigenas",
+      "resumo": "",
+      "publicado_em": "2026-09-22T11:03:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "7c6d6b37b6b243e0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CDH divulga nesta quarta dados de violência contra a mulher com deficiência",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/22/cdh-divulga-nesta-quarta-dados-de-violencia-contra-a-mulher-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-09-22T10:31:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "78371d67fc62b5fb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições 2026: lei impede prisão de candidatos e eleitores",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/eleicoes-2026-lei-impede-prisao-de-candidatos-e-eleitores",
+      "resumo": "",
+      "publicado_em": "2026-09-22T08:52:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "c3398d9055370b2b",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação conjunta combate organização envolvida com descaminho de perfumes, evasão de divisas e lavagem de capitais",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/operacao-conjunta-combate-organizacao-envolvida-com-descaminho-de-perfumes-evasao-de-divisas-e-lavagem-de-capitais",
+      "resumo": "",
+      "publicado_em": "2026-09-22T07:41:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "d8e5caf92f0287f5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Receita, Sebrae e contadores criam tira-dúvidas sobre Reforma Tributária; acesse",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/tire-duvidas-reforma-tributaria-com-a-receita-sebrae-contadores",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:20:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "6afa8dbed01f3e05",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Cantora Teresa Cristina solta a voz no programa Sem Censura, da TV Brasil, desta terça (22)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/cantora-teresa-cristina-solta-a-voz-no-programa-sem-censura-da-tv-brasil-desta-terca-22-9",
+      "resumo": "",
+      "publicado_em": "2026-09-22T11:40:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "e24915584f336950",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Preços de alface, cebola, batata e mamão têm redução média superior a 10% nas Ceasas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/alface-cebola-batata-e-mamao-apresentam-reducao-superior-a-10-na-media-dos-valores-de-comercializacao-no-atacado",
+      "resumo": "",
+      "publicado_em": "2026-09-22T09:22:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "7c3a7c492d637cae",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Leia a íntegra do discurso de Lula na abertura da Assembleia da ONU",
+      "link": "https://www.congressoemfoco.com.br/noticia/122470/leia-a-integra-do-discurso-de-lula-na-abertura-da-assembleia-da-onu",
+      "resumo": "Presidente critica paralisia da ONU, manda recados aos Estados Unidos e fala sobre Pix, eleições, big techs e fim da escala 6x1.",
+      "publicado_em": "2026-09-22T11:50:20-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "e7390bab7037e428",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeção em NY mostra Flávio entregando faixa a Trump: \"pau mandado\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122469/projecao-em-ny-mostra-flavio-entregando-faixa-a-trump--pau-mandado",
+      "resumo": "Vídeo produzido com inteligência artificial faz parte de protesto da organização Choose Democracy.",
+      "publicado_em": "2026-09-22T11:16:26-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "feb73e3e65177ab5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ao lado de Efraim na Paraíba, prefeito do União diz que votará em Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/122468/ao-lado-de-efraim-na-paraiba-prefeito-do-uniao-diz-que-votara-em-lula",
+      "resumo": "Apoio chama atenção por composição diversa, com candidato do PL a governador e do PT a presidente.",
+      "publicado_em": "2026-09-22T10:10:51-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "07885af3a2b3c461",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Manobra absurda\" e \"nada jurídico\": As críticas de Mendonça a Moraes",
+      "link": "https://www.congressoemfoco.com.br/noticia/122467/manobra-absurda-e-nada-juridico--as-criticas-de-mendonca-a-moraes",
+      "resumo": "Em manifestação de 76 páginas, ministro combina argumentos jurídicos com críticas diretas ao colega e aos relatórios da Polícia Federal.",
+      "publicado_em": "2026-09-22T09:46:37-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "ffaec1924c8df944",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça diz que Moraes fez \"arapongagem\" e que acusação é leviana",
+      "link": "https://www.congressoemfoco.com.br/noticia/122466/mendonca-diz-que-moraes-fez-arapongagem-e-que-acusacao-e-leviana",
+      "resumo": "Ministro contesta uso de relatórios da PF, pede arquivamento de representação e solicita avaliação sobre possíveis crimes na iniciativa do colega.",
+      "publicado_em": "2026-09-22T09:17:25-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "eeceae507eeffdb4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ciro Gomes terá de exibir resposta de Elmano por 36 dias no YouTube",
+      "link": "https://www.congressoemfoco.com.br/noticia/122465/ciro-gomes-tera-de-exibir-resposta-de-elmano-por-36-dias-no-youtube",
+      "resumo": "Decisão aponta que declaração sobre suposto acordo dos governos de Elmano e Camilo com facções ultrapassou os limites da crítica política.",
+      "publicado_em": "2026-09-22T08:51:24-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "2944d0b299ded606",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cury pede orações por conselheiro de campanha desaparecido com Rick",
+      "link": "https://www.congressoemfoco.com.br/noticia/122464/cury-pede-oracoes-por-conselheiro-de-campanha-desaparecido-com-rick",
+      "resumo": "Empresário Bruno Avelar estava no helicóptero que desapareceu em Santa Catarina com o cantor Rick e outras duas pessoas.",
+      "publicado_em": "2026-09-22T08:46:07-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "c6ae67cdb4f46412",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE manda Filipe Barros apagar vídeo que liga Gleisi ao Careca do INSS",
+      "link": "https://www.congressoemfoco.com.br/noticia/122463/tse-manda-filipe-barros-apagar-video-que-liga-gleisi-ao-careca-do-inss",
+      "resumo": "Toffoli determina retirada em 24 horas e aponta que gravação omitiu absolvição da petista pelo Supremo.",
+      "publicado_em": "2026-09-22T08:25:09-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "43b8434ed9e7cb51",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula diz que ONU falha e que o Brasil \"não cabe no quintal de ninguém\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122462/lula-discursa-hoje-pela-10-vez-na-abertura-da-assembleia-geral-da-onu",
+      "resumo": "Presidente critica paralisia do Conselho de Segurança, ingerência externa e tarifaço; fala sobre eleição brasileira e defende fim da escala 6x1.",
+      "publicado_em": "2026-09-22T08:10:03-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "6b5be84ec5eb7915",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Por desobediência eleitoral, TRE/PA suspende Instagram de Hana Ghassan",
+      "link": "https://www.congressoemfoco.com.br/noticia/122461/por-desobediencia-eleitoral-tre-pa-suspende-instagram-de-hana-ghassan",
+      "resumo": "Conta ficará indisponível por 12 horas e deverá exibir aviso de desobediência à legislação eleitoral.",
+      "publicado_em": "2026-09-22T08:03:14-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "5253cb9f409d8a06",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes se declara impedido em ação que envolve esposa e Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122460/moraes-se-declara-impedido-em-acao-que-envolve-esposa-e-vorcaro",
+      "resumo": "Ministro havia sido sorteado relator, mas alegou impedimento e mandou redistribuir ação que cobra do Senado registros de entrada e saída de Viviane Barci, Daniel Vorcaro, Lulinha e Careca do INSS, entre outros.",
+      "publicado_em": "2026-09-22T07:43:09-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "0ef1c2084fbd1aa4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE confirma suspensão da campanha de Deltan Dallagnol ao Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122458/tse-confirma-suspensao-da-campanha-de-deltan-dallagnol-ao-senado",
+      "resumo": "Decisão por cinco votos a dois impede atos de campanha, participação em debates, uso de recursos públicos e propaganda no rádio e na TV até o julgamento definitivo do registro.",
+      "publicado_em": "2026-09-22T07:15:18-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 98,
+      "tags": [
+        "decisao",
+        "julgamento",
+        "julga",
+        "adi",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "de99af1c2d06f343",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto define regras para contratação de artesanato pelo poder público",
+      "link": "https://www.camara.leg.br/noticias/1304197-projeto-define-regras-para-contratacao-de-artesanato-pelo-poder-publico",
+      "resumo": "",
+      "publicado_em": "2026-09-22T11:21:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "bd122f8afc6b8bcc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei que cria a Semana Nacional da Empresa Júnior é sancionada",
+      "link": "https://www.camara.leg.br/noticias/1305971-lei-que-cria-a-semana-nacional-da-empresa-junior-e-sancionada",
+      "resumo": "",
+      "publicado_em": "2026-09-22T11:19:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "sancionada"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "bc77787194eb2688",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei dá nome de ex-prefeito para nova ponte que liga Brasil ao Paraguai",
+      "link": "https://www.camara.leg.br/noticias/1305965-nova-lei-da-nome-de-ex-prefeito-para-nova-ponte-que-liga-brasil-ao-paraguai",
+      "resumo": "",
+      "publicado_em": "2026-09-22T11:03:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "4377b0b7be3bc983",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê incentivos para produção e venda de medicamentos genéricos veterinários",
+      "link": "https://www.camara.leg.br/noticias/1305082-projeto-preve-incentivos-para-producao-e-venda-de-medicamentos-genericos-veterinarios",
+      "resumo": "",
+      "publicado_em": "2026-09-22T10:19:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "56e4b46e2a32b2e3",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei anula criação da Floresta Nacional de Cristópolis, na Bahia",
+      "link": "https://www.camara.leg.br/noticias/1305966-lei-anula-criacao-da-floresta-nacional-de-cristopolis-na-bahia",
+      "resumo": "",
+      "publicado_em": "2026-09-22T09:30:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "32d7f9a44626d662",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto amplia meios de localizar consumidor com direito a indenização em ações coletivas",
+      "link": "https://www.camara.leg.br/noticias/1303857-projeto-amplia-meios-de-localizar-consumidor-com-direito-a-indenizacao-em-acoes-coletivas",
+      "resumo": "",
+      "publicado_em": "2026-09-22T08:30:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "a437bc6241c2ba23",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe inclusão de dados de hóspedes em sistemas gerais de consulta",
+      "link": "https://www.camara.leg.br/noticias/1303772-projeto-proibe-inclusao-de-dados-de-hospedes-em-sistemas-gerais-de-consulta",
+      "resumo": "",
+      "publicado_em": "2026-09-22T07:44:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "2ae96ed81c3451b6",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade celebra acordo com construtora em quatro investigações de cartel",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-celebra-acordo-com-construtora-em-quatro-investigacoes-de-cartel",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "2344264f590169a4",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Banco Central propõe atualização de regras contábeis para reforçar convergência aos padrões internacionais",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21264/nota",
+      "resumo": "Proposta busca ampliar clareza e padronização das demonstrações financeiras. Consulta pública receberá sugestões até 9 de novembro.",
+      "publicado_em": "2026-09-22T08:19:52-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "fe1b16e148114b23",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Audiência pública para discutir novo regulamento de fiscalização da ANPD será nesta quinta (24)",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/audiencia-publica-para-discutir-novo-regulamento-de-fiscalizacao-da-anpd-sera-nesta-quinta-24",
+      "resumo": "Reunião será transmitida pelo Youtube e é parte das medidas para participação da sociedade civil na elaboração de normativos que vão balizar o trabalho da Agência",
+      "publicado_em": "2026-09-22T09:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
       "id": "90687f9d887273c8",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -291,6 +782,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "dfc1f72694a9bee1",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Programa Trabalho Seguro do TRT-15 realiza II Seminário Setembro Amarelo em Ribeirão Preto",
+      "link": "https://trt15.jus.br/noticia/2026/programa-trabalho-seguro-do-trt-15-realiza-ii-seminario-setembro-amarelo-em-ribeirao",
+      "resumo": "Programa Trabalho Seguro do TRT-15 realiza II Seminário Setembro Amarelo em Ribeirão Preto anagatto Seg, 21/09/2026 - 16:20 Programa Trabalho Seguro do TRT-15 realiza II Seminário Setembro Amarelo em Ribeirão Preto Conteúdo da Notícia O Comitê Regional do Programa Trabalho Seguro do Tribunal Regiona",
+      "publicado_em": "2026-09-21T16:20:18-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
     },
     {
       "id": "bbb5f6b4f2530d6f",
@@ -395,6 +902,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "16eb7cb8b240cc91",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Edifício-sede do STF recebe iluminação especial para conscientização sobre direitos das pessoas com deficiência",
+      "link": "https://noticias.stf.jus.br/postsnoticias/edificio-sede-do-stf-recebe-iluminacao-especial-para-conscientizacao-sobre-direitos-das-pessoas-com-deficiencia/",
+      "resumo": "Iniciativa reforça importância da inclusão social e do combate do capacitismo; setembro também é marcado pelo incentivo à doação de órgãos no Brasil",
+      "publicado_em": "2026-09-21T20:59:38-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
     },
     {
       "id": "a37067c1ba5cbaa0",
@@ -710,20 +1233,18 @@
       "coletado_em": "2026-09-21T19:56:25-03:00"
     },
     {
-      "id": "d8e5caf92f0287f5",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Receita, Sebrae e contadores criam tira-dúvidas sobre Reforma Tributária; acesse",
-      "link": "https://agenciagov.ebc.com.br/noticias/202609/tire-duvidas-reforma-tributaria-com-a-receita-sebrae-contadores",
+      "id": "84276ebbd65bcfce",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP anuncia três atos para reforçar proteção de brasileiros no ambiente digital",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-anuncia-tres-portarias-para-reforcar-protecao-de-brasileiros-no-ambiente-digital",
       "resumo": "",
-      "publicado_em": "2026-09-21T19:20:00-03:00",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
       "dia": "2026-09-21",
-      "data_estimada": false,
-      "score": 58,
-      "tags": [
-        "reforma tributaria"
-      ],
-      "coletado_em": "2026-09-21T19:56:25-03:00"
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
     },
     {
       "id": "15ecb1d0fa1aa916",
@@ -939,6 +1460,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "e38431aabd17663a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O custo de esperar pela regulação da Inteligência Artificial",
+      "link": "https://www.congressoemfoco.com.br/artigo/122452/o-custo-de-esperar-pela-regulacao-da-inteligencia-artificial",
+      "resumo": "A questão central para as organizações já não é se haverá regulação da inteligência artificial, mas quem assumirá os riscos e os custos decorrentes de sua utilização.",
+      "publicado_em": "2026-09-21T17:21:21-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
     },
     {
       "id": "8e8b86f56a7f1a13",
@@ -1372,6 +1909,22 @@
       "coletado_em": "2026-09-21T19:56:25-03:00"
     },
     {
+      "id": "841d2eab7ef1afeb",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ lança ações para reduzir superlotação e ampliar ofertas de trabalho no sistema prisional do Paraná",
+      "link": "https://www.cnj.jus.br/cnj-lanca-acoes-para-reduzir-superlotacao-e-ampliar-ofertas-de-trabalho-no-sistema-prisional-do-parana/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) conduz, nos dias 21 e 22 de setembro, uma missão institucional ao Paraná para fortalecer a implementação do Plano Pena Justa no estado, com dois marcos centrais: o lançamento da Central de Regulação de Vagas (CRV) e a instalação do Emprega Lab Paraná. O",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
       "id": "4e9c27f7f37fe96a",
       "fonte_id": "carf",
       "fonte_nome": "CARF",
@@ -1746,7 +2299,7 @@
       "fonte_nome": "STF",
       "titulo": "Início do julgamento sobre petição ligada ao caso Master é destaque no Supremo na Semana",
       "link": "https://noticias.stf.jus.br/postsnoticias/inicio-do-julgamento-sobre-peticao-ligada-ao-caso-master-e-destaque-no-supremo-na-semana/",
-      "resumo": "O episódio #202 está disponível nas principais plataformas de áudio e no YouTube",
+      "resumo": "Episódio #202 está disponível nas principais plataformas de áudio e no YouTube",
       "publicado_em": "2026-09-19T12:00:00-03:00",
       "dia": "2026-09-19",
       "data_estimada": false,
@@ -56912,82 +57465,6 @@
       "tags": [
         "protecao de dados",
         "aprova",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "3010d87fe21539be",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Acompanhe posse solene da desembargadora Carla Maria Hespanhol Lima e do desembargador Rui César Públio Borges Corrêa",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acompanhe-posse-solene-da-desembargadora-carla-maria-hespanhol-lima-e-do-desembargador-rui-cesar-publio-borges-correa",
-      "resumo": "",
-      "publicado_em": "2026-06-23T12:00:00-03:00",
-      "dia": "2026-06-23",
-      "data_estimada": true,
-      "score": 22,
-      "tags": [
-        "posse"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "7c0d7af288e6a154",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Revista do TRT-2 recebe artigos até 14 de setembro",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/revista-do-trt-2-recebe-artigos-ate-14-de-setembro",
-      "resumo": "",
-      "publicado_em": "2026-06-23T12:00:00-03:00",
-      "dia": "2026-06-23",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "ae24289a0d98d66d",
-      "fonte_id": "coaf",
-      "fonte_nome": "Coaf",
-      "titulo": "Coaf reforça atuação no combate à lavagem de dinheiro no mercado de bens culturais",
-      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-reforca-atuacao-no-combate-a-lavagem-de-dinheiro-no-mercado-de-bens-culturais",
-      "resumo": "",
-      "publicado_em": "2026-06-23T17:40:53-03:00",
-      "dia": "2026-06-23",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-09-08T11:32:33-03:00"
-    },
-    {
-      "id": "bc54f424001bbb27",
-      "fonte_id": "coaf",
-      "fonte_nome": "Coaf",
-      "titulo": "Coaf participa do Encontro Nacional das FICCOs em Foz do Iguaçu",
-      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-participa-do-encontro-nacional-das-ficcos-em-foz-do-iguacu-1",
-      "resumo": "",
-      "publicado_em": "2026-06-23T11:39:34-03:00",
-      "dia": "2026-06-23",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-08T11:32:33-03:00"
-    },
-    {
-      "id": "281453e49445e6a5",
-      "fonte_id": "bacen",
-      "fonte_nome": "Bacen",
-      "titulo": "Auditoria Interna do BC obtém certificação internacional de excelência em auditoria",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21176/nota",
-      "resumo": "Certificação é o mais alto reconhecimento internacional da atividade de auditoria interna. Conquista evidencia a atuação estratégica da Auditoria do BC, com foco em riscos, tecnologia, dados e geração de valor. BC foi a primeira instituição do setor público brasileiro a obter a certificação do IIA B",
-      "publicado_em": "2026-06-23T17:12:15-03:00",
-      "dia": "2026-06-23",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
         "acao"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
