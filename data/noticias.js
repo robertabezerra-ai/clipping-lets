@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-22T16:33:37-03:00",
+  "gerado_em": "2026-09-22T19:33:12-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@ window.DADOS = {
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -215,7 +215,7 @@ window.DADOS = {
     {
       "id": "cade",
       "status": "ok",
-      "itens": 30,
+      "itens": 27,
       "erro": null
     },
     {
@@ -279,6 +279,36 @@ window.DADOS = {
       "coletado_em": "2026-09-22T16:33:37-03:00"
     },
     {
+      "id": "b3195d033203b671",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Retomado funcionamento do suporte de informática via WhatsApp",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/retomado-funcionamento-do-suporte-de-informatica-via-whatsapp",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "5e1ba27ce89b5dc9",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Juliana Benatti é nomeada desembargadora do TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/juliana-benatti-e-nomeada-desembargadora-do-trt-15",
+      "resumo": "Juliana Benatti é nomeada desembargadora do TRT-15 marianaaassuncao Ter, 22/09/2026 - 16:43 Juliana Benatti é nomeada desembargadora do TRT-15 Conteúdo da Notícia A Presidência da República publicou, nesta terça-feira, 22/9, no Diário Oficial da União, a nomeação, mediante o critério de merecimento,",
+      "publicado_em": "2026-09-22T16:43:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
       "id": "e480611fd1dcbe77",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -340,6 +370,69 @@ window.DADOS = {
       "coletado_em": "2026-09-22T16:33:37-03:00"
     },
     {
+      "id": "80b2a276154eb0eb",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115391&pagina=1",
+      "resumo": "Compromissos internos do Poder Judiciário.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro; a corregedora-geral da Justiça, desembargadora Silvia Rocha;",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "0d6fec5574e1b059",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Cadip divulga nova coletânea de pesquisas",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115357&pagina=1",
+      "resumo": "Publicação traz temas relevantes na Seção de Direito Público.\n \n\tO Centro de Apoio ao Direito Público da Seção de Direito Público do Tribunal de Justiça",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "a1102264de34885e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidentes do STF e dos tribunais superiores discutem desafios comuns do Judiciário",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidentes-do-stf-e-dos-tribunais-superiores-discutem-desafios-comuns-do-judiciario/",
+      "resumo": "Encontro tratou de inteligência artificial, segurança cibernética e questões previdenciárias",
+      "publicado_em": "2026-09-22T17:50:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "7b440249a6475aed",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF anula lei de Goiás que autorizava extração de amianto crisotila para exportação",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-anula-lei-de-goias-que-autorizava-extracao-de-amianto-crisotila-para-exportacao/",
+      "resumo": "Proposta de adiar os efeitos da decisão foi rejeitada por não alcançar os oito votos necessários",
+      "publicado_em": "2026-09-22T16:58:46-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
       "id": "85865fda1cf9e225",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -371,20 +464,6 @@ window.DADOS = {
       "coletado_em": "2026-09-22T16:33:37-03:00"
     },
     {
-      "id": "a1102264de34885e",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "Presidentes do STF e dos tribunais superiores discutem desafios comuns do Judiciário",
-      "link": "https://noticias.stf.jus.br/postsnoticias/presidentes-do-stf-e-dos-tribunais-superiores-discutem-desafios-comuns-do-judiciario/",
-      "resumo": "Encontro tratou de inteligência artificial, segurança cibernética e questões previdenciárias",
-      "publicado_em": "2026-09-22T14:44:06-03:00",
-      "dia": "2026-09-22",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-22T14:48:30-03:00"
-    },
-    {
       "id": "b361ec8c689fa4c4",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -400,6 +479,36 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "c514110a0167635b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei cria Semana Nacional da Empresa Júnior, a ser celebrada em abril",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/22/lei-cria-semana-nacional-da-empresa-junior-a-ser-celebrada-em-abril",
+      "resumo": "",
+      "publicado_em": "2026-09-22T18:11:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "81f968846ac23eea",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fixada em cinco anos prescrição para infrações de donos de cartórios",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/22/fixada-em-cinco-anos-prescricao-para-infracoes-de-donos-de-cartorios",
+      "resumo": "",
+      "publicado_em": "2026-09-22T16:31:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prescricao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
     },
     {
       "id": "c738d4b5cbcfb4bf",
@@ -500,6 +609,24 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "e8b431c6d6f4b180",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal divulga balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-divulga-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-09-22T16:44:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
     },
     {
       "id": "c3398d9055370b2b",
@@ -614,10 +741,86 @@ window.DADOS = {
       "coletado_em": "2026-09-22T16:33:37-03:00"
     },
     {
+      "id": "3de9f14876f4268c",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Soberania digital é tema de debate sobre legados do Marco Civil e do ECA Digital",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/soberania-digital-e-tema-de-debate-sobre-legados-do-marco-civil-e-do-eca-digital",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "2fa6b1c3aacd1f2d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Onça do Exército conquista recorde mundial de longevidade",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/onca-do-exercito-conquista-recorde-mundial-de-longevidade",
+      "resumo": "",
+      "publicado_em": "2026-09-22T18:03:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "3a549ad58d453a1c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Anac determina que empresas aéreas ampliem informações sobre atrasos em voos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/anac-atualiza-regras-sobre-atrasos-e-cancelamentos-e-amplia-deveres-de-informacao-aos-passageiros",
+      "resumo": "",
+      "publicado_em": "2026-09-22T17:52:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "1fc468781e414224",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Decreto do hidrogênio de baixa emissão de carbono marca nova etapa em regulamentação",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/decreto-do-hidrogenio-e-publicado-e-marca-nova-etapa-em-regulamentacao",
+      "resumo": "",
+      "publicado_em": "2026-09-22T16:58:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "decreto",
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "bb493a7d6fa6abce",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Universidades federais ministram formação para servidores dos 138 presídios de segurança máxima",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/parcerias-com-universidades-federais-impulsionam-capacitacao-em-138-unidades-estrategicas-no-combate-ao-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-09-22T16:37:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
       "id": "037a31b9ad71970e",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Equidade racial cresce e fortalece inclusão nas escolas",
+      "titulo": "Ações de equidade racial crescem e fortalecem inclusão nas escolas",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/equidade-racial-cresce-e-fortalece-inclusao-nas-escolas",
       "resumo": "",
       "publicado_em": "2026-09-22T15:28:00-03:00",
@@ -626,6 +829,34 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-22T16:33:37-03:00"
+    },
+    {
+      "id": "1551de0d06424222",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mulheres Mil abre 1,3 mil vagas de cursos profissionalizantes gratuitos e presenciais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/mulheres-mil-abre-mais-de-1-3-mil-vagas-gratuitas",
+      "resumo": "",
+      "publicado_em": "2026-09-22T15:28:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "cc83855118e3729a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Cena Musical, da TV Brasil, exibe show inédito da cantora e compositora Rúbia Divino nesta terça",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/cena-musical-da-tv-brasil-exibe-show-inedito-da-cantora-e-compositora-rubia-divino-nesta-terca",
+      "resumo": "",
+      "publicado_em": "2026-09-22T14:18:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
     },
     {
       "id": "a5b1c7c484f7067d",
@@ -731,6 +962,178 @@ window.DADOS = {
       "coletado_em": "2026-09-22T12:25:47-03:00"
     },
     {
+      "id": "04949879f90b99d5",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Secretaria de Política Econômica projeta crescimento de 2% para o PIB em 2026 e 2,3% em 2027",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/secretaria-de-politica-economica-projeta-crescimento-de-2-para-o-pib-em-2026-e-2-3-em-2027",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "6a7f50db16b34e5d",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Arrecadação federal em agosto totaliza R$ 235,566 bilhões, apontam dados divulgados pela Receita Federal",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/arrecadacao-federal-em-agosto-totaliza-r-235-566-bilhoes-apontam-dados-divulgados-pela-receita-federal",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "23c5c47f1edd1936",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal divulga balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-divulga-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "e1c7ba04a69d5ed8",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Decreto do hidrogênio é publicado e marca nova etapa em regulamentação",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/decreto-do-hidrogenio-e-publicado-e-marca-nova-etapa-em-regulamentacao",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "decreto",
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "3ab9fc63ac3759fe",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques mantém vídeo de Flávio que associa Lula ao crime",
+      "link": "https://www.congressoemfoco.com.br/noticia/122488/nunes-marques-mantem-video-de-flavio-que-associa-lula-ao-crime",
+      "resumo": "Para o presidente do TSE, elementos apresentados pela coligação Prontos pra Mais não eram suficientes.",
+      "publicado_em": "2026-09-22T17:37:17-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "bd04f5a3084f0dd4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "No voto, o direito de rejeitar heróis",
+      "link": "https://www.congressoemfoco.com.br/coluna/122487/no-voto-o-direito-de-rejeitar-herois",
+      "resumo": "Em Coriolano, Shakespeare põe um homem coberto de méritos diante de uma exigência que ele considera intolerável: pedir.",
+      "publicado_em": "2026-09-22T17:20:25-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "cd7f12c438a886a2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques dá 24h para exclusão de vídeo que liga Flávio ao Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122486/nunes-marques-da-24h-para-exclusao-de-video-que-liga-flavio-ao-master",
+      "resumo": "Presidente do TSE afirma que publicação ultrapassou os limites da crítica política.",
+      "publicado_em": "2026-09-22T17:11:53-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "b5c14a02816a36a5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio aciona TSE contra Lula por uso eleitoral de eventos oficiais",
+      "link": "https://www.congressoemfoco.com.br/noticia/122485/flavio-aciona-tse-contra-lula-por-uso-eleitoral-de-eventos-oficiais",
+      "resumo": "Campanha do senador acusa Lula de aproveitar estrutura pública em favor da candidatura à reeleição.",
+      "publicado_em": "2026-09-22T16:45:39-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "272efe6867c212b4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O espaço e a relevância da matemática nos planos de governos",
+      "link": "https://www.congressoemfoco.com.br/artigo/122484/o-espaco-e-a-relevancia-da-matematica-nos-planos-de-governos",
+      "resumo": "O sistema educacional brasileiro pode até conseguir sustentar razoavelmente a alfabetização matemática inicial, mas perde terreno progressivamente à medida que o currículo evolui de aritmética para álgebra e geometria mais complexas.",
+      "publicado_em": "2026-09-22T16:36:32-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "a6fccd1f9236ca17",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zambelli pede ao STF garantia para votar no Brasil sem ser presa",
+      "link": "https://www.congressoemfoco.com.br/noticia/122483/zambelli-pede-ao-stf-garantia-para-votar-no-brasil-sem-ser-presa",
+      "resumo": "Conforme solicitação, a ex-deputada chegaria ao Brasil no dia 3, véspera das eleições, e retornaria à Itália no dia 5.",
+      "publicado_em": "2026-09-22T16:26:41-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "b289d04d6117166f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O mundo está com os olhos voltados para o Brasil",
+      "link": "https://www.congressoemfoco.com.br/artigo/122482/o-mundo-esta-com-os-olhos-voltados-para-o-brasil",
+      "resumo": "Uma transição energética que destrói florestas, contamina rios e expulsa comunidades não é justa nem sustentável. É apenas uma nova forma de colonialismo pintada de verde.",
+      "publicado_em": "2026-09-22T16:18:10-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
       "id": "d22383913ad4364d",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -759,6 +1162,68 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-22T16:33:37-03:00"
+    },
+    {
+      "id": "68989f3cd6adeab2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Berzoini critica juros e questiona condução de Galípolo no BC",
+      "link": "https://www.congressoemfoco.com.br/noticia/122478/berzoini-critica-juros-e-questiona-conducao-de-galipolo-no-bc",
+      "resumo": "Ex-presidente do PT diz que juros altos travam a economia e sugere que Galípolo se afastou das posições que defendia antes de assumir o Banco Central.",
+      "publicado_em": "2026-09-22T14:57:11-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "909d1fb79082f272",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Trumpismo pode influenciar reta final da eleição, diz Berzoini",
+      "link": "https://www.congressoemfoco.com.br/noticia/122477/trumpismo-pode-influenciar-reta-final-da-eleicao-diz-berzoini",
+      "resumo": "Ex-presidente do PT diz que plataformas digitais podem ser usadas por aliados de Trump para influenciar a disputa e cita risco de contestação das urnas em caso de vitória de Lula.",
+      "publicado_em": "2026-09-22T14:41:24-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "77a4647a556f1fbb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula não deve defender Moraes na crise do STF, diz Berzoini",
+      "link": "https://www.congressoemfoco.com.br/noticia/122476/lula-nao-deve-defender-moraes-na-crise-do-stf-diz-berzoini",
+      "resumo": "Ex-ministro defende investigação das suspeitas, mas considera que apurações deveriam avançar depois das eleições.",
+      "publicado_em": "2026-09-22T14:25:28-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "5ee7ab7acd0c095d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Berzoini vê Flávio tão competitivo quanto Jair Bolsonaro em 2018",
+      "link": "https://www.congressoemfoco.com.br/noticia/122475/berzoini-ve-flavio-tao-competitivo-quanto-jair-bolsonaro-em-2018",
+      "resumo": "Ex-presidente do PT prevê disputa voto a voto, diz que 5% ou 6% dos eleitores podem decidir o pleito e aponta déficit de comunicação no governo. Para ele, Lula vive um de seus melhores momentos.",
+      "publicado_em": "2026-09-22T13:59:30-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T19:33:12-03:00"
     },
     {
       "id": "f2446b51f185f344",
