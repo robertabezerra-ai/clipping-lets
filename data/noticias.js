@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-22T12:25:47-03:00",
+  "gerado_em": "2026-09-22T14:48:30-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,20 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "332232c4a51ff653",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Tribunal Pleno passa por nova interdição de 12 a 23 de outubro",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/tribunal-pleno-passa-por-nova-interdicao-de-12-a-23-de-outubro",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
       "id": "e480611fd1dcbe77",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -281,6 +295,68 @@ window.DADOS = {
       "coletado_em": "2026-09-22T12:25:47-03:00"
     },
     {
+      "id": "b31b2611fbb407a1",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Homem deverá indenizar parceiro por agressões e danos materiais",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115382&pagina=1",
+      "resumo": "Reparações ultrapassam R$ 65 mil.\n \n\tA 8ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve decisão da 3ª Vara Cível do",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "decisao",
+        "indenizar"
+      ],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "a1102264de34885e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidentes do STF e dos tribunais superiores discutem desafios comuns do Judiciário",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidentes-do-stf-e-dos-tribunais-superiores-discutem-desafios-comuns-do-judiciario/",
+      "resumo": "Encontro tratou de inteligência artificial, segurança cibernética e questões previdenciárias",
+      "publicado_em": "2026-09-22T14:44:06-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "b361ec8c689fa4c4",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Audiência pública no STF discute responsabilidade na aplicação de emendas parlamentares",
+      "link": "https://noticias.stf.jus.br/postsnoticias/audiencia-publica-no-stf-discute-responsabilidade-na-aplicacao-de-emendas-parlamentares/",
+      "resumo": "Convocado pelo ministro Flávio Dino, encontro debate a responsabilidade de parlamentares no processo de destinação de emendas; expositores apresentam diversas perspectivas sobre o tema",
+      "publicado_em": "2026-09-22T12:41:07-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "2dc763ef1a263d58",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Verifica: confira boatos desmentidos pelo TSE sobre as eleições",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/senado-verifica-confira-boatos-desmentidos-pelo-tse-sobre-as-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-09-22T13:47:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
       "id": "49ffa3ac6cd4be89",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -298,7 +374,7 @@ window.DADOS = {
       "id": "0f16add6891832ff",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "MP destina R$ 64,3 mi para segurança alimentar e apoio a povos indígenas",
+      "titulo": "MP destina R$ 64,3 mi para agricultura familiar e apoio a povos indígenas",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/09/22/mp-destina-r-64-3-milhoes-para-seguranca-alimentar-e-povos-indigenas",
       "resumo": "",
       "publicado_em": "2026-09-22T11:03:00-03:00",
@@ -353,6 +429,67 @@ window.DADOS = {
       "coletado_em": "2026-09-22T12:25:47-03:00"
     },
     {
+      "id": "12c273561686379a",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP amplia mapeamento sobre qualidade de vida e saúde mental na segurança pública",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-amplia-mapeamento-sobre-qualidade-de-vida-e-saude-mental-na-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "570dbc2bdbc17de6",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Mutirão de negociação de dívidas mobiliza capital e municípios do Rio de Janeiro",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mutirao-de-negociacao-de-dividas-mobiliza-capital-e-municipios-do-rio-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "a5b1c7c484f7067d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Reportagens da EBC são finalistas da 48ª edição do Prêmio Vladimir Herzog",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/veiculos-da-ebc-sao-finalistas-da-48a-edicao-do-premio-jornalistico-vladimir-herzog",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:50:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 38,
+      "tags": [
+        "adi",
+        "premio"
+      ],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "5f18c0fb690234ad",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Guia do Enem é lançado com vídeos e orientações para estudantes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/mec-lanca-guia-do-enem-com-videos-e-orientacoes-para-estudantes",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:30:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
       "id": "d8e5caf92f0287f5",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -383,6 +520,34 @@ window.DADOS = {
       "coletado_em": "2026-09-22T12:25:47-03:00"
     },
     {
+      "id": "633f0b740494de15",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Conab compra mais de 190 mil toneladas de milho para estoques de venda em balcão",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/conab-compra-mais-de-190-mil-toneladas-de-milho-para-abastecer-estoques-do-programa-de-venda-em-balcao",
+      "resumo": "",
+      "publicado_em": "2026-09-22T10:32:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "e476e5798094c4e6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Trilha Amazônia Atlântica impulsiona ecoturismo no Pará, em corredor de Belém à Serra do Piriá",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/trilha-amazonia-atlantica-impulsiona-ecoturismo-no-para-em-corredor-que-liga-belem-a-serra-do-piria",
+      "resumo": "",
+      "publicado_em": "2026-09-22T09:50:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
       "id": "e24915584f336950",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -395,6 +560,50 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "f2446b51f185f344",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem vai ensinar as próximas gerações?",
+      "link": "https://www.congressoemfoco.com.br/artigo/122473/quem-vai-ensinar-as-proximas-geracoes",
+      "resumo": "Pensar que as próximas gerações possam não encontrar esses mestres em sala de aula não é apenas um exercício de projeção estatística.",
+      "publicado_em": "2026-09-22T12:45:50-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "9eb1138cd3f0cad2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Da \"chantagem\" do tarifaço à soberania: as mensagens de Lula na ONU",
+      "link": "https://www.congressoemfoco.com.br/noticia/122472/da-chantagem-do-tarifaco-a-soberania-as-mensagens-de-lula-na-onu",
+      "resumo": "Presidente critica paralisia das Nações Unidas e tarifas, cobra contrapartidas por minerais e reage a pressões sobre o Pix.",
+      "publicado_em": "2026-09-22T12:35:14-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "1b7dd3946477b372",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A diferença que o protagonismo feminino pode fazer",
+      "link": "https://www.congressoemfoco.com.br/coluna/122471/a-diferenca-que-o-protagonismo-feminino-pode-fazer",
+      "resumo": "Da crise no Supremo à violência eleitoral, episódios expõem a resistência à presença feminina nos espaços de decisão.",
+      "publicado_em": "2026-09-22T12:23:16-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
     },
     {
       "id": "7c3a7c492d637cae",
@@ -587,6 +796,154 @@ window.DADOS = {
       "coletado_em": "2026-09-22T12:25:47-03:00"
     },
     {
+      "id": "f52cad4fdd2a44f7",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Academia Nacional de Polícia Judicial promove capacitação a policiais judiciais",
+      "link": "https://www.cnj.jus.br/academia-nacional-de-policia-judicial-promove-capacitacao-a-policiais-judiciais/",
+      "resumo": "A realização da abordagem policial de forma técnica, segura e proporcional é o foco do curso de Integração à Atividade de Polícia Judicial promovida pela Academia Nacional de Polícia Judicial (ANPJ). O treinamento presencial, que vai de 21 a 25 de setembro, reúne cerca de 45 participantes de vários ",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "cade",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "de2da39458ceb07e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Tribunal do Júri tem mais de 200 mil processos à espera de julgamento",
+      "link": "https://www.cnj.jus.br/tribunal-do-juri-tem-mais-de-200-mil-processos-a-espera-de-julgamento/",
+      "resumo": "Mais de 200 mil ações penais de competência do Tribunal do Júri aguardavam julgamento no país ao final do primeiro semestre de 2026. Desse total, mais de 43 mil tramitam há pelo menos 11 anos e 18 mil superam 15 anos de tramitação. Os dados foram apresentados pelo presidente do",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 74,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "379a4e1f918d476e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Conexão Auditoria apresenta, nesta sexta (25/9), ferramenta para priorização de auditorias",
+      "link": "https://www.cnj.jus.br/conexao-auditoria-apresenta-nesta-sexta-25-9-ferramenta-para-priorizacao-de-auditorias/",
+      "resumo": "A substituição de planilhas de cálculo das auditorias por uma solução com execução em segundos será tema do Conexão Auditoria que acontece na sexta-feira (25/9), às 14h. Promovido pelo Conselho Nacional de Justiça (CNJ), o encontro virtual pode ser acompanhado por integrantes do Poder Judiciário e p",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "567947e281a051d6",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Projetos sobre escravidão e liberdade abrem ciclo do Prêmio CNJ Memória 2026",
+      "link": "https://www.cnj.jus.br/projetos-sobre-escravidao-e-liberdade-abrem-ciclo-do-premio-cnj-memoria-2026/",
+      "resumo": "Cinquenta testamentos escritos entre 1765 e 1831 ajudam a reconstruir histórias de pessoas que viveram sob a escravidão no Maranhão. Processos judiciais preservados em municípios do Vale do Paraíba fluminense também revelam experiências de escravidão e liberdade no século XIX. No Rio de Janeiro, a m",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "processo",
+        "premio"
+      ],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "e143e323e29a41c0",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Ciência a serviço da Justiça: como a capacitação de redes técnicas qualifica decisões no SUS",
+      "link": "https://www.cnj.jus.br/ciencia-a-servico-da-justica-como-a-capacitacao-de-redes-tecnicas-qualifica-decisoes-no-sus/",
+      "resumo": "A complexidade das ações judiciais na área da saúde exige que juízes e juízas contem com informações técnicas e evidências científicas sólidas para fundamentar suas decisões. Esse respaldo é fornecido pelos Núcleos de Apoio Técnico do Poder Judiciário (NatJus), cujos profissionais passam por capacit",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "3f3731bf2e703ccb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Medida provisória destina R$ 64,3 milhões para segurança alimentar e direitos dos povos indígenas",
+      "link": "https://www.camara.leg.br/noticias/1306021-medida-provisoria-destina-r-643-milhoes-para-seguranca-alimentar-e-direitos-dos-povos-indigenas",
+      "resumo": "",
+      "publicado_em": "2026-09-22T14:06:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "98fbfba15cb42c79",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei fixa prazo de cinco anos para punição de notários e registradores",
+      "link": "https://www.camara.leg.br/noticias/1305976-nova-lei-fixa-prazo-de-cinco-anos-para-punicao-de-notarios-e-registradores",
+      "resumo": "",
+      "publicado_em": "2026-09-22T13:05:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "62894dcb7cba985b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria mecanismos para proteger empregadas domésticas da violência no trabalho",
+      "link": "https://www.camara.leg.br/noticias/1304473-projeto-cria-mecanismos-para-proteger-empregadas-domesticas-da-violencia-no-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-09-22T13:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "bd122f8afc6b8bcc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei que cria a Semana Nacional da Empresa Júnior é sancionada",
+      "link": "https://www.camara.leg.br/noticias/1305971-lei-que-cria-a-semana-nacional-da-empresa-junior-e-sancionada",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:19:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "sancionada"
+      ],
+      "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
       "id": "de99af1c2d06f343",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -599,22 +956,6 @@ window.DADOS = {
       "score": 46,
       "tags": [
         "acao"
-      ],
-      "coletado_em": "2026-09-22T12:25:47-03:00"
-    },
-    {
-      "id": "bd122f8afc6b8bcc",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Lei que cria a Semana Nacional da Empresa Júnior é sancionada",
-      "link": "https://www.camara.leg.br/noticias/1305971-lei-que-cria-a-semana-nacional-da-empresa-junior-e-sancionada",
-      "resumo": "",
-      "publicado_em": "2026-09-22T11:19:00-03:00",
-      "dia": "2026-09-22",
-      "data_estimada": false,
-      "score": 52,
-      "tags": [
-        "sancionada"
       ],
       "coletado_em": "2026-09-22T12:25:47-03:00"
     },
@@ -773,15 +1114,33 @@ window.DADOS = {
       "id": "3493dda5e71675cf",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
-      "titulo": "Café com Cejusc fortalece a cultura da medição em Barueri-SP",
+      "titulo": "Café com Cejusc fortalece a cultura da mediação em Barueri-SP",
       "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/cafe-com-cejusc-fortalece-a-cultura-da-medicao-em-barueri-sp",
       "resumo": "",
       "publicado_em": "2026-09-21T12:00:00-03:00",
       "dia": "2026-09-21",
       "data_estimada": true,
-      "score": 40,
-      "tags": [],
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
       "coletado_em": "2026-09-21T19:56:25-03:00"
+    },
+    {
+      "id": "7c0c539a9bf20101",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justa causa por violação de segredo industrial exige comprovação de má-fé do trabalhador e dano à empresa",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justa-causa-por-violacao-de-segredo-industrial-exige-comprovacao-de-ma-fe-do-trabalhador-e-dano-a-empresa",
+      "resumo": "",
+      "publicado_em": "2026-09-21T12:00:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
     },
     {
       "id": "dfc1f72694a9bee1",
@@ -1247,6 +1606,20 @@ window.DADOS = {
       "coletado_em": "2026-09-22T12:25:47-03:00"
     },
     {
+      "id": "7d6bccae80d1d7b7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Negligência contra crianças e adolescentes: como identificar sinais e onde buscar ajuda",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/negligencia-contra-criancas-e-adolescentes-como-identificar-sinais-e-buscar-ajuda",
+      "resumo": "",
+      "publicado_em": "2026-09-21T18:58:00-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
       "id": "15ecb1d0fa1aa916",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1478,6 +1851,20 @@ window.DADOS = {
       "coletado_em": "2026-09-22T12:25:47-03:00"
     },
     {
+      "id": "d9293c4c47b54ab6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Do bafômetro a rachas: o que o Congresso mudou no Código de Trânsito",
+      "link": "https://www.congressoemfoco.com.br/noticia/122450/do-bafometro-a-rachas-o-que-o-congresso-mudou-no-codigo-de-transito",
+      "resumo": "Alterações reorganizaram desde aspectos administrativos  até hábitos cotidianos.",
+      "publicado_em": "2026-09-21T16:45:46-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
       "id": "8e8b86f56a7f1a13",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1570,6 +1957,20 @@ window.DADOS = {
         "recurso"
       ],
       "coletado_em": "2026-09-21T17:15:24-03:00"
+    },
+    {
+      "id": "d7b099ba94d17746",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veja regras de trânsito propostas no Congresso que não saíram do papel",
+      "link": "https://www.congressoemfoco.com.br/noticia/122441/veja-regras-de-transito-propostas-no-congresso-que-nao-sairam-do-papel",
+      "resumo": "De adesivo para recém habilitado ao fim dos alertas sonoros em garagem, conheça medidas que não vingaram no Legislativo.",
+      "publicado_em": "2026-09-21T13:12:45-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T14:48:30-03:00"
     },
     {
       "id": "c7c1a57d2d29373a",
@@ -1896,7 +2297,7 @@ window.DADOS = {
       "id": "b4f3431a610ad6db",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Inclusão e escuta fortalecem acesso à justiça no território Kalunga",
+      "titulo": "Inclusão e escuta fortalecem acesso à Justiça no território Kalunga",
       "link": "https://www.cnj.jus.br/inclusao-e-escuta-fortalecem-acesso-a-justica-no-territorio-kalunga/",
       "resumo": "A escuta atenta como instrumento de inclusão marcou a inauguração do novo Ponto de Inclusão Digital (PID) na comunidade Kalunga de Engenho II, em Cavalcante (GO). O evento, realizado nesta segunda-feira (21/9), reuniu conselheiros do Conselho Nacional de Justiça (CNJ), representantes do Tribunal de ",
       "publicado_em": "2026-09-21T12:00:00-03:00",
