@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-22T14:48:30-03:00",
+  "gerado_em": "2026-09-22T16:33:37-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -233,7 +233,7 @@
     {
       "id": "carf",
       "status": "ok",
-      "itens": 6,
+      "itens": 7,
       "erro": null
     },
     {
@@ -263,6 +263,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "da1c4a91c054505d",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Suporte de informática via WhatsApp está inoperante; PJe fica indisponível na sexta (25/9)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/suporte-de-informatica-via-whatsapp-esta-inoperante-pje-fica-indisponivel-na-sexta-25-9",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
     },
     {
       "id": "e480611fd1dcbe77",
@@ -312,6 +326,51 @@
       "coletado_em": "2026-09-22T14:48:30-03:00"
     },
     {
+      "id": "dde55103f1b66ab1",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "192º Concurso de Ingresso na Magistratura inicia etapa de exames orais",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115384&pagina=1",
+      "resumo": "Serão arguidos 122 candidatos.\n \n\tO Tribunal de Justiça de São Paulo iniciou, hoje (22), os exames orais do 192º Concurso de Ingresso na Magistratura. Até",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
+    },
+    {
+      "id": "85865fda1cf9e225",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF ouve especialistas e instituições sobre responsabilidade na destinação de emendas parlamentares",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-ouve-especialistas-e-instituicoes-sobre-responsabilidade-na-destinacao-de-emendas-parlamentares/",
+      "resumo": "Representantes do Congresso, de órgãos de controle e da sociedade civil apresentaram argumentos sobre a execução dos recursos",
+      "publicado_em": "2026-09-22T16:17:43-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
+    },
+    {
+      "id": "3108e32efdb94478",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Nota de pesar",
+      "link": "https://noticias.stf.jus.br/postsnoticias/nota-de-pesar-23/",
+      "resumo": "Zuenir Ventura faleceu hoje (22) no Rio de Janeiro",
+      "publicado_em": "2026-09-22T14:49:04-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
+    },
+    {
       "id": "a1102264de34885e",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -341,6 +400,36 @@
         "acao"
       ],
       "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "c738d4b5cbcfb4bf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei extingue floresta nacional, na Bahia, que nunca chegou a ser implantada",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/22/lei-extingue-floresta-nacional-na-bahia-que-nunca-chegou-a-ser-implantada",
+      "resumo": "",
+      "publicado_em": "2026-09-22T16:05:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
+    },
+    {
+      "id": "df16d7e4380a9285",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei reorganiza diretorias do Conselho Federal da OAB",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/22/lei-reorganiza-diretorias-do-conselho-federal-da-oab",
+      "resumo": "",
+      "publicado_em": "2026-09-22T15:52:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "oab"
+      ],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
     },
     {
       "id": "2dc763ef1a263d58",
@@ -459,6 +548,86 @@
       "coletado_em": "2026-09-22T14:48:30-03:00"
     },
     {
+      "id": "78f6a10e14f8af12",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Sedigi identifica riscos de “companheiros de IA\" para crianças e adolescentes",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sedigi-identifica-riscos-de-201ccompanheiros-de-ia-para-criancas-e-adolescentes",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
+    },
+    {
+      "id": "976d5001d79c25e8",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senasp reúne forças de segurança no ENA/RJ para avaliar Operação Divisas RJ e Sudeste",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-reune-forcas-de-seguranca-no-ena-rj-para-avaliar-operacao-divisas-rj-e-sudeste",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
+    },
+    {
+      "id": "324caf38d566ab4d",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação da Polícia Federal combate tráfico transnacional de cocaína e apreende uma tonelada da droga",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-da-policia-federal-combate-trafico-transnacional-de-cocaina-e-apreende-uma-tonelada-da-droga",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 0,
+      "tags": [
+        "acao",
+        "apreende",
+        "cocaina",
+        "droga"
+      ],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
+    },
+    {
+      "id": "0e3d571f62268a88",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação Última Chamada apreende R$ 536 mil e retira mais de 1,7 mil celulares do comércio irregular",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-ultima-chamada-apreende-r-536-mil-e-retira-mais-de-1-7-mil-celulares-do-comercio-irregular",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 32,
+      "tags": [
+        "acao",
+        "apreende"
+      ],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
+    },
+    {
+      "id": "037a31b9ad71970e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Equidade racial cresce e fortalece inclusão nas escolas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/equidade-racial-cresce-e-fortalece-inclusao-nas-escolas",
+      "resumo": "",
+      "publicado_em": "2026-09-22T15:28:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
+    },
+    {
       "id": "a5b1c7c484f7067d",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -560,6 +729,36 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-22T12:25:47-03:00"
+    },
+    {
+      "id": "d22383913ad4364d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fux relatará ação que envolve esposa de Moraes e Daniel Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122480/fux-relatara-acao-que-envolve-esposa-de-moraes-e-daniel-vorcaro",
+      "resumo": "Ação foi redistribuída após Alexandre de Moraes se declarar impedido.",
+      "publicado_em": "2026-09-22T16:09:28-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
+    },
+    {
+      "id": "0929ec32ecd6c441",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cury lamenta mortes em queda de helicóptero: \"não é um ponto final\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122479/cury-lamenta-mortes-em-queda-de-helicoptero--nao-e-um-ponto-final",
+      "resumo": "Uma das vítimas era Bruno Avelar, conselheiro da campanha do psiquiatra à presidência.",
+      "publicado_em": "2026-09-22T15:00:25-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
     },
     {
       "id": "f2446b51f185f344",
@@ -880,6 +1079,39 @@
         "acao"
       ],
       "coletado_em": "2026-09-22T14:48:30-03:00"
+    },
+    {
+      "id": "101f3af6e6947971",
+      "fonte_id": "carf",
+      "fonte_nome": "CARF",
+      "titulo": "CARF aprova cancelamento da Súmula nº 147",
+      "link": "https://www.gov.br/carf/pt-br/assuntos/novas-noticias/carf-aprova-cancelamento-da-sumula-no-147",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "sumula",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
+    },
+    {
+      "id": "0c8952300f7c04d1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei altera estrutura da Ordem dos Advogados do Brasil",
+      "link": "https://www.camara.leg.br/noticias/1305991-nova-lei-altera-estrutura-da-ordem-dos-advogados-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-22T15:19:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "advogado"
+      ],
+      "coletado_em": "2026-09-22T16:33:37-03:00"
     },
     {
       "id": "3f3731bf2e703ccb",
@@ -1268,7 +1500,7 @@
       "fonte_nome": "STF",
       "titulo": "Edifício-sede do STF recebe iluminação especial para conscientização sobre direitos das pessoas com deficiência",
       "link": "https://noticias.stf.jus.br/postsnoticias/edificio-sede-do-stf-recebe-iluminacao-especial-para-conscientizacao-sobre-direitos-das-pessoas-com-deficiencia/",
-      "resumo": "Iniciativa reforça importância da inclusão social e do combate do capacitismo; setembro também é marcado pelo incentivo à doação de órgãos no Brasil",
+      "resumo": "Iniciativa reforça importância da inclusão social e do combate ao capacitismo; setembro também é marcado pelo incentivo à doação de órgãos no Brasil",
       "publicado_em": "2026-09-21T20:59:38-03:00",
       "dia": "2026-09-21",
       "data_estimada": false,
