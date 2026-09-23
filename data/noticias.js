@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-23T12:17:48-03:00",
+  "gerado_em": "2026-09-23T15:02:16-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -268,6 +268,20 @@ window.DADOS = {
       "coletado_em": "2026-09-23T12:17:48-03:00"
     },
     {
+      "id": "09c6f3f9f2ac02f5",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 promove palestra sobre autoconhecimento, cuidado e qualidade de vida",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-promove-palestra-sobre-autoconhecimento-cuidado-e-qualidade-de-vida",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
       "id": "6bb23a05e2be5369",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -284,6 +298,53 @@ window.DADOS = {
       "coletado_em": "2026-09-23T12:17:48-03:00"
     },
     {
+      "id": "80e6a97b923a248a",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP realiza 1ª Semana da Pessoa Idosa a partir de segunda (28)",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115375&pagina=1",
+      "resumo": "Inscrições já estão abertas.\n \n\tO Tribunal de Justiça de São Paulo realiza, entre 28 de setembro e 2 de outubro, a primeira edição da Semana",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
+      "id": "514d489f6371cb14",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Continuam as comemorações do centenário do poeta Paulo Bomfim",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115368&pagina=1",
+      "resumo": "Desta vez, evento será no Museu do TJSP.\n \n\tAs comemorações do centenário de nascimento de Paulo Bomfim, escritor, jornalista, cronista e poeta que se",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 24,
+      "tags": [
+        "comemora"
+      ],
+      "coletado_em": "2026-09-20T11:30:53-03:00"
+    },
+    {
+      "id": "fcb76b3a306e0025",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Estado indenizará paciente que perdeu olho após cirurgia de catarata",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115397&pagina=1",
+      "resumo": "Reparações totalizam R$ 108 mil.\n \n\tA 5ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve decisão da 2ª Vara da Fazenda",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "decisao",
+        "indenizar"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
       "id": "882b8e78dc25273d",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -298,6 +359,36 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-09-23T12:17:48-03:00"
+    },
+    {
+      "id": "1af10a229de04715",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pesquisa do DataSenado revela violência contra 38% das mulheres com deficiência",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/23/pesquisa-do-datasenado-revela-violencia-contra-38-das-mulheres-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-09-23T14:32:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "8738ddf0f8aabf2e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Bolsa de Iniciação à Docência passa a ter regras definidas em lei",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/23/pibid-passa-a-ter-regras-definidas-em-lei",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:17:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
     },
     {
       "id": "e95f918811a546b8",
@@ -416,6 +507,36 @@ window.DADOS = {
       "coletado_em": "2026-09-23T12:17:48-03:00"
     },
     {
+      "id": "6543b32e778a54ca",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende celulares recém-lançados no Aeroporto Internacional de Foz do Iguaçu",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-apreende-celulares-recem-lancados-no-aeroporto-internacional-de-foz-do-iguacu",
+      "resumo": "",
+      "publicado_em": "2026-09-23T13:38:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "514588c44f10bb23",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal, PF e MPF investigam uso de créditos inexistentes em compensações que superam R$ 160 milhões",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-pf-e-mpf-investigam-uso-de-creditos-inexistentes-em-compensacoes-que-superam-r-160-milhoes",
+      "resumo": "",
+      "publicado_em": "2026-09-23T11:35:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
       "id": "5beffec7dc655f05",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -447,6 +568,84 @@ window.DADOS = {
       "coletado_em": "2026-09-23T12:17:48-03:00"
     },
     {
+      "id": "841338fce3bd95a2",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Mais de 41 mil agressores são presos em 113 dias de Operação Mulher Segura",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mais-de-41-mil-agressores-sao-presos-em-113-dias-de-operacao-mulher-segura",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "82f04e3b646eae69",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Novas regras para publicidade digital visam conter fraudes e golpes",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/novas-regras-para-publicidade-digital-visam-conter-fraudes-e-golpes",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "novas regras"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "f1edb6887ea068e0",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Painel de qualidade de vida traz dados inéditos sobre a saúde mental de profissionais da segurança pública",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/painel-de-qualidade-de-vida-traz-dados-ineditos-sobre-a-saude-mental-de-profissionais-da-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "8011e060976eaebb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Sala de Concerto, da Rádio MEC, apresenta recital com temas de musicais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/sala-de-concerto-da-radio-mec-apresenta-recital-com-temas-de-musicais",
+      "resumo": "",
+      "publicado_em": "2026-09-23T14:05:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "3c2dfb9dfe522cbb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Sancionada lei que estabelece diretrizes para garantir o direito de crianças e adolescentes à natureza",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/eca-ambiental-sancionada-lei-que-estabelece-principios-e-diretrizes-para-garantir-o-direito-de-criancas-e-adolescentes-a-natureza",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:26:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "sancionada"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
       "id": "0ca8027bdf9b1e7f",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -459,6 +658,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-23T12:17:48-03:00"
+    },
+    {
+      "id": "cadc3ecfb40e3602",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Juntas, PF e PM  cumprem mandados contra quadrilha de tráfico e lavagem de dinheiro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-e-policias-militares-cumprem-mandados-contra-organizacao-criminosa-investigada-por-trafico-e-lavagem-de-dinheiro",
+      "resumo": "",
+      "publicado_em": "2026-09-23T11:29:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
     },
     {
       "id": "4229d35fe8d54fb2",
@@ -537,6 +750,80 @@ window.DADOS = {
       "coletado_em": "2026-09-23T12:17:48-03:00"
     },
     {
+      "id": "d24e4365663035dd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Comparecimento para votar valerá como Prova de Vida automática no INSS",
+      "link": "https://www.congressoemfoco.com.br/noticia/122512/comparecimento-para-votar-valera-como-prova-de-vida-automatica-no-inss",
+      "resumo": "INSS cruza informações com bases públicas para confirmar que o beneficiário está vivo, sem exigir procedimento presencial.",
+      "publicado_em": "2026-09-23T14:03:42-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "7973d1af75a48394",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zambelli sobre habeas corpus para votar: \"ainda vou avaliar os riscos\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122509/zambelli-sobre-habeas-corpus-para-votar--ainda-vou-avaliar-os-riscos",
+      "resumo": "Ex-deputada afirmou que documento servirá de protesto e registro para historiadores.",
+      "publicado_em": "2026-09-23T13:11:07-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "16560fb84c39ebda",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado tem quase o dobro da taxa de brancos e nulos da Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/122508/senado-tem-quase-o-dobro-da-taxa-de-brancos-e-nulos-da-camara",
+      "resumo": "Proporção supera a da Câmara em todas as eleições desde 2002; mobilizar eleitores é desafio na disputa por 54 cadeiras do Senado neste ano.",
+      "publicado_em": "2026-09-23T13:05:01-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "4c242c1bf52f3bbb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gayer diz que quando surge \"figura forte na esquerda, desaparece\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122506/gayer-diz-que-quando-surge-figura-forte-na-esquerda-desaparece",
+      "resumo": "Declaração ocorreu quando Carlos Portinho afirmou que o país \"precisa de futuro\" e Lula não tinha sucessor.",
+      "publicado_em": "2026-09-23T12:37:03-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "066c526fd38b8d55",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio diz que PCC e CV estão \"tacando fogo\" em santinhos dele",
+      "link": "https://www.congressoemfoco.com.br/noticia/122505/flavio-diz-que-pcc-e-cv-estao-tacando-fogo-em-santinhos-dele",
+      "resumo": "Presidenciável afirmou que tem recebido relatos de que organizações criminosas tentariam restringir sua campanha em territórios",
+      "publicado_em": "2026-09-23T12:04:36-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
       "id": "51c2d0bfae596cbd",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -577,6 +864,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-23T12:17:48-03:00"
+    },
+    {
+      "id": "a177298dfb90fb09",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Kim Kataguiri quer proibir shadowban de candidatos nas redes sociais",
+      "link": "https://www.congressoemfoco.com.br/noticia/122500/kim-kataguiri-quer-proibir-shadowban-de-candidatos-nas-redes-sociais",
+      "resumo": "Deputado quer revogar norma do TSE que obriga plataformas a excluir perfis do sistema de recomendações.",
+      "publicado_em": "2026-09-23T10:00:10-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "comenda"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
     },
     {
       "id": "39be8a809740c334",
@@ -734,18 +1037,94 @@ window.DADOS = {
       "coletado_em": "2026-09-23T12:17:48-03:00"
     },
     {
+      "id": "322148bc2aba9937",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Observatório do CNJ reúne setores para discutir trabalho decente nas plataformas",
+      "link": "https://www.cnj.jus.br/observatorio-do-cnj-reune-setores-para-discutir-trabalho-decente-nas-plataformas/",
+      "resumo": "O Observatório do Trabalho Decente do Poder Judiciário (OTD), vinculado ao Conselho Nacional de Justiça (CNJ), promoveu, nesta terça-feira (22/9), uma reunião para debater o trabalho decente nas plataformas digitais. Sob o título “Trabalho Decente na Economia de Plataformas Digitais: desafios para a",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
       "id": "a1d4dd85d58def1a",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
       "titulo": "Lei concede a Franca (SP) o título de Capital Nacional do Basquete",
       "link": "https://www.camara.leg.br/noticias/1306277-lei-concede-a-franca-sp-o-titulo-de-capital-nacional-do-basquete",
       "resumo": "",
-      "publicado_em": "2026-09-23T11:09:00-03:00",
+      "publicado_em": "2026-09-23T14:27:00-03:00",
       "dia": "2026-09-23",
       "data_estimada": false,
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-23T12:17:48-03:00"
+    },
+    {
+      "id": "f5521c8d168c5ff0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei prorroga até 2031 prazo para empresa deduzir doações a entidades de combate ao câncer",
+      "link": "https://www.camara.leg.br/noticias/1306259-lei-prorroga-ate-2031-prazo-para-empresa-deduzir-doacoes-a-entidades-de-combate-ao-cancer",
+      "resumo": "",
+      "publicado_em": "2026-09-23T14:06:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "82a1caa4336c9e79",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto obriga bancos a divulgar taxa real de juros e destacar o custo total de empréstimos",
+      "link": "https://www.camara.leg.br/noticias/1303897-projeto-obriga-bancos-a-divulgar-taxa-real-de-juros-e-destacar-o-custo-total-de-emprestimos",
+      "resumo": "",
+      "publicado_em": "2026-09-23T13:06:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "61e892c297595443",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto amplia isenção de Imposto de Renda para aposentados e pensionistas idosos",
+      "link": "https://www.camara.leg.br/noticias/1306249-projeto-amplia-isencao-de-imposto-de-renda-para-aposentados-e-pensionistas-idosos",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:33:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "b4d754dbfb01ad2c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto limita reajuste de preços da cesta básica ao índice oficial de inflação",
+      "link": "https://www.camara.leg.br/noticias/1306270-projeto-limita-reajuste-de-precos-da-cesta-basica-ao-indice-oficial-de-inflacao",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:29:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
     },
     {
       "id": "851bc0b21bee991f",
@@ -893,6 +1272,22 @@ window.DADOS = {
       "coletado_em": "2026-09-23T12:17:48-03:00"
     },
     {
+      "id": "caabab3d0ea1e125",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade arquiva APAC sobre investimentos e acordos entre Amazon e Anthropic",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-arquiva-apac-sobre-investimentos-e-acordos-entre-amazon-e-anthropic",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
       "id": "332232c4a51ff653",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -924,7 +1319,7 @@ window.DADOS = {
       "id": "b3195d033203b671",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
-      "titulo": "Retomado funcionamento do suporte de informática via WhatsApp",
+      "titulo": "Suporte de informática via WhatsApp é retomado; confira indisponibilidade do PJe",
       "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/retomado-funcionamento-do-suporte-de-informatica-via-whatsapp",
       "resumo": "",
       "publicado_em": "2026-09-22T12:00:00-03:00",
@@ -2236,6 +2631,39 @@ window.DADOS = {
       "coletado_em": "2026-09-22T14:48:30-03:00"
     },
     {
+      "id": "fe1f98a0dac00655",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Voz e liderança das mulheres: CNJ fortalece preparação de magistradas para ocupar espaços de decisão",
+      "link": "https://www.cnj.jus.br/voz-e-lideranca-das-mulheres-cnj-fortalece-preparacao-de-magistradas-para-ocupar-espacos-de-decisao/",
+      "resumo": "Fortalecer a presença e a voz de mulheres nos espaços de decisão do Judiciário foi o foco do segundo módulo do Women Judge’s Program, realizado pelo Conselho Nacional de Justiça (CNJ), nos dias 21 e 22 de setembro, em Brasília. A formação reuniu 30 magistradas de diferentes ramos em atividades",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "c8f58485c0dcba93",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pena Justa lança ações para enfrentar superlotação e ampliar trabalho no sistema prisional do Paraná",
+      "link": "https://www.cnj.jus.br/pena-justa-lanca-acoes-para-enfrentar-superlotacao-e-ampliar-trabalho-no-sistema-prisional-do-parana/",
+      "resumo": "Com taxa de ocupação prisional de 120% e cerca de 60% das pessoas privadas de liberdade ainda sem acesso ao trabalho, o Paraná recebe duas novas estratégias para enfrentar desafios em diferentes etapas da política penal. A Central de Regulação de Vagas (CRV) e o Emprega Lab Paraná foram lançados",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
       "id": "101f3af6e6947971",
       "fonte_id": "carf",
       "fonte_nome": "CARF",
@@ -2648,20 +3076,6 @@ window.DADOS = {
         "visita"
       ],
       "coletado_em": "2026-09-21T13:48:02-03:00"
-    },
-    {
-      "id": "80e6a97b923a248a",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "TJSP realiza 1ª Semana da Pessoa Idosa a partir de segunda (28)",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115375&pagina=1",
-      "resumo": "Inscrições já estão abertas.\n \n\tO Tribunal de Justiça de São Paulo realiza, entre 28 de setembro e 2 de outubro, a primeira edição da Semana",
-      "publicado_em": "2026-09-21T12:00:00-03:00",
-      "dia": "2026-09-21",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
       "id": "515df4d3e489a7b2",
@@ -3980,22 +4394,6 @@ window.DADOS = {
         "premio"
       ],
       "coletado_em": "2026-09-21T19:56:25-03:00"
-    },
-    {
-      "id": "514d489f6371cb14",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Continuam as comemorações do centenário do poeta Paulo Bomfim",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115368&pagina=1",
-      "resumo": "Desta vez, evento será no Museu do TJSP.\n \n\tAs comemorações do centenário de nascimento de Paulo Bomfim, escritor, jornalista, cronista e poeta que se",
-      "publicado_em": "2026-09-20T12:00:00-03:00",
-      "dia": "2026-09-20",
-      "data_estimada": true,
-      "score": 24,
-      "tags": [
-        "comemora"
-      ],
-      "coletado_em": "2026-09-20T11:30:53-03:00"
     },
     {
       "id": "6b32c2e9701ed9b1",
