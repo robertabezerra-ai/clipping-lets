@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-23T16:26:14-03:00",
+  "gerado_em": "2026-09-23T19:34:24-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@ window.DADOS = {
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -280,6 +280,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "12886ec7fe911de9",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Coleprecor debate novas tecnologias, distribuição de processos e gestão da Justiça do Trabalho",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/coleprecor-debate-novas-tecnologias-distribuicao-de-processos-e-gestao-da-justica-do-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
     },
     {
       "id": "6bb23a05e2be5369",
@@ -362,6 +378,56 @@ window.DADOS = {
       "coletado_em": "2026-09-23T16:26:14-03:00"
     },
     {
+      "id": "4c4fec8bb7174c83",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP realiza 6ª edição da Semana da Contabilidade",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115422&pagina=1",
+      "resumo": "Debates sobre inteligência artificial e reforma tributária.\n  \n\tO Tribunal de Justiça de São Paulo, por meio da Escola Judicial dos Servidores (EJUS) e da Secretaria",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "reforma tributaria",
+        "judicial"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "fafe4e3a6f82f5d2",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF mantém autorização para Município de São Luís (MA) contratar transporte por aplicativo em greve de ônibus",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-autorizacao-para-municipio-de-sao-luis-ma-contratar-transporte-por-aplicativo-em-greve-de-onibus/",
+      "resumo": "Plenário, no entanto, afastou aplicação de sanções às concessionárias sem observância de regras federais",
+      "publicado_em": "2026-09-23T17:15:02-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "514e3c8d46f55ec3",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF unifica critérios e prazos da licença-maternidade para todas as mães",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-unifica-criterios-e-prazos-da-licenca-maternidade-para-gestantes-e-adotantes/",
+      "resumo": "Decisão garante licença de 120 dias, prorrogável por mais 60, sem distinção por origem ou idade da criança ou pelo vínculo profissional da mãe",
+      "publicado_em": "2026-09-23T16:52:31-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "decisao",
+        "prazo"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
       "id": "882b8e78dc25273d",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -376,6 +442,36 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-09-23T12:17:48-03:00"
+    },
+    {
+      "id": "f3290fc220df487a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei regulamenta atividade de psicopedagogia",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/23/lei-regulamenta-atividade-de-psicopedagogia",
+      "resumo": "",
+      "publicado_em": "2026-09-23T17:55:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "8f3029c2a1c267ef",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei dá nome de ex-prefeito a nova ponte entre Brasil e Paraguai",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/nova-lei-da-nome-de-ex-prefeito-a-nova-ponte-entre-brasil-e-paraguai",
+      "resumo": "",
+      "publicado_em": "2026-09-23T17:43:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
     },
     {
       "id": "eb588cf86bfa2f42",
@@ -701,6 +797,128 @@ window.DADOS = {
       "coletado_em": "2026-09-23T16:26:14-03:00"
     },
     {
+      "id": "6ef580e28b95269f",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Rio de Janeiro receberá R$ 27,7 milhões em equipamentos para segurança prisional",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/rio-de-janeiro-recebera-r-27-7-milhoes-em-equipamentos-para-seguranca-prisional",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "11a4aba48441ed63",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon participa de seminário na Paraíba sobre os 36 anos do Código de Defesa do Consumidor",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-participa-de-seminario-na-paraiba-sobre-os-36-anos-do-codigo-de-defesa-do-consumidor",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "f00afc9a937824aa",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Nova lei aumenta penas para furto de combustíveis e estabelece regras para roubo, receptação e comércio ilícito",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/nova-lei-aumenta-penas-para-furto-de-combustiveis-e-estabelece-regras-para-roubo-receptacao-e-comercio-ilicito",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "a44f7796b7e402eb",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação Fake Card investiga fraude em cartões de benefícios e movimentação de R$ 437,8 milhões",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-fake-card-investiga-fraude-em-cartoes-de-beneficios-e-movimentacao-de-r-437-8-milhoes",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "d925da846db1831d",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Dia Internacional reforça combate à exploração sexual e ao tráfico de mulheres e crianças",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/dia-internacional-reforca-combate-a-exploracao-sexual-e-ao-trafico-de-mulheres-e-criancas",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "b85cdcc02d3a38fa",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Encontro da Rede-Lab debate asfixia financeira do crime organizado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-da-rede-lab-debate-asfixia-financeira-do-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "3bff3ea11d24b874",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Emprego formal é tendência e mulheres empreendedoras contratam mais que os homens",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/emprego-formal-e-tendencia-e-mulheres-empreendedoras-contratam-mais-que-os-homens",
+      "resumo": "",
+      "publicado_em": "2026-09-23T17:25:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "34bb6257385a1ad0",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "HU Brasil divulga resultados definitivos da seleção para programas de Iniciação Científica e Tecnológica",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/hu-brasil-divulga-resultados-definitivos-da-selecao-para-programas-de-iniciacao-cientifica-e-tecnologica",
+      "resumo": "",
+      "publicado_em": "2026-09-23T16:13:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
       "id": "6f099035ed58b593",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -766,7 +984,7 @@ window.DADOS = {
       "id": "0ca8027bdf9b1e7f",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Cresce o número de empreendedores com CNPJ e proteção previdenciária, mostra pesquisa",
+      "titulo": "Cresce o número de empreendedores com CNPJ e proteção previdenciária",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/cresce-o-numero-de-meis-com-cnpj-e-protecao-previdenciaria-mostra-pesquisa-do-ibge",
       "resumo": "",
       "publicado_em": "2026-09-23T11:33:00-03:00",
@@ -867,6 +1085,65 @@ window.DADOS = {
       "coletado_em": "2026-09-23T12:17:48-03:00"
     },
     {
+      "id": "860a624439bd708b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio pede a Mendonça ação contra Lula por suposto favor a Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122523/flavio-pede-a-mendonca-acao-contra-lula-por-suposto-favor-a-vorcaro",
+      "resumo": "Notícia-crime foi protocolada no inquérito da Operação Compliance Zero.",
+      "publicado_em": "2026-09-23T17:53:19-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "compliance",
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "8b4faf9807c01c0c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cury diz que Lula \"destruirá\" Flávio: \"pai perdeu, filho também vai\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122522/cury-diz-que-lula-destruira-flavio--pai-perdeu-filho-tambem-vai",
+      "resumo": "Presidenciável afirmou que prefere disputar um eventual segundo turno contra o atual presidente.",
+      "publicado_em": "2026-09-23T16:51:45-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "2c8f350624847dc5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senador defende bloqueio à entrada \"nociva\" de empresas estrangeiras",
+      "link": "https://www.congressoemfoco.com.br/noticia/122521/senador-defende-bloqueio-a-entrada-nociva-de-empresas-estrangeiras",
+      "resumo": "Laércio Oliveira disse que avalia apresentar projeto de lei ou utilizar outros instrumentos legislativos para enfrentar fenômeno.",
+      "publicado_em": "2026-09-23T16:15:27-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "97358cb5c95d70c5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Motorista atropela bandeiras de deputado distrital do PT em rotatória",
+      "link": "https://www.congressoemfoco.com.br/noticia/122519/motorista-atropela-bandeiras-de-deputado-distrital-do-pt-em-rotatoria",
+      "resumo": "Além das bandeiras, ao menos duas placas de trânsito foram derrubadas e caso está sob análise da Polícia Civil.",
+      "publicado_em": "2026-09-23T15:23:30-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
       "id": "acc9a9b68b2349c4",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -913,6 +1190,34 @@ window.DADOS = {
       "coletado_em": "2026-09-23T16:26:14-03:00"
     },
     {
+      "id": "2f616a59678ffd12",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Federalismo na era dos indicadores",
+      "link": "https://www.congressoemfoco.com.br/artigo/122515/federalismo-na-era-dos-indicadores",
+      "resumo": "Como distinguir e responsabilizar diferentes performances de governos em um Estado Federal? Indicadores para quê?",
+      "publicado_em": "2026-09-23T14:38:23-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "ef109e29a1239083",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quando a IA diz em quem votar: o problema nas eleições de 2026",
+      "link": "https://www.congressoemfoco.com.br/artigo/122513/quando-a-ia-diz-em-quem-votar-o-problema-nas-eleicoes-de-2026",
+      "resumo": "Além dos deepfakes, uso de inteligência artificial nas eleições impõe desafios para documentar e avaliar interações com eleitores.",
+      "publicado_em": "2026-09-23T14:16:37-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
       "id": "d24e4365663035dd",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -925,6 +1230,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "2410cb51130182e7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O eleitor não pode lavar as mãos de sua responsabilidade democrática",
+      "link": "https://www.congressoemfoco.com.br/artigo/122511/o-eleitor-nao-pode-lavar-as-maos-de-sua-responsabilidade-democratica",
+      "resumo": "Em 2026, não bastará cobrar responsabilidade dos candidatos, dos partidos e das instituições. Quem escolhe também precisa responder pelos critérios com que entrega poder a alguém.",
+      "publicado_em": "2026-09-23T13:54:29-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
     },
     {
       "id": "7973d1af75a48394",
@@ -994,7 +1313,7 @@ window.DADOS = {
       "fonte_nome": "Congresso em Foco",
       "titulo": "Flávio diz que PCC e CV estão \"tacando fogo\" em santinhos dele",
       "link": "https://www.congressoemfoco.com.br/noticia/122505/flavio-diz-que-pcc-e-cv-estao-tacando-fogo-em-santinhos-dele",
-      "resumo": "Presidenciável afirmou que tem recebido relatos de que organizações criminosas tentariam restringir sua campanha em territórios",
+      "resumo": "Presidenciável afirmou que tem recebido relatos de que organizações criminosas tentariam restringir sua campanha em territórios.",
       "publicado_em": "2026-09-23T12:04:36-03:00",
       "dia": "2026-09-23",
       "data_estimada": false,
@@ -1261,6 +1580,55 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-23T16:26:14-03:00"
+    },
+    {
+      "id": "045c4cc9fd6f8d4c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Itinerância da Justiça do Trabalho garante direitos e dignidade no Pará",
+      "link": "https://www.cnj.jus.br/itinerancia-da-justica-do-trabalho-leva-garante-direitos-e-dignidade-no-para/",
+      "resumo": "O Tribunal Regional do Trabalho da 8a Região (TRT-8) realiza nesta semana mais uma ação da Jornada Justiça Itinerante. Dessa vez, a ação acontece na Região Metropolitana de Belém, no Pará. A jornada começou na cidade de Santa Bárbara, Benevides e encerra em Marituba. O objetivo é aproximar a Justiça",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "b6d0e4654fce4c02",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ faz homenagem ao trabalho de conciliadores e mediadores na Justiça",
+      "link": "https://www.cnj.jus.br/cnj-faz-homenagem-ao-trabalho-de-conciliadores-e-mediadores-na-justica/",
+      "resumo": "O Comitê Gestor de Conciliação do Conselho Nacional de Justiça (CNJ) presta homenagem nesta quarta-feira (23/9) aos conciliadores e mediadores que atuam junto com o Poder Judiciário em prol da pacificação social e da solução consensual de conflitos. “Tenham certeza de que o trabalho, esforço e dedic",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 26,
+      "tags": [
+        "acao",
+        "homenagem"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "993462719348b19e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Corregedoria Nacional determina cancelamento de precatórios emitidos pelo TRF-1",
+      "link": "https://www.cnj.jus.br/corregedoria-nacional-determina-cancelamento-de-precatorios-emitidos-pelo-trf1/",
+      "resumo": "A Corregedoria Nacional de Justiça decidiu restabelecer a eficácia das decisões da 6ª Vara Federal Cível da Seção Judiciária do Distrito Federal para o cancelamento de 16 precatórios expedidos no âmbito do Tribunal Regional Federal da 1ª Região (TRF-1) e a devolução dos respectivos valores à Conta Ú",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "precatorio"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
     },
     {
       "id": "ae91af44af15f805",
