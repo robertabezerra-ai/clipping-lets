@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-23T15:02:16-03:00",
+  "gerado_em": "2026-09-23T16:26:14-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -345,6 +345,23 @@
       "coletado_em": "2026-09-23T15:02:16-03:00"
     },
     {
+      "id": "e9dfae214871b5c8",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação de irmãos por homicídio e ocultação de cadáver",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115403&pagina=1",
+      "resumo": "Pena de 15 anos de reclusão.\n \n\tA 15ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve Tribunal do Júri realizado na",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
+    },
+    {
       "id": "882b8e78dc25273d",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -359,6 +376,62 @@
         "adi"
       ],
       "coletado_em": "2026-09-23T12:17:48-03:00"
+    },
+    {
+      "id": "eb588cf86bfa2f42",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Franca (SP) passa a ser, por lei, Capital Nacional do Basquete",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/23/franca-sp-passa-a-ser-por-lei-capital-nacional-do-basquete",
+      "resumo": "",
+      "publicado_em": "2026-09-23T15:51:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
+    },
+    {
+      "id": "68afd10b90d3d81b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Piranguinho (MG) recebe título de Capital Nacional do Pé de Moleque",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/23/piranguinho-mg-recebe-titulo-de-capital-nacional-do-pe-de-moleque",
+      "resumo": "",
+      "publicado_em": "2026-09-23T15:50:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
+    },
+    {
+      "id": "b704d7a30d3e43ff",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Furto ou roubo de combustíveis passa a ser punido com penas maiores",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/23/furto-ou-roubo-de-combustiveis-passa-a-ser-punido-com-penas-maiores",
+      "resumo": "",
+      "publicado_em": "2026-09-23T15:35:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
+    },
+    {
+      "id": "c46909f509c85649",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Violência contra mulher com deficiência é disseminada, dizem debatedores",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/violencia-contra-mulher-com-deficiencia-e-disseminada-dizem-debatedores",
+      "resumo": "",
+      "publicado_em": "2026-09-23T15:20:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
     },
     {
       "id": "1af10a229de04715",
@@ -614,10 +687,54 @@
       "coletado_em": "2026-09-23T15:02:16-03:00"
     },
     {
+      "id": "d5606cbf8c817369",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Escola Nacional de Segurança Pública lança curso sobre prevenção ao suicídio para profissionais da segurança pública",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-lanca-curso-sobre-prevencao-ao-suicidio-para-profissionais-da-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
+    },
+    {
+      "id": "6f099035ed58b593",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Realizada no último domingo, Prova Nacional Docente vale para editais e concursos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pnd-educacao-brasileira-teve-mais-de-10-mil-professores-selecionados-apos-a-ultima-edicao",
+      "resumo": "",
+      "publicado_em": "2026-09-23T15:31:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
+    },
+    {
+      "id": "45bec4a3cb3cbd54",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Em cooperação, PF e polícia peruana prendem traficantes brasileiros em Ucayali",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-e-policia-peruana-desmontam-laboratorio-de-drogas-e-prendem-suspeitos-no-peru",
+      "resumo": "",
+      "publicado_em": "2026-09-23T14:19:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
+    },
+    {
       "id": "8011e060976eaebb",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Sala de Concerto, da Rádio MEC, apresenta recital com temas de musicais",
+      "titulo": "Sala de Concerto, da Rádio MEC, apresenta recital com temas da era de ouro dos filmes musicais",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/sala-de-concerto-da-radio-mec-apresenta-recital-com-temas-de-musicais",
       "resumo": "",
       "publicado_em": "2026-09-23T14:05:00-03:00",
@@ -750,6 +867,52 @@
       "coletado_em": "2026-09-23T12:17:48-03:00"
     },
     {
+      "id": "acc9a9b68b2349c4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques manda tirar IA em que Vorcaro diz financiar Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/122518/nunes-marques-manda-tirar-ia-em-que-vorcaro-diz-financiar-flavio",
+      "resumo": "Vídeo atribui recebimento de dinheiro ilícito, emissão de notas fiscais falsas, vínculos com organização criminosa e outras condutas ilícitas ao presidenciável.",
+      "publicado_em": "2026-09-23T15:00:44-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
+    },
+    {
+      "id": "cdfc7e66ab18a625",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pesquisas mostram cenário dos 32 senadores que tentam a reeleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/122517/pesquisas-mostram-cenario-dos-32-senadores-que-tentam-a-reeleicao",
+      "resumo": "Dos 32 candidatos a um novo mandato, 14 figuram entre os dois maiores percentuais, 11 estão em empate técnico envolvendo a segunda posição e sete aparecem mais distantes.",
+      "publicado_em": "2026-09-23T14:57:15-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
+    },
+    {
+      "id": "77fde544091d0342",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques manda tirar deepfake de Flávio deitado no colo de Trump",
+      "link": "https://www.congressoemfoco.com.br/noticia/122514/nunes-marques-manda-tirar-deepfake-de-flavio-deitado-no-colo-de-trump",
+      "resumo": "Publicação combina imagens manipuladas e música sobre tarifaço contra o Brasil.",
+      "publicado_em": "2026-09-23T14:38:23-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
+    },
+    {
       "id": "d24e4365663035dd",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -792,6 +955,22 @@
         "cade"
       ],
       "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "560f86eb06f95b08",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "STF e o maior escândalo institucional da história",
+      "link": "https://www.congressoemfoco.com.br/artigo/122507/stf-e-o-maior-escandalo-institucional-da-historia",
+      "resumo": "A atual crise de confiança talvez seja a melhor janela de oportunidade para questionar que Supremo queremos construir para o próximo século e quem queremos que esteja sentado nessas onze cadeiras.",
+      "publicado_em": "2026-09-23T12:40:51-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
     },
     {
       "id": "4c242c1bf52f3bbb",
@@ -850,6 +1029,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-23T12:17:48-03:00"
+    },
+    {
+      "id": "5f037b74fca230f8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Paulo Paim propõe quebrar patente do princípio ativo do Mounjaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122502/paulo-paim-propoe-quebrar-patente-do-principio-ativo-do-mounjaro",
+      "resumo": "Projeto não significa a quebra de patente, mas abre caminho para determinação do Executivo.",
+      "publicado_em": "2026-09-23T10:39:39-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
     },
     {
       "id": "cdd5bbb1a52722f3",
@@ -1049,6 +1244,53 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "db5bbc95ecb09b61",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Regras dos centros de inteligência serão revisadas para combater litigância abusiva",
+      "link": "https://www.cnj.jus.br/regras-dos-centros-de-inteligencia-serao-revisadas-para-combater-litigancia-abusiva/",
+      "resumo": "A atuação dos centros de inteligência dos tribunais no desenvolvimento de soluções e estratégias para identificar litigância abusiva deve ser reforçada pelo Conselho Nacional de Justiça (CNJ) com a revisão da resolução que criou esses centros em 2020. O grupo de trabalho incumbido dessa tarefa reali",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "resolucao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
+    },
+    {
+      "id": "ae91af44af15f805",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei confere caráter permanente a programa de bolsas para formação de professor",
+      "link": "https://www.camara.leg.br/noticias/1306267-lei-confere-carater-permanente-a-programa-de-bolsas-para-formacao-de-professor",
+      "resumo": "",
+      "publicado_em": "2026-09-23T16:05:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
+    },
+    {
+      "id": "606adbe341afe428",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei confere o título de capital nacional do pé de moleque à cidade de Piranguinho (MG)",
+      "link": "https://www.camara.leg.br/noticias/1306282-lei-confere-o-titulo-de-capital-nacional-do-pe-de-moleque-a-cidade-de-piranguinho-mg",
+      "resumo": "",
+      "publicado_em": "2026-09-23T15:35:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-23T16:26:14-03:00"
     },
     {
       "id": "a1d4dd85d58def1a",
