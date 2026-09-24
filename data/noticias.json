@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-24T12:42:47-03:00",
+  "gerado_em": "2026-09-24T15:02:01-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,14 +161,14 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -251,6 +251,72 @@
   ],
   "noticias": [
     {
+      "id": "f5e5fdc0810556f9",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Fórum de Osasco-SP tem suspensão das atividades presenciais prorrogada até 13/10; audiências seguem telepresenciais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/forum-de-osasco-sp-tem-suspensao-das-atividades-presenciais-prorrogada-ate-13-10-audiencias-seguem-telepresenciais",
+      "resumo": "",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "prorrogad"
+      ],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
+      "id": "489acc66dfb229e6",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Nova administração do TRT-2 é empossada na quinta-feira (1º/10)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/nova-administracao-do-trt-2-e-empossada-na-quinta-feira-1o-10",
+      "resumo": "",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
+      "id": "6c8d84d8d261bb17",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Juliana Benatti toma posse como desembargadora do TRT-15.",
+      "link": "https://trt15.jus.br/noticia/2026/juliana-benatti-toma-posse-como-desembargadora-do-trt-15",
+      "resumo": "Juliana Benatti toma posse como desembargadora do TRT-15. anagatto Qui, 24/09/2026 - 14:17 Juliana Benatti toma posse como desembargadora do TRT-15 Conteúdo da Notícia Tomou posse nesta quarta-feira, 23/9, a desembargadora do Tribunal Regional do Trabalho da 15ª Região Juliana Benatti. A cerimônia, ",
+      "publicado_em": "2026-09-24T14:17:32-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 0,
+      "tags": [
+        "posse",
+        "toma posse"
+      ],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
+      "id": "9a3d08ae17582bbb",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "6ª Câmara rejeita pedido de exclusão de vigilantes da base de cálculo da cota de aprendizagem",
+      "link": "https://trt15.jus.br/noticia/2026/6a-camara-rejeita-pedido-de-exclusao-de-vigilantes-da-base-de-calculo-da-cota-de",
+      "resumo": "6ª Câmara rejeita pedido de exclusão de vigilantes da base de cálculo da cota de aprendizagem anagatto Qui, 24/09/2026 - 13:04 6ª Câmara rejeita pedido de exclusão de vigilantes da base de cálculo da cota de aprendizagem Conteúdo da Notícia Ao julgar recurso de uma empresa de transporte de valores, ",
+      "publicado_em": "2026-09-24T13:04:59-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "julga",
+        "recurso"
+      ],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
       "id": "d2ed1b02e65bf778",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -298,6 +364,38 @@
       "coletado_em": "2026-09-24T12:42:47-03:00"
     },
     {
+      "id": "636b31dbab9f1512",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Desembargadores Alexandre Coelho e Ana Lucia Fernandes Queiroga tomam posse em ato administrativo",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115430&pagina=1",
+      "resumo": "Mais de três décadas de carreira.\n \n\tO Tribunal de Justiça de São Paulo realizou, hoje (24), a posse  solene dos desembargadores Alexandre Coelho e Ana",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
+      "id": "64e96bcf6e1f9445",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Justiça nega pedido de exclusão de sobrenome por alegação de constrangimento",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115417&pagina=1",
+      "resumo": "Autor não comprovou situação vexatória.\n \n\tA 10ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve sentença da 2ª Vara Cível do",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
       "id": "a40b2fb8523e4fe8",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -328,6 +426,34 @@
         "adi"
       ],
       "coletado_em": "2026-09-24T12:42:47-03:00"
+    },
+    {
+      "id": "2b4f6276657a1972",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei estabelece protocolo nacional para atendimento a vítimas de estupro",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/lei-estabelece-protocolo-nacional-para-atendimento-a-vitimas-de-estupro",
+      "resumo": "",
+      "publicado_em": "2026-09-24T13:47:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
+      "id": "176f51693dca5443",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei mantém incentivo fiscal para projetos sobre câncer e pessoas com deficiência",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/lei-mantem-incentivo-fiscal-para-projetos-sobre-cancer-e-pessoas-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-09-24T13:15:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
     },
     {
       "id": "619917b1269e0d1e",
@@ -390,6 +516,36 @@
       "coletado_em": "2026-09-24T12:42:47-03:00"
     },
     {
+      "id": "4099148d91f8d07e",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senajus e Secretaria-Executiva recebem representantes da Procuradoria-Geral da Rússia",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-e-secretaria-executiva-recebem-representantes-da-procuradoria-geral-da-russia",
+      "resumo": "",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
+      "id": "e59abc1878ed3d23",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Convocação da lista de espera do Fies termina nesta quinta (24)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/termina-hoje-24-a-convocacao-da-lista-de-espera-do-fies",
+      "resumo": "",
+      "publicado_em": "2026-09-24T14:01:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
       "id": "fad16fa4d02a84c9",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -450,6 +606,37 @@
       "coletado_em": "2026-09-24T12:42:47-03:00"
     },
     {
+      "id": "22f85698ec5fade0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe barrar familiares na suplência de candidatos ao Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122546/deputado-propoe-barrar-familiares-na-suplencia-de-candidatos-ao-senado",
+      "resumo": "Texto inclui cônjuges e familiares por sangue, afinidade ou adoção entre os impedidos de integrar a suplência ao Senado.",
+      "publicado_em": "2026-09-24T14:12:04-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
+      "id": "3ddc8fba45d84c27",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Defesa de Bolsonaro recua e desiste de pedir suspensão da pena",
+      "link": "https://www.congressoemfoco.com.br/noticia/122545/defesa-de-bolsonaro-recua-e-desiste-de-pedir-suspensao-da-pena",
+      "resumo": "Advogados retiraram solicitação cerca de duas horas após apresentá-la a Nunes Marques, mas mantiveram revisão criminal.",
+      "publicado_em": "2026-09-24T14:00:45-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
       "id": "8acf21c510ee07b5",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -497,6 +684,23 @@
       "coletado_em": "2026-09-24T12:42:47-03:00"
     },
     {
+      "id": "046be5910ab268bd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE indefere registro de candidatura de Arruda ao governo do DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122538/tse-indefere-registro-de-candidatura-de-arruda-ao-governo-do-df",
+      "resumo": "Ex-governador está inelegível em razão de condenações por improbidade administrativa relacionadas à Operação Caixa de Pandora.",
+      "publicado_em": "2026-09-24T10:44:59-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "improbidade",
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
       "id": "569e583f6c9d196e",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -511,6 +715,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-24T12:42:47-03:00"
+    },
+    {
+      "id": "42564a7f26deef1b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado: Aproveitamento dos dois votos caiu de 81% para 73% desde 2002",
+      "link": "https://www.congressoemfoco.com.br/noticia/122535/senado-aproveitamento-dos-dois-votos-caiu-de-81-para-73-desde-2002",
+      "resumo": "Levantamento do Congresso em Foco mostra queda no aproveitamento das duas escolhas ao Senado desde 2002. Em 2018, o índice variou de 61,7% em Pernambuco a 89,6% no Acre.",
+      "publicado_em": "2026-09-24T09:37:35-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T15:02:01-03:00"
     },
     {
       "id": "5868a4b8212f6fdf",
@@ -627,7 +845,7 @@
       "id": "7b32f46914421a4e",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "AO VIVO: TSE julga registro de candidatura de Arruda ao governo do DF",
+      "titulo": "TSE julga registro de candidatura de Arruda ao governo do DF",
       "link": "https://www.congressoemfoco.com.br/noticia/122525/tse-julga-hoje-registro-de-candidatura-de-arruda-ao-governo-do-df",
       "resumo": "Ex-governador recorre de decisão que o considerou inelegível por seis condenações por improbidade ligadas à operação Caixa de Pandora.",
       "publicado_em": "2026-09-24T07:29:03-03:00",
@@ -761,6 +979,20 @@
         "processo"
       ],
       "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "d667f612f4b97f1c",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "7ª Câmara afasta responsabilidade solidária de empresa por falta de prova de grupo econômico familiar",
+      "link": "https://trt15.jus.br/noticia/2026/7a-camara-afasta-responsabilidade-solidaria-de-empresa-por-falta-de-prova-de-grupo",
+      "resumo": "7ª Câmara afasta responsabilidade solidária de empresa por falta de prova de grupo econômico familiar anagatto Qua, 23/09/2026 - 10:16 7ª Câmara afasta responsabilidade solidária de empresa por falta de prova de grupo econômico familiar Conteúdo da Notícia A 7ª Câmara do Tribunal Regional do Trabalh",
+      "publicado_em": "2026-09-23T10:16:44-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T13:48:02-03:00"
     },
     {
       "id": "6bb23a05e2be5369",
@@ -2189,7 +2421,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Itinerância da Justiça do Trabalho garante direitos e dignidade no Pará",
       "link": "https://www.cnj.jus.br/itinerancia-da-justica-do-trabalho-leva-garante-direitos-e-dignidade-no-para/",
-      "resumo": "O Tribunal Regional do Trabalho da 8a Região (TRT-8) realiza nesta semana mais uma ação da Jornada Justiça Itinerante. Dessa vez, a ação acontece na Região Metropolitana de Belém, no Pará. A jornada começou na cidade de Santa Bárbara, Benevides e encerra em Marituba. O objetivo é aproximar a Justiça",
+      "resumo": "O Tribunal Regional do Trabalho da 8ª Região (TRT-8) realiza nesta semana mais uma ação da Jornada Justiça Itinerante. Desta vez, a ação acontece na Região Metropolitana de Belém, no Pará. A jornada começou na cidade de Santa Bárbara, Benevides e encerra em Marituba. O objetivo é aproximar a Justiça",
       "publicado_em": "2026-09-23T12:00:00-03:00",
       "dia": "2026-09-23",
       "data_estimada": true,
@@ -4336,20 +4568,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-21T17:15:24-03:00"
-    },
-    {
-      "id": "d667f612f4b97f1c",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "7ª Câmara afasta responsabilidade solidária de empresa por falta de prova de grupo econômico familiar",
-      "link": "https://trt15.jus.br/noticia/2026/7a-camara-afasta-responsabilidade-solidaria-de-empresa-por-falta-de-prova-de-grupo",
-      "resumo": "7ª Câmara afasta responsabilidade solidária de empresa por falta de prova de grupo econômico familiar anagatto Seg, 21/09/2026 - 10:16 7ª Câmara afasta responsabilidade solidária de empresa por falta de prova de grupo econômico familiar Conteúdo da Notícia A 7ª Câmara do Tribunal Regional do Trabalh",
-      "publicado_em": "2026-09-21T10:16:44-03:00",
-      "dia": "2026-09-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-21T13:48:02-03:00"
     },
     {
       "id": "8a75c61b5e62670d",
