@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-24T16:47:01-03:00",
+  "gerado_em": "2026-09-24T19:50:51-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -179,7 +179,7 @@ window.DADOS = {
     {
       "id": "fazenda",
       "status": "ok",
-      "itens": 29,
+      "itens": 30,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -412,6 +412,87 @@ window.DADOS = {
       "coletado_em": "2026-09-24T15:02:01-03:00"
     },
     {
+      "id": "d3aea93ff6d311ab",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Museu do TJSP celebra centenário de Paulo Bomfim com música ao vivo",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115437&pagina=1",
+      "resumo": "Mais um evento em comemoração ao nascimento do poeta.\n \n\tO Palacete Conde de Sarzedas, sede do Museu do Tribunal de Justiça de São Paulo, abriu",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "962aa7ac60e6b0d6",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP instala Cejusc na Comarca de Cordeirópolis",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115433&pagina=1",
+      "resumo": "Foco na solução consensual de conflitos. \n \n\tO Tribunal de Justiça de São Paulo instalou, hoje (24), o Centro Judiciário de Solução de Conflitos e Cidadania",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "500e1c74442da008",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Decano remete ao Plenário processo para unificar entendimento sobre pagamento de precatórios a usinas sucroalcooleiras",
+      "link": "https://noticias.stf.jus.br/postsnoticias/decano-remete-ao-plenario-processo-para-unificar-entendimento-sobre-pagamento-de-precatorios-a-usinas-sucroalcooleiras/",
+      "resumo": "Medida foi adotada pelo ministro Gilmar Mendes após decisões conflitantes do Tribunal sobre o tema",
+      "publicado_em": "2026-09-24T19:34:42-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "precatorio",
+        "processo"
+      ],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "fbe8df31f316ca47",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF garante contagem de serviço leve para promoção de policiais militares no Ceará",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-garante-contagem-de-servico-leve-para-promocao-de-policiais-militares-no-ceara/",
+      "resumo": "Para o Plenário, origem da limitação funcional não pode ser usada para excluir tempo trabalhado e impedir a progressão da carreira",
+      "publicado_em": "2026-09-24T18:13:40-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "b1c9e66c25ac8d8b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Relator determina que PF investigue possíveis irregularidades na atuação da CVM no caso Master",
+      "link": "https://noticias.stf.jus.br/postsnoticias/relator-determina-que-pf-investigue-possiveis-irregularidades-na-atuacao-da-cvm-no-caso-master/",
+      "resumo": "Decisão do ministro Flávio Dino considera relatório que apontou fragilidades na autarquia e falhas na apuração de denúncia contra o banco",
+      "publicado_em": "2026-09-24T16:59:40-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
       "id": "a40b2fb8523e4fe8",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -442,6 +523,36 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-09-24T12:42:47-03:00"
+    },
+    {
+      "id": "cb74012c2f015c59",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Programa de bolsas de iniciação à docência agora é lei",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/programa-de-bolsas-de-iniciacao-a-docencia-agora-e-lei",
+      "resumo": "",
+      "publicado_em": "2026-09-24T17:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "b196ab14ebccc7ca",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Quase 40% das brasileiras com deficiência já sofreram violência doméstica",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/quase-40-das-brasileiras-com-deficiencia-ja-sofreram-violencia-domestica",
+      "resumo": "",
+      "publicado_em": "2026-09-24T16:49:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
     },
     {
       "id": "2b4f6276657a1972",
@@ -580,6 +691,138 @@ window.DADOS = {
       "coletado_em": "2026-09-24T16:47:01-03:00"
     },
     {
+      "id": "3fa4fddf9cb81dcb",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Policiais de São Paulo participam de curso sobre investigação do crime organizado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/policiais-de-sao-paulo-participam-de-curso-sobre-investigacao-do-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "a7979f8f006cdbf1",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Ciberlab apoia polícias civis em operações contra fraudes eletrônicas em três estados",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ciberlab-apoia-policias-civis-em-operacoes-contra-fraudes-eletronicas-em-tres-estados",
+      "resumo": "",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "4ca4127482e2aa44",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP remove mais de mil páginas e perfis que divulgavam bets irregulares",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-remove-mais-de-mil-paginas-e-perfis-que-divulgavam-bets-irregulares",
+      "resumo": "",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "dd032e1a67da2e63",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Força Nacional realiza formatura do décimo curso de Segurança e Proteção de Autoridades",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-realiza-formatura-do-decimo-curso-de-seguranca-e-protecao-de-autoridades",
+      "resumo": "",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "d07c5bfbf8990372",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Encontro debate proteção de crianças e adolescentes no ambiente digital",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/encontro-debate-protecao-de-criancas-e-adolescentes-no-ambiente-digital",
+      "resumo": "",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "74a6caf7c1b3caa2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Saúde consulta comissão nacional para incorporar canetas emagrecedoras ao SUS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/ministerio-da-saude-protocola-na-conitec-pedido-de-analise-para-incorporacao-de-canetas-emagrecedoras-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-09-24T18:13:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "825cc972c4eb8c27",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Receita Federal, em nova fase da operação que revelou escândalo, identifica mais conexões",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/operacao-credito-oculto-receita-federal-e-gaeco-identificam-novas-conexoes-financeiras-de-investigados-da-operacao-carbono-oculto",
+      "resumo": "",
+      "publicado_em": "2026-09-24T17:20:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T12:42:47-03:00"
+    },
+    {
+      "id": "2931b4d9ee53ac38",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Inep divulga gabaritos preliminares da Prova Nacional Docente",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/inep-divulga-gabaritos-preliminares-da-pnd",
+      "resumo": "",
+      "publicado_em": "2026-09-24T15:50:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "liminar"
+      ],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "2b6f20da7b99c7f6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Painel orienta exportadoras a buscar oportunidades abertas pelo acordo Mercosul-EFTA",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/painel-para-ampliar-acesso-as-novas-oportunidades-abertas-acordo-mercosul-efta",
+      "resumo": "",
+      "publicado_em": "2026-09-24T14:06:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
       "id": "e59abc1878ed3d23",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -657,20 +900,18 @@ window.DADOS = {
       "coletado_em": "2026-09-24T12:42:47-03:00"
     },
     {
-      "id": "825cc972c4eb8c27",
+      "id": "c7698a62064c6c7c",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Receita Federal, em nova fase da operação que revelou escândalo, identifica mais conexões",
-      "link": "https://agenciagov.ebc.com.br/noticias/202609/operacao-credito-oculto-receita-federal-e-gaeco-identificam-novas-conexoes-financeiras-de-investigados-da-operacao-carbono-oculto",
+      "titulo": "Correios inaugura quatro Pontos de Coleta em Santarém e amplia credenciamento no Pará",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/correios-inaugura-quatro-pontos-de-coleta-em-santarem-e-amplia-credenciamento-no-para",
       "resumo": "",
-      "publicado_em": "2026-09-24T07:22:00-03:00",
+      "publicado_em": "2026-09-24T00:00:00-03:00",
       "dia": "2026-09-24",
       "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-09-24T12:42:47-03:00"
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
     },
     {
       "id": "cbd9ff2907d67e2f",
@@ -685,6 +926,66 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-24T12:42:47-03:00"
+    },
+    {
+      "id": "df996d0b9a71ff23",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Governo reduz contenção total das despesas em 2026 para R$ 16,1 bilhões",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-reduz-contencao-total-das-despesas-em-2026-para-r-16-1-bilhoes",
+      "resumo": "",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "a46956e7d310a559",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O inconformismo das elites contra favorecimentos aos mais pobres!",
+      "link": "https://www.congressoemfoco.com.br/artigo/122555/o-inconformismo-das-elites-contra-favorecimentos-aos-mais-pobres",
+      "resumo": "Não podemos aceitar que as elites financeiras, políticas e empresariais continuem dividindo o país para manter as desigualdades sociais existentes há séculos entre nossa gente.",
+      "publicado_em": "2026-09-24T16:58:52-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "e86f20fa8c56c2ee",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Barriga solidária: um novo olhar sobre o sonho de ter filhos",
+      "link": "https://www.congressoemfoco.com.br/artigo/122554/barriga-solidaria-um-novo-olhar-sobre-o-sonho-de-ter-filhos",
+      "resumo": "Para muitos casais e também para famílias monoparentais, o desejo de ter filhos pode esbarrar em questões fisiológicas, seja por contraindicação médica, seja pela impossibilidade de gestar.",
+      "publicado_em": "2026-09-24T16:53:48-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "d99b9099feabd7ed",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O que as plataformas terão de revelar sobre crianças e adolescentes",
+      "link": "https://www.congressoemfoco.com.br/artigo/122553/o-que-as-plataformas-terao-de-revelar-sobre-criancas-e-adolescentes",
+      "resumo": "O desafio vai além do cumprimento de uma nova obrigação regulatória: é transformar o relatório de transparência em uma ferramenta efetiva de conscientização, participação e proteção no ambiente digital.",
+      "publicado_em": "2026-09-24T16:43:15-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
     },
     {
       "id": "dd8a89a02219a4c2",
@@ -720,7 +1021,7 @@ window.DADOS = {
       "fonte_nome": "Congresso em Foco",
       "titulo": "Denunciar não pode ser mais uma violência",
       "link": "https://www.congressoemfoco.com.br/coluna/122550/denunciar-nao-pode-ser-mais-uma-violencia",
-      "resumo": "Facilitar o acesso aos canais de denúncia contra a violência política de gênero e raça, articular a rede de proteção e aprimorar mecanismos de reparação é fundamental para aumentar o custo político de quem ameaça, agride e tenta afastar mulheres, pessoas LGBTQIA+, indígenas e pessoas negras da vida.",
+      "resumo": "Facilitar acesso a canais de denúncia contra a violência política de gênero e raça, articular rede de proteção e aprimorar mecanismos de reparação é fundamental para aumentar custo político de quem ameaça, agride e tenta afastar mulheres, pessoas LGBTQIA+, indígenas e pessoas negras da vida pública.",
       "publicado_em": "2026-09-24T14:58:15-03:00",
       "dia": "2026-09-24",
       "data_estimada": false,
@@ -1030,6 +1331,111 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-24T12:42:47-03:00"
+    },
+    {
+      "id": "b3f1874ede118504",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Sistema que moderniza a gestão da Justiça Restaurativa está disponível para tribunais de todo o país",
+      "link": "https://www.cnj.jus.br/sistema-que-moderniza-a-gestao-da-justica-restaurativa-esta-disponivel-para-tribunais-de-todo-o-pais/",
+      "resumo": "Ouvir as pessoas envolvidas em um conflito, compreender os danos causados e construir caminhos para sua reparação são atividades centrais da Justiça Restaurativa. Para fortalecer a gestão dessas práticas, o Tribunal de Justiça do Estado de Mato Grosso (TJMT) desenvolveu o sistema Restaura, que já es",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "af7a35e52a21f77b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Território Kalunga: Projeto fortalece acesso à Justiça com formação de agentes comunitários",
+      "link": "https://www.cnj.jus.br/territorio-kalunga-projeto-fortalece-acesso-a-justica-com-formacao-de-agentes-comunitarios/",
+      "resumo": "Uma nova ponte entre o Sistema de Justiça e a comunidade Kalunga, em Cavalcante (GO), foi inaugurada esta semana: o Projeto Agente Comunitário Quilombola. O projeto vai promover a formação de lideranças quilombolas para que atuem na identificação de demandas relativas ao Poder Judiciário e viabilize",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "f1250ae3b49e5c41",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Concurso de desenho sobre direitos no ECA Digital tem inscrições prorrogadas até 30/11",
+      "link": "https://www.cnj.jus.br/concurso-de-desenho-sobre-direitos-no-eca-digital-tem-inscricoes-prorrogadas-ate-30-11428386-2/",
+      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital tá on”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "prorrogad",
+        "prazo"
+      ],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "c832c075e0864c8b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Corregedor nacional abre inspeção ordinária no Rio Grande do Norte",
+      "link": "https://www.cnj.jus.br/corregedor-nacional-abre-inspecao-ordinaria-no-rio-grande-do-norte/",
+      "resumo": "O corregedor nacional de justiça, ministro Benedito Gonçalves, abriu, nesta quarta-feira (23/9), os trabalhos da inspeção ordinária do Conselho Nacional de Justiça (CNJ) no Tribunal de Justiça do Rio Grande do Norte (TJRN). Ele destacou que o trabalho permitirá verificar o cumprimento das normas do ",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "9d3f9a6aa5c1888f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Especialista resume alertas sobre El Niño e cobra ações urgentes do poder público",
+      "link": "https://www.camara.leg.br/noticias/1306704-especialista-resume-alertas-sobre-el-nino-e-cobra-acoes-urgentes-do-poder-publico",
+      "resumo": "",
+      "publicado_em": "2026-09-24T19:10:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "6c5ba4326ac279dd",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto amplia reserva de vagas para mulheres em contratos públicos",
+      "link": "https://www.camara.leg.br/noticias/1304195-projeto-amplia-reserva-de-vagas-para-mulheres-em-contratos-publicos",
+      "resumo": "",
+      "publicado_em": "2026-09-24T18:09:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "2cdcedb96ba4733d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria medidas para proteger crianças e adolescentes contra publicidades de apostas",
+      "link": "https://www.camara.leg.br/noticias/1306587-projeto-cria-medidas-para-proteger-criancas-e-adolescentes-contra-publicidades-de-apostas",
+      "resumo": "",
+      "publicado_em": "2026-09-24T17:03:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
     },
     {
       "id": "b1f6cdd283f27beb",
@@ -2641,7 +3047,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "CNJ faz homenagem ao trabalho de conciliadores e mediadores na Justiça",
       "link": "https://www.cnj.jus.br/cnj-faz-homenagem-ao-trabalho-de-conciliadores-e-mediadores-na-justica/",
-      "resumo": "O Comitê Gestor de Conciliação do Conselho Nacional de Justiça (CNJ) presta homenagem nesta quarta-feira (23/9) aos conciliadores e mediadores que atuam junto com o Poder Judiciário em prol da pacificação social e da solução consensual de conflitos. “Tenham certeza de que o trabalho, esforço e dedic",
+      "resumo": "O Comitê Gestor de Conciliação do Conselho Nacional de Justiça (CNJ) presta homenagem nesta quarta-feira (23/9) aos conciliadores e mediadores que atuam junto com o Poder Judiciário em prol da pacificação social e da solução consensual de conflitos. “Tenham certeza de que o trabalho, o esforço e a d",
       "publicado_em": "2026-09-23T12:00:00-03:00",
       "dia": "2026-09-23",
       "data_estimada": true,
@@ -11779,6 +12185,20 @@ window.DADOS = {
         "portaria"
       ],
       "coletado_em": "2026-09-15T19:33:37-03:00"
+    },
+    {
+      "id": "c7c1272f1c938233",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Encontro em Fortaleza debateu como viabilizar projetos de biometano no Nordeste",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/encontro-em-fortaleza-debateu-como-viabilizar-projetos-de-biometano-no-nordeste",
+      "resumo": "",
+      "publicado_em": "2026-09-15T12:00:00-03:00",
+      "dia": "2026-09-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T19:50:51-03:00"
     },
     {
       "id": "1408c539d46745be",
