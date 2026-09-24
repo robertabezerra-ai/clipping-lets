@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-24T15:02:01-03:00",
+  "gerado_em": "2026-09-24T16:47:01-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -281,6 +281,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
+      "id": "1d5bbffcde371528",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Investigação Patrimonial Estratégica é tema da nova edição do Diálogos Inovadores",
+      "link": "https://trt15.jus.br/noticia/2026/investigacao-patrimonial-estrategica-e-tema-da-nova-edicao-do-dialogos-inovadores",
+      "resumo": "Investigação Patrimonial Estratégica é tema da nova edição do Diálogos Inovadores anagatto Qui, 24/09/2026 - 15:19 Investigação Patrimonial Estratégica é tema da nova edição do Diálogos Inovadores Conteúdo da Notícia O Co.Labora 15 do Tribunal Regional do Trabalho da 15ª Região promove no dia 28/9, ",
+      "publicado_em": "2026-09-24T15:19:19-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T16:47:01-03:00"
     },
     {
       "id": "6c8d84d8d261bb17",
@@ -369,7 +385,7 @@
       "fonte_nome": "TJSP",
       "titulo": "Desembargadores Alexandre Coelho e Ana Lucia Fernandes Queiroga tomam posse em ato administrativo",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115430&pagina=1",
-      "resumo": "Mais de três décadas de carreira.\n \n\tO Tribunal de Justiça de São Paulo realizou, hoje (24), a posse  solene dos desembargadores Alexandre Coelho e Ana",
+      "resumo": "Mais de três décadas de carreira.\n \n\tO Tribunal de Justiça de São Paulo realizou, hoje (24), a posse  administrativa dos desembargadores Alexandre Coelho e Ana",
       "publicado_em": "2026-09-24T12:00:00-03:00",
       "dia": "2026-09-24",
       "data_estimada": true,
@@ -500,6 +516,23 @@
       "coletado_em": "2026-09-24T12:42:47-03:00"
     },
     {
+      "id": "37d51bc05099088a",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende 116 kg de cocaína no Aeroporto Internacional de Guarulhos",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-apreende-116-kg-de-cocaina-no-aeroporto-internacional-de-guarulhos",
+      "resumo": "",
+      "publicado_em": "2026-09-24T15:46:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 4,
+      "tags": [
+        "apreende",
+        "cocaina"
+      ],
+      "coletado_em": "2026-09-24T16:47:01-03:00"
+    },
+    {
       "id": "023f9ce2657a3948",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -530,6 +563,23 @@
       "coletado_em": "2026-09-24T15:02:01-03:00"
     },
     {
+      "id": "a7caf60a32637868",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senad promove capacitação nacional sobre Sistema de Alerta Rápido sobre Drogas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-promove-capacitacao-nacional-sobre-sistema-de-alerta-rapido-sobre-drogas",
+      "resumo": "",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 26,
+      "tags": [
+        "acao",
+        "droga"
+      ],
+      "coletado_em": "2026-09-24T16:47:01-03:00"
+    },
+    {
       "id": "e59abc1878ed3d23",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -544,6 +594,37 @@
         "acao"
       ],
       "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
+      "id": "56ac4c6399a99d55",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Stadium, histórico programa esportivo da TV Brasil, comemora 50 anos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/stadium-historico-programa-esportivo-da-tv-brasil-comemora-50-anos",
+      "resumo": "",
+      "publicado_em": "2026-09-24T12:27:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "adi",
+        "comemora"
+      ],
+      "coletado_em": "2026-09-24T16:47:01-03:00"
+    },
+    {
+      "id": "35896bcad9534cc9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "A experiência brasileira com o SUS é referência em debates na ONU e no México",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/ministerio-da-saude-leva-a-onu-experiencias-do-sus-sobre-menopausa-e-doencas-raras",
+      "resumo": "",
+      "publicado_em": "2026-09-24T11:28:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T16:47:01-03:00"
     },
     {
       "id": "fad16fa4d02a84c9",
@@ -579,7 +660,7 @@
       "id": "825cc972c4eb8c27",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Receita Federal e polícias, em nova fase da operação que revelou escândalo, identificam mais conexões",
+      "titulo": "Receita Federal, em nova fase da operação que revelou escândalo, identifica mais conexões",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/operacao-credito-oculto-receita-federal-e-gaeco-identificam-novas-conexoes-financeiras-de-investigados-da-operacao-carbono-oculto",
       "resumo": "",
       "publicado_em": "2026-09-24T07:22:00-03:00",
@@ -604,6 +685,66 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-24T12:42:47-03:00"
+    },
+    {
+      "id": "dd8a89a02219a4c2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Maioria da direita no Senado \"transforma o país num inferno\", diz Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/122552/maioria-da-direita-no-senado-transforma-o-pais-num-inferno--diz-lula",
+      "resumo": "Presidente defendeu que impedir uma maioria de direita no Senado é fundamental para a governabilidade de um eventual novo mandato.",
+      "publicado_em": "2026-09-24T15:37:23-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T16:47:01-03:00"
+    },
+    {
+      "id": "37bd43a3748c9948",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A idade da pedra, o barril a US$ 100 e a janela do Brasil",
+      "link": "https://www.congressoemfoco.com.br/coluna/122551/a-idade-da-pedra-o-barril-a-us-100-e-a-janela-do-brasil",
+      "resumo": "Com reservas promissoras e preços favoráveis, país precisa reduzir incertezas regulatórias para transformar petróleo em desenvolvimento.",
+      "publicado_em": "2026-09-24T14:59:19-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T16:47:01-03:00"
+    },
+    {
+      "id": "5a169635a4cc4a45",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Denunciar não pode ser mais uma violência",
+      "link": "https://www.congressoemfoco.com.br/coluna/122550/denunciar-nao-pode-ser-mais-uma-violencia",
+      "resumo": "Facilitar o acesso aos canais de denúncia contra a violência política de gênero e raça, articular a rede de proteção e aprimorar mecanismos de reparação é fundamental para aumentar o custo político de quem ameaça, agride e tenta afastar mulheres, pessoas LGBTQIA+, indígenas e pessoas negras da vida.",
+      "publicado_em": "2026-09-24T14:58:15-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T16:47:01-03:00"
+    },
+    {
+      "id": "f293159847c7dd36",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio debocha de Moraes ao citar uso de avião de Vorcaro e alvo da PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122547/flavio-debocha-de-moraes-ao-citar-uso-de-aviao-de-vorcaro-e-alvo-da-pf",
+      "resumo": "Candidato diz que aeronave era de Willer Tomaz quando fez a viagem. Advogado foi alvo da PF no caso do INSS. O mesmo jatinho foi usado depois por Moraes e Viviane Barci.",
+      "publicado_em": "2026-09-24T14:27:25-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "advogado"
+      ],
+      "coletado_em": "2026-09-24T16:47:01-03:00"
     },
     {
       "id": "22f85698ec5fade0",
@@ -635,6 +776,22 @@
         "advogado"
       ],
       "coletado_em": "2026-09-24T15:02:01-03:00"
+    },
+    {
+      "id": "24125f950432d330",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputados que buscam reeleição recebem 8 vezes mais verba eleitoral",
+      "link": "https://www.congressoemfoco.com.br/noticia/122543/deputados-que-buscam-reeleicao-recebem-8-vezes-mais-verba-eleitoral",
+      "resumo": "Embora sejam só 6% dos candidatos à Câmara, parlamentares que tentam novo mandato concentram 33% dos recursos já declarados. Eles já receberam mais de R$ 1 bilhão para gastar com a campanha.",
+      "publicado_em": "2026-09-24T13:37:01-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-24T16:47:01-03:00"
     },
     {
       "id": "8acf21c510ee07b5",
@@ -873,6 +1030,53 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-24T12:42:47-03:00"
+    },
+    {
+      "id": "b1f6cdd283f27beb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê parceria entre Detrans e estacionamentos para controlar uso de vagas reservadas",
+      "link": "https://www.camara.leg.br/noticias/1304190-projeto-preve-parceria-entre-detrans-e-estacionamentos-para-controlar-uso-de-vagas-reservadas",
+      "resumo": "",
+      "publicado_em": "2026-09-24T15:09:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T16:47:01-03:00"
+    },
+    {
+      "id": "a26f93ada3778f94",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Proposta torna obrigatório indicar motivação em registro de crime contra pessoa com deficiência",
+      "link": "https://www.camara.leg.br/noticias/1304024-proposta-torna-obrigatorio-indicar-motivacao-em-registro-de-crime-contra-pessoa-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-09-24T14:31:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "obrigatorio",
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T16:47:01-03:00"
+    },
+    {
+      "id": "6900993070077ac3",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe propaganda e uso de exames de câncer sem comprovação científica",
+      "link": "https://www.camara.leg.br/noticias/1303905-projeto-proibe-propaganda-e-uso-de-exames-de-cancer-sem-comprovacao-cientifica",
+      "resumo": "",
+      "publicado_em": "2026-09-24T14:11:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-24T16:47:01-03:00"
     },
     {
       "id": "f5edb4c128cccbe6",
