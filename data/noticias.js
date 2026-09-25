@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-25T16:48:33-03:00",
+  "gerado_em": "2026-09-25T19:58:25-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,7 +173,7 @@ window.DADOS = {
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 24,
+      "itens": 25,
       "erro": null
     },
     {
@@ -265,6 +265,34 @@ window.DADOS = {
         "trabalhista"
       ],
       "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "386f2ff9b14ee364",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Expediente presencial no Fórum da Zona Sul-SP é suspenso por falta de energia elétrica",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/expediente-presencial-no-forum-da-zona-sul-sp-e-suspenso-por-falta-de-energia-eletrica",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "c55a159bc94ca437",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Encontro de ouvidores(as) debate escuta qualificada e aperfeiçoamento na condução de denúncias; saiba mais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/encontro-de-ouvidoresas-debate-escuta-qualificada-e-aperfeicoamento-na-conducao-de-denuncias-saiba-mais",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
     },
     {
       "id": "9a426cdbc9c1d9c1",
@@ -368,6 +396,102 @@ window.DADOS = {
       "coletado_em": "2026-09-25T16:48:33-03:00"
     },
     {
+      "id": "cd79d5cefa3e04fa",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Visita monitorada acessível encerra a 7ª Semana da Acessibilidade e Inclusão",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115472&pagina=1",
+      "resumo": "Evento integra ações permanentes do TJSP.\n \n\tO Tribunal de Justiça de São Paulo encerrou, hoje (25), a 7ª Semana da Acessibilidade e Inclusão, promovida pela",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "1fdcd4d5959e4339",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115474&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, palestrou, hoje (25), no encerramento",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "8720ac1ebf325bea",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "55ª CJ - Jales é tema da visita telepresencial \"Memória TJSP\"",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115466&pagina=1",
+      "resumo": "Difusão do patrimônio histórico e cultural do Judiciário.  \n \n\tA 55ª Circunscrição Judiciária (55ª CJ), sediada em Jales, recebeu, nesta sexta-feira (29), a visita telepresencial “Memória",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "cd4aa900de75c0c7",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF impõe condições para retomada de obras em área urbana reivindicada como território quilombola na Bahia",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-impoe-condicoes-para-retomada-de-obras-em-area-urbana-reivindicada-como-territorio-quilombola-na-bahia/",
+      "resumo": "Fachin considerou que há riscos à prestação de serviços essenciais, já que na área há hospital, UPA e mais de 2 mil casas, mas determinou que retomada das obras seja apreciada pelo TRF-1",
+      "publicado_em": "2026-09-25T19:15:05-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "db7fab9bbbc20b51",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF vai definir limites para quebra de sigilo telemático em fiscalização tributária",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-vai-definir-limites-para-quebra-de-sigilo-telematico-em-fiscalizacao-tributaria/",
+      "resumo": "Tribunal reconheceu repercussão geral de controvérsia sobre acesso, por ordem judicial, a dados armazenados em e-mail ou nuvem para cobrança de tributos",
+      "publicado_em": "2026-09-25T17:59:46-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "repercussao geral",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "a6a7a91be5819ffd",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Centro de Estudos do STF completa um ano com programação especial na próxima terça-feira (29)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/centro-de-estudos-do-stf-completa-um-ano-com-programacao-especial-nesta-terca-feira-29/",
+      "resumo": "Ministro Edson Fachin, presidente do Supremo, participa da abertura do evento, que terá ainda mesa-redonda e exibição de documentário",
+      "publicado_em": "2026-09-25T16:58:04-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
       "id": "fe3c06ff9f16746a",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -431,6 +555,51 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "b3aa59c37e8bdebb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sessão destaca excelência do ensino da Escola Superior de Ciências da Saúde",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/25/sessao-destaca-excelencia-do-ensino-da-escola-superior-de-ciencias-da-saude",
+      "resumo": "",
+      "publicado_em": "2026-09-25T18:09:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "7a8d4096674b5cfe",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Visitação ao Congresso deve ser agendada pela internet a partir de segunda",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/visitacao-ao-congresso-deve-ser-agendada-pela-internet-a-partir-de-segunda-28",
+      "resumo": "",
+      "publicado_em": "2026-09-25T17:23:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "07f8023578c803da",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Leis reconhecem Franca como capital do basquete e Piranguinho, do pé de moleque",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/leis-reconhecem-franca-como-capital-do-basquete-e-piranguinho-do-pe-de-moleque",
+      "resumo": "",
+      "publicado_em": "2026-09-25T17:08:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
     },
     {
       "id": "3dd774e81279f98a",
@@ -619,6 +788,20 @@ window.DADOS = {
       "coletado_em": "2026-09-25T12:44:16-03:00"
     },
     {
+      "id": "4d97db4ea7d1a0c3",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal em Cascavel (PR) encontra grande quantidade de celulares em fundo falso de caminhão",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-em-cascavel-pr-encontra-grande-quantidade-de-celulares-em-fundo-falso-de-caminhao",
+      "resumo": "",
+      "publicado_em": "2026-09-25T16:50:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
       "id": "5b484d355d2075b5",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -695,6 +878,38 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "ed6d448f6a793269",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Sinab alcança marca de 10 mil ligações confirmadas e amplia integração da perícia criminal",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sinab-alcanca-marca-de-10-mil-ligacoes-confirmadas-e-amplia-integracao-da-pericia-criminal",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "3ca0f92aa38eb296",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Escola Nacional de Segurança Pública conclui capacitação voltada ao resgate de bombeiros",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-conclui-capacitacao-voltada-ao-resgate-de-bombeiros",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
     },
     {
       "id": "d9a0ed8ea2ed6f61",
@@ -870,6 +1085,52 @@ window.DADOS = {
       "coletado_em": "2026-09-25T16:48:33-03:00"
     },
     {
+      "id": "5e7d4ad1765187cf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça determina remoção de posts sobre Flávio e Padroeira do Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/122589/mendonca-determina-remocao-de-posts-sobre-flavio-e-padroeira-do-brasil",
+      "resumo": "Ministro considerou falsa a narrativa e determinou atuação preventiva de cinco plataformas.",
+      "publicado_em": "2026-09-25T19:11:24-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "efed27627eccf695",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Madrugadas, Cavalos, Botos, e o drama dos \"Wind Banners\" nas Eleições",
+      "link": "https://www.congressoemfoco.com.br/artigo/122583/madrugadas-cavalos-botos-e-o-drama-dos-wind-banners-nas-eleicoes",
+      "resumo": "Nas eleições de 2026, a utilização desses equipamentos passou a produzir uma série de conflitos concretos.",
+      "publicado_em": "2026-09-25T16:25:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "6761e165b72b37cd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Uma década passou e a aprendizagem não mudou o suficiente",
+      "link": "https://www.congressoemfoco.com.br/artigo/122582/uma-decada-passou-e-a-aprendizagem-nao-mudou-o-suficiente",
+      "resumo": "A análise do desempenho do Brasil no PISA 2025 aponta questões relevantes sobre aprendizagem, desigualdade, conhecimentos fundamentais, autonomia e capacidade das escolas de produzir bons resultados em contextos muito diferentes.",
+      "publicado_em": "2026-09-25T16:22:18-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
       "id": "bd00775fdaa3fcb9",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -886,6 +1147,20 @@ window.DADOS = {
       "coletado_em": "2026-09-25T16:48:33-03:00"
     },
     {
+      "id": "77a8fe04dbceda4f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE e a jurisprudência sobre violência política de gênero",
+      "link": "https://www.congressoemfoco.com.br/artigo/122580/tse-e-a-jurisprudencia-sobre-violencia-politica-de-genero",
+      "resumo": "Números do TSE e do MPF mostram alta expressiva nos casos de violência política de gênero em 2026, enquanto decisões recentes do tribunal consolidam o alcance do artigo 326-B do Código Eleitoral.",
+      "publicado_em": "2026-09-25T15:57:18-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
       "id": "e56e21a3781f36bc",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -898,6 +1173,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "30f6cc387ab90506",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Supersalários e a pressão sobre as carreiras públicas",
+      "link": "https://www.congressoemfoco.com.br/artigo/122578/supersalarios-e-a-pressao-sobre-as-carreiras-publicas",
+      "resumo": "Os supersalários não explicam sozinhos as restrições fiscais, mas aumentam despesas e reforçam a leitura de que o funcionalismo precisa ser reduzido.",
+      "publicado_em": "2026-09-25T15:42:33-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
     },
     {
       "id": "379fb55df067c67a",
@@ -973,6 +1262,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "8cc8d894bfcbf2ca",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula anuncia fim das bets no país",
+      "link": "https://www.congressoemfoco.com.br/noticia/122570/lula-anuncia-fim-das-bets-no-pais",
+      "resumo": "Medida representa uma mudança radical na política adotada pelo próprio país nos últimos anos.",
+      "publicado_em": "2026-09-25T13:07:25-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
     },
     {
       "id": "8aaf117a6c8a61fc",
@@ -1139,7 +1444,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Campanha do TRE-RJ transforma temporariamente a Cinelândia em Estação Democracia no MetrôRio",
       "link": "https://www.cnj.jus.br/campanha-do-tre-rj-transforma-temporariamente-a-cinelandia-em-estacao-democracia-no-metrorio/",
-      "resumo": "Quem passou pela estação Cinelândia nas primeiras horas desta terça-feira (22) encontrou uma novidade. Uma das principais estações do MetrôRio, no Centro da capital, passou a se chamar temporariamente **Cinelândia/Estação Democracia**. O novo nome aparece nos acessos, elevadores e mapas de sinalizaç",
+      "resumo": "Quem passou pela estação Cinelândia nas primeiras horas desta terça-feira (22) encontrou uma novidade. Uma das principais estações do MetrôRio, no Centro da capital, passou a se chamar temporariamente Cinelândia/Estação Democracia. O novo nome aparece nos acessos, elevadores e mapas de sinalização, ",
       "publicado_em": "2026-09-25T12:00:00-03:00",
       "dia": "2026-09-25",
       "data_estimada": true,
@@ -1165,6 +1470,118 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "5c760c131d864d6e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ e TJMG fortalecem cooperação nas políticas para povos indígenas e segurança institucional",
+      "link": "https://www.cnj.jus.br/cnj-e-tjmg-fortalecem-cooperacao-nas-politicas-para-povos-indigenas-e-seguranca-institucional/",
+      "resumo": "Representantes do Conselho Nacional de Justiça (CNJ) realizaram, na quinta-feira (24/9), visita institucional ao Tribunal de Justiça de Minas Gerais (TJMG), em Belo Horizonte, com o objetivo de fortalecer a cooperação nas políticas judiciárias voltadas aos povos indígenas e à segurança institucional",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "3b4e60152423cc66",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Conheça os vencedores da 4ª edição do Prêmio Justiça e Saúde",
+      "link": "https://www.cnj.jus.br/conheca-os-vencedores-da-4a-edicao-do-premio-justica-e-saude/",
+      "resumo": "O Fórum Nacional do Judiciário para a Saúde (Fonajus) divulgou, nesta sexta-feira (25/9), o resultado preliminar da 4ª edição do Prêmio Justiça e Saúde. Promovida pelo Conselho Nacional de Justiça (CNJ), a premiação reconheceu boas práticas voltadas ao aprimoramento da solução de conflitos em questõ",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "liminar",
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "756876cc0b3aeac4",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Resultado do Prêmio Viviane do Amaral será divulgado em 29/9",
+      "link": "https://www.cnj.jus.br/resultado-do-premio-viviane-do-amaral-sera-divulgado-em-29-9/",
+      "resumo": "O resultado da edição 2026 do Prêmio Juíza Viviane do Amaral, destinado a reconhecer e dar visibilidade a iniciativas voltadas à prevenção e ao enfrentamento da violência doméstica e familiar contra mulheres e meninas, será divulgado na próxima terça-feira (29/9). A entrega dos prêmios está marcada ",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "8e64ddfe50ae312e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Crimes de drogas resultam em 60% mais prisões preventivas que a média, aponta CNJ",
+      "link": "https://www.cnj.jus.br/crimes-de-drogas-resultam-em-60-mais-prisoes-preventivas-que-a-media-aponta-cnj/",
+      "resumo": "Pesquisa divulgada nesta quinta-feira (23) pelo Conselho Nacional de Justiça (CNJ) mostra que prisões em flagrante por crimes relacionados a drogas resultam com maior frequência na decretação de prisão preventiva após realização de audiência de custódia. Nesses casos, a medida foi adotada em 59,7% d",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 26,
+      "tags": [
+        "acao",
+        "droga"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "020c08eee4b98c42",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê divulgação de protocolo Calma para lidar com crises convulsivas",
+      "link": "https://www.camara.leg.br/noticias/1304720-projeto-preve-divulgacao-de-protocolo-calma-para-lidar-com-crises-convulsivas",
+      "resumo": "",
+      "publicado_em": "2026-09-25T18:56:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "45c291531e6ee18b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prioriza matrícula de aluno com deficiência em escola integral próxima",
+      "link": "https://www.camara.leg.br/noticias/1304640-projeto-prioriza-matricula-de-aluno-com-deficiencia-em-escola-integral-proxima",
+      "resumo": "",
+      "publicado_em": "2026-09-25T17:55:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "fc5f32e89afc7e85",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto exige pessoal treinado para auxiliar pessoas idosas em viagens interestaduais",
+      "link": "https://www.camara.leg.br/noticias/1305482-projeto-exige-pessoal-treinado-para-auxiliar-pessoas-idosas-em-viagens-interestaduais",
+      "resumo": "",
+      "publicado_em": "2026-09-25T17:28:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T19:58:25-03:00"
     },
     {
       "id": "41a4c37602ab61b4",
@@ -2682,22 +3099,6 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-23T15:02:16-03:00"
-    },
-    {
-      "id": "12886ec7fe911de9",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Coleprecor debate novas tecnologias, distribuição de processos e gestão da Justiça do Trabalho",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/coleprecor-debate-novas-tecnologias-distribuicao-de-processos-e-gestao-da-justica-do-trabalho",
-      "resumo": "",
-      "publicado_em": "2026-09-23T12:00:00-03:00",
-      "dia": "2026-09-23",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "processo"
-      ],
-      "coletado_em": "2026-09-23T19:34:24-03:00"
     },
     {
       "id": "d667f612f4b97f1c",
@@ -4545,6 +4946,22 @@ window.DADOS = {
         "cade"
       ],
       "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "12886ec7fe911de9",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Coleprecor debate novas tecnologias, distribuição de processos e gestão da Justiça do Trabalho",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/coleprecor-debate-novas-tecnologias-distribuicao-de-processos-e-gestao-da-justica-do-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-09-22T12:00:00-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-23T19:34:24-03:00"
     },
     {
       "id": "332232c4a51ff653",
