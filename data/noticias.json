@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-25T15:07:55-03:00",
+  "gerado_em": "2026-09-25T16:48:33-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,7 +173,7 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 23,
+      "itens": 24,
       "erro": null
     },
     {
@@ -315,6 +315,91 @@
         "acao"
       ],
       "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "c906109fff79330d",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Boas práticas: Projeto Restaurar completa um ano de atuação na conscientização de autores de violência doméstica",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115407&pagina=1",
+      "resumo": "Iniciativa conjunta de órgãos do sistema de Justiça.\n \n\tAcolhimento, orientação e diálogo: esses são os pilares do Projeto Restaurar, iniciativa que, há um ano, vem",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "0380012f6a7811e0",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação de homem que vendia combustíveis em casa",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115457&pagina=1",
+      "resumo": "Mais de 1,6 mil litros apreendidos no imóvel.\n \n\tA 4ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve decisão da Vara",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "itr",
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "b46da117fbe6ab13",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "PPA Novos Tempos aborda proteção e autonomia na velhice",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115446&pagina=1",
+      "resumo": "Palestra com a professora e advogada Débora Gozzo. \n \n\tO Programa Novos Tempos - Preparação à Aposentadoria de Magistrados(as) e Valorização dos(as) Aposentados (as) do Tribunal",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "fe3c06ff9f16746a",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "OAB Nacional questiona cobrança fracionada em registros de imóveis no Tocantins",
+      "link": "https://noticias.stf.jus.br/postsnoticias/oab-nacional-questiona-cobranca-fracionada-em-registros-de-imoveis-no-tocantins/",
+      "resumo": "Entidade sustenta que regra multiplica valores cobrados em transmissões que envolvem várias pessoas",
+      "publicado_em": "2026-09-25T15:58:52-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "oab"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "87ee3faa54492973",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF identifica uso de comandos ocultos para influenciar IA em processo e comunica OAB e MPF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-identifica-uso-de-comandos-ocultos-para-influenciar-ia-em-processo-e-comunica-oab-e-mpf/",
+      "resumo": "Relator do caso, ministro Cristiano Zanin fez registro do episódio nos autos e aplicou multa de dois salários mínimos",
+      "publicado_em": "2026-09-25T15:25:32-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "multa",
+        "processo",
+        "oab"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
     },
     {
       "id": "d7b2404f85789e3b",
@@ -582,6 +667,52 @@
       "coletado_em": "2026-09-25T15:07:55-03:00"
     },
     {
+      "id": "97c16fb4966ba805",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Projeto Captura: integrante da lista dos mais procurados pelo MJSP é preso na Bolívia",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/projeto-captura-integrante-da-lista-dos-mais-procurados-pelo-mjsp-e-preso-na-bolivia",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "17ef87af057698a3",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "ENA apoia operação de polícias civis da Bahia e de São Paulo que resulta em prisão de liderança criminosa",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ena-apoia-operacao-de-policias-civis-da-bahia-e-de-sao-paulo-que-resulta-em-prisao-de-lideranca-criminosa",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "d9a0ed8ea2ed6f61",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Prazo para optar pelo Simei termina em janeiro, informa Receita Federal",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/receita-federal-tira-duvida-sobre-opcao-pelo-simei-que-permanece-com-prazo-definido-para-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-09-25T14:30:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
       "id": "9894d91a4dc3414b",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -596,6 +727,22 @@
         "adi"
       ],
       "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "a246cd72e9fb3f8c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Título que investe em educação é um dos destaques no balanço do Tesouro Direto em agosto",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/investimentos-no-tesouro-direto-somam-r-15-bilhoes-em-agosto",
+      "resumo": "",
+      "publicado_em": "2026-09-25T11:38:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
     },
     {
       "id": "88640d42ebd8d8fe",
@@ -648,7 +795,7 @@
       "id": "fd1b6874826c0586",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Anvisa proíbe propaganda de caneta emagrecedora",
+      "titulo": "Anvisa proíbe propaganda de caneta emagrecedora de tarjas vermelha e preta",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/anvisa-proibe-propaganda-da-caneta-semavy",
       "resumo": "",
       "publicado_em": "2026-09-25T08:50:00-03:00",
@@ -703,6 +850,115 @@
         "prazo"
       ],
       "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "9f8c3a561dc3ff15",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita divulga novo balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-divulga-novo-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "bd00775fdaa3fcb9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Conselho do MPF tem maioria para manter Paulo Gonet no caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122581/conselho-do-mpf-tem-maioria-para-manter-paulo-gonet-no-caso-master",
+      "resumo": "Placar para abrir investigação contra procurador-geral ainda é impasse.",
+      "publicado_em": "2026-09-25T16:07:22-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "e56e21a3781f36bc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleições 2026 e o futuro do Supremo Tribunal Federal",
+      "link": "https://www.congressoemfoco.com.br/artigo/122579/eleicoes-2026-e-o-futuro-do-supremo-tribunal-federal",
+      "resumo": "Como as escolhas dos eleitores para os cargos em disputa nas Eleições de 2026 poderão impactar no futuro do Supremo Tribunal Federal? Afinal, o futuro do Judiciário brasileiro está nas mãos de quem?",
+      "publicado_em": "2026-09-25T15:52:45-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "379fb55df067c67a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio atribui notícia sobre Nossa Senhora Aparecida à \"milícia do PT\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122576/flavio-atribui-noticia-sobre-nossa-senhora-aparecida-a-milicia-do-pt",
+      "resumo": "Presidenciável chamou a história de \"mentira\" e disse esperar retratação de jornalistas que divulgaram a informação.",
+      "publicado_em": "2026-09-25T15:19:13-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "7b26feba8db45f6a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin manda PGR analisar pedidos pendentes nos casos de Master e INSS",
+      "link": "https://www.congressoemfoco.com.br/noticia/122574/fachin-manda-pgr-analisar-pedidos-pendentes-nos-casos-de-master-e-inss",
+      "resumo": "Procuradoria deverá analisar a necessidade das medidas solicitadas e os possíveis efeitos sobre investigações em andamento.",
+      "publicado_em": "2026-09-25T15:07:32-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "4a45aed52bfa0666",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Conferência dos Bispos perde acesso ao X após falar sobre soberania",
+      "link": "https://www.congressoemfoco.com.br/noticia/122573/conferencia-dos-bispos-perde-acesso-ao-x-apos-falar-sobre-soberania",
+      "resumo": "CNBB afirmou que já encaminhou ao X documentos e comprovações sobre a titularidade da conta e trabalha para recuperar o controle.",
+      "publicado_em": "2026-09-25T14:40:37-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "6b8fccaaf6202944",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ex-marido de Verônica Costa comenta prisão: \"apenas respiro\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122572/ex-marido-de-veronica-costa-comenta-prisao--apenas-respiro",
+      "resumo": "Em publicação do Congresso em Foco, Márcio Costa relatou o sofrimento após a tortura e a espera pelo desfecho do processo contra a ex-vereadora.",
+      "publicado_em": "2026-09-25T14:31:55-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
     },
     {
       "id": "d9026cb1e4ce1728",
@@ -777,6 +1033,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "63f1a55a184d7108",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vorcaro disse, virou prova? O perigo do jornalismo declaratório",
+      "link": "https://www.congressoemfoco.com.br/noticia/122564/vorcaro-disse-virou-prova-o-perigo-do-jornalismo-declaratorio",
+      "resumo": "Mensagens do ex-banqueiro revelam relações que merecem investigação, mas fragmentos sem contexto e declarações sem comprovação não podem ser tratados como verdade apenas porque estavam em um aparelho apreendido.",
+      "publicado_em": "2026-09-25T10:55:38-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
     },
     {
       "id": "ecb6da05bf8610ad",
@@ -860,6 +1132,55 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "39e3e5287bf6ddf7",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Campanha do TRE-RJ transforma temporariamente a Cinelândia em Estação Democracia no MetrôRio",
+      "link": "https://www.cnj.jus.br/campanha-do-tre-rj-transforma-temporariamente-a-cinelandia-em-estacao-democracia-no-metrorio/",
+      "resumo": "Quem passou pela estação Cinelândia nas primeiras horas desta terça-feira (22) encontrou uma novidade. Uma das principais estações do MetrôRio, no Centro da capital, passou a se chamar temporariamente **Cinelândia/Estação Democracia**. O novo nome aparece nos acessos, elevadores e mapas de sinalizaç",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "fb0de5fc74a57b02",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Encontro LGBTQIAPN+ debate direitos, igualdade e acesso à Justiça no Pará",
+      "link": "https://www.cnj.jus.br/encontro-lgbtqiapn-debate-direitos-igualdade-e-acesso-a-justica-no-para/",
+      "resumo": "Com o objetivo de discutir estratégias de promoção da cidadania, da igualdade e do acesso à Justiça para a população LGBTQIAPN+, o Conselho Nacional de Justiça (CNJ), em parceria com o Tribunal de Justiça do Pará (TJPA), por meio do Comitê de Equidade e Diversidade e da Escola Judicial do",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
+    },
+    {
+      "id": "41a4c37602ab61b4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política nacional de valorização de costureiras",
+      "link": "https://www.camara.leg.br/noticias/1304407-projeto-cria-politica-nacional-de-valorizacao-de-costureiras",
+      "resumo": "",
+      "publicado_em": "2026-09-25T15:58:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T16:48:33-03:00"
     },
     {
       "id": "aa07f9e0e7f0c8f0",
@@ -2140,9 +2461,9 @@
       "id": "af7a35e52a21f77b",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Território Kalunga: Projeto fortalece acesso à Justiça com formação de agentes comunitários",
+      "titulo": "Território Kalunga: projeto fortalece acesso à Justiça com formação de agentes comunitários",
       "link": "https://www.cnj.jus.br/territorio-kalunga-projeto-fortalece-acesso-a-justica-com-formacao-de-agentes-comunitarios/",
-      "resumo": "Uma nova ponte entre o Sistema de Justiça e a comunidade Kalunga, em Cavalcante (GO), foi inaugurada esta semana: o Projeto Agente Comunitário Quilombola. O projeto vai promover a formação de lideranças quilombolas para que atuem na identificação de demandas relativas ao Poder Judiciário e viabilize",
+      "resumo": "Uma nova ponte entre o sistema de justiça e a comunidade Kalunga, em Cavalcante (GO), foi inaugurada nesta semana: o Projeto Agente Comunitário Quilombola. O projeto vai promover a formação de lideranças quilombolas para que atuem na identificação de demandas relativas ao Poder Judiciário e viabiliz",
       "publicado_em": "2026-09-24T12:00:00-03:00",
       "dia": "2026-09-24",
       "data_estimada": true,
@@ -2158,7 +2479,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Concurso de desenho sobre direitos no ECA Digital tem inscrições prorrogadas até 30/11",
       "link": "https://www.cnj.jus.br/concurso-de-desenho-sobre-direitos-no-eca-digital-tem-inscricoes-prorrogadas-ate-30-11428386-2/",
-      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital Tá On”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
+      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital tá on”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
       "publicado_em": "2026-09-24T12:00:00-03:00",
       "dia": "2026-09-24",
       "data_estimada": true,
