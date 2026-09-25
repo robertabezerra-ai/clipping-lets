@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-25T12:44:16-03:00",
+  "gerado_em": "2026-09-25T15:07:55-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 18,
       "erro": null
     },
     {
@@ -173,13 +173,13 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 24,
+      "itens": 23,
       "erro": null
     },
     {
       "id": "fazenda",
       "status": "ok",
-      "itens": 30,
+      "itens": 29,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -265,6 +265,22 @@
         "trabalhista"
       ],
       "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "9a426cdbc9c1d9c1",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Inaugurada a exposição do CMAC  “TRT-15 – 40 anos de história”",
+      "link": "https://trt15.jus.br/noticia/2026/inaugurada-exposicao-do-cmac-trt-15-40-anos-de-historia",
+      "resumo": "Inaugurada a exposição do CMAC  “TRT-15 – 40 anos de história” anagatto Sex, 25/09/2026 - 13:21 Inaugurada a exposição do CMAC  “TRT-15 – 40 anos de história” Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargadora Ana Paula Pellegrina Lockmann, inaugurou na t",
+      "publicado_em": "2026-09-25T13:21:38-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
     },
     {
       "id": "96e98e7dc1f77e2a",
@@ -330,6 +346,92 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "3dd774e81279f98a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Direito de crianças e adolescentes à natureza é reforçado por lei federal",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/direito-de-criancas-e-adolescentes-a-natureza-e-reforcado-por-lei-federal",
+      "resumo": "",
+      "publicado_em": "2026-09-25T15:03:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "a481d0a8e64fb4fc",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Estabilidade para grávida em contrato temporário vai a nova votação na CAS",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/estabilidade-para-gravida-em-contrato-temporario-vai-a-nova-votacao-na-cas",
+      "resumo": "",
+      "publicado_em": "2026-09-25T14:44:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "af036d7fd7b2af37",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições 2026: saiba o que é o voto de legenda",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/eleicoes-2026-saiba-o-que-e-o-voto-de-legenda",
+      "resumo": "",
+      "publicado_em": "2026-09-25T14:09:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "b89f657987707f34",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Dia Nacional de Luta da Pessoa com Deficiência foi celebrado no Plenário",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/dia-nacional-de-luta-da-pessoa-com-deficiencia-foi-celebrado-no-plenario",
+      "resumo": "",
+      "publicado_em": "2026-09-25T14:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "bd1a726ee419cde6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso analisará MP que liberou R$ 64,3 milhões a agricultores e indígenas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/congresso-analisara-mp-que-liberou-r-64-3-milhoes-a-agricultores-e-indigenas",
+      "resumo": "",
+      "publicado_em": "2026-09-25T13:14:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "5a794d89dbd4a7eb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições 2026: veja o perfil dos candidatos ao Senado",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/eleicoes-2026-veja-o-perfil-dos-candidatos-ao-senado",
+      "resumo": "",
+      "publicado_em": "2026-09-25T13:14:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
     },
     {
       "id": "e42736b2c3d4840f",
@@ -432,6 +534,24 @@
       "coletado_em": "2026-09-25T12:44:16-03:00"
     },
     {
+      "id": "5b484d355d2075b5",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal divulga novo balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-divulga-novo-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-09-25T14:35:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
       "id": "4753d23cb0cbd0d0",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -444,6 +564,38 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "61cb29e22bf78dfd",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP e Sejusp/AP realizam visita técnica à região de fronteira em Oiapoque",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-sejusp-ap-realizam-visita-tecnica-a-regiao-de-fronteira-em-oiapoque",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "9894d91a4dc3414b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rádio MEC apresenta neste domingo (27) ópera “Giulio Cesare in Egitto”, de Antonio Sartorio",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/radio-mec-apresenta-neste-domingo-27-opera-201cgiulio-cesare-in-egitto201d-de-antonio-sartorio",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:25:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
     },
     {
       "id": "88640d42ebd8d8fe",
@@ -537,6 +689,68 @@
       "coletado_em": "2026-09-25T12:44:16-03:00"
     },
     {
+      "id": "52e4dac25e6b82b4",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal tira dúvida sobre opção pelo Simei, que permanece com prazo definido para janeiro",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-federal-tira-duvida-sobre-opcao-pelo-simei-que-permanece-com-prazo-definido-para-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "d9026cb1e4ce1728",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MPE pede inquérito sobre motorista que atropelou bandeiras do PT",
+      "link": "https://www.congressoemfoco.com.br/noticia/122571/mpe-pede-inquerito-sobre-motorista-que-atropelou-bandeiras-do-pt",
+      "resumo": "Promotoria de Justiça Eleitoral do DF pediu que a Polícia Federal investigue o caso.",
+      "publicado_em": "2026-09-25T13:16:18-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "8aaf117a6c8a61fc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula atribui ascensão de Vorcaro aos Bolsonaro e prisão ao seu governo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122569/lula-atribui-ascensao-de-vorcaro-aos-bolsonaro-e-prisao-ao-seu-governo",
+      "resumo": "Petista cita desvios contra aposentados, critica ligação dos adversários com os Estados Unidos e pede mobilização eleitoral.",
+      "publicado_em": "2026-09-25T12:43:17-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "b4c86cea0334e9c5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE permitirá baixar e-Título no dia da eleição pela primeira vez",
+      "link": "https://www.congressoemfoco.com.br/noticia/122568/tse-permitira-baixar-e-titulo-no-dia-da-eleicao-pela-primeira-vez",
+      "resumo": "Mudança vale para o primeiro e o segundo turno e permitirá também o primeiro acesso ao aplicativo durante os dias de votação.",
+      "publicado_em": "2026-09-25T12:07:16-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
       "id": "a8a6ef665c0be511",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -549,6 +763,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "98609f99d0a72339",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Entenda caso ligado a Flávio que destitui Nossa Senhora Aparecida",
+      "link": "https://www.congressoemfoco.com.br/noticia/122565/entenda-caso-ligado-a-flavio-que-destitui-nossa-senhora-aparecida",
+      "resumo": "Projeto pertence a assessor especial da presidência de Bolsonaro; presidenciável afirma que notícia é \"grande mentira\".",
+      "publicado_em": "2026-09-25T10:57:15-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
     },
     {
       "id": "ecb6da05bf8610ad",
@@ -1930,7 +2158,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Concurso de desenho sobre direitos no ECA Digital tem inscrições prorrogadas até 30/11",
       "link": "https://www.cnj.jus.br/concurso-de-desenho-sobre-direitos-no-eca-digital-tem-inscricoes-prorrogadas-ate-30-11428386-2/",
-      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital tá on”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
+      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital Tá On”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
       "publicado_em": "2026-09-24T12:00:00-03:00",
       "dia": "2026-09-24",
       "data_estimada": true,
@@ -1947,7 +2175,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Corregedor nacional abre inspeção ordinária no Rio Grande do Norte",
       "link": "https://www.cnj.jus.br/corregedor-nacional-abre-inspecao-ordinaria-no-rio-grande-do-norte/",
-      "resumo": "O corregedor nacional de Justiça, ministro Benedito Gonçalves, abriu nesta quarta-feira (23/9), os trabalhos da inspeção ordinária do Conselho Nacional de Justiça (CNJ) no Tribunal de Justiça do Rio Grande do Norte (TJRN). Ele destacou que o trabalho permitirá verificar o cumprimento das normas do C",
+      "resumo": "O corregedor nacional de justiça, ministro Benedito Gonçalves, abriu, nesta quarta-feira (23/9), os trabalhos da inspeção ordinária do Conselho Nacional de Justiça (CNJ) no Tribunal de Justiça do Rio Grande do Norte (TJRN). Ele destacou que o trabalho permitirá verificar o cumprimento das normas do ",
       "publicado_em": "2026-09-24T12:00:00-03:00",
       "dia": "2026-09-24",
       "data_estimada": true,
