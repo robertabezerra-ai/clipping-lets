@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-24T19:50:51-03:00",
+  "gerado_em": "2026-09-25T12:44:16-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -250,6 +250,489 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "6e26331986b09db8",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "2ª Região arrecada quase R$ 893 milhões na Semana Nacional da Execução Trabalhista",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2a-regiao-arrecada-quase-r-893-milhoes-na-semana-nacional-da-execucao-trabalhista",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "96e98e7dc1f77e2a",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "8ª Câmara afasta prescrição intercorrente ao reconhecer atuação do credor na execução trabalhista",
+      "link": "https://trt15.jus.br/noticia/2026/8a-camara-afasta-prescricao-intercorrente-ao-reconhecer-atuacao-do-credor-na-execucao",
+      "resumo": "8ª Câmara afasta prescrição intercorrente ao reconhecer atuação do credor na execução trabalhista anagatto Sex, 25/09/2026 - 11:50 8ª Câmara afasta prescrição intercorrente ao reconhecer atuação do credor na execução trabalhista Conteúdo da Notícia A 8ª Câmara do Tribunal Regional do Trabalho da 15ª",
+      "publicado_em": "2026-09-25T11:50:08-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "prescricao",
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "9d1cf1e8d800db60",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP recebe alunos de Direito da Universidade Municipal de São Caetano do Sul para júri simulado",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115426&pagina=1",
+      "resumo": "Atividade no Salão do Júri.\n \n\tEstudantes de Direito da Universidade Municipal de São Caetano do Sul participaram, na quarta-feira (23), de simulação de Tribunal do",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "d7b2404f85789e3b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ouvidoria do STF amplia orientação à sociedade com nova área de perguntas frequentes",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ouvidoria-do-stf-amplia-orientacao-a-sociedade-com-nova-area-de-perguntas-frequentes/",
+      "resumo": "Nova área no portal reúne orientações sobre processos, pedidos de informação, denúncias e serviços prestados pelo Tribunal",
+      "publicado_em": "2026-09-25T12:14:49-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "fe74b806b3696f88",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira os destaques do Plenário Virtual",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-27/",
+      "resumo": "Sessão virtual começou às 11h desta sexta-feira (25) e termina em 2/10",
+      "publicado_em": "2026-09-25T11:06:15-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "e42736b2c3d4840f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Centros de educação tecnológica de MG e do RJ viram universidades",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/25/centros-de-educacao-tecnologica-de-mg-e-do-rj-viram-universidades",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:30:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "6c2c7facc6e48e05",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Mulheres com deficiência são mais agredidas, revela DataSenado",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/mulheres-com-deficiencia-sao-mais-agredidas-revela-datasenado",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:05:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "73b71926edc25126",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "TSE libera download e primeiro acesso ao e-Título no dia da eleição",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/25/tse-libera-download-e-primeiro-acesso-ao-e-titulo-no-dia-da-eleicao",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:03:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "389745979d0f454e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei cria a Universidade Federal da Fronteira do Norte",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/25/lei-cria-a-universidade-federal-da-fronteira-do-norte",
+      "resumo": "",
+      "publicado_em": "2026-09-25T11:49:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "3cad0bd5010d4941",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições 2026: partidos devem alcançar quociente eleitoral para eleger deputados",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/eleicoes-2026-partidos-devem-alcancar-quociente-eleitoral-para-eleger-deputados",
+      "resumo": "",
+      "publicado_em": "2026-09-25T09:23:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "0544236e97fe2b74",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso vai analisar ao menos 107 vetos presidenciais",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/congresso-vai-analisar-ao-menos-107-vetos-presidenciais",
+      "resumo": "",
+      "publicado_em": "2026-09-25T09:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "0df4550a52a90dc5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Brasil terá quase 2 milhões de mesários nas eleições de 2026",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/25/brasil-tera-quase-2-milhoes-de-mesarios-nas-eleicoes-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-25T08:39:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "4753d23cb0cbd0d0",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Opção pelo Simei permanece em janeiro",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/opcao-pelo-simei-permanece-em-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-09-25T11:33:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "88640d42ebd8d8fe",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Operação Mute apreende 442 celulares em unidades prisionais de todo o País",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/operacao-mute-apreende-442-celulares-em-unidades-prisionais-de-todo-o-pais",
+      "resumo": "",
+      "publicado_em": "2026-09-25T10:49:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "acao",
+        "apreende"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "fc00c916f73812a0",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Saúde e movimentos sociais dialogam sobre preparação do SUS para impactos do El Niño",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/ministerio-da-saude-amplia-dialogo-com-movimentos-sociais-na-preparacao-do-sus-para-impactos-do-el-nino",
+      "resumo": "",
+      "publicado_em": "2026-09-25T09:32:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "230c7165b9612c0e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Plataforma Enem Libras já está disponível para consulta",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/plataforma-enem-libras-ja-esta-disponivel-para-consulta",
+      "resumo": "",
+      "publicado_em": "2026-09-25T09:30:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "fd1b6874826c0586",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Anvisa proíbe propaganda de caneta emagrecedora",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/anvisa-proibe-propaganda-da-caneta-semavy",
+      "resumo": "",
+      "publicado_em": "2026-09-25T08:50:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "a0a8c63c4e110e3f",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Treinamento Guardião Cibernético 8.0 fortalece a integração nacional na proteção do espaço digital",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/guardiao-cibernetico-8-0-fortalece-a-integracao-nacional-para-proteger-o-espaco-digital",
+      "resumo": "",
+      "publicado_em": "2026-09-25T08:10:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "d276cdbf321723c1",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Investimentos no Tesouro Direto somam 15 bilhões em agosto",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/investimentos-no-tesouro-direto-somam-15-bilhoes-em-agosto",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "a8a6ef665c0be511",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas joga picanha a apoiadores e ironiza: \"Lula não deu, Flávio dá\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122567/nikolas-joga-picanha-a-apoiadores-e-ironiza--lula-nao-deu-flavio-da",
+      "resumo": "Em cima do trio elétrico do chamado \"Bloquinho do Nikolas\", o parlamentar levantou a carne e atirou no público.",
+      "publicado_em": "2026-09-25T12:04:01-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "ecb6da05bf8610ad",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ex-vereadora Verônica Costa é presa por tortura; entenda a condenação",
+      "link": "https://www.congressoemfoco.com.br/noticia/122563/ex-vereadora-veronica-costa-e-presa-por-tortura-entenda-a-condenacao",
+      "resumo": "Márcio Costa relatou cerca de 20 horas de agressões em 2011; pena de dez anos e oito meses se tornou definitiva após o fim dos recursos.",
+      "publicado_em": "2026-09-25T10:37:28-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "condenacao",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "41e85f6e8c4f4491",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ao menos 107 vetos devem ser analisados no Congresso após as eleições",
+      "link": "https://www.congressoemfoco.com.br/noticia/122562/ao-menos-107-vetos-devem-ser-analisados-no-congresso-apos-as-eleicoes",
+      "resumo": "Lista reúne decisões de Lula sobre temas que vão de meio ambiente e energia a educação.",
+      "publicado_em": "2026-09-25T10:11:16-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "474e58305b0e2a38",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sancionada lei que transforma Cefets de Minas e Rio em universidades",
+      "link": "https://www.congressoemfoco.com.br/noticia/122559/sancionada-lei-que-transforma-cefets-de-minas-e-rio-em-universidades",
+      "resumo": "Lei mantém ensino técnico e incorpora alunos e servidores; proposta do governo foi aprovada após veto a projeto de origem parlamentar.",
+      "publicado_em": "2026-09-25T07:44:24-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "sancionada",
+        "aprova"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "6b4e44b831f38c78",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Conselho do MPF começa a julgar pedido para tirar Gonet do caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122558/conselho-do-mpf-comeca-a-julgar-pedido-para-tirar-gonet-do-caso-master",
+      "resumo": "Colegiado avaliará se há elementos para investigar atuação do procurador-geral e poderá designar outro subprocurador para processos no STF.",
+      "publicado_em": "2026-09-25T07:18:32-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julga",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "c5064de1347c54d5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O que as mensagens de Alcolumbre com Vorcaro realmente mostram",
+      "link": "https://www.congressoemfoco.com.br/noticia/122557/o-que-as-mensagens-de-alcolumbre-com-vorcaro-realmente-mostram",
+      "resumo": "Conversas revelam proximidade entre presidente do Senado e Daniel Vorcaro. O salto entre ser amigo do banqueiro e ter atuado ilegalmente em seu favor, porém, exige algo que as mensagens divulgadas não entregam.",
+      "publicado_em": "2026-09-25T06:40:13-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "aa07f9e0e7f0c8f0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei transforma Cefets de Minas e do RJ em universidades federais",
+      "link": "https://www.camara.leg.br/noticias/1306756-lei-transforma-cefets-de-minas-e-do-rj-em-universidades-federais",
+      "resumo": "",
+      "publicado_em": "2026-09-25T11:42:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "55903c4b0846b878",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei cria a Universidade Federal da Fronteira Norte, no Amapá",
+      "link": "https://www.camara.leg.br/noticias/1306749-lei-cria-a-universidade-federal-da-fronteira-norte-no-amapa",
+      "resumo": "",
+      "publicado_em": "2026-09-25T10:48:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "f2b3d1bf3fa63c30",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto fixa piso salarial de R$ 3.624 para auxiliares médicos e odontológicos",
+      "link": "https://www.camara.leg.br/noticias/1306627-projeto-fixa-piso-salarial-de-r-3-624-para-auxiliares-medicos-e-odontologicos",
+      "resumo": "",
+      "publicado_em": "2026-09-25T10:24:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "73a7399499170e49",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto institui política de proteção a mulheres ribeirinhas",
+      "link": "https://www.camara.leg.br/noticias/1304907-projeto-institui-politica-de-protecao-a-mulheres-ribeirinhas",
+      "resumo": "",
+      "publicado_em": "2026-09-25T09:38:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "a566e605181fd6ce",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto tipifica terrorismo rural e sabotagem agropecuária",
+      "link": "https://www.camara.leg.br/noticias/1304192-projeto-tipifica-terrorismo-rural-e-sabotagem-agropecuaria",
+      "resumo": "",
+      "publicado_em": "2026-09-25T08:43:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "8c0a5b069f1c8db8",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe demissão por doença crônica e garante adaptações temporárias no trabalho",
+      "link": "https://www.camara.leg.br/noticias/1304446-projeto-proibe-demissao-por-doenca-cronica-e-garante-adaptacoes-temporarias-no-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-09-25T08:08:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "a4ea49c51edc5cf6",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade abre chamada pública para credenciamento de Consultores Não Governamentais",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-abre-chamada-publica-para-credenciamento-de-consultores-nao-governamentais",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
     {
       "id": "f5e5fdc0810556f9",
       "fonte_id": "trt2",
@@ -302,9 +785,9 @@ window.DADOS = {
       "id": "6c8d84d8d261bb17",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
-      "titulo": "Juliana Benatti toma posse como desembargadora do TRT-15.",
+      "titulo": "Juliana Benatti toma posse como desembargadora do TRT-15",
       "link": "https://trt15.jus.br/noticia/2026/juliana-benatti-toma-posse-como-desembargadora-do-trt-15",
-      "resumo": "Juliana Benatti toma posse como desembargadora do TRT-15. anagatto Qui, 24/09/2026 - 14:17 Juliana Benatti toma posse como desembargadora do TRT-15 Conteúdo da Notícia Tomou posse nesta quarta-feira, 23/9, a desembargadora do Tribunal Regional do Trabalho da 15ª Região Juliana Benatti. A cerimônia, ",
+      "resumo": "Juliana Benatti toma posse como desembargadora do TRT-15 anagatto Qui, 24/09/2026 - 14:17 Juliana Benatti toma posse como desembargadora do TRT-15 Conteúdo da Notícia Tomou posse nesta quarta-feira, 23/9, a desembargadora do Tribunal Regional do Trabalho da 15ª Região Juliana Benatti. A cerimônia, r",
       "publicado_em": "2026-09-24T14:17:32-03:00",
       "dia": "2026-09-24",
       "data_estimada": false,
@@ -441,6 +924,55 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "8ee876a09a9d2927",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Relator prorroga suspensão de sanções sobre riscos psicossociais no trabalho",
+      "link": "https://noticias.stf.jus.br/postsnoticias/relator-prorroga-suspensao-de-sancoes-sobre-riscos-psicossociais-no-trabalho/",
+      "resumo": "A pedido de entidades, o ministro André Mendonça estendeu o prazo para que continuem as negociações em torno de solução consensual",
+      "publicado_em": "2026-09-24T21:29:01-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "10d44436b124f052",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF dá 60 dias para União e Rio de Janeiro negociarem garantias e reestruturação da dívida do estado",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-da-60-dias-para-uniao-e-rio-de-janeiro-negociarem-garantias-e-reestruturacao-da-divida-do-estado/",
+      "resumo": "No período, ficam suspensas execuções de contragarantias e sanções ao estado em decorrência de operações de crédito com garantia da União",
+      "publicado_em": "2026-09-24T21:16:55-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "a31c17de48217bf6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Estados não podem encerrar unilateralmente benefício de ICMS firmado em convênio do Confaz, decide STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/estados-nao-podem-encerrar-unilateralmente-beneficio-de-icms-firmado-em-convenio-do-confaz-decide-stf/",
+      "resumo": "Por maioria, Tribunal invalidou norma paulista que extinguiu isenção do imposto para Áreas de Livre Comércio da Região Norte",
+      "publicado_em": "2026-09-24T20:32:52-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "decide",
+        "imposto"
+      ],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
     },
     {
       "id": "500e1c74442da008",
@@ -761,6 +1293,34 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-24T19:50:51-03:00"
+    },
+    {
+      "id": "3f5690136e758b4f",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senad lança novos cursos gratuitos sobre ativos virtuais e desenvolvimento alternativo",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-lanca-novos-cursos-gratuitos-sobre-ativos-virtuais-e-desenvolvimento-alternativo",
+      "resumo": "",
+      "publicado_em": "2026-09-24T12:00:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "e3bfe28d374bcf80",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Estudo indica que bets prejudicam 2 milhões de estudantes universitários no ensino privado",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/estudo-sugere-que-bets-prejudicam-2-milhoes-de-estudantes",
+      "resumo": "",
+      "publicado_em": "2026-09-24T20:55:00-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-25T12:44:16-03:00"
     },
     {
       "id": "74a6caf7c1b3caa2",
@@ -1387,7 +1947,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Corregedor nacional abre inspeção ordinária no Rio Grande do Norte",
       "link": "https://www.cnj.jus.br/corregedor-nacional-abre-inspecao-ordinaria-no-rio-grande-do-norte/",
-      "resumo": "O corregedor nacional de justiça, ministro Benedito Gonçalves, abriu, nesta quarta-feira (23/9), os trabalhos da inspeção ordinária do Conselho Nacional de Justiça (CNJ) no Tribunal de Justiça do Rio Grande do Norte (TJRN). Ele destacou que o trabalho permitirá verificar o cumprimento das normas do ",
+      "resumo": "O corregedor nacional de Justiça, ministro Benedito Gonçalves, abriu nesta quarta-feira (23/9), os trabalhos da inspeção ordinária do Conselho Nacional de Justiça (CNJ) no Tribunal de Justiça do Rio Grande do Norte (TJRN). Ele destacou que o trabalho permitirá verificar o cumprimento das normas do C",
       "publicado_em": "2026-09-24T12:00:00-03:00",
       "dia": "2026-09-24",
       "data_estimada": true,
@@ -61626,58 +62186,6 @@ window.DADOS = {
       "score": 28,
       "tags": [
         "visita"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "b86560457db05024",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Sistema PJe tem apresentado instabilidade após atualização; veja as providências do TRT-2",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/sistema-pje-tem-apresentado-instabilidade-apos-atualizacao-veja-as-providencias-do-trt-2",
-      "resumo": "",
-      "publicado_em": "2026-06-26T12:00:00-03:00",
-      "dia": "2026-06-26",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "1bb35beea06589db",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "Consulta pública para contribuições ao Guia de Transparência e Proteção de Dados Pessoais é prorrogada",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/consulta-publica-contribuicoes-guia-transparencia-protecao-de-dados-pessoais-prorrogada",
-      "resumo": "ANPD e CGU estendem o prazo da consulta até 24 de julho. Documento vai orientar órgãos e entidades sobre o acesso a informações pessoais, compatibilizando a aplicação da LAI e da LGPD",
-      "publicado_em": "2026-06-26T16:11:00-03:00",
-      "dia": "2026-06-26",
-      "data_estimada": false,
-      "score": 96,
-      "tags": [
-        "prorrogad",
-        "prazo",
-        "lgpd",
-        "protecao de dados",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "692e90b45e38c338",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "ANPD sediará Encontros Lusófono e Internacional de Proteção de Dados em julho",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-sediara-encontros-lusofono-e-internacional-de-protecao-de-dados-em-julho-inscricoes-para-o-publico-ja-estao-abertas",
-      "resumo": "Eventos conjuntos em Brasília reunirão autoridades de países de língua portuguesa para debater inteligência artificial, biometria e o fortalecimento de direitos fundamentais no ambiente digital",
-      "publicado_em": "2026-06-26T12:30:00-03:00",
-      "dia": "2026-06-26",
-      "data_estimada": false,
-      "score": 54,
-      "tags": [
-        "protecao de dados"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
