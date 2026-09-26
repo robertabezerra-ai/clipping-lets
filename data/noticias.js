@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-26T15:59:27-03:00",
+  "gerado_em": "2026-09-26T19:16:20-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -296,6 +296,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-26T11:53:04-03:00"
+    },
+    {
+      "id": "2169c5d57e533b4e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Negócio de Vital do Rêgo no Maranhão repercute em eleições na Paraíba",
+      "link": "https://www.congressoemfoco.com.br/noticia/122594/negocio-de-vital-do-rego-no-maranhao-repercute-em-eleicoes-na-paraiba",
+      "resumo": "Família construiu trajetória eleitoral no Estado, onde Veneziano tenta renovar mandato no Senado, enquanto reportagem do Metrópoles indica que presidente do TCU mantém atividades rurais no Maranhão.",
+      "publicado_em": "2026-09-26T16:54:28-03:00",
+      "dia": "2026-09-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-26T19:16:20-03:00"
     },
     {
       "id": "d82289e09c53ca69",
@@ -2809,6 +2823,22 @@ window.DADOS = {
       "coletado_em": "2026-09-24T16:47:01-03:00"
     },
     {
+      "id": "f440423f628e0f04",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto permite que escreventes de cartório atuem como advogados",
+      "link": "https://www.congressoemfoco.com.br/noticia/122542/projeto-permite-que-escreventes-de-cartorio-atuem-como-advogados",
+      "resumo": "Permissão valerá para profissionais que não atuam como substitutos, mas eles não poderão advogar em casos relacionados ao cartório onde trabalham.",
+      "publicado_em": "2026-09-24T13:03:06-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "advogado"
+      ],
+      "coletado_em": "2026-09-26T19:16:20-03:00"
+    },
+    {
       "id": "8acf21c510ee07b5",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -4400,6 +4430,23 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-23T19:34:24-03:00"
+    },
+    {
+      "id": "e5496b600d688be3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Tingir animais para venda pode ser enquadrado como maus-tratos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122510/tingir-animais-para-venda-pode-ser-enquadrado-como-maus-tratos",
+      "resumo": "Projeto também alcança a venda ou exposição de animais sem alimentação, hidratação, ventilação, higiene ou espaço adequados quando houver prejuízo ao bem-estar.",
+      "publicado_em": "2026-09-23T13:38:42-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "acao",
+        "exposicao"
+      ],
+      "coletado_em": "2026-09-26T19:16:20-03:00"
     },
     {
       "id": "7973d1af75a48394",
