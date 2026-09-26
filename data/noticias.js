@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-26T14:27:30-03:00",
+  "gerado_em": "2026-09-26T15:59:27-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -296,6 +296,40 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-26T11:53:04-03:00"
+    },
+    {
+      "id": "d82289e09c53ca69",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar volta a criticar Mendonça e cita dano à reputação de Gonet",
+      "link": "https://www.congressoemfoco.com.br/noticia/122593/gilmar-volta-a-criticar-mendonca-e-cita-dano-a-reputacao-de-gonet",
+      "resumo": "Ministro afirma que decisão do Conselho do MPF confirmou a lisura do procurador-geral.",
+      "publicado_em": "2026-09-26T15:04:15-03:00",
+      "dia": "2026-09-26",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-26T15:59:27-03:00"
+    },
+    {
+      "id": "175dfe923524dbba",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Da liberação à proibição: Veja a linha do tempo das bets no Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/122592/da-liberacao-a-proibicao-veja-a-linha-do-tempo-das-bets-no-brasil",
+      "resumo": "Regulamentação, expansão e endurecimento de regras antecederam o fim das bets no país.",
+      "publicado_em": "2026-09-26T13:14:35-03:00",
+      "dia": "2026-09-26",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-09-26T15:59:27-03:00"
     },
     {
       "id": "6e26331986b09db8",
@@ -3064,7 +3098,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Concurso de desenho sobre direitos no ECA Digital tem inscrições prorrogadas até 30/11",
       "link": "https://www.cnj.jus.br/concurso-de-desenho-sobre-direitos-no-eca-digital-tem-inscricoes-prorrogadas-ate-30-11428386-2/",
-      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital Tá On”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
+      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital tá on”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
       "publicado_em": "2026-09-24T12:00:00-03:00",
       "dia": "2026-09-24",
       "data_estimada": true,
@@ -7770,6 +7804,20 @@ window.DADOS = {
         "posse"
       ],
       "coletado_em": "2026-09-26T14:27:30-03:00"
+    },
+    {
+      "id": "023d2a9a839f7b47",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Duda Ramos propõe reembolso-creche maior para crianças com deficiência",
+      "link": "https://www.congressoemfoco.com.br/noticia/122435/duda-ramos-propoe-reembolso-creche-maior-para-criancas-com-deficiencia",
+      "resumo": "Benefício poderá cobrir despesas com creche, pré-escola, cuidador e profissional de apoio durante a jornada de trabalho.",
+      "publicado_em": "2026-09-21T10:43:27-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-26T15:59:27-03:00"
     },
     {
       "id": "5248d9df89416bf5",
