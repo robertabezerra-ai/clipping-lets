@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-25T19:58:25-03:00",
+  "gerado_em": "2026-09-26T11:53:04-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -250,6 +250,39 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "2e18ff79b9eb22ce",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Tribunal participa da 20ª Primavera dos Museus neste final de semana",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115427&pagina=1",
+      "resumo": "Visitas no Palácio da Justiça e no Museu.\n \n\tO Tribunal de Justiça de São Paulo participa, neste final de semana (26 e 27 de setembro),",
+      "publicado_em": "2026-09-26T12:00:00-03:00",
+      "dia": "2026-09-26",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-26T11:53:04-03:00"
+    },
+    {
+      "id": "c4a347829b60013b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo na Semana destaca unificação de prazos de licença-maternidade para todas as mães",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-na-semana-destaca-unificacao-de-prazos-de-licenca-maternidade-para-todas-as-maes/",
+      "resumo": "O episódio #203 está disponível nas principais plataformas de áudio e no YouTube",
+      "publicado_em": "2026-09-26T10:00:00-03:00",
+      "dia": "2026-09-26",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-26T11:53:04-03:00"
+    },
     {
       "id": "6e26331986b09db8",
       "fonte_id": "trt2",
@@ -555,6 +588,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "ab536155901eba7a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Editadas medidas provisórias contra bets e endividamento das famílias",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/25/poder-executivo-anuncia-mps-contra-bets-e-endividamento-das-familias",
+      "resumo": "",
+      "publicado_em": "2026-09-25T20:27:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medidas provisorias"
+      ],
+      "coletado_em": "2026-09-26T11:53:04-03:00"
     },
     {
       "id": "b3aa59c37e8bdebb",
@@ -912,6 +961,34 @@ window.DADOS = {
       "coletado_em": "2026-09-25T19:58:25-03:00"
     },
     {
+      "id": "a2d81dc900e9e955",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Governo Federal proíbe bets em todo o País e lança pacote de proteção às famílias endividadas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-proibe-bets-em-todo-o-pais-e-lanca-pacote-de-protecao-as-familias-endividadas-1",
+      "resumo": "",
+      "publicado_em": "2026-09-25T12:00:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-26T11:53:04-03:00"
+    },
+    {
+      "id": "bb9443cf42704ed1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Bets e jogos online estão proibidos: confira o cronograma das novas medidas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/presidente-lula-assina-medida-provisoria-que-proibe-as-bets-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-25T20:46:00-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-26T11:53:04-03:00"
+    },
+    {
       "id": "d9a0ed8ea2ed6f61",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1085,6 +1162,37 @@ window.DADOS = {
       "coletado_em": "2026-09-25T16:48:33-03:00"
     },
     {
+      "id": "32374afc02f1ca11",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "STF condena Eduardo Bolsonaro por difamação contra Tabata Amaral",
+      "link": "https://www.congressoemfoco.com.br/noticia/122591/stf-condena-eduardo-bolsonaro-por-difamacao-contra-tabata-amaral",
+      "resumo": "Corte fixou pena de um ano de detenção e multa superior a R$ 80 mil; André Mendonça, Fux e Nunes Marques votaram pela absolvição.",
+      "publicado_em": "2026-09-25T21:53:46-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-09-26T11:53:04-03:00"
+    },
+    {
+      "id": "3b1b183b9fec33fb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MP das bets bloqueia depósitos, tira sites do ar e veta publicidade",
+      "link": "https://www.congressoemfoco.com.br/noticia/122590/mp-das-bets-bloqueia-depositos-tira-sites-do-ar-e-veta-publicidade",
+      "resumo": "Medida estabelece transição para encerramento das plataformas e integra pacote que inclui nova etapa do Desenrola.",
+      "publicado_em": "2026-09-25T19:31:36-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-26T11:53:04-03:00"
+    },
+    {
       "id": "5e7d4ad1765187cf",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1099,6 +1207,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "6deb616cea7a6694",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça manda derrubar posts sobre Flávio e Nossa Senhora Aparecida",
+      "link": "https://www.congressoemfoco.com.br/noticia/122589/mendonca-manda-derrubar-posts-sobre-flavio-e-nossa-senhora-aparecida",
+      "resumo": "Ministro considerou falsa a narrativa e determinou atuação preventiva de cinco plataformas.",
+      "publicado_em": "2026-09-25T19:11:24-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-26T11:53:04-03:00"
     },
     {
       "id": "efed27627eccf695",
@@ -1388,6 +1512,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "8e9c9979c87b3946",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Desigualdade racial supera a de gênero nas campanhas para a Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/122560/desigualdade-racial-supera-a-de-genero-nas-campanhas-para-a-camara",
+      "resumo": "Mulheres e candidatos negros recebem proporcionalmente menos recursos; diferença diminui entre deputados e cresce entre quem está fora da Câmara. Saiba como estão sendo distribuídas as verbas eleitorais por gênero e raça.",
+      "publicado_em": "2026-09-25T08:20:11-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-26T11:53:04-03:00"
     },
     {
       "id": "474e58305b0e2a38",
@@ -2699,6 +2839,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-24T12:42:47-03:00"
+    },
+    {
+      "id": "ddcc60998e6d83f0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Precisamos conversar sobre o STF",
+      "link": "https://www.congressoemfoco.com.br/coluna/122536/precisamos-conversar-sobre-o-stf",
+      "resumo": "Nossa Suprema Corte virou assunto de botequim. Inconcebível que o impeachment de ministros do STF tenha virado o principal assunto da campanha de 2026, em clima de Cruzeiro X Atlético ou de Fla X Flu.",
+      "publicado_em": "2026-09-24T10:16:38-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-26T11:53:04-03:00"
     },
     {
       "id": "42564a7f26deef1b",
@@ -7356,6 +7510,20 @@ window.DADOS = {
       "coletado_em": "2026-09-22T12:25:47-03:00"
     },
     {
+      "id": "4895204129e77064",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto cria piso salarial para administradores da iniciativa privada",
+      "link": "https://www.congressoemfoco.com.br/noticia/122451/projeto-cria-piso-salarial-para-administradores-da-iniciativa-privada",
+      "resumo": "Valor será válido para jornada de 40 horas semanais e terá reajuste anual pelo INPC.",
+      "publicado_em": "2026-09-21T16:47:49-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-26T11:53:04-03:00"
+    },
+    {
       "id": "d9293c4c47b54ab6",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -7479,6 +7647,22 @@ window.DADOS = {
         "recurso"
       ],
       "coletado_em": "2026-09-21T17:15:24-03:00"
+    },
+    {
+      "id": "425d911a82f3b12e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto exige 75% de brasileiros em tripulação de navios estrangeiros",
+      "link": "https://www.congressoemfoco.com.br/noticia/122443/projeto-exige-75-de-brasileiros-em-tripulacao-de-navios-estrangeiros",
+      "resumo": "Regra valerá para embarcações estrangeiras que operarem em águas jurisdicionais brasileiras por mais de 180 dias em um período de 12 meses.",
+      "publicado_em": "2026-09-21T14:00:52-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-26T11:53:04-03:00"
     },
     {
       "id": "d7b099ba94d17746",
