@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-26T11:53:04-03:00",
+  "gerado_em": "2026-09-26T14:27:30-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -265,6 +265,20 @@ window.DADOS = {
         "visita"
       ],
       "coletado_em": "2026-09-26T11:53:04-03:00"
+    },
+    {
+      "id": "4e48186137686891",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP realiza 1ª Semana da Pessoa Idosa a partir de segunda (28)",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115473&pagina=1",
+      "resumo": "Inscrições abertas.\n \n\tO Tribunal de Justiça de São Paulo realiza, entre 28 de setembro e 2 de outubro, a primeira edição da Semana da Pessoa",
+      "publicado_em": "2026-09-26T12:00:00-03:00",
+      "dia": "2026-09-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-26T14:27:30-03:00"
     },
     {
       "id": "c4a347829b60013b",
@@ -3050,7 +3064,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Concurso de desenho sobre direitos no ECA Digital tem inscrições prorrogadas até 30/11",
       "link": "https://www.cnj.jus.br/concurso-de-desenho-sobre-direitos-no-eca-digital-tem-inscricoes-prorrogadas-ate-30-11428386-2/",
-      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital tá on”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
+      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital Tá On”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
       "publicado_em": "2026-09-24T12:00:00-03:00",
       "dia": "2026-09-24",
       "data_estimada": true,
@@ -7739,6 +7753,23 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-21T13:48:02-03:00"
+    },
+    {
+      "id": "da5cb71590c91541",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe tipificar ocupação de imóvel rural como terrorismo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122436/deputado-propoe-tipificar-ocupacao-de-imovel-rural-como-terrorismo",
+      "resumo": "Projeto de Rodolfo Nogueira amplia alcance da Lei Antiterrorismo e prevê enquadramento de ocupações que impeçam a posse ou a produção rural.",
+      "publicado_em": "2026-09-21T11:06:32-03:00",
+      "dia": "2026-09-21",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "acao",
+        "posse"
+      ],
+      "coletado_em": "2026-09-26T14:27:30-03:00"
     },
     {
       "id": "5248d9df89416bf5",
