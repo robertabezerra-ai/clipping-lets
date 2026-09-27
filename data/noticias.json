@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-26T19:16:20-03:00",
+  "gerado_em": "2026-09-27T12:31:40-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,73 @@
   ],
   "noticias": [
     {
+      "id": "ed872b74d7e7ffdd",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Encerramento das comemorações do centenário de nascimento do poeta que se transformou em palavras",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115458&pagina=1",
+      "resumo": "Homenagem será no Palácio da Justiça, na quarta (30).\n \n\tNa próxima quarta-feira (30), serão realizadas as homenagens que encerram as comemorações do centenário de nascimento",
+      "publicado_em": "2026-09-27T12:00:00-03:00",
+      "dia": "2026-09-27",
+      "data_estimada": true,
+      "score": 4,
+      "tags": [
+        "homenagem",
+        "comemora"
+      ],
+      "coletado_em": "2026-09-27T12:31:40-03:00"
+    },
+    {
+      "id": "3d9481d70941b6cd",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "CGJ disponibiliza formulário para pedido de gratuidade de documentos em cartórios de Registro Civil",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115434&pagina=1",
+      "resumo": "Acesso pelo Portal do Extrajudicial.\n \n\tO Tribunal de Justiça de São Paulo, por meio da Corregedoria-Geral da Justiça (CGJ), disponibiliza, no Portal do Extrajudicial, modelo",
+      "publicado_em": "2026-09-27T12:00:00-03:00",
+      "dia": "2026-09-27",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-09-27T12:31:40-03:00"
+    },
+    {
+      "id": "9894d91a4dc3414b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rádio MEC apresenta a ópera 'Giulio Cesare in Egitto', de Antonio Sartorio",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/radio-mec-apresenta-neste-domingo-27-opera-201cgiulio-cesare-in-egitto201d-de-antonio-sartorio",
+      "resumo": "",
+      "publicado_em": "2026-09-27T11:05:00-03:00",
+      "dia": "2026-09-27",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-25T15:07:55-03:00"
+    },
+    {
+      "id": "71436b81395ebcb2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rádio MEC: Caderno de Música destaca relação entre Beethoven e Bonaparte",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/caderno-de-musica-destaca-relacao-entre-beethoven-e-napoleao-bonaparte",
+      "resumo": "",
+      "publicado_em": "2026-09-27T08:05:00-03:00",
+      "dia": "2026-09-27",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "adi",
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-09-27T12:31:40-03:00"
+    },
+    {
       "id": "2e18ff79b9eb22ce",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -296,6 +363,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-26T11:53:04-03:00"
+    },
+    {
+      "id": "b966753501951225",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nossa Senhora surge na eleição e acende disputa pelo voto católico",
+      "link": "https://www.congressoemfoco.com.br/noticia/122595/nossa-senhora-surge-na-eleicao-e-acende-disputa-pelo-voto-catolico",
+      "resumo": "Informação que associa Flávio Bolsonaro a projeto de lei sobre Padroeira do Brasil tomou as redes, chegou ao TSE e revela a força de um símbolo religioso em um país onde 56,7% da população se declara católica.",
+      "publicado_em": "2026-09-26T20:35:33-03:00",
+      "dia": "2026-09-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-27T12:31:40-03:00"
     },
     {
       "id": "2169c5d57e533b4e",
@@ -1067,22 +1150,6 @@
       "coletado_em": "2026-09-25T16:48:33-03:00"
     },
     {
-      "id": "9894d91a4dc3414b",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Rádio MEC apresenta neste domingo (27) ópera “Giulio Cesare in Egitto”, de Antonio Sartorio",
-      "link": "https://agenciagov.ebc.com.br/noticias/202609/radio-mec-apresenta-neste-domingo-27-opera-201cgiulio-cesare-in-egitto201d-de-antonio-sartorio",
-      "resumo": "",
-      "publicado_em": "2026-09-25T12:25:00-03:00",
-      "dia": "2026-09-25",
-      "data_estimada": false,
-      "score": 50,
-      "tags": [
-        "adi"
-      ],
-      "coletado_em": "2026-09-25T15:07:55-03:00"
-    },
-    {
       "id": "a246cd72e9fb3f8c",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1510,6 +1577,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-25T12:44:16-03:00"
+    },
+    {
+      "id": "9545cd58ab0c8eb0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Falta uma semana: Veja o que você precisa saber para votar em 2026",
+      "link": "https://www.congressoemfoco.com.br/noticia/122566/falta-uma-semana-veja-o-que-voce-precisa-saber-para-votar-em-2026",
+      "resumo": "Eleitor fará seis escolhas no primeiro turno, com dois votos para o Senado. Veja horário, ordem da votação, regras para celular, voto em trânsito e como justificar ausência.",
+      "publicado_em": "2026-09-25T11:28:18-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-27T12:31:40-03:00"
     },
     {
       "id": "98609f99d0a72339",
@@ -4316,6 +4399,22 @@
       "coletado_em": "2026-09-23T19:34:24-03:00"
     },
     {
+      "id": "dd89b649668476d2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Filas de consultas e cirurgias do SUS podem ter divulgação obrigatória",
+      "link": "https://www.congressoemfoco.com.br/noticia/122520/filas-de-consultas-e-cirurgias-do-sus-podem-ter-divulgacao-obrigatoria",
+      "resumo": "Estados e municípios deverão divulgar dados sobre espera por consultas, exames e cirurgias, além de informações sobre falta de medicamentos e insumos e capacidade de atendimento.",
+      "publicado_em": "2026-09-23T15:38:57-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-27T12:31:40-03:00"
+    },
+    {
       "id": "97358cb5c95d70c5",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -6234,6 +6333,24 @@
         "acao"
       ],
       "coletado_em": "2026-09-22T19:33:12-03:00"
+    },
+    {
+      "id": "b63bcc8f573e02b2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto regulamenta profissão de bugueiro turístico no país",
+      "link": "https://www.congressoemfoco.com.br/noticia/122474/projeto-regulamenta-profissao-de-bugueiro-turistico-no-pais",
+      "resumo": "Texto prevê curso de qualificação, seguros obrigatórios e regras de segurança para profissionais que realizam passeios em praias, dunas e outros destinos turísticos.",
+      "publicado_em": "2026-09-22T13:05:32-03:00",
+      "dia": "2026-09-22",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "regulamenta",
+        "obrigatorio",
+        "acao"
+      ],
+      "coletado_em": "2026-09-27T12:31:40-03:00"
     },
     {
       "id": "f2446b51f185f344",
