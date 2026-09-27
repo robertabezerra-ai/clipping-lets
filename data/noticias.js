@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-27T12:31:40-03:00",
+  "gerado_em": "2026-09-27T14:58:39-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -316,6 +316,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-27T12:31:40-03:00"
+    },
+    {
+      "id": "ada01d9b6faace87",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino manda restabelecer post de Tabet sobre Nossa Senhora Aparecida",
+      "link": "https://www.congressoemfoco.com.br/noticia/122596/dino-manda-restabelecer-post-de-tabet-sobre-nossa-senhora-aparecida",
+      "resumo": "Ministro cassou ordem do TSE que determinava exclusão de postagem sobre Nossa Senhora Aparecida e proibia republicações semelhantes.",
+      "publicado_em": "2026-09-27T12:57:14-03:00",
+      "dia": "2026-09-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-27T14:58:39-03:00"
     },
     {
       "id": "2e18ff79b9eb22ce",
@@ -2890,6 +2904,23 @@ window.DADOS = {
       "coletado_em": "2026-09-24T15:02:01-03:00"
     },
     {
+      "id": "ba38178890b376a0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto autoriza uso do FGTS na compra de lotes e terrenos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122544/projeto-autoriza-uso-do-fgts-na-compra-de-lotes-e-terrenos",
+      "resumo": "Saldo também poderá ser utilizado para quitar ou amortizar financiamento destinado à aquisição do imóvel, mesmo fora do Sistema Financeiro da Habitação.",
+      "publicado_em": "2026-09-24T13:40:13-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "fgts",
+        "acao"
+      ],
+      "coletado_em": "2026-09-27T14:58:39-03:00"
+    },
+    {
       "id": "24125f950432d330",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -3211,7 +3242,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Concurso de desenho sobre direitos no ECA Digital tem inscrições prorrogadas até 30/11",
       "link": "https://www.cnj.jus.br/concurso-de-desenho-sobre-direitos-no-eca-digital-tem-inscricoes-prorrogadas-ate-30-11428386-2/",
-      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital tá on”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
+      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital Tá On”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
       "publicado_em": "2026-09-24T12:00:00-03:00",
       "dia": "2026-09-24",
       "data_estimada": true,
