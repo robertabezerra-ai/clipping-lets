@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-27T16:31:25-03:00",
+  "gerado_em": "2026-09-27T19:42:23-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,20 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "079155653734f1fe",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Campanha \"Em pauta a melhor idade\" concilia casos de pessoas com 60 anos ou mais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/campanha-em-pauta-a-melhor-idade-concilia-casos-de-pessoas-com-60-anos-ou-mais",
+      "resumo": "",
+      "publicado_em": "2026-09-27T12:00:00-03:00",
+      "dia": "2026-09-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
+    },
+    {
       "id": "ed872b74d7e7ffdd",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -282,6 +296,22 @@ window.DADOS = {
         "judicial"
       ],
       "coletado_em": "2026-09-27T12:31:40-03:00"
+    },
+    {
+      "id": "0105afb7750d5df8",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF determina retirada da Federação PSDB-Cidadania de coligação em Pernambuco",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-determina-retirada-da-federacao-psdb-cidadania-de-coligacao-em-pernambuco/",
+      "resumo": "Ministro Dias Toffoli ordenou que o TRE-PE ajuste, com urgência, o tempo de propaganda eleitoral gratuita",
+      "publicado_em": "2026-09-27T18:33:47-03:00",
+      "dia": "2026-09-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-27T19:42:23-03:00"
     },
     {
       "id": "9894d91a4dc3414b",
@@ -316,6 +346,37 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-27T12:31:40-03:00"
+    },
+    {
+      "id": "a6e325ea066ea526",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Romário desmente vídeo com IA em que cita Lula, Flamengo e bets",
+      "link": "https://www.congressoemfoco.com.br/noticia/122599/romario-desmente-video-com-ia-em-que-cita-lula-flamengo-e-bets",
+      "resumo": "Senador afirma que este não é o primeiro caso de uso indevido de sua imagem e voz em vídeos falsos.",
+      "publicado_em": "2026-09-27T19:07:47-03:00",
+      "dia": "2026-09-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-27T19:42:23-03:00"
+    },
+    {
+      "id": "8ac113fcece21d72",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Campanha de Flávio vê usurpação em decisão de Dino sobre Nossa Senhora",
+      "link": "https://www.congressoemfoco.com.br/noticia/122598/campanha-de-flavio-ve-usurpacao-em-decisao-de-dino-sobre-nossa-senhora",
+      "resumo": "Jurídico do candidato defende decisão de Mendonça e critica ordem que restabeleceu posts sobre Nossa Senhora Aparecida.",
+      "publicado_em": "2026-09-27T16:12:56-03:00",
+      "dia": "2026-09-27",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-27T19:42:23-03:00"
     },
     {
       "id": "d63bd406f08d22ce",
@@ -2871,6 +2932,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-24T16:47:01-03:00"
+    },
+    {
+      "id": "baf68ba7b2741643",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê choque em tornozeleira de agressor que romper perímetro",
+      "link": "https://www.congressoemfoco.com.br/noticia/122549/projeto-preve-choque-em-tornozeleira-de-agressor-que-romper-perimetro",
+      "resumo": "Equipamento emitiria primeiro um alerta e, se houver avanço além da distância determinada pela Justiça, poderia aplicar descargas de intensidade crescente.",
+      "publicado_em": "2026-09-24T14:55:33-03:00",
+      "dia": "2026-09-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-27T19:42:23-03:00"
     },
     {
       "id": "221e62596b5eb78f",
@@ -7057,20 +7132,6 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-21T13:48:02-03:00"
-    },
-    {
-      "id": "079155653734f1fe",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Campanha \"Em pauta a melhor idade\" concilia casos de pessoas com 60 anos ou mais",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/campanha-em-pauta-a-melhor-idade-concilia-casos-de-pessoas-com-60-anos-ou-mais",
-      "resumo": "",
-      "publicado_em": "2026-09-21T12:00:00-03:00",
-      "dia": "2026-09-21",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
       "id": "3493dda5e71675cf",
