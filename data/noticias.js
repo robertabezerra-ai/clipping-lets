@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-28T15:28:51-03:00",
+  "gerado_em": "2026-09-28T17:18:14-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,14 +161,14 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -316,6 +316,22 @@ window.DADOS = {
       "coletado_em": "2026-09-28T15:28:51-03:00"
     },
     {
+      "id": "518abc111fee8b32",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP participa da 20ª Primavera dos Museus, com foco em acessibilidade",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115485&pagina=1",
+      "resumo": "Mais de mil visitantes recebidos no final de semana. \n \n\tO Tribunal de Justiça de São Paulo participou, neste final de semana (26 e 27 de",
+      "publicado_em": "2026-09-28T12:00:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
       "id": "242f9e6155ea3860",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -386,6 +402,36 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-28T15:28:51-03:00"
+    },
+    {
+      "id": "1f700527183a56b8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Ideias enviadas via e-Cidadania viraram projetos de lei em 2026",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/ideias-enviadas-via-e-cidadania-viraram-projetos-de-lei-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-28T16:32:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "3b04813b7185b2f7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Chega ao Congresso projeto que torna crime a exploração de bets",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/28/chega-ao-congresso-projeto-que-torna-crime-a-exploracao-de-bets",
+      "resumo": "",
+      "publicado_em": "2026-09-28T16:17:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-28T17:18:14-03:00"
     },
     {
       "id": "6ad7105140119809",
@@ -559,6 +605,48 @@ window.DADOS = {
       "coletado_em": "2026-09-28T15:28:51-03:00"
     },
     {
+      "id": "f51914c22f5b9e58",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senad lança edital público para ampliar Rede Cais em todo o País",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-lanca-edital-publico-para-ampliar-rede-cais-em-todo-o-pais",
+      "resumo": "",
+      "publicado_em": "2026-09-28T12:00:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "689587cd38d48c1a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "No ano, exportações brasileiras crescem 11,5% e saldo positivo da balança sobe 36,3%",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/mdic-divulga-balanca-comercial-da-4a-semana-de-setembro-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-28T15:06:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "781090fe024af2ae",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Cissa Guimarães volta ao comando da bancada do Sem Censura, da TV Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/cissa-guimaraes-volta-ao-comando-da-bancada-do-sem-censura-da-tv-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-28T14:12:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
       "id": "0118e570e781a2f6",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -590,6 +678,98 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-28T15:28:51-03:00"
+    },
+    {
+      "id": "63d780896aa0f55b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vereador é feito refém e tem parte da orelha decepada em MT",
+      "link": "https://www.congressoemfoco.com.br/noticia/122648/vereador-e-feito-refem-e-tem-parte-da-orelha-decepada-em-mt",
+      "resumo": "Assaltantes levaram R$ 42 mil, joias e o carro do parlamentar após manterem a família amarrada dentro da residência.",
+      "publicado_em": "2026-09-28T17:01:58-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "ef873942e7a77f05",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Roberta Roma passa por cateterismo após infarto em ato de campanha",
+      "link": "https://www.congressoemfoco.com.br/noticia/122642/roberta-roma-passa-por-cateterismo-apos-infarto-em-ato-de-campanha",
+      "resumo": "Segundo a equipe da parlamentar, ela sentiu forte dor no peito, com irradiação para o braço direito e foi atendida em UPA.",
+      "publicado_em": "2026-09-28T16:07:26-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "9a7344d8d0b1d0f4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Por que Maria é tão venerada no Brasil?",
+      "link": "https://www.congressoemfoco.com.br/artigo/122641/por-que-maria-e-tao-venerada-no-brasil",
+      "resumo": "Venerar Maria não significa colocá-la no lugar de Deus.",
+      "publicado_em": "2026-09-28T15:58:05-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "504b29916188d18b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Influenciador pode ir ao exterior e seguir divulgando bets no Brasil?",
+      "link": "https://www.congressoemfoco.com.br/artigo/122639/influenciador-pode-ir-ao-exterior-e-seguir-divulgando-bets-no-brasil",
+      "resumo": "Novas restrições à publicidade de apostas abrem discussão sobre a atuação de influenciadores brasileiros que passam a morar no exterior.",
+      "publicado_em": "2026-09-28T15:56:32-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "2017981236444b67",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Entre o palanque e a urna: o destino das candidatas em 2026",
+      "link": "https://www.congressoemfoco.com.br/coluna/122637/entre-o-palanque-e-a-urna-o-destino-das-candidatas-em-2026",
+      "resumo": "São 83,8 milhões de eleitoras, numa disputa apertada, isso pode decidir a disputa presidencial.",
+      "publicado_em": "2026-09-28T15:51:22-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "4ec12068641f3a67",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Um novo olhar sobre os direitos das vítimas no CNJ",
+      "link": "https://www.congressoemfoco.com.br/artigo/122636/um-novo-olhar-sobre-os-direitos-das-vitimas-no-cnj",
+      "resumo": "Enfrentar a violência de gênero nos processos exige proteger as vítimas sem abrir mão do contraditório e da ampla defesa.",
+      "publicado_em": "2026-09-28T15:45:47-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "processo"
+      ],
+      "coletado_em": "2026-09-28T17:18:14-03:00"
     },
     {
       "id": "7c2b8158a5904a03",
@@ -883,6 +1063,23 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-28T15:28:51-03:00"
+    },
+    {
+      "id": "8232c8b8b2385579",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ realiza a 15ª Sessão Ordinária de 2026 na terça-feira (29/9)",
+      "link": "https://www.cnj.jus.br/cnj-realiza-a-15a-sessao-ordinaria-de-2026-na-terca-feira-29-9/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realiza, na terça-feira (29/9), a 15ª Sessão Ordinária de 2026, a partir das 10h. A pauta inclui propostas normativas, processos disciplinares e questões administrativas relacionadas à atuação do Poder Judiciário. Entre os destaques da sessão estão dois atos norm",
+      "publicado_em": "2026-09-28T12:00:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-28T17:18:14-03:00"
     },
     {
       "id": "0c12c866fc1e72dc",
@@ -4136,7 +4333,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Concurso de desenho sobre direitos no ECA Digital tem inscrições prorrogadas até 30/11",
       "link": "https://www.cnj.jus.br/concurso-de-desenho-sobre-direitos-no-eca-digital-tem-inscricoes-prorrogadas-ate-30-11428386-2/",
-      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital Tá On”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
+      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital tá on”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
       "publicado_em": "2026-09-24T12:00:00-03:00",
       "dia": "2026-09-24",
       "data_estimada": true,
