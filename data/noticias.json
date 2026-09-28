@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-28T17:18:14-03:00",
+  "gerado_em": "2026-09-28T18:34:47-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,14 +166,14 @@
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 25,
+      "itens": 26,
       "erro": null
     },
     {
@@ -330,6 +330,50 @@
         "visita"
       ],
       "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "6f671c2c5bbdb071",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP inicia a Semana da Pessoa Idosa com debate sobre envelhecimento ativo",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115496&pagina=1",
+      "resumo": "Promoção da saúde e da qualidade de vida.\n \n\tO Tribunal de Justiça de São Paulo iniciou, hoje (28), a primeira edição da Semana da Pessoa",
+      "publicado_em": "2026-09-28T12:00:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
+    },
+    {
+      "id": "f28a9d67931d2f98",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP realiza Programas Saúde Itinerante, SGP Próxima de Você e Gestão com Saúde",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115504&pagina=1",
+      "resumo": "Ações em Jandira e Santos na semana passada.\n \n\tNa última semana, iniciativas da Secretaria de Gestão de Pessoas do Tribunal de Justiça de São Paulo",
+      "publicado_em": "2026-09-28T12:00:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
+    },
+    {
+      "id": "7edc9e15a4d6ea71",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Associações questionam no STF medida provisória que proíbe bets",
+      "link": "https://noticias.stf.jus.br/postsnoticias/associacoes-questionam-no-stf-medida-provisoria-que-proibe-bets/",
+      "resumo": "Entidade alega, entre outros pontos, que não há urgência que justifique a edição da medida provisória",
+      "publicado_em": "2026-09-28T18:10:30-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
     },
     {
       "id": "242f9e6155ea3860",
@@ -591,6 +635,58 @@
       "coletado_em": "2026-09-28T15:28:51-03:00"
     },
     {
+      "id": "29c68ca6e1240499",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-09-28T16:40:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
+    },
+    {
+      "id": "afc2673066f66fe4",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Cães farejadores da Receita Federal são decisivos em operação que apreende drogas e resulta em 35 prisões",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/caes-farejadores-da-receita-federal-sao-decisivos-em-operacao-que-apreende-drogas-e-resulta-em-35-prisoes",
+      "resumo": "",
+      "publicado_em": "2026-09-28T16:30:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 12,
+      "tags": [
+        "acao",
+        "apreende",
+        "droga"
+      ],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
+    },
+    {
+      "id": "a6fc657cd0f61a80",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal participa da Operação Fratres",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-participa-da-operacao-hermanos",
+      "resumo": "",
+      "publicado_em": "2026-09-28T08:38:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
+    },
+    {
       "id": "1d8ea1bb4d4942c1",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -617,6 +713,36 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "8287f214bba7b3c6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "SUS prepara dentistas e técnicos para os novos equipamentos digitais que produzem próteses",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/oficinas-para-confeccao-de-proteses-dentarias-digitais-no-sus-ocorrem-em-todas-as-regioes-do-pais",
+      "resumo": "",
+      "publicado_em": "2026-09-28T17:12:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "tese"
+      ],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
+    },
+    {
+      "id": "4d8317358a4a1c87",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Observatório Nacional abre seleção para Mestrado e Doutorado em Geofísica",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/observatorio-nacional-abre-selecao-para-mestrado-e-doutorado-em-geofisica",
+      "resumo": "",
+      "publicado_em": "2026-09-28T16:15:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
     },
     {
       "id": "689587cd38d48c1a",
@@ -678,6 +804,56 @@
         "acao"
       ],
       "coletado_em": "2026-09-28T15:28:51-03:00"
+    },
+    {
+      "id": "62fb71c4160a376c",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-09-28T12:00:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
+    },
+    {
+      "id": "8e57e600d7131f33",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Novo requer anulação do pedido de vista de Dino em ação do caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122659/novo-requer-anulacao-do-pedido-de-vista-de-dino-em-acao-do-caso-master",
+      "resumo": "Partido alega que ministro abusou de prerrogativas ao utilizar vista para interromper discussão de colegas.",
+      "publicado_em": "2026-09-28T18:06:34-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
+    },
+    {
+      "id": "f2e0c5467b96cc56",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Democratas cobram posição de Trump sobre eleição brasileira",
+      "link": "https://www.congressoemfoco.com.br/coluna/122649/democratas-cobram-posicao-de-trump-sobre-eleicao-brasileira",
+      "resumo": "Há preocupação em Washington sobre como o governo Donald Trump vai se comportar.",
+      "publicado_em": "2026-09-28T17:03:48-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
     },
     {
       "id": "63d780896aa0f55b",
@@ -877,6 +1053,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-28T15:28:51-03:00"
+    },
+    {
+      "id": "d0afc596f67e2d7e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto cria piso de R$ 7 mil a guardas e nome \"Polícia Municipal\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122622/projeto-cria-piso-de-r-7-mil-a-guardas-e-nome-policia-municipal",
+      "resumo": "Valor dependerá de adesão e lei municipal específica; União poderá ajudar no financiamento conforme a capacidade fiscal de cada município.",
+      "publicado_em": "2026-09-28T13:32:33-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
     },
     {
       "id": "0ebce8fad7604527",
@@ -1080,6 +1270,70 @@
         "acao"
       ],
       "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "b7ae292ac0be6897",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Conciliar É Legal: premiação será entregue pelo CNJ na quarta-feira (30/9)",
+      "link": "https://www.cnj.jus.br/conciliar-e-legal-premiacao-sera-entregue-pelo-cnj-na-quarta-feira-30-9/",
+      "resumo": "A cerimônia de entrega do XVI Prêmio Conciliar É Legal será realizada nesta quarta-feira (30/9), a partir das 14h. A premiação ocorrerá no auditório do Conselho Nacional de Justiça (CNJ), em Brasília. A solenidade será conduzida pela presidente do Comitê Gestor de Conciliação e supervisora da Políti",
+      "publicado_em": "2026-09-28T12:00:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
+    },
+    {
+      "id": "42989b84d9befe8b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Corregedoria amplia medida sobre precatórios do TRF-1 e determina devolução de R$ 1,8 bilhão",
+      "link": "https://www.cnj.jus.br/corregedoria-amplia-medida-sobre-precatorios-do-trf-1-e-determina-devolucao-de-r-18-bilhao/",
+      "resumo": "A Corregedoria Nacional de Justiça determinou, nesta segunda-feira (28/9), o cancelamento de mais 14 precatórios expedidos pelo Tribunal Regional Federal da 1ª Região (TRF-1) antes do trânsito em julgado da fase de execução. Os valores somam cerca de R$ 1,87 bilhão, consideradas as respectivas datas",
+      "publicado_em": "2026-09-28T12:00:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julga",
+        "precatorio"
+      ],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
+    },
+    {
+      "id": "399538dbf6b6cc0e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política de assistência integral a doenças crônicas no SUS",
+      "link": "https://www.camara.leg.br/noticias/1306355-projeto-cria-politica-de-assistencia-integral-a-doencas-cronicas-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-09-28T18:04:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
+    },
+    {
+      "id": "efd42cb6228c2f63",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto regulamenta perdimento de veículos e cargas em infrações à defesa agropecuária federal",
+      "link": "https://www.camara.leg.br/noticias/1304578-projeto-regulamenta-perdimento-de-veiculos-e-cargas-em-infracoes-a-defesa-agropecuaria-federal",
+      "resumo": "",
+      "publicado_em": "2026-09-28T17:13:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-09-28T18:34:47-03:00"
     },
     {
       "id": "0c12c866fc1e72dc",
