@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-29T17:26:25-03:00",
+  "gerado_em": "2026-09-29T20:17:23-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -365,6 +365,71 @@
       "coletado_em": "2026-09-29T17:26:25-03:00"
     },
     {
+      "id": "27ecd43a6c8f1cfb",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "3ª Vara do Júri da Capital recebe inscrições para jurados voluntários até amanhã (30)",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115556&pagina=1",
+      "resumo": "Atuação em julgamentos de crimes dolosos contra a vida.\n \n \n\tA 3ª Vara do Júri da Capital está com inscrições abertas, até amanhã (30), para",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "232ca901eaa6c1eb",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Desembargador João Negrini Filho é homenageado em sessão da 16ª Câmara de Direito Público",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115545&pagina=1",
+      "resumo": "Magistrado ingressou pelo Quinto Constitucional em 2005. \n \n\tA sessão de julgamento da 16ª Câmara de Direito Público realizada hoje (29) foi marcada por homenagens e",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "b531a3f34acabc07",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF valida leis do Rio Grande do Sul que tratam da estrutura da Polícia Militar",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-valida-leis-do-rio-grande-do-sul-que-tratam-da-estrutura-da-policia-militar/",
+      "resumo": "Ministro Gilmar Mendes considerou que a legislação não violou competência da União e adapta normas gerais à realidade local",
+      "publicado_em": "2026-09-29T17:54:59-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "05ffe1cb33d03441",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Partido questiona no STF proibição de impulsionamento de propaganda eleitoral nas redes sociais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/partido-questiona-no-stf-proibicao-de-impulsionamento-de-propaganda-eleitoral-nas-redes-sociais/",
+      "resumo": "Missão afirma que regra do TSE restringe alcance das campanhas e aumenta a desigualdade entre candidatos",
+      "publicado_em": "2026-09-29T17:51:12-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
       "id": "5222ab38335025cd",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -402,7 +467,7 @@
       "fonte_nome": "STF",
       "titulo": "Centro de Estudos do STF celebra primeiro ano com pesquisas, debates e parcerias acadêmicas",
       "link": "https://noticias.stf.jus.br/postsnoticias/centro-de-estudos-do-stf-celebra-primeiro-ano-com-pesquisas-debates-e-parcerias-academicas/",
-      "resumo": "Criado em setembro de 2025, CESTF reúne magistrados, juristas e professores e promove estudos, editais e cooperação com instituições do Brasil e do exterior",
+      "resumo": "Nesse período, o CESTF promoveu estudos, debates, editais de pesquisa e iniciativas de cooperação acadêmica sobre temas relacionados ao direito e à Justiça",
       "publicado_em": "2026-09-29T15:47:49-03:00",
       "dia": "2026-09-29",
       "data_estimada": false,
@@ -428,6 +493,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "d5f95517b395d6db",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto destina renda de loteria para fundo de calamidades",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/projeto-destina-renda-de-loteria-para-fundo-de-calamidades",
+      "resumo": "",
+      "publicado_em": "2026-09-29T17:22:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
     },
     {
       "id": "e86c50832302f9ed",
@@ -593,6 +672,64 @@
       "coletado_em": "2026-09-29T13:47:51-03:00"
     },
     {
+      "id": "ea6748900c05c501",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP e Ministério da Fazenda solicitam derrubada de 5.209 sites de apostas ilegais",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-ministerio-da-fazenda-solicitam-derrubada-de-5-209-sites-de-apostas-ilegais-1",
+      "resumo": "",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "a1bb9a1443a57196",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Saúde integral da população quilombola é acompanhada pelo Conselho Nacional",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/portaria-da-pnasq-e-publicada-e-cns-segue-na-agenda-de-acompanhamento-da-implementacao-da-politica",
+      "resumo": "",
+      "publicado_em": "2026-09-29T17:31:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "9f15d79937d67ee6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Estágio capacita militares em procedimentos emergenciais de saúde em combate",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/estagio-capacita-militares-em-procedimentos-emergenciais-de-saude-em-combate",
+      "resumo": "",
+      "publicado_em": "2026-09-29T16:52:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "ab079045743de0d5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enem 2027: dois mil estudantes participam de aulão preparatório no Ceará",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/2-mil-estudantes-participam-de-aulao-preparatorio-para-o-enem-no-ceara",
+      "resumo": "",
+      "publicado_em": "2026-09-29T14:55:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
       "id": "5cc1693a9161a08e",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -717,6 +854,20 @@
       "coletado_em": "2026-09-29T13:47:51-03:00"
     },
     {
+      "id": "b0e4458054eae6a9",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Governo Central registra em agosto déficit primário de R$ 13,6 bilhões, aponta o Resultado do Tesouro Nacional",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/governo-central-registra-em-agosto-deficit-primario-de-r-13-6-bilhoes-aponta-o-resultado-do-tesouro-nacional",
+      "resumo": "",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
       "id": "226d43629613213b",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -732,6 +883,66 @@
         "julga"
       ],
       "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "c50f798dd54f2bca",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Chico Alencar propõe tornar devoção a Aparecida patrimônio cultural",
+      "link": "https://www.congressoemfoco.com.br/noticia/122720/chico-alencar-propoe-tornar-devocao-a-aparecida-patrimonio-cultural",
+      "resumo": "Texto apresentado após polêmica com Flávio Bolsonaro reconhece romarias e peregrinações ligadas a Nossa Senhora da Conceição Aparecida.",
+      "publicado_em": "2026-09-29T19:30:29-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "b12b14033de2c413",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio pode ser primeiro presidente evangélico eleito pelo voto direto",
+      "link": "https://www.congressoemfoco.com.br/noticia/122718/flavio-pode-ser-primeiro-presidente-evangelico-eleito-pelo-voto-direto",
+      "resumo": "Brasil teve 28 presidentes católicos romanos, dois evangélicos, dois agnósticos e quatro sem religião declarada publicamente.",
+      "publicado_em": "2026-09-29T18:43:49-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "d5a0db08dffb2254",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleição de 2026 e a disputa pelo próximo sistema tributário brasileiro",
+      "link": "https://www.congressoemfoco.com.br/artigo/122716/eleicao-de-2026-e-a-disputa-pelo-proximo-sistema-tributario-brasileiro",
+      "resumo": "Programas presidenciais divergem sobre carga, benefícios fiscais, exceções e progressividade em um sistema tributário que já começou a mudar.",
+      "publicado_em": "2026-09-29T17:19:39-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "tributario"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "e2401cdc79cd2afd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nova lei reduz CSLL de resseguradoras locais para 9% a partir de 2027",
+      "link": "https://www.congressoemfoco.com.br/noticia/122715/nova-lei-reduz-csll-de-resseguradoras-locais-para-9-a-partir-de-2027",
+      "resumo": "Norma reduz carga tributária das resseguradoras locais e facilita compensação de prejuízos acumulados depois de três anos.",
+      "publicado_em": "2026-09-29T17:15:24-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
     },
     {
       "id": "110baa2f4da09e69",
@@ -1141,6 +1352,182 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "e2bb42c8e026742e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Justiça 4.0: Consulta Nacional de Pessoas ganha novas funcionalidades",
+      "link": "https://www.cnj.jus.br/justica-4-0-consulta-nacional-de-pessoas-ganha-novas-funcionalidades/",
+      "resumo": "Consultar, em um ambiente único, informações de diferentes bases sobre pessoas físicas e jurídicas envolvidas em processos judiciais já é possível por meio da Consulta Nacional de Pessoas. De uso exclusivo por magistrados e magistradas, a solução agora reúne novas funcionalidades e permite verificaç",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "7c65d4363c6abbc0",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Acordo entre CNJ e Bradesco quer reduzir quantidade de processos judiciais",
+      "link": "https://www.cnj.jus.br/acordo-entre-cnj-e-bradesco-quer-reduzir-quantidade-de-processos-judiciais/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) e o Banco Bradesco firmaram, na terça-feira (29/9), acordo de cooperação para reduzir a quantidade de processos de execução que tramitam no Judiciário. O documento foi assinado pelo presidente do CNJ e do Supremo Tribunal Federal (STF), ministro Edson Fachin, e p",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "81078f85c90b01af",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Saiba como atualizar o aplicativo para as Eleições 2026",
+      "link": "https://www.cnj.jus.br/saiba-como-atualizar-o-aplicativo-para-as-eleicoes-2026/",
+      "resumo": "Quem já possui o e-Título instalado no celular há algum tempo deve ficar atento à atualização do aplicativo para as Eleições 2026. A orientação da Justiça Eleitoral é reemitir o e-Título, baixando a versão atualizada da ferramenta. A atualização permite que eleitoras e eleitores tenham acesso às nov",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "551d514e6c52394d",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Dia das Crianças: campanha arrecada presentes para acolhidos",
+      "link": "https://www.cnj.jus.br/dia-das-criancas-campanha-arrecada-presentes-para-acolhidos/",
+      "resumo": "Um brinquedo, um par de tênis, uma roupa nova ou uma bicicleta podem representar muito mais do que um presente no Dia das Crianças; podem mostrar a uma criança ou adolescente que alguém pensou nela e quis tornar essa data especial. É com esse propósito que o Tribunal de Justiça do",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "e0341a10fca9f1fe",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Adoção internacional é retomada na Bahia",
+      "link": "https://www.cnj.jus.br/adocao-internacional-e-retomada-na-bahia/",
+      "resumo": "O Tribunal de Justiça da Bahia (TJBA) retoma a atuação em procedimentos de adoção internacional no Estado, depois de seis anos sem registro dessa modalidade de adoção no estado. Quatro irmãos acolhidos institucionalmente iniciam o processo de aproximação com dois casais franceses habilitados para ad",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "7ef43c273c0fc12c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Audiências concentradas: Judiciário reavalia medidas socioeducativas",
+      "link": "https://www.cnj.jus.br/audiencias-concentradas-judiciario-reavalia-medidas-socioeducativas/",
+      "resumo": "O Poder Judiciário de Alagoas, em parceria com a Secretaria de Prevenção à Violência (Seprev), realizou, nos dias 24 e 25 de setembro, o terceiro ciclo de audiências concentradas para acompanhamento de adolescentes e jovens em cumprimento de medidas socioeducativas. No total, 39 adolescentes partici",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "d36ac869cd59c717",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ abre novo PAD para apurar atuação de desembargadora aposentada",
+      "link": "https://www.cnj.jus.br/cnj-abre-novo-pad-para-apurar-atuacao-de-desembargadora-aposentada/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) decidiu, por unanimidade, nesta terça-feira (29/9), instaurar um novo Processo Administrativo Disciplinar (PAD) para apurar a atuação da desembargadora aposentada Cassinelza da Costa Santos Lopes em uma disputa de terras no oeste da Bahia. O colegiado acompanhou ",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "628576b6a146110a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Decisões parciais de juiz baiano podem levar à perda do cargo",
+      "link": "https://www.cnj.jus.br/decisoes-parciais-de-juiz-baiano-podem-levar-a-perda-do-cargo/",
+      "resumo": "O Plenário do Conselho Nacional de Justiça (CNJ) decidiu, por unanimidade, aplicar a sanção de disponibilidade com proposta de perda do cargo ao juiz João Batista Alcântara Filho, do Tribunal de Justiça da Bahia (TJBA). O magistrado, que já havia sido aposentado compulsoriamente em outros processos ",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "sancao",
+        "processo"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "60c3582d5855cf58",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei destina percentual da arrecadação de loterias para o Comitê Brasileiro de Clubes",
+      "link": "https://www.camara.leg.br/noticias/1307404-nova-lei-destina-percentual-da-arrecadacao-de-loterias-para-o-comite-brasileiro-de-clubes",
+      "resumo": "",
+      "publicado_em": "2026-09-29T18:26:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "015a7dad7ecca0a4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Rede Legislativa de Rádio e TV faz cobertura da eleição ao vivo e em tempo integral",
+      "link": "https://www.camara.leg.br/noticias/1307393-rede-legislativa-de-radio-e-tv-faz-cobertura-da-eleicao-ao-vivo-e-em-tempo-integral",
+      "resumo": "",
+      "publicado_em": "2026-09-29T18:16:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
+    },
+    {
+      "id": "964b7a0b477bc096",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Sancionada lei que reduz tributos de resseguradoras nacionais",
+      "link": "https://www.camara.leg.br/noticias/1307206-sancionada-lei-que-reduz-tributos-de-resseguradoras-nacionais",
+      "resumo": "",
+      "publicado_em": "2026-09-29T17:33:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "sancionada"
+      ],
+      "coletado_em": "2026-09-29T20:17:23-03:00"
     },
     {
       "id": "eeb884a06dbc6f21",
