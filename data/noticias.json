@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-29T15:58:23-03:00",
+  "gerado_em": "2026-09-29T17:26:25-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -349,6 +349,54 @@
       "coletado_em": "2026-09-29T13:47:51-03:00"
     },
     {
+      "id": "54fb4d326de9b58c",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Projeto Somos Marias leva rede de proteção a mulheres em situação de rua",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115544&pagina=1",
+      "resumo": "Ação de enfrentamento à violência doméstica.  \n \n\tO Projeto Somos Marias, idealizado pela juíza da 2ª Vara Criminal de Praia Grande, Danielle Camara Takahashi Cosentino Grandinetti,",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
+    },
+    {
+      "id": "5222ab38335025cd",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ministro Flávio Dino participa de última sessão na presidência da 1ª Turma",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ministro-flavio-dino-participa-de-ultima-sessao-na-presidencia-da-1a-turma/",
+      "resumo": "Colegiado realizou 76 sessões (presenciais e virtuais) e julgou mais de 8 mil processos no período",
+      "publicado_em": "2026-09-29T16:56:57-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
+    },
+    {
+      "id": "aa6befe30d92c878",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo mantém regra da Alesp sobre designação de relator especial",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-mantem-regra-da-alesp-sobre-designacao-de-relator-especial/",
+      "resumo": "Para o Tribunal, norma integra a autonomia do Legislativo para organizar a tramitação de projetos",
+      "publicado_em": "2026-09-29T16:17:48-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
+    },
+    {
       "id": "694129d390699bce",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -380,6 +428,50 @@
         "acao"
       ],
       "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "e86c50832302f9ed",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei determina avaliação da qualidade de hospitais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/lei-determina-avaliacao-da-qualidade-de-hospitais",
+      "resumo": "",
+      "publicado_em": "2026-09-29T16:27:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
+    },
+    {
+      "id": "ebd10b0826bc2993",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Disputa pelo Senado tem, em média, seis candidatos por vaga",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/disputa-pelo-senado-tem-em-media-seis-candidatos-por-vaga",
+      "resumo": "",
+      "publicado_em": "2026-09-29T16:22:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
+    },
+    {
+      "id": "640da689f5af15f2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei reduz CSLL de resseguradoras locais para 9% a partir de 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/lei-reduz-csll-de-resseguradoras-locais-para-9-a-partir-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-09-29T16:21:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
     },
     {
       "id": "e6da61b76600fb2a",
@@ -438,6 +530,20 @@
         "medida provisoria"
       ],
       "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "385a21836ab1f4bc",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal retém dois contêineres de cigarros eletrônicos no Porto de Santos/SP",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-retem-dois-conteineres-de-cigarros-eletronicos-no-porto-de-santos-sp",
+      "resumo": "",
+      "publicado_em": "2026-09-29T16:10:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
     },
     {
       "id": "7c85227aa4b669b1",
@@ -628,6 +734,53 @@
       "coletado_em": "2026-09-29T15:58:23-03:00"
     },
     {
+      "id": "110baa2f4da09e69",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A equipe econômica de Flávio Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/artigo/122714/a-equipe-economica-de-flavio-bolsonaro",
+      "resumo": "Time anunciado pela campanha reúne dez PhDs e propõe cortar gastos e flexibilizar regras trabalhistas, mas ainda sem meta fiscal definida.",
+      "publicado_em": "2026-09-29T17:09:10-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
+    },
+    {
+      "id": "26ada88179205271",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino manda apurar outdoor de loja com suposta campanha para Bia Kicis",
+      "link": "https://www.congressoemfoco.com.br/noticia/122713/dino-manda-apurar-outdoor-de-loja-com-suposta-campanha-para-bia-kicis",
+      "resumo": "Dona da loja teria recebido emenda da deputada por meio do Instituto Viver-Brasil.",
+      "publicado_em": "2026-09-29T16:41:43-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
+    },
+    {
+      "id": "dff2a219cce71e95",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Rachadinha\": Gilmar mantém quebra de sigilo de ex-assessora de Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/122712/rachadinha--gilmar-mantem-quebra-de-sigilo-de-ex-assessora-de-flavio",
+      "resumo": "Ação apura suspeitas de funcionários fantasmas e repasse de parte de salários no antigo gabinete de Flávio na Alerj.",
+      "publicado_em": "2026-09-29T15:39:21-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
+    },
+    {
       "id": "9aa22ad0528b47a9",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -640,6 +793,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "f16d7e78c32eb105",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "10% dos candidatos ficam com 57% da verba pública na eleição à Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/122705/10-dos-candidatos-ficam-com-57-da-verba-publica-na-eleicao-a-camara",
+      "resumo": "Os 744 candidatos mais bem financiados já receberam R$ 1,7 bilhão dos R$ 2,97 bilhões distribuídos pelos fundos Eleitoral e Partidário. Os outros 6.696 dividiram R$ 1,27 bilhão, de acordo com parcial levantada nesta terça-feira.",
+      "publicado_em": "2026-09-29T14:25:03-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
     },
     {
       "id": "8bf1ba7dbbda92e7",
@@ -672,6 +839,22 @@
         "acao"
       ],
       "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "755ae80de7d00dcd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE cobra TREs sobre transporte gratuito para eleitores",
+      "link": "https://www.congressoemfoco.com.br/noticia/122701/tse-cobra-tres-sobre-transporte-gratuito-para-eleitores",
+      "resumo": "Tribunais regionais deverão verificar se Estados e municípios informaram itinerários, horários e modalidades disponíveis nos dias de votação.",
+      "publicado_em": "2026-09-29T13:49:49-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
     },
     {
       "id": "ab34d6dcc4a4e93b",
@@ -958,6 +1141,50 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "eeb884a06dbc6f21",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei cria regras para vigilância sanitária periódica em hospitais públicos e privados",
+      "link": "https://www.camara.leg.br/noticias/1307195-nova-lei-cria-regras-para-vigilancia-sanitaria-periodica-em-hospitais-publicos-e-privados",
+      "resumo": "",
+      "publicado_em": "2026-09-29T17:01:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
+    },
+    {
+      "id": "a51601438a1680a0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria \"auditoria de currículo\" para indicados a agências reguladoras",
+      "link": "https://www.camara.leg.br/noticias/1307038-projeto-cria-auditoria-de-curriculo-para-indicados-a-agencias-reguladoras",
+      "resumo": "",
+      "publicado_em": "2026-09-29T16:28:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
+    },
+    {
+      "id": "07f918caa8a21c82",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto torna obrigatória identificação visível de capacidade em galões de combustíveis",
+      "link": "https://www.camara.leg.br/noticias/1304926-projeto-torna-obrigatoria-identificacao-visivel-de-capacidade-em-galoes-de-combustiveis",
+      "resumo": "",
+      "publicado_em": "2026-09-29T15:24:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T17:26:25-03:00"
     },
     {
       "id": "c36ddde8887e8de2",
