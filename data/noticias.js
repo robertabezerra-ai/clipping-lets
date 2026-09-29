@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-28T18:34:47-03:00",
+  "gerado_em": "2026-09-28T21:03:53-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -360,6 +360,38 @@ window.DADOS = {
       "coletado_em": "2026-09-28T18:34:47-03:00"
     },
     {
+      "id": "2464dd0134e74646",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Relator determina acesso gratuito a site de checagem e serviços oficiais do TSE a 72 horas da eleição",
+      "link": "https://noticias.stf.jus.br/postsnoticias/relator-determina-acesso-gratuito-a-site-de-checagem-e-servicos-oficiais-do-tse-a-72-horas-da-eleicao/",
+      "resumo": "Decisão do ministro Cristiano Zanin visa assegurar o acesso a informações corretas sobre local e horário de votação, candidatos em disputa e o próprio processo eleitoral",
+      "publicado_em": "2026-09-28T20:20:29-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "decisao",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-28T21:03:53-03:00"
+    },
+    {
+      "id": "ad505e9a46941980",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF condena Eduardo Bolsonaro a um ano de detenção por difamar deputada Tabata Amaral",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-condena-eduardo-bolsonaro-a-um-ano-de-detencao-por-difamar-deputada-tabata-amaral/",
+      "resumo": "Ex-deputado disse que o projeto de lei da congressista sobre distribuição de absorventes íntimos parecia atender a lobby de fabricante",
+      "publicado_em": "2026-09-28T19:03:30-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T21:03:53-03:00"
+    },
+    {
       "id": "7edc9e15a4d6ea71",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -397,9 +429,9 @@ window.DADOS = {
       "id": "48742b057e5e3133",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "CESTF realiza terceira reunião do grupo de trabalho sobre modernização do sistema de Justiça",
+      "titulo": "Grupo de Trabalho sobre modernização do Sistema de Justiça avança para análise de propostas em seis subgrupos",
       "link": "https://noticias.stf.jus.br/postsnoticias/cestf-realiza-terceira-reuniao-do-grupo-de-trabalho-sobre-modernizacao-do-sistema-de-justica/",
-      "resumo": "Centro de Estudos do STF vai analisar contribuições enviadas por instituições da sociedade civil",
+      "resumo": "Contribuições apresentadas pela sociedade civil e pelos integrantes do GT foram sistematizadas e serão analisadas por grupos temáticos",
       "publicado_em": "2026-09-28T13:14:29-03:00",
       "dia": "2026-09-28",
       "data_estimada": false,
@@ -715,6 +747,36 @@ window.DADOS = {
       "coletado_em": "2026-09-28T17:18:14-03:00"
     },
     {
+      "id": "96a4b2bca99511c5",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Museu Nacional de Belas Artes reabre duas salas revitalizadas com recursos do FDD",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/museu-nacional-de-belas-artes-reabre-duas-salas-revitalizadas-com-recursos-do-fdd",
+      "resumo": "",
+      "publicado_em": "2026-09-28T12:00:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-28T21:03:53-03:00"
+    },
+    {
+      "id": "0cb469c1e31289fa",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Em diversas frentes, safra 2026/2027 começa a avançar com apoio das chuvas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/safra-2026-2027-comeca-a-avancar-com-apoio-das-chuvas",
+      "resumo": "",
+      "publicado_em": "2026-09-28T18:36:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T21:03:53-03:00"
+    },
+    {
       "id": "8287f214bba7b3c6",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -824,6 +886,70 @@ window.DADOS = {
       "coletado_em": "2026-09-28T18:34:47-03:00"
     },
     {
+      "id": "432d02075047561e",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Dívida Pública Federal totaliza R$ 9,29 trilhões em agosto",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/divida-publica-federal-totaliza-r-9-29-trilhoes-em-agosto",
+      "resumo": "",
+      "publicado_em": "2026-09-28T12:00:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T21:03:53-03:00"
+    },
+    {
+      "id": "41f5dca6fc20c794",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes pede a Fachin medidas contra interferência do STF nas eleições",
+      "link": "https://www.congressoemfoco.com.br/noticia/122662/nunes-pede-a-fachin-medidas-contra-interferencia-do-stf-nas-eleicoes",
+      "resumo": "Presidente do TSE pede filtro para ações no STF que possam afetar a condução do processo eleitoral e o papel institucional da Corte.",
+      "publicado_em": "2026-09-28T20:17:43-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-28T21:03:53-03:00"
+    },
+    {
+      "id": "cc3ccefcc8199bdf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AGU abre ação contra operadoras de apostas por prejuízo ao SUS",
+      "link": "https://www.congressoemfoco.com.br/noticia/122661/agu-abre-acao-contra-operadoras-de-apostas-por-prejuizo-ao-sus",
+      "resumo": "União atribui às apostas aumento de gastos com saúde mental e cobra das operadoras ressarcimento ao SUS e indenização bilionária.",
+      "publicado_em": "2026-09-28T19:21:36-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-28T21:03:53-03:00"
+    },
+    {
+      "id": "d31dceccd3d3032a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF encontra celular no esgoto durante apreensão na casa de deputado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122660/pf-encontra-celular-no-esgoto-durante-apreensao-na-casa-de-deputado",
+      "resumo": "Agentes apreenderam R$ 87 mil em espécie, parte do valor em envelopes com nomes e registros de recebimento.",
+      "publicado_em": "2026-09-28T18:54:14-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 12,
+      "tags": [
+        "apreensao",
+        "apreende"
+      ],
+      "coletado_em": "2026-09-28T21:03:53-03:00"
+    },
+    {
       "id": "8e57e600d7131f33",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -868,6 +994,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "b86713db814fd715",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A proibição das bets e a conta que sobra para o futebol",
+      "link": "https://www.congressoemfoco.com.br/artigo/122643/a-proibicao-das-bets-e-a-conta-que-sobra-para-o-futebol",
+      "resumo": "Vê-se a proibição e o problema que ela quer combater, mas ficam fora do quadro o lojista, a folha de outubro e o fornecedor que deixará de receber.",
+      "publicado_em": "2026-09-28T16:17:16-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T21:03:53-03:00"
     },
     {
       "id": "ef873942e7a77f05",
@@ -1304,6 +1444,36 @@ window.DADOS = {
         "precatorio"
       ],
       "coletado_em": "2026-09-28T18:34:47-03:00"
+    },
+    {
+      "id": "ef1ca57149a6c88c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê medidas de acolhimento para trabalhadora que retorna da licença-maternidade",
+      "link": "https://www.camara.leg.br/noticias/1304558-projeto-preve-medidas-de-acolhimento-para-trabalhadora-que-retorna-da-licenca-maternidade",
+      "resumo": "",
+      "publicado_em": "2026-09-28T19:30:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-28T21:03:53-03:00"
+    },
+    {
+      "id": "71ed84fed576f26e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto de lei apresentado pelo governo torna crime a exploração e a publicidade de bets",
+      "link": "https://www.camara.leg.br/noticias/1307129-projeto-de-lei-apresentado-pelo-governo-torna-crime-a-exploracao-e-a-publicidade-de-bets",
+      "resumo": "",
+      "publicado_em": "2026-09-28T18:47:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-28T21:03:53-03:00"
     },
     {
       "id": "399538dbf6b6cc0e",
