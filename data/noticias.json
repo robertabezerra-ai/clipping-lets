@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-28T21:03:53-03:00",
+  "gerado_em": "2026-09-29T13:47:51-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,7 +173,7 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 26,
+      "itens": 27,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -251,6 +251,565 @@
   ],
   "noticias": [
     {
+      "id": "93560b987ed6d0ac",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Acordo na Justiça do Trabalho viabiliza lei para absorção de ferroviários(as) de linhas privatizadas da CPTM",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acordo-na-justica-do-trabalho-viabiliza-lei-para-absorcao-de-ferroviariosas-de-linhas-privatizadas-da-cptm",
+      "resumo": "",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "cf54fbe910138fc6",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Após anos de tramitação, conciliação encerra conflitos durante Semana da Execução Trabalhista",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/apos-anos-de-tramitacao-conciliacao-encerra-conflitos-durante-semana-da-execucao-trabalhista",
+      "resumo": "",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "3722f583411935bb",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 e Campseg firmam acordo para ampliar conciliação e reduzir litigiosidade",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-e-campseg-firmam-acordo-para-ampliar-conciliacao-e-reduzir-litigiosidade",
+      "resumo": "TRT-15 e Campseg firmam acordo para ampliar conciliação e reduzir litigiosidade anasiqueira Ter, 29/09/2026 - 11:14 TRT-15 e Campseg firmam acordo para ampliar conciliação e reduzir litigiosidade Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região e a Campseg Segurança Ltda. assinaram,",
+      "publicado_em": "2026-09-29T11:14:15-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "41936ddbfce20cf5",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 movimenta R$ 474,3 milhões na Semana Nacional da Execução Trabalhista de 2026",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-movimenta-r-4743-milhoes-na-semana-nacional-da-execucao-trabalhista-de-2026",
+      "resumo": "TRT-15 movimenta R$ 474,3 milhões na Semana Nacional da Execução Trabalhista de 2026 anasiqueira Ter, 29/09/2026 - 11:11 TRT-15 movimenta R$ 474,3 milhões na Semana Nacional da Execução Trabalhista de 2026 Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região movimentou R$ 474,3 milhões ",
+      "publicado_em": "2026-09-29T11:11:53-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "cd65953e98060624",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação de servidora que desviou recursos para apostar em jogos de azar",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115532&pagina=1",
+      "resumo": "Prejuízo aos cofres públicos de quase R$ 100 mil.\n \n\tA 12ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve decisão da",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 76,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "222ca81cda50d37e",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Publicado edital de convocação para as provas objetiva e discursiva do Programa de Residência Jurídica",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115530&pagina=1",
+      "resumo": "Provas acontecem no dia 11 de outubro.\n \n\tO Tribunal de Justiça de São Paulo publicou, hoje (3), no Diário Eletrônico da Justiça do Estado de",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "68c1fcdcae686766",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Inovação, gestão e políticas judiciárias trazem mais eficiência ao STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/inovacao-gestao-e-politicas-judiciarias-trazem-mais-eficiencia-ao-stf/",
+      "resumo": "Gestão do ministro Fachin busca tornar o Judiciário mais preparado para novos desafios",
+      "publicado_em": "2026-09-29T11:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "e6da61b76600fb2a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "18 de agosto pode ser o Dia Nacional da Dança Afro-brasileira",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/18-de-agosto-pode-ser-o-dia-nacional-da-danca-afro-brasileira",
+      "resumo": "",
+      "publicado_em": "2026-09-29T13:37:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "4592d995d311b4dc",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sancionado repasse de loterias para Comitê Brasileiro de Clubes",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/sancionado-repasse-de-loterias-para-comite-brasileiro-de-clubes",
+      "resumo": "",
+      "publicado_em": "2026-09-29T10:34:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "b63a6a7f78a5ddb4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei torna futebol feminino prioridade na política de esporte",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/29/lei-torna-futebol-feminino-prioridade-na-politica-de-esporte-1",
+      "resumo": "",
+      "publicado_em": "2026-09-29T09:53:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "456eef40159dac1b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Medida provisória que proíbe bets no país já está no Congresso Nacional",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/medida-provisoria-que-proibe-bets-no-pais-ja-esta-no-congresso-nacional",
+      "resumo": "",
+      "publicado_em": "2026-09-29T09:22:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "7c85227aa4b669b1",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal participa do Domingo Aéreo com demonstrações operacionais e atividades interativas",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-participa-do-domingo-aereo-com-demonstracoes-operacionais-e-atividades-interativas",
+      "resumo": "",
+      "publicado_em": "2026-09-29T10:21:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "66b75e46140deb9c",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Simples Nacional 2027: Entenda os novos prazos e faça sua escolha com consciência e tranquilidade",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade",
+      "resumo": "",
+      "publicado_em": "2026-09-29T10:03:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "prazo",
+        "simples nacional"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "902594c3a3eeee74",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende ônibus clandestino com cerca de 500 caixas de cigarros e 800 ampolas de emagrecedores em Foz do Iguaçu",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-apreende-onibus-clandestino-com-cerca-de-500-caixas-de-cigarros-e-800-ampolas-de-emagrecedores-em-foz-do-iguacu",
+      "resumo": "",
+      "publicado_em": "2026-09-29T08:47:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "bcf64ebdfae7257b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Desemprego cai no trimestre e número de pessoas ocupadas é o maior da série histórica",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/desemprego-cai-no-trimestre-e-numero-de-pessoas-ocupadas-e-o-maior-da-serie-historica",
+      "resumo": "",
+      "publicado_em": "2026-09-29T10:19:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "2a8d13178d78698d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Simples Nacional 2027: entenda os novos prazos e faça sua escolha",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/simples-nacional-2027-entenda-os-novos-prazos-e-faca-sua-escolha-com-consciencia-e-tranquilidade",
+      "resumo": "",
+      "publicado_em": "2026-09-29T10:03:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "prazo",
+        "simples nacional"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "c1554f2f5097bd8d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polícia Fedral investiga extração ilegal de minério e lavagem de dinheiro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-investiga-extracao-ilegal-de-minerio-e-lavagem-de-dinheiro",
+      "resumo": "",
+      "publicado_em": "2026-09-29T09:45:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "229247e7d169857d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pix e TIPS: parceria entre Brasil e Europa abre caminho para pagamentos globais instantâneos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pix-e-tips-parceria-entre-brasil-e-europa-abre-caminho-para-pagamentos-globais-instantaneos",
+      "resumo": "",
+      "publicado_em": "2026-09-29T08:47:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "72cdc9b42d3d2f77",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Simples Nacional 2027 tem novos prazos para microempresas e empresas de pequeno porte",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/simples-nacional-2027-tem-novos-prazos-para-microempresas-e-empresas-de-pequeno-porte",
+      "resumo": "",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "prazo",
+        "simples nacional"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "1f60c3d347fdcced",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro tenta simplificar a política em símbolos",
+      "link": "https://www.congressoemfoco.com.br/artigo/122691/flavio-bolsonaro-tenta-simplificar-a-politica-em-simbolos",
+      "resumo": "Tesoura e facão transformam propostas sobre economia e segurança em imagens de fácil circulação, mas deixam de fora a discussão sobre seus efeitos.",
+      "publicado_em": "2026-09-29T12:17:36-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "7933e0881da88ece",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Entenda fala de Lula sobre mulheres \"aprenderem a tomar toque\" cedo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122689/entenda-fala-de-lula-sobre-mulheres-aprenderem-a-tomar-toque-cedo",
+      "resumo": "Declaração ocorreu dentro de um discurso sobre prevenção de doenças e fazia referência a exames médicos.",
+      "publicado_em": "2026-09-29T12:04:55-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "366ee43bec474b02",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes manda apagar post de Jean Wyllys em que chama Flávio de ladrão",
+      "link": "https://www.congressoemfoco.com.br/noticia/122681/nunes-manda-apagar-post-de-jean-wyllys-em-que-chama-flavio-de-ladrao",
+      "resumo": "Ação teve origem a partir de uma representação do Diretório Nacional do PL contra o ex-deputado.",
+      "publicado_em": "2026-09-29T11:24:28-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "1c222f368e1033ba",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Brasil perde quase 500 mil eleitores de 16 e 17 anos desde 2022",
+      "link": "https://www.congressoemfoco.com.br/noticia/122680/brasil-perde-quase-500-mil-eleitores-de-16-e-17-anos-desde-2022",
+      "resumo": "Queda de 23% entre adolescentes aptos a votar é quatro vezes maior que a redução da população dessa idade; eleitorado de 70 anos ou mais cresceu 16%.",
+      "publicado_em": "2026-09-29T11:20:25-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "ab79a0da422e8959",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "STF em crise: Quando e como um ministro pode ser julgado pelo Senado?",
+      "link": "https://www.congressoemfoco.com.br/coluna/122676/stf-em-crise-quando-e-como-um-ministro-pode-ser-julgado-pelo-senado",
+      "resumo": "Constituição permite responsabilização de ministros, mas processo exige distinguir crime de responsabilidade de decisões controversas e disputas políticas.",
+      "publicado_em": "2026-09-29T10:54:06-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julga",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "604662483aee55b2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Abstenção volta ao nível de 1998, mas perfil de quem não vota muda",
+      "link": "https://www.congressoemfoco.com.br/noticia/122669/abstencao-volta-ao-nivel-de-1998-mas-perfil-de-quem-nao-vota-muda",
+      "resumo": "Levantamento mostra que a abstenção cresce há quatro eleições gerais, é maior entre homens e menos escolarizados, recua entre idosos e varia entre os Estados sem relação direta com a renda.",
+      "publicado_em": "2026-09-29T09:16:48-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "f9595567ad853348",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado do PL exibe arma em discussão com militantes do Psol no Rio",
+      "link": "https://www.congressoemfoco.com.br/noticia/122668/deputado-do-pl-exibe-arma-em-discussao-com-militantes-do-psol-no-rio",
+      "resumo": "Confusão ocorreu em frente ao comitê de Flávio Serafini, no Rio; Alexandre Knoploch admitiu usar spray de pimenta e alegou ter sido intimidado.",
+      "publicado_em": "2026-09-29T09:15:08-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "4a0f2df44b15ded0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio sobre polêmica com Nossa Senhora: \"espécie de facada\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122667/flavio-sobre-polemica-com-nossa-senhora--especie-de-facada",
+      "resumo": "Em podcast católico, candidato negou intenção de retirar o título de padroeira de Aparecida e defendeu a liberdade religiosa.",
+      "publicado_em": "2026-09-29T08:47:41-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "21527beb851b845a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Papa diz que extrema direita não é expressão autêntica do cristianismo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122666/papa-diz-que-extrema-direita-nao-e-expressao-autentica-do-cristianismo",
+      "resumo": "Leão XIV afirma que valores cristãos estão ligados à compreensão e à compaixão e defende participação política voltada ao bem comum.",
+      "publicado_em": "2026-09-29T07:57:17-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "eeff7806883cdb76",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputada aciona PGE contra o \"Tinder eleitoral\" divulgado por Huck",
+      "link": "https://www.congressoemfoco.com.br/noticia/122665/deputada-aciona-pge-contra-o-tinder-eleitoral-divulgado-por-huck",
+      "resumo": "Fernanda Melchionna pede investigação e retirada do site após relatos de favorecimento à direita; organização afirma ser apartidária.",
+      "publicado_em": "2026-09-29T07:46:23-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "344cc4c6931b73c9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fux derruba decisão de Dino sobre postagens de Nossa Senhora Aparecida",
+      "link": "https://www.congressoemfoco.com.br/noticia/122663/fux-derruba-decisao-de-dino-sobre-postagens-de-nossa-senhora-aparecida",
+      "resumo": "Plataformas têm 24 horas para voltar a cumprir a ordem do TSE. Decisões conflitantes serão analisadas pelo Plenário do STF.",
+      "publicado_em": "2026-09-29T07:17:44-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "c36ddde8887e8de2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eleições 2026: saiba como funcionam o voto em trânsito e a justificativa eleitoral",
+      "link": "https://www.camara.leg.br/noticias/1307174-eleicoes-2026-saiba-como-funcionam-o-voto-em-transito-e-a-justificativa-eleitoral",
+      "resumo": "",
+      "publicado_em": "2026-09-29T11:59:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "ac8d8062073f95a7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei torna futebol feminino prioridade na política de esporte",
+      "link": "https://www.camara.leg.br/noticias/1307201-lei-torna-futebol-feminino-prioridade-na-politica-de-esporte",
+      "resumo": "",
+      "publicado_em": "2026-09-29T11:59:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "1e047f78b451dc4f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eleições 2026: especialistas analisam desafios em habitação, saneamento e esporte",
+      "link": "https://www.camara.leg.br/noticias/1307184-eleicoes-2026-especialistas-analisam-desafios-em-habitacao-saneamento-e-esporte",
+      "resumo": "",
+      "publicado_em": "2026-09-29T11:15:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "2b1fc7929e925223",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto obriga fabricantes a orientar consumidor sobre descarte correto do papel que acompanha figurinhas",
+      "link": "https://www.camara.leg.br/noticias/1305050-projeto-obriga-fabricantes-a-orientar-consumidor-sobre-descarte-correto-do-papel-que-acompanha-figurinhas",
+      "resumo": "",
+      "publicado_em": "2026-09-29T09:34:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "877910acd4c60be6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe cobrança por consultas de retorno em planos de saúde e atendimentos privados",
+      "link": "https://www.camara.leg.br/noticias/1305203-projeto-proibe-cobranca-por-consultas-de-retorno-em-planos-de-saude-e-atendimentos-privados",
+      "resumo": "",
+      "publicado_em": "2026-09-29T08:41:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "893c26f8a2f40b5a",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Pix e TIPS: parceria entre Brasil e Europa abre caminho para pagamentos globais instantâneos",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21276/nota",
+      "resumo": "Projeto pode acelerar remessas e compras entre Brasil e área do euro. Interligação busca reduzir custos e ampliar acesso a pagamentos globais.",
+      "publicado_em": "2026-09-29T08:47:21-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
       "id": "c12b795784020431",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -282,6 +841,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-28T15:28:51-03:00"
+    },
+    {
+      "id": "079155653734f1fe",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Campanha \"Em pauta a melhor idade\" concilia casos de pessoas com 60 anos ou mais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/campanha-em-pauta-a-melhor-idade-concilia-casos-de-pessoas-com-60-anos-ou-mais",
+      "resumo": "",
+      "publicado_em": "2026-09-28T12:00:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
       "id": "5ee0e6da37081d32",
@@ -763,13 +1336,27 @@
       "coletado_em": "2026-09-28T21:03:53-03:00"
     },
     {
+      "id": "b6ea6e03597315da",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Tire dúvidas sobre atendimento prioritário para pessoas autistas e com deficiências não visíveis",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/duvidas-frequentes-sobre-atendimento-prioritario-para-pessoas-autistas-e-com-deficiencias-nao-visiveis",
+      "resumo": "",
+      "publicado_em": "2026-09-28T21:05:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
       "id": "0cb469c1e31289fa",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
       "titulo": "Em diversas frentes, safra 2026/2027 começa a avançar com apoio das chuvas",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/safra-2026-2027-comeca-a-avancar-com-apoio-das-chuvas",
       "resumo": "",
-      "publicado_em": "2026-09-28T18:36:00-03:00",
+      "publicado_em": "2026-09-28T21:00:00-03:00",
       "dia": "2026-09-28",
       "data_estimada": false,
       "score": 40,
@@ -1578,20 +2165,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-28T15:28:51-03:00"
-    },
-    {
-      "id": "079155653734f1fe",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Campanha \"Em pauta a melhor idade\" concilia casos de pessoas com 60 anos ou mais",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/campanha-em-pauta-a-melhor-idade-concilia-casos-de-pessoas-com-60-anos-ou-mais",
-      "resumo": "",
-      "publicado_em": "2026-09-27T12:00:00-03:00",
-      "dia": "2026-09-27",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
       "id": "ed872b74d7e7ffdd",
@@ -4757,7 +5330,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Concurso de desenho sobre direitos no ECA Digital tem inscrições prorrogadas até 30/11",
       "link": "https://www.cnj.jus.br/concurso-de-desenho-sobre-direitos-no-eca-digital-tem-inscricoes-prorrogadas-ate-30-11428386-2/",
-      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital tá on”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
+      "resumo": "Escolas públicas e privadas de todo o Brasil podem inscrever seus alunos para participar do Concurso Nacional Infantojuvenil de Desenho “Juventude Conectada com Direitos: ECA Digital Tá On”  até o dia 30 de novembro. O prazo foi prorrogado pelo Conselho Nacional de Justiça (CNJ) e pelo Ministério da",
       "publicado_em": "2026-09-24T12:00:00-03:00",
       "dia": "2026-09-24",
       "data_estimada": true,
@@ -65021,52 +65594,6 @@
       "score": 46,
       "tags": [
         "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "6aff26421b43dcb0",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Anamatra recebe até 6 de julho inscrições para prêmio de direitos humanos",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/anamatra-recebe-ate-6-de-julho-inscricoes-para-premio-de-direitos-humanos",
-      "resumo": "",
-      "publicado_em": "2026-06-30T12:00:00-03:00",
-      "dia": "2026-06-30",
-      "data_estimada": true,
-      "score": 28,
-      "tags": [
-        "premio"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "7697ec161888324d",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Justiça condena por comportamento gordofóbico e sexista",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-condena-por-comportamento-gordofobico-e-sexista",
-      "resumo": "",
-      "publicado_em": "2026-06-30T12:00:00-03:00",
-      "dia": "2026-06-30",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "4c8cbd4cea07d6d6",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "ANPD abre tomada de subsídios sobre novas regras aplicáveis às plataformas digitais",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/copy_of_anpd-abre-tomada-de-subsidios-sobre-novas-regras-aplicaveis-as-plataformas-digitais",
-      "resumo": "A partir desta terça (30), sociedade ajudará a definir prioridades regulatórias relacionadas aos direitos dos usuários, aos deveres das plataformas digitais e à proteção das mulheres no ambiente digital",
-      "publicado_em": "2026-06-30T10:15:16-03:00",
-      "dia": "2026-06-30",
-      "data_estimada": false,
-      "score": 54,
-      "tags": [
-        "novas regras"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
