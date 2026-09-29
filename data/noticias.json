@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-29T13:47:51-03:00",
+  "gerado_em": "2026-09-29T15:58:23-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -349,6 +349,23 @@
       "coletado_em": "2026-09-29T13:47:51-03:00"
     },
     {
+      "id": "694129d390699bce",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Centro de Estudos do STF celebra primeiro ano com pesquisas, debates e parcerias acadêmicas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/centro-de-estudos-do-stf-celebra-primeiro-ano-com-pesquisas-debates-e-parcerias-academicas/",
+      "resumo": "Criado em setembro de 2025, CESTF reúne magistrados, juristas e professores e promove estudos, editais e cooperação com instituições do Brasil e do exterior",
+      "publicado_em": "2026-09-29T15:47:49-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
       "id": "68c1fcdcae686766",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -470,6 +487,52 @@
       "coletado_em": "2026-09-29T13:47:51-03:00"
     },
     {
+      "id": "5cc1693a9161a08e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Emprego CLT no Brasil cresce 2,41% e acumula 1,13 milhão de novas contratações em 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/novo-caged-emprego-formal-gera-165-8-mil-vagas-em-agosto-e-acumula-1-13-milhao-de-postos-no-ano",
+      "resumo": "",
+      "publicado_em": "2026-09-29T14:38:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "c69f6a33afc9d0a9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF prende duas pessoas e apreende cerca de 2 mil ampolas de medicamentos no Paraná",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/pf-prende-duas-pessoas-e-apreende-cerca-de-2-mil-ampolas-de-medicamentos-no-parana",
+      "resumo": "",
+      "publicado_em": "2026-09-29T14:22:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "fa365b4b10cc0ce6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pesquisa internacional mostra avanços no sistema de educação brasileiro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/education-at-a-glance-2026-reune-dados-sobre-escolaridade-e-investimento-em-educacao-1",
+      "resumo": "",
+      "publicado_em": "2026-09-29T13:13:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
       "id": "bcf64ebdfae7257b",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -546,6 +609,83 @@
         "simples nacional"
       ],
       "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "226d43629613213b",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Sessão de Julgamento em 29/9",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/sessao-de-julgamento-em-29-9",
+      "resumo": "",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "9aa22ad0528b47a9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem paga o preço do delivery grátis?",
+      "link": "https://www.congressoemfoco.com.br/artigo/122706/quem-paga-o-preco-do-delivery-gratis",
+      "resumo": "Guerra de subsídios entre plataformas atrai consumidores com descontos, mas pode transferir custos para restaurantes e entregadores e pressionar a concorrência.",
+      "publicado_em": "2026-09-29T14:29:38-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "8bf1ba7dbbda92e7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE manda retirar montagem com Lula, Flávio e Neymar feita com IA",
+      "link": "https://www.congressoemfoco.com.br/noticia/122704/tse-manda-retirar-montagem-com-lula-flavio-e-neymar-feita-com-ia",
+      "resumo": "Nunes Marques manda remover publicação com Lula, Flávio e Neymar após perícia apontar montagem feita com IA sem sinalização.",
+      "publicado_em": "2026-09-29T14:21:24-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "505cdad443ada12f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nova lei transfere repasse de loterias ao Comitê Brasileiro de Clubes",
+      "link": "https://www.congressoemfoco.com.br/noticia/122702/nova-lei-transfere-repasse-de-loterias-ao-comite-brasileiro-de-clubes",
+      "resumo": "Percentual antes destinado à Fenaclubes deverá financiar a capacitação de gestores de clubes esportivos.",
+      "publicado_em": "2026-09-29T14:07:49-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "ab34d6dcc4a4e93b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Real Time: Celina Leão tem 47% contra 26% de Leandro Grass no DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122700/real-time-celina-leao-tem-47-contra-26-de-leandro-grass-no-df",
+      "resumo": "Pesquisa eleitoral indica vantagem da governadora do DF contra candidato do PT, ultrapassando 50% de intenções de votos válidos.",
+      "publicado_em": "2026-09-29T13:47:20-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
     },
     {
       "id": "1f60c3d347fdcced",
@@ -720,6 +860,104 @@
         "decisao"
       ],
       "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "cee2dc001fdfafec",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Reta final do 4º Enac: inscrições terminam nesta terça (29/9), às 16h",
+      "link": "https://www.cnj.jus.br/reta-final-do-4o-enac-inscricoes-terminam-nesta-terca-29-9-as-16h/",
+      "resumo": "Terminam, nesta terça-feira (29/9), o prazo para as inscrições do 4º Exame Nacional dos Cartórios (Enac). Quem quiser se candidatar terá de preencher o formulário de inscrições no portal da Fundação Getúlio Vargas, até as 16h. A prova, em etapa única e do tipo objetiva, será aplicada no dia 22",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "1018eb705ad369eb",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Novo manual busca combater o capacitismo e qualificar decisões na Justiça",
+      "link": "https://www.cnj.jus.br/novo-manual-busca-combater-o-capacitismo-e-qualificar-decisoes-na-justica/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) lançou, nesta terça-feira (29/9), o Manual Prático de Atuação e Julgamento à Luz da Convenção sobre os Direitos das Pessoas com Deficiência. Apresentado durante a abertura da 15ª Sessão Ordinária de 2026, o documento reúne referências jurídicas e práticas para or",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "61d65c5659bdaffb",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ apresenta medidas para ampliar a segurança e a transparência dos precatórios",
+      "link": "https://www.cnj.jus.br/cnj-apresenta-medidas-para-ampliar-a-seguranca-e-a-transparencia-dos-precatorios/",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, apresentou na sessão plenária desta terça-feira (28/9) diversas providências que têm sido adotadas para a construção da política nacional para o tratamento adequado dos precatórios. Segundo Fachin, três propostas normativas t",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "precatorio"
+      ],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "6d6f223366af50fc",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Fachin apresenta balanço do primeiro ano de gestão no CNJ",
+      "link": "https://www.cnj.jus.br/fachin-apresenta-balanco-do-primeiro-ano-de-gestao-no-cnj/",
+      "resumo": "Na 15ª Sessão Ordinária de 2026, realizada nesta terça-feira (28/9), o presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Edson Fachin, apresentou um balanço do primeiro ano de sua gestão. “Este Plenário foi, ao longo deste primeiro ano, lugar de muito tra",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "b2f2cce428715b48",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Proposta prevê registro de mortes ocorridas em ações de órgãos de segurança",
+      "link": "https://www.cnj.jus.br/proposta-preve-registro-de-mortes-ocorridas-em-acoes-de-orgaos-de-seguranca/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) apresentou, nesta terça-feira (29/9), proposta de resolução que cria regras nacionais para que os registros de óbito que ocorram em decorrência ou no contexto de uma ação de órgãos de segurança pública possam indicar esse fato quando houver decisão judicial ou ou",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 76,
+      "tags": [
+        "decisao",
+        "resolucao",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "59c406b033898bed",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Disseminando Boas Práticas: equidade racial é tema da 32ª edição do evento virtual do CNJ",
+      "link": "https://www.cnj.jus.br/disseminando-boas-praticas-equidade-racial-e-tema-da-32a-edicao-do-evento-virtual-do-cnj/",
+      "resumo": "Quatro boas práticas do Poder Judiciário voltadas à promoção da equidade racial serão apresentadas nesta quarta-feira (30/9), das 16h às 18h, na 32ª edição do evento Disseminando Boas Práticas do Poder Judiciário. O encontro é promovido pelo Conselho Nacional de Justiça (CNJ), para estimular a troca",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
     },
     {
       "id": "c36ddde8887e8de2",
