@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-30T15:39:36-03:00",
+  "gerado_em": "2026-09-30T17:31:33-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,7 +173,7 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 27,
+      "itens": 26,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -277,6 +277,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
+      "id": "9b98b12f177e96ff",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Gestão do biênio 2024-2026 defende competência da Justiça do Trabalho, amplia segundo grau e fomenta inovações; confira as realizações",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/gestao-do-bienio-2024-2026-defende-competencia-da-justica-do-trabalho-amplia-segundo-grau-e-fomenta-inovacoes-confira-as-realizacoes",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
     },
     {
       "id": "7e271cf68918da0a",
@@ -390,6 +404,38 @@
       "coletado_em": "2026-09-27T12:31:40-03:00"
     },
     {
+      "id": "af3f76a3e55353a4",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Provedores de internet questionam no STF regras da Anatel sobre certificação de empresas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/provedores-de-internet-questionam-no-stf-regras-da-anatel-sobre-certificacao-de-empresas/",
+      "resumo": "Abrint contesta exigência de Atesto de Regularidade e atuação de entidade privada na análise de documentos",
+      "publicado_em": "2026-09-30T17:00:06-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "8755b6c53f84d4d1",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Decano destaca imparcialidade e serenidade do ministro Fachin no primeiro ano à frente do STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/decano-do-stf-destaca-imparcialidade-e-serenidade-do-ministro-fachin-no-primeiro-ano-a-frente-do-stf/",
+      "resumo": "Em homenagem no Plenário, ministro Gilmar Mendes destacou a trajetória e o perfil institucional do presidente da Corte e ressaltou resultados do primeiro ano de gestão",
+      "publicado_em": "2026-09-30T16:01:49-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenagem"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
       "id": "2887d141a48cdb71",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -452,6 +498,23 @@
         "adi"
       ],
       "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "d1e70670d1a75d96",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Renzo Braz toma posse como senador por Minas Gerais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/30/renzo-braz-toma-posse-como-senador-por-minas-gerais",
+      "resumo": "",
+      "publicado_em": "2026-09-30T16:44:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 0,
+      "tags": [
+        "posse",
+        "toma posse"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
     },
     {
       "id": "6f5aa6a2240c7c30",
@@ -544,6 +607,40 @@
       "coletado_em": "2026-09-30T13:40:04-03:00"
     },
     {
+      "id": "8d0cd3d1cf795964",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal intercepta 366 kg de cocaína no Porto de Santos",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-intercepta-366-kg-de-cocaina-no-porto-de-santos",
+      "resumo": "",
+      "publicado_em": "2026-09-30T17:04:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 18,
+      "tags": [
+        "cocaina"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "c926287456129187",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs-1",
+      "resumo": "",
+      "publicado_em": "2026-09-30T15:50:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
       "id": "bb8a5d4e64f78243",
       "fonte_id": "pgfn",
       "fonte_nome": "PGFN",
@@ -570,6 +667,34 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "a89312c55cf0ca31",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Fórum debate atualizações para procedimento do Termo Circunstanciado pela Polícia Militar",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forum-debate-atualizacoes-para-procedimento-do-termo-circunstanciado-pela-policia-militar",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "1f1fe2f15a476805",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Representantes do ENA-RJ participam de reunião do Eixo Tecnológico no Civitas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/representantes-do-ena-rj-participam-de-reuniao-do-eixo-tecnologico-no-civitas",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
     },
     {
       "id": "e78c742ac4ce4b8b",
@@ -736,6 +861,89 @@
       "coletado_em": "2026-09-30T13:40:04-03:00"
     },
     {
+      "id": "70ae17e8fd24bf0c",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita publica novo balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/receita-publica-novo-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "b1cd8e07c627fe7d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Missão vai ao STF contra vedação de impulsionamento nas eleições",
+      "link": "https://www.congressoemfoco.com.br/noticia/122779/missao-vai-ao-stf-contra-vedacao-de-impulsionamento-nas-eleicoes",
+      "resumo": "Partido questiona regra do TSE que restringe o alcance automático de propaganda eleitoral nas redes sociais durante a campanha.",
+      "publicado_em": "2026-09-30T17:20:32-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "4a2e52fa18e6c9e4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Missão aciona TSE para pedir participação de Renan no debate da Globo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122773/missao-aciona-tse-para-pedir-participacao-de-renan-no-debate-da-globo",
+      "resumo": "Ação contém pedido de liminar para que a emissora seja obrigada a incluir Renan no encontro e permitir o credenciamento de sua equipe.",
+      "publicado_em": "2026-09-30T16:37:44-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "liminar",
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "14d4366a9144ff59",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula não participará de debate da Globo; Flávio confirma presença",
+      "link": "https://www.congressoemfoco.com.br/noticia/122772/lula-nao-participara-de-debate-da-globo-flavio-confirma-presenca",
+      "resumo": "Presidente repetirá estratégia adotada nos debates anteriores e concederá entrevista a podcast durante o encontro na Globo.",
+      "publicado_em": "2026-09-30T16:23:53-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "5910766092127590",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ex-senador Rodrigo Pacheco toma posse como ministro do TCU",
+      "link": "https://www.congressoemfoco.com.br/noticia/122771/ex-senador-rodrigo-pacheco-toma-posse-como-ministro-do-tcu",
+      "resumo": "Pacheco assume cadeira deixada por Bruno Dantas e poderá permanecer no tribunal até os 75 anos.",
+      "publicado_em": "2026-09-30T16:03:50-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 10,
+      "tags": [
+        "cade",
+        "posse",
+        "toma posse"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
       "id": "7389407460f956ae",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -748,6 +956,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
+      "id": "0c07580d2cfea486",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O mau exemplo: Atividade dos EUA eleva tensões em nossa região",
+      "link": "https://www.congressoemfoco.com.br/artigo/122764/o-mau-exemplo-atividade-dos-eua-eleva-tensoes-em-nossa-regiao",
+      "resumo": "O mau exemplo dos EUA e seu apetite por recursos estimulam a postura agressiva da Argentina nas Malvinas, gerando tensões militares que ameaçam a paz na América Latina.",
+      "publicado_em": "2026-09-30T14:38:14-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
     },
     {
       "id": "6ec373815a6e2b9f",
@@ -810,6 +1034,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
+      "id": "e12d6398dd1a7822",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "É proibido beber? Veja quais Estados adotam Lei Seca nas eleições",
+      "link": "https://www.congressoemfoco.com.br/noticia/122758/e-proibido-beber-veja-quais-estados-adotam-lei-seca-nas-eleicoes",
+      "resumo": "Regras variam pelo país, com proibições estaduais e restrições específicas em municípios e zonas eleitorais.",
+      "publicado_em": "2026-09-30T13:28:24-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
     },
     {
       "id": "3117c58035a328d2",
@@ -1085,6 +1323,86 @@
         "advogado"
       ],
       "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "7b5571c13b832a63",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ e Ministério da Defesa articulam parceria para ampliar a Justiça Itinerante em regiões de difícil acesso",
+      "link": "https://www.cnj.jus.br/cnj-e-ministerio-da-defesa-articulam-parceria-para-ampliar-a-justica-itinerante-em-regioes-de-dificil-acesso/",
+      "resumo": "Representantes do Conselho Nacional de Justiça (CNJ) e do Ministério da Defesa se reuniram, na segunda-feira (28/9), para articular uma parceria estratégica voltada à ampliação das ações de justiça itinerante e cidadania em regiões de difícil acesso do território nacional, com especial atenção à Ama",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "b7affd09132fd802",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Escola Judicial do TRT-RS abre chamada de artigos científicos sobre o tema Mulheres Juristas",
+      "link": "https://www.cnj.jus.br/escola-judicial-do-trt-rs-abre-chamada-de-artigos-cientificos-sobre-o-tema-mulheres-juristas/",
+      "resumo": "A Escola Judicial do TRT-RS (EJud4) lançou edital para o recebimento de artigos inéditos para compor o volume 8/2026 de sua revista científica. A publicação é reconhecida no estrato A4 da Capes nas áreas de Direito, Filosofia, Ciência Política e Relações Internacionais. A nova edição traz como tema ",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "c07c33d23d431e33",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto extingue vestibular e garante acesso universal a universidades públicas",
+      "link": "https://www.camara.leg.br/noticias/1307505-projeto-extingue-vestibular-e-garante-acesso-universal-a-universidades-publicas",
+      "resumo": "",
+      "publicado_em": "2026-09-30T17:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "a271fb74cb131f92",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê indenização por atraso salarial e reforça combate ao assédio no trabalho",
+      "link": "https://www.camara.leg.br/noticias/1304572-projeto-preve-indenizacao-por-atraso-salarial-e-reforca-combate-ao-assedio-no-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-09-30T16:35:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "71fe7b1395f4361c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Proposta exige pagamento em dia de profissionais do SUS para liberação de repasses a terceirizadas",
+      "link": "https://www.camara.leg.br/noticias/1307509-proposta-exige-pagamento-em-dia-de-profissionais-do-sus-para-liberacao-de-repasses-a-terceirizadas",
+      "resumo": "",
+      "publicado_em": "2026-09-30T16:03:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T17:31:33-03:00"
     },
     {
       "id": "f95d7e302ae91928",
@@ -2453,7 +2771,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Adoção internacional é retomada na Bahia",
       "link": "https://www.cnj.jus.br/adocao-internacional-e-retomada-na-bahia/",
-      "resumo": "O Tribunal de Justiça da Bahia (TJBA) retoma a atuação em procedimentos de adoção internacional, depois de seis anos sem registro dessa modalidade de adoção no estado. Quatro irmãos acolhidos institucionalmente iniciam o processo de aproximação com dois casais franceses habilitados para adoção.   A ",
+      "resumo": "O Tribunal de Justiça da Bahia (TJBA) retoma a atuação em procedimentos de adoção internacional, depois de seis anos sem registro dessa modalidade de adoção no estado. Quatro irmãos acolhidos institucionalmente iniciam o processo de aproximação com dois casais franceses habilitados para adoção. A re",
       "publicado_em": "2026-09-29T12:00:00-03:00",
       "dia": "2026-09-29",
       "data_estimada": true,
