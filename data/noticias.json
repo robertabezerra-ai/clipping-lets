@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-30T13:40:04-03:00",
+  "gerado_em": "2026-09-30T15:39:36-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,50 @@
   ],
   "noticias": [
     {
+      "id": "7b7d73e21f615e2a",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Feriados de outubro suspendem atendimento em unidades da 2ª Região",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/feriados-de-outubro-suspendem-atendimento-em-unidades-da-2a-regiao",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
+      "id": "c687859451ed6ca9",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Boletim reúne resultados e projetos do TRT-2 em patrimônio, logística e sustentabilidade",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/boletim-reune-resultados-e-projetos-do-trt-2-em-patrimonio-logistica-e-sustentabilidade",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
+      "id": "7e271cf68918da0a",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "SDC decide sobre dissídio entre SEAAC de São José dos Campos e Urbam",
+      "link": "https://trt15.jus.br/noticia/2026/sdc-decide-sobre-dissidio-entre-seaac-de-sao-jose-dos-campos-e-urbam",
+      "resumo": "SDC decide sobre dissídio entre SEAAC de São José dos Campos e Urbam anasiqueira Qua, 30/09/2026 - 14:53 SDC decide sobre dissídio entre SEAAC de São José dos Campos e Urbam Conteúdo da Notícia A Seção Especializada em Dissídios Coletivos do Tribunal Regional do Trabalho da 15ª Região julgou, na ses",
+      "publicado_em": "2026-09-30T14:53:13-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decide"
+      ],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
       "id": "adc09677fba17041",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -327,6 +371,39 @@
         "acao"
       ],
       "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "ed872b74d7e7ffdd",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Encerramento das comemorações do centenário de nascimento do poeta que se transformou em palavras",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115458&pagina=1",
+      "resumo": "Homenagem no Palácio da Justiça.\n \n\tHoje (30), serão realizadas as homenagens que encerram as comemorações do centenário de nascimento de Paulo Bomfim, escritor, jornalista, cronista",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 4,
+      "tags": [
+        "homenagem",
+        "comemora"
+      ],
+      "coletado_em": "2026-09-27T12:31:40-03:00"
+    },
+    {
+      "id": "2887d141a48cdb71",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF manda investigar ataques contra símbolos religiosos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-manda-investigar-ataques-contra-simbolos-religiosos/",
+      "resumo": "Decisão do ministro Flávio Dino determina que Polícia Federal apure episódios de intolerância religiosa em diferentes partes do país",
+      "publicado_em": "2026-09-30T14:32:26-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
     },
     {
       "id": "d7d3e6e83afed942",
@@ -467,6 +544,20 @@
       "coletado_em": "2026-09-30T13:40:04-03:00"
     },
     {
+      "id": "bb8a5d4e64f78243",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "Atraso no débito automático exige atenção de contribuintes nesta quarta (30)",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/atraso-no-debito-automatico-exige-atencao-de-contribuintes-nesta-quarta-30",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
       "id": "0133cf759a36355d",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -481,6 +572,66 @@
       "coletado_em": "2026-09-30T13:40:04-03:00"
     },
     {
+      "id": "e78c742ac4ce4b8b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Resultado das solicitações de reaplicação do Enamed 2026 está disponível",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/resultado-das-solicitacoes-de-reaplicacao-do-enamed-2026-esta-disponivel",
+      "resumo": "",
+      "publicado_em": "2026-09-30T15:15:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
+      "id": "b4142f08c652a09c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Institutos federais ofertam Exame de Proficiência em Língua Inglesa",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/institutos-federais-ofertam-exame-de-proficiencia-em-lingua-inglesa",
+      "resumo": "",
+      "publicado_em": "2026-09-30T13:52:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
+      "id": "d7e1879916239e1d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Quantidade de gado diminui e produção aumenta na agropecuária, mostra IBGE",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/quantidade-do-gado-diminui-e-produtividade-aumenta-na-agropecuaria-mostra-ibge",
+      "resumo": "",
+      "publicado_em": "2026-09-30T13:50:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "37437564a6ecd9b2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Setembro Vermelho: saiba quais hábitos podem evitar 80% das doenças do coração",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/habitos-saudaveis-acompanhamento-medico-e-controle-de-fatores-de-risco-podem-evitar-80-das-doencas-do-coracao",
+      "resumo": "",
+      "publicado_em": "2026-09-30T13:34:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
       "id": "71b62ecdfc7a7027",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -493,6 +644,34 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "2d82e5b32287026e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "TV Brasil estreia segunda temporada do seriado independente Aprender a Sonhar nesta quinta (1º)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/tv-brasil-estreia-segunda-temporada-do-seriado-independente-aprender-a-sonhar-nesta-quinta-1o-10",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:40:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
+      "id": "b19a612920534a4d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Estados de São Paulo e Rio têm os maiores volumes de crédito garantidos pela União",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/estados-sao-paulo-rio-tem-maiores-operacoes-credito-garantidas-pela-uniao",
+      "resumo": "",
+      "publicado_em": "2026-09-30T11:55:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
     },
     {
       "id": "1832efbe31508fbb",
@@ -523,20 +702,6 @@
         "regulamenta",
         "acao"
       ],
-      "coletado_em": "2026-09-30T13:40:04-03:00"
-    },
-    {
-      "id": "d7e1879916239e1d",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Quantidade de gado diminui e produção aumenta na agropecuária, mostra IBGE",
-      "link": "https://agenciagov.ebc.com.br/noticias/202609/quantidade-do-gado-diminui-e-produtividade-aumenta-na-agropecuaria-mostra-ibge",
-      "resumo": "",
-      "publicado_em": "2026-09-30T10:30:00-03:00",
-      "dia": "2026-09-30",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
       "coletado_em": "2026-09-30T13:40:04-03:00"
     },
     {
@@ -571,6 +736,82 @@
       "coletado_em": "2026-09-30T13:40:04-03:00"
     },
     {
+      "id": "7389407460f956ae",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula diz que Nikolas só faz fake news: \"um imbecil de marca maior\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122765/lula-diz-que-nikolas-so-faz-fake-news--um-imbecil-de-marca-maior",
+      "resumo": "Presidente acusou o deputado do PL de \"passar o tempo inteiro fazendo fake news\".",
+      "publicado_em": "2026-09-30T14:52:33-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
+      "id": "6ec373815a6e2b9f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ministra manda Nikolas apagar vídeo de Lula sobre \"toque\" em mulheres",
+      "link": "https://www.congressoemfoco.com.br/noticia/122763/ministra-manda-nikolas-apagar-video-de-lula-sobre-toque-em-mulheres",
+      "resumo": "Estela Aranha diz que deputado ultrapassou limite da crítica ao deslocar declaração sobre exames médicos para o campo de delitos contra menores.",
+      "publicado_em": "2026-09-30T14:13:33-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
+      "id": "6bc8ac1fb6277231",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE tem registro de doação de R$ 10 trilhões a candidato a deputado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122762/tse-tem-registro-de-doacao-de-r-10-trilhoes-a-candidato-a-deputado",
+      "resumo": "Doação cadastrada para candidato a deputado estadual em SC ultrapassa o dobro do PIB da Argentina.",
+      "publicado_em": "2026-09-30T14:04:12-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
+      "id": "35eb6a6fdc36af36",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Justiça acata pedido da AGU e exige mais proteção a menores no Discord",
+      "link": "https://www.congressoemfoco.com.br/noticia/122761/justica-acata-pedido-da-agu-e-exige-mais-protecao-a-menores-no-discord",
+      "resumo": "Plataforma deverá comprovar mecanismos de segurança e controle parental; descumprimento pode resultar em multa diária de R$ 100 mil.",
+      "publicado_em": "2026-09-30T14:00:27-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
+      "id": "79ca1a6efe6e087d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula diz que Flávio nunca trabalhou: \"apoiado pelo crime desde os 21\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122759/lula-diz-que-flavio-nunca-trabalhou--apoiado-pelo-crime-desde-os-21",
+      "resumo": "Segundo o presidente, senador teria iniciado carreira política no Rio de Janeiro com apoio de facções e milícias.",
+      "publicado_em": "2026-09-30T13:39:58-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
+    },
+    {
       "id": "3117c58035a328d2",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -583,6 +824,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "0457b67db65ad2c4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Perfil partidário da Câmara a partir de 2027",
+      "link": "https://www.congressoemfoco.com.br/artigo/122754/perfil-partidario-da-camara-a-partir-de-2027",
+      "resumo": "Estimativas para 2027 apontam manutenção da correlação de forças na Câmara, com PP/União como maior bancada potencial e fortalecimento dos partidos de centro.",
+      "publicado_em": "2026-09-30T12:50:07-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
     },
     {
       "id": "805ce6ae99be97ee",
@@ -630,6 +887,20 @@
         "acao"
       ],
       "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "4380e0c7f3ec3e2b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula prioriza maiores colégios eleitorais e deixa de ir a 13 Estados",
+      "link": "https://www.congressoemfoco.com.br/noticia/122742/lula-prioriza-maiores-colegios-eleitorais-e-deixa-de-ir-a-13-estados",
+      "resumo": "Presidente passou pelos cinco maiores colégios eleitorais, reforçou redutos e também foi a Estados onde enfrenta disputa mais difícil; 13 ficaram fora da agenda do primeiro turno.",
+      "publicado_em": "2026-09-30T11:21:07-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
     },
     {
       "id": "7e344830bf46d038",
@@ -814,6 +1085,20 @@
         "advogado"
       ],
       "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "f95d7e302ae91928",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto aumenta penas para crimes de envenenamento contra crianças e vulneráveis",
+      "link": "https://www.camara.leg.br/noticias/1304588-projeto-aumenta-penas-para-crimes-de-envenenamento-contra-criancas-e-vulneraveis",
+      "resumo": "",
+      "publicado_em": "2026-09-30T13:53:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T15:39:36-03:00"
     },
     {
       "id": "5e9584a767d43d01",
@@ -3763,23 +4048,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-28T15:28:51-03:00"
-    },
-    {
-      "id": "ed872b74d7e7ffdd",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Encerramento das comemorações do centenário de nascimento do poeta que se transformou em palavras",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115458&pagina=1",
-      "resumo": "Homenagem será no Palácio da Justiça, na quarta (30).\n \n\tNa próxima quarta-feira (30), serão realizadas as homenagens que encerram as comemorações do centenário de nascimento",
-      "publicado_em": "2026-09-27T12:00:00-03:00",
-      "dia": "2026-09-27",
-      "data_estimada": true,
-      "score": 4,
-      "tags": [
-        "homenagem",
-        "comemora"
-      ],
-      "coletado_em": "2026-09-27T12:31:40-03:00"
     },
     {
       "id": "3d9481d70941b6cd",
