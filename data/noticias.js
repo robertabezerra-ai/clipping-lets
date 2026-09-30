@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-29T20:17:23-03:00",
+  "gerado_em": "2026-09-30T13:40:04-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -251,6 +251,627 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "adc09677fba17041",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 e MPT-15 ratificam parceria de combate ao assédio eleitoral nas relações de trabalho",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-e-mpt-15-ratificam-parceria-de-combate-ao-assedio-eleitoral-nas-relacoes-de",
+      "resumo": "TRT-15 e MPT-15 ratificam parceria de combate ao assédio eleitoral nas relações de trabalho anasiqueira Qua, 30/09/2026 - 09:18 TRT-15 e MPT-15 ratificam parceria de combate ao assédio eleitoral nas relações de trabalho Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região e o Ministério",
+      "publicado_em": "2026-09-30T09:18:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "4b09c70778f332fd",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP habilita eproc para peticionamento de requisitórios de precatórios e RPVs",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115563&pagina=1",
+      "resumo": "Uso do novo sistema acompanha cronograma do ciclo 3.\n \n\tO peticionamento de requisitórios de precatórios e de Requisições de Pequeno Valor (RPVs) foi habilitado no",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "precatorio"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "c5e4110a156f13dd",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "APMTJ outorga Medalha Regente Feijó a civis e militares",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115559&pagina=1",
+      "resumo": "Reconhecimento de contribuições à PM no TJSP.\n \n\tA Assessoria Policial Militar do Tribunal de Justiça de São Paulo (APMTJ) realizou, ontem (29), a outorga da Medalha",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "medalha"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "4b06088b499f83f2",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Reuniões da Comissão Regional de Soluções Fundiárias debatem ocupações no Estado de São Paulo",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115560&pagina=1",
+      "resumo": "Partes buscam soluções pacíficas em processos fundiários. \n \n\tAo longo do mês de setembro, a Comissão Regional de Soluções Fundiárias do Tribunal de Justiça de São",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "d72f40bf657a94ad",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Setembro Vermelho previne doenças cardiovasculares",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115360&pagina=1",
+      "resumo": "Campanha promove estilo de vida saudável.\n \n\tNo mês de setembro, o Tribunal de Justiça de São Paulo endossa a campanha Setembro Vermelho, voltada à conscientização",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "d7d3e6e83afed942",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Centro de Estudos Constitucionais do STF consolida propostas sobre sistema de Justiça",
+      "link": "https://noticias.stf.jus.br/postsnoticias/centro-de-estudos-constitucionais-do-stf-consolida-propostas-sobre-sistema-de-justica/",
+      "resumo": "Contribuições da sociedade civil e de especialistas serão analisadas por seis subgrupos temáticos",
+      "publicado_em": "2026-09-30T12:55:42-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "18f9583050df1129",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF amplia presença em debates mundiais no primeiro ano da gestão do ministro Edson Fachin",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-amplia-presenca-em-debates-mundiais-no-primeiro-ano-da-gestao-do-ministro-edson-fachin/",
+      "resumo": "Corte associa julgamentos de repercussão nacional com ações de cooperação internacional em defesa da democracia e dos direitos fundamentais",
+      "publicado_em": "2026-09-30T11:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "29841daa71d0d9cf",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quarta-feira (30)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-30/",
+      "resumo": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "publicado_em": "2026-09-30T09:15:10-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "6f5aa6a2240c7c30",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Nova lei reduz tributos de resseguradoras sediadas no Brasil",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/nova-lei-reduz-tributos-de-resseguradoras-sediadas-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:55:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "4a74ce6507fab26e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Confira o que pode e o que não pode até o dia da votação",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/30/confira-o-que-pode-e-o-que-nao-pode-ate-o-dia-da-votacao",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "6c22f7329bce09c0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei destina arrecadação das loterias para o Comitê Brasileiro de Clubes",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/lei-destina-arrecadacao-das-loterias-para-o-comite-brasileiro-de-clubes",
+      "resumo": "",
+      "publicado_em": "2026-09-30T10:54:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "d151ee17a8f4763a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "MP do Desenrola 3.0 já tramita no Congresso",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/mp-do-desenrola-3-0-ja-tramita-no-congresso",
+      "resumo": "",
+      "publicado_em": "2026-09-30T09:57:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "2d7e435b60a5c1f6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições: Senado tem 54 vagas em disputa neste ano",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/09/eleicoes-senado-tem-54-vagas-em-disputa-neste-ano",
+      "resumo": "",
+      "publicado_em": "2026-09-30T09:31:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "1710afeb74e89f03",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sugestão legislativa prevê redução de FGTS para aposentados que trabalham",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/09/sugestao-legislativa-preve-reducao-de-fgts-para-aposentados-que-trabalham",
+      "resumo": "",
+      "publicado_em": "2026-09-30T08:41:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "fgts"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "0133cf759a36355d",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP reúne setor de transporte de cargas para discutir enfrentamento ao crime no RJ",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-reune-setor-de-transporte-de-cargas-para-discutir-enfrentamento-ao-crime-no-rj",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "71b62ecdfc7a7027",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Internet: entenda a diferença entre pequenos e grandes provedores",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/internet-entenda-a-diferenca-entre-pequenos-e-grandes-provedores",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:51:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "1832efbe31508fbb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Justiça e Fazenda solicitam derrubada de 5.209 sites de bets ilegais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/justica-e-fazenda-solicitam-derrubada-de-5-209-sites-de-bets-ilegais",
+      "resumo": "",
+      "publicado_em": "2026-09-30T10:45:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "f4d872bd6854ce73",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MJSP regulamenta notificação de crimes contra crianças em plataformas digitais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/mjsp-regulamenta-notificacao-de-crimes-contra-criancas-em-plataformas-digitais",
+      "resumo": "",
+      "publicado_em": "2026-09-30T10:34:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "d7e1879916239e1d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Quantidade de gado diminui e produção aumenta na agropecuária, mostra IBGE",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/quantidade-do-gado-diminui-e-produtividade-aumenta-na-agropecuaria-mostra-ibge",
+      "resumo": "",
+      "publicado_em": "2026-09-30T10:30:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "ffdf0b18d8a22ac8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Votação popular do 17º Festival de Música Rádio Nacional começa nesta quinta (1°)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/votacao-popular-do-17o-festival-de-musica-radio-nacional-comeca-nesta-quinta-feira-1deg",
+      "resumo": "",
+      "publicado_em": "2026-09-30T10:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "581415c95a1a92ee",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Saldo de operações de crédito garantidas pela União atinge R$ 353,64 bilhões no 2º quadrimestre de 2026",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/saldo-de-operacoes-de-credito-garantidas-pela-uniao-atinge-r-353-64-bilhoes-no-2o-quadrimestre-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "3117c58035a328d2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula diz que presidencialismo brasileiro foi \"sequestrado\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122757/lula-diz-que-presidencialismo-brasileiro-foi-sequestrado",
+      "resumo": "Presidente criticou a influência do Congresso sobre agências reguladoras e classificou fundo partidário como \"promiscuidade\".",
+      "publicado_em": "2026-09-30T13:08:29-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "805ce6ae99be97ee",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Soraya Thronicke propõe crime de LGBTIcídio com pena de até 40 anos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122750/soraya-thronicke-propoe-crime-de-lgbticidio-com-pena-de-ate-40-anos",
+      "resumo": "Projeto também estabelece penas mais severas para lesão corporal, ameaça, perseguição e induzimento ou auxílio ao suicídio.",
+      "publicado_em": "2026-09-30T12:24:24-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "6db2d1866bb94ce2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A MP das bets e os limites da canetada",
+      "link": "https://www.congressoemfoco.com.br/artigo/122747/a-mp-das-bets-e-os-limites-da-canetada",
+      "resumo": "Proibição das bets reacende debate sobre o uso de medidas provisórias em um cenário no qual parte expressiva das iniciativas do governo perde eficácia sem votação.",
+      "publicado_em": "2026-09-30T12:14:40-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "medidas provisorias",
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "01247f158f1164bb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Piá de bosta\": Nikolas diz que críticas de Lula e Janja são elogios",
+      "link": "https://www.congressoemfoco.com.br/noticia/122743/pia-de-bosta--nikolas-diz-que-criticas-de-lula-e-janja-sao-elogios",
+      "resumo": "Deputado afirmou que Lula estaria tentando se afastar da própria declaração sobre mulheres \"tomarem toque\".",
+      "publicado_em": "2026-09-30T11:29:04-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "7e344830bf46d038",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça manda apagar posts que atribuem ao PT troca de padroeira",
+      "link": "https://www.congressoemfoco.com.br/noticia/122740/mendonca-manda-apagar-posts-que-atribuem-ao-pt-troca-de-padroeira",
+      "resumo": "Perfis publicaram capa falsa da Veja sobre projeto que retiraria santa da condição de Padroeira do Brasil.",
+      "publicado_em": "2026-09-30T11:05:01-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "5bd92826964a7cda",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quando a fé governa, a democracia ajoelha",
+      "link": "https://www.congressoemfoco.com.br/artigo/122739/quando-a-fe-governa-a-democracia-ajoelha",
+      "resumo": "O Estado laico não combate religiões; impede que um credo se transforme em Autoridade oficial e submeta cidadãos a uma verdade incontestável.",
+      "publicado_em": "2026-09-30T10:51:18-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "1f700d57b54ff8c6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino manda PF apurar ataques a imagens católicas e de matriz africana",
+      "link": "https://www.congressoemfoco.com.br/noticia/122737/dino-manda-pf-apurar-ataques-a-imagens-catolicas-e-de-matriz-africana",
+      "resumo": "Ministro reúne relatos de vandalismo contra símbolos católicos e de religiões de matriz africana e requisita abertura de inquérito.",
+      "publicado_em": "2026-09-30T10:16:14-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "8a47a1ffc4e4c2da",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça vota por manter remoção de posts sobre Flávio e Nossa Senhora",
+      "link": "https://www.congressoemfoco.com.br/noticia/122736/mendonca-vota-por-manter-remocao-de-posts-sobre-flavio-e-nossa-senhora",
+      "resumo": "Ministro nega censura e diz que a ordem combate uma alegação falsa sobre Flávio: \"Nossa Senhora Aparecida não estava em julgamento\". Julgamento virtual prossegue com o voto dos demais integrantes do TSE.",
+      "publicado_em": "2026-09-30T09:49:32-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "f0e75b14227f354a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro usa \"piá\" para elogiar Nikolas após críticas de Janja",
+      "link": "https://www.congressoemfoco.com.br/noticia/122734/flavio-bolsonaro-usa-pia-para-elogiar-nikolas-apos-criticas-de-janja",
+      "resumo": "Deputado agradeceu ao senador, que apostou que o aliado será novamente o mais votado do país para a Câmara.",
+      "publicado_em": "2026-09-30T09:21:47-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "519cb85ade2b2602",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Carro de Duarte Jr. é atingido por tiros durante campanha no Maranhão",
+      "link": "https://www.congressoemfoco.com.br/noticia/122733/carro-de-duarte-jr-e-atingido-por-tiros-durante-campanha-no-maranhao",
+      "resumo": "Deputado e motorista não se feriram. Segundo o boletim de ocorrência, um homem encapuzado chamou o parlamentar pelo nome e o ameaçou antes dos disparos.",
+      "publicado_em": "2026-09-30T08:46:07-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "536d2140be884dad",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governo pede bloqueio de 5.209 sites de bets após proibição no Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/122732/governo-pede-bloqueio-de-5-209-sites-de-bets-apos-proibicao-no-brasil",
+      "resumo": "Ofensiva inclui remoção de anúncios e de 186 aplicativos; Anatel já determinou a derrubada de 2.387 domínios.",
+      "publicado_em": "2026-09-30T08:29:38-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "c3dee197cf391780",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio reduz exposição enquanto Lula acelera agenda na reta final",
+      "link": "https://www.congressoemfoco.com.br/noticia/122731/flavio-reduz-exposicao-enquanto-lula-acelera-agenda-na-reta-final",
+      "resumo": "Candidato do PL esvazia compromissos públicos nos últimos dias antes da eleição, enquanto presidente percorre grandes centros eleitorais em busca de votos.",
+      "publicado_em": "2026-09-30T08:27:19-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "f4ee2fe24b29f816",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça libera postagem de Erika Hilton sobre Nossa Senhora Aparecida",
+      "link": "https://www.congressoemfoco.com.br/noticia/122730/mendonca-libera-postagem-de-erika-hilton-sobre-nossa-senhora-aparecida",
+      "resumo": "Ministro determinou que o X mantenha a mensagem da deputada no ar, mas preservou a ordem de remoção de outros conteúdos sobre Flávio Bolsonaro.",
+      "publicado_em": "2026-09-30T08:03:59-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "6fd756828160842f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nova lei do seguro rural entra em vigor e protege verba de cortes",
+      "link": "https://www.congressoemfoco.com.br/noticia/122729/nova-lei-do-seguro-rural-entra-em-vigor-e-protege-verba-de-cortes",
+      "resumo": "Sancionada por Lula, norma fixa prazos para indenizações, permite usar apólices como garantia de crédito e reformula o fundo para grandes perdas. Presidente vetou isenção de tributos federais sobre seguro e uso de Letras de Risco.",
+      "publicado_em": "2026-09-30T08:01:32-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "sancionada",
+        "prazo",
+        "entra em vigor"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "32d45a4a1a0ff397",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE decide hoje se mantém remoção de posts de Nossa Senhora Aparecida",
+      "link": "https://www.congressoemfoco.com.br/noticia/122727/tse-decide-hoje-se-mantem-remocao-de-posts-de-nossa-senhora-aparecida",
+      "resumo": "Plenário virtual analisará decisão de André Mendonça após ministros do STF darem ordens opostas sobre as publicações.",
+      "publicado_em": "2026-09-30T07:17:42-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "decisao",
+        "decide"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "d2c239cc119ad1a0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Richarlison ironiza Willer após bets: \"minha casa não quer devolver?\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122726/richarlison-ironiza-willer-apos-bets--minha-casa-nao-quer-devolver",
+      "resumo": "Jogador aproveitou publicação sobre tentativa do advogado de recuperar milhões perdidos em apostas para relembrar disputa por mansão de R$ 10 milhões em Angra dos Reis.",
+      "publicado_em": "2026-09-30T06:54:09-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "5e9584a767d43d01",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei muda regras do seguro rural e amplia benefícios para produtores",
+      "link": "https://www.camara.leg.br/noticias/1307528-nova-lei-muda-regras-do-seguro-rural-e-amplia-beneficios-para-produtores",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:10:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "8020d40ca8e38d58",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto inclui dificuldades geográficas como critério para o programa Pé-de-Meia",
+      "link": "https://www.camara.leg.br/noticias/1306018-projeto-inclui-dificuldades-geograficas-como-criterio-para-o-programa-pe-de-meia",
+      "resumo": "",
+      "publicado_em": "2026-09-30T10:38:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "0db10ee35f232527",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto obriga redes sociais a oferecer ferramenta de checagem colaborativa de fatos",
+      "link": "https://www.camara.leg.br/noticias/1307031-projeto-obriga-redes-sociais-a-oferecer-ferramenta-de-checagem-colaborativa-de-fatos",
+      "resumo": "",
+      "publicado_em": "2026-09-30T09:48:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "66d60c3f42599e59",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Proposta cria cadastro nacional e amplia penas contra o crime organizado",
+      "link": "https://www.camara.leg.br/noticias/1304356-proposta-cria-cadastro-nacional-e-amplia-penas-contra-o-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-09-30T08:27:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
       "id": "93560b987ed6d0ac",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -280,6 +901,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "7c659ce5a05bb88a",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Magistrados participam na Ejud-15 do curso “Gestão do Projeto Especializa & Equaliza: Desenvolvendo Lideranças na Secretaria Conjunta”",
+      "link": "https://trt15.jus.br/noticia/2026/magistrados-participam-na-ejud-15-do-curso-gestao-do-projeto-especializa-equaliza",
+      "resumo": "Magistrados participam na Ejud-15 do curso “Gestão do Projeto Especializa & Equaliza: Desenvolvendo Lideranças na Secretaria Conjunta” anasiqueira Ter, 29/09/2026 - 18:32 Magistrados participam na Ejud-15 do curso “Gestão do Projeto Especializa & Equaliza: Desenvolvendo Lideranças na Secretaria Conj",
+      "publicado_em": "2026-09-29T18:32:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
     },
     {
       "id": "3722f583411935bb",
@@ -686,6 +1321,67 @@ window.DADOS = {
       "coletado_em": "2026-09-29T20:17:23-03:00"
     },
     {
+      "id": "4ff4c0d5b8a0cdb8",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP regulamenta notificação de crimes contra crianças em plataformas digitais",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-regulamenta-notificacao-de-crimes-contra-criancas-em-plataformas-digitais",
+      "resumo": "",
+      "publicado_em": "2026-09-29T12:00:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "5cc1693a9161a08e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Emprego CLT no Brasil cresce 2,41% e acumula 1,13 milhão de novas contratações em 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/novo-caged-emprego-formal-gera-165-8-mil-vagas-em-agosto-e-acumula-1-13-milhao-de-postos-no-ano",
+      "resumo": "",
+      "publicado_em": "2026-09-29T21:40:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "4ee58acf28d3ff13",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Política de educação ambiental para estudantes do ensino infantil ao médio é instituída",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/instituida-politica-nacional-de-educacao-ambiental-escolar",
+      "resumo": "",
+      "publicado_em": "2026-09-29T20:04:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "5e6b3b178a4b7a0e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Do alto-mar à terra: telecomunicações conectam plataformas de petróleo a quem está em solo",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/do-alto-mar-a-terra-telecomunicacoes-conectam-operacoes-e-aproximam-equipes-mesmo-a-distancia",
+      "resumo": "",
+      "publicado_em": "2026-09-29T18:41:00-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
       "id": "a1bb9a1443a57196",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -728,20 +1424,6 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-29T20:17:23-03:00"
-    },
-    {
-      "id": "5cc1693a9161a08e",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Emprego CLT no Brasil cresce 2,41% e acumula 1,13 milhão de novas contratações em 2026",
-      "link": "https://agenciagov.ebc.com.br/noticias/202609/novo-caged-emprego-formal-gera-165-8-mil-vagas-em-agosto-e-acumula-1-13-milhao-de-postos-no-ano",
-      "resumo": "",
-      "publicado_em": "2026-09-29T14:38:00-03:00",
-      "dia": "2026-09-29",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-29T15:58:23-03:00"
     },
     {
       "id": "c69f6a33afc9d0a9",
@@ -883,6 +1565,70 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-09-29T15:58:23-03:00"
+    },
+    {
+      "id": "4419c4124fd9fc9b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Janja chama Nikolas de \"piá de bosta\" e esclarece fala sobre \"toque\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122725/janja-chama-nikolas-de-pia-de-bosta-e-esclarece-fala-sobre-toque",
+      "resumo": "Primeira-dama saiu em defesa de Lula após repercussão de declaração sobre exames médicos e afirmou que parlamentar precisa \"comer muito feijão\" para chegar ao \"dedinho do pé\" do presidente.",
+      "publicado_em": "2026-09-29T21:48:22-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "effb0ad51a3afb48",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula explica fala sobre \"toque\" em mulher e chama Nikolas de \"canalha\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122724/lula-explica-fala-sobre-toque-em-mulher-e-chama-nikolas-de-canalha",
+      "resumo": "Presidente disse que frase usada em vídeo pelo deputado foi uma comparação mal formulada entre a resistência masculina ao exame de próstata e a rotina de exames das mulheres.",
+      "publicado_em": "2026-09-29T21:41:45-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "cc31d14b67e014bc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Do tigrinho ao tigrão: Willer Tomaz aposta quase R$ 5 bilhões em bet",
+      "link": "https://www.congressoemfoco.com.br/noticia/122722/do-tigrinho-ao-tigrao-willer-tomaz-aposta-quase-r-5-bilhoes-em-bet",
+      "resumo": "Willer Tomaz registrou cifras bilionárias em jogos na Blaze e foi à Justiça tentar recuperar R$ 163 milhões. A ação foi proposta pelo amigo de Flávio Bolsonaro dois dias antes de seu escritório ser alvo de busca da PF.",
+      "publicado_em": "2026-09-29T20:18:04-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "d12dfffb528ff131",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Campanha de Lula aciona TSE contra Nikolas por posts sobre \"toque\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122721/campanha-de-lula-aciona-tse-contra-nikolas-por-posts-sobre-toque",
+      "resumo": "Coligação acusa Nikolas de tirar fala sobre exames médicos de contexto e atribuir conotação sexual ao trecho publicado.",
+      "publicado_em": "2026-09-29T20:12:15-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T13:40:04-03:00"
     },
     {
       "id": "c50f798dd54f2bca",
@@ -1422,7 +2168,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Adoção internacional é retomada na Bahia",
       "link": "https://www.cnj.jus.br/adocao-internacional-e-retomada-na-bahia/",
-      "resumo": "O Tribunal de Justiça da Bahia (TJBA) retoma a atuação em procedimentos de adoção internacional no Estado, depois de seis anos sem registro dessa modalidade de adoção no estado. Quatro irmãos acolhidos institucionalmente iniciam o processo de aproximação com dois casais franceses habilitados para ad",
+      "resumo": "O Tribunal de Justiça da Bahia (TJBA) retoma a atuação em procedimentos de adoção internacional, depois de seis anos sem registro dessa modalidade de adoção no estado. Quatro irmãos acolhidos institucionalmente iniciam o processo de aproximação com dois casais franceses habilitados para adoção.   A ",
       "publicado_em": "2026-09-29T12:00:00-03:00",
       "dia": "2026-09-29",
       "data_estimada": true,
@@ -66291,162 +67037,6 @@ window.DADOS = {
       "data_estimada": false,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "0a4891887193ed47",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "TRT-2 suspende processos relacionados a interrupção da prescrição e horas extras de professorado",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-suspende-processos-relacionados-a-interrupcao-da-prescricao-e-horas-extras-de-professorado",
-      "resumo": "",
-      "publicado_em": "2026-07-01T12:00:00-03:00",
-      "dia": "2026-07-01",
-      "data_estimada": true,
-      "score": 58,
-      "tags": [
-        "prescricao",
-        "processo"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "f2046fcf53ab78f6",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "TRT-2 confirma justa causa de motorista que abandonou caminhão e ofendeu superior",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-confirma-justa-causa-de-motorista-que-abandonou-caminhao-e-ofendeu-superior",
-      "resumo": "",
-      "publicado_em": "2026-07-01T12:00:00-03:00",
-      "dia": "2026-07-01",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "1c783859a9a9d6f3",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "PJe e outros sistemas ficam indisponíveis neste domingo (5/7)",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pje-e-outros-sistemas-ficam-indisponiveis-neste-domingo-5-7",
-      "resumo": "",
-      "publicado_em": "2026-07-01T12:00:00-03:00",
-      "dia": "2026-07-01",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "4df579d0983e8f39",
-      "fonte_id": "coaf",
-      "fonte_nome": "Coaf",
-      "titulo": "São Paulo: primeira regional do Coaf é inaugurada no centro financeiro do país",
-      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/sao-paulo-primeira-regional-do-coaf-e-inaugurada-no-centro-financeiro-do-pais",
-      "resumo": "",
-      "publicado_em": "2026-07-01T19:19:50-03:00",
-      "dia": "2026-07-01",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-08T11:32:33-03:00"
-    },
-    {
-      "id": "28ff7dd2a5084ec1",
-      "fonte_id": "coaf",
-      "fonte_nome": "Coaf",
-      "titulo": "RJ: Representantes do Coaf se reúnem com o MPF para fortalecer atuação no combate ao crime organizado",
-      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/rj-representantes-do-coaf-se-reunem-com-o-mpf-para-fortalecer-atuacao-no-combate-ao-crime-organizado",
-      "resumo": "",
-      "publicado_em": "2026-07-01T14:48:44-03:00",
-      "dia": "2026-07-01",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-09-08T11:32:33-03:00"
-    },
-    {
-      "id": "5f8a48c6488c48b4",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Cade aprova aquisição de 50% da Mitsubishi Fuso pela Foxconn",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-aprova-aquisicao-de-50-da-mitsubishi-fuso-pela-foxconn-1",
-      "resumo": "",
-      "publicado_em": "2026-07-01T12:00:00-03:00",
-      "dia": "2026-07-01",
-      "data_estimada": true,
-      "score": 58,
-      "tags": [
-        "cade",
-        "aprova"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "b1a896a9cc781ac7",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Cade lança estudo sobre desafios concorrenciais no mercado de delivery de comida",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-lanca-estudo-sobre-desafios-concorrenciais-no-mercado-de-delivery-de-comida",
-      "resumo": "",
-      "publicado_em": "2026-07-01T12:00:00-03:00",
-      "dia": "2026-07-01",
-      "data_estimada": true,
-      "score": 50,
-      "tags": [
-        "cade"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "0a3a1c7a5cb2aef7",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Revista de Defesa da Concorrência publica primeira edição de 2026",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/revista-de-defesa-da-concorrencia-publica-primeira-edicao-de-2026",
-      "resumo": "",
-      "publicado_em": "2026-07-01T12:00:00-03:00",
-      "dia": "2026-07-01",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "850210d8cedca426",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Tem início a 268ª sessão de julgamento do Cade",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/tem-inicio-a-268a-sessao-de-julgamento-do-cade",
-      "resumo": "",
-      "publicado_em": "2026-07-01T12:00:00-03:00",
-      "dia": "2026-07-01",
-      "data_estimada": true,
-      "score": 72,
-      "tags": [
-        "julgamento",
-        "julga",
-        "cade"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "cedad098a16d65ab",
-      "fonte_id": "bacen",
-      "fonte_nome": "Bacen",
-      "titulo": "BC amplia acesso a contas em moeda estrangeira e moderniza a regulação cambial no país",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21191/nota",
-      "resumo": "Medida busca reduzir custos, simplificar operações e dar mais eficiência aos negócios internacionais. Norma preserva restrições ao uso de moeda estrangeira no país e não afeta a taxa de câmbio.",
-      "publicado_em": "2026-07-01T09:45:15-03:00",
-      "dia": "2026-07-01",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
