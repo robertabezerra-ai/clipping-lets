@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-09-30T17:31:33-03:00",
+  "gerado_em": "2026-09-30T20:20:29-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -291,6 +291,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "9183d74fa92f6473",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 elege novo corpo diretivo nesta quinta-feira, 1/10, com transmissão pelo Youtube",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-elege-novo-corpo-diretivo-nesta-quinta-feira-110-com-transmissao-pelo-youtube",
+      "resumo": "TRT-15 elege novo corpo diretivo nesta quinta-feira, 1/10, com transmissão pelo Youtube anasiqueira Qua, 30/09/2026 - 19:53 TRT-15 elege novo corpo diretivo nesta quinta-feira, 1/10, com transmissão pelo Youtube Conteúdo da Notícia Os desembargadores que compõem o Tribunal Regional do Trabalho da 15",
+      "publicado_em": "2026-09-30T19:53:14-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
     },
     {
       "id": "7e271cf68918da0a",
@@ -404,6 +418,69 @@ window.DADOS = {
       "coletado_em": "2026-09-27T12:31:40-03:00"
     },
     {
+      "id": "76ad04ed36266e14",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Juridiquês Não Tem Vez esclarece dúvidas sobre Direito de Família",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115579&pagina=1",
+      "resumo": "Casamento, união estável e divórcio entre os temas.\n \n\tMorar junto é suficiente para caracterizar uma união estável? É possível se divorciar sem a concordância do",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
+    },
+    {
+      "id": "a964518b79b18829",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida decisão que negou bloqueio de páginas de memes sobre universidade",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115562&pagina=1",
+      "resumo": "Perfis humorísticos não se confundem com canais oficiais.\n \n\tA 1ª Câmara Reservada de Direito Empresarial do Tribunal de Justiça de São Paulo manteve decisão da",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
+    },
+    {
+      "id": "c93a9b3f60552168",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF fixa critérios para multa a empresas com dívida tributária que distribuem lucros",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-fixa-criterios-para-multa-a-empresas-com-divida-tributaria-que-distribuem-lucros/",
+      "resumo": "Penalidade só pode incidir se crédito estiver definitivamente constituído e inscrito em dívida ativa, exigível e sem garantia",
+      "publicado_em": "2026-09-30T20:08:59-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
+    },
+    {
+      "id": "d176f156edb54eb6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Servidor com vínculo público contínuo pode escolher regime previdenciário, decide STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/servidor-com-vinculo-publico-continuo-pode-escolher-regime-previdenciario-decide-stf/",
+      "resumo": "Plenário fixou tese sobre ingresso no serviço público e previdência complementar",
+      "publicado_em": "2026-09-30T19:08:33-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "decide",
+        "tese"
+      ],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
+    },
+    {
       "id": "af3f76a3e55353a4",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -498,6 +575,20 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "12bfa17db8299e4a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei fortalece seguro rural e fundo para catástrofes que atinjam a produção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/09/30/lei-fortalece-seguro-rural-e-fundo-para-catastrofes-que-atinjam-a-producao",
+      "resumo": "",
+      "publicado_em": "2026-09-30T17:32:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
     },
     {
       "id": "d1e70670d1a75d96",
@@ -697,6 +788,65 @@ window.DADOS = {
       "coletado_em": "2026-09-30T17:31:33-03:00"
     },
     {
+      "id": "bfafc4d49c9c2455",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senasp instala Comitê Gestor Nacional do Centro Integrado Mulher Segura",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-instala-comite-gestor-nacional-do-centro-integrado-mulher-segura",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
+    },
+    {
+      "id": "b2b093f0e03cc3b2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Microempreendedores individuais podem renegociar dívidas com desconto",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/governo-lanca-desenrola-mei-pequeno-valor-e-amplia-opcoes-para-negociar-dividas",
+      "resumo": "",
+      "publicado_em": "2026-09-30T19:05:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
+    },
+    {
+      "id": "9223c723884c2732",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Sancionada a Lei do Futebol Feminino: profissionalização e incentivo à igualdade salarial",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/sancionada-a-lei-do-futebol-feminino-com-medidas-para-profissionalizacao-e-incentivo-a-igualdade-salarial",
+      "resumo": "",
+      "publicado_em": "2026-09-30T18:36:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "sancionada",
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
+    },
+    {
+      "id": "3526ceacb9fa1da5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Fies: publicado edital para a edição de vagas remanescentes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202609/fies-publicado-edital-para-a-edicao-de-vagas-remanescentes",
+      "resumo": "",
+      "publicado_em": "2026-09-30T17:04:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
+    },
+    {
       "id": "e78c742ac4ce4b8b",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -774,7 +924,7 @@ window.DADOS = {
       "id": "2d82e5b32287026e",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "TV Brasil estreia segunda temporada do seriado independente Aprender a Sonhar nesta quinta (1º)",
+      "titulo": "TV Brasil estreia segunda temporada do seriado independente Aprender a Sonhar",
       "link": "https://agenciagov.ebc.com.br/noticias/202609/tv-brasil-estreia-segunda-temporada-do-seriado-independente-aprender-a-sonhar-nesta-quinta-1o-10",
       "resumo": "",
       "publicado_em": "2026-09-30T12:40:00-03:00",
@@ -879,6 +1029,64 @@ window.DADOS = {
       "coletado_em": "2026-09-30T17:31:33-03:00"
     },
     {
+      "id": "32f8caf22f0059b3",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Colegiado da CVM aceita proposta de Termo de Compromisso de mais de R$ 2.3 milhões em caso envolvendo a atual TC S.A.",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-aceita-proposta-de-termo-de-compromisso-de-mais-de-r-2-3-milhoes-em-caso-envolvendo-a-atual-tc-s-a",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
+    },
+    {
+      "id": "348d9da6e3d523fa",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE tem 3x2 para manter remoção de posts sobre Flávio e Nossa Senhora",
+      "link": "https://www.congressoemfoco.com.br/noticia/122789/tse-tem-3x1-para-manter-remocao-de-posts-sobre-flavio-e-nossa-senhora",
+      "resumo": "André Mendonça, Nunes Marques e Dias Toffoli votaram por manter retirada de posts; Ricardo Villas Bôas Cueva abriu divergência parcial.",
+      "publicado_em": "2026-09-30T18:59:45-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
+    },
+    {
+      "id": "a4def9c1925a7f85",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O direito de desistir e o dever de prestar contas: caso Ricardo Salles",
+      "link": "https://www.congressoemfoco.com.br/artigo/122788/o-direito-de-desistir-e-o-dever-de-prestar-contas-caso-ricardo-salles",
+      "resumo": "Candidatura financiada com dinheiro público precisa ser tratada como aquilo que é, um compromisso, e não uma opção.",
+      "publicado_em": "2026-09-30T18:46:26-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
+    },
+    {
+      "id": "3d6f0aa04a510d90",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bia Kicis propõe punir invasão de competência por ministro do STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122782/bia-kicis-propoe-punir-invasao-de-competencia-por-ministro-do-stf",
+      "resumo": "Projeto prevê responsabilização de ministros do STF por interferências em outros Poderes, tribunais ou órgãos do Judiciário.",
+      "publicado_em": "2026-09-30T17:50:18-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
+    },
+    {
       "id": "b1cd8e07c627fe7d",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -942,6 +1150,20 @@ window.DADOS = {
         "toma posse"
       ],
       "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "f462e46f37d84d15",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O que os planos de governo enxergam quando olham para as mulheres",
+      "link": "https://www.congressoemfoco.com.br/artigo/122766/o-que-os-planos-de-governo-enxergam-quando-olham-para-as-mulheres",
+      "resumo": "Um raio-X de 12 candidaturas à Presidência mostra onde a agenda das mulheres já virou proposta e onde ainda há distância entre o que elas dizem enfrentar e o que os candidatos colocam no papel.",
+      "publicado_em": "2026-09-30T15:00:25-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
     },
     {
       "id": "7389407460f956ae",
@@ -1356,6 +1578,39 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-30T17:31:33-03:00"
+    },
+    {
+      "id": "45bfa455389c5695",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto permite dedução integral do Imposto de Renda de gastos com educação de autistas",
+      "link": "https://www.camara.leg.br/noticias/1304644-projeto-permite-deducao-integral-do-imposto-de-renda-de-gastos-com-educacao-de-autistas",
+      "resumo": "",
+      "publicado_em": "2026-09-30T19:07:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
+    },
+    {
+      "id": "38e86dffd14c8c20",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto inclui questões sobre área de formação técnica na avaliação do Enem",
+      "link": "https://www.camara.leg.br/noticias/1304637-projeto-inclui-questoes-sobre-area-de-formacao-tecnica-na-avaliacao-do-enem",
+      "resumo": "",
+      "publicado_em": "2026-09-30T17:38:00-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
     },
     {
       "id": "c07c33d23d431e33",
@@ -2771,7 +3026,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Adoção internacional é retomada na Bahia",
       "link": "https://www.cnj.jus.br/adocao-internacional-e-retomada-na-bahia/",
-      "resumo": "O Tribunal de Justiça da Bahia (TJBA) retoma a atuação em procedimentos de adoção internacional, depois de seis anos sem registro dessa modalidade de adoção no estado. Quatro irmãos acolhidos institucionalmente iniciam o processo de aproximação com dois casais franceses habilitados para adoção. A re",
+      "resumo": "O Tribunal de Justiça da Bahia (TJBA) retoma a atuação em procedimentos de adoção internacional, depois de seis anos sem registro dessa modalidade de adoção no estado. Quatro irmãos acolhidos institucionalmente iniciam o processo de aproximação com dois casais franceses habilitados para adoção.   A ",
       "publicado_em": "2026-09-29T12:00:00-03:00",
       "dia": "2026-09-29",
       "data_estimada": true,
