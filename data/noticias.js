@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-01T16:06:23-03:00",
+  "gerado_em": "2026-10-01T17:47:12-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,39 +154,39 @@ window.DADOS = {
     },
     {
       "id": "pgfn",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /pgfn/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 29,
+      "erro": null
     },
     {
       "id": "senado",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www12.senado.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www12.senado"
+      "status": "ok",
+      "itens": 19,
+      "erro": null
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /receitafederal/pt-br/assuntos/noticias/RSS (Caused by NewConnectionError(\"HTTPSConnection(ho"
+      "status": "ok",
+      "itens": 26,
+      "erro": null
     },
     {
       "id": "fazenda",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /fazenda/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
+      "status": "ok",
+      "itens": 29,
+      "erro": null
     },
     {
       "id": "anpd",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /anpd/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effecti"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@ window.DADOS = {
     },
     {
       "id": "cvm",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cvm/pt-br/assuntos/noticias/RSS (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
+      "status": "ok",
+      "itens": 28,
+      "erro": null
     },
     {
       "id": "bacen",
@@ -208,15 +208,15 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /coaf/sitemap1.xml.gz (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port="
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cade/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 27,
+      "erro": null
     },
     {
       "id": "cnj",
@@ -226,15 +226,15 @@ window.DADOS = {
     },
     {
       "id": "mjsp",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mj/pt-br/assuntos/noticias-1 (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "carf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /carf/pt-br/assuntos/novas-noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www."
+      "status": "ok",
+      "itens": 7,
+      "erro": null
     },
     {
       "id": "governo_federal",
@@ -403,6 +403,38 @@ window.DADOS = {
       "coletado_em": "2026-10-01T16:06:23-03:00"
     },
     {
+      "id": "bf93c4cf13d4e1b6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Regras do programa Desenrola Brasil 3.0 são questionadas no STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/regras-do-programa-desenrola-brasil-3-0-sao-questionadas-no-stf/",
+      "resumo": "Associação de defesa de usuários de bancos alega que regras atuais podem excluir pessoas em situação de vulnerabilidade",
+      "publicado_em": "2026-10-01T17:35:11-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T17:47:12-03:00"
+    },
+    {
+      "id": "3b22b2507ee703c7",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo mantém norma nacional sobre estrutura das PMs e dos bombeiros",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-mantem-norma-nacional-sobre-estrutura-das-pms-e-dos-bombeiros/",
+      "resumo": "Decisão validou regras federais que estabelecem estrutura básica para os quadros das corporações militares estaduais",
+      "publicado_em": "2026-10-01T17:15:04-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-01T17:47:12-03:00"
+    },
+    {
       "id": "3f4285026c105e36",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -454,10 +486,24 @@ window.DADOS = {
       "coletado_em": "2026-10-01T14:16:36-03:00"
     },
     {
+      "id": "02fb7a98943797ed",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições 2026: confira documentos e regras para votar neste domingo",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/eleicoes-2026-confira-documentos-e-regras-para-votar-neste-domingo-4",
+      "resumo": "",
+      "publicado_em": "2026-10-01T14:27:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T17:47:12-03:00"
+    },
+    {
       "id": "6bf3e8b2efed9199",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "Novo lei sobre o seguro rural amplia a proteção de produtores contra perdas",
+      "titulo": "Nova lei sobre o seguro rural amplia a proteção de produtores contra perdas",
       "link": "https://www12.senado.leg.br/noticias/audios/2026/10/novo-lei-sobre-o-seguro-rural-amplia-a-protecao-de-produtores-contra-perdas",
       "resumo": "",
       "publicado_em": "2026-10-01T13:49:00-03:00",
@@ -641,7 +687,7 @@ window.DADOS = {
       "id": "184bdb48c8d3e093",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Neste sábado, TV Brasil transmite finalíssima entre São Paulo x Corinthians",
+      "titulo": "Neste sábado, TV Brasil transmite finalíssima entre São Paulo e Corinthians",
       "link": "https://agenciagov.ebc.com.br/noticias/202610/tv-brasil-transmite-sao-paulo-x-corinthians-pelo-segundo-jogo-da-final-do-brasileirao-feminino-neste-sabado-3-10",
       "resumo": "",
       "publicado_em": "2026-10-01T14:27:00-03:00",
@@ -805,6 +851,38 @@ window.DADOS = {
       "coletado_em": "2026-10-01T14:16:36-03:00"
     },
     {
+      "id": "ab63070d4f263682",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AGU pede apuração de suposto financiamento eleitoral dos EUA no Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/122851/agu-pede-apuracao-de-suposto-financiamento-eleitoral-dos-eua-no-brasil",
+      "resumo": "Órgão cita denúncia sobre verba dos EUA para grupos críticos ao STF e cobra apuração sobre eventuais destinatários no Brasil.",
+      "publicado_em": "2026-10-01T16:53:17-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T17:47:12-03:00"
+    },
+    {
+      "id": "9215d95d2d036b5a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Toffoli destaca legado de Paulo Paim no Senado: \"grande parlamentar\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122850/toffoli-destaca-legado-de-paulo-paim-no-senado--grande-parlamentar",
+      "resumo": "Ministro também classificou Paim como \"um grande brasileiro\" e citou sua importância para a criação do Estatuto da Pessoa Idosa.",
+      "publicado_em": "2026-10-01T16:46:29-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T17:47:12-03:00"
+    },
+    {
       "id": "0d3b508abfd6d327",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -819,6 +897,24 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-01T16:06:23-03:00"
+    },
+    {
+      "id": "a99e64c77c80ebdb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "100 dias para descobrir quanto custa o Brasil",
+      "link": "https://www.congressoemfoco.com.br/artigo/122838/100-dias-para-descobrir-quanto-custa-o-brasil",
+      "resumo": "A virada de 2027 inaugura a CBS e pode mudar a relação do brasileiro com o preço, com o imposto e com o Estado. Mas a maior parte do país ainda não sabe o que vem aí.",
+      "publicado_em": "2026-10-01T14:44:53-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "imposto",
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T17:47:12-03:00"
     },
     {
       "id": "97bcef0fbe7e5f4f",
@@ -1105,6 +1201,82 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-01T14:16:36-03:00"
+    },
+    {
+      "id": "5ec835617318afbe",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Tribunal e AGU celebram acordo de cooperação técnica para atendimento jurídico em questões administrativas",
+      "link": "https://www.cnj.jus.br/tribunal-e-agu-celebram-acordo-de-cooperacao-tecnica-para-atendimento-juridico-em-questoes-administrativas/",
+      "resumo": "O Tribunal Regional Federal da 3ª Região (TRF3) e a Advocacia Geral da União (AGU) celebraram, no último dia 25, um acordo de cooperação técnica (ACT) sobre prestação de atendimento jurídico personalizado em matérias administrativas. O termo foi assinado pelo presidente do TRF3, desembargador federa",
+      "publicado_em": "2026-10-01T12:00:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T17:47:12-03:00"
+    },
+    {
+      "id": "5c5b07edc6aafa85",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eleições 2026: o que o eleitor pode e não pode fazer antes, durante e logo após a votação",
+      "link": "https://www.camara.leg.br/noticias/1307940-eleicoes-2026-o-que-o-eleitor-pode-e-nao-pode-fazer-antes-durante-e-logo-apos-a-votacao",
+      "resumo": "",
+      "publicado_em": "2026-10-01T17:10:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T17:47:12-03:00"
+    },
+    {
+      "id": "9b3cae1e4560971f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto criminaliza em todo o país a venda e o uso de linha com cerol",
+      "link": "https://www.camara.leg.br/noticias/1306622-projeto-criminaliza-em-todo-o-pais-a-venda-e-o-uso-de-linha-com-cerol",
+      "resumo": "",
+      "publicado_em": "2026-10-01T16:12:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T17:47:12-03:00"
+    },
+    {
+      "id": "3f7074e2048474ed",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Conselho de Comunicação debate audiovisual e comunicação pública na segunda-feira",
+      "link": "https://www.camara.leg.br/noticias/1307857-conselho-de-comunicacao-debate-audiovisual-e-comunicacao-publica-na-segunda-feira",
+      "resumo": "",
+      "publicado_em": "2026-10-01T16:03:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T17:47:12-03:00"
+    },
+    {
+      "id": "34549fe3381155ee",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto vincula reajuste de planos de saúde aos indicadores de reclamações dos usuários",
+      "link": "https://www.camara.leg.br/noticias/1305652-projeto-vincula-reajuste-de-planos-de-saude-aos-indicadores-de-reclamacoes-dos-usuarios",
+      "resumo": "",
+      "publicado_em": "2026-10-01T15:46:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T17:47:12-03:00"
     },
     {
       "id": "259ba5ba6fa09c8c",
