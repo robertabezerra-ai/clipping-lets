@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-01T17:47:12-03:00",
+  "gerado_em": "2026-10-01T20:34:57-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -179,7 +179,7 @@ window.DADOS = {
     {
       "id": "fazenda",
       "status": "ok",
-      "itens": 29,
+      "itens": 28,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -291,6 +291,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-01T14:16:36-03:00"
+    },
+    {
+      "id": "7e3884e692ceab83",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Desembargador Edmundo Fraga Lopes é eleito presidente do TRT-15 para o biênio 2027-2028",
+      "link": "https://trt15.jus.br/noticia/2026/desembargador-edmundo-fraga-lopes-e-eleito-presidente-do-trt-15-para-o-bienio-2027",
+      "resumo": "Desembargador Edmundo Fraga Lopes é eleito presidente do TRT-15 para o biênio 2027-2028 anasiqueira Qui, 01/10/2026 - 17:30 Desembargador Edmundo Fraga Lopes é eleito presidente do TRT-15 para o biênio 2027-2028 Conteúdo da Notícia Os desembargadores do Tribunal Regional do Trabalho da 15ª Região el",
+      "publicado_em": "2026-10-01T17:30:20-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
     },
     {
       "id": "e47503e0fbcb905d",
@@ -401,6 +415,100 @@ window.DADOS = {
         "exposicao"
       ],
       "coletado_em": "2026-10-01T16:06:23-03:00"
+    },
+    {
+      "id": "f6d14b3ad52c00fe",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115598&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, reuniu-se, hoje (1º), no Gabinete",
+      "publicado_em": "2026-10-01T12:00:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "27311713ee7ae070",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF se ilumina de rosa em apoio a campanha de conscientização contra o câncer de mama",
+      "link": "https://noticias.stf.jus.br/postsnoticias/166682/",
+      "resumo": "Iluminação especial deste mês também irá apoiar a Semana de Conscientização sobre a Perda de Bebês, os professores, os médicos e a democracia",
+      "publicado_em": "2026-10-01T20:12:10-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "0647d0532a411fb2",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF começa a analisar se créditos presumidos de ICMS podem ser incluídos na base de cálculo do PIS e da Cofins",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-comeca-a-analisar-se-creditos-presumidos-de-icms-podem-ser-incluidos-na-base-de-calculo-do-pis-e-da-cofins/",
+      "resumo": "Na sessão de hoje, foram ouvidas as manifestações das partes envolvidas no recurso e de entidades interessadas admitidas no processo",
+      "publicado_em": "2026-10-01T19:23:02-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "processo",
+        "recurso"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "ae136223802129e4",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Nota da Presidência do Supremo Tribunal Federal",
+      "link": "https://noticias.stf.jus.br/postsnoticias/nota-da-presidencia-do-supremo-tribunal-federal-4/",
+      "resumo": "Pelo respeito ao voto e pela paz nas eleições",
+      "publicado_em": "2026-10-01T19:12:05-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "4823b1416cb64012",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Discussão no STF sobre aplicação do Estatuto da Pessoa Idosa a planos de saúde deve ter solução conjunta",
+      "link": "https://noticias.stf.jus.br/postsnoticias/discussao-no-stf-sobre-aplicacao-do-estatuto-da-pessoa-idosa-a-planos-de-saude-deve-ter-solucao-conjunta/",
+      "resumo": "Matéria será analisada no Núcleo de Soluções Consensuais para obtenção de proposta de solução conjunta em duas ações sobe o tema",
+      "publicado_em": "2026-10-01T19:03:15-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "5089d2342a92c497",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Falta de regulamentação da avaliação biopsicossocial de deficiência é objeto de ADO no Supremo",
+      "link": "https://noticias.stf.jus.br/postsnoticias/falta-de-regulamentacao-da-avaliacao-biopsicossocial-de-deficiencia-e-objeto-de-ado-no-supremo/",
+      "resumo": "AnaPcD pede critérios para avaliação da deficiência que considerem as condições de vida e as barreiras enfrentadas, além do diagnóstico médico",
+      "publicado_em": "2026-10-01T18:16:41-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
     },
     {
       "id": "bf93c4cf13d4e1b6",
@@ -670,6 +778,52 @@ window.DADOS = {
       "coletado_em": "2026-10-01T14:16:36-03:00"
     },
     {
+      "id": "36b6727f0687c1fc",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senasp leva debate sobre financiamento da segurança pública a curso da Enap",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-leva-debate-sobre-financiamento-da-seguranca-publica-a-curso-da-enap",
+      "resumo": "",
+      "publicado_em": "2026-10-01T12:00:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "7d5e84f85a32edd0",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Problemas com bets? Campanha indica como o SUS pode ajudar a sair dessa armadilha",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/campanha-do-ministerio-da-saude-orienta-sobre-riscos-das-apostas-online-e-atendimento-disponivel-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-10-01T17:57:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "881b35ead6000ca4",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "80% da população idosa no Brasil busca cuidados de saúde exclusivamente no SUS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/dia-da-pessoa-idosa-como-o-sus-se-organiza-para-cuidar-da-populacao-que-mais-cresce-no-pais",
+      "resumo": "",
+      "publicado_em": "2026-10-01T16:42:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
       "id": "4e8f041cd49b09d5",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -851,6 +1005,149 @@ window.DADOS = {
       "coletado_em": "2026-10-01T14:16:36-03:00"
     },
     {
+      "id": "1c8163292522496a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan Santos faz apelo para que Flávio Bolsonaro vá ao debate",
+      "link": "https://www.congressoemfoco.com.br/noticia/122863/renan-santos-faz-apelo-para-que-flavio-bolsonaro-va-ao-debate",
+      "resumo": "Candidato do Missão cobrou presença de Flávio após decisão de Gilmar Mendes garantir sua participação no debate da Globo.",
+      "publicado_em": "2026-10-01T20:26:29-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "89d744f2779ccb36",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan reage após Gilmar garantir vaga em debate: \"confuso e feliz\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122861/renan-reage-apos-gilmar-garantir-vaga-em-debate--confuso-e-feliz",
+      "resumo": "Candidato do Missão comemorou decisão do ministro do STF que determinou sua inclusão no encontro da Globo.",
+      "publicado_em": "2026-10-01T19:58:08-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "7f43ac6629ac673a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro desiste de debate da Globo e acusa TSE de censura",
+      "link": "https://www.congressoemfoco.com.br/noticia/122860/flavio-bolsonaro-desiste-de-debate-da-globo-e-acusa-tse-de-censura",
+      "resumo": "Candidato do PL anunciou ausência após decisão que proibiu emissora de destacar cadeira vazia de Lula e permitir perguntas dirigidas ao presidente.",
+      "publicado_em": "2026-10-01T19:32:28-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "decisao",
+        "cade"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "1ccab1442a6200f7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar Mendes determina inclusão de Renan Santos em debate da Globo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122859/gilmar-mendes-determina-inclusao-de-renan-santos-em-debate-da-globo",
+      "resumo": "Ministro afirmou que Renan atende a critério objetivo da Globo e deve ocupar vaga aberta pela ausência de Lula no debate.",
+      "publicado_em": "2026-10-01T19:30:09-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "e03e2d68fe2cad86",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Estela Aranha determina retirada de \"cadeira vazia\" em debate da Globo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122858/estela-aranha-determina-retirada-de-cadeira-vazia-em-debate-da-globo",
+      "resumo": "Campanha de Lula alegou risco de desequilíbrio entre candidaturas; liminar também veta perguntas ao presidente durante sua ausência.",
+      "publicado_em": "2026-10-01T18:54:26-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "liminar",
+        "cade"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "5007eee3dc69ffec",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Donald Trump diz observar \"muito de perto\" as eleições no Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/122855/donald-trump-diz-observar-muito-de-perto-as-eleicoes-no-brasil",
+      "resumo": "Presidente dos EUA chamou a eleição brasileira de \"muito importante\" e não declarou apoio a nenhum dos candidatos ao Planalto.",
+      "publicado_em": "2026-10-01T17:54:57-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "83058eaa4d66df92",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar brinca sobre Nossa Senhora em sessão: \"não se pode falar\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122854/gilmar-brinca-sobre-nossa-senhora-em-sessao--nao-se-pode-falar",
+      "resumo": "Cármen Lúcia mencionou a padroeira durante conversa com o ministro Flávio Dino.",
+      "publicado_em": "2026-10-01T17:36:47-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "da2e2340e735c080",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Saúde mental precisa deixar de ser promessa e virar política pública",
+      "link": "https://www.congressoemfoco.com.br/artigo/122853/saude-mental-precisa-deixar-de-ser-promessa-e-virar-politica-publica",
+      "resumo": "Congresso pode ampliar recursos, fortalecer a atenção psicossocial e integrar saúde, educação e assistência social em uma política permanente de prevenção.",
+      "publicado_em": "2026-10-01T17:14:10-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "b061c1e7685fb311",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Liminar proíbe Corinthians de divulgar plataforma de conteúdo adulto",
+      "link": "https://www.congressoemfoco.com.br/noticia/122852/liminar-proibe-corinthians-de-divulgar-plataforma-de-conteudo-adulto",
+      "resumo": "Decisão da Vara da Infância e da Juventude do Tatuapé também determina medidas para impedir acesso de menores ao conteúdo da plataforma.",
+      "publicado_em": "2026-10-01T17:00:48-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "decisao",
+        "liminar"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
       "id": "ab63070d4f263682",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -897,6 +1194,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-01T16:06:23-03:00"
+    },
+    {
+      "id": "fbcbb3deb3c87384",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vai votar? Faça sua colinha usando a ferramenta do Congresso em Foco",
+      "link": "https://www.congressoemfoco.com.br/noticia/122839/vai-votar-faca-sua-colinha-usando-a-ferramenta-do-congresso-em-foco",
+      "resumo": "De forma simples e interativa, tenha suas escolhas na mão, seja em papel ou para compartilhar nas redes sociais.",
+      "publicado_em": "2026-10-01T14:52:33-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
     },
     {
       "id": "a99e64c77c80ebdb",
@@ -977,6 +1288,24 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-01T16:06:23-03:00"
+    },
+    {
+      "id": "3ab212e0521a0db7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula aprova parecer para afastamento remunerado a vítimas de violência",
+      "link": "https://www.congressoemfoco.com.br/noticia/122830/lula-aprova-parecer-para-afastamento-remunerado-a-vitimas-de-violencia",
+      "resumo": "Medida prevê pagamento por até seis meses e dispensa perícia do INSS quando houver decisão judicial de afastamento do trabalho.",
+      "publicado_em": "2026-10-01T13:41:35-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "aprova",
+        "judicial"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
     },
     {
       "id": "ba666c2b420b799e",
@@ -1208,7 +1537,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Tribunal e AGU celebram acordo de cooperação técnica para atendimento jurídico em questões administrativas",
       "link": "https://www.cnj.jus.br/tribunal-e-agu-celebram-acordo-de-cooperacao-tecnica-para-atendimento-juridico-em-questoes-administrativas/",
-      "resumo": "O Tribunal Regional Federal da 3ª Região (TRF3) e a Advocacia Geral da União (AGU) celebraram, no último dia 25, um acordo de cooperação técnica (ACT) sobre prestação de atendimento jurídico personalizado em matérias administrativas. O termo foi assinado pelo presidente do TRF3, desembargador federa",
+      "resumo": "O Tribunal Regional Federal da 3ª Região (TRF-3) e a Advocacia Geral da União (AGU) celebraram, no último dia 25, um acordo de cooperação técnica (ACT) sobre prestação de atendimento jurídico personalizado em matérias administrativas. O termo foi assinado pelo presidente do TRF-3, desembargador fede",
       "publicado_em": "2026-10-01T12:00:00-03:00",
       "dia": "2026-10-01",
       "data_estimada": true,
@@ -1217,6 +1546,83 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-01T17:47:12-03:00"
+    },
+    {
+      "id": "285feac632486960",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Atalaia: ferramenta de IA do CNJ para gestão processual é tema de reunião com a OAB",
+      "link": "https://www.cnj.jus.br/atalaia-ferramenta-de-ia-do-cnj-para-gestao-processual-e-tema-de-reuniao-com-a-oab/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) se reuniu, na tarde desta quinta-feira (1º/10), com representantes da Ordem dos Advogados do Brasil (OAB) para apresentar o projeto Atalaia, ferramenta que utiliza inteligência artificial e análise de dados para identificar padrões de demandas de massa e de litig",
+      "publicado_em": "2026-10-01T12:00:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "oab",
+        "advogado"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "9dc4a43d71d6b27c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Formação prepara novos facilitadores para a Justiça Restaurativa",
+      "link": "https://www.cnj.jus.br/formacao-prepara-novos-facilitadores-para-a-justica-restaurativa/",
+      "resumo": "Escuta, diálogo e construção coletiva estiveram no centro de 80 horas de atividades que prepararam uma nova turma para atuar com metodologias restaurativas. A formação de facilitadores em Justiça Restaurativa foi concluída nessa segunda-feira (28), com uma atividade coletiva realizada na sede admini",
+      "publicado_em": "2026-10-01T12:00:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "43d2d9fc15801dd3",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Guia de boas práticas no acolhimento a pessoas com deficiência é publicado pela Justiça Federal no Nordeste",
+      "link": "https://www.cnj.jus.br/guia-de-boas-praticas-no-acolhimento-a-pessoas-com-deficiencia-e-publicado-pela-justica-federal-no-nordeste/",
+      "resumo": "O Tribunal Regional Federal da 5ª Região (TRF-5) disponibilizou o Guia de Apoio à Gestão de Pessoas para Acolhimento e Lotação das Pessoas com Deficiência. O documento tem como objetivo auxiliar as áreas de gestão de pessoas do Tribunal Regional Federal da 5ª Região (TRF-5) e das seções judiciárias ",
+      "publicado_em": "2026-10-01T12:00:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "822c408845efd184",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pena Justa avança na Paraíba com cumprimento de metas e fortalecimento das políticas penais",
+      "link": "https://www.cnj.jus.br/pena-justa-avanca-na-paraiba-com-cumprimento-de-metas-e-fortalecimento-das-politicas-penais/",
+      "resumo": "Os avanços na execução do Plano Pena Justa na Paraíba foram apresentados pelo Conselho Penitenciário do Estado, durante uma reunião realizada nesta quarta-feira (30), na Presidência do Tribunal de Justiça do Estado (TJPB), em João Pessoa. O encontro reuniu também integrantes  do Comitê de Políticas ",
+      "publicado_em": "2026-10-01T12:00:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "b6b0a51e69d8d934",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto vincula crédito rural à rastreabilidade bovina na Amazônia",
+      "link": "https://www.camara.leg.br/noticias/1305285-projeto-vincula-credito-rural-a-rastreabilidade-bovina-na-amazonia",
+      "resumo": "",
+      "publicado_em": "2026-10-01T18:26:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
     },
     {
       "id": "5c5b07edc6aafa85",
