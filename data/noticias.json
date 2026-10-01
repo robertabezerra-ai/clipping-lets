@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-01T14:16:36-03:00",
+  "gerado_em": "2026-10-01T16:06:23-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,39 +154,39 @@
     },
     {
       "id": "pgfn",
-      "status": "ok",
-      "itens": 29,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /pgfn/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "senado",
-      "status": "ok",
-      "itens": 19,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www12.senado.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www12.senado"
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
-      "status": "ok",
-      "itens": 26,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /receitafederal/pt-br/assuntos/noticias/RSS (Caused by NewConnectionError(\"HTTPSConnection(ho"
     },
     {
       "id": "fazenda",
-      "status": "ok",
-      "itens": 29,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /fazenda/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
     },
     {
       "id": "anpd",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /anpd/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effecti"
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@
     },
     {
       "id": "cvm",
-      "status": "ok",
-      "itens": 28,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cvm/pt-br/assuntos/noticias/RSS (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov"
     },
     {
       "id": "bacen",
@@ -208,15 +208,15 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /coaf/sitemap1.xml.gz (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br', port="
     },
     {
       "id": "cade",
-      "status": "ok",
-      "itens": 27,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /cade/pt-br/assuntos/noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "cnj",
@@ -226,15 +226,15 @@
     },
     {
       "id": "mjsp",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mj/pt-br/assuntos/noticias-1 (Caused by NewConnectionError(\"HTTPSConnection(host='www.gov.br"
     },
     {
       "id": "carf",
-      "status": "ok",
-      "itens": 7,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /carf/pt-br/assuntos/novas-noticias (Caused by NewConnectionError(\"HTTPSConnection(host='www."
     },
     {
       "id": "governo_federal",
@@ -291,6 +291,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-01T14:16:36-03:00"
+    },
+    {
+      "id": "e47503e0fbcb905d",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Justiça do Trabalho faz mutirão de conciliações de processos envolvendo pessoas idosas",
+      "link": "https://trt15.jus.br/noticia/2026/justica-do-trabalho-faz-mutirao-de-conciliacoes-de-processos-envolvendo-pessoas-idosas",
+      "resumo": "Justiça do Trabalho faz mutirão de conciliações de processos envolvendo pessoas idosas anasiqueira Qui, 01/10/2026 - 16:00 Justiça do Trabalho faz mutirão de conciliações de processos envolvendo pessoas idosas Conteúdo da Notícia Na próxima semana, entre 5 e 9/10, a Justiça do Trabalho realiza a ini",
+      "publicado_em": "2026-10-01T16:00:44-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-10-01T16:06:23-03:00"
     },
     {
       "id": "02fef3b187d5b7a3",
@@ -354,6 +370,55 @@
         "processo"
       ],
       "coletado_em": "2026-10-01T14:16:36-03:00"
+    },
+    {
+      "id": "9837c1dedf2239fb",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Desembargador Luis Carlos de Barros é o mais novo integrante do OE",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115565&pagina=1",
+      "resumo": "Vaga por aposentadoria do desembargador Figueiredo Gonçalves.\n \n\tO desembargador Luis Carlos de Barros participou, ontem (30), de sua primeira sessão no Órgão Especial do Tribunal",
+      "publicado_em": "2026-10-01T12:00:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T16:06:23-03:00"
+    },
+    {
+      "id": "ce414fed3eee1164",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Tribunal encerra mês de homenagens a Paulo Bomfim com inauguração de estátua do poeta",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115589&pagina=1",
+      "resumo": "Missa, sarau e exposição ocorreram no mesmo dia. \n \n\tOntem (30), dia em que Paulo Bomfim completaria 100 anos, Tribunal de Justiça de São Paulo (TJSP),",
+      "publicado_em": "2026-10-01T12:00:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "acao",
+        "exposicao"
+      ],
+      "coletado_em": "2026-10-01T16:06:23-03:00"
+    },
+    {
+      "id": "3f4285026c105e36",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF multa advogado por inserção de comando oculto de IA em petição de réu do 8 de janeiro",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-multa-advogado-por-insercao-de-comando-oculto-de-ia-em-peticao-de-reu-do-8-de-janeiro/",
+      "resumo": "Na mesma decisão, ministro Alexandre de Moraes manteve Acordo de Não Persecução Penal celebrado com a PGR",
+      "publicado_em": "2026-10-01T15:12:08-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "decisao",
+        "multa",
+        "advogado"
+      ],
+      "coletado_em": "2026-10-01T16:06:23-03:00"
     },
     {
       "id": "99277e2cb5a245de",
@@ -559,6 +624,50 @@
       "coletado_em": "2026-10-01T14:16:36-03:00"
     },
     {
+      "id": "4e8f041cd49b09d5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "EBC realiza ampla cobertura jornalística do primeiro turno das Eleições 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/ebc-realiza-ampla-cobertura-jornalistica-do-primeiro-turno-das-eleicoes-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-01T15:17:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T16:06:23-03:00"
+    },
+    {
+      "id": "184bdb48c8d3e093",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Neste sábado, TV Brasil transmite finalíssima entre São Paulo x Corinthians",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/tv-brasil-transmite-sao-paulo-x-corinthians-pelo-segundo-jogo-da-final-do-brasileirao-feminino-neste-sabado-3-10",
+      "resumo": "",
+      "publicado_em": "2026-10-01T14:27:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T16:06:23-03:00"
+    },
+    {
+      "id": "016064136dea9c45",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF deflagra operação em combate ao tráfico de animais silvestres",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-deflagra-operacao-em-combate-ao-trafico-de-animais-silvestres",
+      "resumo": "",
+      "publicado_em": "2026-10-01T14:09:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T16:06:23-03:00"
+    },
+    {
       "id": "2785998526d010f1",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -696,6 +805,54 @@
       "coletado_em": "2026-10-01T14:16:36-03:00"
     },
     {
+      "id": "0d3b508abfd6d327",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Candidato que registrou doação de R$ 10 trilhões corrige valor no TSE",
+      "link": "https://www.congressoemfoco.com.br/noticia/122841/candidato-que-registrou-doacao-de-r-10-trilhoes-corrige-valor-no-tse",
+      "resumo": "Valor lançado no sistema do TSE, que correspondia aos dígitos do CPF do doador, foi ajustado pela campanha de Dr. Elcio para R$ 1 mil.",
+      "publicado_em": "2026-10-01T15:54:29-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T16:06:23-03:00"
+    },
+    {
+      "id": "97bcef0fbe7e5f4f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula cede terreno ao Santos em meio à crise das bets com clubes",
+      "link": "https://www.congressoemfoco.com.br/noticia/122837/lula-cede-terreno-ao-santos-em-meio-a-crise-das-bets-com-clubes",
+      "resumo": "Com a medida, o terreno do Centro de Treinamento Rei Pelé fica sob posse do clube.",
+      "publicado_em": "2026-10-01T14:34:05-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-10-01T16:06:23-03:00"
+    },
+    {
+      "id": "f89b5ea31eaa079d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ações de Lula e notícias contra Flávio pesam pouco, diz CEO da Indexa",
+      "link": "https://www.congressoemfoco.com.br/noticia/122833/acoes-de-lula-e-noticias-contra-flavio-pesam-pouco-diz-ceo-da-indexa",
+      "resumo": "Em entrevista exclusiva, o cientista político Arilton Freres avalia que a polarização amortece o impacto de fatos novos e vê Lula com mais dificuldade que Flávio para conquistar eleitores fora de sua base.",
+      "publicado_em": "2026-10-01T14:10:36-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-01T16:06:23-03:00"
+    },
+    {
       "id": "509f590bfff29634",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -710,6 +867,20 @@
         "acao"
       ],
       "coletado_em": "2026-10-01T14:16:36-03:00"
+    },
+    {
+      "id": "15cc023ccd596914",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Média de pesquisas põe Lula a 5,6 pontos da vitória no 1º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/122831/media-de-pesquisas-poe-lula-a-5-6-pontos-da-vitoria-no-1-turno",
+      "resumo": "Levantamento do Congresso em Foco com as pesquisas mais recentes de sete institutos estima Lula com 44,4% dos votos válidos e Flávio Bolsonaro com 40,2%.",
+      "publicado_em": "2026-10-01T13:42:43-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T16:06:23-03:00"
     },
     {
       "id": "ba666c2b420b799e",
@@ -908,7 +1079,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Judiciário articula acordos durante a III Semana de Regularização Tributária",
       "link": "https://www.cnj.jus.br/judiciario-articula-acordos-durante-a-iii-semana-de-regularizacao-tributaria/",
-      "resumo": "Descontos de até 100% sobre juros e multas, parcelamentos que podem chegar a 120 meses e propostas de transação tributária de acordo com o perfil do contribuinte estão entre as estratégias utilizadas pelo Poder Judiciário e órgãos fazendários durante a III Semana Nacional da Regularização Tributária",
+      "resumo": "Descontos de até 100% sobre juros e multas, parcelamentos que podem chegar a 120 meses e propostas de transação tributária de acordo com o perfil do contribuinte estão entre as estratégias utilizadas pelo Poder Judiciário e pelos órgãos fazendários durante a III Semana Nacional da Regularização Trib",
       "publicado_em": "2026-10-01T12:00:00-03:00",
       "dia": "2026-10-01",
       "data_estimada": true,
@@ -925,7 +1096,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Pena Justa: projeto no Rio de Janeiro vai ampliar atenção à saúde no sistema prisional",
       "link": "https://www.cnj.jus.br/pena-justa-projeto-no-rio-de-janeiro-vai-ampliar-atencao-a-saude-no-sistema-prisional/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) lançou nesta quarta-feira (30/9), na sede da Fundação Oswaldo Cruz (Fiocruz) no Rio de Janeiro, o projeto-piloto do Pena Justa Cuidar, que reúne metas relacionadas à saúde de pessoas privadas de liberdade e de quem saiu da prisão, além dos trabalhadores do sistem",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) lançou, nesta quarta-feira (30/9), na sede da Fundação Oswaldo Cruz (Fiocruz) no Rio de Janeiro, o projeto-piloto do Pena Justa Cuidar, que reúne metas relacionadas à saúde de pessoas privadas de liberdade e de quem saiu da prisão, além dos trabalhadores do siste",
       "publicado_em": "2026-10-01T12:00:00-03:00",
       "dia": "2026-10-01",
       "data_estimada": true,
@@ -1070,18 +1241,18 @@
       "coletado_em": "2026-09-30T17:31:33-03:00"
     },
     {
-      "id": "9183d74fa92f6473",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "TRT-15 elege novo corpo diretivo nesta quinta-feira, 1/10, com transmissão pelo Youtube",
-      "link": "https://trt15.jus.br/noticia/2026/trt-15-elege-novo-corpo-diretivo-nesta-quinta-feira-110-com-transmissao-pelo-youtube",
-      "resumo": "TRT-15 elege novo corpo diretivo nesta quinta-feira, 1/10, com transmissão pelo Youtube anasiqueira Qua, 30/09/2026 - 19:53 TRT-15 elege novo corpo diretivo nesta quinta-feira, 1/10, com transmissão pelo Youtube Conteúdo da Notícia Os desembargadores que compõem o Tribunal Regional do Trabalho da 15",
-      "publicado_em": "2026-09-30T19:53:14-03:00",
+      "id": "079155653734f1fe",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Campanha \"Em pauta a melhor idade\" concilia casos de pessoas com 60 anos ou mais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/campanha-em-pauta-a-melhor-idade-concilia-casos-de-pessoas-com-60-anos-ou-mais",
+      "resumo": "",
+      "publicado_em": "2026-09-30T12:00:00-03:00",
       "dia": "2026-09-30",
-      "data_estimada": false,
+      "data_estimada": true,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-09-30T20:20:29-03:00"
+      "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
       "id": "7e271cf68918da0a",
@@ -2684,20 +2855,6 @@
         "acao"
       ],
       "coletado_em": "2026-09-29T13:47:51-03:00"
-    },
-    {
-      "id": "079155653734f1fe",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Campanha \"Em pauta a melhor idade\" concilia casos de pessoas com 60 anos ou mais",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/campanha-em-pauta-a-melhor-idade-concilia-casos-de-pessoas-com-60-anos-ou-mais",
-      "resumo": "",
-      "publicado_em": "2026-09-29T12:00:00-03:00",
-      "dia": "2026-09-29",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-21T15:57:30-03:00"
     },
     {
       "id": "7c659ce5a05bb88a",
@@ -5858,6 +6015,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "9183d74fa92f6473",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 elege novo corpo diretivo nesta quinta-feira, 1/10, com transmissão pelo Youtube",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-elege-novo-corpo-diretivo-nesta-quinta-feira-110-com-transmissao-pelo-youtube",
+      "resumo": "TRT-15 elege novo corpo diretivo nesta quinta-feira, 1/10, com transmissão pelo Youtube anasiqueira Sex, 25/09/2026 - 19:53 TRT-15 elege novo corpo diretivo nesta quinta-feira, 1/10, com transmissão pelo Youtube Conteúdo da Notícia Os desembargadores que compõem o Tribunal Regional do Trabalho da 15",
+      "publicado_em": "2026-09-25T19:53:14-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-30T20:20:29-03:00"
     },
     {
       "id": "9a426cdbc9c1d9c1",
