@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-01T20:34:57-03:00",
+  "gerado_em": "2026-10-02T13:30:02-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -239,7 +239,7 @@ window.DADOS = {
     {
       "id": "governo_federal",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -250,6 +250,556 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "1bbcb30a6f37213f",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "EJud-15 promove palestra sobre o enfrentamento ao assédio eleitoral",
+      "link": "https://trt15.jus.br/noticia/2026/ejud-15-promove-palestra-sobre-o-enfrentamento-ao-assedio-eleitoral",
+      "resumo": "EJud-15 promove palestra sobre o enfrentamento ao assédio eleitoral anasiqueira Sex, 02/10/2026 - 11:46 EJud-15 promove palestra sobre o enfrentamento ao assédio eleitoral Conteúdo da Notícia O Subcomitê de Combate ao Assédio e a Escola Judicial do Tribunal Regional do Trabalho da 15ª Região realiza",
+      "publicado_em": "2026-10-02T11:46:13-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "3fd07539aaccab56",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Plataforma indenizará pais impedidos de embarcar em ônibus com bebê de colo",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115606&pagina=1",
+      "resumo": "Exigência de passagem adicional foi considerada abusiva.\n \n\tA 17ª Câmara de Direito Privado do Tribunal de Justiça de São condenou plataforma de venda de passagens",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "indenizar",
+        "adi"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "1887596f86705f6a",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Campanha \"Ler adianta\" arrecada livros para unidades prisionais",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115600&pagina=1",
+      "resumo": "Doações até 30 de outubro.\n \n\tO Grupo de Monitoramento e Fiscalização do Sistema Carcerário (GMF) do Tribunal de Justiça de São Paulo, realiza, até 30",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "60c03345c8bc15b6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira os destaques do Plenário Virtual",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-28/",
+      "resumo": "Sessão virtual começou às 11h desta sexta-feira (02) e termina às 23h59 do dia 09/10",
+      "publicado_em": "2026-10-02T12:41:07-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "626191e668d81373",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF estabelece regras para petições protocoladas em processos já existentes",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-estabelece-regras-para-peticoes-protocoladas-em-processos-ja-existentes/",
+      "resumo": "Resolução prevê validação formal da distribuição pela equipe técnica da Secretaria Judiciária e autorização da Presidência do STF",
+      "publicado_em": "2026-10-02T11:25:25-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "resolucao",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "9794df61f46a7472",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Exposição internacional é inaugurada no Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/exposicao-internacional-e-inaugurada-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-02T11:01:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "e7e00c5e29e38c85",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Destinação de multas a projetos de preservação será analisado pela Câmara",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/destinacao-de-multas-a-projetos-de-preservacao-sera-analisado-pela-camara",
+      "resumo": "",
+      "publicado_em": "2026-10-02T10:02:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "aadc1ac27f44f086",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Veja os horários de votação nas Eleições 2026",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/veja-os-horarios-de-votacao-nas-eleicoes-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-02T09:44:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "8e41bd8bd6ca9844",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal publica a primeira edição do Perguntas e Respostas do Adicional da CSLL",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-publica-a-primeira-edicao-do-perguntas-e-respostas-do-adicional-da-csll",
+      "resumo": "",
+      "publicado_em": "2026-10-02T09:55:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "100b03d2302e3752",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "Novos editais da PGFN para renegociação de dívidas",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/novos-editais-da-pgfn-para-renegociacao-de-dividas",
+      "resumo": "",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "9580e2ba91e6cbbd",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Sistema Integrado de Segurança Pública do Rio de Janeiro reúne dados e amplia acesso a serviços digitais",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sistema-integrado-de-seguranca-publica-do-rio-de-janeiro-reune-dados-e-amplia-acesso-a-servicos-digitais",
+      "resumo": "",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "19f4a91aebce4625",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Caminhos da Reportagem debate desafios e futuro do futebol feminino nesta segunda (5)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/caminhos-da-reportagem-debate-desafios-e-futuro-do-futebol-feminino-nesta-segunda-5",
+      "resumo": "",
+      "publicado_em": "2026-10-02T12:30:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "10dc571f07d88f1c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "TV Brasil fecha acordo com federação paulista e vai exibir 41 partidas de futebol feminino",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/tv-brasil-fecha-acordo-com-federacao-paulista-de-futebol-e-vai-exibir-41-partidas-de-futebol-feminino",
+      "resumo": "",
+      "publicado_em": "2026-10-02T10:18:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "2f05164b74b39afa",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Veja funcionalidades da internet que podem facilitar o dia a dia de pessoas idosas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/saiba-quais-funcionalidades-da-internet-podem-facilitar-o-dia-a-dia-de-pessoas-idosas",
+      "resumo": "",
+      "publicado_em": "2026-10-02T09:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "c1d3565416d67f40",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Petrobras faz nova descoberta de petróleo em águas ultra profundas na costa do Amapá",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/petrobras-faz-nova-descoberta-de-petroleo-em-aguas-ultra-profundas-na-costa-do-amapa",
+      "resumo": "",
+      "publicado_em": "2026-10-02T00:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "51562769896574e1",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal publica a primeira edição do Perguntas e Respostas do Adicional da CSLL",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-publica-a-primeira-edicao-do-perguntas-e-respostas-do-adicional-da-csll",
+      "resumo": "",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "bf8942a40743100d",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM lança Edital de Tomada Pública de Subsídios sobre o Informe de Governança Corporativa",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-lanca-edital-de-tomada-publica-de-subsidios-sobre-o-informe-de-governanca-corporativa",
+      "resumo": "",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "e2b09356760c10eb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino vê decisões legítimas sobre debate e defende direito de discordar",
+      "link": "https://www.congressoemfoco.com.br/noticia/122907/dino-ve-decisoes-legitimas-sobre-debate-e-defende-direito-de-discordar",
+      "resumo": "Em publicação no Instagram, ministro afirma que a atuação judicial nas eleições é legítima, assim como as discordâncias sobre seu conteúdo.",
+      "publicado_em": "2026-10-02T12:36:05-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "93f85b7f3997898f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Após Gilmar decidir sobre debate, STF regulamenta petições incidentais",
+      "link": "https://www.congressoemfoco.com.br/noticia/122902/apos-gilmar-decidir-sobre-debate-stf-regulamenta-peticoes-incidentais",
+      "resumo": "Resolução cria filtro para petições em processos já em curso e tenta evitar que novos pedidos sejam levados a relatores específicos.",
+      "publicado_em": "2026-10-02T11:56:28-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "resolucao",
+        "regulamenta",
+        "processo"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "cd82b65e68b3fc11",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PMDF envia Bope à Embaixada dos EUA após alerta de segurança",
+      "link": "https://www.congressoemfoco.com.br/noticia/122901/pmdf-envia-bope-a-embaixada-dos-eua-apos-alerta-de-seguranca",
+      "resumo": "Reforço ocorre a dois dias da eleição; representação americana suspendeu serviços consulares e não detalhou natureza do risco.",
+      "publicado_em": "2026-10-02T11:46:15-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "97d75a1ea7ced2b4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A eleição sob medida: a experiência de um mundo particular",
+      "link": "https://www.congressoemfoco.com.br/artigo/122900/a-eleicao-sob-medida-a-experiencia-de-um-mundo-particular",
+      "resumo": "Uma das maiores transformações da comunicação contemporânea acontece diante dos nossos olhos: a experiência de mundo está cada vez mais personalizada.",
+      "publicado_em": "2026-10-02T11:43:25-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "db64c064a190edd3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça envia às plataformas orientações sobre posts de Nossa Senhora",
+      "link": "https://www.congressoemfoco.com.br/noticia/122899/mendonca-envia-as-plataformas-orientacoes-sobre-posts-de-nossa-senhora",
+      "resumo": "Ministro determina revisão das medidas adotadas e diz que críticas e manifestações religiosas devem ser preservadas.",
+      "publicado_em": "2026-10-02T11:39:05-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "d8e9b5e294421beb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A equipe econômica de Lula",
+      "link": "https://www.congressoemfoco.com.br/artigo/122895/a-equipe-economica-de-lula",
+      "resumo": "Sem uma estrutura de campanha clara, Dario Durigan e Bruno Moretti conduzem a política econômica num eventual 4º mandato de Lula.",
+      "publicado_em": "2026-10-02T11:10:58-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "95630facd394a41d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Porchat pede descanso à política: \"é leitinho feliz, é suruba...\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122886/porchat-pede-descanso-a-politica--e-leitinho-feliz-e-suruba",
+      "resumo": "Humorista brincou que não consegue acompanhar e produzir conteúdo sobre todos os assuntos que surgem no Brasil.",
+      "publicado_em": "2026-10-02T09:58:07-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "d5ecdcd5b1a233b8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Clubes vão ao STF contra o fim das bets e pedem um ano de transição",
+      "link": "https://www.congressoemfoco.com.br/noticia/122885/clubes-vao-ao-stf-contra-o-fim-das-bets-e-pedem-um-ano-de-transicao",
+      "resumo": "Times pedem ao STF que preserve contratos em vigor e estabeleça transição antes da retirada das marcas de patrocinadores.",
+      "publicado_em": "2026-10-02T09:45:04-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "c1cf40cfb6eb29a0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Antonio Tabet ironiza \"alerta\" de Flávio Bolsonaro sobre censura",
+      "link": "https://www.congressoemfoco.com.br/noticia/122879/antonio-tabet-ironiza-alerta-de-flavio-bolsonaro-sobre-censura",
+      "resumo": "Humorista reage sem dizer uma palavra ao candidato, cuja campanha pediu a retirada de seu post sobre Nossa Senhora Aparecida.",
+      "publicado_em": "2026-10-02T08:28:51-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "b3d0e67b61ed6033",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mochila arremessada perto do STF não continha bomba, diz PM",
+      "link": "https://www.congressoemfoco.com.br/noticia/122877/mochila-arremessada-perto-do-stf-nao-continha-bomba-diz-pm",
+      "resumo": "Homem de 28 anos tentou pular grade da Corte; Esquadrão Antibombas encontrou apenas objetos pessoais e ele foi liberado após depor. Área da Praça dos Três Poderes ficou interdiatada por duas horas.",
+      "publicado_em": "2026-10-02T08:07:27-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "904c955c00219912",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "EUA suspendem serviços consulares no Brasil por \"questão de segurança\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122872/eua-suspendem-servicos-consulares-no-brasil-por-questao-de-seguranca",
+      "resumo": "Medida foi adotada após ameaça não detalhada; funcionários foram orientados a trabalhar de casa e atendimento emergencial será feito por canais de plantão.",
+      "publicado_em": "2026-10-02T07:29:19-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "1182aa4ebb3d8078",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Mulheres do Judiciário participam de curso de defesa pessoal em Porto Nacional",
+      "link": "https://www.cnj.jus.br/mulheres-do-judiciario-participam-de-curso-de-defesa-pessoal-em-porto-nacional/",
+      "resumo": "Mulheres do Poder Judiciário Tocantinense participaram, no dia 25 de setembro, da segunda turma do curso Técnicas de Segurança e Defesa Pessoal para Mulheres, realizada presencialmente no Fórum da Comarca de Porto Nacional. A capacitação é promovida pela Escola Superior da Magistratura Tocantinense ",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "dfcdd026e69acfb5",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Justiça Itinerante abrirá programação da Semana da Regularização Tributária no RS",
+      "link": "https://www.cnj.jus.br/justica-itinerante-abrira-programacao-da-semana-da-regularizacao-tributaria-no-rs/",
+      "resumo": "O Tribunal de Justiça do Rio Grande do Sul (TJRS) inicia, na segunda-feira (5/10), a programação da III Semana Nacional da Regularização Tributária, com uma ação da Justiça Itinerante no Largo Glênio Peres, centro de Porto Alegre. Das 9h às 17h, a população poderá buscar orientações sobre pendências",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "2b0505fe2f94ab2a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto obriga estados e municípios a divulgar fotos de obras públicas nos portais da transparência",
+      "link": "https://www.camara.leg.br/noticias/1305883-projeto-obriga-estados-e-municipios-a-divulgar-fotos-de-obras-publicas-nos-portais-da-transparencia",
+      "resumo": "",
+      "publicado_em": "2026-10-02T12:04:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "f5edb4c128cccbe6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eleições 2026: saiba a ordem dos votos na urna eletrônica",
+      "link": "https://www.camara.leg.br/noticias/1306560-eleicoes-2026-saiba-a-ordem-dos-votos-na-urna-eletronica",
+      "resumo": "",
+      "publicado_em": "2026-10-02T11:15:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-24T12:42:47-03:00"
+    },
+    {
+      "id": "60b58113cffea611",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe compra pública de produtos agropecuários de áreas invadidas",
+      "link": "https://www.camara.leg.br/noticias/1305296-projeto-proibe-compra-publica-de-produtos-agropecuarios-de-areas-invadidas",
+      "resumo": "",
+      "publicado_em": "2026-10-02T11:07:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "92bb3d56a0f54afc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto facilita legalização de poços domésticos e flexibiliza regras de esgoto",
+      "link": "https://www.camara.leg.br/noticias/1304993-projeto-facilita-legalizacao-de-pocos-domesticos-e-flexibiliza-regras-de-esgoto",
+      "resumo": "",
+      "publicado_em": "2026-10-02T10:30:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "0f2b7b3a1355be1f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Morre ex-deputado federal Edgar Moury Fernandes Sobrinho",
+      "link": "https://www.camara.leg.br/noticias/1307958-morre-ex-deputado-federal-edgar-moury-fernandes-sobrinho",
+      "resumo": "",
+      "publicado_em": "2026-10-02T09:02:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "1e1ebe8ef0ac2b73",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto estabelece que pessoas com deficiência ocupem pelo menos 5% dos cargos do serviço público federal",
+      "link": "https://www.camara.leg.br/noticias/1304618-projeto-estabelece-que-pessoas-com-deficiencia-ocupem-pelo-menos-5-dos-cargos-do-servico-publico-federal",
+      "resumo": "",
+      "publicado_em": "2026-10-02T08:52:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
     {
       "id": "ad422193a9fe1099",
       "fonte_id": "trt2",
@@ -291,6 +841,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-01T14:16:36-03:00"
+    },
+    {
+      "id": "e268119c8a8b7724",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 dá posse ao novo Corpo Diretivo para o biênio 2026-2028",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-empossa-novo-corpo-diretivo-para-o-bienio-2026-2028",
+      "resumo": "",
+      "publicado_em": "2026-10-01T12:00:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
     },
     {
       "id": "7e3884e692ceab83",
@@ -792,6 +1358,22 @@ window.DADOS = {
       "coletado_em": "2026-10-01T20:34:57-03:00"
     },
     {
+      "id": "ec2d696053050f03",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Saiba quais são as obras aprovadas para o Programa Nacional do Livro Didático",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/mec-divulga-resultado-de-obras-aprovadas-do-pnld",
+      "resumo": "",
+      "publicado_em": "2026-10-01T20:07:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
       "id": "7d5e84f85a32edd0",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1005,6 +1587,82 @@ window.DADOS = {
       "coletado_em": "2026-10-01T14:16:36-03:00"
     },
     {
+      "id": "e88122cb9a63c16d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Candidatos lamentam cancelamento de debate: \"frustrante\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122870/candidatos-lamentam-cancelamento-de-debate--frustrante",
+      "resumo": "Ronaldo Caiado, Augusto Cury e Romeu Zema criticam episódio.",
+      "publicado_em": "2026-10-01T22:17:54-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "378529bae683feba",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula explica ausência na Globo: \"infrutífero e desproporcional\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122868/lula-explica-ausencia-na-globo--infrutifero-e-desproporcional",
+      "resumo": "Presidente afirmou que o formato atual interrompe a discussão, estimula \"piadinhas\" e não permite um confronto mais consistente entre candidatos.",
+      "publicado_em": "2026-10-01T21:08:11-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "a3f76f9c2735a068",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Após debate cancelado, Renan diz que Flávio recuou por \"medo\" dele",
+      "link": "https://www.congressoemfoco.com.br/noticia/122867/apos-debate-cancelado-renan-diz-que-flavio-recuou-por-medo-dele",
+      "resumo": "Candidato do Missão afirma que Flávio cancelou participação três minutos após sua entrada no debate ser confirmada.",
+      "publicado_em": "2026-10-01T20:58:05-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "619cdb1b4d5963c0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Globo cancela debate presidencial e fala em \"insegurança jurídica\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122866/globo-cancela-debate-presidencial-e-fala-em-inseguranca-juridica",
+      "resumo": "Emissora atribuiu decisão a mudanças judiciais de última hora sobre formato e participantes do encontro marcado para esta quinta.",
+      "publicado_em": "2026-10-01T20:52:43-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "07ec4caa8c9286c3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Suspeita de bomba: PM isola área após homem jogar mochila perto do STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122865/suspeita-de-bomba-pm-isola-area-apos-homem-jogar-mochila-perto-do-stf",
+      "resumo": "Suspeito tentou pular as grades da Corte e foi detido; Esquadrão Antibombas foi acionado para examinar a mochila.",
+      "publicado_em": "2026-10-01T20:52:16-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
       "id": "1c8163292522496a",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1084,6 +1742,20 @@ window.DADOS = {
         "cade"
       ],
       "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "758ca5e150230a5b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro faz live após desistir de debate",
+      "link": "https://www.congressoemfoco.com.br/noticia/122856/flavio-bolsonaro-faz-live-apos-desistir-de-debate",
+      "resumo": "Debate acabou cancelado após decisões do TSE.",
+      "publicado_em": "2026-10-01T18:12:27-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
     },
     {
       "id": "5007eee3dc69ffec",
@@ -1178,6 +1850,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-01T17:47:12-03:00"
+    },
+    {
+      "id": "b13e059cbf3e5411",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula participa do Flow Podcast na reta final do 1º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/122842/lula-participa-do-flow-podcast-na-reta-final-do-1-turno",
+      "resumo": "Presidente foi entrevistado a três dias do primeiro turno das eleições.",
+      "publicado_em": "2026-10-01T15:55:28-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
     },
     {
       "id": "0d3b508abfd6d327",
@@ -1602,7 +2288,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Pena Justa avança na Paraíba com cumprimento de metas e fortalecimento das políticas penais",
       "link": "https://www.cnj.jus.br/pena-justa-avanca-na-paraiba-com-cumprimento-de-metas-e-fortalecimento-das-politicas-penais/",
-      "resumo": "Os avanços na execução do Plano Pena Justa na Paraíba foram apresentados pelo Conselho Penitenciário do Estado, durante uma reunião realizada nesta quarta-feira (30), na Presidência do Tribunal de Justiça do Estado (TJPB), em João Pessoa. O encontro reuniu também integrantes  do Comitê de Políticas ",
+      "resumo": "Os avanços na execução do plano Pena Justa na Paraíba foram apresentados pelo Conselho Penitenciário do estado, durante uma reunião realizada nesta quarta-feira (30), na Presidência do Tribunal de Justiça da Paraíba (TJPB), em João Pessoa. O encontro reuniu também integrantes do Comitê de Políticas ",
       "publicado_em": "2026-10-01T12:00:00-03:00",
       "dia": "2026-10-01",
       "data_estimada": true,
@@ -1669,6 +2355,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-01T17:47:12-03:00"
+    },
+    {
+      "id": "6d8079907893bebc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Conselho de Comunicação debate audiovisual e comunicação pública na segunda-feira; participe",
+      "link": "https://www.camara.leg.br/noticias/1307857-conselho-de-comunicacao-debate-audiovisual-e-comunicacao-publica-na-segunda-feira-participe",
+      "resumo": "",
+      "publicado_em": "2026-10-01T16:03:00-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T13:30:02-03:00"
     },
     {
       "id": "34549fe3381155ee",
@@ -9556,20 +10258,6 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-24T16:47:01-03:00"
-    },
-    {
-      "id": "f5edb4c128cccbe6",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Eleições 2026: saiba a ordem dos votos na urna eletrônica",
-      "link": "https://www.camara.leg.br/noticias/1306560-eleicoes-2026-saiba-a-ordem-dos-votos-na-urna-eletronica",
-      "resumo": "",
-      "publicado_em": "2026-09-24T11:27:00-03:00",
-      "dia": "2026-09-24",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-24T12:42:47-03:00"
     },
     {
       "id": "f2a251d024a16a20",
@@ -69414,97 +70102,6 @@ window.DADOS = {
       "tags": [
         "acao"
       ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "f4495c322b9a544d",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "TRT-2 recebe Selo Ouro por inventários de emissões de gases de efeito estufa",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-recebe-selo-ouro-por-inventarios-de-emissoes-de-gases-de-efeito-estufa",
-      "resumo": "",
-      "publicado_em": "2026-07-03T12:00:00-03:00",
-      "dia": "2026-07-03",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "f0d3caecb2eb64ec",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Feriados de julho suspendem atendimento em unidades da 2ª Região",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/feriados-de-julho-suspendem-atendimento-em-unidades-da-2a-regiao",
-      "resumo": "",
-      "publicado_em": "2026-07-03T12:00:00-03:00",
-      "dia": "2026-07-03",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "b95614d04315e4eb",
-      "fonte_id": "cvm",
-      "fonte_nome": "CVM",
-      "titulo": "CVM adequa canais de comunicação para cumprir normas do período eleitoral",
-      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/cvm-adequa-canais-de-comunicacao-para-cumprir-normas-do-periodo-eleitoral",
-      "resumo": "Comentários das redes sociais estarão desativados até o fim das eleições",
-      "publicado_em": "2026-07-03T19:00:34-03:00",
-      "dia": "2026-07-03",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "8359e11795b4fdfd",
-      "fonte_id": "bacen",
-      "fonte_nome": "Bacen",
-      "titulo": "Ecossistema de duplicatas escriturais: títulos de crédito passarão a ser negociados em formato digital",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21194/nota",
-      "resumo": "Novo modelo substitui o formato físico por registros eletrônicos padronizados e rastreáveis. Objetivo é reduzir assimetrias de informação e dar maior segurança operacional e jurídica às operações.",
-      "publicado_em": "2026-07-03T10:54:54-03:00",
-      "dia": "2026-07-03",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "6a48b226ad1c7d8e",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "ANPD conclui monitoramento de encarregados de dados e vai avaliar sanção a 21 empresas e órgãos públicos",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-conclui-monitoramento-avaliar-sancao-empresas-orgaos-publicos",
-      "resumo": "Entidades que não atenderam solicitações de adequação relacionadas aos agentes de tratamento de dados podem sofrer sanção. Outras 27 empresas e órgãos se adequaram em razão da atuação da Agência",
-      "publicado_em": "2026-07-03T16:34:00-03:00",
-      "dia": "2026-07-03",
-      "data_estimada": false,
-      "score": 56,
-      "tags": [
-        "sancao",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "7c949156e9f79bc0",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "Site e redes sociais da ANPD ficarão restritos no período do defeso eleitoral",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/site-e-redes-sociais-da-anpd-ficarao-restritos-no-periodo-do-defeso-eleitoral",
-      "resumo": "Apenas publicações estritamente informativas e de serviço público continuarão a ser disponibilizadas nos canais institucionais. Páginas de transparência ativa e canais de denúncia seguem funcionando",
-      "publicado_em": "2026-07-03T10:53:00-03:00",
-      "dia": "2026-07-03",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
