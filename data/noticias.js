@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-02T15:46:07-03:00",
+  "gerado_em": "2026-10-02T17:20:54-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -179,7 +179,7 @@ window.DADOS = {
     {
       "id": "fazenda",
       "status": "ok",
-      "itens": 27,
+      "itens": 26,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -251,6 +251,22 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "e9c81be9c143c851",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 regulamenta procedimentos para combater o assédio eleitoral no ambiente de trabalho",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-regulamenta-procedimentos-para-combater-o-assedio-eleitoral-no-ambiente-de-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
       "id": "1bbcb30a6f37213f",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -272,7 +288,7 @@ window.DADOS = {
       "fonte_nome": "TJSP",
       "titulo": "Plataforma indenizará pais impedidos de embarcar em ônibus com bebê de colo",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115606&pagina=1",
-      "resumo": "Exigência de passagem adicional foi considerada abusiva.\n \n\tA 17ª Câmara de Direito Privado do Tribunal de Justiça de São condenou plataforma de venda de passagens",
+      "resumo": "Exigência de passagem adicional foi considerada abusiva.\n \n\tA 17ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo condenou plataforma de venda de",
       "publicado_em": "2026-10-02T12:00:00-03:00",
       "dia": "2026-10-02",
       "data_estimada": true,
@@ -352,7 +368,7 @@ window.DADOS = {
       "fonte_nome": "STF",
       "titulo": "Confira os destaques do Plenário Virtual",
       "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-28/",
-      "resumo": "Sessão virtual começou às 11h desta sexta-feira (02) e termina às 23h59 do dia 9 de outubro",
+      "resumo": "Sessão virtual começou às 11h desta sexta-feira (02) e termina às 23h59 de 9 de outubro",
       "publicado_em": "2026-10-02T12:41:07-03:00",
       "dia": "2026-10-02",
       "data_estimada": false,
@@ -377,6 +393,50 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "2fb7a4db69aeb785",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleitor vai votar duas vezes para senador, e os dois votos têm mesmo peso",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/eleitor-vai-votar-duas-vezes-para-senador-e-os-dois-votos-tem-mesmo-peso",
+      "resumo": "",
+      "publicado_em": "2026-10-02T17:11:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
+      "id": "17610d714948b807",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Divulgação dos resultados das eleições começa às 17h",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/divulgacao-dos-resultados-das-eleicoes-comeca-as-17h",
+      "resumo": "",
+      "publicado_em": "2026-10-02T16:33:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
+      "id": "3e2416b535e2d3a7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições deste domingo levam 158 milhões de brasileiros às urnas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/eleicoes-deste-domingo-levam-158-milhoes-de-brasileiros-as-urnas",
+      "resumo": "",
+      "publicado_em": "2026-10-02T16:30:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
     },
     {
       "id": "0c99b69b20f5809d",
@@ -458,6 +518,39 @@ window.DADOS = {
       "coletado_em": "2026-10-02T13:30:02-03:00"
     },
     {
+      "id": "468c8799dbf5d3d5",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende sementes de maconha em encomendas internacionais",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-apreende-sementes-de-maconha-em-encomendas-internacionais",
+      "resumo": "",
+      "publicado_em": "2026-10-02T16:06:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 6,
+      "tags": [
+        "comenda",
+        "apreende"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
+      "id": "851a17df4e8df5fc",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende armas de fogo, haxixe, eletrônicos e medicamentos em ônibus de turismo",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/setembro/receita-federal-apreende-armas-de-fogo-haxixe-eletronicos-e-medicamentos-em-onibus-de-turismo",
+      "resumo": "",
+      "publicado_em": "2026-10-02T16:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
       "id": "bc75fadb55321f87",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -534,6 +627,69 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "bab6cc891c5f2ede",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Governo Federal amplia fiscalização contra bets ilegais",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-amplia-fiscalizacao-contra-bets-ilegais",
+      "resumo": "",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
+      "id": "90cfd86c1dc84701",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rede de universidades federais acolhe professores e educadores vítimas de perseguição",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/rede-acolhe-educadores-vitimas-de-censura-e-perseguicao",
+      "resumo": "",
+      "publicado_em": "2026-10-02T16:07:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
+      "id": "b2cdf9114cbbe030",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério abre renegociação de dívidas para empregadores e MEI's com descontos de 50% a 100%",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pgfn-lanca-dois-novos-editais-e-prorroga-adesao-a-outros-tres-de-renegociacao-de-dividas",
+      "resumo": "",
+      "publicado_em": "2026-10-02T15:41:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
+      "id": "f4693fa3ab925b3a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF apreende meio milhão de reais durante investigação eleitoral em Aracaju",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-apreende-meio-milhao-de-reais-durante-investigacao-eleitoral-em-aracaju",
+      "resumo": "",
+      "publicado_em": "2026-10-02T14:23:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "acao",
+        "apreende"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
     },
     {
       "id": "bd638e33d5966e16",
@@ -654,6 +810,24 @@ window.DADOS = {
       "coletado_em": "2026-10-02T15:46:07-03:00"
     },
     {
+      "id": "8eab90f42ded9a0a",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita atualiza balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-atualiza-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
       "id": "bf8942a40743100d",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -666,6 +840,53 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "1452c7ed065a3668",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM multa em R$ 3 milhões Neo In Construções e Incorporação Ltda. e seu administrador",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-multa-em-r-3-milhoes-neo-in-construcoes-e-incorporacao-ltda-e-seu-administrador",
+      "resumo": "",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
+      "id": "9ceed383d8b0d957",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin pede que PF informe envolvimento de ministros no caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/122923/fachin-pede-que-pf-informe-envolvimento-de-ministros-no-caso-master",
+      "resumo": "Fachin cobra da PF acesso integral a informações sobre ministros no caso Master e defende coordenação entre investigação e Judiciário.",
+      "publicado_em": "2026-10-02T16:17:49-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
+      "id": "6cd7c4c74fdff612",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan nega apoiar Lula e mira Flávio: \"quem ajuda a estrelinha do PT?\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122918/renan-nega-apoiar-lula-e-mira-flavio--quem-ajuda-a-estrelinha-do-pt",
+      "resumo": "Em vídeo, Renan Santos apresenta um quadro com os três nomes e aponta o que considera convergências entre o senador e o presidente.",
+      "publicado_em": "2026-10-02T15:25:04-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
     },
     {
       "id": "3386542c2bf6b471",
@@ -682,6 +903,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-02T15:46:07-03:00"
+    },
+    {
+      "id": "11947d08de7cbe0e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O primeiro turno se aproxima; as perguntas permanecem",
+      "link": "https://www.congressoemfoco.com.br/artigo/122908/o-primeiro-turno-se-aproxima-as-perguntas-permanecem",
+      "resumo": "A campanha presidencial termina mais preocupada com quem derrotar do que com o que fazer depois. Diante do primeiro turno, permanece a pergunta essencial: o que cada candidatura pretende fazer com o poder?",
+      "publicado_em": "2026-10-02T12:56:25-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
     },
     {
       "id": "e2b09356760c10eb",
@@ -923,6 +1158,103 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "d31e490844a63b8a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Data comemorativa que homenageia conciliadores e mediadores é aprovada pelo CNJ",
+      "link": "https://www.cnj.jus.br/data-comemorativa-que-homenageia-conciliadores-e-mediadores-e-aprovada-pelo-cnj/",
+      "resumo": "O Plenário do Conselho Nacional de Justiça (CNJ) aprovou, durante a 14ª Sessão Virtual de 2026, encerrada nesta sexta-feira (2/10), a criação do Dia Nacional em Homenagem ao Conciliador e ao Mediador, a ser celebrado anualmente em 23 de setembro. A data comemorativa visa reconhecer e valorizar a atu",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 0,
+      "tags": [
+        "aprova",
+        "acao",
+        "homenagem",
+        "homenageia",
+        "comemora"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
+      "id": "c80e9153158021c6",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Fiscalização de Tribunais de Contas na implementação do Pena Justa é alinhada com o CNJ",
+      "link": "https://www.cnj.jus.br/fiscalizacao-de-tribunais-de-contas-na-implementacao-do-pena-justa-e-alinhada-com-o-cnj/",
+      "resumo": "Um acordo de cooperação entre o Conselho Nacional de Justiça (CNJ) e a Associação dos Membros dos Tribunais de Contas do Brasil (Atricon) vai garantir a sustentabilidade orçamentária do plano Pena Justa, voltado ao enfrentamento dos problemas estruturais do sistema prisional brasileiro. A previsão é",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
+      "id": "e9025b369165a109",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Saiba como os tribunais podem utilizar soluções tecnológicas nacionalizadas pelo Conecta",
+      "link": "https://www.cnj.jus.br/saiba-como-os-tribunais-podem-utilizar-solucoes-tecnologicas-nacionalizadas-pelo-conecta/",
+      "resumo": "Soluções tecnológicas que automatizam processos, simplificam tarefas, otimizam cálculos e aceleram a entrega de serviços de Justiça: desde 2025, o Programa Conecta já nacionalizou 14 ferramentas desenvolvidas por tribunais brasileiros. A iniciativa foi instituída pelo Conselho Nacional de Justiça (C",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
+      "id": "db4aacb6988ebf69",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Cooperação para racionalizar execuções fiscais é firmada entre o CNJ e a Procuradoria-Geral de Maceió",
+      "link": "https://www.cnj.jus.br/cooperacao-para-racionalizar-execucoes-fiscais-e-firmada-entre-o-cnj-e-procuradoria-geral-de-maceio/",
+      "resumo": "Representantes do Conselho Nacional de Justiça (CNJ), do Tribunal de Justiça de Alagoas (TJAL), da Corregedoria-Geral de Justiça (CGJ) e da Procuradoria-Geral de Maceió firmaram, nesta quinta (1º), acordo de cooperação técnica para a racionalização dos processos de execução fiscal, que tramitam na 1",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
+      "id": "f71d310210f4fd83",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto abona faltas escolares de estudantes com deficiência durante período menstrual",
+      "link": "https://www.camara.leg.br/noticias/1306831-projeto-abona-faltas-escolares-de-estudantes-com-deficiencia-durante-periodo-menstrual",
+      "resumo": "",
+      "publicado_em": "2026-10-02T16:44:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
+    },
+    {
+      "id": "b90c0762635e2841",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê a permanência de pessoa idosa em plano de saúde após a morte do titular",
+      "link": "https://www.camara.leg.br/noticias/1305647-projeto-preve-a-permanencia-de-pessoa-idosa-em-plano-de-saude-apos-a-morte-do-titular",
+      "resumo": "",
+      "publicado_em": "2026-10-02T16:14:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T17:20:54-03:00"
     },
     {
       "id": "1cc699dc99e8d522",
