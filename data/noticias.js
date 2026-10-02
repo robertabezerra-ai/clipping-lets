@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-02T13:30:02-03:00",
+  "gerado_em": "2026-10-02T15:46:07-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,13 +173,13 @@ window.DADOS = {
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 26,
+      "itens": 28,
       "erro": null
     },
     {
       "id": "fazenda",
       "status": "ok",
-      "itens": 28,
+      "itens": 27,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -239,7 +239,7 @@ window.DADOS = {
     {
       "id": "governo_federal",
       "status": "ok",
-      "itens": 19,
+      "itens": 18,
       "erro": null
     },
     {
@@ -301,12 +301,58 @@ window.DADOS = {
       "coletado_em": "2026-10-02T13:30:02-03:00"
     },
     {
+      "id": "e93f9af3ee3f7907",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Boas práticas: Foro Regional de Santo Amaro realiza gincana sustentável",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115611&pagina=1",
+      "resumo": "Ação alinhada às diretrizes do Plano de Logística Sustentável.\n \n\tO Foro Regional de Santo Amaro realizou, nos últimos meses, gincana sustentável destinada à redução do",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
+    },
+    {
+      "id": "529d621e9db10f7f",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF recebe missão eleitoral da OEA",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-recebe-missao-eleitoral-da-oea/",
+      "resumo": "Em encontro no gabinete da Presidência do STF, ministro Fachin destacou a importância da Missão de Observação Eleitoral da OEA",
+      "publicado_em": "2026-10-02T15:34:51-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
+    },
+    {
+      "id": "8a75d4dacd2304a3",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ministra Cármen Lúcia fala sobre democracia e eleições a estudantes de Belo Horizonte",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ministra-carmen-lucia-fala-sobre-democracia-e-eleicoes-a-estudantes-de-belo-horizonte/",
+      "resumo": "Alunas e alunos da E. E. Pandiá Calógeras também puderam fazer perguntas para a ex-presidente do TSE",
+      "publicado_em": "2026-10-02T15:20:59-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
+    },
+    {
       "id": "60c03345c8bc15b6",
       "fonte_id": "stf",
       "fonte_nome": "STF",
       "titulo": "Confira os destaques do Plenário Virtual",
       "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-28/",
-      "resumo": "Sessão virtual começou às 11h desta sexta-feira (02) e termina às 23h59 do dia 09/10",
+      "resumo": "Sessão virtual começou às 11h desta sexta-feira (02) e termina às 23h59 do dia 9 de outubro",
       "publicado_em": "2026-10-02T12:41:07-03:00",
       "dia": "2026-10-02",
       "data_estimada": false,
@@ -331,6 +377,36 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "0c99b69b20f5809d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Festa da democracia: Senado e Câmara farão cobertura especial das eleições",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/02/festa-da-democracia-senado-e-camara-farao-cobertura-especial-das-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-02T15:34:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
+    },
+    {
+      "id": "7560788f2e73fdd1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Verifica orienta eleitores sobre desinformação nas Eleições 2026",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/senado-verifica-orienta-eleitores-sobre-desinformacao-nas-eleicoes-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-02T14:35:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
     },
     {
       "id": "9794df61f46a7472",
@@ -382,6 +458,38 @@ window.DADOS = {
       "coletado_em": "2026-10-02T13:30:02-03:00"
     },
     {
+      "id": "bc75fadb55321f87",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-10-02T15:10:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
+    },
+    {
+      "id": "0fa601bded063d59",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal inicia projeto-piloto com biometria na Aduana da Ponte Internacional da Amizade",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-inicia-projeto-piloto-com-biometria-na-aduana-da-ponte-internacional-da-amizade",
+      "resumo": "",
+      "publicado_em": "2026-10-02T14:36:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
+    },
+    {
       "id": "8e41bd8bd6ca9844",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -428,6 +536,20 @@ window.DADOS = {
       "coletado_em": "2026-10-02T13:30:02-03:00"
     },
     {
+      "id": "bd638e33d5966e16",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil firma acordo para ampliar produção de imunoglobulina, medicamento para doenças do sangue",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/brasil-firma-acordo-para-ampliar-producao-de-imunoglobulina-medicamento-para-doencas-do-sangue",
+      "resumo": "",
+      "publicado_em": "2026-10-02T13:38:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
+    },
+    {
       "id": "19f4a91aebce4625",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -440,6 +562,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "12f45bff8af7c4ba",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Parque Nacional Cavernas do Peruaçu é convite à pré-história no norte de MG",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/parque-nacional-cavernas-do-peruacu-um-convite-a-pre-historia-no-norte-de-mg",
+      "resumo": "",
+      "publicado_em": "2026-10-02T12:19:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
     },
     {
       "id": "10dc571f07d88f1c",
@@ -502,6 +638,22 @@ window.DADOS = {
       "coletado_em": "2026-10-02T13:30:02-03:00"
     },
     {
+      "id": "dc30eca528959cdd",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "PGFN lança dois novos editais e prorroga adesão a outros três de renegociação de dívidas",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/procuradoria-geral-da-fazenda-nacional-lanca-dois-ovos-editais-e-prorroga-adesao-a-outros-tres-programas",
+      "resumo": "",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
+    },
+    {
       "id": "bf8942a40743100d",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -514,6 +666,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "3386542c2bf6b471",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula rebate críticas e explica proposta de vetar cartão não solicitado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122917/lula-rebate-criticas-e-explica-proposta-de-vetar-cartao-nao-solicitado",
+      "resumo": "Manifestação veio um dia depois de o presidente dizer, em entrevista ao Flow Podcast, que o governo discutia com o Banco Central medidas para limitar a oferta de cartões.",
+      "publicado_em": "2026-10-02T15:09:26-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
     },
     {
       "id": "e2b09356760c10eb",
@@ -531,6 +699,34 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "e1025b855695fb66",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vingança? Debate de 2026 rememora polêmica entre Lula e Collor em 1989",
+      "link": "https://www.congressoemfoco.com.br/noticia/122905/vinganca-debate-de-2026-rememora-polemica-entre-lula-e-collor-em-1989",
+      "resumo": "Episódio de 37 anos atrás voltar a circular nas redes sociais após cancelamento de debate na quinta-feira (1º).",
+      "publicado_em": "2026-10-02T12:29:53-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
+    },
+    {
+      "id": "b48d1bf38e9706d9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Problemas graves no país que prioriza interferir no quintal alheio",
+      "link": "https://www.congressoemfoco.com.br/artigo/122904/problemas-graves-no-pais-que-prioriza-interferir-no-quintal-alheio",
+      "resumo": "Diesel caro, estoques pressionados e gargalos logísticos atingem os EUA mesmo com a produção de petróleo próxima de níveis recordes.",
+      "publicado_em": "2026-10-02T12:14:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
     },
     {
       "id": "93f85b7f3997898f",
@@ -609,6 +805,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "13378f8304286542",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cadeirada, inseticida e debate: a cadeira como destaque nas eleições",
+      "link": "https://www.congressoemfoco.com.br/noticia/122888/cadeirada-inseticida-e-debate-a-cadeira-como-destaque-nas-eleicoes",
+      "resumo": "Objeto aparentemente banal já virou símbolo de vitória antecipada, foi \"desinfetado\" e até usado como arma durante debate.",
+      "publicado_em": "2026-10-02T10:13:45-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
     },
     {
       "id": "95630facd394a41d",
@@ -711,6 +923,64 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "1cc699dc99e8d522",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê pena para quem compartilha ofensas à honra em redes sociais",
+      "link": "https://www.camara.leg.br/noticias/1305524-projeto-preve-pena-para-quem-compartilha-ofensas-a-honra-em-redes-sociais",
+      "resumo": "",
+      "publicado_em": "2026-10-02T15:42:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
+    },
+    {
+      "id": "2dfc767722d7ae88",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto torna crime incentivar o suicídio em casos de violência doméstica",
+      "link": "https://www.camara.leg.br/noticias/1305319-projeto-torna-crime-incentivar-o-suicidio-em-casos-de-violencia-domestica",
+      "resumo": "",
+      "publicado_em": "2026-10-02T15:14:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
+    },
+    {
+      "id": "3c5830bae99e03ce",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara e Senado farão checagem de informações para eleitores neste domingo",
+      "link": "https://www.camara.leg.br/noticias/1308075-camara-e-senado-farao-checagem-de-informacoes-para-eleitores-neste-domingo",
+      "resumo": "",
+      "publicado_em": "2026-10-02T14:28:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
+    },
+    {
+      "id": "a111455fd7b2dbcc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe devedor de pensão alimentícia de frequentar estádios e eventos esportivos",
+      "link": "https://www.camara.leg.br/noticias/1305592-projeto-proibe-devedor-de-pensao-alimenticia-de-frequentar-estadios-e-eventos-esportivos",
+      "resumo": "",
+      "publicado_em": "2026-10-02T14:25:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-02T15:46:07-03:00"
     },
     {
       "id": "2b0505fe2f94ab2a",
