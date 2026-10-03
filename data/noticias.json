@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-02T20:26:18-03:00",
+  "gerado_em": "2026-10-03T12:03:17-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -250,6 +250,52 @@
     }
   ],
   "noticias": [
+    {
+      "id": "52939ed884989987",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Cadicrim disponibiliza novo Repertório de Jurisprudência",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115572&pagina=1",
+      "resumo": "Seleção traz decisões recentes da área criminal.\n \n\tO Centro de Apoio da Seção de Direito Criminal do Tribunal de Justiça de São Paulo (Cadicrim) disponibilizou",
+      "publicado_em": "2026-10-03T12:00:00-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-03T12:03:17-03:00"
+    },
+    {
+      "id": "528b8a9a052fec2d",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Eleições serão monitoradas em tempo real nas 27 Unidades da Federação",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/eleicoes-serao-monitoradas-em-tempo-real-nas-27-unidades-da-federacao",
+      "resumo": "",
+      "publicado_em": "2026-10-03T12:00:00-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-03T12:03:17-03:00"
+    },
+    {
+      "id": "89ebe0500341fef7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Exata OP: Celina chega a 54% dos votos válidos; Grass tem 30% no DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122936/exata-op-celina-chega-a-54-dos-votos-validos-grass-tem-30-no-df",
+      "resumo": "Levantamento coloca Celina acima dos 50% dos votos válidos, patamar suficiente para vencer no primeiro turno; Michelle e Bia aparecem à frente na disputa pelas duas vagas do Senado.",
+      "publicado_em": "2026-10-03T09:28:40-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-03T12:03:17-03:00"
+    },
     {
       "id": "e9c81be9c143c851",
       "fonte_id": "trt2",
@@ -972,6 +1018,36 @@
       "coletado_em": "2026-10-02T17:20:54-03:00"
     },
     {
+      "id": "6e0cf9767b5e1e58",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara abre concurso com 66 vagas e salário de R$ 32 mil; veja edital",
+      "link": "https://www.congressoemfoco.com.br/noticia/122934/camara-abre-concurso-com-66-vagas-e-salario-de-r-32-mil-veja-edital",
+      "resumo": "Edital prevê ainda 118 vagas para cadastro de reserva; há oportunidades para jornalistas, engenheiros, arquivistas e outras carreiras.",
+      "publicado_em": "2026-10-02T20:29:08-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-03T12:03:17-03:00"
+    },
+    {
+      "id": "e158e2c5072f7a12",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ministro do TSE decide que votos em Garotinho ficarão fora dos válidos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122933/ministro-do-tse-decide-que-votos-em-garotinho-ficarao-fora-dos-validos",
+      "resumo": "Nome do ex-governador continuará na urna neste domingo, mas votos ficarão fora da contagem dos válidos enquanto registro permanecer indeferido.",
+      "publicado_em": "2026-10-02T20:01:45-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decide"
+      ],
+      "coletado_em": "2026-10-03T12:03:17-03:00"
+    },
+    {
       "id": "990d9e4d40451541",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1001,6 +1077,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-02T20:26:18-03:00"
+    },
+    {
+      "id": "65fe8310c4493545",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleições além das fronteiras: Itamaraty e o voto no exterior",
+      "link": "https://www.congressoemfoco.com.br/artigo/122930/eleicoes-alem-das-fronteiras-itamaraty-e-o-voto-no-exterior",
+      "resumo": "Artigo destaca a atuação dos servidores do Itamaraty na organização das eleições no exterior e na garantia do direito ao voto de quase um milhão de brasileiros.",
+      "publicado_em": "2026-10-02T17:58:26-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-03T12:03:17-03:00"
     },
     {
       "id": "25cc956f2f9b23e5",
@@ -1093,6 +1185,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-02T20:26:18-03:00"
+    },
+    {
+      "id": "4f6b0d111fbeb4bf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Os múltiplos aspectos na polêmica sobre as bets",
+      "link": "https://www.congressoemfoco.com.br/coluna/122914/os-multiplos-aspectos-na-polemica-sobre-as-bets",
+      "resumo": "Endividamento e problemas de saúde mental reforçam críticas às apostas online, mas proibição repentina levanta dúvidas sobre segurança jurídica e transição para empresas e setores afetados.",
+      "publicado_em": "2026-10-02T14:39:50-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-03T12:03:17-03:00"
     },
     {
       "id": "11947d08de7cbe0e",
@@ -1373,7 +1479,7 @@
       "id": "c80e9153158021c6",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Fiscalização de Tribunais de Contas na implementação do Pena Justa é alinhada com o CNJ",
+      "titulo": "Fiscalização de tribunais de contas na implementação do Pena Justa é alinhada com o CNJ",
       "link": "https://www.cnj.jus.br/fiscalizacao-de-tribunais-de-contas-na-implementacao-do-pena-justa-e-alinhada-com-o-cnj/",
       "resumo": "Um acordo de cooperação entre o Conselho Nacional de Justiça (CNJ) e a Associação dos Membros dos Tribunais de Contas do Brasil (Atricon) vai garantir a sustentabilidade orçamentária do plano Pena Justa, voltado ao enfrentamento dos problemas estruturais do sistema prisional brasileiro. A previsão é",
       "publicado_em": "2026-10-02T12:00:00-03:00",
@@ -1391,7 +1497,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Saiba como os tribunais podem utilizar soluções tecnológicas nacionalizadas pelo Conecta",
       "link": "https://www.cnj.jus.br/saiba-como-os-tribunais-podem-utilizar-solucoes-tecnologicas-nacionalizadas-pelo-conecta/",
-      "resumo": "Soluções tecnológicas que automatizam processos, simplificam tarefas, otimizam cálculos e aceleram a entrega de serviços de Justiça: desde 2025, o Programa Conecta já nacionalizou 14 ferramentas desenvolvidas por tribunais brasileiros. A iniciativa foi instituída pelo Conselho Nacional de Justiça (C",
+      "resumo": "Soluções tecnológicas que automatizam processos, simplificam tarefas, otimizam cálculos e aceleram a entrega de serviços da Justiça: desde 2025, o Programa Conecta já nacionalizou 14 ferramentas desenvolvidas por tribunais brasileiros. A iniciativa foi instituída pelo Conselho Nacional de Justiça (C",
       "publicado_em": "2026-10-02T12:00:00-03:00",
       "dia": "2026-10-02",
       "data_estimada": true,
@@ -1405,7 +1511,7 @@
       "id": "db4aacb6988ebf69",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Cooperação para racionalizar execuções fiscais é firmada entre o CNJ e Procuradoria-Geral de Maceió",
+      "titulo": "Cooperação para racionalizar execuções fiscais é firmada entre o CNJ e a Procuradoria-Geral de Maceió",
       "link": "https://www.cnj.jus.br/cooperacao-para-racionalizar-execucoes-fiscais-e-firmada-entre-o-cnj-e-procuradoria-geral-de-maceio/",
       "resumo": "Representantes do Conselho Nacional de Justiça (CNJ), do Tribunal de Justiça de Alagoas (TJAL), da Corregedoria-Geral de Justiça (CGJ) e da Procuradoria-Geral de Maceió firmaram, nesta quinta (1º), acordo de cooperação técnica para a racionalização dos processos de execução fiscal, que tramitam na 1",
       "publicado_em": "2026-10-02T12:00:00-03:00",
@@ -2501,6 +2607,20 @@
         "acao"
       ],
       "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "1d73d46854e32f49",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Seu voto vai até 2035: Entenda o poder que estará em jogo no domingo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122862/seu-voto-vai-ate-2035-entenda-o-poder-que-estara-em-jogo-no-domingo",
+      "resumo": "Presidente, governadores e deputados terão quatro anos de mandato; senadores, oito. Saiba o que cada eleito pode fazer — e o que cobrar depois da eleição.",
+      "publicado_em": "2026-10-01T20:06:33-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-03T12:03:17-03:00"
     },
     {
       "id": "89d744f2779ccb36",
@@ -5795,6 +5915,20 @@
       "coletado_em": "2026-09-29T17:26:25-03:00"
     },
     {
+      "id": "b29552ee6d366b64",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dois terços em jogo: eleição pode mudar profundamente o Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122710/dois-tercos-em-jogo-eleicao-pode-mudar-profundamente-o-senado",
+      "resumo": "Dos 81 assentos da Casa, 54 estarão em disputa no primeiro turno; outros nove disputam governos estaduais.",
+      "publicado_em": "2026-09-29T15:27:42-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-03T12:03:17-03:00"
+    },
+    {
       "id": "9aa22ad0528b47a9",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -7435,6 +7569,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-28T18:34:47-03:00"
+    },
+    {
+      "id": "dac1ca3681e53a80",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Brasil vai às urnas para escolher presidente e renovar o Congresso",
+      "link": "https://www.congressoemfoco.com.br/noticia/122618/brasil-vai-as-urnas-para-escolher-presidente-e-renovar-o-congresso",
+      "resumo": "Eleição também definirá os governos dos 26 estados e do Distrito Federal e mais de mil deputados estaduais.",
+      "publicado_em": "2026-09-28T13:02:21-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-03T12:03:17-03:00"
     },
     {
       "id": "0ebce8fad7604527",
