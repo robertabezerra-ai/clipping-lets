@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-03T12:03:17-03:00",
+  "gerado_em": "2026-10-03T14:40:22-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -267,6 +267,42 @@
       "coletado_em": "2026-10-03T12:03:17-03:00"
     },
     {
+      "id": "5da5ea12728a3f76",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Concessionária de energia indenizará família de motociclista morto em acidente com postes",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115609&pagina=1",
+      "resumo": "Indenizações por danos morais, materiais e pensão.\n \n\tA 3ª Câmara de Direito Público do Tribunal de Justiça de São Paulo majorou indenização devida a familiares",
+      "publicado_em": "2026-10-03T12:00:00-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "indenizar",
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-03T14:40:22-03:00"
+    },
+    {
+      "id": "3b9d2e01d7416e3b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Julgamento sobre aplicação do estatuto do idoso a planos de saúde é destaque no Supremo na Semana",
+      "link": "https://noticias.stf.jus.br/postsnoticias/julgamento-sobre-aplicacao-do-estatuto-do-idoso-a-planos-de-saude-e-destaque-no-supremo-na-semana/",
+      "resumo": "Episódio #204 está disponível nas principais plataformas de áudio e no YouTube",
+      "publicado_em": "2026-10-03T12:00:00-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-10-03T14:40:22-03:00"
+    },
+    {
       "id": "528b8a9a052fec2d",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -281,6 +317,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-03T12:03:17-03:00"
+    },
+    {
+      "id": "87ab08d12100856e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar derruba direitos de resposta a Jerônimo por vídeos de ACM Neto",
+      "link": "https://www.congressoemfoco.com.br/noticia/122938/gilmar-derruba-direitos-de-resposta-a-jeronimo-por-videos-de-acm-neto",
+      "resumo": "Ministro considerou que publicações sobre o Pé-de-Meia e a Operação Overclean estão dentro dos limites da crítica política; proibição de impulsionamento de um dos vídeos foi mantida.",
+      "publicado_em": "2026-10-03T13:17:23-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-03T14:40:22-03:00"
     },
     {
       "id": "89ebe0500341fef7",
@@ -2590,6 +2642,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "aebc2b769a07537a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Por que o eleitor terá de votar duas vezes para senador neste domingo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122864/por-que-o-eleitor-tera-de-votar-duas-vezes-para-senador-neste-domingo",
+      "resumo": "Eleição renovará 54 das 81 cadeiras; levantamento do Congresso em Foco mostra queda no aproveitamento dos dois votos nas disputas com duas vagas.",
+      "publicado_em": "2026-10-01T20:34:10-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-03T14:40:22-03:00"
     },
     {
       "id": "1c8163292522496a",
