@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-03T15:59:33-03:00",
+  "gerado_em": "2026-10-03T19:33:30-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -285,6 +285,39 @@ window.DADOS = {
       "coletado_em": "2026-10-03T14:40:22-03:00"
     },
     {
+      "id": "a7c3a46c3498d857",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ministros lamentam falecimento do jornalista Márcio Chaer",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ministros-lamentam-falecimento-do-jornalista-marcio-chaer/",
+      "resumo": "Jornalista foi fundador e diretor do Conjur, portal especializado em notícias do Judiciário",
+      "publicado_em": "2026-10-03T19:16:29-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "falecimento"
+      ],
+      "coletado_em": "2026-10-03T19:33:30-03:00"
+    },
+    {
+      "id": "96d5d77b80b9775a",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF lamenta falecimento do jornalista Márcio Chaer",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-lamenta-falecimento-do-jornalista-marcio-chaer/",
+      "resumo": "Jornalista, falecido neste sábado, foi pioneiro na comunicação especializada no Poder Judiciário",
+      "publicado_em": "2026-10-03T18:57:35-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "acao",
+        "falecimento"
+      ],
+      "coletado_em": "2026-10-03T19:33:30-03:00"
+    },
+    {
       "id": "3b9d2e01d7416e3b",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -331,6 +364,51 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-03T15:59:33-03:00"
+    },
+    {
+      "id": "7482366b6e2c4595",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Caso Garotinho: Entenda o que o TSE decidiu e o que falta julgar",
+      "link": "https://www.congressoemfoco.com.br/noticia/122943/caso-garotinho-entenda-o-que-o-tse-decidiu-e-o-que-falta-julgar",
+      "resumo": "Ministro Floriano de Azevedo acelerou envio de recurso e determinou que votos fiquem fora dos válidos enquanto registro estiver indeferido. Corte ainda dará palavra final sobre candidatura.",
+      "publicado_em": "2026-10-03T18:35:27-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "julga",
+        "recurso"
+      ],
+      "coletado_em": "2026-10-03T19:33:30-03:00"
+    },
+    {
+      "id": "856dd82208cc2fdb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Morre Márcio Chaer, fundador do ConJur, após assalto em São Paulo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122941/morre-marcio-chaer-fundador-do-conjur-apos-assalto-em-sao-paulo",
+      "resumo": "Referência no jornalismo jurídico, jornalista passou mal ao perseguir criminosos no centro da capital paulista. Chaer foi um dos pioneiros no jornalismo jurídico do país na internet.",
+      "publicado_em": "2026-10-03T16:47:34-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-03T19:33:30-03:00"
+    },
+    {
+      "id": "7f8bec22b0c4e41e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula encerra campanha em SP com 6x1, bets e apelo aos idosos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122940/lula-encerra-campanha-em-sp-com-6x1-bets-e-apelo-aos-idosos",
+      "resumo": "No último ato de rua antes do primeiro turno, o presidente de 80 anos fez apelo aos eleitores mais velhos, defendeu o fim da escala 6x1 e voltou a criticar as bets.",
+      "publicado_em": "2026-10-03T15:52:28-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-03T19:33:30-03:00"
     },
     {
       "id": "f2084bb9f24bbed1",
@@ -7711,6 +7789,20 @@ window.DADOS = {
       "coletado_em": "2026-09-28T15:28:51-03:00"
     },
     {
+      "id": "18731ff0b858a3e1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleições 2026: tudo o que o eleitor precisa saber antes de votar",
+      "link": "https://www.congressoemfoco.com.br/noticia/122615/eleicoes-2026-tudo-o-que-o-eleitor-precisa-saber-antes-de-votar",
+      "resumo": "Veja horários, documentos necessários, ordem dos seis votos e como justificar a ausência nas Eleições 2026.",
+      "publicado_em": "2026-09-28T12:21:14-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-03T19:33:30-03:00"
+    },
+    {
       "id": "22b01df06ef4d601",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -9410,6 +9502,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-25T19:58:25-03:00"
+    },
+    {
+      "id": "b0ab6ace210918ee",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O que pode e o que não pode no dia da eleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/122577/o-que-pode-e-o-que-nao-pode-no-dia-da-eleicao",
+      "resumo": "Manifestação individual é permitida, mas boca de urna, aglomerações e propaganda eleitoral são proibidas durante a votação.",
+      "publicado_em": "2026-09-25T15:32:20-03:00",
+      "dia": "2026-09-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-03T19:33:30-03:00"
     },
     {
       "id": "379fb55df067c67a",
