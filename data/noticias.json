@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-03T14:40:22-03:00",
+  "gerado_em": "2026-10-03T15:59:33-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -317,6 +317,34 @@
         "acao"
       ],
       "coletado_em": "2026-10-03T12:03:17-03:00"
+    },
+    {
+      "id": "78427d3bb4a43f23",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP coordenará operações integradas de segurança pública durante as eleições",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-coordenara-operacoes-integradas-de-seguranca-publica-durante-as-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-03T12:00:00-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-03T15:59:33-03:00"
+    },
+    {
+      "id": "f2084bb9f24bbed1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio fecha campanha com Tarcísio em SP e leva motociata ao Rio",
+      "link": "https://www.congressoemfoco.com.br/noticia/122939/flavio-fecha-campanha-com-tarcisio-em-sp-e-leva-motociata-ao-rio",
+      "resumo": "Candidato passou a véspera da eleição ao lado de aliados no interior paulista e programou segundo ato no Rio; reta final teve críticas ao STF e apelo por voto útil.",
+      "publicado_em": "2026-10-03T15:06:12-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-03T15:59:33-03:00"
     },
     {
       "id": "87ab08d12100856e",
@@ -4418,6 +4446,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-01T14:16:36-03:00"
+    },
+    {
+      "id": "e7f29a0ea75546a5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Entenda como são contabilizados os votos para deputado federal",
+      "link": "https://www.congressoemfoco.com.br/noticia/122774/entenda-como-sao-contabilizados-os-votos-para-deputado-federal",
+      "resumo": "Eleição proporcional combina a votação individual dos candidatos com o desempenho dos partidos e federações em cada Estado.",
+      "publicado_em": "2026-09-30T16:38:11-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-03T15:59:33-03:00"
     },
     {
       "id": "4a2e52fa18e6c9e4",
