@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-04T12:41:35-03:00",
+  "gerado_em": "2026-10-04T14:54:09-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -267,6 +267,53 @@ window.DADOS = {
       "coletado_em": "2026-10-04T12:41:35-03:00"
     },
     {
+      "id": "f1f851e24dc603d0",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Tudo sobre custas no eproc: TJSP lança cartilhas completas",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115586&pagina=1",
+      "resumo": "Materiais para público interno e advogados.\n \n\tDas custas iniciais ao encerramento do processo: agora, as principais orientações sobre custas no eproc estão reunidas em um",
+      "publicado_em": "2026-10-04T12:00:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "processo",
+        "advogado"
+      ],
+      "coletado_em": "2026-10-04T14:54:09-03:00"
+    },
+    {
+      "id": "06b36b97152bd372",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF reafirma importância de eleições livres, transparentes e auditáveis",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-reafirma-importancia-de-eleicoes-livres-transparentes-e-auditaveis/",
+      "resumo": "Após votar, ministro Edson Fachin afirmou que as eleições representam o exercício pleno da soberania e da cidadania popular",
+      "publicado_em": "2026-10-04T13:12:28-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T14:54:09-03:00"
+    },
+    {
+      "id": "723e923094520cdc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio fica abaixo de Bolsonaro no Japão; Lula supera votação de 2022",
+      "link": "https://www.congressoemfoco.com.br/noticia/122961/flavio-fica-abaixo-de-bolsonaro-no-japao-lula-supera-votacao-de-2022",
+      "resumo": "Candidato do PL teve 71,59% dos votos válidos, ante 72,20% do pai em 2022; petista passou de 13,49% para 15,20%.",
+      "publicado_em": "2026-10-04T13:42:22-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T14:54:09-03:00"
+    },
+    {
       "id": "1d1b885adfd79741",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -453,9 +500,9 @@ window.DADOS = {
       "id": "a7ee301345ea1a51",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "Apuração no exterior: Lula lidera em 8 países; Flávio tem mais votos",
+      "titulo": "Apuração no exterior: Lula lidera em 16 países; Flávio tem mais votos",
       "link": "https://www.congressoemfoco.com.br/noticia/122947/primeiras-urnas-fecham-no-exterior-lula-lidera-em-5-de-6-paises",
-      "resumo": "Petista fica à frente em oito dos 13 locais com resultados disponíveis; candidato do PL soma 28,5 mil votos, contra 11,4 mil de Lula.",
+      "resumo": "Petista fica à frente em 16 dos 24 locais com resultado disponível, mas candidato do PL soma 29,7 mil votos, contra 13,8 mil de Lula.",
       "publicado_em": "2026-10-04T08:03:44-03:00",
       "dia": "2026-10-04",
       "data_estimada": false,
@@ -480,6 +527,36 @@ window.DADOS = {
         "decisao"
       ],
       "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "aa4f5f144c058e52",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Hugo Motta vota na Paraíba e diz esperar que eleitos façam o necessário para o país avançar",
+      "link": "https://www.camara.leg.br/noticias/1308572-hugo-motta-vota-na-paraiba-e-diz-esperar-que-eleitos-facam-o-necessario-para-o-pais-avancar",
+      "resumo": "",
+      "publicado_em": "2026-10-04T13:10:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T14:54:09-03:00"
+    },
+    {
+      "id": "0600bfa9091540fa",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Veículos de comunicação da Câmara e do Senado fazem cobertura integrada das eleições",
+      "link": "https://www.camara.leg.br/noticias/1302595-veiculos-de-comunicacao-da-camara-e-do-senado-fazem-cobertura-integrada-das-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-04T12:14:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T14:54:09-03:00"
     },
     {
       "id": "52939ed884989987",
@@ -600,7 +677,7 @@ window.DADOS = {
       "id": "78427d3bb4a43f23",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
-      "titulo": "MJSP coordenará operações integradas de segurança pública durante as eleições",
+      "titulo": "MJSP coordena operações integradas de segurança pública durante as eleições",
       "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-coordenara-operacoes-integradas-de-seguranca-publica-durante-as-eleicoes",
       "resumo": "",
       "publicado_em": "2026-10-03T12:00:00-03:00",
@@ -1910,7 +1987,7 @@ window.DADOS = {
       "id": "c80e9153158021c6",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Fiscalização de tribunais de contas na implementação do Pena Justa é alinhada com o CNJ",
+      "titulo": "Fiscalização de Tribunais de Contas na implementação do Pena Justa é alinhada com o CNJ",
       "link": "https://www.cnj.jus.br/fiscalizacao-de-tribunais-de-contas-na-implementacao-do-pena-justa-e-alinhada-com-o-cnj/",
       "resumo": "Um acordo de cooperação entre o Conselho Nacional de Justiça (CNJ) e a Associação dos Membros dos Tribunais de Contas do Brasil (Atricon) vai garantir a sustentabilidade orçamentária do plano Pena Justa, voltado ao enfrentamento dos problemas estruturais do sistema prisional brasileiro. A previsão é",
       "publicado_em": "2026-10-02T12:00:00-03:00",
@@ -1928,7 +2005,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Saiba como os tribunais podem utilizar soluções tecnológicas nacionalizadas pelo Conecta",
       "link": "https://www.cnj.jus.br/saiba-como-os-tribunais-podem-utilizar-solucoes-tecnologicas-nacionalizadas-pelo-conecta/",
-      "resumo": "Soluções tecnológicas que automatizam processos, simplificam tarefas, otimizam cálculos e aceleram a entrega de serviços da Justiça: desde 2025, o Programa Conecta já nacionalizou 14 ferramentas desenvolvidas por tribunais brasileiros. A iniciativa foi instituída pelo Conselho Nacional de Justiça (C",
+      "resumo": "Soluções tecnológicas que automatizam processos, simplificam tarefas, otimizam cálculos e aceleram a entrega de serviços de Justiça: desde 2025, o Programa Conecta já nacionalizou 14 ferramentas desenvolvidas por tribunais brasileiros. A iniciativa foi instituída pelo Conselho Nacional de Justiça (C",
       "publicado_em": "2026-10-02T12:00:00-03:00",
       "dia": "2026-10-02",
       "data_estimada": true,
@@ -1942,7 +2019,7 @@ window.DADOS = {
       "id": "db4aacb6988ebf69",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Cooperação para racionalizar execuções fiscais é firmada entre o CNJ e a Procuradoria-Geral de Maceió",
+      "titulo": "Cooperação para racionalizar execuções fiscais é firmada entre o CNJ e Procuradoria-Geral de Maceió",
       "link": "https://www.cnj.jus.br/cooperacao-para-racionalizar-execucoes-fiscais-e-firmada-entre-o-cnj-e-procuradoria-geral-de-maceio/",
       "resumo": "Representantes do Conselho Nacional de Justiça (CNJ), do Tribunal de Justiça de Alagoas (TJAL), da Corregedoria-Geral de Justiça (CGJ) e da Procuradoria-Geral de Maceió firmaram, nesta quinta (1º), acordo de cooperação técnica para a racionalização dos processos de execução fiscal, que tramitam na 1",
       "publicado_em": "2026-10-02T12:00:00-03:00",
