@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-04T16:09:56-03:00",
+  "gerado_em": "2026-10-04T19:37:37-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -296,6 +296,224 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-04T14:54:09-03:00"
+    },
+    {
+      "id": "e29d86161eb7c57f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "DF terá primeira bancada do Senado formada só por mulheres",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/df-tera-primeira-bancada-do-senado-formada-so-por-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-10-04T19:31:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "1d88635dbd496812",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Paraná elege Filipe Barros e Deltan Dallagnol",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/parana-elege-filipe-barros-e-deltan-dallagnol",
+      "resumo": "",
+      "publicado_em": "2026-10-04T19:30:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "9530bcb0f8aa43f7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado: Mato Grosso do Sul elege Reinaldo Azambuja e Capitão Contar",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/senado-mato-grosso-do-sul-elege-reinaldo-azambuja-e-capitao-contar",
+      "resumo": "",
+      "publicado_em": "2026-10-04T19:23:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "eb655dc740126a87",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Distrito Federal elege Michelle Bolsonaro e Bia Kicis ao Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/distrito-federal-elege-michelle-bolsonaro-e-bia-kicis-ao-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-04T19:22:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "91ab5bb89a3f4c02",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Candidatos à Presidência da República votam em diferentes regiões do país",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/eleicoes-2026-candidatos-a-presidencia-votam-em-diferentes-regioes-do-pais",
+      "resumo": "",
+      "publicado_em": "2026-10-04T17:57:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "ad081eb9798fe063",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi Alcolumbre vota em Macapá e celebra democracia",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/davi-alcolumbre-vota-em-macapa-e-celebra-democracia",
+      "resumo": "",
+      "publicado_em": "2026-10-04T16:58:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "832f8b50fe564654",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Plenário do Senado analisa fim da escala 6x1 na terça-feira",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/plenario-do-senado-analisa-fim-da-escala-6x1-na-terca-feira-6",
+      "resumo": "",
+      "publicado_em": "2026-10-04T16:46:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "b63b331a4a093390",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Votação terminou às 17h; veja balanço parcial do TSE",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/apuracao-das-eleicoes-comeca-as-17h-veja-balanco-parcial-do-tse",
+      "resumo": "",
+      "publicado_em": "2026-10-04T16:27:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "75ad49e735c4cf91",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Ministro da Justiça visita centro de comando nacional que monitora a segurança das eleições",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministro-da-justica-visita-centro-de-comando-nacional-que-monitora-a-seguranca-das-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-04T12:00:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "b6bad147382e147f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Perguntado sobre usar celular na urna, Moraes brinca: \"eu que proibi\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122973/perguntado-sobre-usar-celular-na-urna-moraes-brinca--eu-que-proibi",
+      "resumo": "Regra, adotada pelo TSE, impede que eleitores levem celulares e outros dispositivos capazes de registrar imagens até a cabine de votação.",
+      "publicado_em": "2026-10-04T17:57:18-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "28a3dfe32db030e0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zema ironiza uso de celular em cabine: \"TSE criou colinha virtual\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122972/zema-ironiza-uso-de-celular-em-cabine--tse-criou-colinha-virtual",
+      "resumo": "Candidato afirma ter usado ferramenta para consultar números; Justiça Eleitoral orienta que lembrete seja levado em papel.",
+      "publicado_em": "2026-10-04T17:26:19-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "0bc2919a9398cbae",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleições 2026: Acompanhe os resultados em tempo real",
+      "link": "https://www.congressoemfoco.com.br/noticia/122971/eleicoes-2026-acompanhe-os-resultados-em-tempo-real",
+      "resumo": "Veja, em tempo real, os resultados para presidente, governador, senador e deputado em todo o país.",
+      "publicado_em": "2026-10-04T16:55:47-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "c4fcce1fe985601f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Urna é trocada após tecla 3 ser colada em seção no interior do RS",
+      "link": "https://www.congressoemfoco.com.br/noticia/122968/urna-e-trocada-apos-tecla-3-ser-colada-em-secao-no-interior-do-rs",
+      "resumo": "Caso ocorreu em Candelária e será investigado pela Justiça Eleitoral; votos registrados antes da substituição foram preservados.",
+      "publicado_em": "2026-10-04T16:11:30-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "8f28bd5f1a7e00c1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Acompanhe a apuração na plataforma do Congresso em Foco",
+      "link": "https://www.congressoemfoco.com.br/noticia/122966/tempo-real-acompanhe-a-apuracao-na-plataforma-do-congresso-em-foco",
+      "resumo": "Ferramenta é atualizada a cada 15 segundos conforme o TSE realiza a contagem de votos.",
+      "publicado_em": "2026-10-04T15:57:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "1575fd43061e6c7e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Machado de Assis numa hora dessas: os 19 mil Romualdos da eleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/122965/machado-de-assis-numa-hora-dessas-os-19-mil-romualdos-da-eleicao",
+      "resumo": "No conto \"O programa\", Machado de Assis narra a história de um homem convencido de que o destino lhe devia grandes coisas. Neste domingo, milhares de candidatos também chegam às urnas com seus programas debaixo do braço.",
+      "publicado_em": "2026-10-04T15:54:52-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
     },
     {
       "id": "a072305452fc84e1",
@@ -573,6 +791,22 @@ window.DADOS = {
         "decisao"
       ],
       "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "48bc988cecac1319",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Veículos de comunicação da Câmara e do Senado fazem cobertura integrada das eleições",
+      "link": "https://www.camara.leg.br/noticias/1308813-veiculos-de-comunicacao-da-camara-e-do-senado-fazem-cobertura-integrada-das-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-04T16:57:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
     },
     {
       "id": "bd739689339321c1",
@@ -1950,6 +2184,20 @@ window.DADOS = {
       "coletado_em": "2026-10-02T13:30:02-03:00"
     },
     {
+      "id": "7f3397593dfb97cb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Felipe Barros e Deltan Dallagnol são eleitos senadores pelo Paraná",
+      "link": "https://www.congressoemfoco.com.br/noticia/122880/felipe-barros-e-deltan-dallagnol-sao-eleitos-senadores-pelo-parana",
+      "resumo": "Candidatos terão mandato de oito anos, de 2027 a 2035.",
+      "publicado_em": "2026-10-02T08:51:38-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
       "id": "c1cf40cfb6eb29a0",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1976,6 +2224,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "a75612f17707a46b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Michelle e Bia Kicis são eleitas senadoras pelo Distrito Federal",
+      "link": "https://www.congressoemfoco.com.br/noticia/122873/michelle-e-bia-kicis-sao-eleitas-senadoras-pelo-distrito-federal",
+      "resumo": "Candidatos terão mandato de oito anos, de 2027 a 2035.",
+      "publicado_em": "2026-10-02T07:49:10-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
     },
     {
       "id": "904c955c00219912",
@@ -2047,7 +2309,7 @@ window.DADOS = {
       "id": "c80e9153158021c6",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Fiscalização de tribunais de contas na implementação do Pena Justa é alinhada com o CNJ",
+      "titulo": "Fiscalização de Tribunais de Contas na implementação do Pena Justa é alinhada com o CNJ",
       "link": "https://www.cnj.jus.br/fiscalizacao-de-tribunais-de-contas-na-implementacao-do-pena-justa-e-alinhada-com-o-cnj/",
       "resumo": "Um acordo de cooperação entre o Conselho Nacional de Justiça (CNJ) e a Associação dos Membros dos Tribunais de Contas do Brasil (Atricon) vai garantir a sustentabilidade orçamentária do plano Pena Justa, voltado ao enfrentamento dos problemas estruturais do sistema prisional brasileiro. A previsão é",
       "publicado_em": "2026-10-02T12:00:00-03:00",
@@ -2065,7 +2327,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Saiba como os tribunais podem utilizar soluções tecnológicas nacionalizadas pelo Conecta",
       "link": "https://www.cnj.jus.br/saiba-como-os-tribunais-podem-utilizar-solucoes-tecnologicas-nacionalizadas-pelo-conecta/",
-      "resumo": "Soluções tecnológicas que automatizam processos, simplificam tarefas, otimizam cálculos e aceleram a entrega de serviços da Justiça: desde 2025, o Programa Conecta já nacionalizou 14 ferramentas desenvolvidas por tribunais brasileiros. A iniciativa foi instituída pelo Conselho Nacional de Justiça (C",
+      "resumo": "Soluções tecnológicas que automatizam processos, simplificam tarefas, otimizam cálculos e aceleram a entrega de serviços de Justiça: desde 2025, o Programa Conecta já nacionalizou 14 ferramentas desenvolvidas por tribunais brasileiros. A iniciativa foi instituída pelo Conselho Nacional de Justiça (C",
       "publicado_em": "2026-10-02T12:00:00-03:00",
       "dia": "2026-10-02",
       "data_estimada": true,
@@ -2079,7 +2341,7 @@ window.DADOS = {
       "id": "db4aacb6988ebf69",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Cooperação para racionalizar execuções fiscais é firmada entre o CNJ e a Procuradoria-Geral de Maceió",
+      "titulo": "Cooperação para racionalizar execuções fiscais é firmada entre o CNJ e Procuradoria-Geral de Maceió",
       "link": "https://www.cnj.jus.br/cooperacao-para-racionalizar-execucoes-fiscais-e-firmada-entre-o-cnj-e-procuradoria-geral-de-maceio/",
       "resumo": "Representantes do Conselho Nacional de Justiça (CNJ), do Tribunal de Justiça de Alagoas (TJAL), da Corregedoria-Geral de Justiça (CGJ) e da Procuradoria-Geral de Maceió firmaram, nesta quinta (1º), acordo de cooperação técnica para a racionalização dos processos de execução fiscal, que tramitam na 1",
       "publicado_em": "2026-10-02T12:00:00-03:00",
@@ -3393,6 +3655,20 @@ window.DADOS = {
       "coletado_em": "2026-10-01T17:47:12-03:00"
     },
     {
+      "id": "92fc56749168d580",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Reinaldo Azambuja e Capitão Contar conquistam as vagas de MS no Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122848/reinaldo-azambuja-e-capitao-contar-conquistam-as-vagas-de-ms-no-senado",
+      "resumo": "Candidatos terão mandato de oito anos, de 2027 a 2035.",
+      "publicado_em": "2026-10-01T16:34:41-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
       "id": "b13e059cbf3e5411",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -3469,6 +3745,20 @@ window.DADOS = {
         "posse"
       ],
       "coletado_em": "2026-10-01T16:06:23-03:00"
+    },
+    {
+      "id": "8a3667fc0644faa2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sanderson e Van Hattem são eleitos senadores pelo Rio Grande do Sul",
+      "link": "https://www.congressoemfoco.com.br/noticia/122835/sanderson-e-van-hattem-sao-eleitos-senadores-pelo-rio-grande-do-sul",
+      "resumo": "Candidatos terão mandato de oito anos, de 2027 a 2035.",
+      "publicado_em": "2026-10-01T14:32:41-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
     },
     {
       "id": "f89b5ea31eaa079d",
@@ -6543,6 +6833,20 @@ window.DADOS = {
       "coletado_em": "2026-10-03T12:03:17-03:00"
     },
     {
+      "id": "fd485ff17c508f26",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Rafael Fonteles é reeleito governador do Piauí no primeiro turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/122708/rafael-fonteles-e-reeleito-governador-do-piaui-no-primeiro-turno",
+      "resumo": "Petista recebeu 70,16% dos votos válidos, à frente de Joel Rodrigues, do PP.",
+      "publicado_em": "2026-09-29T15:21:06-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
       "id": "9aa22ad0528b47a9",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -6665,6 +6969,20 @@ window.DADOS = {
       "coletado_em": "2026-09-29T13:47:51-03:00"
     },
     {
+      "id": "6763fd0b560dc9b1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lucas Ribeiro é reeleito governador da Paraíba",
+      "link": "https://www.congressoemfoco.com.br/noticia/122684/lucas-ribeiro-e-reeleito-governador-da-paraiba",
+      "resumo": "Disputa reuniu Lucas Ribeiro, Efraim Filho e Cícero Lucena em uma eleição marcada pela divisão da antiga base governista.",
+      "publicado_em": "2026-09-29T11:43:26-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
       "id": "366ee43bec474b02",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -6697,6 +7015,20 @@ window.DADOS = {
       "coletado_em": "2026-09-29T13:47:51-03:00"
     },
     {
+      "id": "fdd4328d3ae3f562",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eduardo Riedel vence eleição para governador de Mato Grosso do Sul",
+      "link": "https://www.congressoemfoco.com.br/noticia/122677/eduardo-riedel-vence-eleicao-para-governador-de-mato-grosso-do-sul",
+      "resumo": "Após vitória no segundo turno em 2022, governador conquista a reeleição na primeira etapa da disputa.",
+      "publicado_em": "2026-09-29T10:55:31-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
       "id": "ab79a0da422e8959",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -6713,6 +7045,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-09-29T13:47:51-03:00"
+    },
+    {
+      "id": "cfbac3b947e3a5d4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mato Grosso reelege Otaviano Pivetta governador",
+      "link": "https://www.congressoemfoco.com.br/noticia/122674/mato-grosso-reelege-otaviano-pivetta-governador",
+      "resumo": "Com 89% das urnas apuradas, candidato somou 61,01% dos votos válidos.",
+      "publicado_em": "2026-09-29T10:43:04-03:00",
+      "dia": "2026-09-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
     },
     {
       "id": "604662483aee55b2",
@@ -7942,6 +8288,34 @@ window.DADOS = {
       "coletado_em": "2026-09-28T18:34:47-03:00"
     },
     {
+      "id": "81896d67cb9e9861",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Luciano Zucco vence eleição e será governador do Rio Grande do Sul",
+      "link": "https://www.congressoemfoco.com.br/noticia/122657/luciano-zucco-vence-eleicao-e-sera-governador-do-rio-grande-do-sul",
+      "resumo": "Com 57,88% dos votos válidos e 3.220.163 votos, Luciano Zucco, do PL, derrotou Juliana Brizola, do PDT.",
+      "publicado_em": "2026-09-28T17:59:02-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "b8ec95f705166c91",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Marcos Rogério é eleito governador de Rondônia",
+      "link": "https://www.congressoemfoco.com.br/noticia/122655/marcos-rogerio-e-eleito-governador-de-rondonia",
+      "resumo": "Com 56,64% dos votos válidos, candidato derrotou Adailton Fúria, que soma a disputa com 18,56%.",
+      "publicado_em": "2026-09-28T17:35:58-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
       "id": "f2e0c5467b96cc56",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -7970,6 +8344,34 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "e34124dc18c34589",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Roraima elege Arthur Henrique governador",
+      "link": "https://www.congressoemfoco.com.br/noticia/122647/roraima-elege-arthur-henrique-governador",
+      "resumo": "Eleição ocorre em um cenário político atípico no Estado, que passou por eleição suplementar em junho.",
+      "publicado_em": "2026-09-28T16:59:12-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
+    },
+    {
+      "id": "74e09f0ded524180",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Jorginho Mello vence eleição para governador de Santa Catarina",
+      "link": "https://www.congressoemfoco.com.br/noticia/122645/jorginho-mello-vence-eleicao-para-governador-de-santa-catarina",
+      "resumo": "Com 68,31% dos votos válidos, candidato foi reeleito.",
+      "publicado_em": "2026-09-28T16:46:53-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
     },
     {
       "id": "b86713db814fd715",
@@ -8062,6 +8464,20 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-09-28T17:18:14-03:00"
+    },
+    {
+      "id": "f74eab9a598c0dfe",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Daniel Vilela vence disputa pelo governo de Goiás",
+      "link": "https://www.congressoemfoco.com.br/noticia/122634/daniel-vilela-vence-disputa-pelo-governo-de-goias",
+      "resumo": "Daniel Vilela conquistou 58,82% dos votos válidos e venceu a corrida pelo governo de Goiás.",
+      "publicado_em": "2026-09-28T15:41:13-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
     },
     {
       "id": "7c2b8158a5904a03",
@@ -8211,6 +8627,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-28T15:28:51-03:00"
+    },
+    {
+      "id": "e60940e49d5cb33c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dorinha e Vicentinho vão ao 2º turno pelo governo do Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/122616/dorinha-e-vicentinho-vao-ao-2-turno-pelo-governo-do-tocantins",
+      "resumo": "Com 45,75% dos votos válidos, a senadora saiu na frente de Vincentinho Júnior, que terminou a disputa com 43,72%.",
+      "publicado_em": "2026-09-28T12:29:12-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T19:37:37-03:00"
     },
     {
       "id": "18731ff0b858a3e1",
