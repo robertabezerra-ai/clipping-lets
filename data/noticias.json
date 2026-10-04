@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-03T19:33:30-03:00",
+  "gerado_em": "2026-10-04T12:41:35-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,237 @@
   ],
   "noticias": [
     {
+      "id": "ada37a73bc6b06e5",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP participa da 3ª Semana Nacional de Regularização Tributária",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115607&pagina=1",
+      "resumo": "Iniciativa do CNJ busca ampliar soluções consensuais.\n \n\tAmanhã (5), começa a 3ª edição da Semana Nacional de Regularização Tributária com o tema “Justiça Fiscal efetiva”. Promovida",
+      "publicado_em": "2026-10-04T12:00:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "1d1b885adfd79741",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Michelle reage a crítica e eleitora rebate: \"te odeio no inferno\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122959/michelle-reage-a-critica-e-eleitora-rebate--te-odeio-no-inferno",
+      "resumo": "Em meio ao bate-boca, Michelle respondeu às críticas com a frase \"te amo em Cristo\" e símbolo de coração com as mãos.",
+      "publicado_em": "2026-10-04T12:20:07-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "92fef55a15688ffc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Augusto Cury vai às urnas em Colina, no interior paulista",
+      "link": "https://www.congressoemfoco.com.br/noticia/122958/augusto-cury-vai-as-urnas-em-colina-no-interior-paulista",
+      "resumo": "Presidenciável do Avante escolheu sua cidade natal, para votar no primeiro turno.",
+      "publicado_em": "2026-10-04T11:13:31-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "db5abbabb6327c88",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan Santos registra voto em Interlagos, na zona sul de São Paulo",
+      "link": "https://www.congressoemfoco.com.br/noticia/122957/renan-santos-registra-voto-em-interlagos-na-zona-sul-de-sao-paulo",
+      "resumo": "Candidato cumprimentou apoiadores e acenou para fotógrafos e cinegrafistas durante a passagem pelo local de votação, em Interlagos.",
+      "publicado_em": "2026-10-04T11:11:07-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "faa95b9e9ce22622",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Após votar com celular, Zema diz que não usou e \"ninguém lembrou\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122956/apos-votar-com-celular-zema-diz-que-nao-usou-e-ninguem-lembrou",
+      "resumo": "Candidato afirmou que \"se tivesse sido alertado, teria entregado na hora\".",
+      "publicado_em": "2026-10-04T10:39:05-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "9c8d4224399608da",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Após votar, Lula diz estar confiante na vitória: \"o jogo está jogado\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122955/apos-votar-lula-diz-estar-confiante-na-vitoria--o-jogo-esta-jogado",
+      "resumo": "Presidente mencionou número de sua candidatura ao se dirigir a jornalistas depois de votar em São Bernardo do Campo; legislação veda boca de urna.",
+      "publicado_em": "2026-10-04T10:35:26-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "9444365f7e198acb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ronaldo Caiado vota em Goiás acompanhado de Kassab e aliados",
+      "link": "https://www.congressoemfoco.com.br/noticia/122954/ronaldo-caiado-vota-em-goias-acompanhado-de-kassab-e-aliados",
+      "resumo": "Candidato do PSD à Presidência votou em Nova Crixás e seguirá para Goiânia, onde acompanhará a apuração.",
+      "publicado_em": "2026-10-04T10:30:15-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "af5cb5af930819b4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio pede apoio ao sair da seção: \"deem um voto de confiança\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122953/flavio-pede-apoio-ao-sair-da-secao--deem-um-voto-de-confianca",
+      "resumo": "Legislação proíbe pedido de voto e propaganda de candidatos no dia da eleição; declaração foi dada após presidenciável deixar seção no Rio.",
+      "publicado_em": "2026-10-04T10:01:58-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "9ecf8ce2b0840e2a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zema entra com celular na cabine de votação, apesar de ser proibido",
+      "link": "https://www.congressoemfoco.com.br/noticia/122952/zema-entra-com-celular-na-cabine-de-votacao-apesar-de-ser-proibido",
+      "resumo": "Candidato do Novo levou aparelho até a urna em Araxá; regra determina que equipamento seja deixado com a mesa receptora.",
+      "publicado_em": "2026-10-04T09:42:56-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "e31f7f8915ddcdcd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques suspende decisão contra Deltan e manda contar votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122951/nunes-marques-suspende-decisao-contra-deltan-e-manda-contar-votos",
+      "resumo": "Presidente do TSE restabeleceu o registro de Deltan como \"deferido com recurso\"; validade definitiva dos votos dependerá de decisão do Plenário.",
+      "publicado_em": "2026-10-04T09:25:41-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "decisao",
+        "recurso"
+      ],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "4d78693c7e49c36c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vota em São Bernardo acompanhado de Alckmin, Marina e Tebet",
+      "link": "https://www.congressoemfoco.com.br/noticia/122950/lula-vota-em-sao-bernardo-acompanhado-de-alckmin-marina-e-tebet",
+      "resumo": "Candidato à reeleição busca o quarto mandato no Palácio do Planalto; petista votou em escola de seu berço político.",
+      "publicado_em": "2026-10-04T09:22:40-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "47b443096b246ea2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro vota no Rio ao lado da esposa e segue para Brasília",
+      "link": "https://www.congressoemfoco.com.br/noticia/122949/flavio-bolsonaro-vota-no-rio-ao-lado-da-esposa-e-segue-para-brasilia",
+      "resumo": "Candidato do PL chegou à seção pouco depois da abertura das urnas e estava acompanhado da esposa, Fernanda Bolsonaro.",
+      "publicado_em": "2026-10-04T08:48:40-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "9d2fbb0da257151b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mãe de Tabata sofre acidente em campanha e é internada na UTI",
+      "link": "https://www.congressoemfoco.com.br/noticia/122948/mae-de-tabata-sofre-acidente-em-campanha-e-e-internada-na-uti",
+      "resumo": "Reni Amaral bateu a cabeça em queda ocorrida durante agenda de campanha da filha em São Paulo. Deputada pede orações para a mãe, que passou por cirurgia de emergência.",
+      "publicado_em": "2026-10-04T08:38:59-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "a7ee301345ea1a51",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Apuração no exterior: Lula lidera em 8 países; Flávio tem mais votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122947/primeiras-urnas-fecham-no-exterior-lula-lidera-em-5-de-6-paises",
+      "resumo": "Petista fica à frente em oito dos 13 locais com resultados disponíveis; candidato do PL soma 28,5 mil votos, contra 11,4 mil de Lula.",
+      "publicado_em": "2026-10-04T08:03:44-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "76b85dbb10f54e0c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ministro do TSE derruba registro de Deltan; votos da chapa serão nulos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122946/ministro-do-tse-derruba-registro-de-deltan-votos-da-chapa-serao-nulos",
+      "resumo": "Nome do ex-procurador continuará na urna e eleitor poderá votar normalmente; decisão que torna os votos nulos ainda será submetida ao Plenário do TSE.",
+      "publicado_em": "2026-10-04T07:43:23-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
       "id": "52939ed884989987",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -283,6 +514,20 @@
         "acao"
       ],
       "coletado_em": "2026-10-03T14:40:22-03:00"
+    },
+    {
+      "id": "90b65bfe7dd50865",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Nota de pesar: Justiça paulista lamenta a morte do jornalista Márcio Chaer",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115623&pagina=1",
+      "resumo": "Conjur há muito divulga as ações do Judiciário paulista.\n \n\tA Presidência do Tribunal de Justiça de São Paulo lamenta a morte do jornalista Márcio Chaer,",
+      "publicado_em": "2026-10-03T12:00:00-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
     },
     {
       "id": "a7c3a46c3498d857",
@@ -364,6 +609,34 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-03T15:59:33-03:00"
+    },
+    {
+      "id": "37e0c133408f16a0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques diz que ameaças e assédio ao eleitor serão reprimidos",
+      "link": "https://www.congressoemfoco.com.br/noticia/122945/nunes-marques-diz-que-ameacas-e-assedio-ao-eleitor-serao-reprimidos",
+      "resumo": "Em pronunciamento na véspera do primeiro turno, presidente do TSE defendeu a liberdade do voto, reforçou a segurança das urnas e deu orientações aos eleitores.",
+      "publicado_em": "2026-10-03T21:36:59-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "19086cc49da32b85",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Média de pesquisas da véspera mostra 2,2 pontos entre Lula e Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/122944/media-de-pesquisas-da-vespera-mostra-2-2-pontos-entre-lula-e-flavio",
+      "resumo": "Média de seis pesquisas divulgadas neste sábado dá 45,3% dos votos válidos a Lula, a 4,7 pontos dos 50%; Flávio tem 43,1% e está a 6,9 pontos da marca que precisa ser superada para uma vitória no primeiro turno.",
+      "publicado_em": "2026-10-03T20:13:56-03:00",
+      "dia": "2026-10-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
     },
     {
       "id": "7482366b6e2c4595",
@@ -2686,6 +2959,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "3242e46c83911137",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Seis votos, 158,7 milhões de eleitores: O Brasil que vai às urnas",
+      "link": "https://www.congressoemfoco.com.br/noticia/122869/seis-votos-158-7-milhoes-de-eleitores-o-brasil-que-vai-as-urnas",
+      "resumo": "Mulheres são maioria, eleitorado envelheceu e seis escolhas estarão na urna; veja quem vota, o que está em disputa e o que é preciso saber para este domingo.",
+      "publicado_em": "2026-10-01T21:23:44-03:00",
+      "dia": "2026-10-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T12:41:35-03:00"
     },
     {
       "id": "378529bae683feba",
