@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-04T14:54:09-03:00",
+  "gerado_em": "2026-10-04T16:09:56-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -296,6 +296,52 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-04T14:54:09-03:00"
+    },
+    {
+      "id": "a072305452fc84e1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika Hilton adia ida às urnas após receber ameaça de morte por e-mail",
+      "link": "https://www.congressoemfoco.com.br/noticia/122964/erika-hilton-adia-ida-as-urnas-apos-receber-ameaca-de-morte-por-e-mail",
+      "resumo": "Mensagem com ataques transfóbicos chegou na manhã deste domingo, quando a parlamentar se preparava para sair de casa.",
+      "publicado_em": "2026-10-04T15:40:44-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-04T16:09:56-03:00"
+    },
+    {
+      "id": "fdb043d7e7b2b594",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula amplia percentual em 14 de 23 países na comparação com 2022",
+      "link": "https://www.congressoemfoco.com.br/noticia/122963/lula-amplia-percentual-em-14-de-23-paises-com-comparacao-a-2022",
+      "resumo": "Primeiros resultados no exterior mostram petista com fatia maior dos votos válidos do que em 2022 em 14 países e menor em nove.",
+      "publicado_em": "2026-10-04T15:29:41-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-04T16:09:56-03:00"
+    },
+    {
+      "id": "b09d4a2e7764ffee",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "De FHC a Bolsonaro, Japão é território difícil para o PT",
+      "link": "https://www.congressoemfoco.com.br/noticia/122962/de-fhc-a-bolsonaro-japao-e-territorio-dificil-para-o-pt",
+      "resumo": "Vitória de Flávio Bolsonaro repete padrão que atravessa mais de três décadas de eleições entre brasileiros residentes no país asiático.",
+      "publicado_em": "2026-10-04T15:05:33-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T16:09:56-03:00"
     },
     {
       "id": "723e923094520cdc",
@@ -500,9 +546,9 @@
       "id": "a7ee301345ea1a51",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "Apuração no exterior: Lula lidera em 16 países; Flávio tem mais votos",
+      "titulo": "Apuração no exterior: Lula lidera em 23 países; Flávio tem mais votos",
       "link": "https://www.congressoemfoco.com.br/noticia/122947/primeiras-urnas-fecham-no-exterior-lula-lidera-em-5-de-6-paises",
-      "resumo": "Petista fica à frente em 16 dos 24 locais com resultado disponível, mas candidato do PL soma 29,7 mil votos, contra 13,8 mil de Lula.",
+      "resumo": "Petista fica à frente em 23 dos 31 locais com resultado concluído; candidato do PL soma 31,2 mil votos, contra 18 mil de Lula.",
       "publicado_em": "2026-10-04T08:03:44-03:00",
       "dia": "2026-10-04",
       "data_estimada": false,
@@ -527,6 +573,20 @@
         "decisao"
       ],
       "coletado_em": "2026-10-04T12:41:35-03:00"
+    },
+    {
+      "id": "bd739689339321c1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Presidente do TSE diz não ter sinais de interferência estrangeira e registra substituição de 1.121 urnas",
+      "link": "https://www.camara.leg.br/noticias/1308707-presidente-do-tse-diz-nao-ter-sinais-de-interferencia-estrangeira-e-registra-substituicao-de-1-121-urnas",
+      "resumo": "",
+      "publicado_em": "2026-10-04T15:28:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-04T16:09:56-03:00"
     },
     {
       "id": "aa4f5f144c058e52",
@@ -1987,7 +2047,7 @@
       "id": "c80e9153158021c6",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Fiscalização de Tribunais de Contas na implementação do Pena Justa é alinhada com o CNJ",
+      "titulo": "Fiscalização de tribunais de contas na implementação do Pena Justa é alinhada com o CNJ",
       "link": "https://www.cnj.jus.br/fiscalizacao-de-tribunais-de-contas-na-implementacao-do-pena-justa-e-alinhada-com-o-cnj/",
       "resumo": "Um acordo de cooperação entre o Conselho Nacional de Justiça (CNJ) e a Associação dos Membros dos Tribunais de Contas do Brasil (Atricon) vai garantir a sustentabilidade orçamentária do plano Pena Justa, voltado ao enfrentamento dos problemas estruturais do sistema prisional brasileiro. A previsão é",
       "publicado_em": "2026-10-02T12:00:00-03:00",
@@ -2005,7 +2065,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Saiba como os tribunais podem utilizar soluções tecnológicas nacionalizadas pelo Conecta",
       "link": "https://www.cnj.jus.br/saiba-como-os-tribunais-podem-utilizar-solucoes-tecnologicas-nacionalizadas-pelo-conecta/",
-      "resumo": "Soluções tecnológicas que automatizam processos, simplificam tarefas, otimizam cálculos e aceleram a entrega de serviços de Justiça: desde 2025, o Programa Conecta já nacionalizou 14 ferramentas desenvolvidas por tribunais brasileiros. A iniciativa foi instituída pelo Conselho Nacional de Justiça (C",
+      "resumo": "Soluções tecnológicas que automatizam processos, simplificam tarefas, otimizam cálculos e aceleram a entrega de serviços da Justiça: desde 2025, o Programa Conecta já nacionalizou 14 ferramentas desenvolvidas por tribunais brasileiros. A iniciativa foi instituída pelo Conselho Nacional de Justiça (C",
       "publicado_em": "2026-10-02T12:00:00-03:00",
       "dia": "2026-10-02",
       "data_estimada": true,
@@ -2019,7 +2079,7 @@
       "id": "db4aacb6988ebf69",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Cooperação para racionalizar execuções fiscais é firmada entre o CNJ e Procuradoria-Geral de Maceió",
+      "titulo": "Cooperação para racionalizar execuções fiscais é firmada entre o CNJ e a Procuradoria-Geral de Maceió",
       "link": "https://www.cnj.jus.br/cooperacao-para-racionalizar-execucoes-fiscais-e-firmada-entre-o-cnj-e-procuradoria-geral-de-maceio/",
       "resumo": "Representantes do Conselho Nacional de Justiça (CNJ), do Tribunal de Justiça de Alagoas (TJAL), da Corregedoria-Geral de Justiça (CGJ) e da Procuradoria-Geral de Maceió firmaram, nesta quinta (1º), acordo de cooperação técnica para a racionalização dos processos de execução fiscal, que tramitam na 1",
       "publicado_em": "2026-10-02T12:00:00-03:00",
