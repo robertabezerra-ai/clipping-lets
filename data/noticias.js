@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-05T18:21:55-03:00",
+  "gerado_em": "2026-10-05T19:19:05-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -393,6 +393,24 @@ window.DADOS = {
       "coletado_em": "2026-10-05T18:21:55-03:00"
     },
     {
+      "id": "585edab2cbf6ef02",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "OAB Nacional questiona prazo para pagamento de RPV na Bahia",
+      "link": "https://noticias.stf.jus.br/postsnoticias/oab-nacional-questiona-prazo-para-pagamento-de-rpv-na-bahia/",
+      "resumo": "Entidade sustenta que estado não pode estabelecer prazo diferente do previsto na legislação federal para quitação das requisições de pequeno valor",
+      "publicado_em": "2026-10-05T18:22:30-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "prazo",
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-10-05T19:19:05-03:00"
+    },
+    {
       "id": "ce9a578ad6791456",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -458,6 +476,36 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "a87f644f60d6e160",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Agência Senado teve recorde de 3,6 milhões de acessos no domingo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/05/agencia-senado-teve-recorde-de-3-6-milhoes-de-acessos-no-domingo",
+      "resumo": "",
+      "publicado_em": "2026-10-05T19:02:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T19:19:05-03:00"
+    },
+    {
+      "id": "4aa70d035eeea72b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Conselho de Comunicação Social defende regulação de mercados digitais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/05/conselho-de-comunicacao-social-defende-regulacao-de-mercados-digitais",
+      "resumo": "",
+      "publicado_em": "2026-10-05T18:56:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T19:19:05-03:00"
     },
     {
       "id": "4f726943eafa8753",
@@ -695,6 +743,20 @@ window.DADOS = {
       "coletado_em": "2026-10-05T18:21:55-03:00"
     },
     {
+      "id": "5d2dae50f9703aa1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Bets têm até dia 7 para informar saldo devido a quem não houver feito retirada",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/secretaria-de-premios-e-apostas-regulamenta-obrigacoes-das-empresas-apos-proibicao-das-bets",
+      "resumo": "",
+      "publicado_em": "2026-10-05T17:41:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T19:19:05-03:00"
+    },
+    {
       "id": "7946eef354ea9ef8",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -823,6 +885,23 @@ window.DADOS = {
       "coletado_em": "2026-10-05T18:21:55-03:00"
     },
     {
+      "id": "8711d97b7326c8aa",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Bets: prazo para retirada voluntária de recursos termina nesta segunda-feira (5/10)",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/bets-prazo-para-retirada-voluntaria-de-recursos-termina-nesta-segunda-feira-5-10",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "prazo",
+        "recurso"
+      ],
+      "coletado_em": "2026-10-05T19:19:05-03:00"
+    },
+    {
       "id": "78ac615e124bbcca",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -879,6 +958,71 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "cb93f56026674f46",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Anitta cobra TSE sobre anulação de candidatura de Garotinho",
+      "link": "https://www.congressoemfoco.com.br/noticia/123008/anitta-cobra-tse-sobre-anulacao-de-candidatura-de-garotinho",
+      "resumo": "Cantora pediu explicações e ironizou que servidores trabalharam no \"domingão\".",
+      "publicado_em": "2026-10-05T18:37:56-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T19:19:05-03:00"
+    },
+    {
+      "id": "a1af6decf2833516",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bolsonaro fará parte do governo de Flávio, diz Valdemar Costa Neto",
+      "link": "https://www.congressoemfoco.com.br/noticia/123007/bolsonaro-fara-parte-do-governo-de-flavio-diz-valdemar-costa-neto",
+      "resumo": "Dirigente do PL afirma que ex-presidente deverá articular dentro de uma futura administração de Flávio Bolsonaro.",
+      "publicado_em": "2026-10-05T18:31:09-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T19:19:05-03:00"
+    },
+    {
+      "id": "8fd3807d1098d145",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ana Elisa pede a Lula \"movimento nas redes sociais\" antes de 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123006/ana-elisa-pede-a-lula-movimento-nas-redes-sociais-antes-de-2-turno",
+      "resumo": "Deputada eleita pelo PT fez apelo ao campo progressista para que reforcem a atuação nas redes sociais durante o segundo turno da eleição presidencial.",
+      "publicado_em": "2026-10-05T18:21:32-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T19:19:05-03:00"
+    },
+    {
+      "id": "60cf24056625eb6d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O antipetismo venceu o primeiro turno; e agora?",
+      "link": "https://www.congressoemfoco.com.br/artigo/123004/o-antipetismo-venceu-o-primeiro-turno-e-agora",
+      "resumo": "Vantagem de Flávio Bolsonaro sobre Lula e desempenho do PL no Congresso reforçam a hipótese de que a rejeição ao PT teve peso relevante na votação de domingo.",
+      "publicado_em": "2026-10-05T17:14:49-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "tese",
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T19:19:05-03:00"
     },
     {
       "id": "5ba69f4a36b92190",
