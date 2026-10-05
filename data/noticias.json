@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-04T19:37:37-03:00",
+  "gerado_em": "2026-10-05T18:21:55-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 19,
       "erro": null
     },
     {
@@ -179,7 +179,7 @@
     {
       "id": "fazenda",
       "status": "ok",
-      "itens": 26,
+      "itens": 27,
       "erro": null
     },
     {
@@ -197,7 +197,7 @@
     {
       "id": "cvm",
       "status": "ok",
-      "itens": 28,
+      "itens": 29,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -250,6 +250,1152 @@
     }
   ],
   "noticias": [
+    {
+      "id": "d3ec324e247c5585",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 fixa primeiras teses jurídicas por adesão a precedentes de outros tribunais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-fixa-primeiras-teses-juridicas-por-adesao-a-precedentes-de-outros-tribunais",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "tese",
+        "precedente"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "538cb36e4c3e4501",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 mantém justa causa de gerente por assédio sexual contra subordinada",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-mantem-justa-causa-de-gerente-por-assedio-sexual-contra-subordinada",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "a4c74022e54eba47",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 promove painel sobre trabalho infantil e saúde mental",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-promove-painel-sobre-trabalho-infantil-e-saude-mental",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "7265819a80527028",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Operação eventual de empilhadeira por motorista não caracteriza acúmulo de função, decide 2ª Câmara",
+      "link": "https://trt15.jus.br/noticia/2026/operacao-eventual-de-empilhadeira-por-motorista-nao-caracteriza-acumulo-de-funcao",
+      "resumo": "Operação eventual de empilhadeira por motorista não caracteriza acúmulo de função, decide 2ª Câmara marianaaassuncao Seg, 05/10/2026 - 13:54 Operação eventual de empilhadeira por motorista não caracteriza acúmulo de função, decide 2ª Câmara Conteúdo da Notícia A 2ª Câmara do Tribunal Regional do Tra",
+      "publicado_em": "2026-10-05T13:54:24-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decide",
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "3901cb8674a064eb",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP participa da Semana da Conciliação Bancária",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115645&pagina=1",
+      "resumo": "Iniciativa busca ampliar soluções consensuais.\n \n\tComeça hoje (5) a Semana da Conciliação Bancária, fruto de acordo celebrado entre o Fórum Nacional de Mediação e Conciliação",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "66ec85218292c043",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115642&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, reuniu-se, hoje (5), no Gabinete",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "6919c6bbde46bd84",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Plataforma de delivery não pode impedir restaurantes de contratar com concorrente",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115624&pagina=1",
+      "resumo": "Decisão da 2ª Câmara de Direito Empresarial. \n \n\tA 2ª Câmara Reservada de Direito Empresarial do Tribunal de Justiça de São Paulo determinou que plataforma de",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "2dc402cabf6bd6c4",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP realiza treinamentos presenciais do eproc para implantação do ciclo 3",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115634&pagina=1",
+      "resumo": "Participação de mais de 1,2 mil servidores.\n \n\tA implementação do ciclo 3 do eproc, abrangendo unidades da Fazenda Pública e competências relacionadas, trouxe uma novidade",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "247731eb0f56d0d2",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mulher que vendeu rebanho da irmã é condenada por apropriação indébita",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115633&pagina=1",
+      "resumo": "Ré cumprirá penas restritivas de direitos. \n \n\tA 15ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve decisão da 2ª Vara de",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "condenada",
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "ce9a578ad6791456",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Liminar exclui receitas próprias da Defensoria Pública da União do teto de gastos do arcabouço fiscal",
+      "link": "https://noticias.stf.jus.br/postsnoticias/liminar-exclui-receitas-proprias-da-defensoria-publica-da-uniao-do-teto-de-gastos-do-arcabouco-fiscal/",
+      "resumo": "Na decisão, ministro Alexandre de Moraes afirmou que a autonomia financeira e orçamentária da Defensoria Pública é imprescindível para o cumprimento da missão constitucional da instituição",
+      "publicado_em": "2026-10-05T17:50:41-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "decisao",
+        "liminar"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "983dca802d2f57ef",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Decisões que exigem acompanhamento: saiba o que são processos estruturais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/decisoes-que-exigem-acompanhamento-saiba-o-que-sao-processos-estruturais/",
+      "resumo": "Entenda por que algumas decisões judiciais exigem medidas sucessivas, atuação de diferentes instituições e acompanhamento do Judiciário ao longo do tempo",
+      "publicado_em": "2026-10-05T10:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "2c79ab500e8451c2",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Aos 38 anos, Constituição segue dando respostas aos desafios do Brasil",
+      "link": "https://noticias.stf.jus.br/postsnoticias/aos-38-anos-constituicao-segue-dando-respostas-aos-desafios-do-brasil/",
+      "resumo": "Quase quatro décadas depois de sua promulgação, a Constituição de 1988 tornou-se a bússola com a qual o país enfrenta seus conflitos, assegura direitos e protege as próprias regras do jogo democrático",
+      "publicado_em": "2026-10-05T09:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "b6fa22a2a2c24d79",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira destaques da pauta do Plenário para outubro",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-destaques-da-pauta-do-plenario-para-outubro/",
+      "resumo": "Julgamentos previstos abrangem temas como fretamento de ônibus por aplicativo, regras da Reforma da Previdência de 2019, PIS/Cofins, recusa a tratamento por questões religiosas e acesso a dados em investigações criminais",
+      "publicado_em": "2026-10-05T08:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "4f726943eafa8753",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Debate na CDH aponta lacunas na capacitação contra violência a crianças",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/05/debate-na-cdh-aponta-lacunas-na-capacitacao-contra-violencia-a-criancas",
+      "resumo": "",
+      "publicado_em": "2026-10-05T17:58:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "54d509601acc37b6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Representantes do Parlasul afirmam confiança no sistema eleitoral brasileiro",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/representantes-do-parlasul-afirmam-confianca-no-sistema-eleitoral-brasileiro",
+      "resumo": "",
+      "publicado_em": "2026-10-05T16:44:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "45c77411e82a59c1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado terá nova composição partidária em 2027; veja como ficam as bancadas",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/senado-tera-nova-composicao-partidaria-em-2027-veja-como-ficam-as-bancadas",
+      "resumo": "",
+      "publicado_em": "2026-10-05T16:31:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "5dc036451da37f90",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Segundo turno: eleitores escolherão entre Flávio Bolsonaro e Lula",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/segundo-turno-eleitores-escolherao-entre-flavio-bolsonaro-e-lula",
+      "resumo": "",
+      "publicado_em": "2026-10-05T15:04:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "35455302b2e38570",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Doze mulheres são eleitas para o Senado; DF terá bancada exclusivamente feminina",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/doze-mulheres-sao-eleitas-para-o-senado-df-tera-bancada-exclusivamente-feminina",
+      "resumo": "",
+      "publicado_em": "2026-10-05T14:45:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "6d92d242c30e7cb5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Câmara: PL obtém a maior bancada; federação PT-PCdoB-PV é a segunda força",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/05/camara-pl-obtem-a-maior-bancada-federacao-pt-pcdob-pv-e-a-segunda-forca",
+      "resumo": "",
+      "publicado_em": "2026-10-05T14:43:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "80adfde52ea713bf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PL elege 19 senadores e terá a maior bancada da Casa",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/pl-elege-19-senadores-e-tera-a-maior-bancada-da-casa",
+      "resumo": "",
+      "publicado_em": "2026-10-05T13:48:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "40e72f4689e21428",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleição mobiliza eleitores brasileiros em 134 países",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/eleicao-mobiliza-eleitores-brasileiros-em-134-paises",
+      "resumo": "",
+      "publicado_em": "2026-10-05T13:24:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "d049f0dbe1670dbb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Presidente do TSE faz balanço positivo do primeiro turno das eleições",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/presidente-do-tse-faz-balanco-positivo-do-primeiro-turno-das-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-05T13:01:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "e59f1fe535a0c6b2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Governos de seis estados e do DF serão definidos no segundo turno",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/governos-de-seis-estados-e-do-df-serao-definidos-no-segundo-turno",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:02:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "339df54f31aae975",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Primeiro turno define governadores em 20 estados",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/primeiro-turno-define-governadores-em-20-estados",
+      "resumo": "",
+      "publicado_em": "2026-10-05T10:22:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "d1d1b9ae66e5fae2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Paraná terá bancada completamente renovada no Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/parana-tera-bancada-completamente-renovada-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-05T09:43:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "2a79170358973559",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Em 2027, Senado terá 40 senadores novos e 14 reeleitos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/05/em-2027-senado-tera-40-senadores-novos-e-14-reeleitos",
+      "resumo": "",
+      "publicado_em": "2026-10-05T00:04:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "b89f3755dc0978cd",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs-1",
+      "resumo": "",
+      "publicado_em": "2026-10-05T16:59:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "27a7aa292d0e00c8",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal e PGFN abrem transação para débitos relacionados à multa substitutiva da pena de perdimento",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-e-pgfn-abrem-transacao-para-debitos-relacionados-a-multa-substitutiva-da-pena-de-perdimento",
+      "resumo": "",
+      "publicado_em": "2026-10-05T15:12:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "e0ec9d70d4d6f26e",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Força Nacional forma 43 profissionais no 86º curso de atendimento pré-hospitalar e resgate tático",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-forma-43-profissionais-no-86o-curso-de-aph-e-resgate-tatico",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "7946eef354ea9ef8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Estudantes indígenas têm prazo ampliado para inscrição em pós-graduação",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/estudantes-indigenas-tem-prazo-ampliado-para-inscricao-em-pos-graduacao",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:34:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "7bfce0f46d2dccac",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Abertas inscrições para curso gratuito sobre financiamento educacional",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/abertas-inscricoes-para-curso-gratuito-sobre-financiamento-educacional",
+      "resumo": "",
+      "publicado_em": "2026-10-05T09:31:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "c824e9a20c2e29de",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Tributo para Chica Xavier marca edição temática do programa Sem Censura da TV Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/tributo-para-chica-xavier-marca-edicao-tematica-do-programa-sem-censura-da-tv-brasil",
+      "resumo": "",
+      "publicado_em": "2026-10-05T09:21:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "164388f654a315d2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pix poderá ser usado em conta-salário em 2027 e tem segurança reforçada",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pix-amplia-funcionalidades-e-reforca-seguranca-com-nova-rodada-de-aperfeicoamentos-regulatorios",
+      "resumo": "",
+      "publicado_em": "2026-10-05T08:30:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "ce74c39369c3d43a",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Prazo para retirada voluntária de recursos pelas bets termina nesta segunda-feira (5/10)",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/prazo-para-retirada-voluntaria-de-recursos-pelas-bets-termina-nesta-segunda-feira-5-10",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "prazo",
+        "recurso"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "57e3228b003e9c7d",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Secretaria de Prêmios e Apostas regulamenta obrigações das empresas após proibição das bets",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/secretaria-de-premios-e-apostas-regulamenta-obrigacoes-das-empresas-apos-proibicao-das-bets",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 42,
+      "tags": [
+        "regulamenta",
+        "premio"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "cfe30298341cd3a1",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "dbccce3748586210",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal e PGFN abrem transação para débitos relacionados à multa substitutiva da pena de perdimento",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-e-pgfn-abrem-transacao-para-debitos-relacionados-a-multa-substitutiva-da-pena-de-perdimento",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "78ac615e124bbcca",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM aprimora regras sobre envio e acesso a informações do Sistema de Informações de Crédito",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-aprimora-regras-sobre-envio-e-acesso-a-informacoes-do-sistema-de-informacoes-de-credito",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "aae1031ba9affc3e",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM participa do Toque de Campainha, que marca a abertura oficial da Semana Mundial do Investidor 2026",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-do-toque-de-campainha-que-marca-a-abertura-oficial-da-semana-mundial-do-investidor-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "5f1c4ebeaad335b3",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM inicia consulta pública sobre atualização de normas contábeis aplicáveis aos fundos de investimento para adequação aos padrões internacionais",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-inicia-consulta-publica-sobre-atualizacao-de-normas-contabeis-aplicaveis-aos-fundos-de-investimento-para-adequacao-aos-padroes-internacionais",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "1437badc0aaac12a",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM inicia consulta pública sobre alterações nos Pronunciamentos Técnicos CPC 18 (R3) e CPC 36 (R3)",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-inicia-consulta-publica-sobre-alteracoes-nos-pronunciamentos-tecnicos-cpc-18-r3-e-cpc-36-r3",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "5ba69f4a36b92190",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bolsonaro pede visita de Flávio em petição assinada pelo próprio filho",
+      "link": "https://www.congressoemfoco.com.br/noticia/123003/bolsonaro-pede-visita-de-flavio-em-peticao-assinada-pelo-proprio-filho",
+      "resumo": "Advogados argumentam que restrição  \"não mais se mostra necessária\".",
+      "publicado_em": "2026-10-05T16:55:49-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 38,
+      "tags": [
+        "advogado",
+        "visita"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "c592b48b288dcfc0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Da vaga ao diploma: o desafio é permanecer",
+      "link": "https://www.congressoemfoco.com.br/artigo/123002/da-vaga-ao-diploma-o-desafio-e-permanecer",
+      "resumo": "Defasagens acumuladas na educação básica dificultam a permanência no ensino superior e reforçam a necessidade de nivelamento acadêmico já no primeiro ano.",
+      "publicado_em": "2026-10-05T16:42:38-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 42,
+      "tags": [
+        "cade",
+        "acao",
+        "diploma"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "e5b9b37192f012d4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Garotinho desiste de recurso no TSE e abre caminho para Douglas Ruas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123001/garotinho-desiste-de-recurso-no-tse-e-abre-caminho-para-douglas-ruas",
+      "resumo": "Desistência no TSE pode excluir os votos do ex-governador e elevar Douglas Ruas de 49,27% para 50,88% dos votos válidos no Rio.",
+      "publicado_em": "2026-10-05T16:38:57-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "191d7f81fdd2cadf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fã? Duda Salabert tem um único voto em Pintópolis pela segunda vez",
+      "link": "https://www.congressoemfoco.com.br/noticia/123000/fa-duda-salabert-tem-um-unico-voto-em-pintopolis-pela-segunda-vez",
+      "resumo": "Em julho, deputada havia feito apelo aos seguidores para conseguir identificar eleitor.",
+      "publicado_em": "2026-10-05T16:36:36-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "f11ac8305528fecc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "De parentes a milionários: quem são os 108 novos suplentes do Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122999/de-parentes-a-milionarios-quem-sao-os-108-novos-suplentes-do-senado",
+      "resumo": "Chapas dos 54 senadores escolhidos neste domingo incluem familiares, ex-parlamentares, empresários e alguns dos candidatos mais ricos das eleições.",
+      "publicado_em": "2026-10-05T16:28:12-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "82e22f73413128dc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "De Taylor Swift a BTS, fandoms se mobilizam por Lula no 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/122998/de-taylor-swift-a-bts-fandoms-se-mobilizam-por-lula-no-2-turno",
+      "resumo": "Perfis de fãs colocaram suas redes à disposição da campanha e já receberam resposta da equipe do presidente.",
+      "publicado_em": "2026-10-05T16:08:55-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "04bc2fd044cdf6f7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A atuação do Judiciário enfraqueceu o processo eleitoral",
+      "link": "https://www.congressoemfoco.com.br/artigo/122997/a-atuacao-do-judiciario-enfraqueceu-o-processo-eleitoral",
+      "resumo": "Decisões divergentes de ministros do STF e do TSE sobre o último debate presidencial reacendem a discussão sobre previsibilidade, colegialidade e limites da atuação judicial nas eleições.",
+      "publicado_em": "2026-10-05T16:08:07-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "judicial",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "89609649f972b661",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nem Lula nem Flávio: a chave do Congresso segue com o Centrão",
+      "link": "https://www.congressoemfoco.com.br/noticia/122996/nem-lula-nem-flavio-a-chave-do-congresso-segue-com-o-centrao",
+      "resumo": "Na Câmara, os partidos de centro reúnem 257 das 513 cadeiras; no Senado, 34 de 81. Sem o Centrão, nem esquerda nem direita formam maioria. Quem vencer em 25 de outubro terá de negociar com o fiel da balança.",
+      "publicado_em": "2026-10-05T15:20:39-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "7f544ea930e0031e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veja os 20 governadores eleitos no primeiro turno em 2026",
+      "link": "https://www.congressoemfoco.com.br/noticia/122995/veja-os-20-governadores-eleitos-no-primeiro-turno-em-2026",
+      "resumo": "Tarcísio, Raquel Lyra, Cleitinho e Sergio Moro estão entre os vencedores.",
+      "publicado_em": "2026-10-05T15:02:18-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "866fbfd7b316ef8c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Valdemar diz que PL quer eleger Rogério Marinho presidente do Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122994/valdemar-diz-que-pl-quer-eleger-rogerio-marinho-presidente-do-senado",
+      "resumo": "Com maior bancada eleita ao Senado em 2027, presidente do PL pretende lançar Rogério Marinho pela segunda vez à condução da Casa.",
+      "publicado_em": "2026-10-05T14:15:30-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "b1e9b325959c37c0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas celebra votos de Flávio: \"quem ganha em MG, ganha no Brasil\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/122993/nikolas-celebra-votos-de-flavio--quem-ganha-em-mg-ganha-no-brasil",
+      "resumo": "Parlamentar afirmou que o resultado demonstra que o \"Brasil acordou\" e destacou o crescimento do PL na Câmara e no Senado.",
+      "publicado_em": "2026-10-05T14:00:40-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "ad0f6b4a12831fb0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PL terá 1 em cada 4 congressistas e amplia pressão sobre o STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/122992/pl-tera-1-em-cada-4-congressistas-e-amplia-pressao-sobre-o-stf",
+      "resumo": "Com 121 deputados e 28 senadores projetados, partido terá as maiores bancadas das duas Casas sob a atual Constituição e mais força para tentar avançar processos contra ministros do Supremo, mas ainda dependerá de aliados.",
+      "publicado_em": "2026-10-05T13:59:57-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "0cd377411647e1be",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Votou no domingo? Veja como isso pode valer para o INSS",
+      "link": "https://www.congressoemfoco.com.br/artigo/122990/votou-no-domingo-veja-como-isso-pode-valer-para-o-inss",
+      "resumo": "Comparecimento às urnas pode ser usado pelo instituto como uma das informações para confirmar que o beneficiário está vivo, sem necessidade de apresentar o comprovante.",
+      "publicado_em": "2026-10-05T13:12:22-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "c0cb40d64f7aefa1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bancadas negra e indígena encolhem e ocuparão apenas 26,9% da Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/122989/bancadas-negra-e-indigena-encolhem-e-ocuparao-apenas-26-9-da-camara",
+      "resumo": "Representantes autodeclarados negros ocuparão 26,3% das cadeiras; três deputados federais eleitos se autodeclararam indígenas, segundo registros da Justiça Eleitoral.",
+      "publicado_em": "2026-10-05T12:46:01-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "26eb8de3a4497980",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputados que ganharam o Prêmio Congresso em Foco se reelegeram",
+      "link": "https://www.congressoemfoco.com.br/noticia/122988/todos-deputados-que-ganharam-o-premio-congresso-em-foco-se-reelegeram",
+      "resumo": "O Oscar da política, o Prêmio Congresso em Foco, é o atestado de um mandato laborioso. O reconhecimento vem na premiação; os frutos, ontem nas urnas.",
+      "publicado_em": "2026-10-05T12:19:53-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "23891557e66535c8",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Programa é apresentado para fortalecer rede e proteção à mulher na serra de SC",
+      "link": "https://www.cnj.jus.br/programa-e-apresentado-para-fortalecer-rede-e-protecao-a-mulher-na-serra-de-sc/",
+      "resumo": "A campanha Sinal Vermelho, iniciativa que busca ampliar os canais de ajuda para mulheres em situação de violência doméstica e familiar por meio de um pedido silencioso de socorro, foi apresentada, em 01/10, nas comarcas de Urubici e São Joaquim, na Serra Catarinense. A ação foi conduzida pela desemb",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "8478e5b685dcceda",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Judiciário e Senac formam jovens aprendizes com ações de saúde mental, apoio familiar e inclusão",
+      "link": "https://www.cnj.jus.br/judiciario-e-senac-formam-jovens-aprendizes-com-acoes-de-saude-mental-apoio-familiar-e-inclusao/",
+      "resumo": "A Coordenadoria da Infância e da Juventude (CIJ) do Tribunal de Justiça de Sergipe (TJSE), em parceria com o Senac, prefeituras municipais e a rede socioassistencial, vem desenvolvendo ações que ampliam a formação dos jovens participantes do projeto ‘Conectando a Rede – Jovem Aprendiz’. As iniciativ",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "61c6e7b8db83a667",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Encontro Nacional de Acesso à Justiça e Cidadania da Pessoa Idosa será no dia 8/10, no TJDFT",
+      "link": "https://www.cnj.jus.br/encontro-nacional-de-acesso-a-justica-e-cidadania-da-pessoa-idosa-ser-dia-8-10-no-tjdft/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) promove, na próxima quinta-feira (8/10), o Encontro Nacional de Acesso à Justiça e Cidadania da Pessoa Idosa. O evento híbrido será das 9h30 às 17h30, no Auditório Ministro Sepúlveda Pertence, no Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT), ",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "f23dc664a4b4ab19",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Equidade racial: Plenário aprova a inclusão de 20 iniciativas no Portal de Boas Práticas",
+      "link": "https://www.cnj.jus.br/equidade-racial-plenario-aprova-a-inclusao-de-20-iniciativas-no-portal-de-boas-praticas/",
+      "resumo": "O Plenário do Conselho Nacional de Justiça (CNJ) aprovou a inclusão de 20 novas iniciativas no Portal CNJ de Boas Práticas do Poder Judiciário. Os projetos, provenientes de diferentes tribunais do país, integram o eixo temático Equidade Racial e foram validados durante a 14ª Sessão Virtual de 2026, ",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "46b989a668367225",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Mais de 10 milhões de eleitores optam por branco e nulo para deputado federal",
+      "link": "https://www.camara.leg.br/noticias/1309482-mais-de-10-milhoes-de-eleitores-optam-por-branco-e-nulo-para-deputado-federal",
+      "resumo": "",
+      "publicado_em": "2026-10-05T17:08:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "8c66483b7659b579",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Confira o número de reeleitos, deputados de primeiro mandato e ex-deputados que voltam à Câmara",
+      "link": "https://www.camara.leg.br/noticias/1309398-confira-o-numero-de-reeleitos-deputados-de-primeiro-mandato-e-ex-deputados-que-voltam-a-camara",
+      "resumo": "",
+      "publicado_em": "2026-10-05T15:50:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "ec44d268c107b451",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "23 deputados federais são eleitos para outros cargos: 1 governador, 17 senadores e 5 estaduais",
+      "link": "https://www.camara.leg.br/noticias/1309452-23-deputados-federais-sao-eleitos-para-outros-cargos-1-governador-17-senadores-e-5-estaduais",
+      "resumo": "",
+      "publicado_em": "2026-10-05T15:37:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "fdc97de4ed48a27d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Conheça os dez deputados com maior votação proporcional em seus estados; PL lidera a lista",
+      "link": "https://www.camara.leg.br/noticias/1309438-conheca-os-dez-deputados-com-maior-votacao-proporcional-em-seus-estados-pl-lidera-a-lista",
+      "resumo": "",
+      "publicado_em": "2026-10-05T14:45:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "ccd4d92ee9bb887e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Veja a lista dos 513 deputados federais eleitos, por estado e por partido",
+      "link": "https://www.camara.leg.br/noticias/1309429-veja-a-lista-dos-513-deputados-federais-eleitos-por-estado-e-por-partido",
+      "resumo": "",
+      "publicado_em": "2026-10-05T14:03:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "ac16e63a89a778a9",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Com 109 deputadas eleitas, bancada feminina cresce 21,1% na Câmara",
+      "link": "https://www.camara.leg.br/noticias/1309285-com-109-deputadas-eleitas-bancada-feminina-cresce-211-na-camara",
+      "resumo": "",
+      "publicado_em": "2026-10-05T13:34:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "140c5c366f52082e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Número de deputados pretos e pardos diminui 2,9% em relação a 2022",
+      "link": "https://www.camara.leg.br/noticias/1309312-numero-de-deputados-pretos-e-pardos-diminui-29-em-relacao-a-2022",
+      "resumo": "",
+      "publicado_em": "2026-10-05T11:46:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "12847cc9d3b44dbd",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Integrantes da Mesa Diretora se elegem para novo mandato na Câmara",
+      "link": "https://www.camara.leg.br/noticias/1309278-integrantes-da-mesa-diretora-se-elegem-para-novo-mandato-na-camara",
+      "resumo": "",
+      "publicado_em": "2026-10-05T11:21:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "8ada2ff2d3ddf57a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Alvinho Lira torna-se o deputado mais jovem da história; Magda Mofatto é a mais idosa entre os eleitos",
+      "link": "https://www.camara.leg.br/noticias/1309236-alvinho-lira-torna-se-o-deputado-mais-jovem-da-historia-magda-mofatto-e-a-mais-idosa-entre-os-eleitos",
+      "resumo": "",
+      "publicado_em": "2026-10-05T11:20:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "bb7f2a1e8fb06c18",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Confira a lista dos campeões de voto por estado",
+      "link": "https://www.camara.leg.br/noticias/1309260-confira-a-lista-dos-campeoes-de-voto-por-estado",
+      "resumo": "",
+      "publicado_em": "2026-10-05T10:48:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "5d1cf6d5be635da1",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Biblioteca do Cade retoma atendimento ao público",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/biblioteca-do-cade-retoma-atendimento-ao-publico",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "796ee42085badf95",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "BC moderniza apresentação de dados sobre intervenções cambiais",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21279/nota",
+      "resumo": "Iniciativa traz histórico de estoque e cronograma de vencimentos de Swap Cambial e Linha com Recompra sem mudar formato de leilões de câmbio.",
+      "publicado_em": "2026-10-05T08:30:53-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "1515ebfdc1156475",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Pix amplia funcionalidades e reforça segurança com nova rodada de aperfeiçoamentos regulatórios",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21278/nota",
+      "resumo": "Pix Automático poderá ser usado em contas-salário a partir de julho de 2027. Cobrança híbrida passa a ter regras específicas para evitar pagamento em duplicidade.",
+      "publicado_em": "2026-10-05T08:30:44-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "9d53404ec49bb5b5",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD celebra memorando de entendimento com a autoridade de proteção de dados de Portugal",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-celebra-memorando-de-entendimento-com-a-autoridade-de-protecao-de-dados-de-portugal",
+      "resumo": "Além de formalizar a parceria com o CNPD, em Lisboa, a Agência debateu governança de dados e inteligência artificial no 2º Diálogo Político de Alto Nível em Madri, na Espanha",
+      "publicado_em": "2026-10-05T15:38:01-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "e0f181dfb3009156",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD lança página específica para denúncias de infrações aos novos decretos do Marco Civil da Internet",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-lanca-pagina-especifica-para-denuncias-de-infracoes-aos-novos-decretos-do-marco-civil-da-internet",
+      "resumo": "Novo canal permite comunicar à Agência possíveis descumprimentos das obrigações previstas nos Decretos nº 12.975/26 e nº 12.976/26 por plataformas digitais",
+      "publicado_em": "2026-10-05T11:12:12-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decreto"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
     {
       "id": "ada37a73bc6b06e5",
       "fonte_id": "tjsp",
@@ -296,6 +1442,92 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-04T14:54:09-03:00"
+    },
+    {
+      "id": "3bde3116ecada663",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleição para governador será decidida no segundo turno em seis estados e no DF",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/eleicao-para-governador-sera-decidida-em-segundo-turno-em-seis-estados-e-no-df",
+      "resumo": "",
+      "publicado_em": "2026-10-04T23:56:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "f11ba93a0bdd238a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "TSE registra queda de 86% nas denúncias sobre integridade das eleições",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/tse-registra-queda-de-86-nas-denuncias-sobre-integridade-das-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-04T23:55:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "924aa2f64da7d6d5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "TSE destaca normalidade no 1º turno e redução das denúncias de desinformação",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/tse-destaca-normalidade-no-1o-turno-e-reducao-das-denuncias-de-desinformacao",
+      "resumo": "",
+      "publicado_em": "2026-10-04T23:50:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "e4d8b80705cc8947",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PL terá maior bancada em início de legislatura no Senado desde 1988",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/pl-tera-maior-bancada-em-inicio-de-legislatura-no-senado-desde-1988",
+      "resumo": "",
+      "publicado_em": "2026-10-04T23:32:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "d1c70ff7ae37934d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Doze mulheres são eleitas para o Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/doze-mulheres-sao-eleitas-para-o-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-04T23:27:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "886fd9c08eaf1ff7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleição para governador é definida em primeiro turno em 20 estados",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/04/eleicao-para-governador-e-definida-em-primeiro-turno-em-20-estados",
+      "resumo": "",
+      "publicado_em": "2026-10-04T23:25:00-03:00",
+      "dia": "2026-10-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
     },
     {
       "id": "e29d86161eb7c57f",
@@ -1789,6 +3021,22 @@
       "coletado_em": "2026-10-02T17:20:54-03:00"
     },
     {
+      "id": "f0df667a79a0f6c9",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "PGFN lança dois novos editais e prorroga adesão a outros três de renegociação de dívidas",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/pgfn-lanca-dois-novos-editais-e-prorroga-adesao-a-outros-tres-de-renegociacao-de-dividas",
+      "resumo": "",
+      "publicado_em": "2026-10-02T12:00:00-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
       "id": "bf8942a40743100d",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -1945,6 +3193,20 @@
       "coletado_em": "2026-10-02T17:20:54-03:00"
     },
     {
+      "id": "44670230aeb1c43c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Suplentes de Cleitinho e Moro herdarão quatro anos de Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/122921/suplentes-de-cleitinho-e-moro-herdarao-quatro-anos-de-senado",
+      "resumo": "Luis Felipe Cunha e Alex Diniz poderão ficar na Casa até 2031; outros três suplentes aguardam resultado do segundo turno nos Estados.",
+      "publicado_em": "2026-10-02T15:42:12-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
       "id": "6cd7c4c74fdff612",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2032,6 +3294,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "2c29fc8effb6d17a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara terá 35,67% de renovação em 2027, Senado chega a 49%",
+      "link": "https://www.congressoemfoco.com.br/noticia/122906/camara-tera-35-67-de-renovacao-em-2027-senado-chega-a-49",
+      "resumo": "Renovação na Câmara dos Deputados é a menor desde o início da Nova República.",
+      "publicado_em": "2026-10-02T12:31:18-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
     },
     {
       "id": "e1025b855695fb66",
@@ -2138,6 +3416,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "44e2346bc652711b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Confira os candidatos mais votados do Brasil para Câmara dos Deputados",
+      "link": "https://www.congressoemfoco.com.br/noticia/122889/confira-os-candidatos-mais-votados-do-brasil-para-camara-dos-deputados",
+      "resumo": "Confira os nomes que lideraram em número de votos nas eleições para a Câmara dos Deputados em 2026.",
+      "publicado_em": "2026-10-02T10:14:22-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
     },
     {
       "id": "13378f8304286542",
@@ -2309,7 +3601,7 @@
       "id": "c80e9153158021c6",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Fiscalização de Tribunais de Contas na implementação do Pena Justa é alinhada com o CNJ",
+      "titulo": "Fiscalização de tribunais de contas na implementação do Pena Justa é alinhada com o CNJ",
       "link": "https://www.cnj.jus.br/fiscalizacao-de-tribunais-de-contas-na-implementacao-do-pena-justa-e-alinhada-com-o-cnj/",
       "resumo": "Um acordo de cooperação entre o Conselho Nacional de Justiça (CNJ) e a Associação dos Membros dos Tribunais de Contas do Brasil (Atricon) vai garantir a sustentabilidade orçamentária do plano Pena Justa, voltado ao enfrentamento dos problemas estruturais do sistema prisional brasileiro. A previsão é",
       "publicado_em": "2026-10-02T12:00:00-03:00",
@@ -2327,7 +3619,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Saiba como os tribunais podem utilizar soluções tecnológicas nacionalizadas pelo Conecta",
       "link": "https://www.cnj.jus.br/saiba-como-os-tribunais-podem-utilizar-solucoes-tecnologicas-nacionalizadas-pelo-conecta/",
-      "resumo": "Soluções tecnológicas que automatizam processos, simplificam tarefas, otimizam cálculos e aceleram a entrega de serviços de Justiça: desde 2025, o Programa Conecta já nacionalizou 14 ferramentas desenvolvidas por tribunais brasileiros. A iniciativa foi instituída pelo Conselho Nacional de Justiça (C",
+      "resumo": "Soluções tecnológicas que automatizam processos, simplificam tarefas, otimizam cálculos e aceleram a entrega de serviços da Justiça: desde 2025, o Programa Conecta já nacionalizou 14 ferramentas desenvolvidas por tribunais brasileiros. A iniciativa foi instituída pelo Conselho Nacional de Justiça (C",
       "publicado_em": "2026-10-02T12:00:00-03:00",
       "dia": "2026-10-02",
       "data_estimada": true,
@@ -2341,7 +3633,7 @@
       "id": "db4aacb6988ebf69",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Cooperação para racionalizar execuções fiscais é firmada entre o CNJ e Procuradoria-Geral de Maceió",
+      "titulo": "Cooperação para racionalizar execuções fiscais é firmada entre o CNJ e a Procuradoria-Geral de Maceió",
       "link": "https://www.cnj.jus.br/cooperacao-para-racionalizar-execucoes-fiscais-e-firmada-entre-o-cnj-e-procuradoria-geral-de-maceio/",
       "resumo": "Representantes do Conselho Nacional de Justiça (CNJ), do Tribunal de Justiça de Alagoas (TJAL), da Corregedoria-Geral de Justiça (CGJ) e da Procuradoria-Geral de Maceió firmaram, nesta quinta (1º), acordo de cooperação técnica para a racionalização dos processos de execução fiscal, que tramitam na 1",
       "publicado_em": "2026-10-02T12:00:00-03:00",
@@ -5305,6 +6597,22 @@
       "coletado_em": "2026-09-30T17:31:33-03:00"
     },
     {
+      "id": "7a71ac76604d9a1d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado: Veja o ranking de votação dos 54 eleitos nas eleições de 2026",
+      "link": "https://www.congressoemfoco.com.br/noticia/122770/senado-veja-o-ranking-de-votacao-dos-54-eleitos-nas-eleicoes-de-2026",
+      "resumo": "Veja a votação dos 54 eleitos para mandatos de oito anos; ranking considera o total de votos recebidos em cada disputa.",
+      "publicado_em": "2026-09-30T15:42:41-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
       "id": "f462e46f37d84d15",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -5542,6 +6850,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-30T13:40:04-03:00"
+    },
+    {
+      "id": "e25e559ad01728ae",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Do Congresso aos Estados: Parlamentares foram eleitos governadores",
+      "link": "https://www.congressoemfoco.com.br/noticia/122738/do-congresso-aos-estados-parlamentares-foram-eleitos-governadores",
+      "resumo": "Cleitinho, Moro, Marcos Rogério e Zucco assumirão governos em 2027; outros três senadores e dois deputados seguem na disputa.",
+      "publicado_em": "2026-09-30T10:45:39-03:00",
+      "dia": "2026-09-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
     },
     {
       "id": "1f700d57b54ff8c6",
@@ -9012,6 +10334,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-09-28T15:28:51-03:00"
+    },
+    {
+      "id": "c31f84ea973def40",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Biblioteca do Cade estará fechada até a próxima segunda-feira (5/10) para mudança no layout",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/biblioteca-do-cade-estara-fechada-ate-a-proxima-segunda-feira-5-10-para-mudanca-no-layout",
+      "resumo": "",
+      "publicado_em": "2026-09-28T12:00:00-03:00",
+      "dia": "2026-09-28",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
     },
     {
       "id": "3d9481d70941b6cd",
@@ -14259,6 +15597,22 @@
         "cade"
       ],
       "coletado_em": "2026-09-23T15:02:16-03:00"
+    },
+    {
+      "id": "322acb6c8f637385",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade requisita servidor para atuar em Serviço de Compras",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/inscricoes-vao-ate-o-dia-30-de-setembro",
+      "resumo": "",
+      "publicado_em": "2026-09-23T12:00:00-03:00",
+      "dia": "2026-09-23",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-05T18:21:55-03:00"
     },
     {
       "id": "12886ec7fe911de9",
@@ -72129,22 +73483,6 @@
       "score": 60,
       "tags": [
         "protecao de dados",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "1b15e69ae3c0b5fb",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Autodeclaração de empregado como pessoa negra não afasta injúria racial cometida contra colega",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/autodeclaracao-de-empregado-como-pessoa-negra-nao-afasta-injuria-racial-cometida-contra-colega",
-      "resumo": "",
-      "publicado_em": "2026-07-06T12:00:00-03:00",
-      "dia": "2026-07-06",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
         "acao"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
