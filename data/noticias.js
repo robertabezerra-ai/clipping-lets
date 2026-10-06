@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-05T19:19:05-03:00",
+  "gerado_em": "2026-10-05T22:02:49-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -393,6 +393,20 @@ window.DADOS = {
       "coletado_em": "2026-10-05T18:21:55-03:00"
     },
     {
+      "id": "ab903ce1035a9a71",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF destaca como a Constituição está presente na vida dos brasileiros",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-destaca-como-a-constituicao-esta-presente-na-vida-dos-brasileiros/",
+      "resumo": "Evento na Biblioteca Ministro Victor Nunes Leal abriu Semana da Constituição",
+      "publicado_em": "2026-10-05T20:25:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T22:02:49-03:00"
+    },
+    {
       "id": "585edab2cbf6ef02",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -476,6 +490,36 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "0bfd4b4395e14748",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado sedia encontro sobre liderança feminina na administração pública",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/05/senado-sedia-encontro-sobre-lideranca-feminina-na-administracao-publica",
+      "resumo": "",
+      "publicado_em": "2026-10-05T20:19:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-05T22:02:49-03:00"
+    },
+    {
+      "id": "0d32afdabb1f3a3d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Primeiro videocast do Senado destaca mulheres no topo da gestão pública",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/05/primeiro-videocast-do-senado-destaca-mulheres-no-topo-da-gestao-publica",
+      "resumo": "",
+      "publicado_em": "2026-10-05T19:47:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T22:02:49-03:00"
     },
     {
       "id": "a87f644f60d6e160",
@@ -743,6 +787,20 @@ window.DADOS = {
       "coletado_em": "2026-10-05T18:21:55-03:00"
     },
     {
+      "id": "bf566deac20fdee0",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Ministério da Justiça e Segurança Pública divulga relatório final das operações no primeiro turno das eleições",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-e-seguranca-publica-divulga-relatorio-final-sobre-as-operacao-no-fim-de-semana-de-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T22:02:49-03:00"
+    },
+    {
       "id": "5d2dae50f9703aa1",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -958,6 +1016,64 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "f9d24ba72a6d57e4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula quer mirar 33 milhões que não votaram: \"responsabilidade é nossa\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123012/lula-quer-mirar-33-milhoes-que-nao-votaram--responsabilidade-e-nossa",
+      "resumo": "Presidente diz que campanha precisa entender as razões da abstenção e recuperar eleitores para o segundo turno.",
+      "publicado_em": "2026-10-05T21:02:31-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T22:02:49-03:00"
+    },
+    {
+      "id": "c040ff122b955ab5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula sinaliza que irá a debates no 2º turno: \"agora é tête-à-tête\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123011/lula-sinaliza-que-ira-a-debates-no-2-turno--agora-e-tete-a-tete",
+      "resumo": "Presidente defendeu confronto direto na televisão com Flávio Bolsonaro após não participar dos debates do primeiro turno.",
+      "publicado_em": "2026-10-05T20:56:47-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T22:02:49-03:00"
+    },
+    {
+      "id": "373e4291520d126c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "58ª Legislatura: Veja o que muda na composição da Câmara e Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/123010/58-legislatura-veja-o-que-muda-na-composicao-da-camara-e-senado",
+      "resumo": "PL amplia liderança nas duas Casas legislativas, PSD perde força no Senado e PDT enfraquece na Câmara.",
+      "publicado_em": "2026-10-05T20:40:35-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T22:02:49-03:00"
+    },
+    {
+      "id": "02ce462aef1babb5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas admite ter deixado Carlos Bolsonaro de fora de colinha em SC",
+      "link": "https://www.congressoemfoco.com.br/noticia/123009/nikolas-admite-ter-deixado-carlos-bolsonaro-de-fora-de-colinha-em-sc",
+      "resumo": "Deputado afirmou que decisão foi motivada por ataques anteriores de Carlos, que o acusou de atentar contra Jair Bolsonaro.",
+      "publicado_em": "2026-10-05T19:27:28-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-05T22:02:49-03:00"
     },
     {
       "id": "cb93f56026674f46",
@@ -1262,7 +1378,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Programa é apresentado para fortalecer rede e proteção à mulher na serra de SC",
       "link": "https://www.cnj.jus.br/programa-e-apresentado-para-fortalecer-rede-e-protecao-a-mulher-na-serra-de-sc/",
-      "resumo": "A campanha Sinal Vermelho, iniciativa que busca ampliar os canais de ajuda para mulheres em situação de violência doméstica e familiar por meio de um pedido silencioso de socorro, foi apresentada, em 01/10, nas comarcas de Urubici e São Joaquim, na Serra Catarinense. A ação foi conduzida pela desemb",
+      "resumo": "A campanha Sinal Vermelho, iniciativa que busca ampliar os canais de ajuda para mulheres em situação de violência doméstica e familiar por meio de um pedido silencioso de socorro, foi apresentada, em 1/10, nas comarcas de Urubici e São Joaquim, na serra catarinense. A ação foi conduzida pela desemba",
       "publicado_em": "2026-10-05T12:00:00-03:00",
       "dia": "2026-10-05",
       "data_estimada": true,
@@ -1278,7 +1394,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Judiciário e Senac formam jovens aprendizes com ações de saúde mental, apoio familiar e inclusão",
       "link": "https://www.cnj.jus.br/judiciario-e-senac-formam-jovens-aprendizes-com-acoes-de-saude-mental-apoio-familiar-e-inclusao/",
-      "resumo": "A Coordenadoria da Infância e da Juventude (CIJ) do Tribunal de Justiça de Sergipe (TJSE), em parceria com o Senac, prefeituras municipais e a rede socioassistencial, vem desenvolvendo ações que ampliam a formação dos jovens participantes do projeto ‘Conectando a Rede – Jovem Aprendiz’. As iniciativ",
+      "resumo": "A Coordenadoria da Infância e da Juventude (CIJ) do Tribunal de Justiça de Sergipe (TJSE), em parceria com o Senac, prefeituras municipais e a rede socioassistencial, vem desenvolvendo ações que ampliam a formação dos jovens participantes do projeto “Conectando a Rede — Jovem Aprendiz”. As iniciativ",
       "publicado_em": "2026-10-05T12:00:00-03:00",
       "dia": "2026-10-05",
       "data_estimada": true,
@@ -1317,6 +1433,37 @@ window.DADOS = {
         "aprova"
       ],
       "coletado_em": "2026-10-05T18:21:55-03:00"
+    },
+    {
+      "id": "687e7b14b10eddb8",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Tribunal promove seminário sobre Justiça Militar e Tribunal Penal Internacional",
+      "link": "https://www.cnj.jus.br/tribunal-promove-seminario-sobre-justica-militar-e-tribunal-penal-internacional/",
+      "resumo": "O Superior Tribunal Militar (STM) realizará, nos dias 14 e 15 de outubro, em Brasília, o seminário Justiça Militar e o Tribunal Penal Internacional, que reunirá magistrados, juristas, representantes de instituições públicas e especialistas para discutir temas relacionados à atuação do Tribunal Penal",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 36,
+      "tags": [
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-10-05T22:02:49-03:00"
+    },
+    {
+      "id": "cd43a3aae705a9de",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Família acolhedora: voluntária em Rondônia já cuidou de quatro crianças até a adoção",
+      "link": "https://www.cnj.jus.br/familia-acolhedora-voluntaria-em-rondonia-ja-cuidou-de-quatro-criancas-ate-a-adocao/",
+      "resumo": "Na casa de Cláudia Marfisia, o acolhimento começa no colo e nos cuidados do dia a dia. Voluntária do Serviço Família Acolhedora, ela já recebeu quatro crianças em sua casa, oferecendo, por um período temporário, um ambiente de afeto e convivência familiar. Cláudia é quase que um “amuleto da sorte”",
+      "publicado_em": "2026-10-05T12:00:00-03:00",
+      "dia": "2026-10-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-05T22:02:49-03:00"
     },
     {
       "id": "46b989a668367225",
