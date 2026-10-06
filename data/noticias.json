@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-06T14:02:46-03:00",
+  "gerado_em": "2026-10-06T16:12:00-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -317,6 +317,22 @@
       "coletado_em": "2026-10-06T14:02:46-03:00"
     },
     {
+      "id": "6d974c7a1d45d4dc",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP convoca candidatos para validação de autodeclaração do 6º Enam e 4º Enac",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115655&pagina=1",
+      "resumo": "Sessões presenciais no dia 16 de outubro.\n \n\tO Tribunal de Justiça de São Paulo publicou, no Diário Eletrônico da Justiça do Estado de São Paulo",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
       "id": "5971ea78ec72a56b",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -333,6 +349,34 @@
         "imposto"
       ],
       "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "44cdb950d4fe866f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Humberto Costa agradece a Pernambuco por inédita terceira eleição consecutiva",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/06/humberto-costa-agradece-eleitores-por-inedita-terceira-eleicao-consecutiva",
+      "resumo": "",
+      "publicado_em": "2026-10-06T15:36:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "c98826f27fb2c65a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto prevê alerta em veículos novos contra esquecimento de crianças e pets",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/06/projeto-preve-alerta-em-veiculos-novos-contra-esquecimento-de-criancas-e-pets",
+      "resumo": "",
+      "publicado_em": "2026-10-06T14:51:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
     },
     {
       "id": "53e58574be855bdb",
@@ -463,10 +507,72 @@
       "coletado_em": "2026-10-06T14:02:46-03:00"
     },
     {
+      "id": "637aedde83e13714",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Escola Nacional de Segurança Pública disponibiliza curso sobre prevenção da violência",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-disponibiliza-curso-sobre-prevencao-da-violencia",
+      "resumo": "",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "6a7d07f870b9e225",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP defende prevenção de riscos e capacidade institucional na regulação do ambiente digital",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-defende-prevencao-de-riscos-e-capacidade-institucional-na-regulacao-do-ambiente-digital-1",
+      "resumo": "",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "395625cbf756ab14",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Quer consultar quais vacinas já recebeu? Saiba como acessar a carteira de vacinação pelo Meu SUS Digital",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/quer-consultar-suas-vacinas-saiba-como-acessar-a-carteira-de-vacinacao-pelo-meu-sus-digital",
+      "resumo": "",
+      "publicado_em": "2026-10-06T15:03:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "596e43c5122381bd",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Fies: prazo para instituições aderirem às vagas remanescentes termina nesta quarta-feira (7)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/fies-2026-ultimos-dias-para-instituicoes-aderirem-as-vagas-remanescentes",
+      "resumo": "",
+      "publicado_em": "2026-10-06T14:58:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
       "id": "c3c40b8a30d01614",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "“Lista Suja” do trabalho análogo à escravidão é atualizada com 82 novos empregadores",
+      "titulo": "'Lista Suja' do trabalho análogo à escravidão é atualizada com 82 novos empregadores",
       "link": "https://agenciagov.ebc.com.br/noticias/202610/201clista-suja201d-do-trabalho-analogo-a-escravidao-e-atualizada-com-82-novos-empregadores",
       "resumo": "",
       "publicado_em": "2026-10-06T10:28:00-03:00",
@@ -584,6 +690,65 @@
       "coletado_em": "2026-10-06T14:02:46-03:00"
     },
     {
+      "id": "6040a50d47137542",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio confirma debates contra Lula: \"já queria ter participado\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123036/flavio-confirma-debates-contra-lula--ja-queria-ter-participado",
+      "resumo": "Após ausências na primeira etapa, candidato do PL defende confronto de propostas com o presidente.",
+      "publicado_em": "2026-10-06T15:16:03-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "01bc094c616c5c48",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio defende trabalho por hora como alternativa ao fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123034/flavio-defende-trabalho-por-hora-como-alternativa-ao-fim-da-escala-6x1",
+      "resumo": "Presidenciável diz ter alternativa melhor à proposta e defende que trabalhadores negociem a própria carga horária com empregadores.",
+      "publicado_em": "2026-10-06T14:55:36-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "565356517277cd0a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "José Guimarães garante votação da PEC 6x1 antes do segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123032/jose-guimaraes-garante-votacao-da-pec-6x1-antes-do-segundo-turno",
+      "resumo": "Ministro relata disposição de Alcolumbre para avançar com a proposta e diz que governo está unido pela aprovação no Senado.",
+      "publicado_em": "2026-10-06T14:07:30-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "83e96dddffac64bc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Candidatos com força nas redes são eleitos com números expressivos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123031/candidatos-com-forca-nas-redes-sao-eleitos-com-numeros-expressivos",
+      "resumo": "Apoio nas redes sociais é convertido em votos no Congresso Nacional.",
+      "publicado_em": "2026-10-06T13:57:29-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
       "id": "c575741058ee720a",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -610,6 +775,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "e36504454faa96b6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Depois da eleição começa outra corrida: a prestação de contas",
+      "link": "https://www.congressoemfoco.com.br/artigo/123024/depois-da-eleicao-comeca-outra-corrida-a-prestacao-de-contas",
+      "resumo": "Candidaturas do primeiro turno têm até 3 de novembro para informar à Justiça Eleitoral receitas e despesas realizadas durante a campanha.",
+      "publicado_em": "2026-10-06T11:21:02-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
     },
     {
       "id": "ae80c35cfdb1aea5",
@@ -767,13 +948,118 @@
       "coletado_em": "2026-10-06T14:02:46-03:00"
     },
     {
+      "id": "7e970c19bd26619d",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Justiça social e trabalho decente serão tema do III Encontro PopRuaJud",
+      "link": "https://www.cnj.jus.br/justica-social-e-trabalho-decente-serao-tema-do-iii-encontro-popruajud/",
+      "resumo": "A superação da situação de rua passa, especialmente, pela promoção do acesso à qualificação e ao mercado de trabalho formal para pessoas que vivem nessa condição. Para debater essa questão, o Conselho Nacional de Justiça (CNJ) vai realizar o III Encontro Nacional PopRuaJud, nos dias 23 e 24 de novem",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "4ef487c428f57bc1",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Tribunais impulsionam mais de 40 mil processos ambientais em semana temática",
+      "link": "https://www.cnj.jus.br/tribunais-impulsionam-mais-de-40-mil-processos-ambientais-em-semana-tematica/",
+      "resumo": "Mais de 40 mil processos relacionados às questões ambientais foram movimentados em tribunais estaduais e federais durante a II Semana da Pauta Verde, realizada em junho deste ano. A consolidação dos dados mostra um aumento significativo na efetividade da iniciativa coordenada pelo Conselho Nacional ",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "92001a8dde005e30",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Webinário apresenta novidades em ferramenta que otimiza rotina em gabinetes",
+      "link": "https://www.cnj.jus.br/webinario-apresenta-novidades-em-ferramenta-que-otimiza-rotina-em-gabinetes/",
+      "resumo": "O Gabinete do Juízo, solução digital que apoia a gestão das atividades diárias nos tribunais, foi apresentado na última sexta-feira (2/10) durante o webinário Conheça o Gabinete do Juízo. Realizado pelo Programa Justiça 4.0, o evento reuniu mais de 700 participantes e demonstrou as funcionalidades d",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "dc9ce0efada56fbc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria o crime de traição à pátria no Código Penal",
+      "link": "https://www.camara.leg.br/noticias/1309624-projeto-cria-o-crime-de-traicao-a-patria-no-codigo-penal",
+      "resumo": "",
+      "publicado_em": "2026-10-06T15:50:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "efdb697c4ad3707c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê retenção de prêmios de bets e restituição do IR para pagar pensão alimentícia",
+      "link": "https://www.camara.leg.br/noticias/1304751-projeto-preve-retencao-de-premios-de-bets-e-restituicao-do-ir-para-pagar-pensao-alimenticia",
+      "resumo": "",
+      "publicado_em": "2026-10-06T15:22:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "41152643e4f4c7f1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Pela primeira vez desde 1988, nenhum deputado constituinte foi eleito para a Câmara",
+      "link": "https://www.camara.leg.br/noticias/1309638-pela-primeira-vez-desde-1988-nenhum-deputado-constituinte-foi-eleito-para-a-camara",
+      "resumo": "",
+      "publicado_em": "2026-10-06T14:36:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "7db042124dde9f79",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria programa para preservar a memória popular das copas do mundo",
+      "link": "https://www.camara.leg.br/noticias/1305576-projeto-cria-programa-para-preservar-a-memoria-popular-das-copas-do-mundo",
+      "resumo": "",
+      "publicado_em": "2026-10-06T13:12:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
       "id": "119e40400d64c0d6",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
       "titulo": "Projeto cria política nacional para levar internet de alta velocidade a todas as escolas públicas",
       "link": "https://www.camara.leg.br/noticias/1306854-projeto-cria-politica-nacional-para-levar-internet-de-alta-velocidade-a-todas-as-escolas-publicas",
       "resumo": "",
-      "publicado_em": "2026-10-06T11:57:00-03:00",
+      "publicado_em": "2026-10-06T12:07:00-03:00",
       "dia": "2026-10-06",
       "data_estimada": false,
       "score": 40,
