@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-05T22:02:49-03:00",
+  "gerado_em": "2026-10-06T14:02:46-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -239,7 +239,7 @@ window.DADOS = {
     {
       "id": "governo_federal",
       "status": "ok",
-      "itens": 18,
+      "itens": 19,
       "erro": null
     },
     {
@@ -250,6 +250,661 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "c9fcadaf5b954243",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 e Polícia Rodoviária Federal reforçam parceria em defesa dos direitos humanos",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-e-policia-rodoviaria-federal-reforcam-parceria-em-defesa-dos-direitos-humanos",
+      "resumo": "TRT-15 e Polícia Rodoviária Federal reforçam parceria em defesa dos direitos humanos anasiqueira Ter, 06/10/2026 - 13:46 TRT-15 e Polícia Rodoviária Federal reforçam parceria em defesa dos direitos humanos Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª Região, desembargador",
+      "publicado_em": "2026-10-06T13:46:33-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "4da7456814a9a137",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Museu do TJSP recebe crianças em visita sobre a história do Judiciário",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115650&pagina=1",
+      "resumo": "Ação celebra o Dia das Crianças.\n \n\tO Palacete Conde de Sarzedas, sede do Museu do Tribunal de Justiça de São Paulo, recebeu, ontem (5), 18",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "8c33e53e6757ed03",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Emissora é responsabilizada pela exposição de criança sem autorização dos pais",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115649&pagina=1",
+      "resumo": "Fixada indenização por violação de direito de imagem.\n \n\tA 4ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve decisão da 3ª",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decisao",
+        "indenizacao",
+        "acao",
+        "exposicao"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "547e99e77bd3703e",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "EPM debate atualizações na admissibilidade de recursos especiais no STJ",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115629&pagina=1",
+      "resumo": "Novo regime jurídico da relevância da questão federal. \n \n\tA Escola Paulista da Magistratura realiza, em 16 de outubro, o curso Recurso Especial: Relevância da Questão",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "5971ea78ec72a56b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF afasta ICMS sobre subvenção de energia elétrica para consumidores de baixa renda",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-afasta-icms-sobre-subvencao-de-energia-eletrica-para-consumidores-de-baixa-renda/",
+      "resumo": "Tese de repercussão geral considera que valores repassados pela União às concessionárias não integram a base de cálculo do imposto",
+      "publicado_em": "2026-10-06T09:14:24-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 82,
+      "tags": [
+        "tese",
+        "repercussao geral",
+        "imposto"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "53e58574be855bdb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado terá 13 partidos representados a partir de 2027",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senado-tera-13-partidos-representados-a-partir-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-10-06T11:59:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "3235b488054fac20",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Encontro reúne mulheres dos três Poderes e lança rede de lideranças",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/encontro-reune-mulheres-dos-tres-poderes-e-lanca-rede-de-liderancas",
+      "resumo": "",
+      "publicado_em": "2026-10-06T10:57:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "4c51c6dac058c701",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleitor que faltou no primeiro turno pode votar no segundo",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/eleitor-que-faltou-no-primeiro-turno-pode-votar-no-segundo",
+      "resumo": "",
+      "publicado_em": "2026-10-06T10:26:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "fab93555a47d8d3e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Especialistas alertam para aliciamento de crianças na internet",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/especialistas-alertam-para-aliciamento-de-criancas-na-internet",
+      "resumo": "",
+      "publicado_em": "2026-10-06T10:17:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "542eae1ac567f635",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Mais de 33 milhões de eleitores faltaram ao primeiro turno",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/mais-de-33-milhoes-de-eleitores-faltaram-ao-primeiro-turno",
+      "resumo": "",
+      "publicado_em": "2026-10-06T09:41:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "b883687344116663",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senadores podem iniciar análise da PEC da escala 6x1 esta semana",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senadores-podem-iniciar-analise-da-pec-da-escala-6x1-esta-semana",
+      "resumo": "",
+      "publicado_em": "2026-10-06T09:23:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "0727262b97319057",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto cria política de promoção da independência financeira das mulheres",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/06/projeto-cria-politica-de-promocao-da-independencia-financeira-das-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-10-06T09:04:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "b7cdfca479b223ae",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal, em operação conjunta com a Anatel, retém mais de 1.300 produtos eletrônicos em situação irregular",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-em-operacao-conjunta-com-a-anatel-retem-mais-de-1-300-produtos-eletronicos-em-situacao-irregular",
+      "resumo": "",
+      "publicado_em": "2026-10-06T08:09:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "2d865a4ba2abd1e3",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senad reúne instituições para fortalecer proteção de crianças e adolescentes contra o crime organizado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-reune-instituicoes-para-fortalecer-protecao-de-criancas-e-adolescentes-contra-o-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "c3c40b8a30d01614",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "“Lista Suja” do trabalho análogo à escravidão é atualizada com 82 novos empregadores",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/201clista-suja201d-do-trabalho-analogo-a-escravidao-e-atualizada-com-82-novos-empregadores",
+      "resumo": "",
+      "publicado_em": "2026-10-06T10:28:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "c6f4721b25b6bd02",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Drones ampliam fiscalização de operações em áreas de difícil acesso",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/drones-ampliam-fiscalizacao-de-operacoes-em-areas-de-dificil-acesso",
+      "resumo": "",
+      "publicado_em": "2026-10-06T10:20:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "fb094ed4fc759a5c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Super App da Anac ganha nova jornada para mecânicos de manutenção aeronáutica",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/super-app-da-anac-ganha-nova-jornada-para-mecanicos-de-manutencao-aeronautica",
+      "resumo": "",
+      "publicado_em": "2026-10-06T09:20:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "1412b82ca523755e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Cursinhos populares apoiam preparação de estudantes para o Enem",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/cursinhos-populares-apoiam-preparacao-de-estudantes-para-o-enem",
+      "resumo": "",
+      "publicado_em": "2026-10-06T09:19:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "ac1cc6e71de195a9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Receita Federal e Anatel retém 1,3 mil produtos eletrônicos em situação irregular",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/receita-federal-em-operacao-conjunta-com-a-anatel-retem-mais-de-1-300-produtos-eletronicos-em-situacao-irregular",
+      "resumo": "",
+      "publicado_em": "2026-10-06T08:09:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "3b9d37a4e81c19aa",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM participa de evento da IOSCO em Milão, na Itália",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-de-evento-da-iosco-em-milao-na-italia",
+      "resumo": "",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "171fd54ee78d8abd",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Sessão de Julgamento em 6/10",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/sessao-de-julgamento-em-6-10",
+      "resumo": "",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "786ed0f9545b3b1a",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Expediente na CVM no dia 12/10",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/expediente-na-cvm-no-dia-12-10",
+      "resumo": "",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "c575741058ee720a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem é Ana Elisa, deputada federal eleita que quer hypar PT nas redes",
+      "link": "https://www.congressoemfoco.com.br/noticia/123030/quem-e-ana-elisa-deputada-federal-eleita-que-quer-hypar-pt-nas-redes",
+      "resumo": "Candidata registrou 524.219 votos, segunda mais bem votada em Minas Gerais.",
+      "publicado_em": "2026-10-06T13:34:15-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "c6098cd3e10d1fc8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AGU pede que STF mantenha proibição de bets determinada por Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/123027/agu-pede-que-stf-mantenha-proibicao-de-bets-determinada-por-lula",
+      "resumo": "Órgão pede que Fux ouça a PGR e avalie audiência pública antes de decidir sobre ações contra a medida.",
+      "publicado_em": "2026-10-06T12:35:41-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "ae80c35cfdb1aea5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes concede regime semiaberto a \"Débora do Batom\", condenada no 8/1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123022/moraes-concede-regime-semiaberto-a-debora-do-batom--condenada-no-8-1",
+      "resumo": "Cabeleireira seguirá em prisão domiciliar; ministro também reconheceu 212 dias de redução da pena por trabalho, leitura e aprovação no Enem.",
+      "publicado_em": "2026-10-06T10:54:03-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "condenada",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "a14dbddf9857596c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Faltou à eleição? Veja o que o eleitor precisa fazer agora",
+      "link": "https://www.congressoemfoco.com.br/artigo/123021/faltou-a-eleicao-veja-o-que-o-eleitor-precisa-fazer-agora",
+      "resumo": "Eleitor tem até 3 de dezembro para regularizar a situação e poderá votar normalmente no segundo turno, mesmo que ainda não tenha apresentado a justificativa.",
+      "publicado_em": "2026-10-06T10:52:05-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "d6cca48e59da9b39",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Votos válidos para deputado crescem 4,9 milhões e batem recorde",
+      "link": "https://www.congressoemfoco.com.br/noticia/123020/votos-validos-para-deputado-crescem-4-9-milhoes-e-batem-recorde",
+      "resumo": "Total chega a 114,06 milhões em 2026; alta de 4,5% supera avanço de 1,3% do eleitorado apto e acompanha queda de brancos e nulos.",
+      "publicado_em": "2026-10-06T10:23:56-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "4c4b948fb47ed309",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Daniel Alves declara apoio a Flávio Bolsonaro e afirma obedecer a Deus",
+      "link": "https://www.congressoemfoco.com.br/noticia/123019/daniel-alves-declara-apoio-a-flavio-bolsonaro-e-afirma-obedecer-a-deus",
+      "resumo": "Ex-jogador afirmou que recebeu indicação divina do nome e do número do candidato e pediu que ele mantivesse a humildade.",
+      "publicado_em": "2026-10-06T09:41:17-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "d689dc07111aabb3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Uso dos dois votos para o Senado sobe a 83% e é o maior desde 2002",
+      "link": "https://www.congressoemfoco.com.br/noticia/123018/uso-dos-dois-votos-para-o-senado-sobe-a-83-e-e-o-maior-desde-2002",
+      "resumo": "Aproveitamento cresce nas 27 unidades da Federação e avança dez pontos em relação a 2018; Amapá lidera, com 92,8%. Neste ano, eleitor podia votar em dois candidatos ao Senado.",
+      "publicado_em": "2026-10-06T09:13:53-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "05118a2294b62b13",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado: Quem são todos os senadores e seus partidos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123017/senado-quem-sao-todos-os-senadores-e-seus-partidos",
+      "resumo": "Parlamentares assumem em fevereiro de 2027 para mandato de oito anos; confira os representantes de cada estado e do Distrito Federal.",
+      "publicado_em": "2026-10-06T09:00:15-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "2ff19a84d832621d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan nega apoio a Lula após comprar cortinas vermelhas: \"odeio o PT\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123016/renan-nega-apoio-a-lula-apos-comprar-cortinas-vermelhas--odeio-o-pt",
+      "resumo": "Após dizer que comprou cortinas para dormir até mais tarde, Renan relatou que seguidores interpretaram a escolha da cor como apoio a Lula.",
+      "publicado_em": "2026-10-06T08:48:46-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "57848e6cd81189c6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara: Quem são todos os deputados federais e seus partidos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123015/camara-quem-sao-todos-os-deputados-federais-e-seus-partidos",
+      "resumo": "Parlamentares assumem em fevereiro de 2027 para mandato de quatro anos; confira os representantes de cada estado e do Distrito Federal.",
+      "publicado_em": "2026-10-06T08:02:53-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "cefa4f86969ffd9c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Plenário do Senado começa a discutir hoje fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123013/plenario-do-senado-comeca-a-discutir-hoje-fim-da-escala-6x1",
+      "resumo": "PEC reduz jornada máxima de 44 para 40 horas e garante dois dias de descanso. Debate recomeça dois dias depois de eleição que deu ao PL a maior bancada do futuro Senado e reelegeu apenas 14 dos 54 senadores em fim de mandato.",
+      "publicado_em": "2026-10-06T07:29:25-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "eed8a29d670a043f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ e Bacen propõem novas regras e limites para a negociação de precatórios",
+      "link": "https://www.cnj.jus.br/cnj-e-bacen-propoem-novas-regras-e-limites-para-a-negociacao-de-precatorios/",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Edson Fachin, e o presidente do Banco Central, Gabriel Galípolo, recebem, nesta terça-feira (6/10), nota técnica com propostas para regulamentar as cessões de crédito de precatórios e fortalecer a transp",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 86,
+      "tags": [
+        "regulamenta",
+        "novas regras",
+        "precatorio",
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "119e40400d64c0d6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política nacional para levar internet de alta velocidade a todas as escolas públicas",
+      "link": "https://www.camara.leg.br/noticias/1306854-projeto-cria-politica-nacional-para-levar-internet-de-alta-velocidade-a-todas-as-escolas-publicas",
+      "resumo": "",
+      "publicado_em": "2026-10-06T11:57:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "b972bb28e01e323d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria programa para distribuir materiais esportivos a crianças em vulnerabilidade social",
+      "link": "https://www.camara.leg.br/noticias/1305826-projeto-cria-programa-para-distribuir-materiais-esportivos-a-criancas-em-vulnerabilidade-social",
+      "resumo": "",
+      "publicado_em": "2026-10-06T11:06:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "99c280801cb00234",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto amplia transparência sobre dados usados na análise de crédito",
+      "link": "https://www.camara.leg.br/noticias/1304402-projeto-amplia-transparencia-sobre-dados-usados-na-analise-de-credito",
+      "resumo": "",
+      "publicado_em": "2026-10-06T10:03:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "86720d1b2e4b377f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê folga em dobro para trabalhadores que atuarem no Tribunal do Júri",
+      "link": "https://www.camara.leg.br/noticias/1306431-projeto-preve-folga-em-dobro-para-trabalhadores-que-atuarem-no-tribunal-do-juri",
+      "resumo": "",
+      "publicado_em": "2026-10-06T09:43:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "97faf27e94bbc729",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Conselho de Comunicação Social defende regulação de mercados digitais",
+      "link": "https://www.camara.leg.br/noticias/1309515-conselho-de-comunicacao-social-defende-regulacao-de-mercados-digitais",
+      "resumo": "",
+      "publicado_em": "2026-10-06T08:19:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "102382811a1092bf",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade abre duas vagas de estágio em Direito e Economia para atuação em Gabinete",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-abre-duas-vagas-de-estagio-em-direito-e-economia-para-atuacao-em-gabinete",
+      "resumo": "",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "7dbdbfa8d9991451",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "BC passa a divulgar mensalmente indicadores de reajustes salariais negociados",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21280/nota",
+      "resumo": "Dados mostram forte relação entre reajustes pactuados e inflação passada. Estudo mostra que ganhos reais são mais frequentes em períodos de baixa taxa de desocupação.",
+      "publicado_em": "2026-10-06T07:34:47-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "1ea06ef49f39a966",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD divulga resultado final do 4º Prêmio Danilo Doneda",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-divulga-resultado-final-do-4o-premio-danilo-doneda",
+      "resumo": "Artigos vencedores abordam inteligência artificial, criação automatizada de plataformas e privacidade desde a concepção como dever na LGPD",
+      "publicado_em": "2026-10-06T12:50:12-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "lgpd",
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "c74ede1c36ba18c2",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD abre consulta pública e inscrições para audiência sobre revisão do processo regulatório",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-abre-consulta-audiencia-publica-sobre-revisao-processo-regulatorio",
+      "resumo": "Os interessados em falar na audiência do dia 22/10 podem se inscrever até 16/10. Já as contribuições por escrito podem ser enviadas até 23/11",
+      "publicado_em": "2026-10-06T09:56:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
     {
       "id": "d3ec324e247c5585",
       "fonte_id": "trt2",
@@ -3693,6 +4348,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-02T13:30:02-03:00"
+    },
+    {
+      "id": "2d4ddd2af680d941",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alice no STF das maravilhas",
+      "link": "https://www.congressoemfoco.com.br/coluna/122898/alice-no-stf-das-maravilhas",
+      "resumo": "Debate sobre continência, acesso a provas e sigilo no caso Master levanta uma questão maior sobre os limites do poder do Supremo de interpretar as próprias regras.",
+      "publicado_em": "2026-10-02T11:23:29-03:00",
+      "dia": "2026-10-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T14:02:46-03:00"
     },
     {
       "id": "d8e9b5e294421beb",
@@ -73728,53 +74397,6 @@ window.DADOS = {
         "sancao",
         "protecao de dados",
         "processo"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "485bf72a41a68e58",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Justiça do Trabalho condena instituição financeira por ofensas e ameaças de agressão física",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-do-trabalho-condena-instituicao-financeira-por-ofensas-e-ameacas-de-agressao-fisica",
-      "resumo": "",
-      "publicado_em": "2026-07-07T12:00:00-03:00",
-      "dia": "2026-07-07",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "23f7bca3928df390",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Lançado o edital para nova edição do PinCade",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-lanca-edital-para-nova-edicao-do-pincade",
-      "resumo": "",
-      "publicado_em": "2026-07-07T12:00:00-03:00",
-      "dia": "2026-07-07",
-      "data_estimada": true,
-      "score": 50,
-      "tags": [
-        "cade"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "9c21c9fd97c28f5d",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "ANPD e PNUD selecionam consultores para realização de estudos sobre IA, proteção de dados e publicidade digital voltada a crianças e adolescentes",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-e-pnud-selecionam-consultores-para-realizacao-de-estudos-sobre-ia-protecao-de-dados-e-publicidade-digital-voltada-a-criancas-e-adolescentes",
-      "resumo": "Os interessados devem apresentar candidaturas individuais, conforme os requisitos previstos nos cinco editais, a partir desta terça-feira (07) até 26 de julho. O trabalho terá duração prevista de até 120 dias",
-      "publicado_em": "2026-07-07T14:49:56-03:00",
-      "dia": "2026-07-07",
-      "data_estimada": false,
-      "score": 60,
-      "tags": [
-        "protecao de dados",
-        "acao"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
