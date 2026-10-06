@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-06T16:12:00-03:00",
+  "gerado_em": "2026-10-06T17:46:54-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -333,6 +333,22 @@
       "coletado_em": "2026-10-06T16:12:00-03:00"
     },
     {
+      "id": "909f4703136a0332",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF suspende norma de Pernambuco que permitia conversão de férias e licença-prêmio em dinheiro para servidores",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-norma-de-pernambuco-que-permitia-conversao-de-ferias-e-licenca-premio-em-dinheiro-para-servidores/",
+      "resumo": "Para o ministro André Mendonça, a mudança proposta pelo Legislativo estadual tratou de matéria de iniciativa reservada ao Executivo",
+      "publicado_em": "2026-10-06T17:22:21-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
       "id": "5971ea78ec72a56b",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -349,6 +365,82 @@
         "imposto"
       ],
       "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "21fefa387f9f3499",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Confúcio parabeniza candidatos eleitos por Rondônia",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/06/confucio-parabeniza-candidatos-eleitos-por-rondonia",
+      "resumo": "",
+      "publicado_em": "2026-10-06T17:32:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "66d2a35237b2852a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições demonstraram insatisfação com governo e STF, diz Damares",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/06/eleicoes-demonstraram-insatisfacao-com-governo-e-stf-diz-damares",
+      "resumo": "",
+      "publicado_em": "2026-10-06T17:19:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "2263a8a1a2206a1a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi prevê primeira votação da PEC do fim da escala 6x1 na semana que vem",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/06/davi-preve-primeira-votacao-da-pec-do-fim-da-escala-6x1-na-semana-que-vem",
+      "resumo": "",
+      "publicado_em": "2026-10-06T17:15:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "3ff3360567a62e17",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Zenaide Maia defende o fim da escala 6x1 e pede atenção para a vacinação de crianças",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/06/zenaide-maia-defende-o-fim-da-escala-6x1-e-pede-atencao-para-a-vacinacao-de-criancas",
+      "resumo": "",
+      "publicado_em": "2026-10-06T16:57:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "c038a7ee9005e928",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Paulo Paim defende que fim da escala 6x1 avance esta semana no Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/06/paulo-paim-defende-que-fim-da-escala-6x1-avance-esta-semana-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-06T16:23:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
     },
     {
       "id": "44cdb950d4fe866f",
@@ -477,6 +569,22 @@
       "coletado_em": "2026-10-06T14:02:46-03:00"
     },
     {
+      "id": "07028b3710006b62",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Projeto Cartas 2026 incentiva autorregularização de declarações retidas em malha fiscal",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/projeto-cartas-2026-incentiva-autorregularizacao-de-declaracoes-retidas-em-malha-fiscal",
+      "resumo": "",
+      "publicado_em": "2026-10-06T15:03:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
       "id": "b7cdfca479b223ae",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -491,6 +599,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "190309e9ae03812a",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "III Semana Nacional da Regularização Tributária",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/iii-semana-nacional-da-regularizacao-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
     },
     {
       "id": "2d865a4ba2abd1e3",
@@ -645,6 +769,22 @@
       "coletado_em": "2026-10-06T14:02:46-03:00"
     },
     {
+      "id": "b6ea67bd9ce44008",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Projeto Cartas 2026 incentiva autorregularização de declarações retidas em malha fiscal",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/projeto-cartas-2026-incentiva-autorregularizacao-de-declaracoes-retidas-em-malha-fiscal",
+      "resumo": "",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
       "id": "3b9d37a4e81c19aa",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -690,6 +830,92 @@
       "coletado_em": "2026-10-06T14:02:46-03:00"
     },
     {
+      "id": "8065f18fdc4b8eb3",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Presidente da CVM participa de Simpósio de Regulação de Blockchain em Nova York",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/presidente-da-cvm-participa-de-simposio-de-regulacao-de-blockchain-em-nova-york",
+      "resumo": "",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "8286680bbf671f80",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alcolumbre sinaliza voto a favor da PEC do fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123043/alcolumbre-sinaliza-voto-a-favor-da-pec-do-fim-da-escala-6x1",
+      "resumo": "Presidente do Senado expressou concordância com argumentos pela redução da jornada nacional de trabalho.",
+      "publicado_em": "2026-10-06T17:29:32-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "e42bdc9da5831ba0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ana Elisa é recebida por Alckmin em Brasília: \"onça vai beber água\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123042/ana-elisa-e-recebida-por-alckmin-em-brasilia--onca-vai-beber-agua",
+      "resumo": "Deputada eleita foi à capital defender mudanças na estratégia digital da campanha de Lula para o segundo turno.",
+      "publicado_em": "2026-10-06T17:04:45-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "d45e1bbdaf556a7d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Michelle Bolsonaro e Erika Kokay lideram em votos ao Senado na Papuda",
+      "link": "https://www.congressoemfoco.com.br/noticia/123041/michelle-bolsonaro-e-erika-kokay-lideram-em-votos-ao-senado-na-papuda",
+      "resumo": "Boletins de urna no Complexo da Papuda apontam eleitorado diverso; unidade prisional recebe votos tanto de detentos quanto de agentes.",
+      "publicado_em": "2026-10-06T16:33:08-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "6d47857533b2744a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "De 19 candidatos com nome Bolsonaro, apenas seis foram eleitos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123038/de-19-candidatos-com-nome-bolsonaro-apenas-seis-foram-eleitos",
+      "resumo": "Quatro desses são familiares do ex-presidente, enquanto dois utilizam sobrenome como bandeira política.",
+      "publicado_em": "2026-10-06T16:10:08-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "5c4d95b0e9fd7de9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AO VIVO: Plenário do Senado debate PEC que prevê o fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123037/ao-vivo-plenario-do-senado-debate-pec-que-preve-o-fim-da-escala-6x1",
+      "resumo": "PEC precisa passar por cinco sessões de discussão antes que senadores votem.",
+      "publicado_em": "2026-10-06T16:02:35-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
       "id": "6040a50d47137542",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -702,6 +928,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "1f18275854923f13",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veja as possíveis lideranças do novo Congresso em 2027",
+      "link": "https://www.congressoemfoco.com.br/noticia/123035/veja-as-possiveis-liderancas-do-novo-congresso-em-2027",
+      "resumo": "Levantamento do Congresso em Foco reúne deputados e senadores que chegam à próxima legislatura com experiência de articulação, peso partidário, influência em bancadas ou capital político próprio.",
+      "publicado_em": "2026-10-06T15:08:07-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
     },
     {
       "id": "01bc094c616c5c48",
@@ -775,6 +1017,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "8b580c834a4d3808",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O balanço invisível das instituições",
+      "link": "https://www.congressoemfoco.com.br/artigo/123026/o-balanco-invisivel-das-instituicoes",
+      "resumo": "Democracias também acumulam ativos e passivos. Confiança, previsibilidade e autocontenção são patrimônio. Excepcionalidade permanente, personalização do poder e insegurança são dívida. E nenhuma instituição consegue operar indefinidamente no vermelho.",
+      "publicado_em": "2026-10-06T12:24:15-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
     },
     {
       "id": "e36504454faa96b6",
@@ -993,6 +1251,36 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "3dcccb831d0e6217",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto regulamenta registro digital de direitos sobre imóveis",
+      "link": "https://www.camara.leg.br/noticias/1309531-projeto-regulamenta-registro-digital-de-direitos-sobre-imoveis",
+      "resumo": "",
+      "publicado_em": "2026-10-06T16:59:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "cfd8803349b89371",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto garante direitos a trabalhador doméstico em caso de morte do patrão",
+      "link": "https://www.camara.leg.br/noticias/1305723-projeto-garante-direitos-a-trabalhador-domestico-em-caso-de-morte-do-patrao",
+      "resumo": "",
+      "publicado_em": "2026-10-06T16:34:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T17:46:54-03:00"
     },
     {
       "id": "dc9ce0efada56fbc",
