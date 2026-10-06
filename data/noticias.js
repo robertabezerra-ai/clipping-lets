@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-06T17:46:54-03:00",
+  "gerado_em": "2026-10-06T20:27:43-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,20 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "e340f53fd4d0f278",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 conquista pelo segundo ano consecutivo o Selo Linguagem Simples do CNJ",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-conquista-pelo-segundo-ano-consecutivo-o-selo-linguagem-simples-do-cnj",
+      "resumo": "TRT-15 conquista pelo segundo ano consecutivo o Selo Linguagem Simples do CNJ anasiqueira Ter, 06/10/2026 - 18:35 TRT-15 conquista pelo segundo ano consecutivo o Selo Linguagem Simples do CNJ Conteúdo da Notícia Pelo segundo ano consecutivo, o Tribunal Regional do Trabalho da 15ª Região será contemp",
+      "publicado_em": "2026-10-06T18:35:58-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
       "id": "c9fcadaf5b954243",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -333,6 +347,77 @@ window.DADOS = {
       "coletado_em": "2026-10-06T16:12:00-03:00"
     },
     {
+      "id": "a96b7d05775c7ade",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF acolhe parecer da PGR e arquiva pedido de investigação contra deputado federal Alfredo Gaspar",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-acolhe-parecer-da-pgr-e-arquiva-pedido-de-investigacao-contra-deputado-federal-alfredo-gaspar/",
+      "resumo": "Decisão foi proferida pelo ministro Gilmar Mendes; diligências realizadas não encontraram indícios suficientes para instauração de inquérito",
+      "publicado_em": "2026-10-06T20:27:42-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "decisao",
+        "acao",
+        "diligencia"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "ef3ce1947edcca1c",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Museu do STF recebe exposição sobre emendas constitucionais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/museu-do-stf-recebe-exposicao-sobre-emendas-constitucionais/",
+      "resumo": "Mostra integra a programação da Semana da Constituição, promovida pelo Tribunal em comemoração aos 38 anos da Carta",
+      "publicado_em": "2026-10-06T20:10:28-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 14,
+      "tags": [
+        "acao",
+        "comemora",
+        "exposicao"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "6611b87988dcd068",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Parceria entre CNJ e Banco Central busca ampliar segurança na negociação de precatórios",
+      "link": "https://noticias.stf.jus.br/postsnoticias/parceria-entre-cnj-e-banco-central-busca-ampliar-seguranca-na-negociacao-de-precatorios/",
+      "resumo": "Propostas apresentadas pelo ministro Edson Fachin e por Gabriel Galípolo visam reforçar transparência, rastreabilidade e segurança nas cessões de precatórios",
+      "publicado_em": "2026-10-06T20:04:56-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "precatorio",
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "5bbe2ce875ed8135",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF vai decidir se migrantes e refugiados têm direito a bolsas de estudo do ProUni",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-vai-decidir-se-migrantes-e-refugiados-tem-direito-a-bolsas-de-estudo-do-prouni/",
+      "resumo": "Recurso sobre o tema teve repercussão geral reconhecida; tese a ser fixada irá solucionar casos semelhantes em todas as instâncias da Justiça",
+      "publicado_em": "2026-10-06T18:08:40-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "tese",
+        "repercussao geral",
+        "recurso"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
       "id": "909f4703136a0332",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -365,6 +450,97 @@ window.DADOS = {
         "imposto"
       ],
       "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "485706731d36cd41",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi prega ‘serenidade’ no debate político",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/06/davi-prega-2018serenidade2019-no-debate-politico",
+      "resumo": "",
+      "publicado_em": "2026-10-06T20:21:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "aa41161808015cc6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Toma posse a senadora Leany Lemos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/06/toma-posse-a-senadora-leany-lemos",
+      "resumo": "",
+      "publicado_em": "2026-10-06T20:06:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 0,
+      "tags": [
+        "posse",
+        "toma posse"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "09e8aee95b8f0471",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PEC que acaba com escala 6x1 começa a tramitar no Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/06/pec-que-acaba-com-escala-6x1-comeca-a-tramitar-no-plenario",
+      "resumo": "",
+      "publicado_em": "2026-10-06T19:54:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "16db3c31e39133b5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Cobertura integrada das eleições mobiliza comunicação do Poder Legislativo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/06/cobertura-integrada-das-eleicoes-mobiliza-comunicacao-do-poder-legislativo",
+      "resumo": "",
+      "publicado_em": "2026-10-06T18:57:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "1c42223a7fa39f7a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim da escala 6x1: Davi explica próximos passos da PEC no Senado",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/fim-da-escala-6x1-davi-explica-proximos-passos-da-pec-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-06T18:03:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "e0c53af15240a090",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado tem maior número de mulheres eleitas desde redemocratização",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/senado-tem-maior-numero-de-mulheres-eleitas-desde-redemocratizacao",
+      "resumo": "",
+      "publicado_em": "2026-10-06T17:51:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
     },
     {
       "id": "21fefa387f9f3499",
@@ -661,10 +837,70 @@ window.DADOS = {
       "coletado_em": "2026-10-06T16:12:00-03:00"
     },
     {
+      "id": "34b2f5fc6f76f122",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP e Rio colocam nas ruas operação contra o roubo de cargas nos principais corredores logísticos do estado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-rio-de-janeiro-iniciam-operacao-para-proteger-corredores-logisticos-e-combater-o-roubo-de-cargas",
+      "resumo": "",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "e3e219721578dc96",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Bets fora do ar: plataformas cumprem determinação e encerram apostas no Brasil",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/bets-fora-do-ar-plataformas-cumprem-determinacao-e-encerram-apostas-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "543f98a56dc2c070",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Conectividade fortalece a produção rural ao permitir uso de novas tecnologias e acesso a informações mais precisas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/conectividade-fortalece-a-producao-rural-ao-permitir-uso-de-novas-tecnologias-e-acesso-a-informacoes-mais-precisas",
+      "resumo": "",
+      "publicado_em": "2026-10-06T16:35:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "2c15718ddfdac549",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "China e União Europeia compram mais produtos brasileiros e superávit cresce 34,8%",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/mdic-divulga-balanca-comercial-de-setembro-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-06T16:13:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
       "id": "395625cbf756ab14",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Quer consultar quais vacinas já recebeu? Saiba como acessar a carteira de vacinação pelo Meu SUS Digital",
+      "titulo": "Saiba como acessar a carteira de vacinação pelo Meu SUS Digital",
       "link": "https://agenciagov.ebc.com.br/noticias/202610/quer-consultar-suas-vacinas-saiba-como-acessar-a-carteira-de-vacinacao-pelo-meu-sus-digital",
       "resumo": "",
       "publicado_em": "2026-10-06T15:03:00-03:00",
@@ -785,6 +1021,22 @@ window.DADOS = {
       "coletado_em": "2026-10-06T17:46:54-03:00"
     },
     {
+      "id": "6cad7be620e7e5d4",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Edital publicado pela PGFN oferece condições de pagamento facilitadas para regularização de débitos",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/edital-publicado-pela-pgfn-oferece-condicoes-de-pagamento-facilitadas-para-regularizacao-de-debitos",
+      "resumo": "",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
       "id": "3b9d37a4e81c19aa",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -844,6 +1096,89 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "6cf1a23f9014b0c0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar Mendes rejeita pedido de inquérito contra Gaspar por estupro",
+      "link": "https://www.congressoemfoco.com.br/noticia/123049/gilmar-mendes-rejeita-pedido-de-inquerito-contra-gaspar-por-estupro",
+      "resumo": "PGR concluiu que diligências não produziram indícios concretos contra o deputado, e ministro determinou o arquivamento do caso.",
+      "publicado_em": "2026-10-06T20:00:28-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "diligencia"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "e4485a8f2d97f613",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PP e União Brasil declaram apoio a Flávio no segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123048/pp-e-uniao-brasil-declaram-apoio-a-flavio-no-segundo-turno",
+      "resumo": "Decisão unânime das executivas encerra neutralidade da federação, que também disputa governos contra o PT em dois Estados.",
+      "publicado_em": "2026-10-06T19:36:34-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "87a7dcc3d50e2ee6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Duda propõe renomear o Aeroporto de Guarulhos em homenagem a Lito",
+      "link": "https://www.congressoemfoco.com.br/noticia/123047/duda-propoe-renomear-o-aeroporto-de-guarulhos-em-homenagem-a-lito",
+      "resumo": "Projeto de lei altera o nome oficial do aeroporto internacional em memória ao influenciador do setor aeronáutico.",
+      "publicado_em": "2026-10-06T18:51:29-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenagem"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "9460bd2265acfdbb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Psol aciona TSE contra desistência de Garotinho por registro eleitoral",
+      "link": "https://www.congressoemfoco.com.br/noticia/123046/psol-aciona-tse-contra-desistencia-de-garotinho-por-registro-eleitoral",
+      "resumo": "Partido demandou a continuidade do processo e o reconhecimento dos votos ao ex-governador do Rio de Janeiro.",
+      "publicado_em": "2026-10-06T18:04:20-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "5b53d5ca2418d99a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PGR se manifesta a favor de liberar visitas de Flávio a Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/123045/pgr-se-manifesta-a-favor-de-liberar-visitas-de-flavio-a-bolsonaro",
+      "resumo": "Autorização para a visita de Flávio havia sido suspensa por decisão de 13 de julho.",
+      "publicado_em": "2026-10-06T18:00:04-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "decisao",
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
     },
     {
       "id": "8286680bbf671f80",
@@ -1003,6 +1338,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "b212ac1f54e5b7b2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Licitações, IA e o desafio de modernizar o controle público",
+      "link": "https://www.congressoemfoco.com.br/artigo/123028/licitacoes-ia-e-o-desafio-de-modernizar-o-controle-publico",
+      "resumo": "IA amplia a capacidade de fiscalização das contratações públicas, mas exige parâmetros jurídicos e controle humano.",
+      "publicado_em": "2026-10-06T13:05:40-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
     },
     {
       "id": "c6098cd3e10d1fc8",
@@ -1251,6 +1602,36 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "d5f1fd6fb663f583",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto isenta entidades religiosas, sindicatos, partidos e escolas da taxa de licenciamento de veículos",
+      "link": "https://www.camara.leg.br/noticias/1307767-projeto-isenta-entidades-religiosas-sindicatos-partidos-e-escolas-da-taxa-de-licenciamento-de-veiculos",
+      "resumo": "",
+      "publicado_em": "2026-10-06T19:40:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "d6b1ba14f33936cf",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto pune divulgação de crueldade contra animais na internet e responsabiliza redes sociais",
+      "link": "https://www.camara.leg.br/noticias/1309774-projeto-pune-divulgacao-de-crueldade-contra-animais-na-internet-e-responsabiliza-redes-sociais",
+      "resumo": "",
+      "publicado_em": "2026-10-06T18:41:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-06T20:27:43-03:00"
     },
     {
       "id": "3dcccb831d0e6217",
