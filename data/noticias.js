@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-07T16:37:35-03:00",
+  "gerado_em": "2026-10-07T17:59:18-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -330,6 +330,20 @@ window.DADOS = {
       "coletado_em": "2026-10-07T16:37:35-03:00"
     },
     {
+      "id": "94334ff173d7acb1",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF exclui créditos presumidos de ICMS da base de cálculo do PIS e da Cofins",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-exclui-creditos-presumidos-de-icms-da-base-de-calculo-do-pis-e-da-cofins/",
+      "resumo": "Maioria do Plenário entendeu que os créditos não representam receita ou riqueza própria da empresa",
+      "publicado_em": "2026-10-07T17:40:56-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
+    },
+    {
       "id": "6c000a7426a07b42",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -377,6 +391,52 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "b4c49175d02188d9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Veneziano cobra argumentos de senadores contrários ao fim da escala 6x1",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/07/veneziano-cobra-argumentos-de-senadores-contrarios-ao-fim-da-escala-6x1",
+      "resumo": "",
+      "publicado_em": "2026-10-07T17:27:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
+    },
+    {
+      "id": "87c9891897d4580d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Votação mais rápida do fim  da escala  6x1 depende dos senadores, diz Davi",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/07/votacao-mais-rapida-do-fim-da-escala-6x1-depende-dos-senadores-diz-davi",
+      "resumo": "",
+      "publicado_em": "2026-10-07T17:24:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
+    },
+    {
+      "id": "0d2a771df5d59f3a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Paim: Redução da jornada é reivindicação histórica",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/07/paim-reducao-da-jornada-e-reivindicacao-historica",
+      "resumo": "",
+      "publicado_em": "2026-10-07T16:54:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
     },
     {
       "id": "79fa68bc1a294c9e",
@@ -553,6 +613,24 @@ window.DADOS = {
       "coletado_em": "2026-10-07T14:40:37-03:00"
     },
     {
+      "id": "8ebc2a4b64750830",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs-2",
+      "resumo": "",
+      "publicado_em": "2026-10-07T17:07:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
+    },
+    {
       "id": "2dd34323cbca08f2",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -599,6 +677,20 @@ window.DADOS = {
         "apreende"
       ],
       "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "1c3bb3ad5091f890",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Escritórios Antifacção aproximam polícias de SP e RJ com intercâmbio de experiências",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escritorios-antifaccao-aproximam-policias-de-sp-e-rj-com-intercambio-de-experiencias",
+      "resumo": "",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
     },
     {
       "id": "30bfbee183c364b9",
@@ -737,6 +829,80 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "8165be1ba75ea510",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AO VIVO: Senado realiza segundo dia de debates sobre fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123076/ao-vivo-senado-realiza-segundo-dia-de-debates-sobre-fim-da-escala-6x1",
+      "resumo": "Plenário retoma discussão da PEC, que precisa completar cinco sessões de debate antes de seguir para votação.",
+      "publicado_em": "2026-10-07T17:38:56-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
+    },
+    {
+      "id": "1600cf57ee3e2eed",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula define lema \"ao trabalhador, proteção; para o bandido, a prisão\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123075/lula-define-lema-ao-trabalhador-protecao-para-o-bandido-a-prisao",
+      "resumo": "Presidente orientou parlamentares eleitos a incorporarem discurso de segurança pública como lema da campanha ao segundo turno.",
+      "publicado_em": "2026-10-07T17:17:36-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
+    },
+    {
+      "id": "587d7ea20a4b076d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula desafia Flávio Bolsonaro a votar a favor do fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123073/lula-desafia-flavio-bolsonaro-a-votar-a-favor-do-fim-da-escala-6x1",
+      "resumo": "Presidente criticou proposta alternativa da oposição, e desafiou Flávio a orientar a bancada do PL a favor da redução de jornada.",
+      "publicado_em": "2026-10-07T16:26:25-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
+    },
+    {
+      "id": "89f4793867bd9854",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Com 7,6 milhões de votos a mais na Câmara, PL reforça caixa partidário",
+      "link": "https://www.congressoemfoco.com.br/noticia/123072/com-7-6-milhoes-de-votos-a-mais-a-camara-pl-reforca-caixa-partidario",
+      "resumo": "PL alcança 25,8 milhões de votos para deputado, recorde para a Câmara, e amplia peso na divisão dos fundos públicos. Veja a variação de votos de cada legenda e federação.",
+      "publicado_em": "2026-10-07T16:04:21-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
+    },
+    {
+      "id": "139f87482a843014",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula grava vídeo com Ana Elisa e fala em derrotar bolsonarismo em MG",
+      "link": "https://www.congressoemfoco.com.br/noticia/123071/lula-grava-video-com-ana-elisa-e-fala-em-derrotar-bolsonarismo-em-mg",
+      "resumo": "Deputada de 21 anos viajou a Brasília para discutir estratégias digitais da campanha de Lula no segundo turno.",
+      "publicado_em": "2026-10-07T15:49:13-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
     },
     {
       "id": "9baf639455ae8bf3",
@@ -1117,6 +1283,70 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "e402592505c34018",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Visita técnica: Comitiva do CNJ conhece estrutura do Cejusc Tributário de Blumenau (SC)",
+      "link": "https://www.cnj.jus.br/visita-tecnica-comitiva-do-cnj-conhece-estrutura-do-cejusc-tributario-de-blumenau-sc/",
+      "resumo": "Como parte da programação da III Semana Nacional da Regularização Tributária, a comarca de Blumenau recebeu, no dia 6 de outubro, uma visita técnica do Conselho Nacional de Justiça (CNJ) e de representantes de tribunais estaduais ao Cejusc Tributário da comarca. A atividade permitiu à comitiva conhe",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "tributario",
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
+    },
+    {
+      "id": "276243224f00a4fe",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política de tolerância zero contra pichação e vandalismo urbano",
+      "link": "https://www.camara.leg.br/noticias/1306140-projeto-cria-politica-de-tolerancia-zero-contra-pichacao-e-vandalismo-urbano",
+      "resumo": "",
+      "publicado_em": "2026-10-07T17:57:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
+    },
+    {
+      "id": "9fce870f2ca630c4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê desconto em multas para motoristas e entregadores de aplicativo",
+      "link": "https://www.camara.leg.br/noticias/1307684-projeto-preve-desconto-em-multas-para-motoristas-e-entregadores-de-aplicativo",
+      "resumo": "",
+      "publicado_em": "2026-10-07T17:11:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
+    },
+    {
+      "id": "70d7fc287562c8a5",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto define regras para trabalho cooperado em assistência domiciliar à saúde",
+      "link": "https://www.camara.leg.br/noticias/1304646-projeto-define-regras-para-trabalho-cooperado-em-assistencia-domiciliar-a-saude",
+      "resumo": "",
+      "publicado_em": "2026-10-07T16:39:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T17:59:18-03:00"
     },
     {
       "id": "65704b87934d0dd7",
