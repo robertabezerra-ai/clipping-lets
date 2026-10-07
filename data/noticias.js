@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-07T14:40:37-03:00",
+  "gerado_em": "2026-10-07T16:37:35-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -295,6 +295,74 @@ window.DADOS = {
       "coletado_em": "2026-10-07T14:40:37-03:00"
     },
     {
+      "id": "b9943bfd6a3a5956",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Direito à saúde suplementar e judicialização da saúde serão debatidos na EPM",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115665&pagina=1",
+      "resumo": "Inscrições até 4 de novembro.\n\n\tA Escola Paulista da Magistratura (EPM) promove, no dia 6 de novembro, o seminário Direito à saúde suplementar e questões sobre a",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 44,
+      "tags": [
+        "judicial",
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "72bbbe7e431d5b49",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação de dono de bar que matou vizinha após reclamação de barulho",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115664&pagina=1",
+      "resumo": "Pena majorada para 41 anos.\n \n\tA 4ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve Tribunal do Júri realizado na Comarca",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "6c000a7426a07b42",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Governadora do DF questiona exclusividade de bancos federais em recursos da saúde",
+      "link": "https://noticias.stf.jus.br/postsnoticias/governadora-do-df-questiona-exclusividade-de-bancos-federais-em-recursos-da-saude/",
+      "resumo": "Celina Leão alega que regra restringe autonomia financeira e impede participação do BRB na gestão dos valores",
+      "publicado_em": "2026-10-07T16:08:32-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "5f191ddfa1b57c88",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "CESTF fará audiências acadêmicas no Rio de Janeiro e em São Paulo sobre ensino do direito constitucional",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cestf-fara-audiencias-academicas-no-rio-de-janeiro-e-em-sao-paulo-sobre-ensino-do-direito-constitucional/",
+      "resumo": "Encontros em novembro integram iniciativa para discutir desafios e perspectivas da disciplina nos cursos de direito",
+      "publicado_em": "2026-10-07T15:47:18-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
       "id": "eb635dbe2654b2cd",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -309,6 +377,78 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "79fa68bc1a294c9e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Para proteger quem compra imóvel na planta, projeto exige garantias da incorporadora",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/para-proteger-quem-compra-imovel-na-planta-projeto-exige-garantias-da-incorporadora",
+      "resumo": "",
+      "publicado_em": "2026-10-07T16:23:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "e33a0d724f204724",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Votar fim da escala 6x1 agora não é casuísmo, afirma Confúcio",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/07/votar-fim-da-escala-6x1-agora-nao-e-casuismo-afirma-confucio",
+      "resumo": "",
+      "publicado_em": "2026-10-07T16:20:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "14ca74580b5ae6cd",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Excedentes de mercados podem alimentar famílias vulneráveis, prevê projeto",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/07/excedentes-de-mercados-podem-alimentar-familias-vulneraveis-preve-projeto",
+      "resumo": "",
+      "publicado_em": "2026-10-07T15:57:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "1ecb96480a08762a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto cria ressarcimento pelo transporte aéreo de órgãos para transplantes",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/07/projeto-cria-ressarcimento-pelo-transporte-aereo-de-orgaos-para-transplantes",
+      "resumo": "",
+      "publicado_em": "2026-10-07T15:04:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "bf7ac5bddced1866",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CRA pode votar política de transformação digital na agricultura",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/cra-pode-votar-politica-de-transformacao-digital-na-agricultura",
+      "resumo": "",
+      "publicado_em": "2026-10-07T15:03:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
     },
     {
       "id": "7146a39fba200105",
@@ -461,6 +601,36 @@ window.DADOS = {
       "coletado_em": "2026-10-07T14:40:37-03:00"
     },
     {
+      "id": "30bfbee183c364b9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mostra Nacional vai destacar experiências do programa de saúde bucal do SUS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/ministerio-da-saude-abre-inscricoes-para-mostra-nacional-de-saude-bucal-2013-brasil-sorridente-1",
+      "resumo": "",
+      "publicado_em": "2026-10-07T15:30:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "65db467ddf766409",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enem 2026: prazo para a escolha da língua estrangeira vai até 18 de outubro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/enem-2026-prazo-para-a-escolha-da-lingua-estrangeira-vai-ate-18-de-outubro",
+      "resumo": "",
+      "publicado_em": "2026-10-07T14:15:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
       "id": "c373f83a75bd4334",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -555,6 +725,51 @@ window.DADOS = {
       "coletado_em": "2026-10-07T14:40:37-03:00"
     },
     {
+      "id": "85c224e359ed04d1",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "5º Leilão do Eco Invest Brasil recebe demanda de R$ 181 bilhões e tem resultado homologado",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/5o-leilao-do-eco-invest-brasil-recebe-demanda-de-r-181-bilhoes-e-tem-resultado-homologado",
+      "resumo": "",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "9baf639455ae8bf3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques levará revisão da condenação de Bolsonaro ao Plenário",
+      "link": "https://www.congressoemfoco.com.br/noticia/123070/nunes-marques-levara-revisao-da-condenacao-de-bolsonaro-ao-plenario",
+      "resumo": "Ministro informou que pedido será analisado só após a eleição e pelo Plenário, em data a ser marcada por Edson Fachin; revisão pode levar à soltura de Bolsonaro.",
+      "publicado_em": "2026-10-07T15:45:59-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "120bfaaa8b1a7f2b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governador eleito de MG, Cleitinho já teve banda de pagode",
+      "link": "https://www.congressoemfoco.com.br/noticia/123068/governador-eleito-de-mg-cleitinho-ja-teve-banda-de-pagode",
+      "resumo": "Antes de entrar na política, governador eleito de Minas integrou bandas de pagode, gravou músicas e ganhou visibilidade nas redes sociais.",
+      "publicado_em": "2026-10-07T13:49:09-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
       "id": "63940b2ab83afee1",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -599,6 +814,20 @@ window.DADOS = {
       "coletado_em": "2026-10-07T14:40:37-03:00"
     },
     {
+      "id": "d39a08c107dbcf5b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O dilema fiscal do tesouraço de Flávio Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/artigo/123064/o-dilema-fiscal-do-tesouraco-de-flavio-bolsonaro",
+      "resumo": "Proposta recoloca a dívida no centro da regra fiscal, mas ainda precisa mostrar quais medidas permanentes financiarão as novas prioridades do governo.",
+      "publicado_em": "2026-10-07T12:31:37-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
       "id": "92323b8bbc136ec8",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -614,6 +843,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "b52be5aa79e4de34",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Legendas ameaçadas de perder Fundo Partidário recebem R$ 219 milhões",
+      "link": "https://www.congressoemfoco.com.br/noticia/123062/legendas-ameacadas-de-perder-fundo-partidario-recebem-r-219-milhoes",
+      "resumo": "Doze partidos e duas federações ficaram abaixo da cláusula; Psol/Rede, PRD/Solidariedade, PDT e Avante recebem quase R$ 219 milhões este ano para manter suas estruturas.",
+      "publicado_em": "2026-10-07T11:50:14-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "solidariedade"
+      ],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
     },
     {
       "id": "317faf8ff1da91c8",
@@ -841,13 +1086,102 @@ window.DADOS = {
       "coletado_em": "2026-10-07T14:40:37-03:00"
     },
     {
+      "id": "5b20d80142944d30",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Grupo de trabalho avança na discussão sobre modelo remuneratório da magistratura e do serviço público",
+      "link": "https://www.cnj.jus.br/grupo-de-trabalho-avanca-na-discussao-sobre-modelo-remuneratorio-da-magistratura-e-do-servico-publico/",
+      "resumo": "O Grupo de Trabalho (GT) criado pelo Conselho Nacional de Justiça (CNJ) para estudar propostas legislativas sobre a remuneração da magistratura realizou, nesta quarta-feira (7/10), sua terceira reunião. O encontro deu continuidade às discussões sobre o modelo remuneratório de magistrados e magistrad",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "5acfa4c3567055d2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Novas tecnologias mudam atuação do Judiciário na área penal e socioeducativa",
+      "link": "https://www.cnj.jus.br/novas-tecnologias-estao-mudando-atuacao-do-judiciario-na-area-penal-e-socioeducativa/",
+      "resumo": "As soluções em tecnologia desenvolvidas pelo Conselho Nacional de Justiça estão transformando a forma como o Judiciário responde a desafios no campo penal e socioeducativo, incluindo combate à superlotação, melhoria na sistematização de informações e dados e qualificação da gestão dos processos. Nes",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "65704b87934d0dd7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto permite que pequenos geradores vendam créditos de carbono",
+      "link": "https://www.camara.leg.br/noticias/1309987-projeto-permite-que-pequenos-geradores-vendam-creditos-de-carbono",
+      "resumo": "",
+      "publicado_em": "2026-10-07T16:17:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "acb86fd85d25c6cf",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Dos 513 deputados federais eleitos, 39 têm mais de 1 milhão de seguidores no Instagram",
+      "link": "https://www.camara.leg.br/noticias/1310011-dos-513-deputados-federais-eleitos-39-tem-mais-de-1-milhao-de-seguidores-no-instagram",
+      "resumo": "",
+      "publicado_em": "2026-10-07T15:36:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "9fbb62613d50244a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputadas afirmam que bancada feminina seguirá atuando acima das diferenças partidárias",
+      "link": "https://www.camara.leg.br/noticias/1310000-deputadas-afirmam-que-bancada-feminina-seguira-atuando-acima-das-diferencas-partidarias",
+      "resumo": "",
+      "publicado_em": "2026-10-07T15:04:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "c88ebaa872384670",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe preço maior para mulheres em produtos equivalentes aos oferecidos ao público masculino",
+      "link": "https://www.camara.leg.br/noticias/1306107-projeto-proibe-preco-maior-para-mulheres-em-produtos-equivalentes-aos-oferecidos-ao-publico-masculino",
+      "resumo": "",
+      "publicado_em": "2026-10-07T14:23:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
       "id": "e31fa32c01dc35e3",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
       "titulo": "Projeto prevê substituição gradual de plásticos descartáveis no setor público e em escolas",
       "link": "https://www.camara.leg.br/noticias/1306299-projeto-preve-substituicao-gradual-de-plasticos-descartaveis-no-setor-publico-e-em-escolas",
       "resumo": "",
-      "publicado_em": "2026-10-07T12:17:00-03:00",
+      "publicado_em": "2026-10-07T13:17:00-03:00",
       "dia": "2026-10-07",
       "data_estimada": false,
       "score": 40,
@@ -884,20 +1218,6 @@ window.DADOS = {
       "tags": [
         "comemora"
       ],
-      "coletado_em": "2026-10-07T14:40:37-03:00"
-    },
-    {
-      "id": "c88ebaa872384670",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Projeto proíbe preço maior para mulheres em produtos equivalentes aos oferecidos ao público masculino",
-      "link": "https://www.camara.leg.br/noticias/1306107-projeto-proibe-preco-maior-para-mulheres-em-produtos-equivalentes-aos-oferecidos-ao-publico-masculino",
-      "resumo": "",
-      "publicado_em": "2026-10-07T11:23:00-03:00",
-      "dia": "2026-10-07",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
       "coletado_em": "2026-10-07T14:40:37-03:00"
     },
     {
