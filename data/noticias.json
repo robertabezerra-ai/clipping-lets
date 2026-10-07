@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-07T17:59:18-03:00",
+  "gerado_em": "2026-10-07T20:56:18-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 19,
       "erro": null
     },
     {
@@ -330,6 +330,38 @@
       "coletado_em": "2026-10-07T16:37:35-03:00"
     },
     {
+      "id": "e36f8fdc098d7070",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Jurado voluntário: Justiça de São Luiz do Paraitinga abre inscrições",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115670&pagina=1",
+      "resumo": "Atuação nos Tribunais do Júri da Comarca.\n \n\tA Justiça de São Luiz do Paraitinga abriu inscrições para voluntários que queiram atuar como jurados nos Tribunais",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
+      "id": "bc84548aa598da94",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF mantém mínimo de 10% de servidores efetivos em cargos comissionados no MP do Amazonas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-minimo-de-10-de-servidores-efetivos-em-cargos-comissionados-no-mp-do-amazonas/",
+      "resumo": "Por maioria, prevaleceu entendimento de que cabe à legislação estadual definir o percentual reservado a servidores de carreira",
+      "publicado_em": "2026-10-07T20:36:07-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
       "id": "94334ff173d7acb1",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -391,6 +423,34 @@
         "adi"
       ],
       "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "780c5ab4710d8645",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PEC do fim da escala 6x1 passa por 2ª sessão de discussão no Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/07/pec-do-fim-da-escala-6x1-passa-por-2a-sessao-de-discussao-no-plenario",
+      "resumo": "",
+      "publicado_em": "2026-10-07T19:08:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
+      "id": "160803678a9e270f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Recém-empossado, Renzo Braz promete trabalhar pelo setor produtivo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/07/recem-empossado-renzo-braz-promete-trabalhar-pelo-setor-produtivo",
+      "resumo": "",
+      "publicado_em": "2026-10-07T17:56:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
     },
     {
       "id": "b4c49175d02188d9",
@@ -693,6 +753,52 @@
       "coletado_em": "2026-10-07T17:59:18-03:00"
     },
     {
+      "id": "03970cbbe5b3423e",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon realiza oficina de fiscalização de bets durante Encontro Técnico de Defesa do Consumidor em Minas Gerais",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-realiza-oficina-de-fiscalizacao-de-bets-durante-encontro-tecnico-de-defesa-do-consumidor-em-minas-gerais",
+      "resumo": "",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
+      "id": "89c7a37d86779a1a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "TV Brasil assume o 1º lugar entre perfis federais e chega a 2 milhões de seguidores no Instagram",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/tv-brasil-assume-o-1o-lugar-entre-perfis-federais-e-chega-a-2-milhoes-de-seguidores-no-instagram",
+      "resumo": "",
+      "publicado_em": "2026-10-07T19:10:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
+      "id": "f315512272be9c86",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Participação de petroleiras estatais cresce no mundo e produção bate recorde no Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/producao-de-petroleo-e-gas-no-brasil-em-2025-e-a-maior-da-serie-historica",
+      "resumo": "",
+      "publicado_em": "2026-10-07T19:05:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
       "id": "30bfbee183c364b9",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -831,10 +937,89 @@
       "coletado_em": "2026-10-07T16:37:35-03:00"
     },
     {
+      "id": "9e0fb93c95faf1dc",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita atualiza balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-atualiza-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs-1",
+      "resumo": "",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
+      "id": "9ce7865eaccd885d",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM aceita proposta de Termo de Compromisso com executivo da Moura Dubeux Engenharia S.A.",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-aceita-proposta-de-termo-de-compromisso-com-executivo-da-moura-dubeux-engenharia-s-a",
+      "resumo": "",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
+      "id": "7af4afe3f7d21f5f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Republicanos declara apoio a Flávio Bolsonaro no segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123079/republicanos-declara-apoio-a-flavio-bolsonaro-no-segundo-turno",
+      "resumo": "Partido condicionou respeito à autonomia e cobrou compromisso com reformas, responsabilidade fiscal e pacificação do país.",
+      "publicado_em": "2026-10-07T19:58:17-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
+      "id": "27540335b543949f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governo busca assinaturas para agilizar discussão da PEC 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123078/governo-busca-assinaturas-para-agilizar-discussao-da-pec-6x1",
+      "resumo": "Executivo tenta viabilizar calendário especial para reduzir o intervalo regimental e levar a proposta à votação antes do prazo regular.",
+      "publicado_em": "2026-10-07T18:40:54-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
+      "id": "43c3e68ec665b4df",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Uma caravana jovem para levar Flávio Bolsonaro ao Nordeste",
+      "link": "https://www.congressoemfoco.com.br/artigo/123077/uma-caravana-jovem-para-levar-flavio-bolsonaro-ao-nordeste",
+      "resumo": "Parlamentares do PL com forte presença nas redes poderiam percorrer a região para ampliar o diálogo da candidatura com jovens e eleitores conservadores.",
+      "publicado_em": "2026-10-07T17:48:56-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
       "id": "8165be1ba75ea510",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "AO VIVO: Senado realiza segundo dia de debates sobre fim da escala 6x1",
+      "titulo": "Senado conclui segundo dia de debates sobre fim da escala 6x1",
       "link": "https://www.congressoemfoco.com.br/noticia/123076/ao-vivo-senado-realiza-segundo-dia-de-debates-sobre-fim-da-escala-6x1",
       "resumo": "Plenário retoma discussão da PEC, que precisa completar cinco sessões de debate antes de seguir para votação.",
       "publicado_em": "2026-10-07T17:38:56-03:00",
@@ -920,6 +1105,20 @@
         "acao"
       ],
       "coletado_em": "2026-10-07T16:37:35-03:00"
+    },
+    {
+      "id": "63338823954158bf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Votos sub judice, soberania popular e maioria absoluta",
+      "link": "https://www.congressoemfoco.com.br/artigo/123069/votos-sub-judice-soberania-popular-e-maioria-absoluta",
+      "resumo": "Exclusão de 274 mil votos pode dar maioria absoluta a Douglas Ruas e abre discussão sobre os efeitos de votos dados a candidato que permanecia sub judice no dia da eleição.",
+      "publicado_em": "2026-10-07T15:23:57-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
     },
     {
       "id": "120bfaaa8b1a7f2b",
@@ -1301,6 +1500,50 @@
         "visita"
       ],
       "coletado_em": "2026-10-07T17:59:18-03:00"
+    },
+    {
+      "id": "8781190b5020c610",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJMS sediará 1º Encontro das UMFs da Região Centro-Oeste e lançará portal sobre o Sistema Interamericano",
+      "link": "https://www.cnj.jus.br/tjms-sediara-1o-encontro-das-umfs-da-regiao-centro-oeste-e-lancara-portal-sobre-o-sistema-interamericano/",
+      "resumo": "O Tribunal de Justiça de Mato Grosso do Sul sediará, nos dias 15 e 16 de outubro, no Plenário do Tribunal Pleno, em Campo Grande, o 1º Encontro das Unidades de Monitoramento e Fiscalização (UMFs) da Região Centro-Oeste – Direitos Humanos e Justiça Interamericana. O evento reunirá magistrados, integr",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
+      "id": "3027168f91755f76",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria incentivo fiscal para empresa que comprar de catadores",
+      "link": "https://www.camara.leg.br/noticias/1309989-projeto-cria-incentivo-fiscal-para-empresa-que-comprar-de-catadores",
+      "resumo": "",
+      "publicado_em": "2026-10-07T18:55:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
+      "id": "d19278f0006482f1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê inclusão digital e produtiva para comunidades quilombolas",
+      "link": "https://www.camara.leg.br/noticias/1306843-projeto-preve-inclusao-digital-e-produtiva-para-comunidades-quilombolas",
+      "resumo": "",
+      "publicado_em": "2026-10-07T18:39:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T20:56:18-03:00"
     },
     {
       "id": "276243224f00a4fe",
