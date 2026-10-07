@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-06T20:27:43-03:00",
+  "gerado_em": "2026-10-07T14:40:37-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 18,
       "erro": null
     },
     {
@@ -239,7 +239,7 @@
     {
       "id": "governo_federal",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
@@ -250,6 +250,722 @@
     }
   ],
   "noticias": [
+    {
+      "id": "11fc4494a4f57cf5",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça mantém justa causa de trabalhador que atuou como pastor durante atestado",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-mantem-justa-causa-de-trabalhador-que-atuou-como-pastor-durante-atestado",
+      "resumo": "",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "a2a465094fe57fdb",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Nota de pesar: falecimento da juíza Deborah Lopes",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115661&pagina=1",
+      "resumo": "Magistrada atuava no Foro Regional de Penha de França.\n \n\tO Tribunal de Justiça de São Paulo comunica o falecimento da juíza Deborah Lopes, ocorrido hoje",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "falecimento"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "1ed433f6dc898d99",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP recebe alunos de Direito da Faculdade Anhanguera para júri simulado",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115646&pagina=1",
+      "resumo": "Atividade aproxima estudantes da prática jurídica.\n \n\tEstudantes de Direito da Faculdade Anhanguera participaram, na sexta-feira (2), de júri simulado no Palácio da Justiça, sede do",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "eb635dbe2654b2cd",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quarta-feira (7)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-7/",
+      "resumo": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "publicado_em": "2026-10-07T09:33:21-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "7146a39fba200105",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Conselho Nacional dos Direitos da Criança e do Adolescente completa 35 anos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/conselho-nacional-dos-direitos-da-crianca-e-do-adolescente-completa-35-anos",
+      "resumo": "",
+      "publicado_em": "2026-10-07T13:51:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "7bcb508641e81569",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Semana nacional chama atenção para prevenção e tratamento da depressão",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/semana-nacional-chama-atencao-para-prevencao-e-tratamento-da-depressao",
+      "resumo": "",
+      "publicado_em": "2026-10-07T13:36:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "51a9ccd0ca4e49de",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto declara cidade pernambucana como Capital do Folguedo Cavalo-Marinho",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-declara-cidade-pernambucana-como-capital-do-folguedo-cavalo-marinho",
+      "resumo": "",
+      "publicado_em": "2026-10-07T12:22:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "91f63382b077d452",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto facilita quitação de dívidas com União, estados, DF e municípios",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-facilita-quitacao-de-dividas-com-uniao-estados-df-e-municipios",
+      "resumo": "",
+      "publicado_em": "2026-10-07T10:32:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "9cc54580022146ff",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "2º turno: “Que o povo faça sua escolha livremente”, diz Davi",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/2o-turno-201cque-o-povo-faca-sua-escolha-livremente201d-diz-davi",
+      "resumo": "",
+      "publicado_em": "2026-10-07T09:25:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "504457a52bc20725",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições 2026 l Davi classifica momento atual como histórico",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/eleicoes-2026-l-davi-classifica-momento-atual-como-historico",
+      "resumo": "",
+      "publicado_em": "2026-10-07T09:08:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "1410bab32973ca82",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto direciona 15% dos recursos das emendas da saúde para combater câncer",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/07/projeto-direciona-15-dos-recursos-das-emendas-da-saude-para-combater-cancer",
+      "resumo": "",
+      "publicado_em": "2026-10-07T08:47:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "2dd34323cbca08f2",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação Play Fake: Receita Federal retém nove contêineres com mercadorias irregulares no Porto do Rio de Janeiro",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/operacao-play-fake-receita-federal-retem-nove-conteineres-com-mercadorias-irregulares-no-porto-do-rio-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-10-07T13:51:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "494b1c0184a1aff3",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal publica versão.1.3.0 da documentação técnica da DeRE",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-publica-versao-1-3-0-da-documentacao-tecnica-da-dere",
+      "resumo": "",
+      "publicado_em": "2026-10-07T10:29:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "56883463b4166cc6",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende de entorpecentes em molde de compressão industrial",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-apreende-de-entorpecentes-em-molde-de-compressao-industrial",
+      "resumo": "",
+      "publicado_em": "2026-10-07T10:12:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "c373f83a75bd4334",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Cerrado Jazz Festival é destaque no Espaço Arte desta quinta (8) na Rádio Nacional Brasília",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/cerrado-jazz-festival-e-destaque-no-espaco-arte-desta-quinta-8-na-radio-nacional-brasilia",
+      "resumo": "",
+      "publicado_em": "2026-10-07T12:30:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "bd5a23ad17ac4d81",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enem: conheça o passo a passo da elaboração até a aplicação das provas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/conheca-todas-as-etapas-para-concepcao-e-aplicacao-das-provas-do-enem",
+      "resumo": "",
+      "publicado_em": "2026-10-07T10:16:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "813b4da4d4fe1823",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "App CNH do Brasil vai muito além da carteira de habilitação. Veja o que mais dá para fazer",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/carteira-de-habilitacao-no-celular-foi-so-o-comeco-veja-o-que-mais-da-para-fazer-no-app-cnh-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-10-07T10:15:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "01c5c9c8c0bd5a94",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rádio Nacional transmite Fluminense x Coritiba pelo Brasileirão nesta quinta (8)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/radio-nacional-transmite-fluminense-x-coritiba-pelo-brasileirao-nesta-quinta-8-10",
+      "resumo": "",
+      "publicado_em": "2026-10-07T09:29:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "883d5b247692cc24",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil intensifica ações contra o sarampo diante de surto nos EUA e avanço nas Américas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/brasil-intensifica-acoes-contra-o-sarampo-diante-de-surto-nos-eua-e-avanco-da-doenca-nas-americas",
+      "resumo": "",
+      "publicado_em": "2026-10-07T09:20:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "1c94b4457e6a77e8",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal publica versão.1.3.0 da documentação técnica da DeRE",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-publica-versao-1-3-0-da-documentacao-tecnica-da-dere",
+      "resumo": "",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "63940b2ab83afee1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Foi provado para a esquerda que redes sociais elegem\", diz Ana Elisa",
+      "link": "https://www.congressoemfoco.com.br/noticia/123067/foi-provado-para-a-esquerda-que-redes-sociais-elegem--diz-ana-elisa",
+      "resumo": "Deputada eleita entrou na campanha de Lula para movimentar ambiente digital.",
+      "publicado_em": "2026-10-07T13:24:06-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "d6267248abb3e93a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ana Elisa diz que \"ódio pelo PT não deixa sociedade ver quem é Flávio\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123066/ana-elisa-diz-que-odio-pelo-pt-nao-deixa-sociedade-ver-quem-e-flavio",
+      "resumo": "Deputada eleita está em Brasília para colaborar diretamente com a equipe de comunicação de Lula.",
+      "publicado_em": "2026-10-07T12:59:54-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "9034808d48d057a3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ana Elisa critica Flávio por mudar Constituição: \"é um golpe\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123065/ana-elisa-critica-flavio-por-mudar-constituicao--e-um-golpe",
+      "resumo": "Em vídeo publicado nas redes sociais, petista afirmou que a fala é alerta institucional.",
+      "publicado_em": "2026-10-07T12:47:02-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "92323b8bbc136ec8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Brasília precisa transformar recurso público em serviços que funcionem",
+      "link": "https://www.congressoemfoco.com.br/artigo/123063/brasilia-precisa-transformar-recurso-publico-em-servicos-que-funcionem",
+      "resumo": "Recursos públicos só fazem diferença quando chegam à população na forma de saúde, educação, segurança, mobilidade e serviços eficientes.",
+      "publicado_em": "2026-10-07T11:55:01-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "317faf8ff1da91c8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleito senador, Mauro Mendes defende jornada diária de até 16 horas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123061/eleito-senador-mauro-mendes-defende-jornada-diaria-de-ate-16-horas",
+      "resumo": "Declaração ocorre no momento em que o Senado discute justamente a redução da jornada semanal para 40 horas e o fim da escala 6x1.",
+      "publicado_em": "2026-10-07T11:49:40-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "a2b3c961917d6e17",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Reforma tributária: por que o adiamento é improvável",
+      "link": "https://www.congressoemfoco.com.br/artigo/123060/reforma-tributaria-por-que-o-adiamento-e-improvavel",
+      "resumo": "Cronograma da CBS e do IBS está na Constituição, e qualquer adiamento antes de 2027 dependeria de uma emenda aprovada pelo atual Congresso em poucas semanas.",
+      "publicado_em": "2026-10-07T11:31:27-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 100,
+      "tags": [
+        "adi",
+        "reforma tributaria",
+        "ibs",
+        "cbs",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "9bcccdd78b3f46dc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio diz que mudar Constituição é sobre maioridade penal e reeleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/123059/flavio-diz-que-mudar-constituicao-e-sobre-maioridade-penal-e-reeleicao",
+      "resumo": "Candidato também cita mudança nas regras do Judiciário e na reforma tributária entre propostas que dependem de emenda à Constituição.",
+      "publicado_em": "2026-10-07T11:19:55-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "0857e531760c70fc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Motta celebra aumento da bancada feminina: \"conquista da democracia\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123058/motta-celebra-aumento-da-bancada-feminina--conquista-da-democracia",
+      "resumo": "Em publicação nas redes sociais, Motta afirmou que o resultado representa crescimento de 21,1% em relação à atual legislatura.",
+      "publicado_em": "2026-10-07T11:15:18-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "ecf6dc98094341ef",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Redemocratizar, de novo? O que Flávio propõe 38 anos depois de Ulysses",
+      "link": "https://www.congressoemfoco.com.br/artigo/123057/redemocratizar-de-novo-o-que-flavio-propoe-38-anos-depois-de-ulysses",
+      "resumo": "Candidato promete usar maioria no Congresso para mudar a Constituição; história mostra que pêndulos assim raramente param no meio.",
+      "publicado_em": "2026-10-07T11:02:18-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "5396e7a42a05f5f8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE julga casos de Deltan Dallagnol e Garotinho na quinta-feira",
+      "link": "https://www.congressoemfoco.com.br/noticia/123056/tse-julga-casos-de-deltan-dallagnol-e-garotinho-na-quinta-feira",
+      "resumo": "Corte pode decidir se haverá segundo turno no Rio e definir situação da vaga conquistada por Deltan no Senado. Casos foram marcados por reviravoltas.",
+      "publicado_em": "2026-10-07T10:19:53-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "e6f6e9aadb4ac8e9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Jogo inspirado em Mario retrata \"escândalos\" de Flávio em 7 fases",
+      "link": "https://www.congressoemfoco.com.br/noticia/123055/jogo-inspirado-em-mario-retrata-escandalos-de-flavio-em-7-fases",
+      "resumo": "\"Super Flávio World\" usa estética de videogame para abordar funcionários fantasmas, rachadinhas, milícia, emendas e Banco Master.",
+      "publicado_em": "2026-10-07T08:44:55-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "14562b563442acd9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ciro chama eleição no CE de \"roubada\" e vai à Justiça contra derrota",
+      "link": "https://www.congressoemfoco.com.br/noticia/123054/ciro-chama-eleicao-no-ce-de-roubada-e-vai-a-justica-contra-derrota",
+      "resumo": "Derrotado por Elmano no 1º turno, tucano acusa fraude sem apresentar provas, ataca Toffoli e anuncia contestação judicial.",
+      "publicado_em": "2026-10-07T08:30:51-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "816955349bdeb681",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ana Elisa se encontra com José Guimarães: \"começar um novo Brasil\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123053/ana-elisa-se-encontra-com-jose-guimaraes--comecar-um-novo-brasil",
+      "resumo": "Deputada federal eleita e ministro acompanharam discussão no Senado sobre fim da escala 6x1.",
+      "publicado_em": "2026-10-07T08:22:35-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "1b6d73a5a10ecf6d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio diz que usará maioria de direita para \"mudar a Constituição\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123051/flavio-diz-que-usara-maioria-de-direita-para-mudar-a-constituicao",
+      "resumo": "Candidato não detalhou quais mudanças pretende fazer no texto e disse que nova maioria no Congresso permitirá \"redemocratizar\" o país.",
+      "publicado_em": "2026-10-07T07:19:30-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "fe990769cefbab0b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Oficina de Valorização 60+ promove reflexões sobre envelhecimento, escolhas e novos começos",
+      "link": "https://www.cnj.jus.br/oficina-de-valorizacao-60-promove-reflexoes-sobre-envelhecimento-escolhas-e-novos-comecos/",
+      "resumo": "Ver a mãe sorrir, participar de atividades e reencontrar o convívio com outras pessoas foi o que motivou a servidora da Justiça Federal Márcia Neves, de 56 anos, a levá-la à Oficina Comemorativa de Valorização 60+, realizada nesta quinta-feira (1º/10), no Fórum Clóvis Beviláqua (FCB). Aos 83 anos, M",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "e8213f2d5132ffd1",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJAP inicia campanha com atendimento multidisciplinar em saúde no Fórum de Macapá",
+      "link": "https://www.cnj.jus.br/tjap-inicia-campanha-com-atendimento-multidisciplinar-em-saude-no-forum-de-macapa/",
+      "resumo": "O Fórum de Macapá recebeu, nesta terça-feira (6), atendimentos médico e ginecológico para magistradas, servidoras e colaboradoras do Judiciário amapaense como parte da programação do Outubro Rosa 2026. A iniciativa, que se estende até o dia 19 de outubro, é realizada em parceria com a Clínica Oncoló",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "39811dca5a9ef8e3",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Boas práticas: tribunais aceleram resposta da Justiça em casos de violência doméstica",
+      "link": "https://www.cnj.jus.br/boas-praticas-tribunais-aceleram-resposta-da-justica-em-casos-de-violencia-domestica/",
+      "resumo": "Ampliação do atendimento em finais de semana e feriados, plantões especializados e integração eletrônica a sistemas de acompanhamento das mulheres estão entre as iniciativas adotadas pelos tribunais para acelerar e qualificar a análise das medidas protetivas de urgência e tornar mais efetiva a prote",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "9b23d9c6faaa917f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Judiciário intensifica preparação para Copa do Mundo Feminina de 2027",
+      "link": "https://www.cnj.jus.br/judiciario-intensifica-preparacao-para-copa-do-mundo-feminina-de-2027/",
+      "resumo": "A pouco mais de oito meses do apito inicial da Copa do Mundo Feminina da FIFA 2027, o Poder Judiciário intensifica a preparação para atuar nas oito cidades brasileiras que receberão partidas da competição. Segurança dos torcedores, resposta rápida a ocorrências, combate à violência contra a mulher e",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "e31fa32c01dc35e3",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê substituição gradual de plásticos descartáveis no setor público e em escolas",
+      "link": "https://www.camara.leg.br/noticias/1306299-projeto-preve-substituicao-gradual-de-plasticos-descartaveis-no-setor-publico-e-em-escolas",
+      "resumo": "",
+      "publicado_em": "2026-10-07T12:17:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "7fc9326b64465fb2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova legislatura contará com a participação de apenas um deputado constituinte",
+      "link": "https://www.camara.leg.br/noticias/1309638-nova-legislatura-contara-com-a-participacao-de-apenas-um-deputado-constituinte",
+      "resumo": "",
+      "publicado_em": "2026-10-07T12:09:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "af796537b94955bd",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Motta comemora crescimento da bancada feminina na Câmara",
+      "link": "https://www.camara.leg.br/noticias/1309906-motta-comemora-crescimento-da-bancada-feminina-na-camara",
+      "resumo": "",
+      "publicado_em": "2026-10-07T11:30:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "comemora"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "c88ebaa872384670",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe preço maior para mulheres em produtos equivalentes aos oferecidos ao público masculino",
+      "link": "https://www.camara.leg.br/noticias/1306107-projeto-proibe-preco-maior-para-mulheres-em-produtos-equivalentes-aos-oferecidos-ao-publico-masculino",
+      "resumo": "",
+      "publicado_em": "2026-10-07T11:23:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "9b3e720693fc233d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê intimação, via aplicativo, de devedor de pensão alimentícia",
+      "link": "https://www.camara.leg.br/noticias/1305452-projeto-preve-intimacao-via-aplicativo-de-devedor-de-pensao-alimenticia",
+      "resumo": "",
+      "publicado_em": "2026-10-07T10:31:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "869246960c86d0b9",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto garante licença médica e afastamento remunerado para conselheiros tutelares",
+      "link": "https://www.camara.leg.br/noticias/1308161-projeto-garante-licenca-medica-e-afastamento-remunerado-para-conselheiros-tutelares",
+      "resumo": "",
+      "publicado_em": "2026-10-07T09:30:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "1373386664246fc0",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade aprova aquisição de participação minoritária da American Airlines na Azul mediante celebração de acordo",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-aprova-aquisicao-de-participacao-minoritaria-da-american-airlines-na-azul-mediante-celebracao-de-acordo",
+      "resumo": "",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "cade",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "e9d9f6c2dd0074c2",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Começa agora a 273ª sessão de julgamento do Cade",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/comeca-agora-a-273a-sessao-de-julgamento-do-cade",
+      "resumo": "",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "julgamento",
+        "julga",
+        "cade"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
     {
       "id": "e340f53fd4d0f278",
       "fonte_id": "trt15",
@@ -345,6 +1061,23 @@
         "acao"
       ],
       "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "d243fd5b27915760",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Júri popular na Capital condena corintiano por morte de torcedor palmeirense",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115659&pagina=1",
+      "resumo": "Pena de 16 anos e 4 meses de reclusão.\n \n\tJulgamento realizado pelo 2º Tribunal do Júri da Capital condenou, nesta terça-feira (6), homem pela morte",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
     },
     {
       "id": "a96b7d05775c7ade",
@@ -869,6 +1602,20 @@
       "coletado_em": "2026-10-06T20:27:43-03:00"
     },
     {
+      "id": "79bf44faa3eb7575",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério da Saúde abre inscrições para Mostra Nacional de Saúde Bucal",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/ministerio-da-saude-abre-inscricoes-para-mostra-nacional-de-saude-bucal-2013-brasil-sorridente",
+      "resumo": "",
+      "publicado_em": "2026-10-06T19:54:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
       "id": "543f98a56dc2c070",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1096,6 +1843,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "8769a97f0f21a5c0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara e Senado terão 96 ex-prefeitos a partir de 2027",
+      "link": "https://www.congressoemfoco.com.br/noticia/123050/camara-e-senado-terao-96-ex-prefeitos-a-partir-de-2027",
+      "resumo": "Nova composição no Congresso Nacional terá recorde de parlamentares com passagem pela administração municipal.",
+      "publicado_em": "2026-10-06T20:37:52-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
     },
     {
       "id": "6cf1a23f9014b0c0",
@@ -1602,6 +2365,70 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-06T16:12:00-03:00"
+    },
+    {
+      "id": "c37bc82836beb08a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ e Bacen concluem nota técnica para regular cessão de precatórios",
+      "link": "https://www.cnj.jus.br/cnj-e-bacen-concluem-nota-tecnica-para-regular-cessao-de-precatorios/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) e o Banco Central do Brasil (Bacen) avançaram nesta terça-feira (6/10) em uma agenda conjunta de aperfeiçoamento do sistema de precatórios. O presidente do CNJ, ministro Edson Fachin, e o presidente do Banco Central, Gabriel Galípolo, receberam, em solenidade no ",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "precatorio"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "8391ab17dbead565",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Ferramenta pública do CNJ permite calcular precatórios e RPVs",
+      "link": "https://www.cnj.jus.br/cnj-lanca-ferramenta-publica-para-calculo-de-precatorios-e-rpvs/",
+      "resumo": "Calcular precatórios e requisições de pequeno valor (RPVs) ficou mais fácil. O Conselho Nacional de Justiça (CNJ) lançou, nesta terça-feira (6/10), a primeira Calculadora Nacional de Precatórios. O anúncio foi feito pelo presidente do CNJ e do Supremo Tribunal Federal (STF), ministro Edson Fachin, d",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "precatorio"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "0120ae615c191204",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ abre a Semana Nacional de Regularização Tributária em Santa Catarina",
+      "link": "https://www.cnj.jus.br/cnj-abre-a-semana-nacional-de-regularizacao-tributaria-em-santa-catarina/",
+      "resumo": "A III Semana Nacional de Regularização Tributária, mobilização nacional promovida pelo Conselho Nacional de Justiça (CNJ), de 5 a 9 de outubro, para estimular o uso de meios consensuais de solução de litígios em matéria tributária foi aberta na segunda-feira (5), na Sala de Sessões Ministro Teori Za",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
+    },
+    {
+      "id": "c4633c24c1e036db",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Tribunal fortalece gestão participativa em planejamento estratégico",
+      "link": "https://www.cnj.jus.br/tribunal-fortalece-gestao-participativa-em-planejamento-estrategico/",
+      "resumo": "A construção do Planejamento Estratégico Institucional (PEI) do Tribunal de Justiça da Paraíba (TJPB) para o sexênio 2027–2032 chegou à última etapa de participação de magistrados e servidores do 1º Grau. O encontro reiniu integrantes da circunscrição da capital para contribuir com a definição das d",
+      "publicado_em": "2026-10-06T12:00:00-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-07T14:40:37-03:00"
     },
     {
       "id": "d5f1fd6fb663f583",
@@ -3239,7 +4066,7 @@
       "id": "796ee42085badf95",
       "fonte_id": "bacen",
       "fonte_nome": "Bacen",
-      "titulo": "BC moderniza apresentação de dados sobre intervenções cambiais",
+      "titulo": "BC moderniza apresentação de dados sobre atuação no mercado de câmbio",
       "link": "https://www.bcb.gov.br/detalhenoticia/21279/nota",
       "resumo": "Iniciativa traz histórico de estoque e cronograma de vencimentos de Swap Cambial e Linha com Recompra sem mudar formato de leilões de câmbio.",
       "publicado_em": "2026-10-05T08:30:53-03:00",
@@ -75287,72 +76114,6 @@
       "data_estimada": false,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "6de4c55a509d2eb7",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Suspensão das atividades presenciais no Fórum de Osasco-SP é prorrogada até 30/9; audiências seguem telepresenciais",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/suspensao-das-atividades-presenciais-no-forum-de-osasco-sp-e-prorrogada-ate-30-9-audiencias-seguem-telepresenciais",
-      "resumo": "",
-      "publicado_em": "2026-07-08T12:00:00-03:00",
-      "dia": "2026-07-08",
-      "data_estimada": true,
-      "score": 48,
-      "tags": [
-        "prorrogad"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "1a886fb90f117c99",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Uso de celular corporativo para envio de mensagens discriminatórias gera justa causa",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/uso-de-celular-corporativo-para-envio-de-mensagens-discriminatorias-gera-justa-causa",
-      "resumo": "",
-      "publicado_em": "2026-07-08T12:00:00-03:00",
-      "dia": "2026-07-08",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "7cbb3133001be75c",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Cade abre processo seletivo para dois servidores públicos federais atuarem na Coordenação-Geral de Orçamento, Finanças e Logística",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-seleciona-servidor-publico-federal-para-atuar-na-coordenacao-geral-de-orcamento-financas-e-logistica",
-      "resumo": "",
-      "publicado_em": "2026-07-08T12:00:00-03:00",
-      "dia": "2026-07-08",
-      "data_estimada": true,
-      "score": 62,
-      "tags": [
-        "cade",
-        "processo",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "db0cc7922dcafc39",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "ANPD instaura processo de sanção contra OS por falha na proteção de dados de 500 mil pacientes",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-instaura-processo-de-sancao-contra-organizacao-social-por-falha-na-protecao-de-dados-de-500-mil-pacientes-de-unidades-publicas-de-saude",
-      "resumo": "Ataque cibernético expôs dados sensíveis de pacientes de unidades geridas pelo Instituto Saúde e Cidadania (Isac), que atua na gestão de unidades de saúde em vários estados brasileiros",
-      "publicado_em": "2026-07-08T11:40:13-03:00",
-      "dia": "2026-07-08",
-      "data_estimada": false,
-      "score": 70,
-      "tags": [
-        "sancao",
-        "protecao de dados",
-        "processo"
-      ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
