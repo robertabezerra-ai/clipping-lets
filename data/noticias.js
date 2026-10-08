@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-07T20:56:18-03:00",
+  "gerado_em": "2026-10-08T14:44:08-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -250,6 +250,677 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "e950cbb009e8fcf3",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 promove curso sobre atendimento inclusivo em varas do trabalho",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-promove-curso-sobre-atendimento-inclusivo-em-varas-do-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "eb9a5fa53e5c1176",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "9ª Câmara decide que banco de horas previsto em acordo coletivo afasta indenização por supressão de horas extras",
+      "link": "https://trt15.jus.br/noticia/2026/9a-camara-decide-que-banco-de-horas-previsto-em-acordo-coletivo-afasta-indenizacao-por",
+      "resumo": "9ª Câmara decide que banco de horas previsto em acordo coletivo afasta indenização por supressão de horas extras marianaaassuncao Qui, 08/10/2026 - 13:29 9ª Câmara decide que banco de horas previsto em acordo coletivo afasta indenização por supressão de horas extras Conteúdo da Notícia Em decisão un",
+      "publicado_em": "2026-10-08T13:29:15-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "decisao",
+        "decide",
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "e284f7c261084833",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Proprietário indenizará vizinhos após desabamento de imóvel",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115675&pagina=1",
+      "resumo": "Danos morais, materiais e custos para reconstrução.\n \n\tA 27ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo condenou proprietário de terreno a",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "indenizar"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "3e3172caa2db51b0",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Nota de pesar: falecimento do juiz Gustavo de Castro Campos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115672&pagina=1",
+      "resumo": "Magistrado atuava na Comarca de Mococa.\n \n\tOs integrantes do Tribunal de Justiça de São Paulo comunicam e lamentam o falecimento do juiz Gustavo de Castro",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "falecimento"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "b98a5ca86138ca47",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "100 anos de histórias, poesia e amor por São Paulo",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115667&pagina=1",
+      "resumo": "Homenagens aproximam gerações de Paulo Bomfim. \n \n\tHá pessoas que passam pela história. Outras deixam lembranças que fazem a história continuar sendo contada. Paulo Bomfim pertence",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "89d506eaa1278f9f",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quinta-feira (8)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-8/",
+      "resumo": "Sessão começa às 14h e será transmitida ao vivo pela Rádio e TV Justiça e pelo canal do STF no YouTube",
+      "publicado_em": "2026-10-08T09:40:29-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "1efc2a4d2232e966",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senadores analisarão medidas de prevenção ao assoreamento de rios",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senadores-analisarao-medidas-de-prevencao-ao-assoreamento-de-rios",
+      "resumo": "",
+      "publicado_em": "2026-10-08T12:26:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "0308661ea2dc5286",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pará e MT podem ganhar Região Integrada de Desenvolvimento do Araguaia-Xingu",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/para-e-mt-podem-ganhar-regiao-integrada-de-desenvolvimento-do-araguaia-xingu",
+      "resumo": "",
+      "publicado_em": "2026-10-08T11:18:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "f5610251544bd59a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Não votou no primeiro turno? Você pode votar no segundo; saiba as regras",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/08/nao-votou-no-primeiro-turno-voce-pode-votar-no-segundo-saiba-as-regras",
+      "resumo": "",
+      "publicado_em": "2026-10-08T11:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "e270d4bdc9e2b12a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi diz que calendário especial para PEC do Fim da 6x1 depende de requerimento",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/davi-diz-que-calendario-especial-para-pec-do-fim-da-6x1-depende-de-requerimento",
+      "resumo": "",
+      "publicado_em": "2026-10-08T10:45:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "107675f994272508",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAS examina aprimoramentos no atendimento a pessoas com câncer",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/08/cas-examina-aprimoramentos-no-atendimento-a-pessoas-com-cancer",
+      "resumo": "",
+      "publicado_em": "2026-10-08T10:08:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "322d846ea2ec153b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Governo e oposição divergem sobre calendário especial para PEC do Fim da Escala 6x1",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/governo-e-oposicao-divergem-sobre-calendario-especial-para-pec-do-fim-da-escala-6x1",
+      "resumo": "",
+      "publicado_em": "2026-10-08T09:29:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "36a58589c687432c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "TSE altera status de ausência após dúvidas de eleitores",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/tse-altera-status-de-ausencia-apos-duvidas-de-eleitores",
+      "resumo": "",
+      "publicado_em": "2026-10-08T09:09:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "b6b42808ee30c447",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Há um mês do Enem 2026, confira prazos, horário e a documentação necessária",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/enem-2026-falta-um-mes-para-o-primeiro-dia-de-provas-1",
+      "resumo": "",
+      "publicado_em": "2026-10-08T11:43:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "0f9644ce950be7ec",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Confira ferramentas gratuitas de estudo na reta final para o Enem 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/enem-2026-falta-um-mes-para-o-primeiro-dia-de-provas",
+      "resumo": "",
+      "publicado_em": "2026-10-08T11:30:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "2fe0de788476715b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Neutrinos: partículas que renderam Nobel de Física em 2026 são estudadas no Observatório Nacional. Entenda",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/neutrinos-particulas-que-renderam-nobel-de-fisica-em-2026-sao-estudadas-no-observatorio-nacional-entenda-o-que-sao",
+      "resumo": "",
+      "publicado_em": "2026-10-08T10:40:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "a842e833f69f2eef",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MME abre consulta pública do Plano Decenal de Expansão de Energia 2036",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/mme-abre-consulta-publica-do-plano-decenal-de-expansao-de-energia-2036",
+      "resumo": "",
+      "publicado_em": "2026-10-08T10:33:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "50ef7fa08d8f8b9e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Entenda o que TSE decidiu sobre Garotinho e como fica a eleição no RJ",
+      "link": "https://www.congressoemfoco.com.br/noticia/123102/entenda-o-que-tse-decidiu-sobre-garotinho-e-como-fica-a-eleicao-no-rj",
+      "resumo": "Novo cálculo sem os votos de Garotinho eleva Douglas Ruas a cerca de 50,88% dos votos válidos, assegurando vitória em primeiro turno.",
+      "publicado_em": "2026-10-08T14:15:05-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "b84c675c4fe73cc5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eduardo Paes vai ao STF para tentar garantir segundo turno no Rio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123101/eduardo-paes-vai-ao-stf-para-tentar-garantir-segundo-turno-no-rio",
+      "resumo": "Coligação contesta decisão do TSE que anulou 274 mil votos de Garotinho e abriu caminho para vitória de Douglas Ruas no primeiro turno.",
+      "publicado_em": "2026-10-08T14:10:19-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "7ed20e5b1c28cb30",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ana Elisa: \"O bolsonarismo é contra tanto a direita quanto a esquerda\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123100/ana-elisa--o-bolsonarismo-e-contra-tanto-a-direita-quanto-a-esquerda",
+      "resumo": "Parlamentar eleita argumenta que a derrota de Flávio Bolsonaro é necessária para permitir o surgimento de novas lideranças conservadoras no país.",
+      "publicado_em": "2026-10-08T13:43:26-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "94aead86a862a81f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "REDATA: A pressa em dar incentivos e o abandono do bem comum digital",
+      "link": "https://www.congressoemfoco.com.br/artigo/123098/redata-a-pressa-em-dar-incentivos-e-o-abandono-do-bem-comum-digital",
+      "resumo": "REDATA prevê mais de R$ 7 bilhões em incentivos fiscais para data centers até 2028, mas estabelece exigências limitadas de investimento em pesquisa e atendimento ao mercado nacional.",
+      "publicado_em": "2026-10-08T12:50:05-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "e6e1587a93b23109",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A apensação da PEC 6 à PEC 555 é uma medida de justiça",
+      "link": "https://www.congressoemfoco.com.br/coluna/123094/a-apensacao-da-pec-6-a-pec-555-e-uma-medida-de-justica",
+      "resumo": "Apensação da PEC 6/2024 à PEC 555/2006 é defendida como alternativa para preservar a tramitação da proposta que busca acabar com a contribuição previdenciária de servidores inativos.",
+      "publicado_em": "2026-10-08T11:53:43-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "cf6ca26aa5a73e82",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Podemos declara apoio a Flávio, que soma cinco partidos no 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123093/podemos-declara-apoio-a-flavio-que-soma-cinco-partidos-no-2-turno",
+      "resumo": "Partido de Renata Abreu se junta a União Brasil, PP, Republicanos e Novo; sigla não fechará questão e permitirá dissidências. Legenda elegeu 27 deputados federais no domingo.",
+      "publicado_em": "2026-10-08T11:47:08-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "afbf22b1435cc58b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas reage a vídeo selfie de Lula: \"não consegue, tadinho\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123090/nikolas-reage-a-video-selfie-de-lula--nao-consegue-tadinho",
+      "resumo": "Deputado questionou sua capacidade de comunicação e fez críticas ao governo.",
+      "publicado_em": "2026-10-08T10:43:46-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "646f380f3bfbcbdf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas e Pavanato garantiram a eleição de outros 15 deputados do PL",
+      "link": "https://www.congressoemfoco.com.br/noticia/123089/nikolas-e-pavanato-garantiram-a-eleicao-de-outros-15-deputados-do-pl",
+      "resumo": "Levantamento do Congresso em Foco mostra que, sem os dois recordistas de votação, partido perderia dez cadeiras em Minas e sete em São Paulo.",
+      "publicado_em": "2026-10-08T10:30:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "cbbb06a496ad7146",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE anula votos de Garotinho e Ruas deve ser eleito em 1º turno no RJ",
+      "link": "https://www.congressoemfoco.com.br/noticia/123088/tse-anula-votos-de-garotinho-e-ruas-deve-ser-eleito-em-1-turno-no-rj",
+      "resumo": "Apesar da unanimidade, dois ministros divergiram quanto à reconsideração dos votos que dá a vitória a Douglas Ruas.",
+      "publicado_em": "2026-10-08T10:05:04-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "9cc0805ce8077e79",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Randolfe diz ter votos para aprovar fim da escala 6x1 no Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/123087/randolfe-diz-ter-votos-para-aprovar-fim-da-escala-6x1-no-senado",
+      "resumo": "Líder do governo afirma que base tem apoio suficiente para chegar aos 49 votos necessários e quer concluir a votação da PEC até quarta-feira.",
+      "publicado_em": "2026-10-08T09:49:06-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "47b00e40ac4de07c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan está dando sinais de apoio a Lula? Internet vê \"pistas\" em vídeo",
+      "link": "https://www.congressoemfoco.com.br/noticia/123086/renan-esta-dando-sinais-de-apoio-a-lula-internet-ve-pistas-em-video",
+      "resumo": "Tapete vermelho de 1822, cortinas da mesma cor e comentários sobre antiguidades alimentam especulações sobre o posicionamento do ex-presidenciável no segundo turno.",
+      "publicado_em": "2026-10-08T09:14:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "310a0a84bea5796b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan diz que bolsonarismo está \"empurrando seu eleitor para Anitta\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123085/renan-diz-que-bolsonarismo-esta-empurrando-seu-eleitor-para-anitta",
+      "resumo": "Ex-presidenciável ironizou tentativas de conquistar seus eleitores no segundo turno.",
+      "publicado_em": "2026-10-08T08:46:46-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "2cc87fb0ffcff2cf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "479 dos 513 deputados eleitos foram \"puxados\" por partido ou colegas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123084/479-dos-513-deputados-eleitos-foram-puxados-por-partido-ou-colegas",
+      "resumo": "Só 34 dos 513 deputados eleitos superaram esse patamar com a própria votação; em 2022, foram 28. Levantamento mostra como o sistema proporcional pesa na formação da Câmara. Veja a lista de quem não preciso dos votos do partido.",
+      "publicado_em": "2026-10-08T08:46:18-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "b079b473cbfef2aa",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cleitinho reafirma apoio ao fim da escala 6x1: \"vou até o fim\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123083/cleitinho-reafirma-apoio-ao-fim-da-escala-6x1--vou-ate-o-fim",
+      "resumo": "Senador defendeu liberdade de opinião entre parlamentares e disse que quer participar da votação da proposta.",
+      "publicado_em": "2026-10-08T08:18:06-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "457b6865a972568a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dario Durigan diz que fim do split payment favorece fraude",
+      "link": "https://www.congressoemfoco.com.br/noticia/123081/dario-durigan-diz-que-fim-do-split-payment-favorece-fraude",
+      "resumo": "Ministro defende mecanismo da reforma tributária após a assessora econômica do candidato do PL, Daniella Marques, prometer extingui-lo por considerar que medida prejudica caixa de pequenos negócios.",
+      "publicado_em": "2026-10-08T07:16:46-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "034f36235ed4aed6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cuidado com o precipício",
+      "link": "https://www.congressoemfoco.com.br/artigo/123080/cuidado-com-o-precipicio",
+      "resumo": "Dentro de quinze dias resolve-se o destino do Brasil e desejo ardentemente que não vivamos sob o signo da violência.",
+      "publicado_em": "2026-10-08T07:16:28-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "46ee1f08aad6769d",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Participação e autonomia das pessoas idosas orientam debates sobre acesso à Justiça",
+      "link": "https://www.cnj.jus.br/participacao-e-autonomia-das-pessoas-idosas-orientam-debates-sobre-acesso-a-justica/",
+      "resumo": "Garantir que pessoas idosas possam compreender, participar e decidir sobre questões que afetam suas vidas, respeitando as diferentes condições de envelhecimento, está entre os desafios do Poder Judiciário para assegurar o acesso desse público à Justiça. O tema orientou a abertura do 2º Encontro Naci",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "718590b8385a1e75",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Projeto leva orientação sobre escolhas e futuro para mais de 1,4 mil estudantes de Cáceres",
+      "link": "https://www.cnj.jus.br/projeto-leva-orientacao-sobre-escolhas-e-futuro-para-mais-de-14-mil-estudantes-de-caceres/",
+      "resumo": "Antes de tomar uma decisão, é importante entender que cada escolha carrega consigo uma diferente consequência para o futuro. É com essa proposta que o Projeto Antes da Escolha tem levado orientações e reflexões a estudantes da rede estadual de ensino do município de Cáceres (220km de Cuiabá). Ideali",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "e0857034b9e1f34a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pena Justa: Ministério Público vai reforçar atuação em estratégia nacional contra superlotação",
+      "link": "https://www.cnj.jus.br/pena-justa-ministerio-publico-vai-reforcar-atuacao-em-estrategia-nacional-contra-superlotacao/",
+      "resumo": "O Ministério Público vai contribuir com o Judiciário e o Executivo para nacionalizar as Centrais de Regulação de Vagas (CRV), ferramenta prevista no Plano Pena Justa para controle permanente da superlotação. Em reunião no Conselho Nacional de Justiça (CNJ) nesta quarta-feira (6), o Conselho Nacional",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "31a17dfb67fd92cd",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Copa do Mundo Feminina: TJMG recebe visita de conselheiros do CNJ",
+      "link": "https://www.cnj.jus.br/copa-do-mundo-feminina-tjmg-recebe-visita-de-conselheiros-do-cnj/",
+      "resumo": "Como parte das ações de preparação da Justiça para a Copa do Mundo Feminina de 2027, da Federação Internacional de Futebol (Fifa), que será disputada no Brasil entre 24/6 e 25/7, o Grupo de Trabalho (GT) Paz nas Arenas, do Conselho Nacional de Justiça (CNJ), visitou, na manhã desta quarta-feira",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "5f461c27c7250fec",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Sistema Nacional de Adoção passa a ser integrado com cartórios de registro civil",
+      "link": "https://www.cnj.jus.br/sistema-nacional-de-adocao-passa-a-ser-integrado-com-cartorios-de-registro-civil/",
+      "resumo": "Quando um processo de adoção pelo cadastro é concluído, a criança ou adolescente recebe uma nova certidão de nascimento, com seu novo sobrenome e o nome dos pais e dos avós paternos e maternos. Foi o caso de Maria Luisa, que ganhou a nova certidão aos 15 anos. Esse procedimento",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "38a82dd1e570e804",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Há cinco anos, trabalho da Justiça com a sociedade garante direitos à população de rua",
+      "link": "https://www.cnj.jus.br/ha-cinco-anos-trabalho-da-justica-com-a-sociedade-garante-direitos-a-populacao-de-rua/",
+      "resumo": "A atuação conjunta entre o Poder Público e entidades que trabalham com pessoas em situação de rua tem assegurado o acesso dessa população ao sistema de justiça e à sua cidadania, a partir da implantação da Política Nacional Judicial de Atenção a Pessoas em Situação de Rua. Instituída pelo Conselho",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "e580f35c9b80159f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe anúncios em planos pagos de streaming contratados sem publicidade",
+      "link": "https://www.camara.leg.br/noticias/1305837-projeto-proibe-anuncios-em-planos-pagos-de-streaming-contratados-sem-publicidade",
+      "resumo": "",
+      "publicado_em": "2026-10-08T13:59:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "4970db1bc27fccd4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria programa para identificar talentos esportivos em áreas remotas e vulneráveis",
+      "link": "https://www.camara.leg.br/noticias/1309561-projeto-cria-programa-para-identificar-talentos-esportivos-em-areas-remotas-e-vulneraveis",
+      "resumo": "",
+      "publicado_em": "2026-10-08T11:29:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "cb207a336aa9958b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto vincula quantidade de vagas de estacionamento para pessoas idosas à população local",
+      "link": "https://www.camara.leg.br/noticias/1306308-projeto-vincula-quantidade-de-vagas-de-estacionamento-para-pessoas-idosas-a-populacao-local",
+      "resumo": "",
+      "publicado_em": "2026-10-08T09:03:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "6aa43edfd562f4a4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe linguagem neutra e conteúdos que estimulem aborto em cartilhas do SUS para gestantes",
+      "link": "https://www.camara.leg.br/noticias/1310125-projeto-proibe-linguagem-neutra-e-conteudos-que-estimulem-aborto-em-cartilhas-do-sus-para-gestantes",
+      "resumo": "",
+      "publicado_em": "2026-10-08T08:21:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "b0d8f2dffc791d20",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD promove webinário sobre o ECA Digital para marcar o Mês das Crianças",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-promove-webinario-sobre-o-eca-digital-para-marcar-o-mes-das-criancas",
+      "resumo": "No evento virtual da próxima quinta (15), Agência fará balanço do primeiro ano de implementação da legislação",
+      "publicado_em": "2026-10-08T08:13:41-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
     {
       "id": "11fc4494a4f57cf5",
       "fonte_id": "trt2",
@@ -1046,6 +1717,20 @@ window.DADOS = {
       "coletado_em": "2026-10-07T17:59:18-03:00"
     },
     {
+      "id": "d7850bfa5de0efdb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Vingadores\": Quem são deputados chamados a impulsionar Lula nas redes",
+      "link": "https://www.congressoemfoco.com.br/noticia/123074/vingadores--quem-sao-deputados-chamados-a-impulsionar-lula-nas-redes",
+      "resumo": "Objetivo é ampliar o apoio a Lula através da presença em plataformas como Instagram, TikTok, WhatsApp e YouTube.",
+      "publicado_em": "2026-10-07T17:16:53-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
       "id": "587d7ea20a4b076d",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1507,7 +2192,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "TJMS sediará 1º Encontro das UMFs da Região Centro-Oeste e lançará portal sobre o Sistema Interamericano",
       "link": "https://www.cnj.jus.br/tjms-sediara-1o-encontro-das-umfs-da-regiao-centro-oeste-e-lancara-portal-sobre-o-sistema-interamericano/",
-      "resumo": "O Tribunal de Justiça de Mato Grosso do Sul sediará, nos dias 15 e 16 de outubro, no Plenário do Tribunal Pleno, em Campo Grande, o 1º Encontro das Unidades de Monitoramento e Fiscalização (UMFs) da Região Centro-Oeste – Direitos Humanos e Justiça Interamericana. O evento reunirá magistrados, integr",
+      "resumo": "O Tribunal de Justiça de Mato Grosso do Sul sediará, nos dias 15 e 16 de outubro, no Plenário do Tribunal Pleno, em Campo Grande, o 1º Encontro das Unidades de Monitoramento e Fiscalização (UMFs) da Região Centro-Oeste — Direitos Humanos e Justiça Interamericana. O evento reunirá magistrados, integr",
       "publicado_em": "2026-10-07T12:00:00-03:00",
       "dia": "2026-10-07",
       "data_estimada": true,
@@ -1516,6 +2201,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-07T20:56:18-03:00"
+    },
+    {
+      "id": "c28b73e10212a20f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Painel no TJMSP reflete sobre equidade racial no sistema de justiça",
+      "link": "https://www.cnj.jus.br/painel-no-tjmsp-reflete-sobre-equidade-racial-no-sistema-de-justica/",
+      "resumo": "“Como fazer com que a equidade saia do plano teórico e se concretize?”. A pergunta, dirigida pelo presidente do Tribunal de Justiça Militar do Estado de São Paulo (TJMSP), desembargador Silvio Hiroshi Oyama, ao conselheiro do Conselho Nacional de Justiça (CNJ), Fábio Esteves, conduziu parte das refl",
+      "publicado_em": "2026-10-07T12:00:00-03:00",
+      "dia": "2026-10-07",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
     },
     {
       "id": "3027168f91755f76",
@@ -2735,6 +3434,23 @@ window.DADOS = {
         "visita"
       ],
       "coletado_em": "2026-10-06T20:27:43-03:00"
+    },
+    {
+      "id": "ffd6b3008ecc5ef1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Reeleitos divulgaram Prêmio Congresso em Foco nas redes em campanha",
+      "link": "https://www.congressoemfoco.com.br/noticia/123044/reeleitos-divulgaram-premio-congresso-em-foco-nas-redes-em-campanha",
+      "resumo": "Deputados e senadores utilizaram o troféu como representação da popularidade e destaque para o trabalho dentro do Legislativo.",
+      "publicado_em": "2026-10-06T17:36:10-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
     },
     {
       "id": "8286680bbf671f80",
@@ -76879,34 +77595,6 @@ window.DADOS = {
         "recurso",
         "premio"
       ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "8bd7518c825c9b11",
-      "fonte_id": "pgfn",
-      "fonte_nome": "PGFN",
-      "titulo": "Defeso Eleitoral 2026",
-      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/defeso-eleitoral-2026",
-      "resumo": "",
-      "publicado_em": "2026-07-09T12:00:00-03:00",
-      "dia": "2026-07-09",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "278fae0b06ba0545",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "Inscrições para o 3º Encontro ANPD de Encarregados começam dia 15 de julho",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/inscricoes-encontro-anpd-encarregados-abrem-15-julho",
-      "resumo": "Evento será realizado no dia 19 de agosto, no auditório do DNIT, em Brasília, e contará com transmissão ao vivo",
-      "publicado_em": "2026-07-09T17:33:00-03:00",
-      "dia": "2026-07-09",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
