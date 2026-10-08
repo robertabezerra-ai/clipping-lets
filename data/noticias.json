@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-08T16:33:17-03:00",
+  "gerado_em": "2026-10-08T18:01:11-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -265,6 +265,20 @@
       "coletado_em": "2026-10-08T14:44:08-03:00"
     },
     {
+      "id": "10a7eeccfe082924",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Palestra da EJud-15 debate assédio eleitoral nas relações de trabalho",
+      "link": "https://trt15.jus.br/noticia/2026/palestra-da-ejud-15-debate-assedio-eleitoral-nas-relacoes-de-trabalho",
+      "resumo": "Palestra da EJud-15 debate assédio eleitoral nas relações de trabalho anasiqueira Qui, 08/10/2026 - 16:01 Palestra da EJud-15 debate assédio eleitoral nas relações de trabalho Conteúdo da Notícia A proteção à liberdade de voto no ambiente de trabalho, os limites do poder diretivo do empregador e as ",
+      "publicado_em": "2026-10-08T16:01:39-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
+    },
+    {
       "id": "eb9a5fa53e5c1176",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -348,6 +362,42 @@
       "coletado_em": "2026-10-08T16:33:17-03:00"
     },
     {
+      "id": "31eed405e48fa789",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Comarca de Nhandeara recebe unidade do Cejusc",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115680&pagina=1",
+      "resumo": "Pacificação de conflitos pela conciliação e mediação.\n \n\tO Tribunal de Justiça de São Paulo instalou, hoje (8), o Centro Judiciário de Soluções de Conflitos e",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
+    },
+    {
+      "id": "850b9ef4b48056a4",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF vai decidir se aposentadoria especial para agentes de saúde depende de regulamentação",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-vai-decidir-se-aposentadoria-especial-para-agentes-de-saude-depende-de-regulamentacao/",
+      "resumo": "Controvérsia teve repercussão geral reconhecida; data do julgamento de mérito ainda será definida",
+      "publicado_em": "2026-10-08T16:43:23-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 100,
+      "tags": [
+        "julgamento",
+        "julga",
+        "repercussao geral",
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
+    },
+    {
       "id": "89d506eaa1278f9f",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -362,6 +412,36 @@
         "adi"
       ],
       "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "f00be8a6a8d738d4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Nota das Consultorias de Orçamento aponta diferenças em projeções para 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/08/nota-das-consultorias-de-orcamento-aponta-diferencas-em-projecoes-para-2027",
+      "resumo": "",
+      "publicado_em": "2026-10-08T17:59:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
+    },
+    {
+      "id": "c4738a67ea162c13",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PEC mantém incentivos locais à cultura e ao esporte após reforma tributária",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/pec-mantem-incentivos-locais-a-cultura-e-ao-esporte-apos-reforma-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-10-08T17:20:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
     },
     {
       "id": "e4c1394ccaa33869",
@@ -537,6 +617,20 @@
       "coletado_em": "2026-10-08T14:44:08-03:00"
     },
     {
+      "id": "947bcfde73a0c3ff",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senajus apresenta avanços da política migratória brasileira em reunião do Mercosul",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-apresenta-avancos-da-politica-migratoria-brasileira-em-reuniao-do-mercosul",
+      "resumo": "",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
+    },
+    {
       "id": "9edb4719a6806780",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -563,6 +657,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
+      "id": "6babafab16ba0dc9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Com o EJA, realizar o sonho de aprender a ler e escrever não tem idade",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/realizar-o-sonho-de-aprender-a-ler-e-escrever-nao-tem-idade",
+      "resumo": "",
+      "publicado_em": "2026-10-08T13:49:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
     },
     {
       "id": "3a10a5dae8ebbbc8",
@@ -640,6 +748,56 @@
       "coletado_em": "2026-10-08T14:44:08-03:00"
     },
     {
+      "id": "4806c0d2d83b729f",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM promove \"Encontro com o Mercado\" para apresentar resultados do Grupo de Trabalho de Tokenização (GTT)",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-promove-encontro-com-o-mercado-para-apresentar-resultados-do-grupo-de-trabalho-de-tokenizacao-gtt",
+      "resumo": "",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
+    },
+    {
+      "id": "a6a629805d7d4717",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado encerra terceiro dia de debates sobre fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123112/ao-vivo-senado-realiza-terceiro-dia-de-debates-da-pec-6x1",
+      "resumo": "Proposta avança na etapa de discussão em Plenário, enquanto governo articula um calendário especial para antecipar a votação.",
+      "publicado_em": "2026-10-08T16:44:17-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
+    },
+    {
+      "id": "4d28c1fde7e82274",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes manda prender Eduardo e cancelar passaportes do ex-deputado",
+      "link": "https://www.congressoemfoco.com.br/noticia/123111/moraes-manda-prender-eduardo-e-cancelar-passaportes-do-ex-deputado",
+      "resumo": "Decisão determina início do cumprimento de pena por coação do curso do processo que condenou Bolsonaro.",
+      "publicado_em": "2026-10-08T16:36:15-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "decisao",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
+    },
+    {
       "id": "b2241853ed3084f4",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -654,6 +812,20 @@
         "acao"
       ],
       "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
+      "id": "ddeb987c476c2a3f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Da questão do menor à prioridade absoluta",
+      "link": "https://www.congressoemfoco.com.br/artigo/123106/da-questao-do-menor-a-prioridade-absoluta",
+      "resumo": "Com avanço da PEC 32/2015 na Câmara, 25 organizações denunciam à ONU propostas que, segundo elas, enfraquecem a proteção de crianças e adolescentes no Brasil.",
+      "publicado_em": "2026-10-08T15:28:33-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
     },
     {
       "id": "e08593d28c2e203e",
@@ -1045,6 +1217,36 @@
         "acao"
       ],
       "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "a34b50696a849c71",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto torna crime disseminar notícias falsas sobre saúde em meios de comunicação",
+      "link": "https://www.camara.leg.br/noticias/1310314-projeto-torna-crime-disseminar-noticias-falsas-sobre-saude-em-meios-de-comunicacao",
+      "resumo": "",
+      "publicado_em": "2026-10-08T17:34:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
+    },
+    {
+      "id": "c620385bc09dc444",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto permite que Santas Casas usem licitações do governo para comprar insumos mais baratos",
+      "link": "https://www.camara.leg.br/noticias/1306351-projeto-permite-que-santas-casas-usem-licitacoes-do-governo-para-comprar-insumos-mais-baratos",
+      "resumo": "",
+      "publicado_em": "2026-10-08T16:40:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
     },
     {
       "id": "d04a41e6b92261ee",
@@ -2463,7 +2665,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Painel no TJMSP reflete sobre equidade racial no sistema de justiça",
       "link": "https://www.cnj.jus.br/painel-no-tjmsp-reflete-sobre-equidade-racial-no-sistema-de-justica/",
-      "resumo": "“Como fazer com que a equidade saia do plano teórico e se concretize?”. A pergunta, dirigida pelo presidente do Tribunal de Justiça Militar do Estado de São Paulo (TJMSP), desembargador Silvio Hiroshi Oyama, ao conselheiro do Conselho Nacional de Justiça (CNJ), Fábio Esteves, conduziu parte das refl",
+      "resumo": "“Como fazer com que a equidade saia do plano teórico e se concretize?”. A pergunta, dirigida pelo presidente do Tribunal de Justiça Militar do Estado de São Paulo (TJMSP), desembargador Silvio Hiroshi Oyama, ao conselheiro do Conselho Nacional de Justiça (CNJ) Fabio Esteves conduziu parte das reflex",
       "publicado_em": "2026-10-07T12:00:00-03:00",
       "dia": "2026-10-07",
       "data_estimada": true,
