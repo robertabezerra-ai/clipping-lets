@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-08T14:44:08-03:00",
+  "gerado_em": "2026-10-08T16:33:17-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -330,6 +330,24 @@ window.DADOS = {
       "coletado_em": "2026-10-08T14:44:08-03:00"
     },
     {
+      "id": "2ef85bc74869c93f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Empresa é condenada por falsificação de marca de luxo",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115679&pagina=1",
+      "resumo": "Mais de 7 mil itens apreendidos.\n \n\tA 2ª Câmara Reservada de Direito Empresarial do Tribunal de Justiça de São Paulo manteve, em parte, decisão da",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "condenada",
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
       "id": "89d506eaa1278f9f",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -344,6 +362,81 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "e4c1394ccaa33869",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Quatro medidas provisórias perdem validade; outras três são prorrogadas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/08/quatro-medidas-provisorias-perdem-validade-outras-tres-sao-prorrogadas",
+      "resumo": "",
+      "publicado_em": "2026-10-08T16:18:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "medidas provisorias",
+        "prorrogad"
+      ],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
+      "id": "0641504a6eaa7b32",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto reconhece saúde estética como área de atuação de seis profissões",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/08/projeto-reconhece-saude-estetica-como-area-de-atuacao-de-seis-profissoes",
+      "resumo": "",
+      "publicado_em": "2026-10-08T16:06:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
+      "id": "fd2d69acd829f87b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Para Confúcio, mudança de governo não pode interromper políticas públicas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/08/para-confucio-mudanca-de-governo-nao-pode-interromper-politicas-publicas",
+      "resumo": "",
+      "publicado_em": "2026-10-08T15:56:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
+      "id": "06808e41966c7b70",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim da 6x1 também beneficia quem está na informalidade, argumenta Paim",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/08/fim-da-6x1-tambem-beneficia-quem-esta-na-informalidade-argumenta-paim",
+      "resumo": "",
+      "publicado_em": "2026-10-08T15:51:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
+      "id": "5a31d702ece8a719",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Rio de Janeiro: Garotinho tem votos anulados e Douglas Ruas será declarado governador eleito",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/08/rio-de-janeiro-garotinho-tem-votos-anulados-e-douglas-ruas-sera-declarado-governador-eleito",
+      "resumo": "",
+      "publicado_em": "2026-10-08T14:41:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
     },
     {
       "id": "1efc2a4d2232e966",
@@ -444,10 +537,54 @@ window.DADOS = {
       "coletado_em": "2026-10-08T14:44:08-03:00"
     },
     {
+      "id": "9edb4719a6806780",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Nordeste e Sul lideram crescimento econômico do País, aponta estudo do BNB",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pernambuco-tem-melhor-desempenho-regional-e-nordeste-lidera-crescimento-economico-do-pais-aponta-estudo-do-bnb",
+      "resumo": "",
+      "publicado_em": "2026-10-08T16:20:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
+      "id": "2fc53e48a4f10cf7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "TV Brasil apresenta edição temática do Sem Censura sobre saúde da mulher na maturidade",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/tv-brasil-apresenta-edicao-tematica-do-sem-censura-sobre-saude-da-mulher-na-maturidade",
+      "resumo": "",
+      "publicado_em": "2026-10-08T14:31:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
+      "id": "3a10a5dae8ebbbc8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pianista Estela Caldi apresenta projeto \"Schubertíade\" na Rádio MEC",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pianista-estela-caldi-apresenta-projeto-schubertiade-na-radio-mec",
+      "resumo": "",
+      "publicado_em": "2026-10-08T12:24:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
       "id": "b6b42808ee30c447",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Há um mês do Enem 2026, confira prazos, horário e a documentação necessária",
+      "titulo": "A um mês do Enem 2026, confira prazos, horário e a documentação necessária",
       "link": "https://agenciagov.ebc.com.br/noticias/202610/enem-2026-falta-um-mes-para-o-primeiro-dia-de-provas-1",
       "resumo": "",
       "publicado_em": "2026-10-08T11:43:00-03:00",
@@ -501,6 +638,54 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "b2241853ed3084f4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ana Elisa relata ameaças de violência após reforçar campanha de Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/123109/ana-elisa-relata-ameacas-de-violencia-apos-reforcar-campanha-de-lula",
+      "resumo": "Parlamentar diz que adversários passaram a atacá-la por enxergarem sua atuação no segundo turno como capaz de influenciar a disputa.",
+      "publicado_em": "2026-10-08T16:10:51-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
+      "id": "e08593d28c2e203e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PSDB libera filiados para escolher entre Lula e Flávio no 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123105/psdb-libera-filiados-para-escolher-entre-lula-e-flavio-no-2-turno",
+      "resumo": "Decisão foi anunciada em nota oficial assinada pelo presidente nacional da legenda, Aécio Neves.",
+      "publicado_em": "2026-10-08T15:04:57-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
+      "id": "9e266ebe883bb73f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Constituição de 1988: 38 anos de direitos, participação e cidadania",
+      "link": "https://www.congressoemfoco.com.br/artigo/123104/constituicao-de-1988-38-anos-de-direitos-participacao-e-cidadania",
+      "resumo": "Promulgada após a ditadura militar, a Carta ampliou direitos, fortaleceu a participação popular e estabeleceu as bases da democracia brasileira.",
+      "publicado_em": "2026-10-08T14:53:05-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
     },
     {
       "id": "50ef7fa08d8f8b9e",
@@ -560,6 +745,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "125452f36f528005",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O fardo orçamentário do 4º mandato de Lula",
+      "link": "https://www.congressoemfoco.com.br/artigo/123096/o-fardo-orcamentario-do-4-mandato-de-lula",
+      "resumo": "Mesmo com a regra fiscal em vigor, a dívida continua subindo. Sem explicar como financiar suas promessas, Lula deixa em aberto o caminho para equilibrar as contas e reduzir os juros.",
+      "publicado_em": "2026-10-08T12:28:30-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
     },
     {
       "id": "e6e1587a93b23109",
@@ -848,18 +1047,74 @@ window.DADOS = {
       "coletado_em": "2026-10-08T14:44:08-03:00"
     },
     {
+      "id": "d04a41e6b92261ee",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Três mulheres trans são eleitas deputadas federais",
+      "link": "https://www.camara.leg.br/noticias/1310349-tres-mulheres-trans-sao-eleitas-deputadas-federais",
+      "resumo": "",
+      "publicado_em": "2026-10-08T15:56:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
+      "id": "fe50cb234409e4ac",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Concurso da Câmara: sorteio define cargos com vagas para indígenas e quilombolas",
+      "link": "https://www.camara.leg.br/noticias/1310300-concurso-da-camara-sorteio-define-cargos-com-vagas-para-indigenas-e-quilombolas",
+      "resumo": "",
+      "publicado_em": "2026-10-08T15:25:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
+      "id": "095fc99a72d15bde",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Outubro Rosa: deputada Flávia Morais fala sobre a importância do diagnóstico precoce",
+      "link": "https://www.camara.leg.br/noticias/1310253-outubro-rosa-deputada-flavia-morais-fala-sobre-a-importancia-do-diagnostico-precoce",
+      "resumo": "",
+      "publicado_em": "2026-10-08T14:57:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
       "id": "e580f35c9b80159f",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
       "titulo": "Projeto proíbe anúncios em planos pagos de streaming contratados sem publicidade",
       "link": "https://www.camara.leg.br/noticias/1305837-projeto-proibe-anuncios-em-planos-pagos-de-streaming-contratados-sem-publicidade",
       "resumo": "",
-      "publicado_em": "2026-10-08T13:59:00-03:00",
+      "publicado_em": "2026-10-08T13:29:00-03:00",
       "dia": "2026-10-08",
       "data_estimada": false,
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "54e5cbda8abe7197",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê apoio a estudantes com autismo em cursinhos pré-vestibular públicos",
+      "link": "https://www.camara.leg.br/noticias/1307054-projeto-preve-apoio-a-estudantes-com-autismo-em-cursinhos-pre-vestibular-publicos",
+      "resumo": "",
+      "publicado_em": "2026-10-08T12:38:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T16:33:17-03:00"
     },
     {
       "id": "4970db1bc27fccd4",
