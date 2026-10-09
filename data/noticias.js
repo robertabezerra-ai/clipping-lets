@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-09T17:32:22-03:00",
+  "gerado_em": "2026-10-09T20:43:26-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 18,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Read timed out. (read timeout=20)"
     },
     {
       "id": "cade",
@@ -409,6 +409,38 @@ window.DADOS = {
       "coletado_em": "2026-10-09T16:07:48-03:00"
     },
     {
+      "id": "14295bf27fb9f7b2",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Cuidado com golpes em falsos leilões, telefonemas, mensagens e sites",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115698&pagina=1",
+      "resumo": "Criminosos utilizam nome do Tribunal e de outras instituições.\n \n\tQuadrilhas especializadas em golpes costumam utilizar o nome, logotipo e/ou informações de empresas, escritórios de advocacia,",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
+      "id": "e4abc78fab855f1c",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF reafirma aplicação de novos prazos a registros de armas expedidos antes de decreto de 2023",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-reafirma-aplicacao-de-novos-prazos-a-registros-de-armas-expedidos-antes-de-decreto-de-2023/",
+      "resumo": "Por unanimidade, Corte entendeu que prazo de validade faz parte do regime de controle de armas e pode alcançar certificados já emitidos",
+      "publicado_em": "2026-10-09T18:33:27-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "decreto",
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
       "id": "8d7243024d387017",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -484,6 +516,38 @@ window.DADOS = {
         "liminar"
       ],
       "coletado_em": "2026-10-09T14:20:23-03:00"
+    },
+    {
+      "id": "c597729245630597",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Consultoria de Orçamento aponta divergências entre previsões para PIB e inflação de 2027",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/consultoria-de-orcamento-aponta-divergencias-entre-previsoes-para-pib-e-inflacao-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-10-09T18:54:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
+      "id": "4d56a07ebca00462",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim da 6x1: Senado pode concluir 1º turno da votação em mais duas sessões",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/09/fim-da-6-x-1-senado-pode-concluir-1o-turno-da-votacao-em-mais-duas-sessoes",
+      "resumo": "",
+      "publicado_em": "2026-10-09T18:39:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
     },
     {
       "id": "32e96ea155b4c18b",
@@ -816,7 +880,7 @@ window.DADOS = {
       "id": "270c03020a1276a8",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
-      "titulo": "Cerca de 16,6 mil sites ilegais de apostas são encaminhados para bloqueio",
+      "titulo": "Cerca de 16,6 mil sites ilegais de apostas e de publicidade são encaminhados para bloqueio",
       "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cerca-de-16-6-mil-sites-ilegais-de-apostas-sao-encaminhados-para-bloqueio",
       "resumo": "",
       "publicado_em": "2026-10-09T12:00:00-03:00",
@@ -839,6 +903,80 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "b35b7e10d94c25a4",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon articula criação de núcleo regional de combate ao endividamento e ao superendividamento na Região Sul",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-articula-criacao-de-nucleo-regional-de-combate-ao-endividamento-e-ao-superendividamento-na-regiao-sul-1",
+      "resumo": "",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
+      "id": "2bea8aec977d7a7c",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon articula criação de núcleo regional de combate ao endividamento e ao superendividamento na Região Sul",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-articula-criacao-de-nucleo-regional-de-combate-ao-endividamento-e-ao-superendividamento-na-regiao-sul",
+      "resumo": "",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
+      "id": "93034397ca856269",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP lamenta a morte de três policiais militares em acidente aéreo em Minas Gerais",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-lamenta-a-morte-de-tres-policiais-militares-em-acidente-aereo-em-minas-gerais",
+      "resumo": "",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
+      "id": "10ccc202661879e6",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "ENSP disponibiliza curso sobre prevenção e combate a incêndios",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ensp-disponibiliza-curso-sobre-prevencao-e-combate-a-incendios",
+      "resumo": "",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
+      "id": "f829d699c8fba52a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "INSS garante novo benefício a mulheres afastadas do trabalho por violência doméstica",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/beneficio-lei-maria-da-penha-do-inss-garante-renda-a-mulher-afastada-do-trabalho-por-situacao-de-violencia-domestica",
+      "resumo": "",
+      "publicado_em": "2026-10-09T18:30:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
     },
     {
       "id": "3e664f0c1e13b382",
@@ -960,6 +1098,39 @@ window.DADOS = {
       "coletado_em": "2026-10-09T17:32:22-03:00"
     },
     {
+      "id": "741f30953946c4a7",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Governo Federal prorroga desoneração da gasolina e do etanol",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/governo-federal-prorroga-desoneracao-da-gasolina-e-do-etanol",
+      "resumo": "",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
+      "id": "8f28b82de7907e0d",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "IV Congresso de Direito Tributário e Aduaneiro da Receita Federal discutirá tributação, inteligência e justiça fiscal",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/iv-congresso-de-direito-tributario-e-aduaneiro-da-receita-federal-discutira-tributacao-inteligencia-e-justica-fiscal",
+      "resumo": "",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "tributario",
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
       "id": "4329abd0ef5631a2",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -975,6 +1146,36 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "0007c290acb1d248",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar arquiva inquérito contra Marinho por suposto caixa dois em 2012",
+      "link": "https://www.congressoemfoco.com.br/noticia/123156/gilmar-arquiva-inquerito-contra-marinho-por-suposto-caixa-dois-em-2012",
+      "resumo": "Investigação examinava uma possível diferença de R$ 1,401 milhão em valores relacionados da contratação de uma produtora audiovisual.",
+      "publicado_em": "2026-10-09T19:10:26-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
+      "id": "2b3349d47fb89069",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan Santos sobre pressão para apoiar Flávio: \"nós temos dignidade\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123155/renan-santos-sobre-pressao-para-apoiar-flavio--nos-temos-dignidade",
+      "resumo": "Ex-presidenciável acusa apoiadores do senador de pressionar integrantes do MBL e questiona exigências de união após ataques na campanha.",
+      "publicado_em": "2026-10-09T17:35:37-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
     },
     {
       "id": "6875291f80d4ab68",
@@ -1449,7 +1650,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "CNJ apresenta ao TRF-6 diretrizes para valorizar catadores de recicláveis",
       "link": "https://www.cnj.jus.br/cnj-apresenta-ao-trf6-diretrizes-para-valorizar-catadores-de-reciclaveis/",
-      "resumo": "O Tribunal Regional Federal da 6ª Região (TRF-6) recebeu, nesta sexta-feira (9/10), em sua sede, em Belo Horizonte, o conselheiro do Conselho Nacional de Justiça (CNJ) Paulo Regis Machado Botelho para uma reunião com o presidente da Corte, desembargador federal Ricardo Machado Rabelo. O encontro tra",
+      "resumo": "O Tribunal Regional Federal da 6ª Região (TRF-6) recebeu, nesta sexta-feira (9/10), em sua sede, em Belo Horizonte, o conselheiro do Conselho Nacional de Justiça (CNJ) Paulo Regis Machado Botelho para uma reunião com o presidente da Corte, o desembargador federal Ricardo Machado Rabelo. O encontro t",
       "publicado_em": "2026-10-09T12:00:00-03:00",
       "dia": "2026-10-09",
       "data_estimada": true,
@@ -1463,7 +1664,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Fachin defende fortalecimento da magistratura e preservação das garantias constitucionais",
       "link": "https://www.cnj.jus.br/fachin-defende-fortalecimento-da-magistratura-e-preservacao-das-garantias-constitucionais/",
-      "resumo": "Em encontro com presidentes de Tribunais de Justiça, presidente do Conselho Nacional de Justiça (CNJ) e do STF afirmou que a modernização do Judiciário deve conciliar eficiência, independência judicial e respeito à Constituição O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de",
+      "resumo": "Em encontro com presidentes de tribunais de justiça, presidente do Conselho Nacional de Justiça (CNJ) e do STF afirmou que a modernização do Judiciário deve conciliar eficiência, independência judicial e respeito à Constituição. O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional d",
       "publicado_em": "2026-10-09T12:00:00-03:00",
       "dia": "2026-10-09",
       "data_estimada": true,
@@ -1473,6 +1674,71 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "403a32a0746fb692",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Encontro vai debater os desafios e o futuro da equidade racial no Poder Judiciário",
+      "link": "https://www.cnj.jus.br/encontro-vai-debater-os-desafios-e-o-futuro-da-equidade-racial-no-poder-judiciario/",
+      "resumo": "​Estão abertas as inscrições para o 9º Encontro Nacional de Juízas e Juízes Negros (Enajun) e o 6º Fórum Nacional de Juízas e Juízes contra o Racismo e Todas as Formas de Discriminação (Fonajurd). Realizados simultaneamente, de 11 a 13 de novembro, no Rio de Janeiro, os eventos vão promover",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
+      "id": "a7cff41ecbe7ed21",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ sedia seminário acadêmico internacional em parceria com a UC Berkeley",
+      "link": "https://www.cnj.jus.br/cnj-sedia-seminario-academico-internacional-em-parceria-com-a-uc-berkeley/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) recebe, na quarta-feira (14/10), o Seminário Acadêmico Internacional CNJ — UC Berkeley School of Law —, que reunirá representantes do Judiciário, da Academia e de instituições jurídicas brasileiras e norte-americanas. O encontro integra a agenda de cooperação ent",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "cade",
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
+      "id": "6118af8fa1fdf0b2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto pune empresas que atrasarem pagamento de médicos",
+      "link": "https://www.camara.leg.br/noticias/1306357-projeto-pune-empresas-que-atrasarem-pagamento-de-medicos",
+      "resumo": "",
+      "publicado_em": "2026-10-09T19:15:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
+      "id": "cab708fc66733773",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto regulamenta uso de luz de cortesia entre motoristas no trânsito",
+      "link": "https://www.camara.leg.br/noticias/1305403-projeto-regulamenta-uso-de-luz-de-cortesia-entre-motoristas-no-transito",
+      "resumo": "",
+      "publicado_em": "2026-10-09T18:02:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
     },
     {
       "id": "55c61eb3a0bc8b67",
