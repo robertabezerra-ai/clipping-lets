@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-09T16:07:48-03:00",
+  "gerado_em": "2026-10-09T17:32:22-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -296,6 +296,23 @@
       "coletado_em": "2026-10-09T14:20:23-03:00"
     },
     {
+      "id": "bb96cc8806b325ed",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 recebe inscrições de processos para a Semana Nacional da Conciliação até dia 19/10",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-recebe-inscricoes-de-processos-para-semana-nacional-da-conciliacao-ate-dia-0",
+      "resumo": "TRT-15 recebe inscrições de processos para a Semana Nacional da Conciliação até dia 19/10 marianaaassuncao Sex, 09/10/2026 - 16:53 TRT-15 recebe inscrições de processos para a Semana Nacional da Conciliação até dia 19/10 Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região recebe até o ",
+      "publicado_em": "2026-10-09T16:53:11-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
       "id": "7d11e12c6aad1e1b",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -469,6 +486,53 @@
       "coletado_em": "2026-10-09T14:20:23-03:00"
     },
     {
+      "id": "32e96ea155b4c18b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Mapa Nacional da Violência de Gênero é apresentado em fórum internacional",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/mapa-nacional-da-violencia-de-genero-e-apresentado-em-forum-internacional",
+      "resumo": "",
+      "publicado_em": "2026-10-09T17:17:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "0193d5d3396e353d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sessão especial homenageia associação católica que evangeliza pela TV e internet",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/09/sessao-especial-homenageia-associacao-catolica-que-evangeliza-pela-tv-e-internet",
+      "resumo": "",
+      "publicado_em": "2026-10-09T16:56:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "acao",
+        "homenageia"
+      ],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "189123ac33387d8f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Programação do Congresso no mês da criança inclui projeto Visite Encena",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/no-mes-das-criancas-programacao-do-congresso-inclui-projeto-visite-encena",
+      "resumo": "",
+      "publicado_em": "2026-10-09T16:30:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
       "id": "9aca0eb0ae8760f7",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -619,6 +683,72 @@
       "coletado_em": "2026-10-09T14:20:23-03:00"
     },
     {
+      "id": "12c73e636d5a3183",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "IV Congresso de Direito Tributário e Aduaneiro da Receita Federal discutirá tributação, inteligência e justiça fiscal",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/iv-congresso-de-direito-tributario-e-aduaneiro-da-receita-federal-discutira-tributacao-inteligencia-e-justica-fiscal",
+      "resumo": "",
+      "publicado_em": "2026-10-09T17:03:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "tributario",
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "a22b6cdb334e9817",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Reforma tributária: 86% dos documentos fiscais de empresas obrigadas já trazem destaque da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/reforma-tributaria-86-dos-documentos-fiscais-de-empresas-obrigadas-ja-trazem-destaque-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-10-09T16:45:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "reforma tributaria",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "11c8aefdc06c8c8a",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação Inflamável II da Receita Federal apura aproveitamento indevido de créditos de PIS/Pasep e Cofins na revenda de óleo diesel, gasolina e etanol",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/operacao-inflamavel-ii-da-receita-federal-apura-aproveitamento-indevido-de-creditos-de-pis-pasep-e-cofins-na-revenda-de-oleo-diesel-gasolina-e-etanol",
+      "resumo": "",
+      "publicado_em": "2026-10-09T16:35:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "5eb32393160758cd",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal intercepta 16,5 kg de cocaína no Porto de Santos",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-intercepta-16-5-kg-de-cocaina-no-porto-de-santos",
+      "resumo": "",
+      "publicado_em": "2026-10-09T16:29:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 18,
+      "tags": [
+        "cocaina"
+      ],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
       "id": "d8b4af17b2ab87ed",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -681,6 +811,62 @@
         "acao"
       ],
       "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "270c03020a1276a8",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Cerca de 16,6 mil sites ilegais de apostas são encaminhados para bloqueio",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cerca-de-16-6-mil-sites-ilegais-de-apostas-sao-encaminhados-para-bloqueio",
+      "resumo": "",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "e1930b70827cf1b3",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Governo Federal zera tributos sobre a gasolina e reforça subvenção a importadores de diesel",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-zera-tributos-sobre-a-gasolina-e-reforca-subvencao-a-importadores-de-diesel",
+      "resumo": "",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "3e664f0c1e13b382",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Cuidados paliativos e acolhimento a pacientes com doenças graves: no SUS tem",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/acolhimento-tambem-esta-nos-detalhes-cuidados-paliativos-ajudam-pacientes-a-enfrentar-doencas-graves",
+      "resumo": "",
+      "publicado_em": "2026-10-09T17:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "59e4cbe860ef1040",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Complexo da Amazônia Central: patrimônio mundial protege mais de 6 milhões de hectares",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/amazonia-central-patrimonio-mundial-da-unesco-protege-mais-de-6-milhoes-de-hectares-de-floresta",
+      "resumo": "",
+      "publicado_em": "2026-10-09T15:16:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
     },
     {
       "id": "1d1066ad050d143f",
@@ -757,6 +943,23 @@
       "coletado_em": "2026-10-09T14:20:23-03:00"
     },
     {
+      "id": "1fb87c1634334dfd",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Reforma tributária: 86% dos documentos fiscais de empresas obrigadas já trazem destaque da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/reforma-tributaria-86-dos-documentos-fiscais-de-empresas-obrigadas-ja-trazem-destaque-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 70,
+      "tags": [
+        "reforma tributaria",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
       "id": "4329abd0ef5631a2",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -772,6 +975,50 @@
         "julga"
       ],
       "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "6875291f80d4ab68",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AGU cobra direito de resposta à Veja por matéria envolvendo Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/123153/agu-cobra-direito-de-resposta-a-veja-por-materia-envolvendo-vorcaro",
+      "resumo": "Após pedidos da Casa Civil e do Ministério da Saúde, AGU buscará a correção das acusações e admite outras providências judiciais.",
+      "publicado_em": "2026-10-09T16:55:52-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "3790ac0f50098d69",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio nega fim do Bolsa Família: \"meu projeto é deixar o pobre rico\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123152/flavio-nega-fim-do-bolsa-familia--meu-projeto-e-deixar-o-pobre-rico",
+      "resumo": "Presidenciável afirmou ter proposta para transformar a Caixa Econômica Federal em um \"banco da prosperidade\".",
+      "publicado_em": "2026-10-09T16:52:49-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "bd840a5e63b82f41",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Padilha diz que Veja \"tentou confundir a sociedade\" em reportagem",
+      "link": "https://www.congressoemfoco.com.br/noticia/123151/padilha-diz-que-veja-tentou-confundir-a-sociedade-em-reportagem",
+      "resumo": "Ministro contesta acusações sobre negociações do Banco Master com fundos de pensão e solicita providências judiciais.",
+      "publicado_em": "2026-10-09T16:25:56-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
     },
     {
       "id": "a0fa9e1e4609e99e",
@@ -1197,6 +1444,67 @@
       "coletado_em": "2026-10-09T16:07:48-03:00"
     },
     {
+      "id": "95eb3f82a3789f4b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ apresenta ao TRF-6 diretrizes para valorizar catadores de recicláveis",
+      "link": "https://www.cnj.jus.br/cnj-apresenta-ao-trf6-diretrizes-para-valorizar-catadores-de-reciclaveis/",
+      "resumo": "O Tribunal Regional Federal da 6ª Região (TRF-6) recebeu, nesta sexta-feira (9/10), em sua sede, em Belo Horizonte, o conselheiro do Conselho Nacional de Justiça (CNJ) Paulo Regis Machado Botelho para uma reunião com o presidente da Corte, desembargador federal Ricardo Machado Rabelo. O encontro tra",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "7380592efb7bf0f4",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Fachin defende fortalecimento da magistratura e preservação das garantias constitucionais",
+      "link": "https://www.cnj.jus.br/fachin-defende-fortalecimento-da-magistratura-e-preservacao-das-garantias-constitucionais/",
+      "resumo": "Em encontro com presidentes de Tribunais de Justiça, presidente do Conselho Nacional de Justiça (CNJ) e do STF afirmou que a modernização do Judiciário deve conciliar eficiência, independência judicial e respeito à Constituição O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "55c61eb3a0bc8b67",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria programa de educação e conscientização para proteção animal",
+      "link": "https://www.camara.leg.br/noticias/1309819-projeto-cria-programa-de-educacao-e-conscientizacao-para-protecao-animal",
+      "resumo": "",
+      "publicado_em": "2026-10-09T17:11:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
+      "id": "251eb106fe54daad",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto isenta candidatos de baixa renda de custos com exames médicos em concursos públicos",
+      "link": "https://www.camara.leg.br/noticias/1305226-projeto-isenta-candidatos-de-baixa-renda-de-custos-com-exames-medicos-em-concursos-publicos",
+      "resumo": "",
+      "publicado_em": "2026-10-09T16:14:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
       "id": "47b2a74487514223",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1335,6 +1643,20 @@
       "coletado_em": "2026-10-09T14:20:23-03:00"
     },
     {
+      "id": "ff741a8b9265717c",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD publica 2º Relatório Parcial de Monitoramento do Sandbox Regulatório em Inteligência Artificial",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-2o-relatorio-parcial-de-monitoramento-do-sandbox-regulatorio-em-inteligencia-artificial",
+      "resumo": "Documento apresenta os avanços das testagens de sistemas inovadores desenvolvidos por três empresas selecionadas no projeto-piloto da Agência",
+      "publicado_em": "2026-10-09T16:33:25-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T17:32:22-03:00"
+    },
+    {
       "id": "e950cbb009e8fcf3",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -1349,6 +1671,20 @@
       "coletado_em": "2026-10-08T14:44:08-03:00"
     },
     {
+      "id": "7e3884e692ceab83",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Desembargador Edmundo Fraga Lopes é eleito presidente do TRT-15 para o biênio 2027-2028",
+      "link": "https://trt15.jus.br/noticia/2026/desembargador-edmundo-fraga-lopes-e-eleito-presidente-do-trt-15-para-o-bienio-2027",
+      "resumo": "Desembargador Edmundo Fraga Lopes é eleito presidente do TRT-15 para o biênio 2027-2028 anasiqueira Qui, 08/10/2026 - 17:30 Desembargador Edmundo Fraga Lopes é eleito presidente do TRT-15 para o biênio 2027-2028 Conteúdo da Notícia Os desembargadores do Tribunal Regional do Trabalho da 15ª Região el",
+      "publicado_em": "2026-10-08T17:30:20-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
       "id": "10a7eeccfe082924",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -1361,25 +1697,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-08T18:01:11-03:00"
-    },
-    {
-      "id": "eb9a5fa53e5c1176",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "9ª Câmara decide que banco de horas previsto em acordo coletivo afasta indenização por supressão de horas extras",
-      "link": "https://trt15.jus.br/noticia/2026/9a-camara-decide-que-banco-de-horas-previsto-em-acordo-coletivo-afasta-indenizacao-por",
-      "resumo": "9ª Câmara decide que banco de horas previsto em acordo coletivo afasta indenização por supressão de horas extras marianaaassuncao Qui, 08/10/2026 - 13:29 9ª Câmara decide que banco de horas previsto em acordo coletivo afasta indenização por supressão de horas extras Conteúdo da Notícia Em decisão un",
-      "publicado_em": "2026-10-08T13:29:15-03:00",
-      "dia": "2026-10-08",
-      "data_estimada": false,
-      "score": 80,
-      "tags": [
-        "decisao",
-        "decide",
-        "indenizacao",
-        "acao"
-      ],
-      "coletado_em": "2026-10-08T14:44:08-03:00"
     },
     {
       "id": "e284f7c261084833",
@@ -4359,6 +4676,25 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "eb9a5fa53e5c1176",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "9ª Câmara decide que banco de horas previsto em acordo coletivo afasta indenização por supressão de horas extras",
+      "link": "https://trt15.jus.br/noticia/2026/9a-camara-decide-que-banco-de-horas-previsto-em-acordo-coletivo-afasta-indenizacao-por",
+      "resumo": "9ª Câmara decide que banco de horas previsto em acordo coletivo afasta indenização por supressão de horas extras marianaaassuncao Ter, 06/10/2026 - 13:29 9ª Câmara decide que banco de horas previsto em acordo coletivo afasta indenização por supressão de horas extras Conteúdo da Notícia Em decisão un",
+      "publicado_em": "2026-10-06T13:29:15-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "decisao",
+        "decide",
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T14:44:08-03:00"
     },
     {
       "id": "4da7456814a9a137",
@@ -10003,20 +10339,6 @@
         "posse"
       ],
       "coletado_em": "2026-10-02T13:30:02-03:00"
-    },
-    {
-      "id": "7e3884e692ceab83",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Desembargador Edmundo Fraga Lopes é eleito presidente do TRT-15 para o biênio 2027-2028",
-      "link": "https://trt15.jus.br/noticia/2026/desembargador-edmundo-fraga-lopes-e-eleito-presidente-do-trt-15-para-o-bienio-2027",
-      "resumo": "Desembargador Edmundo Fraga Lopes é eleito presidente do TRT-15 para o biênio 2027-2028 anasiqueira Qui, 01/10/2026 - 17:30 Desembargador Edmundo Fraga Lopes é eleito presidente do TRT-15 para o biênio 2027-2028 Conteúdo da Notícia Os desembargadores do Tribunal Regional do Trabalho da 15ª Região el",
-      "publicado_em": "2026-10-01T17:30:20-03:00",
-      "dia": "2026-10-01",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-10-01T20:34:57-03:00"
     },
     {
       "id": "e47503e0fbcb905d",
