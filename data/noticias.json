@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-08T18:01:11-03:00",
+  "gerado_em": "2026-10-08T21:03:30-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -378,6 +378,67 @@
       "coletado_em": "2026-10-08T18:01:11-03:00"
     },
     {
+      "id": "a6a45c4548ccda84",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "4ª edição do Prêmio #Rompa terá nova categoria",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115685&pagina=1",
+      "resumo": "Inscrições começam no 1º semestre de 2027.\n \n\tReconhecer e disseminar boas práticas de combate à violência contra a mulher no Estado de São Paulo: esse",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
+    },
+    {
+      "id": "967c443821ee9fc8",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Roda de conversa do STF destaca papel das mulheres na elaboração da Constituição de 1988",
+      "link": "https://noticias.stf.jus.br/postsnoticias/roda-de-conversa-do-stf-destaca-papel-das-mulheres-na-elaboracao-da-constituicao-de-1988/",
+      "resumo": "Evento fez parte da programação da Semana da Constituição, organizada para comemorar os 38 anos da Carta",
+      "publicado_em": "2026-10-08T20:40:21-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
+    },
+    {
+      "id": "da07e85b0486438d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ministra Cármen Lúcia cumpre agenda institucional em Veneza",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ministra-carmen-lucia-cumpre-agenda-institucional-em-veneza/",
+      "resumo": "Na condição de vice-presidente da Subcomissão de Direitos Fundamentais da Comissão de Veneza, ministra participou de reunião do órgão e de eventos na cidade",
+      "publicado_em": "2026-10-08T19:34:13-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
+    },
+    {
+      "id": "92a86a46a0578070",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF valida mais tempo gratuito em estacionamentos para pessoas com deficiência no Paraná",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-valida-mais-tempo-gratuito-em-estacionamentos-para-pessoas-com-deficiencia-no-parana/",
+      "resumo": "Por unanimidade, Plenário confirmou a constitucionalidade de norma estadual que assegura a PCDs o dobro do período concedido aos demais usuários",
+      "publicado_em": "2026-10-08T18:12:15-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
+    },
+    {
       "id": "850b9ef4b48056a4",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -412,6 +473,64 @@
         "adi"
       ],
       "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "8d6482b94a41fd9a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto cria incentivos para 'startups verdes'",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-cria-incentivos-para-startups-verdes",
+      "resumo": "",
+      "publicado_em": "2026-10-08T18:29:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
+    },
+    {
+      "id": "9ed0488e022cc42f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Uso ético da IA é tema de guia lançado pela Auditoria do Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/08/uso-etico-da-ia-e-tema-de-guia-lancado-pela-auditoria-do-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-08T18:19:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
+    },
+    {
+      "id": "7e8542c7336f6941",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleições: propaganda gratuita no rádio e na TV volta nesta sexta",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/08/eleicoes-propaganda-gratuita-no-radio-e-na-tv-volta-nesta-sexta",
+      "resumo": "",
+      "publicado_em": "2026-10-08T18:15:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
+    },
+    {
+      "id": "efd115319c6cb576",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim da escala 6x1 passa pela 3ª sessão de discussão no Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/08/fim-da-escala-6x1-passa-pela-3a-sessao-de-discussao-no-plenario",
+      "resumo": "",
+      "publicado_em": "2026-10-08T18:04:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
     },
     {
       "id": "f00be8a6a8d738d4",
@@ -762,6 +881,82 @@
         "acao"
       ],
       "coletado_em": "2026-10-08T18:01:11-03:00"
+    },
+    {
+      "id": "71a59d8fa5ff0640",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula torna a criticar as bets: \"virou uma desgraça para o povo pobre\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123118/lula-torna-a-criticar-as-bets--virou-uma-desgraca-para-o-povo-pobre",
+      "resumo": "Presidente diz que clubes podem buscar outros modelos de financiamento e cita as sociedades anônimas do futebol como alternativa às bets.",
+      "publicado_em": "2026-10-08T20:45:35-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
+    },
+    {
+      "id": "719b7185deb32bc8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zanin nega recurso de Paes contra anulação dos votos de Garotinho",
+      "link": "https://www.congressoemfoco.com.br/noticia/123117/zanin-nega-recurso-de-paes-contra-anulacao-dos-votos-de-garotinho",
+      "resumo": "Ministro apontou ausência de recurso extraordinário e do acórdão do TSE como obstáculos para suspender o resultado da eleição fluminense.",
+      "publicado_em": "2026-10-08T20:34:42-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "acordao",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
+    },
+    {
+      "id": "04abef5ee243c4bf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro confirma incorporação de propostas de Augusto Cury",
+      "link": "https://www.congressoemfoco.com.br/noticia/123116/flavio-bolsonaro-confirma-incorporacao-de-propostas-de-augusto-cury",
+      "resumo": "Presidenciável assinou termo com oito compromissos do ex-presidenciável, que condicionou seu apoio no segundo turno à adesão às propostas.",
+      "publicado_em": "2026-10-08T20:13:21-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
+    },
+    {
+      "id": "66e5c60d4a1850ad",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Boulos e Pavanato se encontram e batem boca no Aeroporto de Brasília",
+      "link": "https://www.congressoemfoco.com.br/noticia/123115/boulos-e-pavanato-se-encontram-e-batem-boca-no-aeroporto-de-brasilia",
+      "resumo": "Deputado eleito e ministro trocaram xingamentos em área de embarque do aeroporto.",
+      "publicado_em": "2026-10-08T19:27:57-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
+    },
+    {
+      "id": "78e5efbf78573028",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eduardo Bolsonaro critica prisão e fala em \"decisões delirantes\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123114/eduardo-bolsonaro-critica-prisao-e-fala-em-decisoes-delirantes",
+      "resumo": "Ex-deputado acusa Moraes de \"tumultuar o país\" durante o segundo turno e sustenta que Estados Unidos não cumprirão o mandado.",
+      "publicado_em": "2026-10-08T18:18:42-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
     },
     {
       "id": "a6a629805d7d4717",
@@ -1217,6 +1412,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "bd484679f3bc9495",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto define regras para combater a exploração sexual infantil no turismo",
+      "link": "https://www.camara.leg.br/noticias/1306713-projeto-define-regras-para-combater-a-exploracao-sexual-infantil-no-turismo",
+      "resumo": "",
+      "publicado_em": "2026-10-08T18:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-08T21:03:30-03:00"
     },
     {
       "id": "a34b50696a849c71",
@@ -2665,7 +2876,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Painel no TJMSP reflete sobre equidade racial no sistema de justiça",
       "link": "https://www.cnj.jus.br/painel-no-tjmsp-reflete-sobre-equidade-racial-no-sistema-de-justica/",
-      "resumo": "“Como fazer com que a equidade saia do plano teórico e se concretize?”. A pergunta, dirigida pelo presidente do Tribunal de Justiça Militar do Estado de São Paulo (TJMSP), desembargador Silvio Hiroshi Oyama, ao conselheiro do Conselho Nacional de Justiça (CNJ) Fabio Esteves conduziu parte das reflex",
+      "resumo": "“Como fazer com que a equidade saia do plano teórico e se concretize?”. A pergunta, dirigida pelo presidente do Tribunal de Justiça Militar do Estado de São Paulo (TJMSP), desembargador Silvio Hiroshi Oyama, ao conselheiro do Conselho Nacional de Justiça (CNJ), Fábio Esteves, conduziu parte das refl",
       "publicado_em": "2026-10-07T12:00:00-03:00",
       "dia": "2026-10-07",
       "data_estimada": true,
