@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-09T14:20:23-03:00",
+  "gerado_em": "2026-10-09T16:07:48-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -296,6 +296,20 @@
       "coletado_em": "2026-10-09T14:20:23-03:00"
     },
     {
+      "id": "7d11e12c6aad1e1b",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Acordo de R$ 2.6 mi beneficia 29 trabalhadores idosos na Semana “Em Pauta a Melhor Idade”",
+      "link": "https://trt15.jus.br/noticia/2026/acordo-de-r-26-mi-beneficia-29-trabalhadores-idosos-na-semana-em-pauta-melhor-idade",
+      "resumo": "Acordo de R$ 2.6 mi beneficia 29 trabalhadores idosos na Semana “Em Pauta a Melhor Idade” marianaaassuncao Sex, 09/10/2026 - 15:07 Acordo de R$ 2.6 mi beneficia 29 trabalhadores idosos na Semana “Em Pauta a Melhor Idade” Conteúdo da Notícia A coordenadora do Centro Judiciário de Métodos Consensuais ",
+      "publicado_em": "2026-10-09T15:07:30-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
       "id": "0c93e422160ea2d3",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -346,6 +360,71 @@
       "coletado_em": "2026-10-09T14:20:23-03:00"
     },
     {
+      "id": "c002ef73ef4b8bcf",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação de homem que incitou violência contra praticantes de religiões em rede social",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115690&pagina=1",
+      "resumo": "Réu cumprirá pena restritiva de direitos. \n \n\tA 2ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve decisão da 2ª Vara Criminal",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "b939a76cd74d5db6",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Jurado voluntário: Comarca de Guarulhos está com inscrições abertas",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115697&pagina=1",
+      "resumo": "Cadastro até 31 de outubro. \n \n\tA Justiça de Guarulhos está com inscrições abertas, até 31 de outubro, para voluntários que queiram atuar como jurados nos",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "8d7243024d387017",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Rede questiona no STF uso de métricas de plataformas digitais na avaliação de profissionais da educação em SP",
+      "link": "https://noticias.stf.jus.br/postsnoticias/rede-questiona-no-stf-uso-de-metricas-de-plataformas-digitais-na-avaliacao-de-profissionais-da-educacao-em-sp/",
+      "resumo": "Partido afirma que critérios podem comprometer a autonomia pedagógica e induzir o uso das ferramentas em sala de aula",
+      "publicado_em": "2026-10-09T16:03:20-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "d639b039fe9d6bc3",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Fachin defende fortalecimento da magistratura e preservação das garantias constitucionais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/fachin-defende-fortalecimento-da-magistratura-e-preservacao-das-garantias-constitucionais/",
+      "resumo": "Em encontro com presidentes de Tribunais de Justiça, presidente do STF afirmou que a modernização do Judiciário deve conciliar eficiência, independência judicial e respeito à Constituição",
+      "publicado_em": "2026-10-09T14:42:59-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
       "id": "81f916db364cd46e",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -365,7 +444,7 @@
       "fonte_nome": "STF",
       "titulo": "Confira os destaques do Plenário Virtual",
       "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-29/",
-      "resumo": "Sessão virtual começou às 11h desta sexta-feira (09) e termina às 23h59 do dia 19/10",
+      "resumo": "Sessão virtual começou às 11h desta sexta-feira (9) e termina às 23h59 do dia 19/10",
       "publicado_em": "2026-10-09T11:02:53-03:00",
       "dia": "2026-10-09",
       "data_estimada": false,
@@ -388,6 +467,54 @@
         "liminar"
       ],
       "coletado_em": "2026-10-09T14:20:23-03:00"
+    },
+    {
+      "id": "9aca0eb0ae8760f7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "No mês da criança, Congresso tem visita guiada com teatro para público infantil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/09/no-mes-da-crianca-congresso-tem-visita-guiada-com-teatro-para-publico-infantil",
+      "resumo": "",
+      "publicado_em": "2026-10-09T15:44:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "c679661a205ea81a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso fará sessão solene pelo Dia Mundial da Alimentação",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/09/congresso-fara-sessao-solene-pelo-dia-mundial-da-alimentacao",
+      "resumo": "",
+      "publicado_em": "2026-10-09T15:05:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "94fd6f631bd945ff",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Cultural estreia com exposição sobre os 200 anos da Casa",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senado-cultural-estreia-com-exposicao-sobre-os-200-anos-da-casa",
+      "resumo": "",
+      "publicado_em": "2026-10-09T14:31:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
     },
     {
       "id": "b7e9bdc5c2fb0171",
@@ -421,7 +548,7 @@
       "id": "4c68ef8920588dd3",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "Medida provisória libera R$ 7,52 bilhões para custear subsídios a combustíveis",
+      "titulo": "Medida provisória libera R$ 7,52 bilhões para subsidiar combustíveis",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/10/09/medida-provisoria-libera-r-7-52-bilhoes-para-custear-subsidios-a-combustiveis",
       "resumo": "",
       "publicado_em": "2026-10-09T12:09:00-03:00",
@@ -437,7 +564,7 @@
       "id": "701204ded50a9360",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "Escala 6x1 l Confira como foi o debate ao longo da semana no Senado",
+      "titulo": "Escala 6x1: confira como foi o debate ao longo da semana no Senado",
       "link": "https://www12.senado.leg.br/noticias/videos/2026/10/escala-6x1-l-confira-como-foi-o-debate-ao-longo-da-semana-no-senado",
       "resumo": "",
       "publicado_em": "2026-10-09T09:52:00-03:00",
@@ -524,6 +651,52 @@
       "coletado_em": "2026-10-09T14:20:23-03:00"
     },
     {
+      "id": "1e156a5074ffa6f6",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Ciberlab apoia operação contra fraudes na venda de veículos pela internet",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ciberlab-apoia-operacao-contra-fraudes-na-venda-de-veiculos-pela-internet",
+      "resumo": "",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "665f9139faeaa352",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação Captura mobiliza todas as Polícias Civis do País e prende 504 indivíduos de alta periculosidade",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-captura-mobiliza-todas-as-policias-civis-do-pais-e-prende-504-individuos-de-alta-periculosidade",
+      "resumo": "",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "1d1066ad050d143f",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Hackathon SUS apoia empreendedores da ciência e adota suas inovações contra o câncer",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/hackhaton-sus-empreendedores-ciencia-cancer",
+      "resumo": "",
+      "publicado_em": "2026-10-09T13:03:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
       "id": "1074446d4d86efba",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -584,6 +757,83 @@
       "coletado_em": "2026-10-09T14:20:23-03:00"
     },
     {
+      "id": "4329abd0ef5631a2",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Sessão de Julgamento em 13/10",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/sessao-de-julgamento-em-13-10",
+      "resumo": "",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "a0fa9e1e4609e99e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em programa de TV, Flávio promete criar o \"Ministério da Prosperidade\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123150/em-programa-de-tv-flavio-promete-criar-o-ministerio-da-prosperidade",
+      "resumo": "Senador apresenta criação da pasta como instrumento para estimular a autonomia financeira e facilitar a entrada no mercado de trabalho.",
+      "publicado_em": "2026-10-09T15:43:30-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "6f9803b40f89b86c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Trânsito no Brasil mata mais do que em guerras",
+      "link": "https://www.congressoemfoco.com.br/artigo/123149/transito-no-brasil-mata-mais-do-que-em-guerras",
+      "resumo": "Brasil registrou mais de 37 mil mortes no trânsito em 2024, enquanto mudanças na CNH levantam preocupações sobre a segurança viária.",
+      "publicado_em": "2026-10-09T15:23:18-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "ec5199944fdb72a8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vantagem de Lula caiu 5,7 milhões de votos nas cidades menores",
+      "link": "https://www.congressoemfoco.com.br/noticia/123148/vantagem-de-lula-caiu-5-7-milhoes-de-votos-nas-cidades-menores",
+      "resumo": "Nos municípios de até 100 mil eleitores, Lula perdeu 2 milhões de votos e Flávio recebeu 3,67 milhões a mais que Jair. Nas cidades maiores, a mudança na diferença entre os candidatos foi menor.",
+      "publicado_em": "2026-10-09T14:43:12-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "718bcf648c880682",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Guilherme Cortez: \"A esperança da esquerda passa pela renovação\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123146/guilherme-cortez--a-esperanca-da-esquerda-passa-pela-renovacao",
+      "resumo": "Deputado eleito defendeu que esquerda deve compreender apelo político de lideranças da direita para conquistar jovens.",
+      "publicado_em": "2026-10-09T14:30:53-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
       "id": "8164ce713dea19c5",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -598,6 +848,20 @@
         "acao"
       ],
       "coletado_em": "2026-10-09T14:20:23-03:00"
+    },
+    {
+      "id": "22ecd89cc70f0152",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula fala sobre vídeos na campanha: \"estou virando o rei das selfies\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123142/lula-fala-sobre-videos-na-campanha--estou-virando-o-rei-das-selfies",
+      "resumo": "Presidente destacou maior presença nas redes sociais durante caminhada em Ceilândia e previu debates na televisão e na internet.",
+      "publicado_em": "2026-10-09T13:12:34-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
     },
     {
       "id": "9d3fba2f0b82b8b6",
@@ -819,6 +1083,146 @@
         "acao"
       ],
       "coletado_em": "2026-10-09T14:20:23-03:00"
+    },
+    {
+      "id": "355e5a16f0c05840",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJRO vence Categoria CNJ do Prêmio Innovare com iniciativa voltada à transparência",
+      "link": "https://www.cnj.jus.br/tjro-vence-categoria-cnj-do-premio-innovare-com-iniciativa-voltada-a-transparencia/",
+      "resumo": "O Tribunal de Justiça de Rondônia (TJRO) conquistou o primeiro lugar na Categoria CNJ da 23ª edição do Prêmio Innovare com o seu Programa de Transparência Institucional. Criado em 2024, o projeto consolidou-se como uma política ativa de acesso à informação, reunindo dados essenciais sobre a atuação ",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "99cbabbe17d3e5a2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Regularização tributária: trabalho colaborativo contribui para redução de execuções fiscais",
+      "link": "https://www.cnj.jus.br/regularizacao-tributaria-trabalho-colaborativo-contribui-para-reducao-de-execucoes-fiscais/",
+      "resumo": "Adoção de medidas cooperativas e o esforço concentrado em mobilizações como a Semana Nacional de Regularização Tributária têm impulsionado a queda na quantidade de execuções fiscais no Brasil. Segundo dados do Conselho Nacional de Justiça (CNJ), o volume desses processos recuou 40% nos últimos três ",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "75d28afef38191ea",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Visita de juízes da Corte Suprema do Peru promove troca de experiências sobre inovação no Judiciário",
+      "link": "https://www.cnj.jus.br/visita-de-juizes-da-corte-suprema-do-peru-promove-troca-de-experiencias-sobre-inovacao-no-judiciario/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) recebeu, nesta quinta-feira (8/10), uma delegação de magistrados titulares da Corte Suprema de Justiça do Peru. O encontro, voltado aos avanços e desafios da modernização do Judiciário, foi conduzido pelo juiz auxiliar da Presidência do CNJ Henrique Dada Paiva e ",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "f48f9e4d22be4221",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Escutar a criança pode ser o primeiro passo para protegê-la",
+      "link": "https://www.cnj.jus.br/escutar-a-crianca-pode-ser-o-primeiro-passo-para-protege-la/",
+      "resumo": "Medo de determinadas pessoas, alterações no sono, irritabilidade e tristeza excessiva podem ser sinais de sofrimento infantil. Embora não comprovem violência, merecem atenção dos adultos. Às vésperas do Dia das Crianças, celebrado em 12 de outubro, o Tribunal de Justiça do Tocantins (TJTO) inicia a ",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "bf6a736f0fc4d811",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Juizados especiais de Teresina se destacam em produtividade e celeridade processual",
+      "link": "https://www.cnj.jus.br/juizados-especiais-de-teresina-se-destacam-em-produtividade-e-celeridade-processual/",
+      "resumo": "Os Juizados Especiais Cíveis e Criminais (JECCs) de Teresina apresentam resultados de destaque nos indicadores de produtividade e celeridade processual. De acordo com dados do sistema DataCor, nesta quarta-feira (7), o 3º Juizado Especial de Teresina ocupa a 1ª posição entre todos os juizados do est",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "2db6e9ecd8e61420",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Escola Barão do Rio Branco, em Belém (PA), recebe ação sobre direitos das crianças",
+      "link": "https://www.cnj.jus.br/escola-barao-do-rio-branco-em-belem-pa-recebe-acao-sobre-direitos-das-criancas/",
+      "resumo": "O Tribunal de Justiça do Pará (TJPA) promoveu, na última terça-feira, 6 de outubro, a ação “Eu Sou Criança, Eu Tenho Direitos!”, na Escola Estadual Barão do Rio Branco, em Belém. Alusiva ao Dia das Crianças, a iniciativa foi destinada a cerca de 240 estudantes do 1º ao 5º ano",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "576db4dcff1da91f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TRF-4 é finalista com prática que transforma cannabis apreendida em instrumento de política de saúde",
+      "link": "https://www.cnj.jus.br/trf4-e-finalista-com-pratica-que-transforma-cannabis-apreendida-em-instrumento-de-politica-de-saude/",
+      "resumo": "O Tribunal Regional Federal da 4ª Região (TRF-4) é finalista do Prêmio Innovare — Edição 2026, na categoria “tribunal”, com a prática “Canabidiol: do produto do crime ao produto da saúde”. Desenvolvida em articulação interinstitucional no âmbito do InspiraLab, o laboratório de inovação do TRF-4, a i",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "47b2a74487514223",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto permite prefeitura mudar destino de áreas de loteamento",
+      "link": "https://www.camara.leg.br/noticias/1305283-projeto-permite-prefeitura-mudar-destino-de-areas-de-loteamento",
+      "resumo": "",
+      "publicado_em": "2026-10-09T15:10:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
+      "id": "e819caa3875bb843",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto exclui salário de Jovem Aprendiz do cálculo de renda do Bolsa Família",
+      "link": "https://www.camara.leg.br/noticias/1306625-projeto-exclui-salario-de-jovem-aprendiz-do-calculo-de-renda-do-bolsa-familia",
+      "resumo": "",
+      "publicado_em": "2026-10-09T14:17:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
     },
     {
       "id": "f578c7beb22cc5b7",
@@ -1767,6 +2171,20 @@
       "coletado_em": "2026-10-08T16:33:17-03:00"
     },
     {
+      "id": "87ce43aeb961e9cc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Tenho plena convicção de que Lula pode ganhar\", diz Guilherme Cortez",
+      "link": "https://www.congressoemfoco.com.br/noticia/123107/tenho-plena-conviccao-de-que-lula-pode-ganhar--diz-guilherme-cortez",
+      "resumo": "Deputado eleito avaliou que a campanha do primeiro turno não despertou o engajamento necessário, mas que o cenário pode mudar.",
+      "publicado_em": "2026-10-08T15:30:19-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
+    },
+    {
       "id": "ddeb987c476c2a3f",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2186,6 +2604,20 @@
         "acao"
       ],
       "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "02d1f3d1263086f9",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ integra Escritórios Sociais e Casas de Justiça e Cidadania para ampliar atendimento a egressos",
+      "link": "https://www.cnj.jus.br/cnj-integra-escritorios-sociais-e-casas-de-justica-e-cidadania-para-ampliar-atendimento-a-egressos/",
+      "resumo": "Duas políticas de atendimento a pessoas que deixam o sistema prisional serão trabalhadas de forma articulada e integrada pelo Conselho Nacional de Justiça (CNJ). A conexão será feita entre os Escritórios Sociais, espaços multissetoriais criados em 2016 que já atendem pessoas egressas e seus familiar",
+      "publicado_em": "2026-10-08T12:00:00-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T16:07:48-03:00"
     },
     {
       "id": "bd484679f3bc9495",
