@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-10T13:06:28-03:00",
+  "gerado_em": "2026-10-10T15:06:32-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -1757,7 +1757,7 @@
       "fonte_nome": "CNJ",
       "titulo": "CNJ apresenta ao TRF-6 diretrizes para valorizar catadores de recicláveis",
       "link": "https://www.cnj.jus.br/cnj-apresenta-ao-trf6-diretrizes-para-valorizar-catadores-de-reciclaveis/",
-      "resumo": "O Tribunal Regional Federal da 6ª Região (TRF-6) recebeu, nesta sexta-feira (9/10), em sua sede, em Belo Horizonte, o conselheiro do Conselho Nacional de Justiça (CNJ) Paulo Regis Machado Botelho para uma reunião com o presidente da Corte, desembargador federal Ricardo Machado Rabelo. O encontro tra",
+      "resumo": "O Tribunal Regional Federal da 6ª Região (TRF-6) recebeu, nesta sexta-feira (9/10), em sua sede, em Belo Horizonte, o conselheiro do Conselho Nacional de Justiça (CNJ) Paulo Regis Machado Botelho para uma reunião com o presidente da Corte, o desembargador federal Ricardo Machado Rabelo. O encontro t",
       "publicado_em": "2026-10-09T12:00:00-03:00",
       "dia": "2026-10-09",
       "data_estimada": true,
@@ -1771,7 +1771,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Fachin defende fortalecimento da magistratura e preservação das garantias constitucionais",
       "link": "https://www.cnj.jus.br/fachin-defende-fortalecimento-da-magistratura-e-preservacao-das-garantias-constitucionais/",
-      "resumo": "Em encontro com presidentes de Tribunais de Justiça, presidente do Conselho Nacional de Justiça (CNJ) e do STF afirmou que a modernização do Judiciário deve conciliar eficiência, independência judicial e respeito à Constituição O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de",
+      "resumo": "Em encontro com presidentes de tribunais de justiça, presidente do Conselho Nacional de Justiça (CNJ) e do STF afirmou que a modernização do Judiciário deve conciliar eficiência, independência judicial e respeito à Constituição. O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional d",
       "publicado_em": "2026-10-09T12:00:00-03:00",
       "dia": "2026-10-09",
       "data_estimada": true,
@@ -6191,6 +6191,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-06T14:02:46-03:00"
+    },
+    {
+      "id": "404c27dff3e8207f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Duda Salabert propõe licença parental compartilhada de 360 dias",
+      "link": "https://www.congressoemfoco.com.br/noticia/123029/duda-salabert-propoe-licenca-parental-compartilhada-de-360-dias",
+      "resumo": "Proposta prevê 60 dias intransferíveis para cada responsável e outros 240 dias que poderão ser compartilhados.",
+      "publicado_em": "2026-10-06T13:29:20-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-10T15:06:32-03:00"
     },
     {
       "id": "b212ac1f54e5b7b2",
