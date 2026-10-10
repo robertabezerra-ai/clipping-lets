@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-10T15:06:32-03:00",
+  "gerado_em": "2026-10-10T16:44:22-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -298,6 +298,22 @@ window.DADOS = {
         "cocaina"
       ],
       "coletado_em": "2026-10-10T13:06:28-03:00"
+    },
+    {
+      "id": "d178c367ab140565",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Douglas Ruas é eleito governador do RJ após retotalização de votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123159/douglas-ruas-e-eleito-governador-do-rj-apos-retotalizacao-de-votos",
+      "resumo": "Recontagem ocorre após TSE determinar anulação dos votos recebidos por Anthony Garotinho.",
+      "publicado_em": "2026-10-10T15:19:30-03:00",
+      "dia": "2026-10-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-10T16:44:22-03:00"
     },
     {
       "id": "e26c23fe5e1e4b31",
