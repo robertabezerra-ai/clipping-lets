@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-10T16:44:22-03:00",
+  "gerado_em": "2026-10-10T20:06:22-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -298,6 +298,50 @@ window.DADOS = {
         "cocaina"
       ],
       "coletado_em": "2026-10-10T13:06:28-03:00"
+    },
+    {
+      "id": "0ba0b95c1305ca60",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio diz que \"Bolsonaro colocará faixa de presidente no seu filho\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123162/flavio-diz-que-bolsonaro-colocara-faixa-de-presidente-no-seu-filho",
+      "resumo": "Durante ato de campanha no Rio de Janeiro, candidato do PL afirmou que o pai participará de sua posse.",
+      "publicado_em": "2026-10-10T18:00:47-03:00",
+      "dia": "2026-10-10",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-10-10T20:06:22-03:00"
+    },
+    {
+      "id": "03df3952d4d07e40",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"De onde vai cortar R$ 250 bi?\", questiona Lula a Flávio Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/123161/de-onde-vai-cortar-r-250-bi--questiona-lula-a-flavio-bolsonaro",
+      "resumo": "Presidente desafiou candidato do PL a apontar quais áreas seria afetadas pelo \"tesouraço\".",
+      "publicado_em": "2026-10-10T17:39:40-03:00",
+      "dia": "2026-10-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-10T20:06:22-03:00"
+    },
+    {
+      "id": "f6dc18c7024bc46a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE questiona Meta sobre possível restrição a campanha de Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/123160/tse-questiona-meta-sobre-possivel-restricao-a-campanha-de-lula",
+      "resumo": "Ministro Marco Aurélio Bellizze também solicitou informações sobre rede de 255 perfis automatizados.",
+      "publicado_em": "2026-10-10T16:50:05-03:00",
+      "dia": "2026-10-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-10T20:06:22-03:00"
     },
     {
       "id": "d178c367ab140565",
@@ -2994,6 +3038,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "82e05443b8fb892f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto amplia desconto na luz para famílias com pacientes em homecare",
+      "link": "https://www.congressoemfoco.com.br/noticia/123097/projeto-amplia-desconto-na-luz-para-familias-com-pacientes-em-homecare",
+      "resumo": "Texto de Pedro Campos aumenta limite de consumo coberto pela Tarifa Social de Energia Elétrica nesses casos.",
+      "publicado_em": "2026-10-08T12:34:15-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-10T20:06:22-03:00"
     },
     {
       "id": "125452f36f528005",
@@ -6076,6 +6134,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "047aeeeac16b3cd5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê devolução de valores perdidos por apostadores em bets",
+      "link": "https://www.congressoemfoco.com.br/noticia/123039/projeto-preve-devolucao-de-valores-perdidos-por-apostadores-em-bets",
+      "resumo": "Proposta obriga operadoras a restituir valores perdidos e cria regras para apuração, pagamento e responsabilização.",
+      "publicado_em": "2026-10-06T16:14:15-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-10T20:06:22-03:00"
     },
     {
       "id": "6d47857533b2744a",
