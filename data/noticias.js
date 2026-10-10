@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-09T20:43:26-03:00",
+  "gerado_em": "2026-10-10T13:06:28-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,7 +173,7 @@ window.DADOS = {
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 27,
+      "itens": 28,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.gov.br', port=443): Read timed out. (read timeout=20)"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -250,6 +250,69 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "3463426c3ac4bc48",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Novos julgados da área criminal integram publicação do Cadicrim",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115644&pagina=1",
+      "resumo": "Edição reúne decisões selecionadas de agosto.\n            \nO Centro de Apoio da Seção de Direito Criminal do Tribunal de Justiça de São Paulo (Cadicrim) publicou a",
+      "publicado_em": "2026-10-10T12:00:00-03:00",
+      "dia": "2026-10-10",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "julga",
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-10-10T13:06:28-03:00"
+    },
+    {
+      "id": "eeeb0dfdd4d613c9",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Validade de lei que amplia tempo gratuito em estacionamentos privados para PcDs é destaque no Supremo na Semana",
+      "link": "https://noticias.stf.jus.br/postsnoticias/validade-de-lei-que-amplia-tempo-gratuito-em-estacionamentos-privados-para-pcds-e-destaque-no-supremo-na-semana/",
+      "resumo": "Episódio #205 está disponível nas principais plataformas de áudio e no YouTube",
+      "publicado_em": "2026-10-10T12:05:00-03:00",
+      "dia": "2026-10-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-10T13:06:28-03:00"
+    },
+    {
+      "id": "aa782ea2112cdd10",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal e Polícia Federal apreendem aproximadamente 17 toneladas de insumo químico utilizado na produção de cocaína em Corumbá",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-e-policia-federal-apreendem-aproximadamente-17-toneladas-de-insumo-quimico-utilizado-na-producao-de-cocaina-em-corumba",
+      "resumo": "",
+      "publicado_em": "2026-10-10T12:48:00-03:00",
+      "dia": "2026-10-10",
+      "data_estimada": false,
+      "score": 4,
+      "tags": [
+        "apreende",
+        "cocaina"
+      ],
+      "coletado_em": "2026-10-10T13:06:28-03:00"
+    },
+    {
+      "id": "e26c23fe5e1e4b31",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vice-governador de Alagoas renuncia para apoiar JHC em transição",
+      "link": "https://www.congressoemfoco.com.br/noticia/123158/vice-governador-de-alagoas-renuncia-para-apoiar-jhc-em-transicao",
+      "resumo": "Ronaldo Lessa afirmou ser motivado por restrições ao uso de espaços do governo após declarar apoio.",
+      "publicado_em": "2026-10-10T11:26:54-03:00",
+      "dia": "2026-10-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-10T13:06:28-03:00"
+    },
     {
       "id": "ad422193a9fe1099",
       "fonte_id": "trt2",
@@ -537,7 +600,7 @@ window.DADOS = {
       "id": "4d56a07ebca00462",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "Fim da 6x1: Senado pode concluir 1º turno da votação em mais duas sessões",
+      "titulo": "Fim da escala  6x1: Davi marca votação em 1º turno para quarta",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/10/09/fim-da-6-x-1-senado-pode-concluir-1o-turno-da-votacao-em-mais-duas-sessoes",
       "resumo": "",
       "publicado_em": "2026-10-09T18:39:00-03:00",
@@ -1148,6 +1211,20 @@ window.DADOS = {
       "coletado_em": "2026-10-09T16:07:48-03:00"
     },
     {
+      "id": "4114c4b46f35a1c6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Campanha de Lula anuncia cinco ações contra reportagem da Veja",
+      "link": "https://www.congressoemfoco.com.br/noticia/123157/campanha-de-lula-anuncia-cinco-acoes-contra-reportagem-da-veja",
+      "resumo": "Equipe do petista solicita exclusão da matéria, contesta áudio atribuído a Vorcaro e pede perícia à PF.",
+      "publicado_em": "2026-10-09T20:35:19-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-10T13:06:28-03:00"
+    },
+    {
       "id": "0007c290acb1d248",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1407,6 +1484,36 @@ window.DADOS = {
       "coletado_em": "2026-10-09T14:20:23-03:00"
     },
     {
+      "id": "a78c2131c0f9a435",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Filhos da política e das redes: quem são os jovens eleitos na Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/123133/filhos-da-politica-e-das-redes-quem-sao-os-jovens-eleitos-na-camara",
+      "resumo": "Herdeiros políticos, influenciadores e lideranças estudantis estão entre os 29 deputados com até 30 anos. Grupo inclui o mais jovem da história e dois recordistas de votos.",
+      "publicado_em": "2026-10-09T10:51:28-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-10T13:06:28-03:00"
+    },
+    {
+      "id": "e86e81aaaf22d227",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "As distorções do sistema eleitoral para o Congresso",
+      "link": "https://www.congressoemfoco.com.br/coluna/123132/as-distorcoes-do-sistema-eleitoral-para-o-congresso",
+      "resumo": "Crescimento do PL, baixa renovação parlamentar e fragilidades do sistema eleitoral reacendem o debate sobre governabilidade e representação política.",
+      "publicado_em": "2026-10-09T10:38:41-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-10T13:06:28-03:00"
+    },
+    {
       "id": "83f695bb5a467185",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1650,7 +1757,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "CNJ apresenta ao TRF-6 diretrizes para valorizar catadores de recicláveis",
       "link": "https://www.cnj.jus.br/cnj-apresenta-ao-trf6-diretrizes-para-valorizar-catadores-de-reciclaveis/",
-      "resumo": "O Tribunal Regional Federal da 6ª Região (TRF-6) recebeu, nesta sexta-feira (9/10), em sua sede, em Belo Horizonte, o conselheiro do Conselho Nacional de Justiça (CNJ) Paulo Regis Machado Botelho para uma reunião com o presidente da Corte, o desembargador federal Ricardo Machado Rabelo. O encontro t",
+      "resumo": "O Tribunal Regional Federal da 6ª Região (TRF-6) recebeu, nesta sexta-feira (9/10), em sua sede, em Belo Horizonte, o conselheiro do Conselho Nacional de Justiça (CNJ) Paulo Regis Machado Botelho para uma reunião com o presidente da Corte, desembargador federal Ricardo Machado Rabelo. O encontro tra",
       "publicado_em": "2026-10-09T12:00:00-03:00",
       "dia": "2026-10-09",
       "data_estimada": true,
@@ -1664,7 +1771,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Fachin defende fortalecimento da magistratura e preservação das garantias constitucionais",
       "link": "https://www.cnj.jus.br/fachin-defende-fortalecimento-da-magistratura-e-preservacao-das-garantias-constitucionais/",
-      "resumo": "Em encontro com presidentes de tribunais de justiça, presidente do Conselho Nacional de Justiça (CNJ) e do STF afirmou que a modernização do Judiciário deve conciliar eficiência, independência judicial e respeito à Constituição. O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional d",
+      "resumo": "Em encontro com presidentes de Tribunais de Justiça, presidente do Conselho Nacional de Justiça (CNJ) e do STF afirmou que a modernização do Judiciário deve conciliar eficiência, independência judicial e respeito à Constituição O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de",
       "publicado_em": "2026-10-09T12:00:00-03:00",
       "dia": "2026-10-09",
       "data_estimada": true,
@@ -6027,6 +6134,20 @@ window.DADOS = {
       "coletado_em": "2026-10-06T16:12:00-03:00"
     },
     {
+      "id": "35b1defe4fe03b2c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê selfie para confirmar fotos de perfil no WhatsApp",
+      "link": "https://www.congressoemfoco.com.br/noticia/123033/projeto-preve-selfie-para-confirmar-fotos-de-perfil-no-whatsapp",
+      "resumo": "Proposta prevê selfie para confirmar imagens de rosto usadas em perfis, com regras para proteção dos dados biométricos.",
+      "publicado_em": "2026-10-06T14:29:37-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-10T13:06:28-03:00"
+    },
+    {
       "id": "565356517277cd0a",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -6116,6 +6237,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-06T17:46:54-03:00"
+    },
+    {
+      "id": "9b32cc2461557537",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto aumenta teto do MEI para R$ 140 mil e autoriza dois empregados",
+      "link": "https://www.congressoemfoco.com.br/noticia/123025/projeto-aumenta-teto-do-mei-para-r-140-mil-e-autoriza-dois-empregados",
+      "resumo": "Limite de faturamento será corrigido anualmente pela inflação, sem redução do valor em caso de queda do índice.",
+      "publicado_em": "2026-10-06T12:14:03-03:00",
+      "dia": "2026-10-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-10T13:06:28-03:00"
     },
     {
       "id": "e36504454faa96b6",
