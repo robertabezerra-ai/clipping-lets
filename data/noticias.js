@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-11T15:30:42-03:00",
+  "gerado_em": "2026-10-11T16:54:15-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -266,6 +266,39 @@ window.DADOS = {
         "indenizar"
       ],
       "coletado_em": "2026-10-11T13:33:50-03:00"
+    },
+    {
+      "id": "c4986f04703740cc",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF manifesta pesar pelo falecimento do pai do ministro Cristiano Zanin",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-manifesta-pesar-pelo-falecimento-do-pai-do-ministro-cristiano-zanin/",
+      "resumo": "Nelson Martins, de 90 anos, era advogado e faleceu neste domingo (11), em Piracicaba (SP)",
+      "publicado_em": "2026-10-11T15:55:20-03:00",
+      "dia": "2026-10-11",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "advogado",
+        "falecimento"
+      ],
+      "coletado_em": "2026-10-11T16:54:15-03:00"
+    },
+    {
+      "id": "1ac9506a551d17f8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Corrida ao TSE revela acirramento da disputa presidencial",
+      "link": "https://www.congressoemfoco.com.br/noticia/123169/corrida-ao-tse-revela-acirramento-da-disputa-presidencial",
+      "resumo": "Faltando 14 dias para o segundo turno, campanhas de Lula e Flávio Bolsonaro intensificam batalha judicial. Decisões dos últimos dias atingem os dois lados e expõem a temperatura da eleição.",
+      "publicado_em": "2026-10-11T16:08:03-03:00",
+      "dia": "2026-10-11",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-10-11T16:54:15-03:00"
     },
     {
       "id": "10e94f709b314329",
