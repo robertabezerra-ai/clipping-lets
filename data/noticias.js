@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-11T13:33:50-03:00",
+  "gerado_em": "2026-10-11T15:30:42-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -266,6 +266,67 @@ window.DADOS = {
         "indenizar"
       ],
       "coletado_em": "2026-10-11T13:33:50-03:00"
+    },
+    {
+      "id": "10e94f709b314329",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula cobra comportamento \"civilizado\" de Nunes após suspensão de canal",
+      "link": "https://www.congressoemfoco.com.br/noticia/123168/lula-cobra-comportamento-civilizado-de-nunes-apos-suspensao-de-canal",
+      "resumo": "Presidente classificou a medida como absurda e afirmou perceber decisões que considera tendenciosas contra sua candidatura.",
+      "publicado_em": "2026-10-11T14:04:07-03:00",
+      "dia": "2026-10-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-11T15:30:42-03:00"
+    },
+    {
+      "id": "a4f66f17969460fb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes suspendeu canal de Janones enquanto corregedor analisava caso",
+      "link": "https://www.congressoemfoco.com.br/noticia/123167/nunes-suspendeu-canal-de-janones-enquanto-corregedor-analisava-caso",
+      "resumo": "Ricardo Villas Bôas Cueva já havia examinado pedido semelhante e solicitado esclarecimentos antes de decidir sobre a suspensão do \"Exército do Lula\".",
+      "publicado_em": "2026-10-11T13:46:25-03:00",
+      "dia": "2026-10-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-11T15:30:42-03:00"
+    },
+    {
+      "id": "1582a2e5f4001819",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes manda guardar por um ano dados do canal \"Exército do Lula\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123166/nunes-manda-guardar-por-um-ano-dados-do-canal-exercito-do-lula",
+      "resumo": "Decisão determina preservação de publicações apagadas, histórico de seguidores, visualizações, reações e encaminhamentos do canal.",
+      "publicado_em": "2026-10-11T13:31:15-03:00",
+      "dia": "2026-10-11",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-11T15:30:42-03:00"
+    },
+    {
+      "id": "d31cf334a95002c6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Janones critica suspensão do canal pró-Lula: \"censura já começou\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123165/janones-critica-suspensao-do-canal-pro-lula--censura-ja-comecou",
+      "resumo": "Deputado anunciou a intenção de transferir a mobilização para o Instagram.",
+      "publicado_em": "2026-10-11T13:26:48-03:00",
+      "dia": "2026-10-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-11T15:30:42-03:00"
     },
     {
       "id": "9e4bd48f61f6eb97",
@@ -2998,6 +3059,24 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-08T18:01:11-03:00"
+    },
+    {
+      "id": "1ba6e4549e1f1528",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alberto Neto defende notificação a parentes de vítimas de feminicídio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123110/alberto-neto-defende-notificacao-a-parentes-de-vitimas-de-feminicidio",
+      "resumo": "Projeto de lei torna obrigatória a notificação judicial a familiares de vítimas sobre atos relacionados à condenação e pena do autor.",
+      "publicado_em": "2026-10-08T16:25:22-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "condenacao",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-11T15:30:42-03:00"
     },
     {
       "id": "b2241853ed3084f4",
