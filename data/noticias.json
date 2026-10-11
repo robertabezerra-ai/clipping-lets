@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-10T20:06:22-03:00",
+  "gerado_em": "2026-10-11T13:33:50-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -250,6 +250,53 @@
     }
   ],
   "noticias": [
+    {
+      "id": "1303a9708ea6f4e2",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Plataforma de entregas indenizará empresa por extravio de peças de luxo",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115643&pagina=1",
+      "resumo": "Mercadoria avaliada em R$ 105 mil. \n \n\tA 20ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve decisão da 23ª Vara Cível",
+      "publicado_em": "2026-10-11T12:00:00-03:00",
+      "dia": "2026-10-11",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "decisao",
+        "indenizar"
+      ],
+      "coletado_em": "2026-10-11T13:33:50-03:00"
+    },
+    {
+      "id": "9e4bd48f61f6eb97",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques manda suspender canal pró-Lula administrado por Janones",
+      "link": "https://www.congressoemfoco.com.br/noticia/123164/nunes-marques-manda-suspender-canal-pro-lula-administrado-por-janones",
+      "resumo": "Ministro ordenou que a empresa apresente, em até 48 horas, informações sobre o funcionamento do canal.",
+      "publicado_em": "2026-10-11T12:41:30-03:00",
+      "dia": "2026-10-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-11T13:33:50-03:00"
+    },
+    {
+      "id": "06fdff52e6fab9f2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes manda apagar peça eleitoral de Lula que associa Flávio ao Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/123163/nunes-manda-apagar-peca-eleitoral-de-lula-que-associa-flavio-ao-master",
+      "resumo": "Trecho de propaganda exibida na televisão também associa Alfredo Gaspar a estupro de vulnerável, investigação suspensa pelo STF.",
+      "publicado_em": "2026-10-11T11:25:25-03:00",
+      "dia": "2026-10-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-11T13:33:50-03:00"
+    },
     {
       "id": "3463426c3ac4bc48",
       "fonte_id": "tjsp",
@@ -1498,6 +1545,24 @@
       "coletado_em": "2026-10-09T14:20:23-03:00"
     },
     {
+      "id": "ddf8e4aef1963e60",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Prazo de votação da MP do Enamed obrigatório acaba sexta-feira",
+      "link": "https://www.congressoemfoco.com.br/noticia/123138/prazo-de-votacao-da-mp-do-enamed-obrigatorio-acaba-sexta-feira",
+      "resumo": "Texto exige desempenho mínimo no exame para quem ingressou em Medicina desde junho e prevê novas tentativas para alunos reprovados.",
+      "publicado_em": "2026-10-09T11:50:55-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "prazo",
+        "obrigatorio",
+        "acao"
+      ],
+      "coletado_em": "2026-10-11T13:33:50-03:00"
+    },
+    {
       "id": "086dd0dfbb0af8dd",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1574,6 +1639,22 @@
       "coletado_em": "2026-10-10T13:06:28-03:00"
     },
     {
+      "id": "5e36ea5b28f17c6b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe exame obrigatório para registro de administradores",
+      "link": "https://www.congressoemfoco.com.br/noticia/123131/deputado-propoe-exame-obrigatorio-para-registro-de-administradores",
+      "resumo": "Conforme projeto de lei, a prova deve ser aplicada em todo o país pelo menos duas vezes por ano.",
+      "publicado_em": "2026-10-09T10:37:16-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "obrigatorio"
+      ],
+      "coletado_em": "2026-10-11T13:33:50-03:00"
+    },
+    {
       "id": "83f695bb5a467185",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1619,6 +1700,20 @@
         "processo"
       ],
       "coletado_em": "2026-10-09T14:20:23-03:00"
+    },
+    {
+      "id": "efa90c27a92f7df4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto inclui artesãos de baixa renda como segurados da Previdência",
+      "link": "https://www.congressoemfoco.com.br/noticia/123126/projeto-inclui-artesaos-de-baixa-renda-como-segurados-da-previdencia",
+      "resumo": "Texto prevê enquadramento especial para quem trabalha em economia familiar e obtém até um salário mínimo com a atividade.",
+      "publicado_em": "2026-10-09T08:47:37-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-11T13:33:50-03:00"
     },
     {
       "id": "0d88d36d6abbe00d",
@@ -3066,6 +3161,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-08T16:33:17-03:00"
+    },
+    {
+      "id": "7c567d80bec5f0a6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto proíbe conta independente nas redes para menores de 16",
+      "link": "https://www.congressoemfoco.com.br/noticia/123095/projeto-proibe-conta-independente-nas-redes-para-menores-de-16",
+      "resumo": "Proposta estabelece limites de uso, supervisão por idade e restrições a recursos considerados de risco em plataformas digitais.",
+      "publicado_em": "2026-10-08T12:09:10-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-10-11T13:33:50-03:00"
     },
     {
       "id": "e6e1587a93b23109",
