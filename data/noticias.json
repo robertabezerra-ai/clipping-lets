@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-11T16:54:15-03:00",
+  "gerado_em": "2026-10-11T20:19:21-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -283,6 +283,54 @@
         "falecimento"
       ],
       "coletado_em": "2026-10-11T16:54:15-03:00"
+    },
+    {
+      "id": "1dbfe2deca4a3d7a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Campanha de Flávio acusa Justiça Eleitoral de \"complacência\" com Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/123172/campanha-de-flavio-acusa-justica-eleitoral-de-complacencia-com-lula",
+      "resumo": "Em nota, candidatura do PL critica restabelecimento do \"Exército do Lula\" e defende atuação de Nunes Marques.",
+      "publicado_em": "2026-10-11T17:17:10-03:00",
+      "dia": "2026-10-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-11T20:19:21-03:00"
+    },
+    {
+      "id": "f96236ada6dbaa26",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Corregedor do TSE manda reativar canal \"Exército de Lula\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123171/corregedor-do-tse-manda-reativar-canal-exercito-de-lula",
+      "resumo": "Ricardo Villas Bôas Cueva solicitou que decisão seja analisada em plenário virtual com urgência.",
+      "publicado_em": "2026-10-11T16:47:30-03:00",
+      "dia": "2026-10-11",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-11T20:19:21-03:00"
+    },
+    {
+      "id": "a60a1e1cdfbb7083",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio diz que canal pró-Lula foi criado para \"divulgação de mentiras\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123170/flavio-diz-que-canal-pro-lula-foi-criado-divulgacao-de-mentiras",
+      "resumo": "Presidenciável acusou adversários de utilizar um canal de comunicação para disseminar o que chamou de \"mentiras em massa\".",
+      "publicado_em": "2026-10-11T16:27:56-03:00",
+      "dia": "2026-10-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-11T20:19:21-03:00"
     },
     {
       "id": "1ac9506a551d17f8",
@@ -3128,6 +3176,23 @@
       "coletado_em": "2026-10-08T16:33:17-03:00"
     },
     {
+      "id": "b58eb56f58f2d6df",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê até cinco anos de prisão por exploração de cães e gatos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123108/projeto-preve-ate-cinco-anos-de-prisao-por-exploracao-de-caes-e-gatos",
+      "resumo": "Proposta exige identificação antes da venda, prevê multas e até cinco anos de prisão para quem participar conscientemente de exploração abusiva.",
+      "publicado_em": "2026-10-08T15:59:53-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-10-11T20:19:21-03:00"
+    },
+    {
       "id": "87ce43aeb961e9cc",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -3231,6 +3296,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-08T14:44:08-03:00"
+    },
+    {
+      "id": "05e072d6a38c40e4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Proposta amplia direito ao trabalho remoto para pessoas com câncer",
+      "link": "https://www.congressoemfoco.com.br/noticia/123099/proposta-amplia-direito-ao-trabalho-remoto-para-pessoas-com-cancer",
+      "resumo": "Projeto permite trabalho remoto quando as atividades forem compatíveis e garante ao empregado a escolha de permanecer no regime presencial.",
+      "publicado_em": "2026-10-08T13:12:43-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-11T20:19:21-03:00"
     },
     {
       "id": "94aead86a862a81f",
