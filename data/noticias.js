@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-12T18:54:16-03:00",
+  "gerado_em": "2026-10-12T19:43:07-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -279,6 +279,22 @@ window.DADOS = {
         "visita"
       ],
       "coletado_em": "2026-10-12T17:07:17-03:00"
+    },
+    {
+      "id": "abe28b2bcbcfe18a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pauta do Senado tem 6x1, proteção a gestantes e nova vacina no SUS",
+      "link": "https://www.congressoemfoco.com.br/noticia/123177/pauta-do-senado-tem-6x1-protecao-a-gestantes-e-nova-vacina-no-sus",
+      "resumo": "PEC que prevê dois dias de descanso semanal sem redução salarial será discutida em Plenário, mas ainda não tem votação definitiva marcada.",
+      "publicado_em": "2026-10-12T13:00:31-03:00",
+      "dia": "2026-10-12",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-12T19:43:07-03:00"
     },
     {
       "id": "8b83afe20c9e9858",
