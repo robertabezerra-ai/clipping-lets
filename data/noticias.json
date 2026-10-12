@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-11T20:19:21-03:00",
+  "gerado_em": "2026-10-12T17:07:17-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -250,6 +250,116 @@
     }
   ],
   "noticias": [
+    {
+      "id": "2839b2127a2318e3",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Apadrinhamento Afetivo: oportunidade de convivência familiar a crianças acolhidas",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115689&pagina=1",
+      "resumo": "Objetivo é apoiar jovens com remotas chances de adoção. \n \n \n\tOs programas de Apadrinhamento Afetivo e Financeiro no Estado de São Paulo contam com uma",
+      "publicado_em": "2026-10-12T12:00:00-03:00",
+      "dia": "2026-10-12",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-12T17:07:17-03:00"
+    },
+    {
+      "id": "08e66524064538b3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio vai à missa e celebra retorno de visitas ao pai: \"ansioso\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123178/flavio-vai-a-missa-e-celebra-retorno-de-visitas-ao-pai--ansioso",
+      "resumo": "Candidato à presidência participou de missa na Catedral de Brasília no Dia de Nossa Senhora Aparecida e afirmou estar ansioso para abraçar o pai.",
+      "publicado_em": "2026-10-12T14:05:45-03:00",
+      "dia": "2026-10-12",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-12T17:07:17-03:00"
+    },
+    {
+      "id": "8b83afe20c9e9858",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula critica ofensa à Nossa Senhora: \"não querem respeitar a religião\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123176/lula-critica-ofensa-a-nossa-senhora--nao-querem-respeitar-a-religiao",
+      "resumo": "Presidente defende liberdade religiosa após celebração do Dia da Padroeira do Brasil no Palácio da Alvorada.",
+      "publicado_em": "2026-10-12T12:13:05-03:00",
+      "dia": "2026-10-12",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-12T17:07:17-03:00"
+    },
+    {
+      "id": "c06140b8f014fc49",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Torcida do Flamengo critica \"gol contra de Lula\" sobre bets",
+      "link": "https://www.congressoemfoco.com.br/noticia/123175/torcida-do-flamengo-critica-gol-contra-de-lula-sobre-bets",
+      "resumo": "Jogo também foi marcado por manifestações em apoio ao fim da escala 6x1.",
+      "publicado_em": "2026-10-12T10:24:43-03:00",
+      "dia": "2026-10-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-12T17:07:17-03:00"
+    },
+    {
+      "id": "b744d55ddea583af",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes autoriza retomada de visitas de Flávio Bolsonaro ao pai",
+      "link": "https://www.congressoemfoco.com.br/noticia/123174/moraes-autoriza-retomada-de-visitas-de-flavio-bolsonaro-ao-pai",
+      "resumo": "Ministro do STF libera retomada das visitas após o cumprimento de suspensão de 90 dias por divulgação de carta do ex-presidente nas redes sociais; restrições políticas continuam em vigor.",
+      "publicado_em": "2026-10-12T09:52:50-03:00",
+      "dia": "2026-10-12",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-10-12T17:07:17-03:00"
+    },
+    {
+      "id": "3200075fba13bf8f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques manda investigar Exército de Lula com \"máxima urgência\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123173/nunes-marques-manda-investigar-exercito-de-lula-com-maxima-urgencia",
+      "resumo": "Ministro pede informações técnicas urgentes sobre circulação de mensagens em outras plataformas e possível atuação coordenada após disputa judicial envolvendo canal de André Janones.",
+      "publicado_em": "2026-10-12T09:33:55-03:00",
+      "dia": "2026-10-12",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-12T17:07:17-03:00"
+    },
+    {
+      "id": "80adfe3fd929f2a6",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Judiciário reforça acolhimento familiar como forma de proteção integral da criança",
+      "link": "https://www.cnj.jus.br/judiciario-reforca-acolhimento-familiar-como-forma-de-protecao-integral-da-crianca/",
+      "resumo": "A proteção integral da criança e do adolescente tem norteado as ações do Judiciário, especialmente em relação à convivência familiar e comunitária. Neste Dia das Crianças, o Conselho Nacional de Justiça (CNJ) destaca o reforço da política infantojuvenil por meio da capacitação da magistratura e do f",
+      "publicado_em": "2026-10-12T12:00:00-03:00",
+      "dia": "2026-10-12",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-12T17:07:17-03:00"
+    },
     {
       "id": "1303a9708ea6f4e2",
       "fonte_id": "tjsp",
@@ -1504,6 +1614,23 @@
       "coletado_em": "2026-10-09T20:43:26-03:00"
     },
     {
+      "id": "8134fc6e125bade9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado vota fim da escala 6x1 em meio à disputa entre Lula e Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123154/senado-vota-fim-da-escala-6x1-em-meio-a-disputa-entre-lula-e-flavio",
+      "resumo": "Alcolumbre marcou votação em primeiro turno para quarta-feira (14). PEC prevê redução gradual da jornada para 40 horas, sem corte salarial, mas mudanças no texto podem atrasar a aprovação.",
+      "publicado_em": "2026-10-09T17:11:16-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-12T17:07:17-03:00"
+    },
+    {
       "id": "6875291f80d4ab68",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1592,6 +1719,24 @@
       "coletado_em": "2026-10-09T16:07:48-03:00"
     },
     {
+      "id": "776395ca2d5dd8a5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Aposentadoria especial de agentes de saúde será julgada pelo STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/123147/aposentadoria-especial-de-agentes-de-saude-sera-julgada-pelo-stf",
+      "resumo": "Decisão deverá orientar processos sobre aposentadoria especial de agentes comunitários e de combate às endemias.",
+      "publicado_em": "2026-10-09T14:31:32-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-10-12T17:07:17-03:00"
+    },
+    {
       "id": "718bcf648c880682",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1622,6 +1767,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-09T14:20:23-03:00"
+    },
+    {
+      "id": "3be564eb7c0edb97",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ausência no 1º turno não impede voto no segundo; entenda",
+      "link": "https://www.congressoemfoco.com.br/noticia/123143/ausencia-no-1-turno-nao-impede-voto-no-segundo-entenda",
+      "resumo": "Ausência na primeira votação não impede participação no segundo turno, mas eleitor ainda precisa justificar a falta.",
+      "publicado_em": "2026-10-09T13:28:49-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-12T17:07:17-03:00"
     },
     {
       "id": "22ecd89cc70f0152",
@@ -1703,6 +1864,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-11T13:33:50-03:00"
+    },
+    {
+      "id": "a85868a8f33dfde7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Prazo para emendas à MP que proíbe bets termina nesta terça-feira",
+      "link": "https://www.congressoemfoco.com.br/noticia/123137/prazo-para-emendas-a-mp-que-proibe-bets-termina-nesta-terca-feira",
+      "resumo": "Deputados e senadores tem até amanhã para propor alterações ao texto enviado pelo Executivo.",
+      "publicado_em": "2026-10-09T11:24:47-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-10-12T17:07:17-03:00"
     },
     {
       "id": "086dd0dfbb0af8dd",
@@ -1842,6 +2019,23 @@
         "processo"
       ],
       "coletado_em": "2026-10-09T14:20:23-03:00"
+    },
+    {
+      "id": "9aba80e45969772a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe piso com jornada semanal de 30h para a educação básica",
+      "link": "https://www.congressoemfoco.com.br/noticia/123127/deputado-propoe-piso-com-jornada-semanal-de-30h-para-a-educacao-basica",
+      "resumo": "Texto também prevê responsabilização por improbidade administrativa em caso de descumprimento intencional do pagamento do piso nacional.",
+      "publicado_em": "2026-10-09T09:02:15-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "improbidade",
+        "acao"
+      ],
+      "coletado_em": "2026-10-12T17:07:17-03:00"
     },
     {
       "id": "efa90c27a92f7df4",
@@ -3106,6 +3300,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-08T21:03:30-03:00"
+    },
+    {
+      "id": "4058e16f78e379e5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Styvenson defende recurso nativo contra ligações indesejadas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123113/styvenson-defende-recurso-nativo-contra-ligacoes-indesejadas",
+      "resumo": "Projeto exige que celulares ofereçam bloqueio gratuito de números fora da agenda, sem aplicativos extras e com ativação pelo usuário.",
+      "publicado_em": "2026-10-08T17:35:46-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-10-12T17:07:17-03:00"
     },
     {
       "id": "a6a629805d7d4717",
@@ -80488,69 +80699,6 @@
       "score": 54,
       "tags": [
         "protecao de dados"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "9ef20247d8d68857",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Expediente no Fórum Trabalhista de Cubatão-SP é suspenso por falta de energia elétrica",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/expediente-no-forum-trabalhista-de-cubatao-sp-e-suspenso-por-falta-de-energia-eletrica",
-      "resumo": "",
-      "publicado_em": "2026-07-13T12:00:00-03:00",
-      "dia": "2026-07-13",
-      "data_estimada": true,
-      "score": 50,
-      "tags": [
-        "trabalhista"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "350417fc73c775d2",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Interdição do Tribunal Pleno segue até 24 de julho",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/interdicao-do-tribunal-pleno-segue-ate-24-de-julho",
-      "resumo": "",
-      "publicado_em": "2026-07-13T12:00:00-03:00",
-      "dia": "2026-07-13",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "859308d638c66473",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Sentença não reconhece fraude em pejotização de apresentadores, narradores e comentaristas",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/sentenca-nao-reconhece-fraude-em-pejotizacao-de-apresentadores-narradores-e-comentaristas",
-      "resumo": "",
-      "publicado_em": "2026-07-13T12:00:00-03:00",
-      "dia": "2026-07-13",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "7d39cc4030c4df38",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Cade abre duas vagas de estágio na Coordenação-Geral de Tecnologia da Informação",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-abre-duas-vagas-de-estagio-para-coordenacao-geral-de-tecnologia-da-informacao-cgti",
-      "resumo": "",
-      "publicado_em": "2026-07-13T12:00:00-03:00",
-      "dia": "2026-07-13",
-      "data_estimada": true,
-      "score": 56,
-      "tags": [
-        "cade",
-        "acao"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
