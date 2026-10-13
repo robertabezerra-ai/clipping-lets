@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-13T14:56:43-03:00",
+  "gerado_em": "2026-10-13T16:59:18-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,7 +173,7 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 28,
+      "itens": 29,
       "erro": null
     },
     {
@@ -295,6 +295,80 @@
       "coletado_em": "2026-10-13T14:56:43-03:00"
     },
     {
+      "id": "9f1d3ee68c24ad8a",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Inscrições para a Semana da Conciliação vão até 18/10",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/inscricoes-para-a-semana-da-conciliacao-vao-ate-18-10",
+      "resumo": "",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "2dd88d134d63a454",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Fórum Ruy Barbosa recebe exposição de artes manuais indígenas",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/forum-ruy-barbosa-recebe-exposicao-de-artes-manuais-indigenas",
+      "resumo": "",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": true,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "0b9f5a3a715b616e",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "3° Encontro de Diversidade da Anamatra acontece em novembro",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/3-encontro-de-diversidade-da-anamatra-acontece-em-novembro",
+      "resumo": "",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "50b7bb4b545310e1",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Presidente do TRT-15 recebe representantes da Secretaria de Transportes e da Emdec de Campinas",
+      "link": "https://trt15.jus.br/noticia/2026/presidente-do-trt-15-recebe-representantes-da-secretaria-de-transportes-e-da-emdec-de",
+      "resumo": "Presidente do TRT-15 recebe representantes da Secretaria de Transportes e da Emdec de Campinas anasiqueira Ter, 13/10/2026 - 15:32 Presidente do TRT-15 recebe representantes da Secretaria de Transportes e da Emdec de Campinas Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª R",
+      "publicado_em": "2026-10-13T15:32:58-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "13dd2ea112784af4",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 reafirma compromisso com a proteção da infância e dos vulneráveis na leitura da 11ª Carta de Aparecida",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-reafirma-compromisso-com-protecao-da-infancia-e-dos-vulneraveis-na-leitura-da",
+      "resumo": "TRT-15 reafirma compromisso com a proteção da infância e dos vulneráveis na leitura da 11ª Carta de Aparecida anasiqueira Ter, 13/10/2026 - 15:16 TRT-15 reafirma compromisso com a proteção da infância e dos vulneráveis na leitura da 11ª Carta de Aparecida Conteúdo da Notícia A Basílica Histórica de ",
+      "publicado_em": "2026-10-13T15:16:27-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
       "id": "640cf35525bb0a3f",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -341,12 +415,30 @@
       "coletado_em": "2026-10-13T14:56:43-03:00"
     },
     {
+      "id": "300d6767a6356ece",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Empresas indenizarão por inclusão fraudulenta de pessoa em situação de rua nos quadros societários",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115720&pagina=1",
+      "resumo": "Participações somavam R$ 500 mil. \n \n\tA 2ª Câmara Reservada de Direito Empresarial do Tribunal de Justiça de São Paulo manteve, em parte, decisão da 20ª",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "indenizar",
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
       "id": "6d97011cef4d6de1",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "Diálogos Institucionais do CESTF debate constitucionalismo digital com o professor Ingo Sarlet",
+      "titulo": "Professor Ingo Sarlet debate constitucionalismo digital em evento do CESTF",
       "link": "https://noticias.stf.jus.br/postsnoticias/dialogos-institucionais-do-cestf-debate-constitucionalismo-digital-com-o-professor-ingo-sarlet/",
-      "resumo": "Em encontro promovido pelo Centro de Estudos do STF, jurista alertou para os riscos do tecnoautoritarismo e os impactos dos avanços tecnológicos sobre os direitos fundamentais",
+      "resumo": "No projeto Diálogos Institucionais, jurista alertou para os riscos do tecnoautoritarismo e os impactos dos avanços tecnológicos sobre os direitos fundamentais",
       "publicado_em": "2026-10-13T14:24:09-03:00",
       "dia": "2026-10-13",
       "data_estimada": false,
@@ -385,6 +477,96 @@
         "processo"
       ],
       "coletado_em": "2026-10-13T14:56:43-03:00"
+    },
+    {
+      "id": "cc5c675930525eaa",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Mulheres pobres têm maior sobrecarga com trabalho de cuidado, diz estudo",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/mulheres-pobres-tem-maior-sobrecarga-com-trabalho-de-cuidado-diz-estudo",
+      "resumo": "",
+      "publicado_em": "2026-10-13T16:40:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "459eec298572825c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Esperidião Amin agradece a eleitores e propõe homenagem a Juarez Machado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/13/esperidiao-amin-agradece-a-eleitores-e-propoe-homenagem-a-juarez-machado",
+      "resumo": "",
+      "publicado_em": "2026-10-13T16:21:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenagem"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "0fd0798e42711672",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Damares cobra investigação de ministros do STF",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/13/damares-cobra-investigacao-de-ministros-do-stf",
+      "resumo": "",
+      "publicado_em": "2026-10-13T16:12:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "647055a1969c74a3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Todas as religiões defendem mais tempo livre para o trabalhador, diz Paim",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/13/todas-as-religioes-defendem-mais-tempo-livre-para-o-trabalhador-diz-paim",
+      "resumo": "",
+      "publicado_em": "2026-10-13T16:01:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "76a1248649aee9ef",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Conheça a história do complexo que abrigará o Senado Cultural",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/13/conheca-a-historia-do-complexo-que-abrigara-o-senado-cultural",
+      "resumo": "",
+      "publicado_em": "2026-10-13T15:45:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "705d826afa49faa6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Dia Mundial da Alimentação: sessão solene exalta papel do setor produtivo",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/dia-mundial-da-alimentacao-sessao-solene-exalta-papel-do-setor-produtivo",
+      "resumo": "",
+      "publicado_em": "2026-10-13T15:29:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
     },
     {
       "id": "f56041a8afe4279c",
@@ -505,6 +687,55 @@
       "coletado_em": "2026-10-13T14:56:43-03:00"
     },
     {
+      "id": "6214f35b78afd8a3",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Contagem Regressiva: Prazo final para opção pelo Simples Nacional termina em 15/10!",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/d83ddea8-atencao-prazo-final-para-opcao-pelo-simples-nacional-termina-em-15-10",
+      "resumo": "",
+      "publicado_em": "2026-10-13T15:19:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "prazo",
+        "simples nacional"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "027f8db256deee33",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação Zero Km combate créditos indevidos de PIS/Cofins no setor de veículos",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/operacao-zero-km-combate-creditos-indevidos-de-pis-cofins-no-setor-de-veiculos",
+      "resumo": "",
+      "publicado_em": "2026-10-13T14:27:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "724deba0dfda188a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pacote de medidas com suporte financeiro e tributário a microempreendedores individuais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pacote-de-medidas-da-suporte-financeiro-e-tributario-a-microempreendedores-individuais",
+      "resumo": "",
+      "publicado_em": "2026-10-13T16:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "tributario"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
       "id": "c1811de513cabb16",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -519,6 +750,23 @@
         "acao"
       ],
       "coletado_em": "2026-10-13T14:56:43-03:00"
+    },
+    {
+      "id": "db9e7e38616bab60",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Termina amanhã prazo para envio de contribuições à Audiência Pública sobre segurança de pilhas de mineração",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/termina-amanha-prazo-para-envio-de-contribuicoes-a-audiencia-publica-sobre-seguranca-de-pilhas-de-mineracao-35",
+      "resumo": "",
+      "publicado_em": "2026-10-13T11:48:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
     },
     {
       "id": "aee81a48357df1c7",
@@ -607,6 +855,98 @@
       "coletado_em": "2026-10-13T14:56:43-03:00"
     },
     {
+      "id": "439534a93c04dc6c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A esquerda precisa disputar o futuro",
+      "link": "https://www.congressoemfoco.com.br/artigo/123213/a-esquerda-precisa-disputar-o-futuro",
+      "resumo": "Lideranças jovens ganham projeção nas urnas e nas redes, mas enfrentam dificuldades para conquistar espaço nas decisões partidárias e construir um projeto político para além de Lula.",
+      "publicado_em": "2026-10-13T16:25:39-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "115d52916363f5ad",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MDB declara apoio a Lula em dez Estados do Norte e Nordeste",
+      "link": "https://www.congressoemfoco.com.br/noticia/123212/mdb-declara-apoio-a-lula-em-dez-estados-do-norte-e-nordeste",
+      "resumo": "Dirigentes estaduais formalizaram divergência com ala majoritária do partido, que prepara apoio formal à candidatura de Flávio.",
+      "publicado_em": "2026-10-13T15:59:26-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "100b7813ecfbd7a6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Damares cobra apuração sobre suspeita de tráfico humano no Caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/123211/damares-cobra-apuracao-sobre-suspeita-de-trafico-humano-no-caso-master",
+      "resumo": "Senadora afirma que não aceitará negociações para impedir apurações sobre integrantes do Supremo e pede investigação de denúncias envolvendo mulheres refugiadas ucranianas.",
+      "publicado_em": "2026-10-13T15:34:57-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "15120a144c9e8a92",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Netinho morre aos 60 anos; apoiador de Bolsonaro foi candidato pelo PL",
+      "link": "https://www.congressoemfoco.com.br/noticia/123210/netinho-morre-aos-60-anos-apoiador-de-bolsonaro-foi-candidato-pelo-pl",
+      "resumo": "Artista disputou uma vaga na Câmara dos Deputados pela Bahia em 2022. Flávio Bolsonaro lamentou a morte nas redes sociais.",
+      "publicado_em": "2026-10-13T15:05:54-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "38aafc0ecf4138a4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleitos para a Câmara arrecadaram sete vezes mais que derrotados",
+      "link": "https://www.congressoemfoco.com.br/noticia/123209/eleitos-para-a-camara-arrecadaram-sete-vezes-mais-que-derrotados",
+      "resumo": "Levantamento do Congresso em Foco mostra média de arrecadação de R$ 2,28 milhões entre os vencedores, ante R$ 323 mil dos demais candidatos. Fundos públicos responderam por 90% dos recursos.",
+      "publicado_em": "2026-10-13T14:48:38-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "035ce67123577ffc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governo cria programa nacional que bloqueia celulares em presídios",
+      "link": "https://www.congressoemfoco.com.br/noticia/123208/governo-cria-programa-nacional-que-bloqueia-celulares-em-presidios",
+      "resumo": "Nova regulamentação estabelece procedimentos para que autoridades penitenciárias solicitem bloqueios, compartilhem informações técnicas e atuem em cooperação com a Anatel.",
+      "publicado_em": "2026-10-13T14:35:35-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
       "id": "d033c6363031dc1b",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -649,6 +989,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-13T14:56:43-03:00"
+    },
+    {
+      "id": "f3a21b5a1952d142",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Negociação coletiva: uma garantia que o Brasil não pode enfraquecer",
+      "link": "https://www.congressoemfoco.com.br/artigo/123203/negociacao-coletiva-uma-garantia-que-o-brasil-nao-pode-enfraquecer",
+      "resumo": "Debate sobre a escala 6x1 reforça a importância dos sindicatos na defesa dos direitos trabalhistas.",
+      "publicado_em": "2026-10-13T13:26:07-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
     },
     {
       "id": "1286ec76411e99ef",
@@ -919,6 +1276,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-13T14:56:43-03:00"
+    },
+    {
+      "id": "a69a623770e908ed",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Fonajus Itinerante aprofunda debate sobre judicialização da saúde no Ceará",
+      "link": "https://www.cnj.jus.br/fonajus-itinerante-aprofunda-debate-sobre-judicializacao-da-saude-no-ceara/",
+      "resumo": "Os desafios e as perspectivas da judicialização da saúde estarão no centro das discussões na próxima edição do Fonajus Itinerante, que será realizada nos dias 14 e 15 de outubro, no Ceará. A iniciativa é coordenada pelo Conselho Nacional de Justiça (CNJ), por meio do Fórum Nacional do Judiciário par",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
     },
     {
       "id": "48722b9618049b8c",
@@ -1516,20 +1890,6 @@
         "acao"
       ],
       "coletado_em": "2026-10-09T17:32:22-03:00"
-    },
-    {
-      "id": "10a7eeccfe082924",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Palestra da EJud-15 debate assédio eleitoral nas relações de trabalho",
-      "link": "https://trt15.jus.br/noticia/2026/palestra-da-ejud-15-debate-assedio-eleitoral-nas-relacoes-de-trabalho",
-      "resumo": "Palestra da EJud-15 debate assédio eleitoral nas relações de trabalho anasiqueira Sex, 09/10/2026 - 16:01 Palestra da EJud-15 debate assédio eleitoral nas relações de trabalho Conteúdo da Notícia A proteção à liberdade de voto no ambiente de trabalho, os limites do poder diretivo do empregador e as ",
-      "publicado_em": "2026-10-09T16:01:39-03:00",
-      "dia": "2026-10-09",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-10-08T18:01:11-03:00"
     },
     {
       "id": "7d11e12c6aad1e1b",
@@ -3344,6 +3704,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-01T20:34:57-03:00"
+    },
+    {
+      "id": "10a7eeccfe082924",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Palestra da EJud-15 debate assédio eleitoral nas relações de trabalho",
+      "link": "https://trt15.jus.br/noticia/2026/palestra-da-ejud-15-debate-assedio-eleitoral-nas-relacoes-de-trabalho",
+      "resumo": "Palestra da EJud-15 debate assédio eleitoral nas relações de trabalho anasiqueira Qui, 08/10/2026 - 16:01 Palestra da EJud-15 debate assédio eleitoral nas relações de trabalho Conteúdo da Notícia A proteção à liberdade de voto no ambiente de trabalho, os limites do poder diretivo do empregador e as ",
+      "publicado_em": "2026-10-08T16:01:39-03:00",
+      "dia": "2026-10-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-08T18:01:11-03:00"
     },
     {
       "id": "e284f7c261084833",
