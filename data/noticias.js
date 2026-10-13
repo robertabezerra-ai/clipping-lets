@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-13T16:59:18-03:00",
+  "gerado_em": "2026-10-13T17:58:22-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -433,6 +433,22 @@ window.DADOS = {
       "coletado_em": "2026-10-13T16:59:18-03:00"
     },
     {
+      "id": "ce18b4a131b211c5",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF recebe ação contra política de preço mínimo dos cigarros no Brasil",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-acao-contra-politica-de-preco-minimo-dos-cigarros-no-brasil/",
+      "resumo": "Partido alega que reajustes insuficientes comprometem medidas de combate ao tabagismo e a proteção da saúde pública",
+      "publicado_em": "2026-10-13T17:06:49-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T17:58:22-03:00"
+    },
+    {
       "id": "6d97011cef4d6de1",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -477,6 +493,34 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-10-13T14:56:43-03:00"
+    },
+    {
+      "id": "fd2f92cb1c8b6d3a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Malta prevê impeachment de ministros do STF e lamenta morte de Netinho",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/13/malta-preve-impeachment-de-ministros-do-stf-e-lamenta-morte-de-netinho",
+      "resumo": "",
+      "publicado_em": "2026-10-13T17:14:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T17:58:22-03:00"
+    },
+    {
+      "id": "454eaf9d8732966c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Veneziano: Fim da escala 6x1 será conquista histórica para trabalhadores",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/13/veneziano-fim-da-escala-6x1-sera-conquista-historica-para-os-trabalhadores",
+      "resumo": "",
+      "publicado_em": "2026-10-13T17:01:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T17:58:22-03:00"
     },
     {
       "id": "cc5c675930525eaa",
@@ -720,6 +764,38 @@ window.DADOS = {
       "coletado_em": "2026-10-13T16:59:18-03:00"
     },
     {
+      "id": "d61cfd2fd9bb5d36",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Decreto amplia combate ao crime organizado e agiliza bloqueio de celulares ilegais em presídios",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/decreto-amplia-combate-ao-crime-organizado-e-agiliza-bloqueio-de-celulares-ilegais-em-presidios",
+      "resumo": "",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decreto"
+      ],
+      "coletado_em": "2026-10-13T17:58:22-03:00"
+    },
+    {
+      "id": "6b1e3177e14fb5f4",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Falecimento de Jean Michel Arrighi, secretário de Assuntos Jurídicos da OEA",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/falecimento-de-jean-michel-arrighi-secretario-de-assuntos-juridicos-da-oea",
+      "resumo": "",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "falecimento"
+      ],
+      "coletado_em": "2026-10-13T17:58:22-03:00"
+    },
+    {
       "id": "724deba0dfda188a",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -841,6 +917,23 @@ window.DADOS = {
       "coletado_em": "2026-10-13T14:56:43-03:00"
     },
     {
+      "id": "02884c8fff065014",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Contagem regressiva para opção pelo Simples Nacional: prazo termina nesta quinta-feira, 15/10",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/contagem-regressiva-para-opcao-pelo-simples-nacional-prazo-termina-nesta-quinta-feira-15-10",
+      "resumo": "",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "prazo",
+        "simples nacional"
+      ],
+      "coletado_em": "2026-10-13T17:58:22-03:00"
+    },
+    {
       "id": "9534ab663b071798",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -853,6 +946,52 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-13T14:56:43-03:00"
+    },
+    {
+      "id": "373ebf441ed5fb0c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AO VIVO: Câmara realiza primeira sessão deliberativa após eleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/123217/ao-vivo-camara-realiza-primeira-sessao-deliberativa-apos-eleicao",
+      "resumo": "Pauta reúne nove propostas sobre saúde, sistema financeiro e proteção das mulheres, além de oito requerimentos de urgência.",
+      "publicado_em": "2026-10-13T17:31:28-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T17:58:22-03:00"
+    },
+    {
+      "id": "08d1f0181fd1d6ad",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques libera \"Exército do Lula\" após registro como propaganda",
+      "link": "https://www.congressoemfoco.com.br/noticia/123215/nunes-marques-libera-exercito-do-lula-apos-registro-como-propaganda",
+      "resumo": "Após registro no sistema do TSE, Nunes Marques autoriza volta do canal digital e exige identificação dos responsáveis pela divulgação.",
+      "publicado_em": "2026-10-13T17:01:42-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T17:58:22-03:00"
+    },
+    {
+      "id": "3d494fa0b6aa36c1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Centrão se une a Flávio; e agora?",
+      "link": "https://www.congressoemfoco.com.br/artigo/123214/centrao-se-une-a-flavio-e-agora",
+      "resumo": "Uma visão da Ciência Política sobre os movimentos partidários em torno da candidatura presidencial de Flávio Bolsonaro no segundo turno: Centrão e presidencialismo de coalizão aplicados à adesão da federação União-PP e do Republicanos.",
+      "publicado_em": "2026-10-13T16:42:13-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T17:58:22-03:00"
     },
     {
       "id": "439534a93c04dc6c",
@@ -1293,6 +1432,36 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "9b0d70ff8339daaf",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados analisam requerimentos de urgência em Plenário; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1310948-deputados-analisam-requerimentos-de-urgencia-em-plenario-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-10-13T17:33:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T17:58:22-03:00"
+    },
+    {
+      "id": "3b9c5c27a9342334",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Líder do PT defende votação de aumento do faturamento do MEI nesta semana",
+      "link": "https://www.camara.leg.br/noticias/1310955-lider-do-pt-defende-votacao-de-aumento-do-faturamento-do-mei-nesta-semana",
+      "resumo": "",
+      "publicado_em": "2026-10-13T17:08:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-13T17:58:22-03:00"
     },
     {
       "id": "48722b9618049b8c",
