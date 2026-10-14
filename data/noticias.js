@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-14T15:12:48-03:00",
+  "gerado_em": "2026-10-14T16:57:51-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -347,6 +347,92 @@ window.DADOS = {
       "coletado_em": "2026-10-14T12:42:34-03:00"
     },
     {
+      "id": "290a78a979c06599",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Paulo Paim recapitula luta por direitos trabalhistas e prevê dia histórico",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/paulo-paim-recapitula-luta-por-direitos-trabalhistas-e-preve-dia-historico",
+      "resumo": "",
+      "publicado_em": "2026-10-14T16:56:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "a3c114727c1b9eca",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sargento Reginauro declara apoio ao fim da 6x1, mas lamenta 'populismo'",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/sargento-reginauro-declara-apoio-ao-fim-da-6x1-mas-lamenta-populismo",
+      "resumo": "",
+      "publicado_em": "2026-10-14T16:13:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "93b5e29f4407d7a2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Plenário analisa três acordos internacionais nesta quinta",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/plenario-analisa-tres-acordos-internacionais-nesta-quinta",
+      "resumo": "",
+      "publicado_em": "2026-10-14T16:09:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "f1c4bdfcf5c3e87d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Chico Rodrigues anuncia voto favorável ao fim da escala 6x1",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/chico-rodrigues-anuncia-voto-favoravel-ao-fim-da-escala-6x1-1",
+      "resumo": "",
+      "publicado_em": "2026-10-14T16:04:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "c177e8851151c7db",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PEC da Segurança Pública passa na CCJ e segue para o Plenário",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/pec-da-seguranca-publica-passa-na-ccj-e-segue-para-o-plenario",
+      "resumo": "",
+      "publicado_em": "2026-10-14T15:37:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "325fa3968c132bb2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado pode votar nesta quarta o fim da escala 6x1",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/senado-pode-votar-o-fim-da-escala-6x1-hoje",
+      "resumo": "",
+      "publicado_em": "2026-10-14T15:14:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
       "id": "6df72b45a852f849",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -571,6 +657,38 @@ window.DADOS = {
       "coletado_em": "2026-10-14T15:12:48-03:00"
     },
     {
+      "id": "dbe3027f5ca7f164",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP apresenta novas regras para combater chamadas fraudulentas e indesejadas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-apresenta-novas-regras-para-combater-chamadas-fraudulentas-e-indesejadas",
+      "resumo": "",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "novas regras"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "b2c60beeedd2d232",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Instalado em Roraima o acelerador linear do SUS para radioterapia",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/roraima-inicia-atendimentos-de-radioterapia-com-primeiro-acelerador-linear-do-sus-no-estado",
+      "resumo": "",
+      "publicado_em": "2026-10-14T13:48:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
       "id": "cd8004ebcb206e19",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -692,6 +810,52 @@ window.DADOS = {
       "coletado_em": "2026-10-14T15:12:48-03:00"
     },
     {
+      "id": "91c270cce82dd75e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dez partidos anunciam apoio à reeleição de Hugo Motta na Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/123252/dez-partidos-anunciam-apoio-a-reeleicao-de-hugo-motta-na-camara",
+      "resumo": "Bloco formado por União Brasil, PP, PSD, Republicanos, MDB, PSDB-Cidadania e Podemos defenderam a continuidade da aliança.",
+      "publicado_em": "2026-10-14T16:21:09-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "0b3caa77d3589414",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB lança obra jurídica sobre lei que filtra recursos no STJ",
+      "link": "https://www.congressoemfoco.com.br/noticia/123251/oab-lanca-obra-juridica-sobre-lei-que-filtra-recursos-no-stj",
+      "resumo": "Entidade prepara uma coletânea com 36 capítulos inéditos para analisar os resultados da nova legislação.",
+      "publicado_em": "2026-10-14T16:02:17-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "recurso",
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "975b14850b9722bd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senador diz que Nordeste vota no PT por depender de programas sociais",
+      "link": "https://www.congressoemfoco.com.br/noticia/123250/senador-diz-que-nordeste-vota-no-pt-por-depender-de-programas-sociais",
+      "resumo": "Suplente de Eduardo Girão, Sargento Reginauro que o Ceará tem \"multidão de miseráveis\".",
+      "publicado_em": "2026-10-14T15:25:27-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
       "id": "50fd606999368057",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -706,6 +870,37 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "915288f9ba203e45",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O que Lula e Flávio fizeram no Congresso antes de disputar o Planalto",
+      "link": "https://www.congressoemfoco.com.br/noticia/123248/o-que-lula-e-flavio-fizeram-no-congresso-antes-de-disputar-o-planalto",
+      "resumo": "Levantamento mostra propostas, conquistas e derrotas dos presidenciáveis. Lula defendeu direitos trabalhistas e apresentou projetos sobre FGTS e Previdência; Flávio priorizou segurança pública.",
+      "publicado_em": "2026-10-14T14:38:29-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "trabalhista",
+        "fgts"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "7bb3d9b7ba20eddd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Kim critica ausência do PL em comissão: \"fingindo que trabalha\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123247/kim-critica-ausencia-do-pl-em-comissao--fingindo-que-trabalha",
+      "resumo": "Deputado criticou deputados que, segundo ele, usam as redes sociais para conquistar votos, mas não participam dos debates.",
+      "publicado_em": "2026-10-14T14:36:51-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
     },
     {
       "id": "d8a567e5582705a1",
@@ -787,6 +982,23 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "4d3ff19c69a7d68d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AO VIVO: Senado vota proposta que prevê o fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123241/ao-vivo-senado-vota-proposta-que-preve-o-fim-da-escala-6x1",
+      "resumo": "Texto precisa ser aprovado com votos de um terço dos senadores em dois turnos.",
+      "publicado_em": "2026-10-14T12:07:38-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
     },
     {
       "id": "a1e73ba19d0b4e88",
@@ -1057,6 +1269,151 @@ window.DADOS = {
       "coletado_em": "2026-10-14T12:42:34-03:00"
     },
     {
+      "id": "1a33c6191f77f5e1",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ lança ações para reduzir superlotação e ampliar trabalho no sistema prisional do Acre",
+      "link": "https://www.cnj.jus.br/cnj-lanca-acoes-para-reduzir-superlotacao-e-ampliar-trabalho-no-sistema-prisional-do-acre/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realiza, nos dias 19 e 20 de outubro, uma missão ao Acre para lançar duas iniciativas do Pena Justa no estado: a e o Acre. O Pena Justa é o plano nacional criado para enfrentar problemas estruturais nas prisões brasileiras reconhecidos pelo Supremo Tribunal",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "1b4c559d6e684d2b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJBA reforça compromisso socioambiental com eliminação de 4.688 processos via reciclagem",
+      "link": "https://www.cnj.jus.br/tjba-reforca-compromisso-socioambiental-com-eliminacao-de-4-688-processos-via-reciclagem/",
+      "resumo": "Com o objetivo de reduzir o acervo documental ao mínimo necessário, em conformidade com a legislação vigente, o Tribunal de Justiça da Bahia (TJBA), por meio da Comissão Permanente de Avaliação Documental (CPAD), promoveu a eliminação de 4.688 processos de Defesa do Consumidor, relacionados no Edita",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "3afa4ca5233b9ccd",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Esmal abre inscrições para curso sobre enfrentamento ao racismo no Poder Judiciário",
+      "link": "https://www.cnj.jus.br/esmal-abre-inscricoes-para-curso-sobre-enfrentamento-ao-racismo-no-poder-judiciario/",
+      "resumo": "A Escola Superior da Magistratura de Alagoas (Esmal) está com inscrições abertas para o curso “Enfrentamento ao Racismo no Poder Judiciário: Letramento Racial e Construção de Práticas Antirracistas”, destinado a magistrados e servidores do Poder Judiciário. A formação será realizada na modalidade de",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "6fb9f12b4ec69104",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TJDFT prorroga campanha Semeando Alegrias 2026: faça sua doação para crianças acolhidas",
+      "link": "https://www.cnj.jus.br/tjdft-prorroga-campanha-semeando-alegrias-2026-faca-sua-doacao-para-criancas-acolhidas/",
+      "resumo": "O Dia das Crianças passou, mas ainda faltam crianças e adolescentes acolhidos para serem presenteados. Por isso, o Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT), por meio da Rede Solidária Anjos do Amanhã (RSAA), prorrogou a campanha Semeando Alegrias 2026 até 19/10. Magistrados(",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "2813ed04db326824",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Inscrições seguem abertas até 29/10 para o 1º NatJus e o V Congresso Fonajus",
+      "link": "https://www.cnj.jus.br/inscricoes-seguem-abertas-ate-29-10-para-o-1o-natjus-e-o-v-congresso-fonajus/",
+      "resumo": "As inscrições para o 1º Encontro Nacional dos NatJus e para o V Congresso Nacional do Fonajus, promovidos pelo Conselho Nacional de Saúde (CNJ), ainda podem ser feitas até o dia 29 de outubro, por meio de formulário eletrônico. Os eventos ocorrerão entre os dias 4 e 6 de novembro e são voltados a te",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "f3f22a4ec2a160ec",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Percentual de deputados federais reeleitos chega a 60,62%, o maior desde a redemocratização do país",
+      "link": "https://www.camara.leg.br/noticias/1311223-percentual-de-deputados-federais-reeleitos-chega-a-6062-o-maior-desde-a-redemocratizacao-do-pais",
+      "resumo": "",
+      "publicado_em": "2026-10-14T16:37:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "824d9f882cd252f6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Partidos de centro da Câmara dos Deputados decidem manter bloco na próxima legislatura",
+      "link": "https://www.camara.leg.br/noticias/1311237-partidos-de-centro-da-camara-dos-deputados-decidem-manter-bloco-na-proxima-legislatura",
+      "resumo": "",
+      "publicado_em": "2026-10-14T16:35:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decide"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "f04b7a2a33ed024d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova crédito para incentivar contratação de pessoa com deficiência",
+      "link": "https://www.camara.leg.br/noticias/1311084-comissao-aprova-credito-para-incentivar-contratacao-de-pessoa-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-10-14T15:38:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "d0acdf9130684645",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Constituição e Justiça aprova fim de taxa de fiscalização sobre telefones celulares",
+      "link": "https://www.camara.leg.br/noticias/1311131-comissao-de-constituicao-e-justica-aprova-fim-de-taxa-de-fiscalizacao-sobre-telefones-celulares",
+      "resumo": "",
+      "publicado_em": "2026-10-14T14:13:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
       "id": "1a05dd91a6075db0",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1113,7 +1470,7 @@ window.DADOS = {
       "titulo": "Comissão aprova incentivo fiscal para empresas que contratarem pessoas desempregadas há mais de 12 meses",
       "link": "https://www.camara.leg.br/noticias/1311076-comissao-aprova-incentivo-fiscal-para-empresas-que-contratarem-pessoas-desempregadas-ha-mais-de-12-meses",
       "resumo": "",
-      "publicado_em": "2026-10-14T11:10:00-03:00",
+      "publicado_em": "2026-10-14T10:10:00-03:00",
       "dia": "2026-10-14",
       "data_estimada": false,
       "score": 48,
@@ -2726,7 +3083,7 @@ window.DADOS = {
       "id": "03536baf05036e41",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Memória do Judiciário: estudos acadêmicos sobre direto e religião são tema de webinário do CNJ",
+      "titulo": "Memória do Judiciário: estudos acadêmicos sobre Direito e Religião são tema de webinário do CNJ",
       "link": "https://www.cnj.jus.br/memoria-do-judiciario-estudos-academicos-sobre-direto-e-religiao-sao-tema-de-webinario-do-cnj/",
       "resumo": "Entre o final do século XIX e o início do século XX, inquéritos, processos judiciais, habeas corpus, recursos e periódicos do Rio de Janeiro eram influenciados por livros mágico-religiosos que circulavam no estado. Já em São Paulo, no século XVIII, a Justiça Eclesiástica da Igreja Católica também pa",
       "publicado_em": "2026-10-13T12:00:00-03:00",
