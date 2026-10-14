@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-14T12:42:34-03:00",
+  "gerado_em": "2026-10-14T15:12:48-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -279,6 +279,58 @@ window.DADOS = {
       "coletado_em": "2026-10-14T12:42:34-03:00"
     },
     {
+      "id": "2a1b9dc6f6d5bf52",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP homenageia ex-presidentes das Seções com inauguração de retratos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115729&pagina=1",
+      "resumo": "Magistrados ocuparam cargos no biênio 2024/2025. \n \n\tO Tribunal de Justiça de São Paulo inaugurou, ontem (13), nas Galerias das Presidências das Seções, os retratos dos",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 8,
+      "tags": [
+        "acao",
+        "homenageia",
+        "galeria"
+      ],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "a9578b135d680735",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação de estudante de veterinária por crimes contra a fauna e maus-tratos a animais silvestres",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115736&pagina=1",
+      "resumo": "Réu mantinha espécie ameaçada de extinção. \n \n\tA 2ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve decisão da 1ª Vara Criminal",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "35ef24b48d44a7f6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Relator autoriza levar discussão sobre NR-1 a fórum da AGU para viabilizar conciliação",
+      "link": "https://noticias.stf.jus.br/postsnoticias/relator-autoriza-levar-discussao-sobre-nr-1-a-forum-da-agu-para-viabilizar-conciliacao/",
+      "resumo": "Ministro André Mendonça suspendeu tramitação das ações por 60 dias, enquanto órgão reúne subsídios com participação social",
+      "publicado_em": "2026-10-14T14:52:21-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
       "id": "3ec46fb880885645",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -293,6 +345,34 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "6df72b45a852f849",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Médicos são homenageados em sessão especial promovida pelo Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/medicos-sao-homenageados-em-sessao-especial-promovida-pelo-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-14T14:55:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "c153457f2d58bbe7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado celebra Dia do Médico com debate sobre a profissão",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/senado-celebra-dia-do-medico-com-homenagem-e-debate-sobre-a-profissao",
+      "resumo": "",
+      "publicado_em": "2026-10-14T13:11:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
     },
     {
       "id": "c5f3ef892ac1f2ff",
@@ -477,6 +557,34 @@ window.DADOS = {
       "coletado_em": "2026-10-14T12:42:34-03:00"
     },
     {
+      "id": "0d8ab4d2c7163b9f",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Observatório alerta para restrições a jornalistas e comunicadores nas plataformas digitais",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/observatorio-alerta-para-restricoes-a-jornalistas-e-comunicadores-nas-plataformas-digitais",
+      "resumo": "",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "cd8004ebcb206e19",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "'Sem Censura' celebra Dia do Professor com presença de educadoras na TV Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/sem-censura-celebra-dia-do-professor-com-presenca-de-educadoras-no-programa-da-tv-brasil",
+      "resumo": "",
+      "publicado_em": "2026-10-14T13:16:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
       "id": "320bb1ee846f1b67",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -563,6 +671,122 @@ window.DADOS = {
         "resolucao"
       ],
       "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "076d23dab70abf30",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM inicia julgamento de processo envolvendo Ano Bom Incorporação e Empreendimentos S.A.",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-inicia-julgamento-de-processo-envolvendo-ano-bom-incorporacao-e-empreendimentos-s-a",
+      "resumo": "",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 74,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "50fd606999368057",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula defende ampliação da indústria de jogos digitais no Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/123249/lula-defende-ampliacao-da-industria-de-jogos-digitais-no-brasil",
+      "resumo": "Presidente defendeu investimentos na qualificação de desenvolvedores para que jogos criados no Brasil alcancem o mercado internacional.",
+      "publicado_em": "2026-10-14T14:43:31-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "d8a567e5582705a1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governo regulamenta setor de games e cria sistema de jogos nacionais",
+      "link": "https://www.congressoemfoco.com.br/noticia/123246/governo-regulamenta-setor-de-games-e-cria-sistema-de-jogos-nacionais",
+      "resumo": "Decreto estabelece diretrizes para incentivar a produção nacional, ampliar a formação profissional e fortalecer empresas brasileiras de games.",
+      "publicado_em": "2026-10-14T14:12:36-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "decreto",
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "9d0d6d8e032ab141",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Assim foi, assim é e assim será",
+      "link": "https://www.congressoemfoco.com.br/artigo/123245/assim-foi-assim-e-e-assim-sera",
+      "resumo": "A busca por riqueza e influência política não pode se sobrepor ao interesse público e à responsabilidade de garantir os direitos previstos na Constituição.",
+      "publicado_em": "2026-10-14T13:38:29-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "0060b79e0b9044cb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O desafio do Brasil na nova Década da ONU",
+      "link": "https://www.congressoemfoco.com.br/artigo/123244/o-desafio-do-brasil-na-nova-decada-da-onu",
+      "resumo": "Nova década internacional, de 2027 a 2036, busca ampliar o reconhecimento da cultura como dimensão essencial do desenvolvimento sustentável e fortalecer políticas públicas para o setor.",
+      "publicado_em": "2026-10-14T13:27:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "4d2b1609a2113c63",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Comissão aprova proibição de patrocínio de sites adultos no esporte",
+      "link": "https://www.congressoemfoco.com.br/noticia/123243/comissao-aprova-proibicao-de-patrocinio-de-sites-adultos-no-esporte",
+      "resumo": "Parecer de Luiz Lima restringe publicidade em estádios e transmissões; proposta segue para outras duas comissões da Câmara.",
+      "publicado_em": "2026-10-14T13:21:31-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "adi",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "449289dfa1b8fe6c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "STJ eleva os Termos de Uso a instrumento de segurança contratual",
+      "link": "https://www.congressoemfoco.com.br/artigo/123242/stj-eleva-os-termos-de-uso-a-instrumento-de-seguranca-contratual",
+      "resumo": "Decisão reconhece o direito das plataformas de bloquear acessos preventivamente, mas exige comunicação dos motivos e oportunidade de defesa para evitar suspensões arbitrárias.",
+      "publicado_em": "2026-10-14T12:25:24-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "itr",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
     },
     {
       "id": "a1e73ba19d0b4e88",
@@ -831,6 +1055,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "1a05dd91a6075db0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto permite autogestão de proteção veicular de caminhoneiros",
+      "link": "https://www.camara.leg.br/noticias/1305503-projeto-permite-autogestao-de-protecao-veicular-de-caminhoneiros",
+      "resumo": "",
+      "publicado_em": "2026-10-14T13:52:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
     },
     {
       "id": "d7eef56f7edd9ad9",
@@ -1582,6 +1820,20 @@ window.DADOS = {
         "decreto"
       ],
       "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "8abfdb1d07e6ca47",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MEI vai ter dívidas bancárias renegociadas com desconto mínimo de 90%",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/fazenda-inclui-dividas-bancarias-do-mei-na-terceira-fase-da-renegociacao-de-dividas-com-descontos-minimos-de-90",
+      "resumo": "",
+      "publicado_em": "2026-10-13T19:05:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
     },
     {
       "id": "d6665b8d1d7128a4",
@@ -2474,7 +2726,7 @@ window.DADOS = {
       "id": "03536baf05036e41",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Memória do Judiciário: estudos acadêmicos sobre Direito e Religião são tema de webinário do CNJ",
+      "titulo": "Memória do Judiciário: estudos acadêmicos sobre direto e religião são tema de webinário do CNJ",
       "link": "https://www.cnj.jus.br/memoria-do-judiciario-estudos-academicos-sobre-direto-e-religiao-sao-tema-de-webinario-do-cnj/",
       "resumo": "Entre o final do século XIX e o início do século XX, inquéritos, processos judiciais, habeas corpus, recursos e periódicos do Rio de Janeiro eram influenciados por livros mágico-religiosos que circulavam no estado. Já em São Paulo, no século XVIII, a Justiça Eclesiástica da Igreja Católica também pa",
       "publicado_em": "2026-10-13T12:00:00-03:00",
