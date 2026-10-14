@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-14T16:57:51-03:00",
+  "gerado_em": "2026-10-14T19:52:30-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -315,6 +315,104 @@
       "coletado_em": "2026-10-14T15:12:48-03:00"
     },
     {
+      "id": "78eb786401fe573b",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Escola Paulista da Magistratura oferece conhecimento jurídico para todos os públicos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115735&pagina=1",
+      "resumo": "Programas de pós-graduação, cursos rápidos e outros eventos. \n \n\tA Escola Paulista da Magistratura (EPM), braço acadêmico do Tribunal de Justiça de São Paulo, se destaca",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "0457b575a311ce9a",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "GMF promove palestra “Universidade, Justiça e Sociedade”, sobre cárcere e reinserção",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115741&pagina=1",
+      "resumo": "Exposição do professor Sérgio Salomão Shecaira. \n \n\tO Grupo de Monitoramento e Fiscalização do Sistema Carcerário do Tribunal de Justiça de São Paulo (GMF), em parceria",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "acao",
+        "exposicao"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "89e77ac4d4a0a161",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Programas SGP Próxima de Você e Gestão com Saúde chegam a São José dos Campos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115731&pagina=1",
+      "resumo": "Ações de apoio e orientação às lideranças locais. \n \n\tO Tribunal de Justiça de São Paulo, por meio da Secretaria de Gestão de Pessoas (SGP), realizou,",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "996e26cfe27332d1",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Revista Sophia: STF abre chamada de artigos para primeira edição da publicação científica internacional",
+      "link": "https://noticias.stf.jus.br/postsnoticias/revista-sophia-stf-abre-chamada-de-artigos-para-primeira-edicao-da-publicacao-cientifica-internacional/",
+      "resumo": "Publicação ibero-americana receberá trabalhos em espanhol até 30 de novembro; primeira edição está prevista para dezembro",
+      "publicado_em": "2026-10-14T18:07:49-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "2e4e1c155b332d34",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF recebe convite para evento da Associação dos Magistrados Brasileiros",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-recebe-convite-para-evento-da-associacao-dos-magistrados-brasileiros/",
+      "resumo": "Ministro Edson Fachin recebeu o presidente interino da AMB, Marcel Ferreira dos Santos, em audiência nesta quarta-feira (14)",
+      "publicado_em": "2026-10-14T17:30:58-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "29d25dbf18701f20",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Relator dá 48 horas para Anatel explicar falhas em acesso gratuito à Justiça Eleitoral no primeiro turno",
+      "link": "https://noticias.stf.jus.br/postsnoticias/relator-da-48-horas-para-anatel-explicar-falhas-em-acesso-gratuito-a-justica-eleitoral-no-primeiro-turno/",
+      "resumo": "Ministro Cristiano Zanin atendeu parcialmente a pedido do Partido Verde, autor de ação sobre a matéria",
+      "publicado_em": "2026-10-14T17:04:14-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
       "id": "35ef24b48d44a7f6",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -345,6 +443,111 @@
         "adi"
       ],
       "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "77dd44a6829798aa",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão de Direitos Humanos debate políticas públicas de proteção às meninas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/comissao-de-direitos-humanos-debate-politicas-publicas-de-protecao-as-meninas",
+      "resumo": "",
+      "publicado_em": "2026-10-14T19:25:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "ed8fd670496e1846",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Redução da jornada beneficia trabalhador e economia, diz Beto Faro",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/reducao-da-jornada-beneficia-trabalhador-e-economia-diz-beto-faro",
+      "resumo": "",
+      "publicado_em": "2026-10-14T18:20:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "183538279ac1c033",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Marcelo Castro aponta divisão regional do MDB no segundo turno das eleições",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/marcelo-castro-aponta-divisao-regional-do-mdb-no-segundo-turno-das-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-14T18:15:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "d9b55a557ead8782",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Esperidião Amin: aprovação da PEC que acaba com 6x1 terá efeitos 'assimétricos'",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/esperidiao-amin-aprovacao-da-pec-que-acaba-com-6x1-tera-efeitos-assimetricos",
+      "resumo": "",
+      "publicado_em": "2026-10-14T17:47:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "b1daab327cf7d166",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Mapa Nacional da Violência de Gênero é destaque em fórum internacional",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/mapa-nacional-da-violencia-de-genero-e-destaque-em-forum-internacional",
+      "resumo": "",
+      "publicado_em": "2026-10-14T17:22:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "d06f4d1c1017ad2b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi destaca compromisso e espírito público na votação do fim da escala 6x1",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/davi-destaca-compromisso-e-espirito-publico-na-votacao-do-fim-da-escala-6x1",
+      "resumo": "",
+      "publicado_em": "2026-10-14T17:04:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "3f8ce042c4bf5798",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Humberto Costa presta solidariedade a Dom Limacêdo e defende democracia",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/humberto-costa-presta-solidariedade-a-dom-limacedo-e-defende-democracia",
+      "resumo": "",
+      "publicado_em": "2026-10-14T16:59:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "solidariedade"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
     },
     {
       "id": "290a78a979c06599",
@@ -673,6 +876,64 @@
       "coletado_em": "2026-10-14T16:57:51-03:00"
     },
     {
+      "id": "8abfdb1d07e6ca47",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MEI vai ter dívidas bancárias renegociadas com desconto mínimo de 90%",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/fazenda-inclui-dividas-bancarias-do-mei-na-terceira-fase-da-renegociacao-de-dividas-com-descontos-minimos-de-90",
+      "resumo": "",
+      "publicado_em": "2026-10-14T18:40:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "770b87f8f547f59d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Abono Salarial: pagamento de lote complementar começa nesta quinta-feira (15)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/abono-salarial-pagamento-de-lote-complementar-comeca-nesta-quinta-feira-15",
+      "resumo": "",
+      "publicado_em": "2026-10-14T18:10:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "c4200e8c0bcf5df5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Acompanhe a saúde da criança pelo celular acessando a Caderneta Digital no Meu SUS Digital",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/quer-acompanhar-a-saude-da-crianca-pelo-celular-saiba-como-acessar-a-caderneta-digital-no-meu-sus-digital",
+      "resumo": "",
+      "publicado_em": "2026-10-14T16:35:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "c8f507dc17094186",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Minerais críticos e estratégicos já respondem por 129 mil empregos no Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/minerais-criticos-e-estrategicos-ja-respondem-por-129-mil-empregos-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-10-14T16:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
       "id": "b2c60beeedd2d232",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -808,6 +1069,87 @@
         "acao"
       ],
       "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "7c37dec4ebc31b2b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quando o Judiciário entra na campanha",
+      "link": "https://www.congressoemfoco.com.br/artigo/123257/quando-o-judiciario-entra-na-campanha",
+      "resumo": "Decisões judiciais sobre candidaturas e debates eleitorais reacendem a discussão sobre o equilíbrio entre os Poderes e os efeitos da atuação do Judiciário na disputa política.",
+      "publicado_em": "2026-10-14T17:20:08-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "8ba3d1dbefbb3676",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Hugo Motta atende pedido do governo e pauta aumento do teto do MEI",
+      "link": "https://www.congressoemfoco.com.br/noticia/123256/hugo-motta-atende-pedido-do-governo-e-pauta-aumento-do-teto-do-mei",
+      "resumo": "Proposta será relatada por Rubens Pereira Júnior e tramitará junto ao projeto que prevê perdão de R$ 12,9 bilhões em dívidas de MEIs.",
+      "publicado_em": "2026-10-14T17:19:25-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "617fbe7efcbff236",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A IA na 'mecanização' da Faria Lima",
+      "link": "https://www.congressoemfoco.com.br/artigo/123255/a-ia-na-mecanizacao-da-faria-lima",
+      "resumo": "Avanço da inteligência artificial amplia o risco de substituição de profissionais qualificados, enquanto o Congresso ainda precisa regulamentar a proteção constitucional contra a automação.",
+      "publicado_em": "2026-10-14T17:11:28-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "713ea060dd7b2a75",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PEC da Segurança: Flávio e Marinho propõem redução da maioridade penal",
+      "link": "https://www.congressoemfoco.com.br/noticia/123254/pec-da-seguranca-flavio-e-marinho-propoem-reducao-da-maioridade-penal",
+      "resumo": "Emenda de Plenário prevê responsabilização criminal a partir dos 14 anos por crimes graves e de 16 nos demais casos.",
+      "publicado_em": "2026-10-14T16:58:52-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "b56188340b3b55fd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Hugo Motta e a arte de construir pontes",
+      "link": "https://www.congressoemfoco.com.br/noticia/123253/hugo-motta-e-a-arte-de-construir-pontes",
+      "resumo": "Mesmo em um cenário de polarização política sem precedentes, marcado por votações difíceis e acirradas disputas eleitorais, o presidente da Câmara demonstrou habilidade diplomática na condução de negociações complexas, construindo consensos e aproximando posições divergentes.",
+      "publicado_em": "2026-10-14T16:50:01-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "precedente",
+        "acao",
+        "diploma"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
     },
     {
       "id": "91c270cce82dd75e",
@@ -1274,7 +1616,7 @@
       "fonte_nome": "CNJ",
       "titulo": "CNJ lança ações para reduzir superlotação e ampliar trabalho no sistema prisional do Acre",
       "link": "https://www.cnj.jus.br/cnj-lanca-acoes-para-reduzir-superlotacao-e-ampliar-trabalho-no-sistema-prisional-do-acre/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) realiza, nos dias 19 e 20 de outubro, uma missão ao Acre para lançar duas iniciativas do Pena Justa no estado: a e o Acre. O Pena Justa é o plano nacional criado para enfrentar problemas estruturais nas prisões brasileiras reconhecidos pelo Supremo Tribunal",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realiza, nos dias 19 e 20 de outubro, uma missão ao Acre para lançar duas iniciativas do Pena Justa no estado: a Central de Regulação de Vagas (CRV) e o Emprega LAB Acre. O Pena Justa é o plano nacional criado para enfrentar problemas",
       "publicado_em": "2026-10-14T12:00:00-03:00",
       "dia": "2026-10-14",
       "data_estimada": true,
@@ -1307,7 +1649,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Esmal abre inscrições para curso sobre enfrentamento ao racismo no Poder Judiciário",
       "link": "https://www.cnj.jus.br/esmal-abre-inscricoes-para-curso-sobre-enfrentamento-ao-racismo-no-poder-judiciario/",
-      "resumo": "A Escola Superior da Magistratura de Alagoas (Esmal) está com inscrições abertas para o curso “Enfrentamento ao Racismo no Poder Judiciário: Letramento Racial e Construção de Práticas Antirracistas”, destinado a magistrados e servidores do Poder Judiciário. A formação será realizada na modalidade de",
+      "resumo": "A Escola Superior da Magistratura de Alagoas (Esmal) está com inscrições abertas para o curso “Enfrentamento ao racismo no Poder Judiciário: letramento racial e construção de práticas antirracistas”, destinado a magistrados e servidores do Poder Judiciário. A formação será realizada na modalidade de",
       "publicado_em": "2026-10-14T12:00:00-03:00",
       "dia": "2026-10-14",
       "data_estimada": true,
@@ -1323,7 +1665,7 @@
       "fonte_nome": "CNJ",
       "titulo": "TJDFT prorroga campanha Semeando Alegrias 2026: faça sua doação para crianças acolhidas",
       "link": "https://www.cnj.jus.br/tjdft-prorroga-campanha-semeando-alegrias-2026-faca-sua-doacao-para-criancas-acolhidas/",
-      "resumo": "O Dia das Crianças passou, mas ainda faltam crianças e adolescentes acolhidos para serem presenteados. Por isso, o Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT), por meio da Rede Solidária Anjos do Amanhã (RSAA), prorrogou a campanha Semeando Alegrias 2026 até 19/10. Magistrados(",
+      "resumo": "O Dia das Crianças passou, mas ainda faltam crianças e adolescentes acolhidos para serem presenteados. Por isso, o Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT), por meio da Rede Solidária Anjos do Amanhã (RSAA), prorrogou a campanha Semeando Alegrias 2026, que receberá doações a",
       "publicado_em": "2026-10-14T12:00:00-03:00",
       "dia": "2026-10-14",
       "data_estimada": true,
@@ -1346,6 +1688,130 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "8599f2503a33cc03",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Política Antimanicomial do CNJ é destaque em guia lançado pela OMS",
+      "link": "https://www.cnj.jus.br/politica-antimanicomial-do-cnj-e-destaque-em-guia-lancado-pela-oms/",
+      "resumo": "Magistrados, gestores públicos e profissionais de saúde mental passam a contar com uma nova referência internacional para apoiar a implementação da Política Antimanicomial do Poder Judiciário. A Organização Mundial da Saúde (OMS) publicou, neste mês, um guia prático (em inglês) para orientar a desin",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "82ff6098d6137e03",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Prêmio Conciliar É Legal chega à 17ª edição com inscrições abertas até 7/11",
+      "link": "https://www.cnj.jus.br/premio-conciliar-e-legal-chega-a-17a-edicao-com-inscricoes-abertas-ate-7-11/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) está com inscrições abertas para a XVII edição do Prêmio Conciliar É Legal. A iniciativa reconhece e divulga práticas que contribuem para a prevenção e a solução adequada de conflitos, a ampliação do acesso à Justiça e a promoção da pacificação social. De acordo",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "3ebcfb1510c0b368",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ e TJAP fortalecem diálogo institucional sobre direitos indígenas e segurança do Judiciário",
+      "link": "https://www.cnj.jus.br/cnj-e-tjap-fortalecem-dialogo-institucional-sobre-direitos-indigenas-e-seguranca-do-judiciario/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) cumpriu, nesta terça-feira (13/10), agenda de visita institucional ao Tribunal de Justiça do Amapá (TJAP) para fortalecer a cooperação nas políticas judiciárias voltadas aos povos indígenas e à segurança do Judiciário. A iniciativa foi marcada pelo diálogo, pela ",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "0f2acefa89a7818a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova novo limite de enquadramento para microempreendedor individual e inclui perdão de dívidas",
+      "link": "https://www.camara.leg.br/noticias/1311288-camara-aprova-novo-limite-de-enquadramento-para-microempreendedor-individual-e-inclui-perdao-de-dividas",
+      "resumo": "",
+      "publicado_em": "2026-10-14T19:44:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "8f30ccc8f7d61e01",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria marco regulatório para fintechs com foco no combate a fraudes e lavagem de dinheiro",
+      "link": "https://www.camara.leg.br/noticias/1306829-projeto-cria-marco-regulatorio-para-fintechs-com-foco-no-combate-a-fraudes-e-lavagem-de-dinheiro",
+      "resumo": "",
+      "publicado_em": "2026-10-14T18:20:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "872733650913ef17",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Relator defende perdão a dívidas de microempreendedores individuais; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1311274-relator-defende-perdao-a-dividas-de-microempreendedores-individuais-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-10-14T17:55:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "f7a931d3b8dd8804",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Motta diz que reajuste para o Simples Nacional será votado até o fim do ano",
+      "link": "https://www.camara.leg.br/noticias/1311266-motta-diz-que-reajuste-para-o-simples-nacional-sera-votado-ate-o-fim-do-ano",
+      "resumo": "",
+      "publicado_em": "2026-10-14T17:34:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "simples nacional"
+      ],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "e36b816c4f37b29a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara inicia votações de hoje com análise de projeto sobre microempreendedor individual; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1311239-camara-inicia-votacoes-de-hoje-com-analise-de-projeto-sobre-microempreendedor-individual-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-10-14T17:07:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
     },
     {
       "id": "f3f22a4ec2a160ec",
@@ -2177,20 +2643,6 @@
         "decreto"
       ],
       "coletado_em": "2026-10-14T12:42:34-03:00"
-    },
-    {
-      "id": "8abfdb1d07e6ca47",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "MEI vai ter dívidas bancárias renegociadas com desconto mínimo de 90%",
-      "link": "https://agenciagov.ebc.com.br/noticias/202610/fazenda-inclui-dividas-bancarias-do-mei-na-terceira-fase-da-renegociacao-de-dividas-com-descontos-minimos-de-90",
-      "resumo": "",
-      "publicado_em": "2026-10-13T19:05:00-03:00",
-      "dia": "2026-10-13",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-10-14T15:12:48-03:00"
     },
     {
       "id": "d6665b8d1d7128a4",
@@ -4339,7 +4791,7 @@
       "id": "270c03020a1276a8",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
-      "titulo": "Cerca de 16,6 mil sites ilegais de apostas e de publicidade são encaminhados para bloqueio",
+      "titulo": "Mais de 20 mil sites ilegais de apostas e de publicidade são encaminhados para bloqueio",
       "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/cerca-de-16-6-mil-sites-ilegais-de-apostas-sao-encaminhados-para-bloqueio",
       "resumo": "",
       "publicado_em": "2026-10-09T12:00:00-03:00",
