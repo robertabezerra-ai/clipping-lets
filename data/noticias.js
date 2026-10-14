@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-13T20:32:07-03:00",
+  "gerado_em": "2026-10-14T12:42:34-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
@@ -179,7 +179,7 @@ window.DADOS = {
     {
       "id": "fazenda",
       "status": "ok",
-      "itens": 27,
+      "itens": 28,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -257,12 +257,662 @@ window.DADOS = {
       "titulo": "Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados",
       "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acesso-indevido-ao-dejt-e-ao-malote-digital-verifique-se-seus-dados-foram-acessados-1",
       "resumo": "",
-      "publicado_em": "2026-10-13T12:00:00-03:00",
-      "dia": "2026-10-13",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
       "data_estimada": true,
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-01T14:16:36-03:00"
+    },
+    {
+      "id": "60468dd80c93186b",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 abre cadastramento de entidades para recebimento de bens e valores decorrentes de decisões judiciais",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-abre-cadastramento-de-entidades-para-recebimento-de-bens-e-valores-decorrentes",
+      "resumo": "TRT-15 abre cadastramento de entidades para recebimento de bens e valores decorrentes de decisões judiciais anasiqueira Qua, 14/10/2026 - 12:22 TRT-15 abre cadastramento de entidades para recebimento de bens e valores decorrentes de decisões judiciais Conteúdo da Notícia O Tribunal Regional do Traba",
+      "publicado_em": "2026-10-14T12:22:36-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "3ec46fb880885645",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quarta-feira (14)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-14/",
+      "resumo": "Sessão será transmitida ao vivo pela TV e Rádio Justiça e pelo canal do STF no YouTube, a partir das 14h",
+      "publicado_em": "2026-10-14T09:57:34-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "c5f3ef892ac1f2ff",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Proposta busca recuperar recursos do financiamento estudantil",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/proposta-busca-recuperar-recursos-do-financiamento-estudantil",
+      "resumo": "",
+      "publicado_em": "2026-10-14T11:47:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "aac2833b5cfeb18a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PEC da Segurança Pública segue para o Plenário",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/pec-da-seguranca-publica-segue-para-o-plenario",
+      "resumo": "",
+      "publicado_em": "2026-10-14T11:36:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "f374777cce4198aa",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Medida provisória libera R$ 7,5 bilhões para reduzir impacto de reajustes nos combustíveis",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/medida-provisoria-libera-r-7-5-bilhoes-para-reduzir-impacto-de-reajustes-nos-combustiveis",
+      "resumo": "",
+      "publicado_em": "2026-10-14T11:33:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "3be2fea214aef141",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Emenda que resultou da 'PEC das Domésticas' garantiu direitos trabalhistas na Constituição",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/pec-das-domesticas-garantiu-direitos-trabalhistas-na-constituicao",
+      "resumo": "",
+      "publicado_em": "2026-10-14T10:34:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "1d1cfbeb851b4e8b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCJ conclui votação da PEC da Segurança; texto vai ao Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/ccj-conclui-votacao-da-pec-da-seguranca-texto-vai-ao-plenario",
+      "resumo": "",
+      "publicado_em": "2026-10-14T10:19:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "46c0e383de79711f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "O que é fato e o que é fake a respeito do segundo turno",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/eleicoes-2026-o-que-e-fato-e-fake-a-respeito-do-segundo-turno",
+      "resumo": "",
+      "publicado_em": "2026-10-14T10:06:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "5b5efc642c9fa7f8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sessão solene no Congresso comemorou Dia Mundial da Alimentação",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/sessao-solene-no-congresso-comemora-dia-mundial-da-alimentacao",
+      "resumo": "",
+      "publicado_em": "2026-10-14T09:58:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "4daf2f5459fa0d54",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CDH debate políticas públicas voltadas à proteção de meninas nesta quinta",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/cdh-debate-politicas-publicas-voltadas-a-protecao-de-meninas-nesta-quinta",
+      "resumo": "",
+      "publicado_em": "2026-10-14T09:57:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "2d950a3c1b9e1aaf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PEC do Fim da Escala 6x1 deve ser votada nesta quarta-feira",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/pec-do-fim-da-escala-6x1-deve-ser-votada-nesta-quarta-feira",
+      "resumo": "",
+      "publicado_em": "2026-10-14T09:37:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "5db3f62b291457e3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim da Escala 6x1: Davi Alcolumbre confirma votação nesta quarta",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/fim-da-escala-6x1-alcolumbre-confirma-votacao-nesta-quarta",
+      "resumo": "",
+      "publicado_em": "2026-10-14T09:15:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "c51b6c580bde13a7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto na CAS cria diretrizes para uso da inteligência artificial na saúde",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/projeto-na-cas-cria-diretrizes-para-uso-da-inteligencia-artificial-na-saude",
+      "resumo": "",
+      "publicado_em": "2026-10-14T09:04:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "7ae657ab46c52887",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Medida provisória determina bloqueio de chamadas e mensagens abusivas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/medida-provisoria-determina-bloqueio-de-chamadas-e-mensagens-abusivas",
+      "resumo": "",
+      "publicado_em": "2026-10-14T08:56:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "320bb1ee846f1b67",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polo Industrial de Manaus fatura R$ 165,12 bilhões no ano, 10% a mais que em 2025",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pim-fatura-r-165-12-bilhoes-ate-agosto",
+      "resumo": "",
+      "publicado_em": "2026-10-14T11:30:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "492d91c46844aad5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Correios supera 95% de pontualidade e inaugura novo equipamento de triagem",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/correios-supera-95-de-encomendas-entregues-no-prazo-e-reforca-operacao-para-o-fim-do-ano-35",
+      "resumo": "",
+      "publicado_em": "2026-10-14T11:30:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "22df4f239a0388bb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Especialistas alertam para perigos à saúde mental disfarçados de novidades",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/especialistas-alertam-perigos-saude-mental-disfarcados-de-novidade",
+      "resumo": "",
+      "publicado_em": "2026-10-14T11:20:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "38bfa6feca7d712a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Observatório Nacional, 199 anos: conquistas, novos servidores e mais infraestrutura",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/observatorio-nacional-celebra-199-anos-rumo-ao-bicentenario-com-conquistas-cientificas-novos-servidores-e-avancos-na-infraestrutura-digital",
+      "resumo": "",
+      "publicado_em": "2026-10-14T08:49:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "eba47a3926965d13",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Após investigação de 17 meses, PF encurrala gangue do tráfico internacional",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-reprime-organizacao-criminosa-atuante-no-trafico-internacional-de-drogas",
+      "resumo": "",
+      "publicado_em": "2026-10-14T08:07:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "a96356d2f07655b8",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Resolução 249 cria o Programa Piloto DLT CVM",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/resolucao-249-cria-o-programa-piloto-dlt-cvm",
+      "resumo": "",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "resolucao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "a1e73ba19d0b4e88",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A urgência de uma legislação estratégica para o Brasil",
+      "link": "https://www.congressoemfoco.com.br/artigo/123240/a-urgencia-de-uma-legislacao-estrategica-para-o-brasil",
+      "resumo": "Política Nacional de Minerais Críticos e Estratégicos reconhece a mineração urbana e cria incentivos para recuperar metais de equipamentos descartados.",
+      "publicado_em": "2026-10-14T12:00:38-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "fb2700b9fae6ddfd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika Hilton cria \"Tropa com Lula\" após suspensão de canal de Janones",
+      "link": "https://www.congressoemfoco.com.br/noticia/123239/erika-hilton-cria-tropa-com-lula-apos-suspensao-de-canal-de-janones",
+      "resumo": "Batizado de \"Tropa da Erika Hilton com Lula\", o grupo passou por uma reformulação para atender à campanha.",
+      "publicado_em": "2026-10-14T11:33:52-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "5e313cf2ffc2bd29",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em carta, Lula cita 6x1 e bets e pede \"discernimento\" a evangélicos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123237/em-carta-lula-cita-6x1-e-bets-e-pede-discernimento-a-evangelicos",
+      "resumo": "Em busca de aproximação com eleitorado evangélico, presidente defende dois dias de descanso semanal, combate às apostas e pede reflexão sobre o voto no segundo turno. Leia a íntegra da carta.",
+      "publicado_em": "2026-10-14T10:46:25-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "0af16e4db01527da",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quando e qual é o dia do segundo turno das eleições 2026?",
+      "link": "https://www.congressoemfoco.com.br/noticia/123236/quando-e-qual-e-o-dia-do-segundo-turno-das-eleicoes-2026",
+      "resumo": "A votação será realizada das 8h às 17h, pelo horário de Brasília, em todo o país, no dia 25 de outubro.",
+      "publicado_em": "2026-10-14T10:35:06-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "1707743932ff1bdd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Trecho ilícito pode levar à remoção de postagem inteira, decide TSE",
+      "link": "https://www.congressoemfoco.com.br/noticia/123235/trecho-ilicito-pode-levar-a-remocao-de-postagem-inteira-decide-tse",
+      "resumo": "Por unanimidade, ministros determinaram a retirada de publicações que associavam Lula e Flávio Bolsonaro a organizações criminosas.",
+      "publicado_em": "2026-10-14T09:43:44-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decide"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "7f52a56083a5cd72",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vídeo de Nikolas com crianças contra Lula tem retirada ordenada no TSE",
+      "link": "https://www.congressoemfoco.com.br/noticia/123234/video-de-nikolas-com-criancas-contra-lula-tem-retirada-ordenada-no-tse",
+      "resumo": "Ministro considerou que a encenação dá aparência factual a acusações contestadas e intensifica o apelo emocional da propaganda.",
+      "publicado_em": "2026-10-14T09:14:41-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "f2573a8db052964f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara pode votar nesta quarta novo regime para bancos em crise",
+      "link": "https://www.congressoemfoco.com.br/noticia/123233/camara-pode-votar-nesta-quarta-novo-regime-para-bancos-em-crise",
+      "resumo": "Primeiro item da pauta desta quarta-feira, projeto prevê perdas para acionistas e credores antes de socorro público. Resistência do governo já impediu a votação.",
+      "publicado_em": "2026-10-14T09:01:19-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "f8215652f9bbef76",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio diz que negou debate só para Lula aceitar e confirma ida",
+      "link": "https://www.congressoemfoco.com.br/noticia/123232/flavio-diz-enganou-lula-e-que-ira-ao-debate-para-esfregar-verdade",
+      "resumo": "Após anunciar que não participaria, candidato do PL afirma que queria obter a confirmação do adversário e promete confrontá-lo",
+      "publicado_em": "2026-10-14T08:53:52-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "026c2e28fb7ae085",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "CCJ conclui votação da PEC da Segurança e envia texto ao Plenário",
+      "link": "https://www.congressoemfoco.com.br/noticia/123231/ccj-conclui-votacao-da-pec-da-seguranca-e-envia-texto-ao-plenario",
+      "resumo": "Sem votação dos três destaques pendentes, comissão encerra análise da proposta, que endurece regras contra facções e permite criar polícias municipais.",
+      "publicado_em": "2026-10-14T08:49:03-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "2f3d13de06fd9f2f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Propaganda de Flávio será reexibida nesta quarta após falha no áudio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123230/propaganda-de-flavio-sera-reexibida-nesta-quarta-apos-falha-no-audio",
+      "resumo": "Decisão do TSE atende a pedido do PL e determina que as emissoras arquem com os custos da nova transmissão.",
+      "publicado_em": "2026-10-14T08:26:15-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "0891815061365508",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PGR aponta falta de provas e defende permanência de Andrei na PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/123228/pgr-aponta-falta-de-provas-e-defende-permanencia-de-andrei-na-pf",
+      "resumo": "Em parecer ao STF, Paulo Gonet afirma que não há provas contra dirigentes da Polícia Federal e contesta suspeita de monitoramento de ministros.",
+      "publicado_em": "2026-10-14T08:04:15-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "3120e176c6d5f4f1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula deixa pauta dos aplicativos morrer; Flávio dá partida na moto",
+      "link": "https://www.congressoemfoco.com.br/noticia/123227/lula-deixa-pauta-dos-aplicativos-morrer-flavio-da-partida-na-moto",
+      "resumo": "Governo Federal recuou na regulamentação do trabalho por aplicativos e agora vê adversário desfilar com motociclistas em São Paulo. Na política, quem fica parado acaba comendo poeira.",
+      "publicado_em": "2026-10-14T08:03:15-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "c64d53814d70aa1e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Exército do Lula\" sai do ar por 48 horas por medida de Nunes Marques",
+      "link": "https://www.congressoemfoco.com.br/noticia/123226/exercito-do-lula-sai-do-ar-por-48-horas-por-medida-de-nunes-marques",
+      "resumo": "Coordenado por André Janones e com mais de 4 milhões de seguidores, canal saiu do ar após decisão que provocou divergência entre ministros do TSE. Deputado criticou a suspensão e questionou sua motivação.",
+      "publicado_em": "2026-10-14T07:24:15-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "01bbe2b440aa421d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "WhatsApp sugere \"Tropa do Flávio\" ao pesquisar por \"Exército do Lula\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123225/whatsapp-sugere-tropa-do-flavio-ao-pesquisar-exercito-do-lula",
+      "resumo": "Pesquisa pelo canal suspenso também exibe páginas ligadas a Lula e ao PT, mas o inverso não ocorreu nas buscas registradas pelo Congresso em Foco.",
+      "publicado_em": "2026-10-14T07:16:01-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "f0d743e75999fad7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Chile e Argentina expõem o custo político e social do ajuste fiscal",
+      "link": "https://www.congressoemfoco.com.br/noticia/123224/chile-e-argentina-expoem-o-custo-politico-e-social-do-ajuste-fiscal",
+      "resumo": "Kast enfrenta rejeição de 64% no Chile, enquanto a Argentina de Milei convive com dificuldades sociais após o ajuste. Experiências acendem debate sobre cortes de gastos no Brasil.",
+      "publicado_em": "2026-10-14T07:06:45-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "3a22bbb9f5b0da35",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ abre consulta pública sobre Política Judiciária Nacional de Cuidados",
+      "link": "https://www.cnj.jus.br/cnj-abre-consulta-publica-sobre-politica-judiciaria-nacional-de-cuidados/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) recebe, até 18 de outubro, contribuições à proposta de resolução que cria a Política Judiciária Nacional de Cuidados. A iniciativa busca incorporar a perspectiva do cuidado ao funcionamento do Poder Judiciário, desde a gestão de pessoas até o atendimento ao públi",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "resolucao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "adaee3f9518e4e7b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Aliança Lilás: programa integrará sistemas para o enfrentamento à violência contra a mulher",
+      "link": "https://www.cnj.jus.br/alianca-lilas-programa-integrara-sistemas-para-o-enfrentamento-a-violencia-contra-a-mulher/",
+      "resumo": "O tempo de apreciação das medidas protetivas de urgência (MPU) deve ser reduzido a partir da implementação do Programa Aliança Lilás, que promove a interoperabilidade nacional entre os sistemas do Poder Judiciário e os dos órgãos de segurança pública. Para alcançar essa integração, o programa instit",
+      "publicado_em": "2026-10-14T12:00:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "d7eef56f7edd9ad9",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova aumento de prazo para credor em recuperação judicial",
+      "link": "https://www.camara.leg.br/noticias/1311082-comissao-aprova-aumento-de-prazo-para-credor-em-recuperacao-judicial",
+      "resumo": "",
+      "publicado_em": "2026-10-14T12:39:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 88,
+      "tags": [
+        "prazo",
+        "recuperacao judicial",
+        "aprova",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "949195cb0352f1eb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que proíbe penas e plumas de animais em fantasias",
+      "link": "https://www.camara.leg.br/noticias/1311079-comissao-aprova-projeto-que-proibe-penas-e-plumas-de-animais-em-fantasias",
+      "resumo": "",
+      "publicado_em": "2026-10-14T11:51:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "5a3829514b20ccf1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova incentivo fiscal para empresas que contratarem pessoas desempregadas há mais de 12 meses",
+      "link": "https://www.camara.leg.br/noticias/1311076-comissao-aprova-incentivo-fiscal-para-empresas-que-contratarem-pessoas-desempregadas-ha-mais-de-12-meses",
+      "resumo": "",
+      "publicado_em": "2026-10-14T11:10:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "3f03ffd266c91f1a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Medida provisória determina bloqueio de chamadas e mensagens abusivas",
+      "link": "https://www.camara.leg.br/noticias/1310829-medida-provisoria-determina-bloqueio-de-chamadas-e-mensagens-abusivas",
+      "resumo": "",
+      "publicado_em": "2026-10-14T09:53:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "5b034584d8c0681d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara pode votar nesta quarta-feira novo regime para socorrer ou liquidar bancos",
+      "link": "https://www.camara.leg.br/noticias/1311037-camara-pode-votar-nesta-quarta-feira-novo-regime-para-socorrer-ou-liquidar-bancos",
+      "resumo": "",
+      "publicado_em": "2026-10-14T08:34:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T20:32:07-03:00"
     },
     {
       "id": "d36c55bfcd4a993e",
@@ -918,6 +1568,36 @@ window.DADOS = {
       "coletado_em": "2026-10-13T17:58:22-03:00"
     },
     {
+      "id": "41147d2943736d5c",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Novo decreto do SAC amplia proteção ao consumidor e estabelece regras de atendimento",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/novo-decreto-do-sac-amplia-protecao-ao-consumidor-e-estabelece-regras-de-atendimento",
+      "resumo": "",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decreto"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "d6665b8d1d7128a4",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enviado ao Congresso o projeto de apoio a trabalhadores por conta própria. Saiba mais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/governo-encaminha-ao-congresso-nacional-proposta-para-trabalhadores-por-conta-propria-44",
+      "resumo": "",
+      "publicado_em": "2026-10-13T18:03:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
       "id": "f226e34c4d2578ce",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1072,6 +1752,36 @@ window.DADOS = {
       "coletado_em": "2026-10-13T17:58:22-03:00"
     },
     {
+      "id": "01c194d7c11286c1",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Fazenda inclui dívidas bancárias do MEI na terceira fase da renegociação de dívidas com descontos mínimos de 90%",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/fazenda-inclui-dividas-bancarias-do-mei-na-terceira-fase-da-renegociacao-de-dividas-com-descontos-minimos-de-90",
+      "resumo": "",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "c6c406dc52f251d6",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Governo encaminha ao Congresso Nacional proposta para trabalhadores por conta própria",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/governo-encaminha-ao-congresso-nacional-proposta-para-trabalhadores-por-conta-propria",
+      "resumo": "",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
       "id": "9534ab663b071798",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -1084,6 +1794,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-13T14:56:43-03:00"
+    },
+    {
+      "id": "0c00f10e9eb7874b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alcolumbre confirma votação de calendário especial para a PEC 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123223/alcolumbre-confirma-votacao-de-calendario-especial-para-a-pec-6x1",
+      "resumo": "Senador informou que requerimento para acelerar votação alcançou o número regimental de assinaturas para entrar em pauta.",
+      "publicado_em": "2026-10-13T20:28:18-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
     },
     {
       "id": "6d3668b02a6c6c47",
@@ -1728,18 +2454,39 @@ window.DADOS = {
       "coletado_em": "2026-10-13T20:32:07-03:00"
     },
     {
-      "id": "5b034584d8c0681d",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Câmara pode votar nesta quarta-feira novo regime para socorrer ou liquidar bancos",
-      "link": "https://www.camara.leg.br/noticias/1311037-camara-pode-votar-nesta-quarta-feira-novo-regime-para-socorrer-ou-liquidar-bancos",
-      "resumo": "",
-      "publicado_em": "2026-10-13T19:38:00-03:00",
+      "id": "2880a04f4e6249c2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Conexão Auditoria apresenta ferramenta de gestão e fiscalização de contratos de terceirização na sexta (23/10)",
+      "link": "https://www.cnj.jus.br/conexao-auditoria-apresenta-ferramenta-de-gestao-e-fiscalizacao-de-contratos-de-terceirizacao-na-sexta-23-10/",
+      "resumo": "Padronização de procedimentos, automação de rotinas e aprimoramento do controle das obrigações contratuais, trabalhistas e fiscais de empresas terceirizadas serão os principais temas debatidos na próxima reunião do Conexão Auditoria. Promovido pelo Conselho Nacional de Justiça (CNJ), o encontro será",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
       "dia": "2026-10-13",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-10-13T20:32:07-03:00"
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "03536baf05036e41",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Memória do Judiciário: estudos acadêmicos sobre Direito e Religião são tema de webinário do CNJ",
+      "link": "https://www.cnj.jus.br/memoria-do-judiciario-estudos-academicos-sobre-direto-e-religiao-sao-tema-de-webinario-do-cnj/",
+      "resumo": "Entre o final do século XIX e o início do século XX, inquéritos, processos judiciais, habeas corpus, recursos e periódicos do Rio de Janeiro eram influenciados por livros mágico-religiosos que circulavam no estado. Já em São Paulo, no século XVIII, a Justiça Eclesiástica da Igreja Católica também pa",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "cade",
+        "processo",
+        "recurso"
+      ],
+      "coletado_em": "2026-10-14T12:42:34-03:00"
     },
     {
       "id": "f312889c59ef53f3",
@@ -82266,54 +83013,6 @@ window.DADOS = {
         "acao",
         "homenagem",
         "comemora"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "5553946bd0802920",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Credores de precatórios dos municípios de São Paulo podem celebrar acordo de pagamento até 28/7",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/credores-de-precatorios-dos-municipios-de-sao-paulo-podem-celebrar-acordo-de-pagamento-ate-28-7",
-      "resumo": "",
-      "publicado_em": "2026-07-15T12:00:00-03:00",
-      "dia": "2026-07-15",
-      "data_estimada": true,
-      "score": 52,
-      "tags": [
-        "precatorio"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "e09be415470c28b0",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Processo seletivo para vaga de liderança da equipe da Seção de Apoio à Gestão Estratégica de Pessoas (Sagep)",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/processo-seletivo-para-vaga-de-lideranca-da-equipe-da-secao-de-apoio-a-gestao-estrategica-de-pessoas-sagep",
-      "resumo": "",
-      "publicado_em": "2026-07-15T12:00:00-03:00",
-      "dia": "2026-07-15",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "processo"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "2c986f7438c28a32",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "Encerradas inscrições para participação presencial no 3º Encontro ANPD de Encarregados",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/encerradas-inscricoes-para-o-3-encontro-anpd-encarregados",
-      "resumo": "Evento será realizado presencialmente no dia 19 de agosto, no auditório do DNIT, em Brasília, e transmitido ao vivo pelo canal da Agência no Youtube",
-      "publicado_em": "2026-07-15T17:35:00-03:00",
-      "dia": "2026-07-15",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
