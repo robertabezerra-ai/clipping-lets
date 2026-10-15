@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-15T14:55:58-03:00",
+  "gerado_em": "2026-10-15T16:41:21-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 16,
+      "itens": 17,
       "erro": null
     },
     {
@@ -334,7 +334,7 @@
       "fonte_nome": "STF",
       "titulo": "STF decreta prisão de seis investigados por suspeita de ligação com crime organizado no RJ",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-decreta-prisao-de-seis-investigados-por-suspeita-de-ligacao-com-crime-organizado-no-rj/",
-      "resumo": "Decisão do ministro Alexandre de Moraes também determina buscas e bloqueio de bens. Decisão atende a pedido da PF com aval da PGR",
+      "resumo": "Ministro Alexandre de Moraes também determina buscas e bloqueio de bens. Decisão atende a pedido da PF com aval da PGR",
       "publicado_em": "2026-10-15T14:44:09-03:00",
       "dia": "2026-10-15",
       "data_estimada": false,
@@ -360,6 +360,85 @@
         "adi"
       ],
       "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "12c4f79c18210806",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Teresa Leitão homenageia professores e defende recursos para educação",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/teresa-leitao-homenageia-professores-e-defende-recursos-para-educacao",
+      "resumo": "",
+      "publicado_em": "2026-10-15T16:30:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "recurso",
+        "acao",
+        "homenageia"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "3dacc4b86d5d4951",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Maioridade penal: 'Vamos trabalhar tema de forma responsável', diz líder do governo",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/maioridade-penal-vamos-trabalhar-tema-de-forma-responsavel-diz-lider-do-governo",
+      "resumo": "",
+      "publicado_em": "2026-10-15T16:24:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "147a0caa833f4640",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Escala 5x2 amplia qualidade de vida dos trabalhadores, diz Veneziano",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/escala-5x2-amplia-qualidade-de-vida-dos-trabalhadores-diz-veneziano",
+      "resumo": "",
+      "publicado_em": "2026-10-15T16:22:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "c6a840bc8aa94197",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Paim celebra aprovação do fim da 6x1 e defende PEC da Segurança Pública",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/paim-celebra-aprovacao-do-fim-da-6x1-e-defende-pec-da-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-10-15T16:13:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "c9e51b33d9152dec",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão mista aprova MP que exige exame para exercício da medicina",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/comissao-mista-aprova-mp-que-exige-exame-para-exercicio-da-medicina",
+      "resumo": "",
+      "publicado_em": "2026-10-15T15:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
     },
     {
       "id": "c6346bac039d17f6",
@@ -514,6 +593,68 @@
       "coletado_em": "2026-10-15T14:55:58-03:00"
     },
     {
+      "id": "ea53cf52b41c2977",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Força Nacional prepara 86 profissionais de 20 Unidades da Federação para atuação em operações pelo Brasil",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forca-nacional-prepara-86-profissionais-de-20-unidades-da-federacao-para-atuacao-em-operacoes-pelo-brasil",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "a275ec9631a02be1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil tem 2,4 milhões de docentes na educação básica, aumento de 10% em uma década",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/com-10-a-mais-em-uma-decada-brasil-tem-2-4-mi-docentes-educacao-basica",
+      "resumo": "",
+      "publicado_em": "2026-10-15T16:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "3c90c0bb1283e118",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Petrobras alcança R$ 800 bilhões em valor de mercado e renova máxima histórica na Bolsa",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/petrobras-alcanca-r-800-bilhoes-em-valor-de-mercado-e-renova-maxima-historica-na-b3",
+      "resumo": "",
+      "publicado_em": "2026-10-15T16:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "4ba040b3ef64d6a7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Câmara aprova projeto que perdoa dívidas e aumenta teto de faturamento das MEI's",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/prospera-mei-camara-aprova-perdao-de-dividas-aumento-do-teto-de-faturamento-e-ampliacao-de-preferencia-em-contratacoes-do-governo",
+      "resumo": "",
+      "publicado_em": "2026-10-15T13:41:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
       "id": "5b93f90fe4615b11",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -526,22 +667,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-15T14:55:58-03:00"
-    },
-    {
-      "id": "a275ec9631a02be1",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Brasil tem 2,4 milhões de docentes na educação básica, aumento de 10% em uma década",
-      "link": "https://agenciagov.ebc.com.br/noticias/202610/com-10-a-mais-em-uma-decada-brasil-tem-2-4-mi-docentes-educacao-basica",
-      "resumo": "",
-      "publicado_em": "2026-10-15T11:15:00-03:00",
-      "dia": "2026-10-15",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
       "id": "770b87f8f547f59d",
@@ -650,6 +775,108 @@
       "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
+      "id": "39573fb917a60981",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara aprova MP da obrigatoriedade do Enamed; texto vai ao Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/123299/camara-aprova-mp-da-obrigatoriedade-do-enamed-texto-vai-ao-senado",
+      "resumo": "Proposta amplia fiscalização dos cursos de Medicina e obriga faculdades a divulgar os resultados das três últimas edições do exame.",
+      "publicado_em": "2026-10-15T16:21:44-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "obrigatoriedade",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "a2edabe97477e909",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Globe Investimentos conclui compra da Avibras; Dantas será presidente",
+      "link": "https://www.congressoemfoco.com.br/noticia/123297/globe-investimentos-conclui-compra-da-avibras-dantas-sera-presidente",
+      "resumo": "Fabricante brasileira de sistemas e tecnologias de defesa foi adquirida pela family office dos empresários Joesley e Wesley Batista.",
+      "publicado_em": "2026-10-15T15:55:01-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "2886ffac407e108d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O Brasil precisa ouvir os seus emigrantes",
+      "link": "https://www.congressoemfoco.com.br/artigo/123296/o-brasil-precisa-ouvir-os-seus-emigrantes",
+      "resumo": "Com quase 919 mil eleitores registrados fora do país em 2026, cresce o debate sobre a criação de cadeiras no Legislativo para representar os brasileiros que vivem no exterior.",
+      "publicado_em": "2026-10-15T15:33:40-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "71a31a4cf85cc527",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fim da escala 6x1: Entenda as exceções à nova jornada",
+      "link": "https://www.congressoemfoco.com.br/noticia/123293/fim-da-escala-6x1-entenda-as-excecoes-a-nova-jornada",
+      "resumo": "Empregados com diploma superior e salário a partir de R$ 21,2 mil poderão trabalhar mais de 40 horas semanais. Plantões especiais terão regras próprias de compensação.",
+      "publicado_em": "2026-10-15T15:14:56-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "acao",
+        "diploma"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "c509ca19368558ef",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Reforma Tributária: Quem será contribuinte do IBS e da CBS?",
+      "link": "https://www.congressoemfoco.com.br/artigo/123291/reforma-tributaria-quem-sera-contribuinte-do-ibs-e-da-cbs",
+      "resumo": "Lei Complementar 214/2025 define fornecedores, importadores e adquirentes sujeitos aos novos tributos sobre o consumo e estabelece exceções para determinadas atividades e categorias.",
+      "publicado_em": "2026-10-15T15:04:29-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 82,
+      "tags": [
+        "reforma tributaria",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "f5dd154f35b8472f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lucas Pavanato é condenado a indenizar mulher ridicularizada em vídeo",
+      "link": "https://www.congressoemfoco.com.br/noticia/123289/lucas-pavanato-e-condenado-a-indenizar-mulher-ridicularizada-em-video",
+      "resumo": "TJ/SP negou recurso e manteve sentença de deputado eleito.",
+      "publicado_em": "2026-10-15T14:48:46-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "condenado",
+        "indenizar",
+        "recurso"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
       "id": "15c764f45640cd08",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -695,7 +922,7 @@
       "id": "5bc44c088721dbcd",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "Pollon quer reduzir sigilo na Presidência de 100 para quatro anos",
+      "titulo": "Pollon quer reduzir sigilo na presidência de 100 para quatro anos",
       "link": "https://www.congressoemfoco.com.br/noticia/123284/pollon-quer-reduzir-sigilo-na-presidencia-de-100-para-quatro-anos",
       "resumo": "Proposta também reduz prazos de classificação de informações e prevê revisão de sigilos pelo Legislativo.",
       "publicado_em": "2026-10-15T12:47:57-03:00",
@@ -1059,6 +1286,170 @@
         "acao"
       ],
       "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "eaf49b54f72648cc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova uso de exames de saúde privados em unidades do SUS",
+      "link": "https://www.camara.leg.br/noticias/1311598-camara-aprova-uso-de-exames-de-saude-privados-em-unidades-do-sus",
+      "resumo": "",
+      "publicado_em": "2026-10-15T16:37:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "24a6f29ce66f698b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova quebra judicial de sigilo para checar capacidade de pagar pensão alimentícia",
+      "link": "https://www.camara.leg.br/noticias/1311472-comissao-aprova-quebra-judicial-de-sigilo-para-checar-capacidade-de-pagar-pensao-alimenticia",
+      "resumo": "",
+      "publicado_em": "2026-10-15T16:30:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprova",
+        "judicial"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "2eb624ba22c7a005",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova campanha de primeiros socorros contra asfixia",
+      "link": "https://www.camara.leg.br/noticias/1311618-camara-aprova-campanha-de-primeiros-socorros-contra-asfixia",
+      "resumo": "",
+      "publicado_em": "2026-10-15T16:26:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "111fa4567711560c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Hugo Motta afirma que aprovação de MP permitirá avaliação rigorosa e aprimoramento dos cursos de medicina",
+      "link": "https://www.camara.leg.br/noticias/1311645-hugo-motta-afirma-que-aprovacao-de-mp-permitira-avaliacao-rigorosa-e-aprimoramento-dos-cursos-de-medicina",
+      "resumo": "",
+      "publicado_em": "2026-10-15T16:13:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "27ebbaffbb7c740f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova piso salarial de R$ 6,5 mil para farmacêuticos",
+      "link": "https://www.camara.leg.br/noticias/1311526-comissao-aprova-piso-salarial-de-r-65-mil-para-farmaceuticos",
+      "resumo": "",
+      "publicado_em": "2026-10-15T16:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "f04682d3dc77bbeb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova política de crédito para mulheres do campo",
+      "link": "https://www.camara.leg.br/noticias/1311515-comissao-aprova-politica-de-credito-para-mulheres-do-campo",
+      "resumo": "",
+      "publicado_em": "2026-10-15T15:56:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "a2e2bebb14e17523",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova prioridade no Minha Casa, Minha Vida para famílias de crianças com câncer",
+      "link": "https://www.camara.leg.br/noticias/1311477-comissao-aprova-prioridade-no-minha-casa-minha-vida-para-familias-de-criancas-com-cancer",
+      "resumo": "",
+      "publicado_em": "2026-10-15T15:51:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "199aef6a25aca6df",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova MP que torna obrigatória a aprovação em exame para exercer a medicina",
+      "link": "https://www.camara.leg.br/noticias/1311586-camara-aprova-mp-que-torna-obrigatoria-a-aprovacao-em-exame-para-exercer-a-medicina",
+      "resumo": "",
+      "publicado_em": "2026-10-15T15:48:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "57a1bca95679e038",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados analisam MP que torna obrigatória a aprovação em exame para exercer a medicina; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1311389-deputados-analisam-mp-que-torna-obrigatoria-a-aprovacao-em-exame-para-exercer-a-medicina-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-10-15T15:26:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "79434fa7364ce3a7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que reconhece a Seleção Brasileira como símbolo da cultura nacional",
+      "link": "https://www.camara.leg.br/noticias/1311459-comissao-aprova-projeto-que-reconhece-a-selecao-brasileira-como-simbolo-da-cultura-nacional",
+      "resumo": "",
+      "publicado_em": "2026-10-15T14:57:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
     },
     {
       "id": "eaa3225b90a55e7b",
@@ -2252,6 +2643,38 @@
         "aprova"
       ],
       "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "42a5a5cb8e72ebe7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Partidos de centro foram os mais suprimidos pela direita, diz Aliel",
+      "link": "https://www.congressoemfoco.com.br/noticia/123260/partidos-de-centro-foram-os-mais-suprimidos-pela-direita-diz-aliel",
+      "resumo": "Deputado aponta a perda de espaço das legendas moderadas diante da polarização e alerta para dificuldades de negociação no Congresso.",
+      "publicado_em": "2026-10-14T19:09:25-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "eec2ea6690463ddf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Falta de frente ampla desgastou a esquerda, diz Aliel Machado",
+      "link": "https://www.congressoemfoco.com.br/noticia/123259/falta-de-frente-ampla-desgastou-a-esquerda-diz-aliel-machado",
+      "resumo": "Vice-líder do governo Lula avalia que concentração política no PT e polarização ampliaram força eleitoral da direita no primeiro turno.",
+      "publicado_em": "2026-10-14T18:29:29-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T16:41:21-03:00"
     },
     {
       "id": "7c37dec4ebc31b2b",
