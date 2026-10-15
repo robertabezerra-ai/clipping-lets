@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-15T16:41:21-03:00",
+  "gerado_em": "2026-10-15T19:47:39-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 17,
+      "itens": 18,
       "erro": null
     },
     {
@@ -283,6 +283,22 @@ window.DADOS = {
       "coletado_em": "2026-10-15T14:55:58-03:00"
     },
     {
+      "id": "c22000e1c8cefc51",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Encontro Anual de Magistrados debate os desafios da magistratura em tempos de transformação",
+      "link": "https://trt15.jus.br/noticia/2026/encontro-anual-de-magistrados-debate-os-desafios-da-magistratura-em-tempos-de",
+      "resumo": "Encontro Anual de Magistrados debate os desafios da magistratura em tempos de transformação anasiqueira Qui, 15/10/2026 - 18:11 Encontro Anual de Magistrados debate os desafios da magistratura em tempos de transformação Conteúdo da Notícia Como preservar os valores essenciais da Justiça do Trabalho ",
+      "publicado_em": "2026-10-15T18:11:27-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
       "id": "4b26635b912dface",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -329,6 +345,102 @@ window.DADOS = {
       "coletado_em": "2026-10-15T14:55:58-03:00"
     },
     {
+      "id": "d111746f3f9144f1",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Empresas de transporte indenizarão morador após ônibus desgovernado atingir casa e carros",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115757&pagina=1",
+      "resumo": "Reparações fixadas em mais de R$ 14 mil.\n\t \n\tA 32ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve decisão da 2ª Vara",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "decisao",
+        "indenizar"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "460246225274f246",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP realiza posse administrativa de 17 desembargadores",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115747&pagina=1",
+      "resumo": "Magistrados com mais de 33 anos de carreira. \n \n\tO Tribunal de Justiça de São Paulo realizou, hoje (15), a posse administrativa de 17 desembargadores: Paulo",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "bcb0cbb469e2c2b6",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP prestigia celebração de 40 anos da PGM-SP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115746&pagina=1",
+      "resumo": "Solenidade realizada no Theatro Municipal.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, magistrados paulistas e representantes de diversas instituições",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "4ae7b2c931fd336a",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Conheça a “Carta de Serviços ao Cidadão” do TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115756&pagina=1",
+      "resumo": "Acesso rápido aos principais links.\n \n\tCom o intuito de auxiliar com eficiência e transparência aqueles que buscam orientação, documento ou informação, o Tribunal de Justiça",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "95fcf6720c737661",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF valida lei que reestruturou cargos do Ministério do Meio Ambiente e do Ibama",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-valida-lei-que-reestruturou-cargos-do-ministerio-do-meio-ambiente-e-do-ibama/",
+      "resumo": "Para a Corte, mudanças na carreira respeitaram critérios para aproveitamento de servidores",
+      "publicado_em": "2026-10-15T19:41:50-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "efeb43994f8f6f6b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF aprova Plano Estratégico de Longo Prazo para período de 2026 a 2031",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-aprova-plano-estrategico-de-longo-prazo-para-periodo-de-2026-a-2031/",
+      "resumo": "Segundo o presidente da Corte, ministro Edson Fachin, o fortalecimento institucional do STF exige preservar valores e, ao mesmo tempo, responder às transformações da sociedade",
+      "publicado_em": "2026-10-15T18:30:53-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "prazo",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
       "id": "fbfd06012d8ef213",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -360,6 +472,171 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "f58e8942676108ed",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova aumento do teto para MEI e perdão de dívidas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/senado-aprova-aumento-do-teto-para-mei-e-perdao-de-dividas",
+      "resumo": "",
+      "publicado_em": "2026-10-15T19:32:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "bec8df6c88853778",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso promulga nesta sexta emendas sobre 6x1 e agentes de saúde",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/senado-promulga-nesta-sexta-emendas-sobre-6x1-e-agentes-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-10-15T19:08:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "85cec71fa473029f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Marcos do Val critica decisões do STF e relata restrições a seu mandato",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/marcos-do-val-critica-decisoes-do-stf-e-relata-restricoes-a-seu-mandato",
+      "resumo": "",
+      "publicado_em": "2026-10-15T18:44:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "0ee742fd88312f0d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Izalci homenageia professores e defende valorização da categoria",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/izalci-homenageia-professores-e-defende-valorizacao-da-categoria",
+      "resumo": "",
+      "publicado_em": "2026-10-15T18:42:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "acao",
+        "homenageia"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "44193705c5444457",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi anuncia para sexta a promulgação de PECs da 6x1 e dos agentes de saúde",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/davi-anuncia-para-sexta-promulgacao-de-pecs-da-6x1-e-dos-agentes-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-10-15T18:41:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "5b5f2de6c7f20908",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Leany Lemos alerta para risco à soberania brasileira em fala de Marco Rubio",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/leany-lemos-alerta-para-risco-a-soberania-brasileira-em-fala-de-marco-rubio",
+      "resumo": "",
+      "publicado_em": "2026-10-15T18:08:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "badcf4d0cb725562",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Cleitinho defende incentivos a empresas com redução da jornada",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/cleitinho-defende-incentivos-a-empresas-com-reducao-da-jornada",
+      "resumo": "",
+      "publicado_em": "2026-10-15T18:06:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "e939f9c84a5a844f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Plenário do Senado aprecia PEC da Segurança com calendário especial",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/plenario-do-senado-aprecia-pec-da-seguranca-com-calendario-especial",
+      "resumo": "",
+      "publicado_em": "2026-10-15T17:23:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "386cfb6f75d1e9c6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Dra. Eudócia pede fiscalização de atos administrativos do governo de Alagoas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/dra-eudocia-pede-fiscalizacao-de-atos-administrativos-do-governo-de-alagoas",
+      "resumo": "",
+      "publicado_em": "2026-10-15T17:12:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "57127f5a41c71194",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Zenaide Maia parabeniza professores e cobra melhorias no ensino público",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/zenaide-maia-parabeniza-professores-e-cobra-melhorias-no-ensino-publico",
+      "resumo": "",
+      "publicado_em": "2026-10-15T17:07:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "53a6314117e1170a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão do Congresso aprova exame do MEC para exercício da medicina",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/comissao-do-congresso-aprova-exame-do-mec-para-exercicio-da-medicina",
+      "resumo": "",
+      "publicado_em": "2026-10-15T16:53:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
     },
     {
       "id": "12c4f79c18210806",
@@ -609,6 +886,36 @@ window.DADOS = {
       "coletado_em": "2026-10-15T16:41:21-03:00"
     },
     {
+      "id": "f9fe849a80514241",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP realiza agenda no Rio de Janeiro com entrega de equipamentos e apresentação de ações contra o crime organizado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-realiza-agenda-no-rio-de-janeiro-com-entrega-de-equipamentos-e-apresentacao-de-acoes-contra-o-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "1dd00fe46b01a400",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP e MDHC lançam Guia sobre usos da inteligência artificial na infância e adolescência",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-mdhc-lancam-guia-sobre-usos-da-inteligencia-artificial-na-infancia-e-adolescencia",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
       "id": "a275ec9631a02be1",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -773,6 +1080,104 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "8427e0b1523f1c09",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova aumento do teto do MEI para R$ 140 mil a partir de 2028",
+      "link": "https://www.congressoemfoco.com.br/noticia/123307/senado-aprova-aumento-do-teto-do-mei-para-r-140-mil-a-partir-de-2028",
+      "resumo": "Texto estabelece aumento gradual do teto até 2028 e inclui proposta do governo para perdão de dívidas.",
+      "publicado_em": "2026-10-15T19:32:12-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "5210b552a22257dd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Davi Alcolumbre adia votação da PEC da Segurança Pública",
+      "link": "https://www.congressoemfoco.com.br/noticia/123306/davi-alcolumbre-adia-votacao-da-pec-da-seguranca-publica",
+      "resumo": "Disputa na base sobre a emenda de Camilo Santana interrompe tentativa do governo de aprovar a PEC antes do segundo turno.",
+      "publicado_em": "2026-10-15T19:05:48-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "adi",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "b5116d3f78c83d8f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Camilo contraria governo e propõe emenda com redução da maioridade",
+      "link": "https://www.congressoemfoco.com.br/noticia/123304/camilo-contraria-governo-e-propoe-emenda-com-reducao-da-maioridade",
+      "resumo": "Ex-ministro da Educação defende prisão aos 16 anos por crimes hediondos e contraria estratégia governista de acelerar a aprovação da PEC.",
+      "publicado_em": "2026-10-15T18:08:57-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "b0c1792a1349b5d2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Porchat defende voto que \"equilibre\" poder entre governo e Congresso",
+      "link": "https://www.congressoemfoco.com.br/noticia/123303/porchat-defende-voto-que-equilibre-poder-entre-governo-e-congresso",
+      "resumo": "Humorista argumenta em vídeo que prefere um presidente que possa ser \"freado\" pelo Legislativo.",
+      "publicado_em": "2026-10-15T17:56:49-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "68f9f8b436a6fd2b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MP do Enamed reforça qualidade e proteção à saúde, diz Hugo Motta",
+      "link": "https://www.congressoemfoco.com.br/noticia/123301/mp-do-enamed-reforca-qualidade-e-protecao-a-saude-diz-hugo-motta",
+      "resumo": "Presidente da Câmara defende exame obrigatório para assegurar a preparação dos novos médicos e reduzir riscos no atendimento aos pacientes.",
+      "publicado_em": "2026-10-15T17:04:36-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "obrigatorio",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "f33daf333ffdecd5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Um crime contra a humanidade",
+      "link": "https://www.congressoemfoco.com.br/artigo/123300/um-crime-contra-a-humanidade",
+      "resumo": "Mantidas por governos democratas e republicanos, as restrições comerciais impostas à ilha desde a Guerra Fria continuam afetando sua economia e são alvo de críticas por seus impactos sobre a população.",
+      "publicado_em": "2026-10-15T16:39:40-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
     },
     {
       "id": "39573fb917a60981",
@@ -1259,9 +1664,9 @@ window.DADOS = {
       "id": "8baa7d316b08eb35",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "ESMAM promove curso sobre práticas anticapacitistas no serviço público",
+      "titulo": "Esmam promove curso sobre práticas anticapacitistas no serviço público",
       "link": "https://www.cnj.jus.br/esmam-promove-curso-sobre-praticas-anticapacitistas-no-servico-publico/",
-      "resumo": "A Escola Superior da Magistratura do Maranhão (ESMAM) promoveu o curso Práticas Anticapacitistas no Serviço Público, com o objetivo de ampliar a conscientização sobre o capacitismo e incentivar práticas de acessibilidade e inclusão no Poder Judiciário maranhense. Realizada na sede da Escola, a forma",
+      "resumo": "A Escola Superior da Magistratura do Maranhão (Esmam) promoveu o curso Práticas Anticapacitistas no Serviço Público, com o objetivo de ampliar a conscientização sobre o capacitismo e incentivar práticas de acessibilidade e inclusão no Poder Judiciário maranhense. Realizada na sede da Escola, a forma",
       "publicado_em": "2026-10-15T12:00:00-03:00",
       "dia": "2026-10-15",
       "data_estimada": true,
@@ -1286,6 +1691,89 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "16708c054ba0ac6c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Atenção à mulher: CNJ visita no TJPR Câmara especializada no enfrentamento à violência",
+      "link": "https://www.cnj.jus.br/atencao-a-mulher-cnj-visita-no-tjpr-camara-especializada-no-enfrentamento-a-violencia/",
+      "resumo": "A Supervisora da Política Judiciária Nacional de Enfrentamento à Violência contra as Mulheres pelo Poder Judiciário, conselheira (CNJ) Jaceguara Dantas da Silva, visitou, nesta quinta-feira (15/10), a 6ª Câmara Criminal do Tribunal de Justiça do Paraná (TJPR), unidade pioneira no país na especializa",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "f100944f5c96536e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Curso autoinstrucional explica integração do SNA com cartórios de registro civil",
+      "link": "https://www.cnj.jus.br/curso-autoinstrucional-explica-integracao-do-sna-com-cartorios-de-registro-civil/",
+      "resumo": "Uma nova capacitação autoinstrucional está disponível para explicar sobre a interoperabilidade entre o Sistema Nacional de Adoção e Acolhimento (SNA) e a plataforma nacional de Registro Civil das Pessoas Naturais. O curso é voltado a magistrados e magistradas da Infância e Juventude, equipes das var",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "acf041c99f87374f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Ação itinerante do Fórum Nacional do Judiciário para a Saúde chega ao Ceará",
+      "link": "https://www.cnj.jus.br/acao-itinerante-do-forum-nacional-do-judiciario-para-a-saude-chega-ao-ceara/",
+      "resumo": "O Ceará recebeu, na quarta e na quinta-feira (14 e 15 de outubro), o Fonajus Itinerante, iniciativa que promove debates sobre os desafios e as perspectivas da judicialização da saúde, além de capacitações voltadas a magistradas e magistrados, servidoras e servidores e demais profissionais que atuam ",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "b6886f393ec4c23b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova dispensa de licitação para órgão público contratar plano de saúde sem fins lucrativos",
+      "link": "https://www.camara.leg.br/noticias/1311519-comissao-aprova-dispensa-de-licitacao-para-orgao-publico-contratar-plano-de-saude-sem-fins-lucrativos",
+      "resumo": "",
+      "publicado_em": "2026-10-15T18:32:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "d67e0040552c7766",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que garante ao consumidor direito de antecipar quitação de dívidas",
+      "link": "https://www.camara.leg.br/noticias/1311517-comissao-aprova-projeto-que-garante-ao-consumidor-direito-de-antecipar-quitacao-de-dividas",
+      "resumo": "",
+      "publicado_em": "2026-10-15T17:18:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T19:47:39-03:00"
     },
     {
       "id": "eaf49b54f72648cc",
