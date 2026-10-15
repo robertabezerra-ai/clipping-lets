@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-15T12:30:07-03:00",
+  "gerado_em": "2026-10-15T14:55:58-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -267,6 +267,36 @@ window.DADOS = {
       "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
+      "id": "75e49e210caa97fe",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Acessibilidade: preenchimento de cadastro no PJe facilita identificar prioridade e pesquisa mapeia mobilidade nos locais de votação",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acessibilidade-preenchimento-de-cadastro-no-pje-facilita-identificar-prioridade-e-pesquisa-mapeia-mobilidade-nos-locais-de-votacao",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "4b26635b912dface",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Co.Labora 15 promove primeira edição do CidadanIA com foco em linguagem simples e inteligência artificial",
+      "link": "https://trt15.jus.br/noticia/2026/colabora-15-promove-primeira-edicao-do-cidadania-com-foco-em-linguagem-simples-e",
+      "resumo": "Co.Labora 15 promove primeira edição do CidadanIA com foco em linguagem simples e inteligência artificial anasiqueira Qui, 15/10/2026 - 13:05 Co.Labora 15 promove primeira edição do CidadanIA com foco em linguagem simples e inteligência artificial Conteúdo da Notícia O Co.Labora 15, laboratório de i",
+      "publicado_em": "2026-10-15T13:05:22-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
       "id": "7d83fd36e0cc4ede",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -279,6 +309,41 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "5a8686ed4a767abf",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Concessionária indenizará homem e criança após queda em poço",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115749&pagina=1",
+      "resumo": "Ausência de tampa e sinalização adequadas. \n \n\tA 13ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve, em parte, decisão da 3ª",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "indenizar",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "fbfd06012d8ef213",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF decreta prisão de seis investigados por suspeita de ligação com crime organizado no RJ",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-decreta-prisao-de-seis-investigados-por-suspeita-de-ligacao-com-crime-organizado-no-rj/",
+      "resumo": "Decisão do ministro Alexandre de Moraes também determina buscas e bloqueio de bens. Decisão atende a pedido da PF com aval da PGR",
+      "publicado_em": "2026-10-15T14:44:09-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
     },
     {
       "id": "e2e41d1a7fe18ada",
@@ -295,6 +360,66 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "c6346bac039d17f6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Hip-hop pode ser reconhecido como manifestação da cultural nacional",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/hip-hop-pode-ser-reconhecido-como-manifestacao-da-cultural-nacional",
+      "resumo": "",
+      "publicado_em": "2026-10-15T14:39:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "eca2261b6c1dd9b0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado analisa PEC da Segurança Pública sem recursos das bets",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senado-analisa-pec-da-seguranca-publica-sem-recursos-das-bets",
+      "resumo": "",
+      "publicado_em": "2026-10-15T13:51:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "ca7a46978e210272",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto isenta do IR professores que ganham até R$ 10 mil",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-isenta-do-ir-professores-que-ganham-ate-r-10-mil",
+      "resumo": "",
+      "publicado_em": "2026-10-15T13:50:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "0a4dc4f89faea7a4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Debatedores alertam para diferentes formas de violência contra meninas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/debatedores-alertam-para-diferentes-formas-de-violencia-contra-meninas",
+      "resumo": "",
+      "publicado_em": "2026-10-15T13:26:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
     },
     {
       "id": "fa2dea8adcbb965f",
@@ -375,6 +500,34 @@ window.DADOS = {
       "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
+      "id": "86f1b497962d7137",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Governo Federal amplia combate a incêndios no Amazonas e mobiliza 160 profissionais da Força Nacional",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/governo-federal-amplia-combate-a-incendios-no-amazonas-e-mobiliza-160-profissionais-da-forca-nacional",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "5b93f90fe4615b11",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Maria Bethânia ganha especial no programa Sem Censura, da TV Brasil, nesta sexta (16)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/maria-bethania-ganha-especial-no-programa-sem-censura-da-tv-brasil-nesta-sexta-16-10",
+      "resumo": "",
+      "publicado_em": "2026-10-15T11:51:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
       "id": "a275ec9631a02be1",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -403,6 +556,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "049b6cb633443cb4",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Conab estima safra de grãos 2026/27 acima de 367 milhões de toneladas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/primeiro-levantamento-da-safra-de-graos-2026-27-estima-producao-acima-de-367-milhoes-de-toneladas",
+      "resumo": "",
+      "publicado_em": "2026-10-15T08:59:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
     },
     {
       "id": "dc3fd6e737f972c9",
@@ -439,6 +606,34 @@ window.DADOS = {
       "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
+      "id": "98f31a89a7a12829",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Tesouro honra em setembro R$ 244,01 milhões em dívidas garantidas pela União",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/tesouro-honra-em-setembro-r-244-01-milhoes-em-dividas-garantidas-pela-uniao",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "a885e32ccd252729",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Prisma Fiscal eleva projeção de déficit para 2026 e reduz estimativa para 2027",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/prisma-fiscal-eleva-projecao-de-deficit-para-2026-e-reduz-estimativa-para-2027",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
       "id": "28aa1b51bb4110ec",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -453,6 +648,127 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "15c764f45640cd08",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Exemplo de Flávio na segurança, Bukele prevê soltar 50% dos presos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123287/exemplo-de-flavio-na-seguranca-bukele-preve-soltar-50-dos-presos",
+      "resumo": "Após mais de 90 mil detenções, governo de Bukele prepara libertações condicionais de presos envolvidos indiretamente com as gangues.",
+      "publicado_em": "2026-10-15T14:20:16-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "dffc7f1574dd9427",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan Santos questiona Meta e vê padrão suspeito no alcance da direita",
+      "link": "https://www.congressoemfoco.com.br/noticia/123286/renan-santos-questiona-suposta-interferencia-da-meta-nas-eleicoes",
+      "resumo": "Questionamento se soma às acusações da campanha de Lula contra a empresa, que nega interferência eleitoral.",
+      "publicado_em": "2026-10-15T14:15:12-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "19ea809e690935df",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Na Globo, a credibilidade falou mais alto",
+      "link": "https://www.congressoemfoco.com.br/noticia/123285/na-globo-a-credibilidade-falou-mais-alto",
+      "resumo": "Ao desligar executivo com 29 anos de casa após revelações de conversas inadequadas com Daniel Vorcaro, Grupo Globo reafirma que seu maior patrimônio é a confiança do público.",
+      "publicado_em": "2026-10-15T13:19:51-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "5bc44c088721dbcd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pollon quer reduzir sigilo na Presidência de 100 para quatro anos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123284/pollon-quer-reduzir-sigilo-na-presidencia-de-100-para-quatro-anos",
+      "resumo": "Proposta também reduz prazos de classificação de informações e prevê revisão de sigilos pelo Legislativo.",
+      "publicado_em": "2026-10-15T12:47:57-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "56b364bef86f2d31",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Congresso terá que impedir Flávio de \"tratorar\" Brasil, avalia Brito",
+      "link": "https://www.congressoemfoco.com.br/noticia/123283/congresso-tera-que-impedir-flavio-de-tratorar-brasil-avalia-brito",
+      "resumo": "Já caso Lula vença, deputado projeta que o desafio será administrar a relação com a oposição.",
+      "publicado_em": "2026-10-15T12:43:11-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "fe20af77c9cd38de",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Espetacularização de um Congresso Nacional nada espetacular",
+      "link": "https://www.congressoemfoco.com.br/artigo/123282/espetacularizacao-de-um-congresso-nacional-nada-espetacular",
+      "resumo": "Redes sociais transformam identidades e antagonismos em votos, levando ao Parlamento representantes cuja força digital nem sempre corresponde à capacidade de negociação e atuação legislativa.",
+      "publicado_em": "2026-10-15T12:24:44-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "186efc0ec7227807",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Rafael Brito vê novo Congresso tumultuado e \"equilíbrio\" no MDB",
+      "link": "https://www.congressoemfoco.com.br/noticia/123281/rafael-brito-ve-novo-congresso-tumultuado-e-equilibrio-no-mdb",
+      "resumo": "Em entrevista exclusiva, deputado aponta perda de espaço da direita para o bolsonarismo e critica candidatos eleitos por polêmicas.",
+      "publicado_em": "2026-10-15T12:17:26-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "7f962dd99cb0641c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O financiamento eleitoral no Brasil e nos Estados Unidos",
+      "link": "https://www.congressoemfoco.com.br/artigo/123280/o-financiamento-eleitoral-no-brasil-e-nos-estados-unidos",
+      "resumo": "Comparação entre os modelos eleitorais do Brasil e dos Estados Unidos revela os desafios de limitar a influência das grandes fortunas e garantir igualdade na disputa política.",
+      "publicado_em": "2026-10-15T11:51:12-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
     },
     {
       "id": "cb0ee381b23fefd8",
@@ -745,13 +1061,29 @@ window.DADOS = {
       "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
+      "id": "eaa3225b90a55e7b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto aumenta recursos orçamentários para órgãos da Justiça",
+      "link": "https://www.camara.leg.br/noticias/1311386-projeto-aumenta-recursos-orcamentarios-para-orgaos-da-justica",
+      "resumo": "",
+      "publicado_em": "2026-10-15T14:24:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
       "id": "c37f1a8b9cf680ab",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
       "titulo": "Comissão aprova proibição de desligamento de jovens atletas durante o ano escolar",
       "link": "https://www.camara.leg.br/noticias/1311385-comissao-aprova-proibicao-de-desligamento-de-jovens-atletas-durante-o-ano-escolar",
       "resumo": "",
-      "publicado_em": "2026-10-15T12:22:00-03:00",
+      "publicado_em": "2026-10-15T14:02:00-03:00",
       "dia": "2026-10-15",
       "data_estimada": false,
       "score": 48,
@@ -761,20 +1093,36 @@ window.DADOS = {
       "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
-      "id": "eaa3225b90a55e7b",
+      "id": "27758f419d6438f9",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Projeto aumenta recursos orçamentários para órgãos da Justiça",
-      "link": "https://www.camara.leg.br/noticias/1311386-projeto-aumenta-recursos-orcamentarios-para-orgaos-da-justica",
+      "titulo": "Projeto eleva recursos orçamentários para atendimento de imigrantes em Roraima",
+      "link": "https://www.camara.leg.br/noticias/1311372-projeto-eleva-recursos-orcamentarios-para-atendimento-de-imigrantes-em-roraima",
       "resumo": "",
-      "publicado_em": "2026-10-15T12:14:00-03:00",
+      "publicado_em": "2026-10-15T13:47:00-03:00",
       "dia": "2026-10-15",
       "data_estimada": false,
       "score": 48,
       "tags": [
         "recurso"
       ],
-      "coletado_em": "2026-10-15T12:30:07-03:00"
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
+      "id": "6147c6912c250ce1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto amplia recursos para despesas de pessoal do Conselho Nacional do Ministério Público",
+      "link": "https://www.camara.leg.br/noticias/1311425-projeto-amplia-recursos-para-despesas-de-pessoal-do-conselho-nacional-do-ministerio-publico",
+      "resumo": "",
+      "publicado_em": "2026-10-15T13:15:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
     },
     {
       "id": "68a5ad13de5c8ad4",
@@ -1679,6 +2027,20 @@ window.DADOS = {
         "novas regras"
       ],
       "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "f874c7c3d4187e37",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Conheça mulheres que contribuíram para construir e consolidar o SUS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/conheca-mulheres-que-contribuiram-para-construir-e-consolidar-o-sistema-unico-de-saude-sus",
+      "resumo": "",
+      "publicado_em": "2026-10-14T22:54:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
     },
     {
       "id": "8abfdb1d07e6ca47",
@@ -2904,20 +3266,6 @@ window.DADOS = {
         "precedente"
       ],
       "coletado_em": "2026-10-13T20:32:07-03:00"
-    },
-    {
-      "id": "50b7bb4b545310e1",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Presidente do TRT-15 recebe representantes da Secretaria de Transportes e da Emdec de Campinas",
-      "link": "https://trt15.jus.br/noticia/2026/presidente-do-trt-15-recebe-representantes-da-secretaria-de-transportes-e-da-emdec-de",
-      "resumo": "Presidente do TRT-15 recebe representantes da Secretaria de Transportes e da Emdec de Campinas anasiqueira Ter, 13/10/2026 - 15:32 Presidente do TRT-15 recebe representantes da Secretaria de Transportes e da Emdec de Campinas Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª R",
-      "publicado_em": "2026-10-13T15:32:58-03:00",
-      "dia": "2026-10-13",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-10-13T16:59:18-03:00"
     },
     {
       "id": "13dd2ea112784af4",
@@ -4875,6 +5223,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-11T13:33:50-03:00"
+    },
+    {
+      "id": "50b7bb4b545310e1",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Presidente do TRT-15 recebe representantes da Secretaria de Transportes e da Emdec de Campinas",
+      "link": "https://trt15.jus.br/noticia/2026/presidente-do-trt-15-recebe-representantes-da-secretaria-de-transportes-e-da-emdec-de",
+      "resumo": "Presidente do TRT-15 recebe representantes da Secretaria de Transportes e da Emdec de Campinas anasiqueira Sáb, 10/10/2026 - 15:32 Presidente do TRT-15 recebe representantes da Secretaria de Transportes e da Emdec de Campinas Conteúdo da Notícia A presidente do Tribunal Regional do Trabalho da 15ª R",
+      "publicado_em": "2026-10-10T15:32:58-03:00",
+      "dia": "2026-10-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-13T16:59:18-03:00"
     },
     {
       "id": "3463426c3ac4bc48",
