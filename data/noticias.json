@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-14T19:52:30-03:00",
+  "gerado_em": "2026-10-15T12:30:07-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 16,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -250,6 +250,703 @@
     }
   ],
   "noticias": [
+    {
+      "id": "623aba868e922b38",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Falta de indícios de ocultação patrimonial impede bloqueio de cartões e Pix",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/falta-de-indicios-de-ocultacao-patrimonial-impede-bloqueio-de-cartoes-e-pix",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "7d83fd36e0cc4ede",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Comissão Regional de Soluções Fundiárias busca soluções pacíficas para conflitos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115739&pagina=1",
+      "resumo": "Acordos impactaram 9,3 mil pessoas nos últimos dois anos.\n \n\tMais de 9,3 mil pessoas impactadas pelos 43 acordos viabilizados pela Comissão Regional de Soluções Fundiárias",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "e2e41d1a7fe18ada",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quinta-feira (15)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-15/",
+      "resumo": "Sessão começa às 14h e será transmitida ao vivo pela Rádio e TV Justiça e pelo canal do STF no YouTube",
+      "publicado_em": "2026-10-15T10:38:49-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "fa2dea8adcbb965f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova PEC que acaba com a escala 6x1 e reduz jornada para 40 horas",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/senado-aprova-pec-que-acaba-com-a-escala-6x1-e-reduz-jornada-para-40-horas",
+      "resumo": "",
+      "publicado_em": "2026-10-15T11:33:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "d7c0ddb6a1385ec8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto que amplia limite do MEI e perdoa dívidas chega ao Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/projeto-que-amplia-limite-do-mei-e-perdoa-dividas-chega-ao-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-15T11:28:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "64664b1421d8125c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Proposta pune uso de emendas parlamentares para shows",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/proposta-pune-uso-de-emendas-parlamentares-para-shows",
+      "resumo": "",
+      "publicado_em": "2026-10-15T09:35:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "ca3fa0960868f950",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs-3",
+      "resumo": "",
+      "publicado_em": "2026-10-15T10:22:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "6c7ed050391cae84",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP pede à ANPD que monitore jogos eletrônicos com caixas de recompensa que não implementaram verificação de idade",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-pede-a-anpd-que-monitore-jogos-eletronicos-com-caixas-de-recompensa-que-nao-implementaram-verificacao-de-idade",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "a275ec9631a02be1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil tem 2,4 milhões de docentes na educação básica, aumento de 10% em uma década",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/com-10-a-mais-em-uma-decada-brasil-tem-2-4-mi-docentes-educacao-basica",
+      "resumo": "",
+      "publicado_em": "2026-10-15T11:15:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "770b87f8f547f59d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Abono Salarial: pagamento de lote complementar começa nesta quinta (15)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/abono-salarial-pagamento-de-lote-complementar-comeca-nesta-quinta-feira-15",
+      "resumo": "",
+      "publicado_em": "2026-10-15T10:55:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "dc3fd6e737f972c9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polícia Federal deflagra nova operação contra crime organizado no Rio de Janeiro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-deflagra-8a-fase-da-operacao-unha-e-carne-no-estado-do-rio-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-10-15T07:34:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "bbb323dade8b18e9",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal atualiza o balanço de solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-atualiza-o-balanco-de-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs-1",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "28aa1b51bb4110ec",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM participa da premiação do Demo Day do IOSCO TechSprint, em Madri, na Espanha",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-da-premiacao-do-demo-day-do-iosco-techsprint-em-madri-na-espanha",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "cb0ee381b23fefd8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pesquisa que acertou 1º turno prevê Flávio com 50% contra 49% de Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/123279/pesquisa-que-acertou-1-turno-preve-flavio-com-50-contra-49-de-lula",
+      "resumo": "Levantamento registra empate técnico e 81% dos eleitores decididos.",
+      "publicado_em": "2026-10-15T11:23:08-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "3120c27d03ca5b7b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Estela Aranha defende regras próprias para canais oficiais e autônomos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123278/estela-aranha-defende-regras-proprias-para-canais-oficiais-e-autonomos",
+      "resumo": "Ministra diferencia exigências de registro das campanhas e liberdade de organização de cidadãos, mas ressalta que todos devem responder por conteúdos ilegais.",
+      "publicado_em": "2026-10-15T10:57:47-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "0728e595e0b4b4c4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Trabalhadores perdem 40 anos para ganhar 4 horas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123277/trabalhadores-perdem-40-anos-para-ganhar-4-horas",
+      "resumo": "Em 1988, a Constituinte rejeitou a jornada de 40 horas e fixou o limite em 44. Trinta e oito anos depois, Congresso finalmente aprova a redução que ficou pelo caminho.",
+      "publicado_em": "2026-10-15T10:56:33-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "61f8baa45469a518",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF aponta Canella como líder político de esquema bilionário no RJ",
+      "link": "https://www.congressoemfoco.com.br/noticia/123276/pf-aponta-canella-como-lider-politico-de-esquema-bilionario-no-rj",
+      "resumo": "Segundo deputado estadual mais votado no Rio, Canella é acusado de ter articulado nomeações e recebido repasses de organização suspeita de movimentar R$ 7,6 bilhões.",
+      "publicado_em": "2026-10-15T10:55:54-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "102649e1647db0db",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O motor que move o mundo está engasgando",
+      "link": "https://www.congressoemfoco.com.br/coluna/123275/o-motor-que-move-o-mundo-esta-engasgando",
+      "resumo": "Conflitos internacionais pressionam o abastecimento e os preços do diesel, com efeitos sobre o transporte e a inflação, enquanto o Brasil enfrenta os riscos de sua dependência das importações.",
+      "publicado_em": "2026-10-15T10:49:48-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "0438e6d3534e560e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Maioridade penal aos 14 ou 16 anos: entenda o que propõe o PL",
+      "link": "https://www.congressoemfoco.com.br/noticia/123274/maioridade-penal-aos-14-ou-16-anos-entenda-o-que-propoe-o-pl",
+      "resumo": "Emenda de Rogério Marinho à PEC da Segurança Pública tem apoio de Flávio Bolsonaro e prevê responsabilização criminal a partir dos 14 anos em determinados delitos.",
+      "publicado_em": "2026-10-15T10:39:20-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "31f3ecee4127c90a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula diz que vai usar celular de Janja para entrar no canal de Janones",
+      "link": "https://www.congressoemfoco.com.br/noticia/123273/lula-diz-que-vai-usar-celular-de-janja-para-entrar-no-canal-de-janones",
+      "resumo": "Ao lado do deputado, presidente incentivou apoiadores a ampliar a comunidade para formar \"o maior exército do mundo\".",
+      "publicado_em": "2026-10-15T10:21:33-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "5e4e84dd64a6fb54",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Processo Mariana Ferrer: inquérito e sentença com falhas",
+      "link": "https://www.congressoemfoco.com.br/artigo/123272/processo-mariana-ferrer-inquerito-e-sentenca-com-falhas",
+      "resumo": "Imagens de câmeras apagadas, demora e falhas do inquérito, depoimentos conflitantes de testemunhas e sentença de absolvição com erros.",
+      "publicado_em": "2026-10-15T10:04:33-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "e63d6fb2a960fb97",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE julga propaganda e manda retirar conteúdos contra Lula e Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123271/ao-vivo-tse-julga-acoes-sobre-propaganda-de-lula-e-flavio-bolsonaro",
+      "resumo": "Pauta incluiu vídeos sobre fala de Lula a respeito de garis, publicação que associa Flávio ao crime organizado e ação sobre publicidade institucional.",
+      "publicado_em": "2026-10-15T09:39:13-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "a2f89741a5328eb9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF prende deputado estadual eleito e ex-chefe da Polícia Civil do RJ",
+      "link": "https://www.congressoemfoco.com.br/noticia/123270/pf-prende-deputado-estadual-eleito-e-ex-chefe-da-policia-civil-do-rj",
+      "resumo": "Aliado de Flávio Bolsonaro, Márcio Canella foi preso por ordem de Alexandre de Moraes em investigação sobre lavagem de dinheiro. Ele já havia sido detido em julho após a PF encontrar um fuzil em seu carro.",
+      "publicado_em": "2026-10-15T09:02:21-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "760303680c77e885",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Justiça manda PF investigar Ana Elisa após ação de Flávio Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/123269/justica-manda-pf-investigar-ana-elisa-apos-acao-de-flavio-bolsonaro",
+      "resumo": "Deputada eleita do PT é alvo de apuração por posts sobre Nossa Senhora Aparecida; juiz rejeitou restrição genérica a publicações.",
+      "publicado_em": "2026-10-15T08:45:36-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "3ca8caf665023f67",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PSD aciona STF para restabelecer segundo turno entre Paes e Ruas no RJ",
+      "link": "https://www.congressoemfoco.com.br/noticia/123268/psd-aciona-stf-para-restabelecer-segundo-turno-entre-paes-e-ruas-no-rj",
+      "resumo": "Legenda pede nova votação em 25 de outubro ou, como alternativa, em data definida pela Justiça Eleitoral antes da diplomação.",
+      "publicado_em": "2026-10-15T08:13:47-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "acao",
+        "diploma"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "bb198caa5b460103",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Hugo Motta celebra fim da escala 6x1 e destaca articulação da Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/123267/hugo-motta-celebra-fim-da-escala-6x1-e-destaca-articulacao-da-camara",
+      "resumo": "Presidente da Câmara diz que proposta garante descanso e preserva salários; texto aprovado pelo Senado segue para promulgação.",
+      "publicado_em": "2026-10-15T07:44:16-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "724cf2e83aa2e99d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fim da escala 6x1: Quando começa a valer e quais são as regras",
+      "link": "https://www.congressoemfoco.com.br/noticia/123266/fim-da-escala-6x1-quando-comeca-a-valer-e-quais-sao-as-regras",
+      "resumo": "Congresso aprovou duas folgas semanais e redução gradual da jornada de 44 para 40 horas, sem corte salarial. Veja os prazos, as exceções e o que muda para quem já trabalha 40 horas.",
+      "publicado_em": "2026-10-15T07:43:13-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "457e9783391247ac",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques libera volta do \"Exército do Lula\" após impasse no TSE",
+      "link": "https://www.congressoemfoco.com.br/noticia/123265/nunes-marques-libera-volta-do-exercito-do-lula-apos-impasse-no-tse",
+      "resumo": "Ministro autoriza reativação de canal com mais de 4 milhões de seguidores após concordância de Flávio Bolsonaro. Decisão mantém fiscalização sobre publicações.",
+      "publicado_em": "2026-10-15T07:13:38-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "fb03a395bcc312e9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veja como cada senador votou na PEC do fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123263/veja-como-cada-senador-votou-na-pec-do-fim-da-escala-6x1",
+      "resumo": "PEC que reduz a jornada semanal de 44 para 40 horas foi aprovada com 75 votos favoráveis e apenas um contrário; texto segue para promulgação.",
+      "publicado_em": "2026-10-15T06:58:23-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "8baa7d316b08eb35",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "ESMAM promove curso sobre práticas anticapacitistas no serviço público",
+      "link": "https://www.cnj.jus.br/esmam-promove-curso-sobre-praticas-anticapacitistas-no-servico-publico/",
+      "resumo": "A Escola Superior da Magistratura do Maranhão (ESMAM) promoveu o curso Práticas Anticapacitistas no Serviço Público, com o objetivo de ampliar a conscientização sobre o capacitismo e incentivar práticas de acessibilidade e inclusão no Poder Judiciário maranhense. Realizada na sede da Escola, a forma",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "70821666fa45b414",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TRF-6 e AGU firmam acordo para mediação em casos de subtração internacional de crianças",
+      "link": "https://www.cnj.jus.br/trf6-e-agu-firmam-acordo-para-mediacao-em-casos-de-subtracao-internacional-de-criancas/",
+      "resumo": "O Tribunal Regional Federal da 6ª Região (TRF-6) e a Advocacia-Geral da União (AGU) assinaram, na última sexta-feira (9/10), um acordo de cooperação voltado à solução consensual de conflitos de subtração internacional de crianças e adolescentes. O objetivo é reduzir o desgaste emocional das famílias",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "c37f1a8b9cf680ab",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova proibição de desligamento de jovens atletas durante o ano escolar",
+      "link": "https://www.camara.leg.br/noticias/1311385-comissao-aprova-proibicao-de-desligamento-de-jovens-atletas-durante-o-ano-escolar",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:22:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "eaa3225b90a55e7b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto aumenta recursos orçamentários para órgãos da Justiça",
+      "link": "https://www.camara.leg.br/noticias/1311386-projeto-aumenta-recursos-orcamentarios-para-orgaos-da-justica",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:14:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "68a5ad13de5c8ad4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova proibição de patrocínio de sites pornográficos no esporte",
+      "link": "https://www.camara.leg.br/noticias/1311434-comissao-aprova-proibicao-de-patrocinio-de-sites-pornograficos-no-esporte",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "32c7c5040577c456",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto abre crédito orçamentário para despesas decorrentes de emendas individuais",
+      "link": "https://www.camara.leg.br/noticias/1311380-projeto-abre-credito-orcamentario-para-despesas-decorrentes-de-emendas-individuais",
+      "resumo": "",
+      "publicado_em": "2026-10-15T11:08:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "b0e74f99555c6c9a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Começam hoje as inscrições para concurso de analista legislativo da Câmara dos Deputados",
+      "link": "https://www.camara.leg.br/noticias/1311427-comecam-hoje-as-inscricoes-para-concurso-de-analista-legislativo-da-camara-dos-deputados",
+      "resumo": "",
+      "publicado_em": "2026-10-15T10:45:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "147173547d98e72a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto abre crédito de R$ 290 milhões para Angra 3",
+      "link": "https://www.camara.leg.br/noticias/1311357-projeto-abre-credito-de-r-290-milhoes-para-angra-3",
+      "resumo": "",
+      "publicado_em": "2026-10-15T10:13:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "bd6bbf513508ccb4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto abre crédito especial para despesas não previstas de vários órgãos",
+      "link": "https://www.camara.leg.br/noticias/1311364-projeto-abre-credito-especial-para-despesas-nao-previstas-de-varios-orgaos",
+      "resumo": "",
+      "publicado_em": "2026-10-15T10:03:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "cb351661dfaa7074",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão mista pode votar nesta quinta parecer sobre obrigatoriedade de exame para exercício da medicina",
+      "link": "https://www.camara.leg.br/noticias/1311374-comissao-mista-pode-votar-nesta-quinta-parecer-sobre-obrigatoriedade-de-exame-para-exercicio-da-medicina",
+      "resumo": "",
+      "publicado_em": "2026-10-15T09:26:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "obrigatoriedade"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "f3c24f26e0d42dff",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara pode votar proposta que obriga SUS a aceitar exames da rede privada",
+      "link": "https://www.camara.leg.br/noticias/1311362-camara-pode-votar-proposta-que-obriga-sus-a-aceitar-exames-da-rede-privada",
+      "resumo": "",
+      "publicado_em": "2026-10-15T08:52:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "a42ff71362f08846",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Hugo Motta comemora aprovação do fim da escala 6x1 no Senado",
+      "link": "https://www.camara.leg.br/noticias/1311348-hugo-motta-comemora-aprovacao-do-fim-da-escala-6x1-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-15T08:06:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 38,
+      "tags": [
+        "aprova",
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "59f27ae5a7775c98",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Pauta da próxima sessão de julgamento (21/10) do Cade é publicada",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/pauta-da-proxima-sessao-de-julgamento-21-10-do-cade-e-publicada-1",
+      "resumo": "",
+      "publicado_em": "2026-10-15T12:00:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "julgamento",
+        "julga",
+        "cade"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "148390ee73a3095a",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD publica análise das contribuições sobre a regulamentação do Marco Civil da Internet",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-analise-contribuicoes-marco-civil-internet",
+      "resumo": "Nota Técnica reúne resultados da participação social, identifica prioridades regulatórias e apresenta subsídios para a atuação da Agência na supervisão das plataformas digitais",
+      "publicado_em": "2026-10-15T10:03:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "02563c1dc10391be",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD abre consulta pública e inicia inscrições para audiência sobre Regulamento de Dosimetria e Aplicação de Sanções",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-consulta-publica-dosimetria-e-sancoes",
+      "resumo": "Agência receberá contribuições da sociedade para atualização do normativo até o dia 30 de novembro. Inscrições para audiência pública do dia 29/10 vão até o próximo dia 24/10",
+      "publicado_em": "2026-10-15T09:37:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
     {
       "id": "8e9aaa6431b95fee",
       "fonte_id": "trt2",
@@ -320,7 +1017,7 @@
       "fonte_nome": "TJSP",
       "titulo": "Escola Paulista da Magistratura oferece conhecimento jurídico para todos os públicos",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115735&pagina=1",
-      "resumo": "Programas de pós-graduação, cursos rápidos e outros eventos. \n \n\tA Escola Paulista da Magistratura (EPM), braço acadêmico do Tribunal de Justiça de São Paulo, se destaca",
+      "resumo": "Programas de pós-graduação, cursos rápidos e eventos. \n \n\tA Escola Paulista da Magistratura (EPM), braço acadêmico do Tribunal de Justiça de São Paulo, se destaca não",
       "publicado_em": "2026-10-14T12:00:00-03:00",
       "dia": "2026-10-14",
       "data_estimada": true,
@@ -363,6 +1060,39 @@
         "acao"
       ],
       "coletado_em": "2026-10-14T19:52:30-03:00"
+    },
+    {
+      "id": "af9226d4316053a0",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "PSD pede ao STF realização de segundo turno para governador do Rio de Janeiro",
+      "link": "https://noticias.stf.jus.br/postsnoticias/psd-pede-ao-stf-realizacao-de-segundo-turno-para-governador-do-rio-de-janeiro/",
+      "resumo": "Partido sustenta que votos anulados após a eleição devem ser considerados no cálculo da maioria absoluta",
+      "publicado_em": "2026-10-14T20:15:12-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "14628f144345464b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Correção monetária de depósitos judiciais deve seguir índices previstos na legislação da época, decide STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/correcao-monetaria-de-depositos-judiciais-deve-seguir-indices-previstos-na-legislacao-da-epoca-decide-stf/",
+      "resumo": "Por maioria, Plenário afastou a inclusão de expurgos inflacionários e preservou valores já levantados e situações consolidadas",
+      "publicado_em": "2026-10-14T20:10:53-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decide",
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
       "id": "996e26cfe27332d1",
@@ -443,6 +1173,81 @@
         "adi"
       ],
       "coletado_em": "2026-10-14T12:42:34-03:00"
+    },
+    {
+      "id": "bd35dfe13cd9aa74",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Médicos são homenageados pelo Senado",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/medicos-sao-homenageados-pelo-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-14T23:14:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "1e83c53ed9bf8071",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PEC da Segurança Pública está na pauta do Plenário nesta quinta-feira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/pec-da-seguranca-publica-esta-na-pauta-do-plenario-nesta-quinta-feira",
+      "resumo": "",
+      "publicado_em": "2026-10-14T22:36:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "1e1b00427ac0d747",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim da escala de trabalho 6x1 é aprovado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/fim-da-escala-de-trabalho-6x1-e-aprovada",
+      "resumo": "",
+      "publicado_em": "2026-10-14T22:26:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "9f8fa9753422c1ba",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova fim da escala 6x1",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/senado-aprova-fim-da-6x1-em-primeiro-turno",
+      "resumo": "",
+      "publicado_em": "2026-10-14T21:59:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "50c76fedbdaca480",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto amplia proteção a pesquisadoras durante a licença-maternidade",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/14/projeto-amplia-protecao-a-pesquisadoras-durante-a-licenca-maternidade",
+      "resumo": "",
+      "publicado_em": "2026-10-14T21:06:00-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
       "id": "77dd44a6829798aa",
@@ -890,20 +1695,6 @@
       "coletado_em": "2026-10-14T15:12:48-03:00"
     },
     {
-      "id": "770b87f8f547f59d",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Abono Salarial: pagamento de lote complementar começa nesta quinta-feira (15)",
-      "link": "https://agenciagov.ebc.com.br/noticias/202610/abono-salarial-pagamento-de-lote-complementar-comeca-nesta-quinta-feira-15",
-      "resumo": "",
-      "publicado_em": "2026-10-14T18:10:00-03:00",
-      "dia": "2026-10-14",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-10-14T19:52:30-03:00"
-    },
-    {
       "id": "c4200e8c0bcf5df5",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1069,6 +1860,36 @@
         "acao"
       ],
       "coletado_em": "2026-10-14T15:12:48-03:00"
+    },
+    {
+      "id": "e994f0d534f94eaf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alcolumbre anuncia inclusão da PEC da Segurança na pauta desta quinta",
+      "link": "https://www.congressoemfoco.com.br/noticia/123262/alcolumbre-anuncia-inclusao-da-pec-da-seguranca-na-pauta-desta-quinta",
+      "resumo": "Proposta do governo federal altera dispositivos constitucionais relacionados ao combate ao crime organizado.",
+      "publicado_em": "2026-10-14T22:16:04-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "5d9b821b170e455f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara dos Deputados aprova aumento do teto do MEI para R$ 140 mil",
+      "link": "https://www.congressoemfoco.com.br/noticia/123261/camara-dos-deputados-aprova-aumento-do-teto-do-mei-para-r-140-mil",
+      "resumo": "Texto estabelece aumento gradual do teto até 2028 e inclui proposta do governo para perdão de dívidas.",
+      "publicado_em": "2026-10-14T19:49:15-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
       "id": "7c37dec4ebc31b2b",
@@ -1341,6 +2162,23 @@
         "aprova"
       ],
       "coletado_em": "2026-10-14T16:57:51-03:00"
+    },
+    {
+      "id": "8213f8a414e9c57a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova PEC do fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123241/por-75-votos-a-um-senado-aprova-pec-do-fim-da-escala-6x1",
+      "resumo": "Texto precisa ser aprovado com votos de um terço dos senadores em dois turnos.",
+      "publicado_em": "2026-10-14T12:07:38-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
       "id": "a1e73ba19d0b4e88",
@@ -4874,6 +5712,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
+      "id": "034339834a6a2548",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Mais de 20 mil sites ilegais de apostas e de publicidade são encaminhados para bloqueio",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mais-de-20-mil-sites-ilegais-de-apostas-e-de-publicidade-sao-encaminhados-para-bloqueio",
+      "resumo": "",
+      "publicado_em": "2026-10-09T12:00:00-03:00",
+      "dia": "2026-10-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
       "id": "f829d699c8fba52a",
@@ -84010,70 +84862,6 @@
       "tags": [
         "cade",
         "processo"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "b82c905366853b82",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Justiça concede teletrabalho integral e redução de jornada a empregada com TEA",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-concede-teletrabalho-integral-e-reducao-de-jornada-a-empregada-com-tea",
-      "resumo": "",
-      "publicado_em": "2026-07-16T12:00:00-03:00",
-      "dia": "2026-07-16",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "c3a912c2d3929ce5",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "2ª Região abre cadastramento para advogados(as) dativos(as)",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2a-regiao-abre-cadastramento-para-advogadosas-dativosas",
-      "resumo": "",
-      "publicado_em": "2026-07-16T12:00:00-03:00",
-      "dia": "2026-07-16",
-      "data_estimada": true,
-      "score": 50,
-      "tags": [
-        "advogado"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "de26af1beceb5e84",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "PJe está temporariamente indisponível",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pje-esta-temporariamente-indisponivel",
-      "resumo": "",
-      "publicado_em": "2026-07-16T12:00:00-03:00",
-      "dia": "2026-07-16",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "ce5796ef82fc87f8",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "Dia Nacional da Proteção de Dados é comemorado nesta sexta-feira (17)",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/dia-nacional-da-protecao-de-dados-e-comemorado-nesta-sexta-feira-17",
-      "resumo": "Data foi estabelecida em 2025, em homenagem ao professor Danilo Doneda, que atuou na criação da LGPD. Neste mês, ANPD promove dois eventos alusivos à data",
-      "publicado_em": "2026-07-16T19:46:48-03:00",
-      "dia": "2026-07-16",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [
-        "lgpd",
-        "protecao de dados",
-        "acao",
-        "homenagem",
-        "comemora"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
