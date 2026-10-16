@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-16T12:13:29-03:00",
+  "gerado_em": "2026-10-16T14:43:45-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 19,
       "erro": null
     },
     {
@@ -251,6 +251,22 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "a389385395e46cb5",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Credores(as) da Unesp podem se habilitar para acordo direto em precatórios até 8 de novembro",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/credoresas-da-unesp-podem-se-habilitar-para-acordo-direto-em-precatorios-ate-8-de-novembro",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "precatorio"
+      ],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
       "id": "42e774f8210b0b6e",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -263,6 +279,95 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "e9adb12181ab1792",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim da escala 6x1 é promulgado em sessão do Congresso Nacional",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/fim-da-escala-6x1-e-promulgada-em-sessao-do-congresso-nacional",
+      "resumo": "",
+      "publicado_em": "2026-10-16T14:25:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "c7558846734d25a9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Iniciativa do Senado, dia de luto pelo feminicídio convida à conscientização",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/iniciativa-do-senado-dia-de-luto-pelo-feminicidio-convida-a-conscientizacao",
+      "resumo": "",
+      "publicado_em": "2026-10-16T14:13:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "acao",
+        "luto"
+      ],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "0e04fb34dd32bfc9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado analisa proibição de 'fim planejado' da vida útil de produtos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senado-analisa-proibicao-de-fim-planejado-da-vida-util-de-produtos",
+      "resumo": "",
+      "publicado_em": "2026-10-16T13:43:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "97d118bff6d28eca",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Promoção de cultura de paz nas escolas está na pauta da CE",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/promocao-de-cultura-de-paz-nas-escolas-esta-na-pauta-da-ce",
+      "resumo": "",
+      "publicado_em": "2026-10-16T13:09:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "27df34bf9f1d28b9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso promulga o fim da escala 6x1 e aposentadoria de agentes de saúde",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/16/congresso-promulga-o-fim-da-escala-6x1-e-aposentadoria-de-agentes-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:34:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "e1fc5f85ffd79688",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso Nacional recebe iluminação em apoio ao Outubro Rosa",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/congresso-nacional-recebe-iluminacao-em-apoio-ao-outubro-rosa",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:10:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
     },
     {
       "id": "a42423ede52d04ea",
@@ -355,6 +460,39 @@ window.DADOS = {
       "coletado_em": "2026-10-16T12:13:29-03:00"
     },
     {
+      "id": "a4167c9891aa00ab",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Brasil apresenta ações de recuperação de ativos em encontro internacional na Etiópia",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-apresenta-acoes-de-recuperacao-de-ativos-em-encontro-internacional-na-etiopia",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "34a95ae3f998da56",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Renarc realiza operação contra tráfico de drogas, lavagem de dinheiro e ocultação de patrimônio",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/renarc-realiza-operacao-contra-trafico-de-drogas-lavagem-de-dinheiro-e-ocultacao-de-patrimonio",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 26,
+      "tags": [
+        "acao",
+        "droga"
+      ],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
       "id": "e341037793c2fcf8",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -402,6 +540,20 @@ window.DADOS = {
       "coletado_em": "2026-10-16T12:13:29-03:00"
     },
     {
+      "id": "4a7e9a847e9bad60",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Trabalho e ciência: milho sagrado volta a germinar em aldeias Avá Guarani no PR",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/milho-sagrado-volta-a-germinar-em-aldeias-ava-guarani-do-oeste-do-parana",
+      "resumo": "",
+      "publicado_em": "2026-10-16T00:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
       "id": "6983140a329e6a3e",
       "fonte_id": "fazenda",
       "fonte_nome": "Ministério da Fazenda",
@@ -416,6 +568,98 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "50ba433f5773ddb0",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM participa do Comitê Regional Inter-Americano da IOSCO, no Canadá",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-do-comite-regional-inter-americano-da-iosco-no-canada",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "5f5406ca37486cbe",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes autoriza almoço de aniversário de 16 anos da filha de Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/123329/moraes-autoriza-almoco-de-aniversario-de-16-anos-da-filha-de-bolsonaro",
+      "resumo": "Ministro liberou a entrada de dez convidados na residência do ex-presidente neste domingo (18), mediante cumprimento de regras de segurança.",
+      "publicado_em": "2026-10-16T13:13:50-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "aniversario"
+      ],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "4e7188d9a47ed0d4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O Redata e o sistema financeiro",
+      "link": "https://www.congressoemfoco.com.br/artigo/123328/o-redata-e-o-sistema-financeiro",
+      "resumo": "Regime tributário criado pelo Redata busca ampliar a infraestrutura de processamento de dados e inteligência artificial no Brasil, mas mantém as responsabilidades das instituições financeiras sobre segurança e proteção dos clientes.",
+      "publicado_em": "2026-10-16T13:02:50-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "tributario"
+      ],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "5a5a42f4509c971f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Comissão aprova quebra de sigilo bancário de devedor de pensão",
+      "link": "https://www.congressoemfoco.com.br/noticia/123327/comissao-aprova-quebra-de-sigilo-bancario-de-devedor-de-pensao",
+      "resumo": "Medida permite acesso a informações bancárias e fiscais para verificar a capacidade financeira do responsável pelo pagamento.",
+      "publicado_em": "2026-10-16T13:00:58-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "9be24b7b0aa09ea0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A economia por trás do fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/artigo/123325/a-economia-por-tras-do-fim-da-escala-6x1",
+      "resumo": "A PEC que acaba com a escala 6x1 pode corrigir problemas de coordenação, tem custo mensurável e depende da transição para as empresas pequenas.",
+      "publicado_em": "2026-10-16T12:01:24-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "4d7af8386ce1783a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pesquisa CNT/MDA aponta Flávio com 46,8% e Lula com 45,9% de votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123324/pesquisa-cnt-mda-aponta-flavio-com-46-8-e-lula-com-45-9-de-votos",
+      "resumo": "Primeira pesquisa após o primeiro turno mostra Flávio à frente nos votos válidos, com diferença de um ponto percentual sobre Lula.",
+      "publicado_em": "2026-10-16T11:59:57-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
     },
     {
       "id": "7c7c91eb0fdaa501",
@@ -446,6 +690,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "ed345db3380cf3f9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula diz que fim da escala 6x1 é \"obedecer à vontade de um povo\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123321/lula-diz-que-fim-da-escala-6x1-e-obedecer-a-vontade-de-um-povo",
+      "resumo": "Presidente destacou a mobilização popular e afirmou que a mudança deve preservar a saúde dos trabalhadores e a atividade econômica.",
+      "publicado_em": "2026-10-16T11:07:37-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
     },
     {
       "id": "cd8f0f45a70e8d07",
@@ -573,14 +833,12 @@ window.DADOS = {
       "fonte_nome": "Congresso em Foco",
       "titulo": "Com a presença de Lula, Congresso promulga fim da escala 6x1",
       "link": "https://www.congressoemfoco.com.br/noticia/123310/com-a-presenca-de-lula-congresso-promulga-fim-da-escala-6x1",
-      "resumo": "Emenda garante dois dias de descanso semanal, sem redução salarial, e diminui jornada máxima de 44 para 40 horas. Mudança começa em dezembro e concretiza reivindicação histórica dos trabalhadores.",
+      "resumo": "A nove dias do segundo turno, Lula ergue Constituição durante cerimônia que oficializa fim da escala 6x1. Emenda garante duas folgas semanais, sem redução salarial, e reduz jornada de 44 para 40 horas.",
       "publicado_em": "2026-10-16T07:19:48-03:00",
       "dia": "2026-10-16",
       "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
+      "score": 40,
+      "tags": [],
       "coletado_em": "2026-10-16T12:13:29-03:00"
     },
     {
@@ -616,6 +874,36 @@ window.DADOS = {
       "coletado_em": "2026-10-16T12:13:29-03:00"
     },
     {
+      "id": "111d19ed29bffca7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto destina recursos orçamentários para contribuições do Brasil a órgãos internacionais",
+      "link": "https://www.camara.leg.br/noticias/1311420-projeto-destina-recursos-orcamentarios-para-contribuicoes-do-brasil-a-orgaos-internacionais",
+      "resumo": "",
+      "publicado_em": "2026-10-16T13:49:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "0ee8b22f940b30f2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Congresso promulga aposentadoria especial para agentes de saúde e de combate a endemias",
+      "link": "https://www.camara.leg.br/noticias/1311792-congresso-promulga-aposentadoria-especial-para-agentes-de-saude-e-de-combate-a-endemias",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:42:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
       "id": "acb7c30012d819e7",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -633,7 +921,7 @@ window.DADOS = {
       "id": "109ad7113b788421",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Motta: Somos um País que valoriza o trabalho sem esquecer o trabalhador",
+      "titulo": "Motta: Somos um país que valoriza o trabalho sem esquecer o trabalhador",
       "link": "https://www.camara.leg.br/noticias/1311796-motta-somos-um-pais-que-valoriza-o-trabalho-sem-esquecer-o-trabalhador",
       "resumo": "",
       "publicado_em": "2026-10-16T11:49:00-03:00",
@@ -744,7 +1032,7 @@ window.DADOS = {
       "id": "75e49e210caa97fe",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
-      "titulo": "Acessibilidade: preenchimento de cadastro no PJe facilita identificar prioridade e pesquisa mapeia mobilidade nos locais de votação",
+      "titulo": "Acessibilidade: preenchimento de cadastro no PJe facilita identificar prioridade; pesquisa mapeia mobilidade nos locais de votação",
       "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acessibilidade-preenchimento-de-cadastro-no-pje-facilita-identificar-prioridade-e-pesquisa-mapeia-mobilidade-nos-locais-de-votacao",
       "resumo": "",
       "publicado_em": "2026-10-15T12:00:00-03:00",
