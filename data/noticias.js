@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-16T16:17:29-03:00",
+  "gerado_em": "2026-10-16T19:20:33-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 18,
       "erro": null
     },
     {
@@ -267,6 +267,34 @@ window.DADOS = {
       "coletado_em": "2026-10-16T14:43:45-03:00"
     },
     {
+      "id": "8e1073147cb1b8b1",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Custas judiciais: novo código de recolhimento da GRU passa a valer em 18/10",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/custas-judiciais-novo-codigo-de-recolhimento-da-gru-passa-a-valer-em-18-10",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "c4f02a53d638728b",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Projeto de IA para contratações sustentáveis é premiado em Brasília-DF",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/iniciativa-para-inclusao-socioeconomica-de-catadoresas-de-reciclaveis-e-premiada-em-brasilia",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
       "id": "b66db1c370747369",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -283,17 +311,67 @@ window.DADOS = {
       "coletado_em": "2026-10-16T16:17:29-03:00"
     },
     {
+      "id": "398ae7d5f9214e0e",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP realiza solenidade de premiação do Programa Leitura Amiga – Jovens Escritores",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115770&pagina=1",
+      "resumo": "Iniciativa da Coordenadoria da Infância e da Juventude. \n \n\tPor um dia, o Salão do Júri do Palácio da Justiça foi tomado pela imaginação. E os",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "83d9fd182427b784",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Integrantes das Corregedorias do TJSP e do TJM-SP visitam Presídio Romão Gomes",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115765&pagina=1",
+      "resumo": "Troca de experiências na área de execução penal.\n \n\tA corregedora-geral da Justiça, desembargadora Silvia Rocha, esteve, hoje (16), no Presídio da Polícia Militar Romão Gomes,",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "f2cc7286570d795b",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Homem que usou documento falso para atuar como médico é condenado por homicídio culposo de paciente",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115760&pagina=1",
+      "resumo": "Erro no atendimento causou óbito de mulher com HIV.\n \n\tA 14ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve decisão da",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "decisao",
+        "condenado"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
       "id": "a99215ba8fcccbdc",
       "fonte_id": "stf",
       "fonte_nome": "STF",
       "titulo": "STF vai decidir índice de correção de dívidas da Fazenda Pública após alterações constitucionais de 2025",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-vai-decidir-indice-de-correcao-de-dividas-da-fazenda-publica-apos-alteracoes-constitucionais-de-2025/",
-      "resumo": "Matéria com repercussãso geral reconhecida diz respeito ao período anterior à expedição do precatório ou da RPV",
+      "resumo": "Matéria com repercussão geral reconhecida diz respeito ao período anterior à expedição do precatório ou da RPV",
       "publicado_em": "2026-10-16T15:33:00-03:00",
       "dia": "2026-10-16",
       "data_estimada": false,
-      "score": 52,
+      "score": 70,
       "tags": [
+        "repercussao geral",
         "precatorio"
       ],
       "coletado_em": "2026-10-16T16:17:29-03:00"
@@ -311,6 +389,80 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "019b41e672c5d3e1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Aprova: Fim da escala 6x1",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/senado-aprova-fim-da-escala-6x1-1",
+      "resumo": "",
+      "publicado_em": "2026-10-16T18:42:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "800b19574461c8d5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto cria regras para proteger cães e gatos e fixar critérios para criadouros",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-cria-regras-para-proteger-caes-e-gatos-e-fixar-criterios-para-criadouros",
+      "resumo": "",
+      "publicado_em": "2026-10-16T18:38:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "cc22a4d6f810499d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto cria política nacional de incentivo à amamentação",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-cria-politica-nacional-de-incentivo-a-amamentacao",
+      "resumo": "",
+      "publicado_em": "2026-10-16T17:53:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "00938944e842c1d7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto prevê incentivo para patrocínio de pesquisa científica",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-preve-incentivo-para-patrocinio-de-pesquisa-cientifica",
+      "resumo": "",
+      "publicado_em": "2026-10-16T17:05:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "b91509d2bd85d98e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Randolfe: PEC da Segurança pode ser votada antes do 2º turno",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/randolfe-senado-pode-retomar-votacao-da-pec-da-seguranca-na-proxima-semana",
+      "resumo": "",
+      "publicado_em": "2026-10-16T16:20:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
     },
     {
       "id": "95334a5bd5c02f2d",
@@ -639,18 +791,92 @@ window.DADOS = {
       "coletado_em": "2026-10-16T16:17:29-03:00"
     },
     {
+      "id": "f0345d04d40063d8",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação Protetor registra mais de R$ 110 mil em prejuízo econômico para o crime organizado em cinco estados",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-protetor-registra-mais-de-r-110-mil-em-prejuizo-economico-para-o-crime-organizado-em-cinco-estados",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "87c4e9a832d9e49d",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Brasil registra menores taxas de desmatamento da série histórica na Amazônia e no Cerrado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/brasil-registra-menores-taxas-de-desmatamento-da-serie-historica-na-amazonia-e-no-cerrado",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "48593cdbfb7266c7",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Em Genebra, Brasil reafirma compromisso com a Convenção de 1951 e a proteção de refugiados",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/em-genebra-brasil-reafirma-compromisso-com-a-convencao-de-1951-e-a-protecao-de-refugiados",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "5aaeda58b8775fc7",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "DRCI participa de debates internacionais sobre crimes cibernéticos e recuperação de ativos na França",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/drci-participa-de-debates-internacionais-sobre-crimes-ciberneticos-e-recuperacao-de-ativos-na-franca",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
       "id": "c066748322f83209",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
       "titulo": "Trabalho infantil tem a maior redução já registrada no Brasil, diz pesquisa",
       "link": "https://agenciagov.ebc.com.br/noticias/202610/trabalho-infantil-tem-a-maior-reducao-da-historia-com-apoio-de-politicas-publicas-diz-pesquisa",
       "resumo": "",
-      "publicado_em": "2026-10-16T15:11:00-03:00",
+      "publicado_em": "2026-10-16T17:50:00-03:00",
       "dia": "2026-10-16",
       "data_estimada": false,
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-16T16:17:29-03:00"
+    },
+    {
+      "id": "0d4920be4ffda466",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil anuncia as maiores quedas históricas no desmatamento da Amazônia e do Cerrado",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/brasil-anuncia-a-maior-queda-de-desmatamento-na-amazonia-e-no-cerrado-desde-1988",
+      "resumo": "",
+      "publicado_em": "2026-10-16T17:15:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
     },
     {
       "id": "e341037793c2fcf8",
@@ -730,6 +956,40 @@ window.DADOS = {
       "coletado_em": "2026-10-16T12:13:29-03:00"
     },
     {
+      "id": "c0c497bc16019f35",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Atuação da SPA contribui para investigação de esquema milionário de apostas ilegais no Rio Grande do Norte",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/atuacao-da-spa-contribui-para-investigacao-de-esquema-milionario-de-apostas-ilegais-no-rio-grande-do-norte",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "fba614e69c96658b",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita atualiza solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-atualiza-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
       "id": "50ba433f5773ddb0",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -742,6 +1002,96 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "28bb5dd0ecb76d42",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Meta admite \"incidentes\" em redes de Lula, mas nega interferência",
+      "link": "https://www.congressoemfoco.com.br/noticia/123343/meta-admite-incidentes-em-redes-de-lula-mas-nega-interferencia",
+      "resumo": "Responsável pela Facebook, Instagram e WhatsApp reconhece suspensão \"por engano\" da conta de anúncios do petista e lacuna na Meta AI.",
+      "publicado_em": "2026-10-16T17:36:44-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "ea56aa48aa083f2c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Atrair, formar e reter professores para fortalecer a profissão docente",
+      "link": "https://www.congressoemfoco.com.br/artigo/123342/atrair-formar-e-reter-professores-para-fortalecer-a-profissao-docente",
+      "resumo": "Após o ingresso, a estrutura da carreira também precisa favorecer a atratividade e a permanência na profissão, com condições adequadas de jornada e remuneração, além de oportunidades de desenvolvimento profissional ao longo da trajetória docente.",
+      "publicado_em": "2026-10-16T17:07:51-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "1eadc0c739c086a7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"A qualquer momento pode vir um louco e me matar\", diz Ana Elisa",
+      "link": "https://www.congressoemfoco.com.br/noticia/123341/a-qualquer-momento-pode-vir-um-louco-e-me-matar--diz-ana-elisa",
+      "resumo": "Durante entrevista no Podpah, deputada eleita volta a relatar ameaças e campanhas de hostilidade nas redes sociais.",
+      "publicado_em": "2026-10-16T16:56:31-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "28469b834e4497ff",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas x Ana Elisa: quem influencia mais na corrida presidencial?",
+      "link": "https://www.congressoemfoco.com.br/artigo/123340/nikolas-x-ana-elisa-quem-influencia-mais-na-corrida-presidencial",
+      "resumo": "Rivalidade entre os dois deputados mais votados de Minas virou termômetro da disputa de influência na eleição presidencial.",
+      "publicado_em": "2026-10-16T16:42:21-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "1b3f61e8c7fd248c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Após caso \"Exército do Lula\", TSE cria regras para canais de WhatsApp",
+      "link": "https://www.congressoemfoco.com.br/noticia/123339/apos-caso-exercito-do-lula--tse-cria-regras-para-canais-de-whatsapp",
+      "resumo": "Diante de disputa judicial entre Lula e Flávio, TSE define quando canais de mensagens passam a integrar oficialmente as campanhas eleitorais.",
+      "publicado_em": "2026-10-16T16:39:05-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "2513e07794e3f167",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A força das mulheres que as urnas não conseguem medir",
+      "link": "https://www.congressoemfoco.com.br/artigo/123337/a-forca-das-mulheres-que-as-urnas-nao-conseguem-medir",
+      "resumo": "Eleitas ou não, lideranças femininas conquistaram reconhecimento que ultrapassa os mandatos. No 2º turno, podem ampliar o diálogo político. O desafio será transformar esse reconhecimento em participação efetiva nas decisões e em maior poder das mulheres sobre os rumos do país.",
+      "publicado_em": "2026-10-16T16:18:15-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
     },
     {
       "id": "2da6a1bd29620725",
@@ -1062,6 +1412,86 @@ window.DADOS = {
       "coletado_em": "2026-10-16T12:13:29-03:00"
     },
     {
+      "id": "2c4652c5a7641cdf",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Mutirão do Pena Justa bate recorde com quase 300 mil casos analisados",
+      "link": "https://www.cnj.jus.br/mutirao-do-pena-justa-bate-recorde-com-quase-300-mil-casos-analisados/",
+      "resumo": "O mutirão processual penal, coordenado pelo Conselho Nacional de Justiça (CNJ) como meta do Pena Justa, alcançou o maior volume de casos analisados pelo Judiciário desde a primeira edição da iniciativa em 2023. No mês de junho deste ano, os 27 tribunais de justiça estaduais e os seis tribunais regio",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "db813188494550ed",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Visita institucional do CNJ ao TJPR destaca iniciativas de proteção às mulheres",
+      "link": "https://www.cnj.jus.br/visita-institucional-do-cnj-ao-tjpr-destaca-iniciativas-de-protecao-as-mulheres/",
+      "resumo": "Em visita institucional ao Tribunal de Justiça do Paraná (TJPR), a conselheira do Conselho Nacional de Justiça (CNJ) Jaceguara Dantas da Silva e a juíza auxiliar Suzana Massako promoveram o intercâmbio de experiências sobre prevenção da violência doméstica, acolhimento e acesso à Justiça. Nos dias 1",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "f3ec636985702085",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Serviço do CNJ acelera cumprimento de decisões previdenciárias em cenário de alta judicialização",
+      "link": "https://www.cnj.jus.br/servico-do-cnj-acelera-cumprimento-de-decisoes-previdenciarias-em-cenario-de-alta-judicializacao/",
+      "resumo": "Uma decisão judicial que determina a concessão de um benefício previdenciário precisa chegar ao Instituto Nacional do Seguro Social (INSS) para ser efetivada. O Serviço de Informação e Automação Previdenciária (Prevjud), solução do Conselho Nacional de Justiça (CNJ) desenvolvida pelo Programa Justiç",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "decisao",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "92cff6b1bbb402bd",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Nobel a Navi Pillay acende debate sobre equidade nos tribunais; ação afirmativa do CNJ eleva participação de mulheres",
+      "link": "https://www.cnj.jus.br/nobel-a-navi-pillay-acende-debate-sobre-equidade-nos-tribunais-acao-afirmativa-do-cnj-eleva-participacao-de-mulheres/",
+      "resumo": "A recente concessão do Prêmio Nobel da Paz de 2026 à jurista sul-africana Navi Pillay reacendeu o debate global sobre a necessidade de ampliar a presença feminina nos espaços de decisão do Poder Judiciário. Referência no direito internacional, Pillay enfrentou as barreiras do apartheid, tornou-se a ",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "decisao",
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "97ea41342a831111",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Motta determina adoção imediata da nova escala de trabalho na Câmara dos Deputados",
+      "link": "https://www.camara.leg.br/noticias/1311899-motta-determina-adocao-imediata-da-nova-escala-de-trabalho-na-camara-dos-deputados",
+      "resumo": "",
+      "publicado_em": "2026-10-16T16:53:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
       "id": "111d19ed29bffca7",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1201,6 +1631,22 @@ window.DADOS = {
       "coletado_em": "2026-10-16T12:13:29-03:00"
     },
     {
+      "id": "a45d18f18685fd7e",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD publica 3º Relatório Parcial de Monitoramento do Sandbox em IA e proteção de dados",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-3o-relatorio-parcial-de-monitoramento-do-sandbox-regulatorio-em-ia",
+      "resumo": "Documento apresenta os resultados dos testes de segurança e proteção de dados de três soluções tecnológicas e os próximos passos do projeto-piloto",
+      "publicado_em": "2026-10-16T17:51:02-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
       "id": "623aba868e922b38",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -1215,22 +1661,6 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-15T12:30:07-03:00"
-    },
-    {
-      "id": "75e49e210caa97fe",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Acessibilidade: preenchimento de cadastro no PJe facilita identificar prioridade; pesquisa mapeia mobilidade nos locais de votação",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acessibilidade-preenchimento-de-cadastro-no-pje-facilita-identificar-prioridade-e-pesquisa-mapeia-mobilidade-nos-locais-de-votacao",
-      "resumo": "",
-      "publicado_em": "2026-10-15T12:00:00-03:00",
-      "dia": "2026-10-15",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-10-15T14:55:58-03:00"
     },
     {
       "id": "c22000e1c8cefc51",
@@ -1365,7 +1795,7 @@ window.DADOS = {
       "fonte_nome": "STF",
       "titulo": "STF considera inconstitucional cobrança de contribuição ao Funrural de produtores rurais antes de 2018",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-considera-inconstitucional-cobranca-do-funrural-a-empresas-que-compram-producao-rural/",
-      "resumo": "Por maioria, Plenário seguiu voto do ministro Dias Toffoli, que delimitou a inconstitucionalidade ao período anterior à edição da 13.606/2018.",
+      "resumo": "Por maioria, Plenário seguiu voto do ministro Dias Toffoli, que delimitou a inconstitucionalidade ao período anterior à edição da 13.606/2018",
       "publicado_em": "2026-10-15T20:57:22-03:00",
       "dia": "2026-10-15",
       "data_estimada": false,
@@ -2852,7 +3282,7 @@ window.DADOS = {
       "id": "16708c054ba0ac6c",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Atenção à mulher: CNJ visita no TJPR Câmara especializada no enfrentamento à violência",
+      "titulo": "Atenção à mulher: CNJ visita, no TJPR, câmara especializada no enfrentamento à violência",
       "link": "https://www.cnj.jus.br/atencao-a-mulher-cnj-visita-no-tjpr-camara-especializada-no-enfrentamento-a-violencia/",
       "resumo": "A Supervisora da Política Judiciária Nacional de Enfrentamento à Violência contra as Mulheres pelo Poder Judiciário, conselheira (CNJ) Jaceguara Dantas da Silva, visitou, nesta quinta-feira (15/10), a 6ª Câmara Criminal do Tribunal de Justiça do Paraná (TJPR), unidade pioneira no país na especializa",
       "publicado_em": "2026-10-15T12:00:00-03:00",
@@ -5243,6 +5673,22 @@ window.DADOS = {
       "coletado_em": "2026-10-13T20:32:07-03:00"
     },
     {
+      "id": "75e49e210caa97fe",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Acessibilidade: preenchimento de cadastro no PJe facilita identificar prioridade; pesquisa mapeia mobilidade nos locais de votação",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acessibilidade-preenchimento-de-cadastro-no-pje-facilita-identificar-prioridade-e-pesquisa-mapeia-mobilidade-nos-locais-de-votacao",
+      "resumo": "",
+      "publicado_em": "2026-10-13T12:00:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-15T14:55:58-03:00"
+    },
+    {
       "id": "d36c55bfcd4a993e",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -5276,7 +5722,7 @@ window.DADOS = {
       "id": "9f1d3ee68c24ad8a",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
-      "titulo": "Inscrições para a Semana da Conciliação vão até 18/10",
+      "titulo": "Inscrições para a Semana Nacional da Conciliação vão até 18/10",
       "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/inscricoes-para-a-semana-da-conciliacao-vao-ate-18-10",
       "resumo": "",
       "publicado_em": "2026-10-13T12:00:00-03:00",
