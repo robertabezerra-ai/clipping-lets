@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-16T14:43:45-03:00",
+  "gerado_em": "2026-10-16T16:17:29-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -267,6 +267,38 @@ window.DADOS = {
       "coletado_em": "2026-10-16T14:43:45-03:00"
     },
     {
+      "id": "b66db1c370747369",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP participa da XXI Semana Nacional da Conciliação",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115759&pagina=1",
+      "resumo": "Campanha realizada pelo CNJ entre 3 e 6/11. \n \n\tO Tribunal de Justiça de São Paulo participará, de 3 a 6 de novembro, da XXI Semana",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T16:17:29-03:00"
+    },
+    {
+      "id": "a99215ba8fcccbdc",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF vai decidir índice de correção de dívidas da Fazenda Pública após alterações constitucionais de 2025",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-vai-decidir-indice-de-correcao-de-dividas-da-fazenda-publica-apos-alteracoes-constitucionais-de-2025/",
+      "resumo": "Matéria com repercussãso geral reconhecida diz respeito ao período anterior à expedição do precatório ou da RPV",
+      "publicado_em": "2026-10-16T15:33:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "precatorio"
+      ],
+      "coletado_em": "2026-10-16T16:17:29-03:00"
+    },
+    {
       "id": "42e774f8210b0b6e",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -279,6 +311,87 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "95334a5bd5c02f2d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Exame obrigatório para exercício da medicina é aprovado e vai à sanção",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/exame-obrigatorio-para-exercicio-da-medicina-e-aprovado-e-vai-a-sancao",
+      "resumo": "",
+      "publicado_em": "2026-10-16T15:54:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 90,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "obrigatorio",
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-16T16:17:29-03:00"
+    },
+    {
+      "id": "0cf84a0c32bfb8b9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Emenda Constitucional garante fim da escala 6x1",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/emenda-constitucional-garante-fim-da-escala-6x1",
+      "resumo": "",
+      "publicado_em": "2026-10-16T15:27:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T16:17:29-03:00"
+    },
+    {
+      "id": "62845304f79aebc6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso promulga aposentadoria especial dos agentes de saúde",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/congresso-promulga-aposentadoria-especial-dos-agentes-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-10-16T15:11:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T16:17:29-03:00"
+    },
+    {
+      "id": "2ac33f8e9578f7fa",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Dia Nacional da Vacinação é comemorado neste sábado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/dia-nacional-da-vacinacao-e-comemorado-neste-sabado",
+      "resumo": "",
+      "publicado_em": "2026-10-16T15:06:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-10-16T16:17:29-03:00"
+    },
+    {
+      "id": "9bfcc4713984bbe7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto cria Dia Nacional de Conscientização sobre a Síndrome do Nariz Vazio",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-cria-dia-nacional-de-conscientizacao-sobre-a-sindrome-do-nariz-vazio",
+      "resumo": "",
+      "publicado_em": "2026-10-16T14:53:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T16:17:29-03:00"
     },
     {
       "id": "e9adb12181ab1792",
@@ -444,6 +557,25 @@ window.DADOS = {
       "coletado_em": "2026-10-16T12:13:29-03:00"
     },
     {
+      "id": "0d10a6aec9b35b5a",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-10-16T15:34:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 84,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T16:17:29-03:00"
+    },
+    {
       "id": "906b89b074f654bc",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -491,6 +623,34 @@ window.DADOS = {
         "droga"
       ],
       "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "505419b9b5e9b6cf",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon e ANP fiscalizam mercado de combustíveis para coibir aumentos abusivos de preços",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-e-anp-fiscalizam-mercado-de-combustiveis-para-coibir-aumentos-abusivos-de-precos",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T16:17:29-03:00"
+    },
+    {
+      "id": "c066748322f83209",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Trabalho infantil tem a maior redução já registrada no Brasil, diz pesquisa",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/trabalho-infantil-tem-a-maior-reducao-da-historia-com-apoio-de-politicas-publicas-diz-pesquisa",
+      "resumo": "",
+      "publicado_em": "2026-10-16T15:11:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T16:17:29-03:00"
     },
     {
       "id": "e341037793c2fcf8",
@@ -582,6 +742,34 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "2da6a1bd29620725",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula a Cleitinho: \"chance de recuperar MG é minha reeleição\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123334/lula-a-cleitinho--chance-de-recuperar-mg-e-minha-reeleicao",
+      "resumo": "Durante ato realizado em Juiz de Fora, presidente afirmou que governador eleito não precisa se manifestar, basta \"ficar quietinho\".",
+      "publicado_em": "2026-10-16T15:12:37-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T16:17:29-03:00"
+    },
+    {
+      "id": "87bc1c60a96c2156",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A democracia pode estar sendo manipulada antes de o eleitor votar",
+      "link": "https://www.congressoemfoco.com.br/artigo/123333/a-democracia-pode-estar-sendo-manipulada-antes-de-o-eleitor-votar",
+      "resumo": "Não é preciso fraudar urnas, inventar notícias falsas ou comprar milhões de votos. A inteligência artificial tornou possível algo potencialmente mais perigoso: fabricar a aparência da opinião pública e interferir silenciosamente no ambiente em que o eleitor acredita formar suas próprias convicções.",
+      "publicado_em": "2026-10-16T14:55:34-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T16:17:29-03:00"
     },
     {
       "id": "5f5406ca37486cbe",
