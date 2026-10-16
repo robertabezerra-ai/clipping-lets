@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-15T19:47:39-03:00",
+  "gerado_em": "2026-10-16T12:13:29-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -250,6 +250,480 @@
     }
   ],
   "noticias": [
+    {
+      "id": "42e774f8210b0b6e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira os destaques do Plenário Virtual",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-30/",
+      "resumo": "Sessão virtual começou às 11h desta sexta-feira (16) e termina às 23h59 de 23/10",
+      "publicado_em": "2026-10-16T11:06:40-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "a42423ede52d04ea",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Mulheres vítimas de violência poderão ter prioridade na reforma agrária",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/mulheres-vitimas-de-violencia-poderao-ter-prioridade-na-reforma-agraria",
+      "resumo": "",
+      "publicado_em": "2026-10-16T11:50:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "61af3b07088b726f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PEC da Segurança voltará à pauta após acordo sobre emendas, anuncia Davi",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/pec-da-seguranca-voltara-a-pauta-apos-acordo-sobre-emendas-anuncia-davi",
+      "resumo": "",
+      "publicado_em": "2026-10-16T10:31:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "268735bf2072ed42",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senadores defendem valorização dos professores e melhores condições de trabalho",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/senadores-defendem-valorizacao-dos-professores-e-melhores-condicoes-de-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-10-16T10:16:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "6883fa5797daf7d5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aumento de limite e perdão de dívida de MEIs segue para sanção",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/aumento-de-limite-e-perdao-de-divida-de-meis-segue-para-sancao",
+      "resumo": "",
+      "publicado_em": "2026-10-16T09:12:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "sancao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "574c920d24a44d17",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso promulga emendas sobre fim da escala 6x1 e agentes de saúde",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/congresso-promulga-emendas-sobre-fim-da-escala-6x1-e-agentes-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-10-16T08:18:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "906b89b074f654bc",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal e Polícia Federal deflagram a Operação Além do Horizonte",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-e-policia-federal-deflagram-a-operacao-alem-do-horizonte",
+      "resumo": "",
+      "publicado_em": "2026-10-16T11:21:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "e341037793c2fcf8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Com crescimento de 0,3% em agosto, BC confirma PIB 1,6% maior em 12 meses",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/com-crescimento-de-0-3-em-agosto-bc-aponta-pib-1-6-maior-nos-ultimos-12-meses",
+      "resumo": "",
+      "publicado_em": "2026-10-16T10:16:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "33ac0db8df88dcd8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Aprovada medida que institui avaliação de estudantes de medicina durante a graduação",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/aprovada-mp-que-torna-obrigatoria-a-avaliacao-dos-estudantes-de-medicina-durante-a-graduacao",
+      "resumo": "",
+      "publicado_em": "2026-10-16T10:10:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "237dbaefce9c0555",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério da Saúde, estado e municípios atendem a população no Amazonas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/ministerio-da-saude-em-conjunto-com-o-estado-e-os-municipios-monitora-a-assistencia-em-saude-a-populacao-no-amazonas",
+      "resumo": "",
+      "publicado_em": "2026-10-16T09:19:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "6983140a329e6a3e",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Sintonia divulga a classificação do 3º ciclo de 2026",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-sintonia-divulga-a-classificacao-do-3o-ciclo-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "7c7c91eb0fdaa501",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Benefícios do fim da escala 6x1 são incalculáveis, diz Alcolumbre",
+      "link": "https://www.congressoemfoco.com.br/noticia/123323/beneficios-do-fim-da-escala-6x1-sao-incalculaveis-diz-alcolumbre",
+      "resumo": "Na promulgação da emenda, presidente do Senado destaca ganhos para a qualidade de vida e reivindica o cumprimento da promessa de votação.",
+      "publicado_em": "2026-10-16T11:22:43-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "16e9f0f273741f9a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Há 12 anos, Datafolha dava a Aécio e Dilma os índices de Flávio e Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/123322/ha-12-anos-datafolha-dava-a-aecio-e-dilma-os-indices-de-flavio-e-lula",
+      "resumo": "Pesquisa Datafolha divulgada exatamente 12 anos antes mostrava o mesmo cenário do segundo turno de 2026; Dilma reverteu a desvantagem e venceu a eleição 11 dias depois.",
+      "publicado_em": "2026-10-16T11:17:27-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "cd8f0f45a70e8d07",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Motta: \"Fim da 6x1 é principal conquista dos trabalhadores em anos\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123320/motta--fim-da-6x1-e-principal-conquista-dos-trabalhadores-em-anos",
+      "resumo": "Presidente da Câmara afirmou que a mudança representa uma escolha do Congresso pela valorização do trabalho e da qualidade de vida.",
+      "publicado_em": "2026-10-16T10:50:42-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "6d706604f9f515d2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Congresso promulga emenda que muda aposentadoria de agentes de saúde",
+      "link": "https://www.congressoemfoco.com.br/noticia/123319/congresso-promulga-aposentadoria-aos-57-anos-para-agentes-de-saude",
+      "resumo": "Emenda estabelece idade mínima de 57 anos para mulheres e 60 para homens, com 25 anos de contribuição e de exercício na atividade.",
+      "publicado_em": "2026-10-16T10:45:34-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "d55215b743dbe149",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula propõe usar emendas para financiar tarifa zero aos fins de semana",
+      "link": "https://www.congressoemfoco.com.br/noticia/123316/lula-propoe-usar-emendas-para-financiar-tarifa-zero-aos-fins-de-semana",
+      "resumo": "Medida custaria R$ 16 bilhões por ano, o equivalente a 26% das emendas previstas para 2026. Brasil já tem 186 municípios com alguma modalidade de transporte gratuito.",
+      "publicado_em": "2026-10-16T09:02:38-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "29c70703d5589581",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas publica vídeo de IA com Flávio disparando fuzis e bebendo",
+      "link": "https://www.congressoemfoco.com.br/noticia/123315/nikolas-publica-video-de-ia-com-flavio-disparando-fuzis-e-bebendo",
+      "resumo": "Ao som de Free Bird, montagem mostra o candidato em cenas de ação e com a faixa presidencial.",
+      "publicado_em": "2026-10-16T08:54:25-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "7c97a587b89c68c4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Comissão da Câmara aprova piso de R$ 6,5 mil para farmacêuticos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123314/comissao-da-camara-aprova-piso-de-r-6-5-mil-para-farmaceuticos",
+      "resumo": "Projeto contempla profissionais dos setores público e privado, prevê reajuste anual e segue para análise da CCJ.",
+      "publicado_em": "2026-10-16T08:27:45-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "50b0797c88b9b8c5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "FMI prevê Brasil entre as oito maiores economias do mundo em 2027",
+      "link": "https://www.congressoemfoco.com.br/noticia/123313/fmi-preve-brasil-entre-as-oito-maiores-economias-do-mundo-em-2027",
+      "resumo": "País deve ultrapassar Itália e Rússia no ranking mundial, com Produto Interno Bruto estimado em US$ 2,8 trilhões.",
+      "publicado_em": "2026-10-16T08:07:52-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "8624e2c3c0ecda8d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Datafolha: Flávio tem 51% dos votos válidos; Lula, 49%",
+      "link": "https://www.congressoemfoco.com.br/noticia/123312/datafolha-flavio-tem-51-dos-votos-validos-lula-49",
+      "resumo": "Vantagem numérica do senador caiu de quatro para dois pontos percentuais em uma semana. Candidatos seguem tecnicamente empatados a pouco mais de uma semana do segundo turno.",
+      "publicado_em": "2026-10-16T07:48:07-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "eee42f9217526f9e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Corregedor do TSE rejeita pedido de Flávio contra sindicatos pró-Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/123311/corregedor-do-tse-rejeita-pedido-de-flavio-contra-sindicatos-pro-lula",
+      "resumo": "Ministro rejeitou medidas urgentes, mas manteve investigação sobre possível uso de estruturas sindicais na campanha.",
+      "publicado_em": "2026-10-16T07:37:42-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "f55892c395d35e0f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Com a presença de Lula, Congresso promulga fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123310/com-a-presenca-de-lula-congresso-promulga-fim-da-escala-6x1",
+      "resumo": "Emenda garante dois dias de descanso semanal, sem redução salarial, e diminui jornada máxima de 44 para 40 horas. Mudança começa em dezembro e concretiza reivindicação histórica dos trabalhadores.",
+      "publicado_em": "2026-10-16T07:19:48-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "5fe5df60d595d13a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pena Justa: CNJ lança guia para fortalecer produção de alimentos em presídios",
+      "link": "https://www.cnj.jus.br/pena-justa-cnj-lanca-guia-para-fortalecer-producao-de-alimentos-em-presidios/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) lança, nesta sexta-feira (16/10), Dia Mundial da Alimentação, o Guia de Implantação de Unidades Produtivas de Alimentos em Estabelecimentos Prisionais. A ferramenta orienta o planejamento, a implementação e a manutenção de hortas, pomares, lavouras, plantações, g",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "b233bb84038b3c8b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Encontro Nacional debate inovação e política de cuidado na gestão de pessoas do Judiciário",
+      "link": "https://www.cnj.jus.br/encontro-nacional-debate-a-inovacao-e-politica-de-cuidado-na-gestao-de-pessoas-do-judiciario/",
+      "resumo": "A Gestão de Pessoas e a Política de Cuidados no Judiciário vão nortear as discussões do IV Encontro Nacional de Gestores de Pessoas, que será realizado nos dias 21 e 22 de outubro. Promovido pelo Conselho Nacional de Justiça (CNJ) e pelo Tribunal Superior do Trabalho (TST), o evento também",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "acb7c30012d819e7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Congresso promulga emenda que acaba com escala 6x1 e estabelece jornada máxima de 40 horas semanais",
+      "link": "https://www.camara.leg.br/noticias/1311797-congresso-promulga-emenda-que-acaba-com-escala-6x1-e-estabelece-jornada-maxima-de-40-horas-semanais",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:08:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "109ad7113b788421",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Motta: Somos um País que valoriza o trabalho sem esquecer o trabalhador",
+      "link": "https://www.camara.leg.br/noticias/1311796-motta-somos-um-pais-que-valoriza-o-trabalho-sem-esquecer-o-trabalhador",
+      "resumo": "",
+      "publicado_em": "2026-10-16T11:49:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "2ec083c7110eb12e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Congresso promulga o fim da escala 6x1 e aposentadoria especial para agentes de saúde",
+      "link": "https://www.camara.leg.br/noticias/1311742-congresso-promulga-o-fim-da-escala-6x1-e-aposentadoria-especial-para-agentes-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-10-16T11:10:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "5d181894a75311e2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova uniformes de seleções brasileiras nas cores da bandeira nacional",
+      "link": "https://www.camara.leg.br/noticias/1311491-comissao-aprova-uniformes-de-selecoes-brasileiras-nas-cores-da-bandeira-nacional",
+      "resumo": "",
+      "publicado_em": "2026-10-16T09:48:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "62539379286bc2e8",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto amplia recursos no Orçamento para negociação de contratos habitacionais antigos",
+      "link": "https://www.camara.leg.br/noticias/1311405-projeto-amplia-recursos-no-orcamento-para-negociacao-de-contratos-habitacionais-antigos",
+      "resumo": "",
+      "publicado_em": "2026-10-16T09:14:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "359263c96882b17f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova reforço no monitoramento de recursos aplicados no esporte",
+      "link": "https://www.camara.leg.br/noticias/1311546-comissao-aprova-reforco-no-monitoramento-de-recursos-aplicados-no-esporte",
+      "resumo": "",
+      "publicado_em": "2026-10-16T08:38:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprova",
+        "recurso"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "217466d9f7a3a05e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova criação de política nacional para inclusão no esporte",
+      "link": "https://www.camara.leg.br/noticias/1311507-comissao-aprova-criacao-de-politica-nacional-para-inclusao-no-esporte",
+      "resumo": "",
+      "publicado_em": "2026-10-16T07:59:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
     {
       "id": "623aba868e922b38",
       "fonte_id": "trt2",
@@ -350,7 +824,7 @@
       "fonte_nome": "TJSP",
       "titulo": "Empresas de transporte indenizarão morador após ônibus desgovernado atingir casa e carros",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115757&pagina=1",
-      "resumo": "Reparações fixadas em mais de R$ 14 mil.\n\t \n\tA 32ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve decisão da 2ª Vara",
+      "resumo": "Reparações fixadas em mais de R$ 14 mil.\n\t \n\tA 32ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve decisão da 2ª",
       "publicado_em": "2026-10-15T12:00:00-03:00",
       "dia": "2026-10-15",
       "data_estimada": true,
@@ -408,6 +882,42 @@
         "acao"
       ],
       "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "d6df0db884991a5d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF considera inconstitucional cobrança de contribuição ao Funrural de produtores rurais antes de 2018",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-considera-inconstitucional-cobranca-do-funrural-a-empresas-que-compram-producao-rural/",
+      "resumo": "Por maioria, Plenário seguiu voto do ministro Dias Toffoli, que delimitou a inconstitucionalidade ao período anterior à edição da 13.606/2018.",
+      "publicado_em": "2026-10-15T20:57:22-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "inconstitucional"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "8482edc9dc89e6bb",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF cancela repercussão geral sobre competência da Justiça do Trabalho em ação de servidores públicos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-cancela-repercussao-geral-sobre-competencia-da-justica-do-trabalho-em-acao-de-servidores-publicos/",
+      "resumo": "Plenário manteve decisão anterior sobre o caso concreto, mas afastou a fixação de tese com aplicação a outros processos",
+      "publicado_em": "2026-10-15T20:10:34-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 96,
+      "tags": [
+        "decisao",
+        "tese",
+        "repercussao geral",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
     },
     {
       "id": "95fcf6720c737661",
@@ -474,6 +984,98 @@
       "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
+      "id": "90265e6ffdbfb0ae",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso analisa MP que destina R$ 7,5 bilhões para subsídio a combustíveis",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/congresso-analisa-mp-que-destina-r-7-5-bilhoes-para-subsidio-a-combustiveis",
+      "resumo": "",
+      "publicado_em": "2026-10-15T20:42:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "7beec2544cb456c9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Enamed será obrigatório para exercício da medicina, aprova Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/enamed-sera-obrigatorio-para-exercicio-da-medicina-aprova-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-15T20:32:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "obrigatorio",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "269c030327771778",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Acessibilidade garante o voto a quase 2 milhões de eleitores com deficiência",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/acessibilidade-garante-o-voto-a-quase-2-milhoes-de-eleitores-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-10-15T20:20:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "f35f23e011da5be1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Seguem para sanção reajuste do limite e outras mudanças para o MEI",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/seguem-para-sancao-reajuste-do-limite-e-outras-mudancas-para-o-mei",
+      "resumo": "",
+      "publicado_em": "2026-10-15T20:05:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "sancao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "2d19d47f5dffecec",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Plenário aprova sessão especial em homenagem às cientistas brasileiras",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/plenario-aprova-sessao-especial-em-homenagem-as-cientistas-brasileiras",
+      "resumo": "",
+      "publicado_em": "2026-10-15T19:53:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "aprova",
+        "homenagem"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "85877e5167d0aaba",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi Alcolumbre retira PEC da Segurança Pública da pauta desta quinta-feira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/davi-alcolumbre-retira-pec-da-seguranca-publica-da-pauta-desta-quinta-feira",
+      "resumo": "",
+      "publicado_em": "2026-10-15T19:53:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
       "id": "f58e8942676108ed",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -502,6 +1104,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "37af2e71ed66fdcb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso promulga nesta sexta emendas sobre 6x1 e agentes de saúde",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/15/congresso-promulga-nesta-sexta-emendas-sobre-6x1-e-agentes-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-10-15T19:08:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
     },
     {
       "id": "85cec71fa473029f",
@@ -822,6 +1438,22 @@
       "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
+      "id": "6199ac29d72a0f7e",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Sintonia divulga a classificação do 3º ciclo de 2026",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-sintonia-divulga-a-classificacao-do-3o-ciclo-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-15T19:29:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
       "id": "ca3fa0960868f950",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -914,6 +1546,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "d420b8c68ce9f5cf",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "ONU elege duas brasileiras como heroínas do desenvolvimento agroalimentar",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/duas-brasileiras-estao-entre-as-100-reconhecidas-globalmente-pela-fao-como-heroinas-do-sistema-agroalimentar-e-do-desenvolvimento-rural",
+      "resumo": "",
+      "publicado_em": "2026-10-15T21:32:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
     },
     {
       "id": "a275ec9631a02be1",
@@ -1082,6 +1728,26 @@
       "coletado_em": "2026-10-15T12:30:07-03:00"
     },
     {
+      "id": "f5316001a5f65c2a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova MP da obrigatoriedade do Enamed; texto vai à sanção",
+      "link": "https://www.congressoemfoco.com.br/noticia/123308/senado-aprova-mp-da-obrigatoriedade-do-enamed-texto-vai-a-sancao",
+      "resumo": "Nova regra exige aprovação no exame de estudantes que ingressaram em Medicina desde junho e prevê divulgação dos resultados das faculdades.",
+      "publicado_em": "2026-10-15T20:07:27-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 90,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "obrigatoriedade",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
       "id": "8427e0b1523f1c09",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1114,6 +1780,20 @@
         "acao"
       ],
       "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "494f6f909f03c35d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "STF, Master e segurança: Veja destaques da sabatina de Lula na Globo",
+      "link": "https://www.congressoemfoco.com.br/noticia/123305/stf-master-e-seguranca-veja-destaques-da-sabatina-de-lula-na-globo",
+      "resumo": "Presidente destacou ações do governo, proposta de continuidade e não poupou críticas ao governo Bolsonaro.",
+      "publicado_em": "2026-10-15T18:50:58-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-16T12:13:29-03:00"
     },
     {
       "id": "b5116d3f78c83d8f",
@@ -86118,23 +86798,6 @@
       "score": 46,
       "tags": [
         "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "79920bbe811bee86",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Cade instaura processo administrativo sobre condutas anticompetitivas no mercado internacional de fragrâncias",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-instaura-processo-administrativo-sobre-condutas-anticompetitivas-no-mercado-internacional-de-fragrancias",
-      "resumo": "",
-      "publicado_em": "2026-07-17T12:00:00-03:00",
-      "dia": "2026-07-17",
-      "data_estimada": true,
-      "score": 56,
-      "tags": [
-        "cade",
-        "processo"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
