@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-16T19:20:33-03:00",
+  "gerado_em": "2026-10-17T11:03:58-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -250,6 +250,38 @@
     }
   ],
   "noticias": [
+    {
+      "id": "9aca6943ac2f4989",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP realiza etapa de entrevistas da Comissão de Heteroidentificação do 6º Enam e 4º Enac",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115764&pagina=1",
+      "resumo": "Prazo para recurso de 22 a 25 de outubro.\n \n\tA Comissão de Heteroidentificação do Tribunal de Justiça de São Paulo realizou, nesta sexta-feira (16),",
+      "publicado_em": "2026-10-17T12:00:00-03:00",
+      "dia": "2026-10-17",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "prazo",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-10-17T11:03:58-03:00"
+    },
+    {
+      "id": "0b7f7c0f5b45009d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enem 2026: domingo (18) é o último dia para escolher idioma",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/enem-2026-domingo-18-e-o-ultimo-dia-para-escolher-idioma",
+      "resumo": "",
+      "publicado_em": "2026-10-17T08:25:00-03:00",
+      "dia": "2026-10-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-17T11:03:58-03:00"
+    },
     {
       "id": "a389385395e46cb5",
       "fonte_id": "trt2",
@@ -358,6 +390,20 @@
         "condenado"
       ],
       "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "36d998b1a0c95e7f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115767&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro; o vice-presidente do TJSP, desembargador Luís",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-17T11:03:58-03:00"
     },
     {
       "id": "a99215ba8fcccbdc",
@@ -1004,6 +1050,20 @@
       "coletado_em": "2026-10-16T14:43:45-03:00"
     },
     {
+      "id": "2a315abfdee8c11d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula protesta após almoço de Flávio na Globo: \"não merece confiança\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123344/lula-protesta-apos-almoco-de-flavio-na-globo--nao-merece-confianca",
+      "resumo": "Presidente questionou encontro entre o adversário e executivos da emissora horas antes da sabatina do Jornal Nacional.",
+      "publicado_em": "2026-10-16T19:38:35-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-17T11:03:58-03:00"
+    },
+    {
       "id": "28bb5dd0ecb76d42",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1094,6 +1154,20 @@
       "coletado_em": "2026-10-16T19:20:33-03:00"
     },
     {
+      "id": "bb666ff8cef8e9f8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mandato único, STF e Dark Horse: veja destaques da sabatina de Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123335/minuto-a-minuto-flavio-bolsonaro-participa-de-sabatina-na-globo",
+      "resumo": "Candidato à presidência da República pelo PL responde a questionamentos da emissora na reta final antes do segundo turno.",
+      "publicado_em": "2026-10-16T15:55:51-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-17T11:03:58-03:00"
+    },
+    {
       "id": "2da6a1bd29620725",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1120,6 +1194,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-16T16:17:29-03:00"
+    },
+    {
+      "id": "ea66ca1901d9ab93",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Maioridade penal: A origem dos 18 anos que Lula e Flávio querem mudar",
+      "link": "https://www.congressoemfoco.com.br/noticia/123331/maioridade-penal-a-origem-dos-18-anos-que-lula-e-flavio-querem-mudar",
+      "resumo": "Da punição de crianças no período colonial à Constituição de 1988, veja como a legislação evoluiu. Propostas atuais reacendem debate sobre a idade de responsabilização criminal.",
+      "publicado_em": "2026-10-16T13:38:46-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-17T11:03:58-03:00"
     },
     {
       "id": "5f5406ca37486cbe",
@@ -1168,6 +1258,20 @@
         "aprova"
       ],
       "coletado_em": "2026-10-16T14:43:45-03:00"
+    },
+    {
+      "id": "5d67e1368faacbfb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Campanha e dívida dos Estados: o caso de Minas (I)",
+      "link": "https://www.congressoemfoco.com.br/coluna/123326/campanha-e-divida-dos-estados-o-caso-de-minas-i",
+      "resumo": "Acordo firmado em 2025 garantiu juros zero e mais 30 anos para o pagamento da dívida estadual, deslocando o debate para os obstáculos ao investimento e ao desenvolvimento de Minas Gerais.",
+      "publicado_em": "2026-10-16T12:30:52-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-17T11:03:58-03:00"
     },
     {
       "id": "9be24b7b0aa09ea0",
@@ -6905,6 +7009,20 @@
         "acao"
       ],
       "coletado_em": "2026-10-13T14:56:43-03:00"
+    },
+    {
+      "id": "0633fecdd3d361ea",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto amplia regras de acesso de pets a hotéis e restaurantes",
+      "link": "https://www.congressoemfoco.com.br/noticia/123199/projeto-amplia-regras-de-acesso-de-pets-a-hoteis-e-restaurantes",
+      "resumo": "Proposta estabelece critérios para entrada e permanência de cães e gatos em hotéis, restaurantes, parques e outros estabelecimentos.",
+      "publicado_em": "2026-10-13T12:23:00-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-17T11:03:58-03:00"
     },
     {
       "id": "67faa16c7c2c0d5c",
