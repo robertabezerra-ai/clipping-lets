@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-17T11:03:58-03:00",
+  "gerado_em": "2026-10-17T13:43:52-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -269,6 +269,39 @@
       "coletado_em": "2026-10-17T11:03:58-03:00"
     },
     {
+      "id": "e7b88b1a6d98a7e3",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Candidata que deu à luz dias antes de teste físico de concurso da PM poderá remarcar exame",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115769&pagina=1",
+      "resumo": "Decisão da 11ª Câmara de Direito Público. \n \n\tA 11ª Câmara de Direito Público do Tribunal de Justiça do Estado de São Paulo suspendeu a eliminação",
+      "publicado_em": "2026-10-17T12:00:00-03:00",
+      "dia": "2026-10-17",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-17T13:43:52-03:00"
+    },
+    {
+      "id": "b39210e3f895aec6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo na Semana discute decisão sobre contribuição para o Funrural antes de janeiro de 2018",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-na-semana-discute-decisao-sobre-contribuicao-para-o-funrural-antes-de-janeiro-de-2018/",
+      "resumo": "Episódio #206 está disponível nas principais plataformas de áudio e no YouTube",
+      "publicado_em": "2026-10-17T12:00:00-03:00",
+      "dia": "2026-10-17",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-17T13:43:52-03:00"
+    },
+    {
       "id": "0b7f7c0f5b45009d",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -281,6 +314,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-17T11:03:58-03:00"
+    },
+    {
+      "id": "b4e9b8af8a82048a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cartuchos sem registro: entenda projeto citado na sabatina de Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123345/cartuchos-sem-registro-entenda-projeto-citado-na-sabatina-de-flavio",
+      "resumo": "Texto aprovado pela Câmara prevê revogar marcações em cartuchos e códigos de barras nas embalagens, dificultando o rastreamento de munições.",
+      "publicado_em": "2026-10-17T12:22:04-03:00",
+      "dia": "2026-10-17",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-17T13:43:52-03:00"
     },
     {
       "id": "a389385395e46cb5",
@@ -2919,6 +2969,20 @@
       "coletado_em": "2026-10-15T16:41:21-03:00"
     },
     {
+      "id": "7a328118deb9dfd1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe que governo pague creche a criança que ficar sem vaga",
+      "link": "https://www.congressoemfoco.com.br/noticia/123295/deputado-propoe-que-governo-pague-creche-a-crianca-que-ficar-sem-vaga",
+      "resumo": "Projeto de José Medeiros é voltado a crianças de até 3 anos e tem caráter complementar ao ensino público, sem exclusão da fila.",
+      "publicado_em": "2026-10-15T15:19:15-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-17T13:43:52-03:00"
+    },
+    {
       "id": "71a31a4cf85cc527",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2952,6 +3016,22 @@
         "cbs"
       ],
       "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "c5c5b72603d52e16",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Duda Salabert propõe propaganda eleitoral gratuita nas redes sociais",
+      "link": "https://www.congressoemfoco.com.br/noticia/123290/duda-salabert-propoe-propaganda-eleitoral-gratuita-nas-redes-sociais",
+      "resumo": "Plataformas que oferecem impulsionamento deverão garantir exibições gratuitas durante a campanha, independentemente da contratação de anúncios.",
+      "publicado_em": "2026-10-15T14:59:39-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-17T13:43:52-03:00"
     },
     {
       "id": "f5dd154f35b8472f",
