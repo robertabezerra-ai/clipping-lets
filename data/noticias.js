@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-17T15:08:36-03:00",
+  "gerado_em": "2026-10-17T18:53:22-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@ window.DADOS = {
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -314,6 +314,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-17T11:03:58-03:00"
+    },
+    {
+      "id": "fadd9f5dc1401474",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro \"tomou a ilha na mão grande\", diz Richarlison",
+      "link": "https://www.congressoemfoco.com.br/noticia/123346/flavio-bolsonaro-tomou-a-ilha-na-mao-grande--diz-richarlison",
+      "resumo": "Atleta pede investigação da Polícia Federal sobre disputa por mansão em Angra dos Reis e afirma ter perdido R$ 10 milhões.",
+      "publicado_em": "2026-10-17T17:56:14-03:00",
+      "dia": "2026-10-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-17T18:53:22-03:00"
     },
     {
       "id": "b4e9b8af8a82048a",
@@ -1246,6 +1262,20 @@ window.DADOS = {
       "coletado_em": "2026-10-16T16:17:29-03:00"
     },
     {
+      "id": "3c135550ba05c41e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto de lei amplia proteção a médicos contra atrasos salariais",
+      "link": "https://www.congressoemfoco.com.br/noticia/123332/projeto-de-lei-amplia-protecao-a-medicos-contra-atrasos-salariais",
+      "resumo": "Proposta permite retenção de valores e pagamento direto aos profissionais em contratos com o poder público.",
+      "publicado_em": "2026-10-16T14:16:57-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-17T18:53:22-03:00"
+    },
+    {
       "id": "ea66ca1901d9ab93",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1428,6 +1458,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-16T12:13:29-03:00"
+    },
+    {
+      "id": "5ed45a5882962070",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe depósito automático do saldo de veículos leiloados",
+      "link": "https://www.congressoemfoco.com.br/noticia/123317/deputado-propoe-deposito-automatico-do-saldo-de-veiculos-leiloados",
+      "resumo": "Proposta de Reginaldo Veras prevê pagamento direto ao antigo proprietário após a quitação das dívidas de veículos vendidos em leilão.",
+      "publicado_em": "2026-10-16T09:47:02-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-17T18:53:22-03:00"
     },
     {
       "id": "d55215b743dbe149",
