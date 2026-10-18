@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-18T13:59:35-03:00",
+  "gerado_em": "2026-10-18T15:26:53-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -281,6 +281,22 @@ window.DADOS = {
         "cade"
       ],
       "coletado_em": "2026-10-18T13:59:35-03:00"
+    },
+    {
+      "id": "86d21df475a0f2e8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Reaplicação do Enamed 2026 acontece neste domingo (18)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/reaplicacao-do-enamed-2026-acontece-neste-domingo-18",
+      "resumo": "",
+      "publicado_em": "2026-10-18T14:25:00-03:00",
+      "dia": "2026-10-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-18T15:26:53-03:00"
     },
     {
       "id": "2a3c45af8190f713",
@@ -3094,6 +3110,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "b0dcf5c950d52d33",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto assegura escolha da gestante entre parto normal e cesariana",
+      "link": "https://www.congressoemfoco.com.br/noticia/123298/projeto-assegura-escolha-da-gestante-entre-parto-normal-e-cesariana",
+      "resumo": "Proposta assegura escolha informada, permite cesariana eletiva a partir de 39 semanas e veda incentivos econômicos.",
+      "publicado_em": "2026-10-15T16:10:56-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-18T15:26:53-03:00"
     },
     {
       "id": "a2edabe97477e909",
