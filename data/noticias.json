@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-18T15:26:53-03:00",
+  "gerado_em": "2026-10-18T19:05:11-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -297,6 +297,52 @@
         "acao"
       ],
       "coletado_em": "2026-10-18T15:26:53-03:00"
+    },
+    {
+      "id": "76ea6105cf89533b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Apoiadores levam réplica de míssil com recado a Trump em ato de Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123350/apoiadores-levam-replica-de-missil-com-recado-a-trump-em-ato-de-flavio",
+      "resumo": "Mensagem em inglês estampada no objeto fazia referência a um ataque nuclear ao Brasil; organização pediu retirada de bandeiras estrangeiras.",
+      "publicado_em": "2026-10-18T17:22:51-03:00",
+      "dia": "2026-10-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-18T19:05:11-03:00"
+    },
+    {
+      "id": "509913afd1dd64e4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio reúne 71 mil apoiadores na Paulista em ato de campanha",
+      "link": "https://www.congressoemfoco.com.br/noticia/123349/flavio-reune-71-mil-apoiadores-na-paulista-em-ato-de-campanha",
+      "resumo": "Tarcísio de Freitas, Ricardo Nunes e Nikolas Ferreira participaram da mobilização, realizada uma semana antes do segundo turno.",
+      "publicado_em": "2026-10-18T16:56:34-03:00",
+      "dia": "2026-10-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-18T19:05:11-03:00"
+    },
+    {
+      "id": "59d454625059994b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Capitais recebem atos pró-Lula em último domingo antes da eleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/123348/capitais-recebem-atos-pro-lula-em-ultimo-domingo-antes-da-eleicao",
+      "resumo": "Manifestações reúnem artistas e movimentos sociais em diferentes regiões do país, com apresentações musicais no Rio e em Salvador.",
+      "publicado_em": "2026-10-18T16:04:08-03:00",
+      "dia": "2026-10-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-18T19:05:11-03:00"
     },
     {
       "id": "2a3c45af8190f713",
@@ -3059,6 +3105,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-15T19:47:39-03:00"
+    },
+    {
+      "id": "6b81f7dfe7638a6b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto limita uso de contas pessoais para tratar de assuntos públicos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123302/projeto-limita-uso-de-contas-pessoais-para-tratar-de-assuntos-publicos",
+      "resumo": "Proposta exige canais institucionais para assuntos oficiais e determina a preservação de mensagens, arquivos e documentos funcionais.",
+      "publicado_em": "2026-10-15T17:05:39-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-18T19:05:11-03:00"
     },
     {
       "id": "68f9f8b436a6fd2b",
