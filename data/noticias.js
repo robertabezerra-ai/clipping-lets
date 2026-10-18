@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-17T18:53:22-03:00",
+  "gerado_em": "2026-10-18T11:19:41-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -166,9 +166,9 @@ window.DADOS = {
     },
     {
       "id": "camara",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "receita_federal",
@@ -251,6 +251,22 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "5cadd0333ab6aef0",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mulher é condenada por forjar sequestro para obter dinheiro da mãe",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115766&pagina=1",
+      "resumo": "Configurado o crime de extorsão. \n \n\tA 8ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo condenou mulher, por extorsão, a quatro anos",
+      "publicado_em": "2026-10-18T12:00:00-03:00",
+      "dia": "2026-10-18",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "condenada"
+      ],
+      "coletado_em": "2026-10-18T11:19:41-03:00"
+    },
+    {
       "id": "9aca6943ac2f4989",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -314,6 +330,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-17T11:03:58-03:00"
+    },
+    {
+      "id": "9f86b5c8bcc12430",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE rejeita pedido do Novo para suspender ato de apoio a Lula no Rio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123347/tse-rejeita-pedido-do-novo-para-suspender-ato-de-apoio-a-lula-no-rio",
+      "resumo": "Ministro Ricardo Villas Bôas Cueva considerou insuficientes as provas de que a manifestação seria um showmício em favor do candidato.",
+      "publicado_em": "2026-10-17T22:37:58-03:00",
+      "dia": "2026-10-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-18T11:19:41-03:00"
     },
     {
       "id": "fadd9f5dc1401474",
@@ -1204,6 +1236,22 @@ window.DADOS = {
       "coletado_em": "2026-10-16T19:20:33-03:00"
     },
     {
+      "id": "96c931534c5fe0a6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Tarifa zero pode aquecer a economia, mas financiamento ainda é desafio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123338/tarifa-zero-pode-aquecer-a-economia-mas-financiamento-ainda-e-desafio",
+      "resumo": "Lula deve propor tarifa zero gradual nos fins de semana, com adesão dos municípios e possível uso de emendas parlamentares. A medida pode estimular a economia, mas enfrenta desafios de financiamento e operação.",
+      "publicado_em": "2026-10-16T16:38:41-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-18T11:19:41-03:00"
+    },
+    {
       "id": "2513e07794e3f167",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1218,6 +1266,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "d3006a6aa7895aea",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Jorge Goetten propõe ressarcimento a quem apostar em bets ilegais",
+      "link": "https://www.congressoemfoco.com.br/noticia/123336/jorge-goetten-propoe-ressarcimento-a-quem-apostar-em-bets-ilegais",
+      "resumo": "Texto prevê direito à restituição das chamadas \"perdas líquidas\" decorrentes de apostas feitas com operadores irregulares.",
+      "publicado_em": "2026-10-16T15:58:46-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-18T11:19:41-03:00"
     },
     {
       "id": "bb666ff8cef8e9f8",
@@ -3029,6 +3091,22 @@ window.DADOS = {
       "coletado_em": "2026-10-17T13:43:52-03:00"
     },
     {
+      "id": "513b2e72ac2a4d01",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado quer proibir bandeiras e banners eleitorais em vias públicas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123294/deputado-quer-proibir-bandeiras-e-banners-eleitorais-em-vias-publicas",
+      "resumo": "Weliton Prado aponta gastos com instalação, retirada e vigilância das peças, além de riscos para pedestres e motoristas.",
+      "publicado_em": "2026-10-15T15:19:13-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-18T11:19:41-03:00"
+    },
+    {
       "id": "71a31a4cf85cc527",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -3044,6 +3122,24 @@ window.DADOS = {
         "diploma"
       ],
       "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "ff7a7ea919c498dd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto veta uso de animais vivos como prêmio em rifas e sorteios",
+      "link": "https://www.congressoemfoco.com.br/noticia/123292/projeto-veta-uso-de-animais-vivos-como-premio-em-rifas-e-sorteios",
+      "resumo": "Proposta vale para ações presenciais e digitais e prevê multas de até R$ 50 mil por operação irregular.",
+      "publicado_em": "2026-10-15T15:09:22-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 44,
+      "tags": [
+        "multa",
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-10-18T11:19:41-03:00"
     },
     {
       "id": "c509ca19368558ef",
