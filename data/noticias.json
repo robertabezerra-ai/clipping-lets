@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-18T11:19:41-03:00",
+  "gerado_em": "2026-10-18T13:59:35-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -265,6 +265,40 @@
         "condenada"
       ],
       "coletado_em": "2026-10-18T11:19:41-03:00"
+    },
+    {
+      "id": "09e006905dea1f74",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Caminhada do TJSP e TJM-SP celebra Dia do Servidor e reúne colegas e familiares",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115771&pagina=1",
+      "resumo": "Atividade na Academia de Polícia Militar do Barro Branco.\n \n\tO compromisso deste domingo (18) pedia tênis. Na Academia de Polícia Militar do Barro Branco, na",
+      "publicado_em": "2026-10-18T12:00:00-03:00",
+      "dia": "2026-10-18",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-18T13:59:35-03:00"
+    },
+    {
+      "id": "2a3c45af8190f713",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "274ª Sessão Ordinária de Julgamento do Cade é cancelada",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/274a-sessao-ordinaria-de-julgamento-do-cade-e-cancelada",
+      "resumo": "",
+      "publicado_em": "2026-10-18T12:00:00-03:00",
+      "dia": "2026-10-18",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "julgamento",
+        "julga",
+        "cade"
+      ],
+      "coletado_em": "2026-10-18T13:59:35-03:00"
     },
     {
       "id": "9aca6943ac2f4989",
@@ -1352,6 +1386,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-17T11:03:58-03:00"
+    },
+    {
+      "id": "3e628a95b0a94fda",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputada propõe critérios fixos para heteroidentificação em concursos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123330/deputada-propoe-criterios-fixos-para-heteroidentificacao-em-concursos",
+      "resumo": "Projeto estabelece avaliação por pele, cabelo e traços faciais, além de prever nulidade para decisões sem justificativa individualizada.",
+      "publicado_em": "2026-10-16T13:38:13-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-18T13:59:35-03:00"
     },
     {
       "id": "5f5406ca37486cbe",
