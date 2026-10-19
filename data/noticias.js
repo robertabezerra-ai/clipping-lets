@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-19T14:20:19-03:00",
+  "gerado_em": "2026-10-19T16:32:58-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 17,
       "erro": null
     },
     {
@@ -268,6 +268,20 @@ window.DADOS = {
       "coletado_em": "2026-10-19T14:20:19-03:00"
     },
     {
+      "id": "bbb5f6b4f2530d6f",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados",
+      "link": "https://trt15.jus.br/noticia/2026/acesso-indevido-ao-dejt-e-ao-malote-digital-verifique-se-seus-dados-foram-acessados",
+      "resumo": "Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados anagatto Seg, 19/10/2026 - 15:59 Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados Conteúdo da Notícia Ambos sistemas já foram restabelecidos. Polícia Federal e a ANPD foram inform",
+      "publicado_em": "2026-10-19T15:59:21-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
+    },
+    {
       "id": "7d607073b0ef41a3",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -296,6 +310,53 @@ window.DADOS = {
       "coletado_em": "2026-10-19T14:20:19-03:00"
     },
     {
+      "id": "f67671abdfba8a23",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP realiza 9ª edição do Corte Solidário",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115778&pagina=1",
+      "resumo": "Evento aberto ao público acontece amanhã (20).\n\n\n\tEm alusão à campanha Outubro Rosa, que reforça a importância do diagnóstico precoce do câncer de mama, o Tribunal",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "362c9681a87f7fd8",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Aberta consulta pública do Planejamento Estratégico de 2027-2032",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115758&pagina=1",
+      "resumo": "Formulário disponível até 29/10.\n\tO Tribunal de Justiça de São Paulo abriu consulta pública e consulta interna para a elaboração de seu Planejamento Estratégico 2027-2032. O",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "b229ca6ffd709b68",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF dá prazo para que Secretaria de Cultura do RJ adeque quadro de servidores",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-da-prazo-para-que-secretaria-de-cultura-do-rj-adeque-quadro-de-servidores/",
+      "resumo": "Ministro Edson Fachin considerou que a exoneração imediata de comissionados poderia comprometer atividades administrativas e projetos culturais desenvolvidas pela pasta",
+      "publicado_em": "2026-10-19T16:30:12-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
       "id": "02febc207a38649e",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -311,6 +372,50 @@ window.DADOS = {
         "recurso"
       ],
       "coletado_em": "2026-10-19T14:20:19-03:00"
+    },
+    {
+      "id": "4a71c88c39e82f76",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Carga máxima de trabalho passará a 42 horas semanais em 15 de dezembro",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/carga-maxima-de-trabalho-passara-a-42-horas-semanais-em-15-de-dezembro",
+      "resumo": "",
+      "publicado_em": "2026-10-19T16:19:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "e799c5a7c568ed28",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto do novo Plano Nacional de Cultura chega ao Senado para análise",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-do-novo-plano-nacional-de-cultura-chega-ao-senado-para-analise",
+      "resumo": "",
+      "publicado_em": "2026-10-19T15:31:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "bf090dc3ad07deb3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAS: uso de IA na saúde pode ganhar novas regras",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/cas-uso-de-ia-na-saude-pode-ganhar-novas-regras",
+      "resumo": "",
+      "publicado_em": "2026-10-19T15:07:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "novas regras"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
     },
     {
       "id": "e394383f14c21c8d",
@@ -419,6 +524,82 @@ window.DADOS = {
       "coletado_em": "2026-10-19T14:20:19-03:00"
     },
     {
+      "id": "2e0f540000dad29d",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senasp lança curso de inteligência para análise de rotas e enfrentamento ao crime organizado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-lanca-curso-de-inteligencia-para-analise-de-rotas-e-enfrentamento-ao-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "456b5de9f97e42bb",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Líder de organização criminosa no Amazonas é preso em Santa Catarina com apoio do MJSP",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/lider-de-organizacao-criminosa-no-amazonas-e-preso-em-santa-catarina-com-apoio-do-mjsp",
+      "resumo": "",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "5e347c6490a4805a",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Operação Mulher Segura prende mais de 57 mil agressores em 141 dias",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-mulher-segura-mais-de-57-mil-agressores-sao-presos-em-141-dias",
+      "resumo": "",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "39152edf2c0e8bdb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Operação Mulher Segura, do Ministério da Justiça, prende mais de 57 mil agressores em 141 dias",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/operacao-mulher-segura-prende-mais-de-57-mil-agressores-em-141-dias",
+      "resumo": "",
+      "publicado_em": "2026-10-19T15:36:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "67411b4cd0cec218",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "ANPD notifica Meta sobre denúncias de violações e de remoção de conteúdos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/anpd-pede-explicacoes-a-meta-sobre-denuncias-de-violacoes-na-suspensao-de-contas-e-remocao-de-conteudos",
+      "resumo": "",
+      "publicado_em": "2026-10-19T15:09:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
       "id": "3cc430fdad765145",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -509,6 +690,158 @@ window.DADOS = {
       "coletado_em": "2026-10-19T14:20:19-03:00"
     },
     {
+      "id": "c27d56af7eb29332",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Suspensa oferta de Certificados de Recebíveis Imobiliários (CRI) da B.SEC Companhia de Securitização",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/suspensa-oferta-de-certificados-de-recebiveis-imobiliarios-cri-da-b-sec-companhia-de-securitizacao",
+      "resumo": "",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "d9e7b1a43a8220fa",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Damares busca assinaturas para instalar CPMI sobre Roberta Luchsinger",
+      "link": "https://www.congressoemfoco.com.br/noticia/123396/damares-busca-assinaturas-para-instalar-cpmi-sobre-roberta-luchsinger",
+      "resumo": "Senadora reúne apoio junto à deputada Coronel Fernanda para investigar relações da empresária com Lulinha e possíveis irregularidades no governo.",
+      "publicado_em": "2026-10-19T16:11:16-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "19a29a418243f883",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Milei ironiza Lula após ser citado em debate: \"esquerdistas choram\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123394/milei-ironiza-lula-apos-ser-citado-em-debate--esquerdistas-choram",
+      "resumo": "Presidente brasileiro questionou proposta econômica de candidato do PL e o chamou de \"amigo de Milei\".",
+      "publicado_em": "2026-10-19T15:51:47-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "5efe624e2b761640",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zanin pede informações ao TSE sobre eleição de Douglas Ruas no RJ",
+      "link": "https://www.congressoemfoco.com.br/noticia/123390/zanin-pede-informacoes-ao-tse-sobre-eleicao-de-douglas-ruas-no-rj",
+      "resumo": "Decisão ocorre em ação ajuizada pelo PSD que questiona anulação dos votos de Anthony Garotinho.",
+      "publicado_em": "2026-10-19T15:08:51-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "2094a506e594bc81",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fin apresenta estudo sobre avanço dos serviços financeiros no país",
+      "link": "https://www.congressoemfoco.com.br/noticia/123389/fin-apresenta-estudo-sobre-avanco-dos-servicos-financeiros-no-pais",
+      "resumo": "Levantamento aponta crescimento do crédito e do Pix nas regiões com menor acesso ao sistema financeiro e redução das desigualdades regionais.",
+      "publicado_em": "2026-10-19T14:54:36-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "d3e4955ec4931449",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ministra do TSE mantém propaganda de Flávio sobre \"recordes\" de Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/123388/ministra-do-tse-mantem-propaganda-de-flavio-sobre-recordes-de-lula",
+      "resumo": "Estela Aranhaconsiderou que não ficou demonstrado que as informações utilizadas na peça sejam manifestamente falsas.",
+      "publicado_em": "2026-10-19T14:48:50-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "6021eecf98d5f5cb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto de Janones cria 14º salário para aposentados do INSS",
+      "link": "https://www.congressoemfoco.com.br/noticia/123387/projeto-de-janones-cria-14-salario-para-aposentados-do-inss",
+      "resumo": "Proposta acrescenta uma segunda parcela de igual valor ao abono anual e prevê início do pagamento no exercício financeiro seguinte à publicação.",
+      "publicado_em": "2026-10-19T14:45:11-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "3cbc1742ea6dd0ec",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Willer Tomaz usa foto de Flávio no perfil do WhatsApp: \"vai vencer\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123385/willer-tomaz-usa-foto-de-flavio-no-perfil-do-whatsapp--vai-vencer",
+      "resumo": "Advogado e senador que disputa o Planalto são investigados por suspeita de lavagem de dinheiro; relação inclui viagens em jatinhos e vínculo em conta bancária.",
+      "publicado_em": "2026-10-19T14:42:14-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "4b59b7303fe297b8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Congresso esvazia pauta na semana do segundo turno presidencial",
+      "link": "https://www.congressoemfoco.com.br/noticia/123383/congresso-esvazia-pauta-na-semana-do-segundo-turno-presidencial",
+      "resumo": "Deputados e senadores passam a atuar diretamente nas campanhas de seus aliados; fluxo deve ser retomado na próxima semana.",
+      "publicado_em": "2026-10-19T14:22:38-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "9b377237b4d0d53d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mãe de Oruam e vereador do Rio de Janeiro são presos em operação da PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/123382/mae-de-oruam-e-vereador-do-rio-de-janeiro-sao-presos-em-operacao-da-pf",
+      "resumo": "Operação contra o Comando Vermelho investiga monopólio de serviços de internet e determina bloqueio de até R$ 558 milhões em bens e valores.",
+      "publicado_em": "2026-10-19T14:08:44-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
       "id": "a4eafaf104de212e",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -523,6 +856,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-19T14:20:19-03:00"
+    },
+    {
+      "id": "3a68312a898972a8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PT aciona PGE após mudanças em locais de votação para o 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123381/pt-aciona-pge-apos-mudancas-em-locais-de-votacao-para-o-2-turno",
+      "resumo": "Líder do PT cobra comunicação individual sobre mudanças que envolvem quase 1,8 milhão de eleitores e apuração de possíveis efeitos na abstenção.",
+      "publicado_em": "2026-10-19T14:02:19-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
     },
     {
       "id": "13a89ff7f2679876",
@@ -542,6 +891,22 @@ window.DADOS = {
       "coletado_em": "2026-10-19T14:20:19-03:00"
     },
     {
+      "id": "2c35d3facc386f5a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto exige transparência patrimonial de candidatos à presidência",
+      "link": "https://www.congressoemfoco.com.br/noticia/123379/projeto-exige-transparencia-patrimonial-de-candidatos-a-presidencia",
+      "resumo": "Proposta prevê autorização para acesso a dados bancários, declarações de IR e registros de conexão durante a fiscalização eleitoral.",
+      "publicado_em": "2026-10-19T13:49:08-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
       "id": "d354018b9404e9ca",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -556,6 +921,36 @@ window.DADOS = {
       "coletado_em": "2026-10-19T14:20:19-03:00"
     },
     {
+      "id": "0cb1f0625d50bf61",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O mal-estar do mundo que desafia a política",
+      "link": "https://www.congressoemfoco.com.br/coluna/123375/o-mal-estar-do-mundo-que-desafia-a-politica",
+      "resumo": "Insatisfação com o custo de vida, a precarização do trabalho e a falta de perspectivas impulsiona mudanças políticas em diferentes países e desafia a esquerda a apresentar respostas concretas.",
+      "publicado_em": "2026-10-19T12:11:05-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "6ae39e0046654976",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Menos horas, a mesma folha e uma conta maior para produzir",
+      "link": "https://www.congressoemfoco.com.br/artigo/123374/menos-horas-a-mesma-folha-e-uma-conta-maior-para-produzir",
+      "resumo": "Redução da jornada de 44 para 40 horas, sem corte salarial, pode elevar custos operacionais, reduzir margens de lucro e exigir novas contratações para manter a produção.",
+      "publicado_em": "2026-10-19T11:51:47-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
       "id": "2a8a9524863373d5",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -568,6 +963,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-19T14:20:19-03:00"
+    },
+    {
+      "id": "08cd62d73dfb74d0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio x Lula: Quem venceu o debate?",
+      "link": "https://www.congressoemfoco.com.br/artigo/123373/flavio-x-lula-quem-venceu-o-debate",
+      "resumo": "Personalidade, postura e buscas no Google Trends após o debate da Band.",
+      "publicado_em": "2026-10-19T11:32:07-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
     },
     {
       "id": "bb762bf6f2fba024",
@@ -794,6 +1203,130 @@ window.DADOS = {
       "coletado_em": "2026-10-19T14:20:19-03:00"
     },
     {
+      "id": "39064f6bb5e61057",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TRT-BA divulga conciliação trabalhista em estações do Metrô de Salvador",
+      "link": "https://www.cnj.jus.br/trt-ba-divulga-conciliacao-trabalhista-em-estacoes-do-metro-de-salvador/",
+      "resumo": "O Tribunal Regional do Trabalho da Bahia (TRT-BA) promove, até o final de outubro, uma campanha de conscientização sobre a conciliação trabalhista nas estações Lapa, Rodoviária, Aeroporto e Acesso Norte do Metrô de Salvador. A ação é promovida pela Presidência e pelo Cejusc, com execução da Secom do",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "a1b37dc867ebd024",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Precatórios e ações previdenciárias estão na pauta do CNJ desta terça (20/10)",
+      "link": "https://www.cnj.jus.br/precatorios-e-acoes-previdenciarias-estao-na-pauta-do-cnj-desta-terca-20-10/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realiza, na próxima terça-feira (20/10), às 10h, a 2ª Sessão Extraordinária de 2026. A pauta reúne nove processos, entre eles propostas para instituir políticas judiciárias nacionais voltadas ao tratamento de precatórios e de ações judiciais relacionadas a benefí",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "precatorio",
+        "processo"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "5e831194101cafe1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria sistema nacional para registrar e acompanhar crianças e adolescentes órfãos",
+      "link": "https://www.camara.leg.br/noticias/1308170-projeto-cria-sistema-nacional-para-registrar-e-acompanhar-criancas-e-adolescentes-orfaos",
+      "resumo": "",
+      "publicado_em": "2026-10-19T16:26:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "fe70d6ad7023e323",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê isenção de Imposto de Renda para aposentados com sequelas neurológicas permanentes",
+      "link": "https://www.camara.leg.br/noticias/1309526-projeto-preve-isencao-de-imposto-de-renda-para-aposentados-com-sequelas-neurologicas-permanentes",
+      "resumo": "",
+      "publicado_em": "2026-10-19T16:02:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "7725683795571f95",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê incentivo fiscal para doações a conselhos comunitários de segurança",
+      "link": "https://www.camara.leg.br/noticias/1306400-projeto-preve-incentivo-fiscal-para-doacoes-a-conselhos-comunitarios-de-seguranca",
+      "resumo": "",
+      "publicado_em": "2026-10-19T15:34:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "54b96627fc7d7859",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto isenta feirantes de IPI na compra de veículos utilitários",
+      "link": "https://www.camara.leg.br/noticias/1309592-projeto-isenta-feirantes-de-ipi-na-compra-de-veiculos-utilitarios",
+      "resumo": "",
+      "publicado_em": "2026-10-19T15:07:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "5db3e519c7011135",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto exige notificação prévia sobre renegociação de contas de água e luz antes da negativação",
+      "link": "https://www.camara.leg.br/noticias/1307904-projeto-exige-notificacao-previa-sobre-renegociacao-de-contas-de-agua-e-luz-antes-da-negativacao",
+      "resumo": "",
+      "publicado_em": "2026-10-19T14:11:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "d02dfd4abc4091d7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê incentivo à comercialização de produtos da agricultura familiar em feiras livres",
+      "link": "https://www.camara.leg.br/noticias/1311936-projeto-preve-incentivo-a-comercializacao-de-produtos-da-agricultura-familiar-em-feiras-livres",
+      "resumo": "",
+      "publicado_em": "2026-10-19T13:19:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
       "id": "6b033f83704efc07",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -842,7 +1375,7 @@ window.DADOS = {
       "titulo": "Projeto exige presença de fisioterapeuta em equipes de segurança de grandes empresas",
       "link": "https://www.camara.leg.br/noticias/1306699-projeto-exige-presenca-de-fisioterapeuta-em-equipes-de-seguranca-de-grandes-empresas",
       "resumo": "",
-      "publicado_em": "2026-10-19T10:44:00-03:00",
+      "publicado_em": "2026-10-19T10:24:00-03:00",
       "dia": "2026-10-19",
       "data_estimada": false,
       "score": 40,
@@ -33224,20 +33757,6 @@ window.DADOS = {
         "seminario"
       ],
       "coletado_em": "2026-09-22T12:25:47-03:00"
-    },
-    {
-      "id": "bbb5f6b4f2530d6f",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados",
-      "link": "https://trt15.jus.br/noticia/2026/acesso-indevido-ao-dejt-e-ao-malote-digital-verifique-se-seus-dados-foram-acessados",
-      "resumo": "Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados anagatto Seg, 21/09/2026 - 15:59 Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados Conteúdo da Notícia Ambos sistemas já foram restabelecidos. Polícia Federal e a ANPD foram inform",
-      "publicado_em": "2026-09-21T15:59:21-03:00",
-      "dia": "2026-09-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-21T17:15:24-03:00"
     },
     {
       "id": "8a75c61b5e62670d",
