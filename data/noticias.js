@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-19T16:32:58-03:00",
+  "gerado_em": "2026-10-19T17:52:26-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 17,
+      "itens": 18,
       "erro": null
     },
     {
@@ -340,12 +340,61 @@ window.DADOS = {
       "coletado_em": "2026-10-19T16:32:58-03:00"
     },
     {
+      "id": "2a5d56fd5fe59219",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP na Mídia: imprensa repercute premiação do Programa Leitura Amiga – Jovens Escritores",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115780&pagina=1",
+      "resumo": "37 crianças e adolescentes acolhidos lançaram livro.\n \n\tA solenidade de premiação do Programa Leitura Amiga – Jovens Escritores, iniciativa da Coordenadoria da Infância e da",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
+      "id": "e25a1d8b8dd84a78",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Poder Judiciário participa de ato simbólico de devolução de celulares recuperados na Operação Frank Mobile",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115783&pagina=1",
+      "resumo": "Cerimônia foi na sede do MPSP.\n \n\tO Poder Judiciário paulista, representado pelo presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, participou,",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
+      "id": "56d3409dcb9ed887",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF divulga inscrições homologadas para segunda edição do STF Moot",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-divulga-inscricoes-homologadas-para-segunda-edicao-do-stf-moot/",
+      "resumo": "Competição de julgamento simulado teve 154 inscrições homologadas; resultado da fase escrita está previsto para 10 de novembro",
+      "publicado_em": "2026-10-19T17:19:53-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
       "id": "b229ca6ffd709b68",
       "fonte_id": "stf",
       "fonte_nome": "STF",
       "titulo": "STF dá prazo para que Secretaria de Cultura do RJ adeque quadro de servidores",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-da-prazo-para-que-secretaria-de-cultura-do-rj-adeque-quadro-de-servidores/",
-      "resumo": "Ministro Edson Fachin considerou que a exoneração imediata de comissionados poderia comprometer atividades administrativas e projetos culturais desenvolvidas pela pasta",
+      "resumo": "Ministro Edson Fachin considerou que a exoneração imediata de comissionados, determinada pelo TJRJ, poderia comprometer atividades administrativas e projetos culturais desenvolvidos pela pasta",
       "publicado_em": "2026-10-19T16:30:12-03:00",
       "dia": "2026-10-19",
       "data_estimada": false,
@@ -372,6 +421,81 @@ window.DADOS = {
         "recurso"
       ],
       "coletado_em": "2026-10-19T14:20:19-03:00"
+    },
+    {
+      "id": "c5d3a3329e1460ea",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CMA debate efeitos da política externa dos EUA sobre o Brasil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/19/cma-debate-efeitos-da-politica-externa-dos-eua-sobre-o-brasil",
+      "resumo": "",
+      "publicado_em": "2026-10-19T17:46:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
+      "id": "da8ad1f46890bc09",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Após lei aprovada pelo Senado, Brasil avança no ranking de pesquisas clínicas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/apos-lei-aprovada-pelo-senado-brasil-avanca-no-ranking-de-pesquisas-clinicas",
+      "resumo": "",
+      "publicado_em": "2026-10-19T17:37:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
+      "id": "53544bbd7015380a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sessão especial vai destacar história do 14-Bis e importância da Força Aérea",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/sessao-especial-vai-destacar-historia-do-14-bis-e-importancia-da-forca-aerea",
+      "resumo": "",
+      "publicado_em": "2026-10-19T17:36:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
+      "id": "a45d90d5bfefec2c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAE analisa benefícios tributários para pesquisa e inovação",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/cae-analisa-beneficios-tributarios-para-pesquisa-e-inovacao",
+      "resumo": "",
+      "publicado_em": "2026-10-19T17:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "tributario",
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
+      "id": "f9db125936576be0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Diretora-geral do Senado lança livro com lições de liderança para mulheres",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/19/diretora-geral-do-senado-lanca-livro-com-licoes-de-lideranca-para-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-10-19T16:40:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
     },
     {
       "id": "4a71c88c39e82f76",
@@ -524,6 +648,20 @@ window.DADOS = {
       "coletado_em": "2026-10-19T14:20:19-03:00"
     },
     {
+      "id": "c9c061e0bd102186",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "Perdão de dívidas tributárias para MEIs",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/perdao-de-dividas-tributarias-para-meis",
+      "resumo": "",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
       "id": "2e0f540000dad29d",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -568,6 +706,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "8514b7639feabf3e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "R$ 12,5 bi em dívidas de MEI's serão zerados a partir de janeiro, informa Fazenda",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/perdao-de-dividas-tributarias-para-meis",
+      "resumo": "",
+      "publicado_em": "2026-10-19T16:32:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
     },
     {
       "id": "39152edf2c0e8bdb",
@@ -706,6 +858,83 @@ window.DADOS = {
       "coletado_em": "2026-10-19T16:32:58-03:00"
     },
     {
+      "id": "830e975e22d3791e",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Sessão de Julgamento em 20/10",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/sessao-de-julgamento-em-20-10",
+      "resumo": "",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
+      "id": "3fede488aa045cd4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula concederá entrevista ao SBT nesta segunda-feira (19)",
+      "link": "https://www.congressoemfoco.com.br/noticia/123401/lula-concedera-entrevista-ao-sbt-nesta-segunda-feira-19",
+      "resumo": "Presidente participará de sabatina no SBT Brasil durante a reta final da campanha para o segundo turno das eleições presidenciais.",
+      "publicado_em": "2026-10-19T17:25:36-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
+      "id": "30176f3ffa704b20",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Janones tem quadro estável e deve ser liberado em 48h, aponta boletim",
+      "link": "https://www.congressoemfoco.com.br/noticia/123400/janones-tem-quadro-estavel-e-deve-ser-liberado-em-48h-aponta-boletim",
+      "resumo": "Em nota, médicos afirmaram que o deputado continua sob monitorização cardíaca e não teve novos episódios de arritmia.",
+      "publicado_em": "2026-10-19T17:00:05-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
+      "id": "e08ca781b0ca8e99",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governo orienta bancada a apoiar CPMI sobre Roberta Luchsinger",
+      "link": "https://www.congressoemfoco.com.br/noticia/123399/governo-orienta-bancada-a-apoiar-cpmi-sobre-roberta-luchsinger",
+      "resumo": "Teresa Leitão confirmou assinatura do requerimento apresentado pela oposição e também à iniciativa paralela do PT para investigar Flávio Bolsonaro.",
+      "publicado_em": "2026-10-19T16:55:20-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
+      "id": "f7a222f3b1512e2f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fandoms pelo Brasil lança campanha sobre mudança em locais de votação",
+      "link": "https://www.congressoemfoco.com.br/noticia/123398/fandoms-pelo-brasil-lanca-campanha-sobre-mudanca-em-locais-de-votacao",
+      "resumo": "Mobiização busca orientar os eleitores a verificarem antecipadamente onde deverão votar, para evitar contratempos.",
+      "publicado_em": "2026-10-19T16:43:37-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
       "id": "d9e7b1a43a8220fa",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -732,6 +961,24 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "bb152d7a90fd2d50",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sanderson propõe novas regras para benefícios em ano eleitoral",
+      "link": "https://www.congressoemfoco.com.br/noticia/123392/sanderson-propoe-novas-regras-para-beneficios-em-ano-eleitoral",
+      "resumo": "Proposta exige comprovação de recursos, impacto fiscal e adequação orçamentária para medidas adotadas durante eleições.",
+      "publicado_em": "2026-10-19T15:22:41-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "novas regras",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
     },
     {
       "id": "5efe624e2b761640",
@@ -919,6 +1166,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-19T14:20:19-03:00"
+    },
+    {
+      "id": "b299933679446bf9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O que os sistemas do SUS já mostram e ninguém olha",
+      "link": "https://www.congressoemfoco.com.br/artigo/123376/o-que-os-sistemas-do-sus-ja-mostram-e-ninguem-olha",
+      "resumo": "O município não precisa comprar informação para decidir melhor. Boa parte dela já está publicada, de graça, esperando alguém que faça as perguntas certas.",
+      "publicado_em": "2026-10-19T12:17:58-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
     },
     {
       "id": "0cb1f0625d50bf61",
@@ -1206,7 +1469,7 @@ window.DADOS = {
       "id": "39064f6bb5e61057",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "TRT-BA divulga conciliação trabalhista em estações do Metrô de Salvador",
+      "titulo": "TRT-BA divulga conciliação trabalhista em estações do metrô de Salvador",
       "link": "https://www.cnj.jus.br/trt-ba-divulga-conciliacao-trabalhista-em-estacoes-do-metro-de-salvador/",
       "resumo": "O Tribunal Regional do Trabalho da Bahia (TRT-BA) promove, até o final de outubro, uma campanha de conscientização sobre a conciliação trabalhista nas estações Lapa, Rodoviária, Aeroporto e Acesso Norte do Metrô de Salvador. A ação é promovida pela Presidência e pelo Cejusc, com execução da Secom do",
       "publicado_em": "2026-10-19T12:00:00-03:00",
@@ -1235,6 +1498,38 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "ab171f74637f65aa",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política nacional para proteger povos e comunidades tradicionais de terreiro",
+      "link": "https://www.camara.leg.br/noticias/1310379-projeto-cria-politica-nacional-para-proteger-povos-e-comunidades-tradicionais-de-terreiro",
+      "resumo": "",
+      "publicado_em": "2026-10-19T17:25:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
+      "id": "232c9c86c8825a0c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê lista tríplice para diretores de agências reguladoras e novas regras para perda de mandato",
+      "link": "https://www.camara.leg.br/noticias/1309837-projeto-preve-lista-triplice-para-diretores-de-agencias-reguladoras-e-novas-regras-para-perda-de-mandato",
+      "resumo": "",
+      "publicado_em": "2026-10-19T17:01:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "novas regras"
+      ],
+      "coletado_em": "2026-10-19T17:52:26-03:00"
     },
     {
       "id": "5e831194101cafe1",
