@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-20T12:33:35-03:00",
+  "gerado_em": "2026-10-20T15:10:40-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,110 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "4c398963d074a6b7",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "2ª Região admite incidentes sobre parcelamento na execução e direitos coletivos de auxiliares e movimentadores de mercadorias",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2a-regiao-admite-incidentes-sobre-parcelamento-na-execucao-e-direitos-coletivos-de-auxiliares-e-movimentadores-de-mercadorias",
+      "resumo": "",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "10b622d1a1916298",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Corregedoria-Geral da Justiça identifica padrão processual atípico e contribui para investigação da Operação Libelo",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115791&pagina=1",
+      "resumo": "Trabalho do Numopede em Altinópolis auxiliou apuração.\n \n\tA deflagração da Operação Libelo, nesta terça-feira (20), pelo Grupo de Atuação Especial de Combate ao Crime Organizado",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "062ec937c42aa668",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Cejusc de Marília participa de feira voltada ao atendimento de brasileiros, migrantes e refugiados",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115774&pagina=1",
+      "resumo": "Orientações jurídicas e incentivo à conciliação de conflitos.\n \n\tO Centro Judiciário de Solução de Conflitos e Cidadania (Cejusc) da Comarca de Marília participou, no último",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "b9b05e5a6aa93c67",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "TSE pede que eleitor confira endereço de sua seção eleitoral",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/tse-pede-que-eleitor-confira-endereco-de-sua-secao-eleitoral",
+      "resumo": "",
+      "publicado_em": "2026-10-20T15:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "60863a5e87eef72b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Atuação em saúde e pesquisa é destaque em sessão pelos 60 anos da Unicamp",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/atuacao-em-saude-e-pesquisa-e-destaque-em-sessao-pelos-60-anos-da-unicamp",
+      "resumo": "",
+      "publicado_em": "2026-10-20T14:10:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "9f70e502495541e3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sessão pelos 60 anos da Unicamp destaca papel da universidade pública",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/20/sessao-pelos-60-anos-da-unicamp-destaca-papel-da-universidade-publica",
+      "resumo": "",
+      "publicado_em": "2026-10-20T14:08:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "7ac5446d39a515bd",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto cria rota turística no Piauí",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-cria-rota-turistica-no-piaui",
+      "resumo": "",
+      "publicado_em": "2026-10-20T13:25:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
       "id": "62c0d043b6fc859c",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -342,6 +446,22 @@ window.DADOS = {
       "coletado_em": "2026-10-20T12:33:35-03:00"
     },
     {
+      "id": "da6f46eceacf41db",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal bate recordes na restituição do IRPF e reforça a orientação e o respeito aos direitos dos contribuintes",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-bate-recordes-na-restituicao-do-irpf-e-reforca-a-orientacao-e-o-respeito-aos-direitos-dos-contribuintes",
+      "resumo": "",
+      "publicado_em": "2026-10-20T13:24:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
       "id": "e52532a14a76c9e3",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -362,7 +482,7 @@ window.DADOS = {
       "id": "5cfefd579bef80e6",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
-      "titulo": "Meta diz não saber porque contas de jornalistas caem e nega canal direto para casos urgentes envolvendo imprensa e comunicadores no período eleitoral",
+      "titulo": "Meta diz não saber por que contas de jornalistas caem e nega canal direto para casos urgentes envolvendo imprensa e comunicadores no período eleitoral",
       "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/meta-diz-nao-saber-porque-contas-de-jornalistas-caem-e-nega-canal-direto-para-casos-urgentes-envolvendo-imprensa-e-comunicadores-no-periodo-eleitoral",
       "resumo": "",
       "publicado_em": "2026-10-20T12:00:00-03:00",
@@ -371,6 +491,37 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "e84e8570c3d5dbb3",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "ENSP inicia curso de aperfeiçoamento para 330 profissionais da Força Municipal no RJ",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ensp-inicia-curso-de-aperfeicoamento-para-330-profissionais-da-forca-municipal-no-rj",
+      "resumo": "",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "53eac1551b7868d4",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP conclui caderno temático sobre aplicação da perspectiva racial e de gênero em investigações criminais",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-conclui-caderno-tematico-sobre-aplicacao-da-perspectiva-racial-e-de-genero-em-investigacoes-criminais",
+      "resumo": "",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
     },
     {
       "id": "0653b900bb5c7e5a",
@@ -417,6 +568,20 @@ window.DADOS = {
       "coletado_em": "2026-10-20T12:33:35-03:00"
     },
     {
+      "id": "b28bba9d190496c5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Movimentações bancárias suspeitas levam PF e PM a cercar quadrilha do tráfico",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-deflagra-operacao-contra-grupo-suspeito-de-lavar-dinheiro-do-trafico-de-drogas",
+      "resumo": "",
+      "publicado_em": "2026-10-20T09:01:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
       "id": "a4e8526cfc6e5b48",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -449,6 +614,167 @@ window.DADOS = {
       "coletado_em": "2026-10-20T12:33:35-03:00"
     },
     {
+      "id": "019e89aff1b9dff4",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal restituiu 80% dos contribuintes em até um mês até o fim do prazo da declaração do IRPF 2026",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-restituiu-80-dos-contribuintes-em-ate-um-mes-ate-o-fim-do-prazo-da-declaracao-do-irpf-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "dd89d75af0e09c15",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM convida para a Conferência em celebração aos 50 anos da Autarquia",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-convida-para-a-conferencia-em-celebracao-aos-50-anos-da-autarquia",
+      "resumo": "",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "b52ebc1fa901b324",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Descanso também é condição de trabalho",
+      "link": "https://www.congressoemfoco.com.br/artigo/123427/descanso-tambem-e-condicao-de-trabalho",
+      "resumo": "O fim da escala 6x1 foi aprovado pelo Senado, mas só trará ganhos reais à saúde do trabalhador se houver regulamentação firme, fiscalização efetiva e reorganização do trabalho nas empresas.",
+      "publicado_em": "2026-10-20T14:40:44-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 76,
+      "tags": [
+        "regulamenta",
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "f52b0ee8264d73e2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça mantém peça de Flávio que liga ato pró-Lula ao PCC e ao Hamas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123426/mendonca-mantem-peca-de-flavio-que-liga-ato-pro-lula-ao-pcc-e-ao-hamas",
+      "resumo": "Coligação Brasil Pronto pra Mais sustentou que a propaganda de Flávio teria utilizado imagens isoladas e descontextualizadas.",
+      "publicado_em": "2026-10-20T14:39:26-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "f48ce37c1c5d879f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça é sorteado relator em pedido de Lula de quebra de sigilos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123424/mendonca-e-sorteado-relator-em-pedido-de-lula-de-quebra-de-sigilos",
+      "resumo": "Pedido ao TSE condiciona divulgação de informações de Lula, familiares e empresas à abertura de dados equivalentes pelo senador do PL.",
+      "publicado_em": "2026-10-20T14:07:59-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "90e15828bf03732f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio tem 50,8% contra 49,2% de Lula em pesquisa do Instituto França",
+      "link": "https://www.congressoemfoco.com.br/noticia/123423/flavio-tem-50-8-contra-49-2-de-lula-em-pesquisa-do-instituto-franca",
+      "resumo": "Pesquisa aponta empate técnico a cinco dias do segundo turno. Flávio lidera em três regiões, e Lula, em duas. De acordo com levantamento, 19,4% dos eleitores ainda não escolheram candidato.",
+      "publicado_em": "2026-10-20T13:59:40-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "c8830f87cb25981b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ministra do TSE manda apagar post que associa vice de Flávio a estupro",
+      "link": "https://www.congressoemfoco.com.br/noticia/123422/ministra-do-tse-manda-apagar-post-que-associa-vice-de-flavio-a-estupro",
+      "resumo": "Publicação sobre Alfredo Gaspar omitia decisão do STF que arquivou as acusações por falta de elementos para abrir investigação.",
+      "publicado_em": "2026-10-20T13:55:35-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "9beb621415a64cb3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Duda aciona Conselho de Ética contra General Girão por ato na UFRN",
+      "link": "https://www.congressoemfoco.com.br/noticia/123421/duda-aciona-conselho-de-etica-contra-general-girao-por-ato-na-ufrn",
+      "resumo": "Manifestação terminou em confronto entre grupos adversários, com agressões físicas, um estudante ferido e danos a um portão do campus",
+      "publicado_em": "2026-10-20T13:17:20-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "d0cd2f7aa54632e6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Voto no 2º turno também vale como Prova de Vida do INSS",
+      "link": "https://www.congressoemfoco.com.br/noticia/123420/voto-no-2-turno-tambem-vale-como-prova-de-vida-do-inss",
+      "resumo": "Comparecimento às urnas é registrado pelo TSE e pode dispensar beneficiários de realizar outro procedimento para comprovar que estão vivos.",
+      "publicado_em": "2026-10-20T12:59:51-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "b3e8e707856ad6f0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Equipe de Lula protocola quebra do sigilo: \"chegou a hora da verdade\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123419/equipe-de-lula-protocola-quebra-do-sigilo--chegou-a-hora-da-verdade",
+      "resumo": "Secretário de comunicação do PT, Eden Valadares afirmou que divulgação das informações depende que Flávio aceite o desafio.",
+      "publicado_em": "2026-10-20T12:35:23-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
       "id": "27e5ae5456037b59",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -461,6 +787,36 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "74b8e1015eec34ce",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pesquisa aponta que restaurantes bancam até 82% dos cupons de delivery",
+      "link": "https://www.congressoemfoco.com.br/noticia/123417/pesquisa-aponta-que-restaurantes-bancam-ate-82-dos-cupons-de-delivery",
+      "resumo": "Levantamento analisou mais de 2,5 mil recibos e identificou mudança na divisão das promoções em São Paulo.",
+      "publicado_em": "2026-10-20T12:01:05-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "e90c1c7577f9d32b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alesp abre apuração interna após disparo de deputado do PL em boate",
+      "link": "https://www.congressoemfoco.com.br/noticia/123416/alesp-abre-apuracao-interna-apos-disparo-de-deputado-do-pl-em-boate",
+      "resumo": "Assembleia busca esclarecer por que placas oficiais da instituição foram encontradas em um veículo que não integra sua frota durante o episódio.",
+      "publicado_em": "2026-10-20T11:07:25-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
     },
     {
       "id": "650b7b8edda72448",
@@ -634,7 +990,7 @@ window.DADOS = {
       "id": "fac3622307cf13e7",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Nova versão do Sirenejud facilita cruzamento de dados sobre processos ambientais e áreas protegidas",
+      "titulo": "Nova versão do SireneJud facilita cruzamento de dados sobre processos ambientais e áreas protegidas",
       "link": "https://www.cnj.jus.br/nova-versao-do-sirenejud-facilita-cruzamento-de-dados-sobre-processos-ambientais-e-areas-protegidas/",
       "resumo": "A nova versão do Painel Interativo Nacional de Dados Ambientais do Poder Judiciário (SireneJud) oferece ferramentas que facilitam o cruzamento de dados geográficos e a análise de informações sobre danos ambientais discutidos na Justiça. Apresentada nesta terça-feira (20/10) durante a 2ª Sessão Extra",
       "publicado_em": "2026-10-20T12:00:00-03:00",
@@ -650,7 +1006,7 @@ window.DADOS = {
       "id": "389e990dbcd95fbd",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Política nacional para ampliar transparência e eficiência na gestão de precatórios é apresentada ao plenário do CNJ",
+      "titulo": "Política nacional para ampliar transparência e eficiência na gestão de precatórios é apresentada ao Plenário do CNJ",
       "link": "https://www.cnj.jus.br/politica-nacional-para-ampliar-transparencia-e-eficiencia-na-gestao-de-precatorios-e-apresentada-ao-plenario-do-cnj/",
       "resumo": "A Política Judiciária Nacional de Tratamento Adequado dos Precatórios no âmbito do Poder Judiciário foi apresentada, nesta terça-feira (20), ao Plenário do Conselho Nacional de Justiça (CNJ), durante a 2ª Sessão Extraordinária de 2026. A iniciativa busca promover maior efetividade, transparência, se",
       "publicado_em": "2026-10-20T12:00:00-03:00",
@@ -661,6 +1017,56 @@ window.DADOS = {
         "precatorio"
       ],
       "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "f06ed0510632278b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Acre recebe lançamentos do Pena Justa para novas respostas a desafios do sistema prisional",
+      "link": "https://www.cnj.jus.br/acre-recebe-lancamentos-do-pena-justa-para-novas-respostas-a-desafios-do-sistema-prisional/",
+      "resumo": "O sistema prisional do Acre tem 5.523 pessoas custodiadas para uma capacidade declarada de 3.928 vagas, segundo dados do Executivo estadual. Além disso, cerca de 4 em cada 10 não têm acesso a trabalho. Para enfrentar a superlotação e ampliar oportunidades para pessoas presas e para aquelas que deixa",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "9334628f8e5f8d00",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ pune desembargador federal por represamento de processos e conduta inadequada",
+      "link": "https://www.cnj.jus.br/cnj-pune-desembargador-federal-por-represamento-de-processos-e-conduta-inadequada/",
+      "resumo": "O plenário do Conselho Nacional de Justiça (CNJ) aplicou, por unanimidade, pena de disponibilidade por 120 dias ao desembargador federal Evandro Reimão dos Reis, do Tribunal Regional Federal da 6ª Região (TRF-6). O julgamento ocorreu no âmbito do Processo Administrativo Disciplinar (PAD) 0001002-92.",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "00f6fe2a594ed0e6",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Encontro nacional no TJRS busca fortalecer a atuação integrada das Coordenadorias da Infância e da Juventude",
+      "link": "https://www.cnj.jus.br/encontro-nacional-no-tjrs-busca-fortalecer-a-atuacao-integrada-das-coordenadorias-da-infancia-e-da-juventude/",
+      "resumo": "O 1º Encontro Nacional das Coordenadorias da Infância e da Juventude que integram a Justiça Estadual do país foi aberto nesta segunda-feira (19), no Tribunal de Justiça do Rio Grande do Sul (TJRS), com a participação de juízes e assessores de 26 estados. Na abertura, o conselheiro do CNJ Fabio",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
     },
     {
       "id": "d9a5ea43994e0f96",
@@ -678,6 +1084,52 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "954a85d5d81ff26f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto inclui desempenho de ex-alunos no mercado de trabalho na avaliação de universidades",
+      "link": "https://www.camara.leg.br/noticias/1308068-projeto-inclui-desempenho-de-ex-alunos-no-mercado-de-trabalho-na-avaliacao-de-universidades",
+      "resumo": "",
+      "publicado_em": "2026-10-20T15:01:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "89481893efaad15b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê uso do Fundo de Segurança Pública para indenizar vítimas da violência e policiais",
+      "link": "https://www.camara.leg.br/noticias/1307703-projeto-preve-uso-do-fundo-de-seguranca-publica-para-indenizar-vitimas-da-violencia-e-policiais",
+      "resumo": "",
+      "publicado_em": "2026-10-20T14:31:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "indenizar"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "6420eb2b37fb6733",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "União foi o partido que mais perdeu deputados federais nesta eleição",
+      "link": "https://www.camara.leg.br/noticias/1310801-uniao-foi-o-partido-que-mais-perdeu-deputados-federais-nesta-eleicao",
+      "resumo": "",
+      "publicado_em": "2026-10-20T14:18:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
     },
     {
       "id": "7fb43b527b2e62ea",
@@ -751,6 +1203,23 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "b86c17b11ad559d6",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Inscrições abertas para evento em que ANPD fará balanço dos seis anos de atuação",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/inscricoes-abertas-anpd-balanco-6-anos",
+      "resumo": "Encontro será realizado no dia 05/11, em Brasília, com apresentação dos principais resultados da Agência, debates sobre os desafios futuros e entrega do Prêmio Danilo Doneda",
+      "publicado_em": "2026-10-20T13:50:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
     },
     {
       "id": "6a34ae907879490c",
@@ -1524,6 +1993,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
+      "id": "41919aa955d6a8cb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Maioridade penal e limites constitucionais",
+      "link": "https://www.congressoemfoco.com.br/artigo/123397/maioridade-penal-e-limites-constitucionais",
+      "resumo": "Proposta de responsabilização criminal de adolescentes por crimes graves enfrenta controvérsias jurídicas e exige avaliação dos impactos sobre o sistema prisional e a ressocialização.",
+      "publicado_em": "2026-10-19T16:17:49-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T15:10:40-03:00"
     },
     {
       "id": "d9e7b1a43a8220fa",
