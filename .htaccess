@@ -1,0 +1,19 @@
+# Hostinger (clipping.letsite.com.br): o repositorio inteiro e implantado em
+# public_html, mas o site so precisa de index.html e data/noticias.js.
+# Todo o resto (codigo do coletor, configuracoes, referencias) responde 404.
+
+Options -Indexes
+DirectoryIndex index.html
+
+RedirectMatch 404 "^/(coletor|referencia)(/|$)"
+RedirectMatch 404 "/\.(git|github|claude|impeccable|gitignore|gitattributes)"
+RedirectMatch 404 "\.(py|ya?ml|md|bat|txt|pdf|eml)$"
+RedirectMatch 404 "^/data/(?!noticias\.js$)"
+
+# index.html sempre revalidado: e ele que carrega o ?v= novo de cada coleta,
+# entao o navegador nunca fica preso numa versao velha das noticias.
+<IfModule mod_headers.c>
+  <FilesMatch "^(index\.html)?$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
+</IfModule>
