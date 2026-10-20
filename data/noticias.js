@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-20T15:10:40-03:00",
+  "gerado_em": "2026-10-20T16:49:01-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
@@ -265,6 +265,20 @@ window.DADOS = {
       "coletado_em": "2026-10-20T15:10:40-03:00"
     },
     {
+      "id": "64dc76b686bfd284",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Fórum de Osasco-SP retoma atividades presenciais nesta sexta-feira (23/10)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/forum-de-osasco-sp-retoma-atividades-presenciais-nesta-sexta-feira-23-10",
+      "resumo": "",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
       "id": "10b622d1a1916298",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -295,6 +309,142 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "e04fe15e2d05b622",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Comissão Regional de Soluções Fundiárias conquista acordo para desocupação de imóveis",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115794&pagina=1",
+      "resumo": "Busca de soluções pacíficas.\n \n\tA Comissão Regional de Soluções Fundiárias do Tribunal de Justiça de São Paulo conquistou, nas últimas semanas, acordos para a desocupação",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "b9bbd9add050375b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF vai analisar revisão judicial dos valores pagos pelo SUS a hospitais privados",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-vai-analisar-revisao-judicial-dos-valores-pagos-pelo-sus-a-hospitais-privados/",
+      "resumo": "Plenário seguiu manifestação do relator, ministro Gilmar Mendes, e reconheceu a repercussão geral da controvérsia, que pode afetar o orçamento da saúde pública",
+      "publicado_em": "2026-10-20T15:20:30-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "repercussao geral",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "35ec80ebc917d862",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão debate impacto ambiental da política externa dos EUA",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/comissao-debate-impacto-ambiental-da-politica-externa-dos-eua",
+      "resumo": "",
+      "publicado_em": "2026-10-20T16:20:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "e2467f861988970f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleitores não podem ser presos a partir desta terça-feira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/20/eleitores-nao-podem-ser-presos-a-partir-desta-terca-feira",
+      "resumo": "",
+      "publicado_em": "2026-10-20T16:10:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "a20fb4fcc41b566b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Após perdão de dívidas de MEIs, proposta visa recompensar quem pagou em dia",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/apos-perdao-de-dividas-de-meis-proposta-visa-recompensar-quem-pagou-em-dia",
+      "resumo": "",
+      "publicado_em": "2026-10-20T16:08:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "e4a15509c4172b5e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CMA discute impactos da política externa dos EUA na agenda ambiental brasileira",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/cma-discute-impactos-da-politica-externa-dos-eua-na-agenda-ambiental-brasileira",
+      "resumo": "",
+      "publicado_em": "2026-10-20T15:55:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "2b5b9a2fc860187a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aplicativo e-Título envia alertas e orientações para votação",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/aplicativo-e-titulo-envia-alertas-e-orientacoes-para-votacao",
+      "resumo": "",
+      "publicado_em": "2026-10-20T15:54:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "0241c0ff7fffe81e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pix, criptomoedas e segurança financeira digital estão na pauta",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/pix-criptomoedas-e-seguranca-financeira-digital-estao-na-pauta",
+      "resumo": "",
+      "publicado_em": "2026-10-20T15:53:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "40789732871208dc",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Chuvas e ventos fortes mudam local de votação",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/edicao-da-tarde-chuvas-e-ventos-fortes-mudam-local-de-votacao",
+      "resumo": "",
+      "publicado_em": "2026-10-20T15:11:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
     },
     {
       "id": "b9b05e5a6aa93c67",
@@ -524,6 +674,68 @@ window.DADOS = {
       "coletado_em": "2026-10-20T15:10:40-03:00"
     },
     {
+      "id": "90689d2c17be6976",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Helicópteros reforçam investigação de incêndios no interior do Amazonas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/helicopteros-reforcam-investigacao-de-incendios-no-interior-do-amazonas",
+      "resumo": "",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "6766e9e4ef576398",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senad e DPU promovem ações de cidadania para população em situação de rua em Porto Alegre",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-e-dpu-promovem-acoes-de-cidadania-para-populacao-em-situacao-de-rua-em-porto-alegre",
+      "resumo": "",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "8d66e85dd07604cf",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Receita Federal antecipou pagamento da restituição para 80% dos contribuintes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/receita-federal-restituiu-80-dos-contribuintes-em-ate-um-mes-ate-o-fim-do-prazo-da-declaracao-do-irpf-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-20T14:50:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "683da9019c8483d6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Diversidade e direitos humanos entre os vencedores do Prêmio Literário Biblioteca Nacional",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/fundacao-biblioteca-nacional-divulga-os-vencedores-do-premio-literario-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-20T13:49:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
       "id": "0653b900bb5c7e5a",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -631,6 +843,23 @@ window.DADOS = {
       "coletado_em": "2026-10-20T15:10:40-03:00"
     },
     {
+      "id": "47d32895e2717227",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal desenvolve ferramenta que permite julgar milhares de processos em uma única sessão",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-desenvolve-ferramenta-que-permite-julgar-milhares-de-processos-em-uma-unica-sessao",
+      "resumo": "",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
       "id": "dd89d75af0e09c15",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -645,6 +874,114 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "c26cd0a9ee4b1064",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A polifonia e a policromia democrática e os evangélicos",
+      "link": "https://www.congressoemfoco.com.br/artigo/123436/a-polifonia-e-a-policromia-democratica-e-os-evangelicos",
+      "resumo": "A diversidade política entre os evangélicos contraria a ideia de um eleitorado homogêneo e reforça a importância da liberdade de consciência, da solidariedade e da dignidade humana.",
+      "publicado_em": "2026-10-20T16:22:09-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "solidariedade"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "11d8c1011c379ea2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Randolfe prepara ação contra Flávio no Senado por caso Dark Horse",
+      "link": "https://www.congressoemfoco.com.br/noticia/123435/randolfe-prepara-acao-contra-flavio-no-senado-por-caso-dark-horse",
+      "resumo": "Líder do governo reúne assinaturas para investigar negociações de R$ 134 milhões com Daniel Vorcaro e possíveis benefícios ao senador.",
+      "publicado_em": "2026-10-20T16:14:41-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "c5e29abe484f347b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Janones deixa hospital após tratar arritmia e promete se cuidar mais",
+      "link": "https://www.congressoemfoco.com.br/noticia/123433/janones-deixa-hospital-apos-tratar-arritmia-e-promete-se-cuidar-mais",
+      "resumo": "Deputado relatou falta de ar intensa e tremor que o impedia até de segurar o celular.",
+      "publicado_em": "2026-10-20T15:46:10-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "49e10af3e3126fde",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Debate eleitoral resgata Perse e evidencia força econômica dos eventos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123432/debate-eleitoral-resgata-perse-e-evidencia-forca-economica-dos-eventos",
+      "resumo": "Programa criado durante a pandemia volta à pauta e reforça discussão sobre a importância de políticas permanentes para um setor que movimenta turismo, comércio e serviços.",
+      "publicado_em": "2026-10-20T15:43:23-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "fc30566705cdf9d4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE arquiva ação contra Janones por dizer que Flávio cortará programas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123431/tse-arquiva-acao-contra-janones-por-dizer-que-flavio-cortara-programas",
+      "resumo": "André Mendonça acompanhou manifestação do Ministério Público Eleitoral, que não viu motivos para adotar providências contra o deputado.",
+      "publicado_em": "2026-10-20T15:31:51-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "bed5b3337d41dba8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Rogério Correia lança abaixo-assinado \"Devolva a ilha do Richarlison\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123430/rogerio-correia-lanca-abaixo-assinado-devolva-a-ilha-do-richarlison",
+      "resumo": "Petição será encaminhada à Polícia Federal e cobra investigação sobre disputa por mansão de R$ 10 milhões em Angra dos Reis.",
+      "publicado_em": "2026-10-20T15:27:03-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "0482dd4715578c72",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE rejeita pedido de Flávio para derrubar vídeo do PT sobre Vorcaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/123429/tse-rejeita-pedido-de-flavio-para-derrubar-video-do-pt-sobre-vorcaro",
+      "resumo": "Estela Aranha concluiu que, apesar do caráter severo e depreciativo, não ficou demonstrada a divulgação de fato sabidamente inverídico.",
+      "publicado_em": "2026-10-20T15:22:43-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
     },
     {
       "id": "b52ebc1fa901b324",
@@ -1084,6 +1421,80 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "54620f0f8e723367",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto institui programa de apoio a famílias superendividadas",
+      "link": "https://www.camara.leg.br/noticias/1309911-projeto-institui-programa-de-apoio-a-familias-superendividadas",
+      "resumo": "",
+      "publicado_em": "2026-10-20T16:22:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "3be5391787e3705e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria estatuto de proteção financeira da pessoa idosa",
+      "link": "https://www.camara.leg.br/noticias/1310478-projeto-cria-estatuto-de-protecao-financeira-da-pessoa-idosa",
+      "resumo": "",
+      "publicado_em": "2026-10-20T15:54:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "ebdfa52c58b1d827",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política para reduzir atropelamento de animais em rodovias",
+      "link": "https://www.camara.leg.br/noticias/1310174-projeto-cria-politica-para-reduzir-atropelamento-de-animais-em-rodovias",
+      "resumo": "",
+      "publicado_em": "2026-10-20T15:22:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "f9fa25b76412aead",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria requisitos adicionais de governança para investimentos de empresas estatais",
+      "link": "https://www.camara.leg.br/noticias/1307878-projeto-cria-requisitos-adicionais-de-governanca-para-investimentos-de-empresas-estatais",
+      "resumo": "",
+      "publicado_em": "2026-10-20T15:19:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "0cb00b74d132105c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto amplia exigências em declaração de bens de agentes públicos",
+      "link": "https://www.camara.leg.br/noticias/1309856-projeto-amplia-exigencias-em-declaracao-de-bens-de-agentes-publicos",
+      "resumo": "",
+      "publicado_em": "2026-10-20T15:14:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T16:49:01-03:00"
     },
     {
       "id": "954a85d5d81ff26f",
