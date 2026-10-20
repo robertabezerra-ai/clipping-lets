@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-20T16:49:01-03:00",
+  "gerado_em": "2026-10-20T19:50:26-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 403 Client Error: Forbidden for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "falhou após 3 tentativas: 401 Client Error: Unauthorized for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -327,6 +327,73 @@
       "coletado_em": "2026-10-20T16:49:01-03:00"
     },
     {
+      "id": "935f1d62e3e8c697",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "OE mantém regras de transparência com QR Code para divulgação de gastos públicos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115797&pagina=1",
+      "resumo": "Trecho que estabelece sanção é inconstitucional. \n \n\tO Órgão Especial do Tribunal de Justiça de São Paulo julgou parcialmente procedente ação direta de inconstitucionalidade relativa às",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "inconstitucional",
+        "sancao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "94bf256f6fffd3f1",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Programa Saúde Itinerante realiza atendimentos na Comarca de Santa Isabel",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115788&pagina=1",
+      "resumo": "Foco no bem-estar de magistrados e funcionários. \n \n\tO Programa Saúde Itinerante, iniciativa da Coordenadoria de Assistência e Promoção de Saúde da Secretaria de Gestão de",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "f1a4c8489124a1ac",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF afasta alíquota maior de ICMS sobre energia elétrica e serviços de comunicação no Maranhão",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-afasta-aliquota-maior-de-icms-sobre-energia-eletrica-e-servicos-de-comunicacao-no-maranhao/",
+      "resumo": "Tribunal considerou inconstitucional a cobrança sobre serviços essenciais acima da alíquota geral do imposto",
+      "publicado_em": "2026-10-20T19:22:34-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "inconstitucional",
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "ffa11b72f25193b9",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF recebe crianças para conversar sobre democracia, cidadania e direitos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-criancas-para-conversar-sobre-democracia-cidadania-e-direitos/",
+      "resumo": "Brincadeiras, histórias e criação de cartazes marcaram atividade que integra ação nacional realizada em mais de 30 tribunais brasileiros",
+      "publicado_em": "2026-10-20T18:15:52-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
       "id": "b9bbd9add050375b",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -343,6 +410,48 @@
         "acao"
       ],
       "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "5ed046690fbfb2bd",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Outubro Rosa chama atenção para detecção precoce do câncer de mama",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/outubro-rosa-chama-atencao-para-deteccao-precoce-do-cancer-de-mama",
+      "resumo": "",
+      "publicado_em": "2026-10-20T18:04:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "5cb916f19d3cc96c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto cria incentivo a empresa que contrata aprendiz e recém-formado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-cria-incentivo-a-empresa-que-contrata-aprendiz-e-recem-formado",
+      "resumo": "",
+      "publicado_em": "2026-10-20T18:03:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "a6063de5d2459bd3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto prevê que doações a projetos científicos gerem desconto no IR",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-preve-que-doacoes-a-projetos-cientificos-gerem-desconto-no-ir",
+      "resumo": "",
+      "publicado_em": "2026-10-20T17:43:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
     },
     {
       "id": "35ec80ebc917d862",
@@ -706,6 +815,50 @@
       "coletado_em": "2026-10-20T16:49:01-03:00"
     },
     {
+      "id": "397ce34947ee3ac3",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Aviação civil brasileira movimentou 10,9 milhões de passageiros em setembro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/aviacao-civil-brasileira-movimentou-10-9-milhoes-de-passageiros-em-setembro",
+      "resumo": "",
+      "publicado_em": "2026-10-20T17:38:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "df30c977d586fde2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Embrapa apresenta estudos para melhorar qualidade do gado brasileiro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/avancos-cientificos-para-aumentar-a-eficiencia-reprodutiva-de-bovinos-marcam-simfertcorte",
+      "resumo": "",
+      "publicado_em": "2026-10-20T16:40:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "b1ff1370ff83cb27",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Glossário aborda 'discurso de ódio' e orienta como prevenir a violência escolar",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/glossario-aborda-discurso-odio-e-orienta-prevencao-violencia-escolas",
+      "resumo": "",
+      "publicado_em": "2026-10-20T16:22:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
       "id": "8d66e85dd07604cf",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -734,6 +887,22 @@
         "premio"
       ],
       "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "41442bfa42970af9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Diversidade e direitos humanos entre os vencedores do Prêmio Literário Biblioteca Nacional",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/diversidade-direitos-humanos-destaque-premio-literario-biblioteca-nacional",
+      "resumo": "",
+      "publicado_em": "2026-10-20T13:49:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
     },
     {
       "id": "0653b900bb5c7e5a",
@@ -874,6 +1043,66 @@
         "acao"
       ],
       "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "c425e480bfcf635a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Petição por checagem de fatos em debate alcança 400 mil assinaturas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123440/peticao-por-checagem-de-fatos-em-debate-alcanca-400-mil-assinaturas",
+      "resumo": "Cobrança surgiu depois do encontro na Band, quando declarações de ambos os candidatos foram contestadas por serviços de checagem.",
+      "publicado_em": "2026-10-20T19:12:08-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "dda40506fa2c5d43",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MRE acusa Milei de ingerência externa após provocação a Lula nas redes",
+      "link": "https://www.congressoemfoco.com.br/noticia/123439/mre-acusa-milei-de-ingerencia-externa-apos-provocacao-a-lula-nas-redes",
+      "resumo": "Milei chamou Lula de \"esquerdista ladrão\" e insinuou fraude eleitoral durante o segundo turno.",
+      "publicado_em": "2026-10-20T18:39:47-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "97a0ebe9c727b7ce",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Centrão reage à ofensiva de Flávio e do PL",
+      "link": "https://www.congressoemfoco.com.br/coluna/123438/centrao-reage-a-ofensiva-de-flavio-e-do-pl",
+      "resumo": "Apesar do crescimento do PL nas eleições, o partido dependerá de alianças com o Centro e o Centrão para eleger os presidentes da Câmara e do Senado e aprovar mudanças na Constituição.",
+      "publicado_em": "2026-10-20T16:45:16-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "ca96ef5a5207ae2e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Um servidor, 58 mil câmeras; e o sistema?",
+      "link": "https://www.congressoemfoco.com.br/artigo/123437/um-servidor-58-mil-cameras-e-o-sistema",
+      "resumo": "Quando uma única credencial abre acesso a 58 mil câmeras, a responsabilidade jurídica não termina em quem violou a regra: alcança também a estrutura de governança, segurança e controle criada pelo poder público para impedir que uma falha individual se transforme em dano coletivo.",
+      "publicado_em": "2026-10-20T16:34:41-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
     },
     {
       "id": "c26cd0a9ee4b1064",
@@ -1406,6 +1635,73 @@
       "coletado_em": "2026-10-20T15:10:40-03:00"
     },
     {
+      "id": "18d8258facd29fb0",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Estudantes do DF discutem acesso à Justiça e proteção de diretos em oficina do CNJ",
+      "link": "https://www.cnj.jus.br/estudantes-do-df-discutem-acesso-a-justica-e-protecao-de-diretos-em-oficina-do-cnj/",
+      "resumo": "A maneira como uma estudante de 18 anos imaginava a Justiça era bem diferente da representação que ela encontrou no auditório da sua escola, o Centro Educacional São Francisco, em São Sebastião (DF). Acostumada a enxergar a magistratura na figura de um homem branco, de terno e gravata, ela se",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "104b6a27e35560f3",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Gestores do Pacto da Linguagem Simples se reúnem em novembro para premiação no CNJ",
+      "link": "https://www.cnj.jus.br/gestores-do-pacto-da-linguagem-simples-se-reunem-em-novembro-para-premiacao-no-cnj/",
+      "resumo": "Setenta e cinco órgãos da Justiça brasileira que se destacaram na implementação da linguagem simples em suas comunicações serão homenageados no dia 18 de novembro, em solenidade a partir das 14h, na sede do Conselho Nacional de Justiça (CNJ), em Brasília (DF). Na mesma ocasião, será realizada a 3ª R",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "5b9a5e82bf6927c9",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Prêmio Viviane do Amaral: Vencedores participam de solenidade na sexta (23/10)",
+      "link": "https://www.cnj.jus.br/premio-viviane-do-amaral-vencedores-participam-de-solenidade-na-sexta-23-10/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realiza, nesta sexta-feira (23/10), a solenidade de entrega do VI Prêmio CNJ Juíza Viviane Vieira do Amaral. Os vencedores serão homenageados no Plenário do CNJ, em Brasília (DF), a partir das 16h. Em sua 6ª edição, a premiação abrange seis categorias: Tribunais;",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "fc46404a23e2d8f7",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Corregedoria Nacional de Justiça estabelece regras para agilizar venda de bens apreendidos pela PF",
+      "link": "https://www.cnj.jus.br/corregedoria-nacional-de-justica-estabelece-regras-para-agilizar-venda-de-bens-apreendidos-pela-pf/",
+      "resumo": "A Corregedoria Nacional de Justiça estabeleceu novas regras para agilizar a venda antecipada de bens apreendidos pela Polícia Federal vinculados a processos criminais. A medida busca evitar a deterioração e a perda de valor desses ativos, reduzir o acúmulo de veículos e outros bens móveis nos pátios",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "novas regras",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
       "id": "d9a5ea43994e0f96",
       "fonte_id": "carf",
       "fonte_nome": "CARF",
@@ -1421,6 +1717,94 @@
         "julga"
       ],
       "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "bf942f39108069e7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eleitores não podem ser presos a partir desta terça-feira",
+      "link": "https://www.camara.leg.br/noticias/1312573-eleitores-nao-podem-ser-presos-a-partir-desta-terca-feira",
+      "resumo": "",
+      "publicado_em": "2026-10-20T19:23:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "970a52b8962eecaa",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe governo de comprar papel com celulose branqueada",
+      "link": "https://www.camara.leg.br/noticias/1309991-projeto-proibe-governo-de-comprar-papel-com-celulose-branqueada",
+      "resumo": "",
+      "publicado_em": "2026-10-20T18:51:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "43d1942f3ea7c876",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê apoio a parente que acolher criança afastada dos pais",
+      "link": "https://www.camara.leg.br/noticias/1304642-projeto-preve-apoio-a-parente-que-acolher-crianca-afastada-dos-pais",
+      "resumo": "",
+      "publicado_em": "2026-10-20T18:10:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "17a904e7b10cbfa3",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe normas técnicas que descaracterizem produtos com Indicação Geográfica",
+      "link": "https://www.camara.leg.br/noticias/1307923-projeto-proibe-normas-tecnicas-que-descaracterizem-produtos-com-indicacao-geografica",
+      "resumo": "",
+      "publicado_em": "2026-10-20T17:41:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "63c99314e5a89f19",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto fixa em 15 dias o prazo para devedor contestar dívida na Justiça",
+      "link": "https://www.camara.leg.br/noticias/1307881-projeto-fixa-em-15-dias-o-prazo-para-devedor-contestar-divida-na-justica",
+      "resumo": "",
+      "publicado_em": "2026-10-20T17:03:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
+    },
+    {
+      "id": "0822b0b717e1c330",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política nacional de incentivo às Paradas do Orgulho LGBTQIA+",
+      "link": "https://www.camara.leg.br/noticias/1309845-projeto-cria-politica-nacional-de-incentivo-as-paradas-do-orgulho-lgbtqia",
+      "resumo": "",
+      "publicado_em": "2026-10-20T16:47:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T19:50:26-03:00"
     },
     {
       "id": "54620f0f8e723367",
