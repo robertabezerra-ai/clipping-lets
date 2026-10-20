@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-19T17:52:26-03:00",
+  "gerado_em": "2026-10-20T12:33:35-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 19,
       "erro": null
     },
     {
@@ -233,7 +233,7 @@ window.DADOS = {
     {
       "id": "carf",
       "status": "ok",
-      "itens": 7,
+      "itens": 8,
       "erro": null
     },
     {
@@ -250,6 +250,508 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "62c0d043b6fc859c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado analisa restrição à publicidade de serviços sexuais no esporte",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senado-analisa-restricao-a-publicidade-de-servicos-sexuais-no-esporte",
+      "resumo": "",
+      "publicado_em": "2026-10-20T11:52:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "01efba7b827b819b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "TSE orienta eleitores a checar local de votação para segundo turno",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/20/tse-orienta-eleitores-a-checar-local-de-votacao-para-segundo-turno",
+      "resumo": "",
+      "publicado_em": "2026-10-20T11:02:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "fe9676c930250ec9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Transporte de órgãos para doação poderá ficar mais ágil",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/transporte-de-orgaos-para-doacao-podera-ficar-mais-agil",
+      "resumo": "",
+      "publicado_em": "2026-10-20T10:11:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "8c0a8cfe617b6894",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sessão especial vai homenagear cientistas brasileiras",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/sessao-especial-vai-homenagear-cientistas-brasileiras",
+      "resumo": "",
+      "publicado_em": "2026-10-20T09:01:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "6f2ecfd8fe8c4d61",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Caneta autoinjetável de adrenalina pode ter isenção de Imposto de Importação",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/caneta-autoinjetavel-de-adrenalina-pode-ter-isencao-de-imposto-de-importacao",
+      "resumo": "",
+      "publicado_em": "2026-10-20T08:56:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "b980173360667dd3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Menor da história, desmatamento na Amazônia gerou debate no Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/menor-da-historia-desmatamento-na-amazonia-gerou-debate-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-20T08:52:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "e52532a14a76c9e3",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal inaugura nova era de julgamentos em larga escala",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-inaugura-nova-era-de-julgamentos-em-larga-escala",
+      "resumo": "",
+      "publicado_em": "2026-10-20T10:55:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "5cfefd579bef80e6",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Meta diz não saber porque contas de jornalistas caem e nega canal direto para casos urgentes envolvendo imprensa e comunicadores no período eleitoral",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/meta-diz-nao-saber-porque-contas-de-jornalistas-caem-e-nega-canal-direto-para-casos-urgentes-envolvendo-imprensa-e-comunicadores-no-periodo-eleitoral",
+      "resumo": "",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "0653b900bb5c7e5a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Voto no segundo turno também vale como Prova de Vida no INSS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/voto-no-segundo-turno-tambem-vale-como-prova-de-vida-no-inss",
+      "resumo": "",
+      "publicado_em": "2026-10-20T09:45:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "4cbc000851ae6cd9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Chuva de meteoros Orionídeas será visível no Brasil. Pico ocorre nesta quarta",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/chuva-de-meteoros-orionideas-ilumina-o-ceu-nesta-semana",
+      "resumo": "",
+      "publicado_em": "2026-10-20T09:34:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "8688bb31cccc1f75",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF faz operação de combate ao abuso sexual infantojuvenil na internet",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-faz-operacao-de-combate-ao-abuso-sexual-infantojuvenil-na-internet",
+      "resumo": "",
+      "publicado_em": "2026-10-20T09:23:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "a4e8526cfc6e5b48",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rádio MEC transmite ao vivo concerto da Orquestra Filarmônica de Goiás",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/radio-mec-transmite-ao-vivo-concerto-da-orquestra-filarmonica-de-goias",
+      "resumo": "",
+      "publicado_em": "2026-10-20T09:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "1d2777c785eac12b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF deflagra operação contra comércio ilegal de madeira nativa em três estados",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-deflagra-operacao-contra-grupo-investigado-por-comercio-ilegal-de-madeira-nativa",
+      "resumo": "",
+      "publicado_em": "2026-10-20T08:26:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "27e5ae5456037b59",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas ergue \"caixão do PT\" em ato de Flávio Bolsonaro em Manaus",
+      "link": "https://www.congressoemfoco.com.br/noticia/123418/nikolas-ergue-caixao-do-pt-em-ato-de-flavio-bolsonaro-em-manaus",
+      "resumo": "Adereço levado por apoiadores trazia a data do segundo turno das eleições presidenciais como o dia da suposta morte do partido.",
+      "publicado_em": "2026-10-20T12:08:54-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "650b7b8edda72448",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Meta responde ao TSE e nega tratamento desigual entre Lula e Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123415/meta-responde-ao-tse-e-nega-tratamento-desigual-entre-lula-e-flavio",
+      "resumo": "Empresa diz ter implementado revisão humana de bloqueios e reforçado mecanismos de fiscalização de anúncios políticos.",
+      "publicado_em": "2026-10-20T10:31:29-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "f8ddef222468ff52",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio nega perseguir gays em eventual governo: \"poderão dar o caneco\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123414/flavio-nega-perseguir-gays-em-eventual-governo--poderao-dar-o-caneco",
+      "resumo": "Em conversa com Rico Melquiades, candidato afirmou que não pretende retirar direitos da comunidade LGBTQIA+.",
+      "publicado_em": "2026-10-20T09:26:42-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "c9cf69b7b4404868",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Anúncio de missa de 7º dia de Netinho evita número 13 e usa \"12+1\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123413/anuncio-de-missa-de-7-dia-de-netinho-evita-numero-13-e-usa-12-1",
+      "resumo": "A homenagem reproduziu o costume do artista, conhecido por suas críticas ao PT e pelo apoio a Jair Bolsonaro.",
+      "publicado_em": "2026-10-20T09:12:20-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenagem"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "8f237d343a60d457",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Onde estão os 49 milhões de eleitores que não votaram em Lula e Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123412/onde-estao-os-49-milhoes-de-eleitores-que-nao-votaram-em-lula-e-flavio",
+      "resumo": "Sudeste concentra 22,2 milhões de eleitores que não escolheram os finalistas. Levantamento reúne abstenções, votos brancos, nulos e em candidatos eliminados e mostra seu peso na disputa de domingo.",
+      "publicado_em": "2026-10-20T09:10:02-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "553b5e262b120c78",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleitores não podem ser presos a partir desta terça; entenda exceções",
+      "link": "https://www.congressoemfoco.com.br/noticia/123410/eleitores-nao-podem-ser-presos-a-partir-desta-terca-entenda-excecoes",
+      "resumo": "Proibição vale em todo o país, mas não impede detenções em flagrante e outras situações previstas em lei.",
+      "publicado_em": "2026-10-20T08:20:10-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "6fcf3e1033e45fa3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Justiça encerra recuperação judicial da Americanas após três anos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123409/justica-encerra-recuperacao-judicial-da-americanas-apos-tres-anos",
+      "resumo": "Processo iniciado após fraude contábil bilionária chega ao fim, quatro dias depois de 12 ex-executivos da varejista virarem réus na Justiça. Em 2023, CPI da Câmara terminou sem indiciamentos.",
+      "publicado_em": "2026-10-20T08:09:46-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 74,
+      "tags": [
+        "recuperacao judicial",
+        "judicial",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "d8c5e4526ebc3b16",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Campopiano chama Soraya de desempregada, que rebate oferecendo emprego",
+      "link": "https://www.congressoemfoco.com.br/noticia/123408/campopiano-chama-soraya-de-desempregada-que-rebate-oferecendo-emprego",
+      "resumo": "Comentário da deputada eleita foi feito em vídeo no qual a senadora relata ameaça de Bolsonaro de expor a transição de gênero de seu filho.",
+      "publicado_em": "2026-10-20T07:46:10-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "b133ce5ae3838d46",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PGR se manifesta contra pedido de Moraes para investigar Mendonça",
+      "link": "https://www.congressoemfoco.com.br/noticia/123407/pgr-se-manifesta-contra-pedido-de-moraes-para-investigar-mendonca",
+      "resumo": "Em parecer ao STF, Paulo Gonet afirma que relatórios da PF não demonstram abuso de autoridade na condução das investigações do caso Master.",
+      "publicado_em": "2026-10-20T07:37:52-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "c25b05f72730bc1a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Realtime Big Data: Celina tem 59% e Grass 41% dos votos válidos no DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/123406/realtime-big-data-celina-tem-59-e-grass-41-dos-votos-validos-no-df",
+      "resumo": "A cinco dias da votação, pesquisa aponta vantagem da atual governadora e mostra que apenas 7% dos eleitores admitem mudar de voto.",
+      "publicado_em": "2026-10-20T07:28:32-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "fb6ec47c659e593c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio tem 52% dos votos válidos e Lula, 48%, diz Real Time Big Data",
+      "link": "https://www.congressoemfoco.com.br/noticia/123405/flavio-tem-52-dos-votos-validos-e-lula-48--diz-real-time-big-data",
+      "resumo": "A cinco dias do segundo turno, senador abre quatro pontos de vantagem sobre o presidente na disputa pelos votos válidos.",
+      "publicado_em": "2026-10-20T07:13:05-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "44497c991ef16c4a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Proposta para racionalizar judicialização previdenciária será analisada pelo CNJ",
+      "link": "https://www.cnj.jus.br/proposta-para-racionalizar-judicializacao-previdenciaria-sera-analisada-pelo-cnj/",
+      "resumo": "Para uniformizar e racionalizar o tratamento da judicialização previdenciária, o Conselho Nacional de Justiça (CNJ) vai analisar a proposta de criação da Política Judiciária Nacional para o Tratamento Adequado das Demandas Previdenciárias e Assistenciais. A proposta do ato normativo foi apresentada ",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "fac3622307cf13e7",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Nova versão do Sirenejud facilita cruzamento de dados sobre processos ambientais e áreas protegidas",
+      "link": "https://www.cnj.jus.br/nova-versao-do-sirenejud-facilita-cruzamento-de-dados-sobre-processos-ambientais-e-areas-protegidas/",
+      "resumo": "A nova versão do Painel Interativo Nacional de Dados Ambientais do Poder Judiciário (SireneJud) oferece ferramentas que facilitam o cruzamento de dados geográficos e a análise de informações sobre danos ambientais discutidos na Justiça. Apresentada nesta terça-feira (20/10) durante a 2ª Sessão Extra",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "389e990dbcd95fbd",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Política nacional para ampliar transparência e eficiência na gestão de precatórios é apresentada ao plenário do CNJ",
+      "link": "https://www.cnj.jus.br/politica-nacional-para-ampliar-transparencia-e-eficiencia-na-gestao-de-precatorios-e-apresentada-ao-plenario-do-cnj/",
+      "resumo": "A Política Judiciária Nacional de Tratamento Adequado dos Precatórios no âmbito do Poder Judiciário foi apresentada, nesta terça-feira (20), ao Plenário do Conselho Nacional de Justiça (CNJ), durante a 2ª Sessão Extraordinária de 2026. A iniciativa busca promover maior efetividade, transparência, se",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "precatorio"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "d9a5ea43994e0f96",
+      "fonte_id": "carf",
+      "fonte_nome": "CARF",
+      "titulo": "CARF divulga calendário das sessões de julgamento de 2027",
+      "link": "https://www.gov.br/carf/pt-br/assuntos/novas-noticias/carf-divulga-calendario-das-sessoes-de-julgamento-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "7fb43b527b2e62ea",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Brasileiros voltam às urnas no domingo para escolher presidente da República e seis governadores",
+      "link": "https://www.camara.leg.br/noticias/1312295-brasileiros-voltam-as-urnas-no-domingo-para-escolher-presidente-da-republica-e-seis-governadores",
+      "resumo": "",
+      "publicado_em": "2026-10-20T11:54:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "a783bfcdd9663a3e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria crime de corrupção sistêmica no Código Penal",
+      "link": "https://www.camara.leg.br/noticias/1309541-projeto-cria-crime-de-corrupcao-sistemica-no-codigo-penal",
+      "resumo": "",
+      "publicado_em": "2026-10-20T11:40:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "09fb7373cac14b2c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política nacional para eletrificar frota de ônibus e caminhões no Brasil",
+      "link": "https://www.camara.leg.br/noticias/1309832-projeto-cria-politica-nacional-para-eletrificar-frota-de-onibus-e-caminhoes-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-10-20T10:49:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "429aa43f5cde265e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto reserva 1% do Fundo de Segurança para cursos gratuitos de defesa pessoal para mulheres",
+      "link": "https://www.camara.leg.br/noticias/1309907-projeto-reserva-1-do-fundo-de-seguranca-para-cursos-gratuitos-de-defesa-pessoal-para-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-10-20T10:31:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "fa98f9e140392ad7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe cobrar dívida trabalhista de empresa que não participou da ação desde o início",
+      "link": "https://www.camara.leg.br/noticias/1306419-projeto-proibe-cobrar-divida-trabalhista-de-empresa-que-nao-participou-da-acao-desde-o-inicio",
+      "resumo": "",
+      "publicado_em": "2026-10-20T09:20:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
     {
       "id": "6a34ae907879490c",
       "fonte_id": "trt2",
@@ -372,6 +874,39 @@ window.DADOS = {
       "coletado_em": "2026-10-19T17:52:26-03:00"
     },
     {
+      "id": "ba20a7fd2dac8858",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Salão de beleza indenizará cliente que sofreu discriminação racial",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115789&pagina=1",
+      "resumo": "Reparação fixada em R$ 15 mil.\n \n\tA 2ª Vara do Juizado Especial Cível da Capital determinou que um salão de beleza indenize cliente que sofreu",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "indenizar",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "8bfa95e1970ce9c5",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF proíbe contratação temporária para funções da polícia penal em Goiás",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-proibe-contratacao-temporaria-para-funcoes-da-policia-penal-em-goias/",
+      "resumo": "Estado terá dois anos para regularizar quadro de pessoal",
+      "publicado_em": "2026-10-19T19:39:45-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
       "id": "56d3409dcb9ed887",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -392,7 +927,7 @@ window.DADOS = {
       "id": "b229ca6ffd709b68",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "STF dá prazo para que Secretaria de Cultura do RJ adeque quadro de servidores",
+      "titulo": "STF dá prazo para que Secretaria de Cultura do RJ reestruture quadro de servidores",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-da-prazo-para-que-secretaria-de-cultura-do-rj-adeque-quadro-de-servidores/",
       "resumo": "Ministro Edson Fachin considerou que a exoneração imediata de comissionados, determinada pelo TJRJ, poderia comprometer atividades administrativas e projetos culturais desenvolvidos pela pasta",
       "publicado_em": "2026-10-19T16:30:12-03:00",
@@ -708,6 +1243,20 @@ window.DADOS = {
       "coletado_em": "2026-10-19T16:32:58-03:00"
     },
     {
+      "id": "618165c551f4f487",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Encontro Nacional PopRua recebe contribuições individuais até 6 de novembro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/encontro-nacional-poprua-recebe-contribuicoes-individuais-ate-6-de-novembro",
+      "resumo": "",
+      "publicado_em": "2026-10-19T17:47:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
       "id": "8514b7639feabf3e",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -875,6 +1424,48 @@ window.DADOS = {
       "coletado_em": "2026-10-19T17:52:26-03:00"
     },
     {
+      "id": "88542926d4a27ecf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quebra de sigilo, emendas e segurança: veja destaques de Lula no SBT",
+      "link": "https://www.congressoemfoco.com.br/noticia/123404/quebra-de-sigilo-emendas-e-seguranca-veja-destaques-de-lula-no-sbt",
+      "resumo": "Presidente participou de sabatina na reta final da campanha para o segundo turno das eleições presidenciais, marcado para domingo (25).",
+      "publicado_em": "2026-10-19T19:03:35-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "98783571aeb12a0f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Disparo de deputado em bar \"não pode ser passado impune\", diz Fred",
+      "link": "https://www.congressoemfoco.com.br/noticia/123403/disparo-de-deputado-em-bar-nao-pode-ser-passado-impune--diz-fred",
+      "resumo": "Apresentador relata ferimento no pé durante confusão em casa noturna de São Paulo e anuncia entrega de documentos à polícia.",
+      "publicado_em": "2026-10-19T18:41:07-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "cd24d80a7914062a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula diz que autorizará quebra dos sigilos dele e de familiares",
+      "link": "https://www.congressoemfoco.com.br/noticia/123402/lula-diz-que-autorizara-quebra-dos-sigilos-dele-e-de-familiares",
+      "resumo": "Senador Camilo Santana esclareceu que a medida é condicionada ao compromisso de Flávio em fazer o mesmo.",
+      "publicado_em": "2026-10-19T17:53:46-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
       "id": "3fede488aa045cd4",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -949,6 +1540,23 @@ window.DADOS = {
       "coletado_em": "2026-10-19T16:32:58-03:00"
     },
     {
+      "id": "172d03b954e5d7e1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto regulamenta profissão de consultor de imagem no Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/123395/projeto-regulamenta-profissao-de-consultor-de-imagem-no-brasil",
+      "resumo": "Texto exige ensino médio e curso de formação de pelo menos 162 horas para o exercício da atividade.",
+      "publicado_em": "2026-10-19T16:10:29-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
       "id": "19a29a418243f883",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -979,6 +1587,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-19T17:52:26-03:00"
+    },
+    {
+      "id": "f86feb98c5913176",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A eleição saiu das mãos dos marqueteiros; e agora?",
+      "link": "https://www.congressoemfoco.com.br/artigo/123391/a-eleicao-saiu-das-maos-dos-marqueteiros-e-agora",
+      "resumo": "Mobilização espontânea de cidadãos e influenciadores transforma a comunicação eleitoral, amplia a circulação de conteúdos políticos e reduz o controle das campanhas sobre as narrativas.",
+      "publicado_em": "2026-10-19T15:12:55-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
     },
     {
       "id": "5efe624e2b761640",
@@ -1042,6 +1666,22 @@ window.DADOS = {
       "coletado_em": "2026-10-19T16:32:58-03:00"
     },
     {
+      "id": "18a03215891a555c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Míssil na Paulista: Quando o patriotismo pede a destruição do país",
+      "link": "https://www.congressoemfoco.com.br/artigo/123386/missil-na-paulista-quando-o-patriotismo-pede-a-destruicao-do-pais",
+      "resumo": "A inscrição \"Trump nuke Brazil\", exibida em manifestação política, revela como a linguagem pode transformar o território nacional em alvo e colocar em questão os limites do discurso democrático.",
+      "publicado_em": "2026-10-19T14:43:28-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
       "id": "3cbc1742ea6dd0ec",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1057,6 +1697,24 @@ window.DADOS = {
         "advogado"
       ],
       "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "2a45697de881d762",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Recuperação judicial no agro cai 20,7% no segundo trimestre de 2026",
+      "link": "https://www.congressoemfoco.com.br/artigo/123384/recuperacao-judicial-no-agro-cai-20-7-no-segundo-trimestre-de-2026",
+      "resumo": "Setor registrou 448 solicitações no segundo trimestre, segundo a Serasa Experian. Apesar da queda, endividamento e dificuldades de gestão financeira continuam exigindo atenção.",
+      "publicado_em": "2026-10-19T14:24:07-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "recuperacao judicial",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
     },
     {
       "id": "4b59b7303fe297b8",
@@ -1166,6 +1824,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-19T14:20:19-03:00"
+    },
+    {
+      "id": "f44c2ab2efc2a6b0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O novo desenho constitucional da duração do trabalho",
+      "link": "https://www.congressoemfoco.com.br/artigo/123377/o-novo-desenho-constitucional-da-duracao-do-trabalho",
+      "resumo": "Redução da carga horária e garantia de dois dias de descanso semanal trazem mudanças para o cálculo de horas extras, a negociação coletiva e a organização do trabalho.",
+      "publicado_em": "2026-10-19T13:00:35-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
     },
     {
       "id": "b299933679446bf9",
@@ -1498,6 +2172,37 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-10-19T16:32:58-03:00"
+    },
+    {
+      "id": "b2438fd1df6f9083",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Cinema aproxima crianças da cidadania e da sustentabilidade em ação do CNJ",
+      "link": "https://www.cnj.jus.br/cinema-aproxima-criancas-da-cidadania-e-da-sustentabilidade-em-acao-do-cnj/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) levou a estudantes da Escola Classe 3 do Paranoá, no Distrito Federal, uma atividade de educação para a cidadania que reuniu cinema, brincadeiras e conversa sobre justiça e proteção ambiental. Realizada nesta segunda-feira (19/10), a ação envolveu crianças de oit",
+      "publicado_em": "2026-10-19T12:00:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "c7d43c17a6b02b73",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto pune fraude por desconto indevido em folha de pagamento",
+      "link": "https://www.camara.leg.br/noticias/1309538-projeto-pune-fraude-por-desconto-indevido-em-folha-de-pagamento",
+      "resumo": "",
+      "publicado_em": "2026-10-19T18:56:00-03:00",
+      "dia": "2026-10-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-20T12:33:35-03:00"
     },
     {
       "id": "ab171f74637f65aa",
@@ -89630,38 +90335,6 @@ window.DADOS = {
       "tags": [
         "acao",
         "exposicao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "02d0f8b56f4546d4",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "TRT-2 promove painel sobre saúde e ergonomia",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-promove-painel-sobre-saude-e-ergonomia",
-      "resumo": "",
-      "publicado_em": "2026-07-21T12:00:00-03:00",
-      "dia": "2026-07-21",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "6c1128b66bbaffef",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "ANPD divulga resultado final das inscrições do 4º Prêmio Danilo Doneda",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-divulga-resultado-final-das-inscricoes-do-4o-premio-danilo-doneda",
-      "resumo": "Também foi publicado, no Diário Oficial, a composição da comissão julgadora desta edição da premiação. A análise técnica dos artigos vai até 17 de setembro",
-      "publicado_em": "2026-07-21T11:32:45-03:00",
-      "dia": "2026-07-21",
-      "data_estimada": false,
-      "score": 44,
-      "tags": [
-        "julga",
-        "acao",
-        "premio"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
