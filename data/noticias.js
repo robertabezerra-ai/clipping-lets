@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-21T12:50:08-03:00",
+  "gerado_em": "2026-10-21T15:17:50-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 401 Client Error: Unauthorized for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -148,9 +148,9 @@ window.DADOS = {
     },
     {
       "id": "tjsp",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.tjsp.jus.br', port=443): Read timed out. (read timeout=20)"
     },
     {
       "id": "pgfn",
@@ -197,7 +197,7 @@ window.DADOS = {
     {
       "id": "cvm",
       "status": "ok",
-      "itens": 28,
+      "itens": 29,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -265,6 +265,22 @@ window.DADOS = {
       "coletado_em": "2026-10-21T12:50:08-03:00"
     },
     {
+      "id": "c3096c36329a8b61",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "2ª Câmara reconhece boa-fé e reduz multa por depósito de acordo em instituição bancária diversa da prevista",
+      "link": "https://trt15.jus.br/noticia/2026/2a-camara-reconhece-boa-fe-e-reduz-multa-por-deposito-de-acordo-em-instituicao",
+      "resumo": "2ª Câmara reconhece boa-fé e reduz multa por depósito de acordo em instituição bancária diversa da prevista anagatto Qua, 21/10/2026 - 12:39 2ª Câmara reconhece boa-fé e reduz multa por depósito de acordo em instituição bancária diversa da prevista Conteúdo da Notícia A 2ª Câmara do Tribunal Regiona",
+      "publicado_em": "2026-10-21T12:39:36-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
       "id": "548a20b0bc81cf84",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -298,6 +314,22 @@ window.DADOS = {
       "coletado_em": "2026-10-21T12:50:08-03:00"
     },
     {
+      "id": "ecfbf054fc0330cc",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Jurista italiano destaca papel dos tribunais constitucionais na defesa do Estado de Direito",
+      "link": "https://noticias.stf.jus.br/postsnoticias/jurista-italiano-destaca-papel-dos-tribunais-constitucionais-na-defesa-do-estado-de-direito/",
+      "resumo": "Em encontro do projeto “Diálogos com o Supremo”, professor Luca Mezzetti ressaltou a proteção dos direitos fundamentais e a independência judicial como pilares da democracia constitucional",
+      "publicado_em": "2026-10-21T14:18:14-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
       "id": "e3738723a2e58c33",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -326,6 +358,92 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "fdb92ee9f55fab8f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Força Aérea e Santos Dumont são celebrados em sessão especial",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/forca-aerea-e-santos-dumont-sao-celebrados-em-sessao-especial",
+      "resumo": "",
+      "publicado_em": "2026-10-21T15:04:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "31e7fbb474c98a8b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Segundo turno: regra eleitoral restringe prisão de eleitores até 27 de outubro",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/segundo-turno-regra-eleitoral-restringe-prisao-de-eleitores-ate-27-de-outubro",
+      "resumo": "",
+      "publicado_em": "2026-10-21T14:56:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "57f083a4c3bad5ff",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "MEI: Proposta quer beneficiar quem pagou contribuição previdenciária em dia",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/mei-proposta-quer-beneficiar-quem-pagou-contribuicao-previdenciaria-em-dia",
+      "resumo": "",
+      "publicado_em": "2026-10-21T14:49:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "2998670af2cb8012",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "MP abre crédito extraordinário de R$ 6,5 bilhões para financiar exportadores",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/21/mp-abre-credito-extraordinario-de-r-6-5-bilhoes-para-financiar-exportadores",
+      "resumo": "",
+      "publicado_em": "2026-10-21T13:41:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "c7c6d0538312d909",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado é reconhecido com Selo CAU por preservação de patrimônio",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/21/senado-e-reconhecido-com-selo-cau-por-preservacao-de-patrimonio",
+      "resumo": "",
+      "publicado_em": "2026-10-21T13:39:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "bcd55c72691517de",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Urna eletrônica completa 30 anos com avanços na sustentabilidade das eleições",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/21/urna-eletronica-completa-30-anos-com-avancos-na-sustentabilidade-das-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-21T13:26:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
     },
     {
       "id": "a62749133a146bc9",
@@ -450,6 +568,97 @@ window.DADOS = {
       "coletado_em": "2026-10-21T12:50:08-03:00"
     },
     {
+      "id": "df4ec58d68daa044",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Homens representam 52,1% dos participantes do Dia C de capacitação sobre violência de gênero",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/homens-representam-52-1-dos-participantes-do-dia-c-de-capacitacao-sobre-violencia-de-genero",
+      "resumo": "",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "b9f5e1c2e8911289",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Método do MJSP identifica imóveis de luxo ligados a organizações criminosas",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/metodo-do-mjsp-identifica-imoveis-de-luxo-ligados-a-organizacoes-criminosas",
+      "resumo": "",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "795952ed2ec2f193",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Escola Nacional de Segurança Pública lança curso sobre emergências com produtos perigosos",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/escola-nacional-de-seguranca-publica-lanca-curso-sobre-emergencias-com-produtos-perigosos",
+      "resumo": "",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "8e4714f5c976b2e5",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP e CNJ avançam com medida para acelerar leilões de bens apreendidos e aumentar a arrecadação dos cofres públicos",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-cnj-avancam-com-medida-para-acelerar-leiloes-de-bens-apreendidos-e-aumentar-a-arrecadacao-dos-cofres-publicos",
+      "resumo": "",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "3ef901b209d99fbf",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Incra aprova criação de Projeto Agroextrativista Pesqueiro em Ubatuba (SP)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/incra-aprova-criacao-de-projeto-agroextrativista-pesqueiro-em-ubatuba-sp",
+      "resumo": "",
+      "publicado_em": "2026-10-21T14:15:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "23e1c7544ea209a4",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Projeto Mais Médicos Especialistas abre inscrição para novas contratações",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/ministerio-da-saude-abre-inscricoes-para-nova-chamada-do-projeto-mais-medicos-especialistas",
+      "resumo": "",
+      "publicado_em": "2026-10-21T13:26:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
       "id": "facde731cf3f49e3",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -524,6 +733,110 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "c6bd9be321e5c88b",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM participa de Encontro do Grupo de Engajamento sobre Estabilidade Financeira da IOSCO, no Japão",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-de-encontro-do-grupo-de-engajamento-sobre-estabilidade-financeira-da-iosco-no-japao",
+      "resumo": "",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "aa4157e896d3858e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A onda azul que pode arruinar os planos de Trump",
+      "link": "https://www.congressoemfoco.com.br/artigo/123471/a-onda-azul-que-pode-arruinar-os-planos-de-trump",
+      "resumo": "Renovação da Câmara e de parte do Senado colocará em disputa o controle do Congresso americano, com possíveis consequências para a agenda de Donald Trump nos dois últimos anos de mandato.",
+      "publicado_em": "2026-10-21T14:48:52-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "2a7404fc03cbebf3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alckmin cobra fim de sigilo a Flávio Bolsonaro: \"e os R$ 134 milhões?\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123469/alckmin-cobra-fim-de-sigilo-a-flavio-bolsonaro--e-os-r-134-milhoes",
+      "resumo": "\"Quem não quiser ter vida pública, vai para o setor privado\", argumentou vice-presidente.",
+      "publicado_em": "2026-10-21T14:34:42-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "3e84ce6d9675d0d6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Especialistas da ONU alertam para risco eleitoral em ações da Meta",
+      "link": "https://www.congressoemfoco.com.br/noticia/123466/especialistas-da-onu-alertam-para-risco-eleitoral-em-acoes-da-meta",
+      "resumo": "Especialistas cobram explicações sobre bloqueios e redução de alcance de publicações, com risco de prejuízos irreversíveis à disputa.",
+      "publicado_em": "2026-10-21T14:17:19-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "06ef164d197de671",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula ou Flávio? Como estão as pesquisas a quatro dias do 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123463/lula-ou-flavio-como-estao-as-pesquisas-a-quatro-dias-do-2-turno",
+      "resumo": "Levantamento do Congresso em Foco reúne 14 pesquisas divulgadas desde segunda-feira. Flávio tem média de 51,2% dos votos válidos, contra 48,8% de Lula, e aparece numericamente à frente em 13 delas.",
+      "publicado_em": "2026-10-21T12:40:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "171e4242390e42cd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Assédio eleitoral no trabalho pode configurar crime",
+      "link": "https://www.congressoemfoco.com.br/artigo/123462/assedio-eleitoral-no-trabalho-pode-configurar-crime",
+      "resumo": "Ministério Público do Trabalho registrou 663 denúncias nos primeiros 19 dias de outubro. Ameaças de demissão, constrangimentos e exigências relacionadas ao voto podem gerar responsabilização.",
+      "publicado_em": "2026-10-21T12:36:50-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "bdd8e5fe2d72dc9e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB propõe medidas para dar mais transparência ao Judiciário",
+      "link": "https://www.congressoemfoco.com.br/noticia/123461/oab-propoe-medidas-para-dar-mais-transparencia-ao-judiciario",
+      "resumo": "Entidade defende maior publicidade de atos e dados administrativos e articula propostas para uma reforma do sistema de Justiça.",
+      "publicado_em": "2026-10-21T12:19:40-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "oab"
+      ],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
     },
     {
       "id": "be132856889dbc4b",
@@ -779,6 +1092,69 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "58094708d271e440",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Tribunais abrem as portas para ensinar cidadania e democracia às crianças",
+      "link": "https://www.cnj.jus.br/tribunais-abrem-as-portas-para-ensinar-cidadania-e-democracia-as-criancas/",
+      "resumo": "O que é democracia? Qual é a importância da Justiça para a vida das pessoas? Quando e como podemos protestar? O que diz a Constituição do nosso país? Essas e outras questões fizeram parte de uma programação especial que levou centenas de crianças a conhecer de perto o Poder Judiciário",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "9e04bf99c6c4e5e4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Empresários e advogados são maioria entre os deputados eleitos para a nova legislatura",
+      "link": "https://www.camara.leg.br/noticias/1312742-empresarios-e-advogados-sao-maioria-entre-os-deputados-eleitos-para-a-nova-legislatura",
+      "resumo": "",
+      "publicado_em": "2026-10-21T14:51:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "advogado"
+      ],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "6523c876f77b0a50",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Motta comemora sanção de novo limite de MEI e o perdão de dívidas de microempreendedores",
+      "link": "https://www.camara.leg.br/noticias/1312795-motta-comemora-sancao-de-novo-limite-de-mei-e-o-perdao-de-dividas-de-microempreendedores",
+      "resumo": "",
+      "publicado_em": "2026-10-21T14:29:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "sancao",
+        "comemora"
+      ],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "d76c2384a5ca2e63",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate buscas por crianças e adolescentes desaparecidos",
+      "link": "https://www.camara.leg.br/noticias/1312716-comissao-debate-buscas-por-criancas-e-adolescentes-desaparecidos",
+      "resumo": "",
+      "publicado_em": "2026-10-21T13:14:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T15:17:50-03:00"
     },
     {
       "id": "721088caeaae0321",
