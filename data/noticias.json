@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-21T15:17:50-03:00",
+  "gerado_em": "2026-10-21T16:54:58-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 401 Client Error: Unauthorized for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -148,9 +148,9 @@
     },
     {
       "id": "tjsp",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.tjsp.jus.br', port=443): Read timed out. (read timeout=20)"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "pgfn",
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -265,6 +265,22 @@
       "coletado_em": "2026-10-21T12:50:08-03:00"
     },
     {
+      "id": "859902ddfbb1436d",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 recebe quatro artistas na exposição “Memória: Camadas do Tempo”",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-recebe-quatro-artistas-na-exposicao-memoria-camadas-do-tempo",
+      "resumo": "TRT-15 recebe quatro artistas na exposição “Memória: Camadas do Tempo” anasiqueira Qua, 21/10/2026 - 16:46 TRT-15 recebe quatro artistas na exposição “Memória: Camadas do Tempo” Conteúdo da Notícia O Espaço Cultural “Desembargador Eurico Cruz Neto”, do Tribunal Regional do Trabalho da 15ª Região, ab",
+      "publicado_em": "2026-10-21T16:46:08-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
       "id": "c3096c36329a8b61",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -314,19 +330,101 @@
       "coletado_em": "2026-10-21T12:50:08-03:00"
     },
     {
+      "id": "80f368cf6ce72d29",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP abre suas portas para crianças em visita monitorada que aproxima público infantil do Judiciário",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115799&pagina=1",
+      "resumo": "Ação nacional ocorre em tribunais de todo o país.\n \n\tO Tribunal de Justiça de São Paulo recebeu, ontem (20), 18 crianças, de 8 e 9",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "a05180ba800630a9",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Conheça os serviços oferecidos pela Ouvidoria do TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115803&pagina=1",
+      "resumo": "Elogios, reclamações, denúncias e sugestões.\n \n\tA Ouvidoria do Tribunal de Justiça de São Paulo é o canal direto de comunicação entre o TJSP e aqueles",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "e4b27bb67003ff83",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Justiça autoriza processamento de recuperação judicial do Grupo Casas Bahia",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115802&pagina=1",
+      "resumo": "Empresas deverão complementar documentos em 30 dias.\n \n\n\n\tA 2ª Vara de Falências e Recuperações Judiciais da Capital deferiu, nesta quarta-feira (21), o processamento da recuperação",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 80,
+      "tags": [
+        "recuperacao judicial",
+        "falencia",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "7e7916b5f23a2eae",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Palácio da Justiça é palco do 9º Corte Solidário",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115793&pagina=1",
+      "resumo": "Iniciativa para confecção de perucas a pacientes oncológicos.\n \n\tO Tribunal de Justiça de São Paulo realizou, ontem (20), a 9ª edição do Corte Solidário, em",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "4affa46ec5e7181e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Imunidade de ITBI na integralização de capital vale também para empresas do setor imobiliário, decide STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/imunidade-de-itbi-na-integralizacao-de-capital-vale-tambem-para-empresas-do-setor-imobiliario-decide-stf/",
+      "resumo": "Entendimento do Tribunal sobre a controvérsia, com repercussão geral reconhecida, deverá ser aplicado a todos os casos semelhantes no Judiciário",
+      "publicado_em": "2026-10-21T16:36:44-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 76,
+      "tags": [
+        "decide",
+        "repercussao geral",
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
       "id": "ecfbf054fc0330cc",
       "fonte_id": "stf",
       "fonte_nome": "STF",
       "titulo": "Jurista italiano destaca papel dos tribunais constitucionais na defesa do Estado de Direito",
       "link": "https://noticias.stf.jus.br/postsnoticias/jurista-italiano-destaca-papel-dos-tribunais-constitucionais-na-defesa-do-estado-de-direito/",
-      "resumo": "Em encontro do projeto “Diálogos com o Supremo”, professor Luca Mezzetti ressaltou a proteção dos direitos fundamentais e a independência judicial como pilares da democracia constitucional",
+      "resumo": "Professor Luca Mezzetti participou do projeto “Diálogos com o Supremo”. Na abertura, ministro Fachin destacou desafios das cortes constitucionais e importância do compromisso dos Poderes, das instituições e da sociedade com o respeito à Constituição",
       "publicado_em": "2026-10-21T14:18:14-03:00",
       "dia": "2026-10-21",
       "data_estimada": false,
-      "score": 48,
-      "tags": [
-        "judicial"
-      ],
+      "score": 40,
+      "tags": [],
       "coletado_em": "2026-10-21T15:17:50-03:00"
     },
     {
@@ -358,6 +456,52 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "bf442a45ef8ab54b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Santos Dumont é lembrado durante homenagem à Força Aérea Brasileira",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/santos-dumont-e-lembrado-durante-homenagem-a-forca-aerea-brasileira",
+      "resumo": "",
+      "publicado_em": "2026-10-21T16:41:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenagem"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "77bcd22775f4570b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado faz homenagem ao primeiro voo do 14-Bis e ao Dia da Força Aérea Brasileira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/21/senado-faz-homenagem-ao-primeiro-voo-do-14-bis-e-ao-dia-da-forca-aerea-brasileira",
+      "resumo": "",
+      "publicado_em": "2026-10-21T15:52:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenagem"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "9efc1e9cc2f5d26e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Nova lei amplia limite de faturamento do MEI e prevê perdão de dívidas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/21/nova-lei-amplia-limite-de-faturamento-do-mei-e-preve-perdao-de-dividas",
+      "resumo": "",
+      "publicado_em": "2026-10-21T15:50:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
     },
     {
       "id": "fdb92ee9f55fab8f",
@@ -628,6 +772,22 @@
       "coletado_em": "2026-10-21T15:17:50-03:00"
     },
     {
+      "id": "4b4bd6caec2e8928",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Sete dias após o decreto, 378 aparelhos ilegais são bloqueados em presídios",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sete-dias-apos-o-decreto-378-aparelhos-ilegais-sao-bloqueados-em-presidios",
+      "resumo": "",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decreto"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
       "id": "3ef901b209d99fbf",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -749,6 +909,112 @@
       "coletado_em": "2026-10-21T15:17:50-03:00"
     },
     {
+      "id": "9048d8490bd7e7b0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça mantém postagem do PT que chama Flávio de \"traidor da pátria\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123480/mendonca-mantem-postagem-do-pt-que-chama-flavio-de-traidor-da-patria",
+      "resumo": "Ministro manteve publicação do PT após pedido do PL e determinou análise de acusação de que Flávio teria pedido tarifas contra o Brasil.",
+      "publicado_em": "2026-10-21T16:31:28-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "8476120604aa3b93",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O Congresso vai assistir calado à ditadura dos algoritmos?",
+      "link": "https://www.congressoemfoco.com.br/artigo/123479/o-congresso-vai-assistir-calado-a-ditadura-dos-algoritmos",
+      "resumo": "Depois de deixar as eleições de 2026 sem uma regulamentação abrangente da inteligência artificial, o Parlamento tem a oportunidade de reagir: investigar a Meta, exigir transparência e demonstrar que a soberania brasileira não está à venda no balcão das big techs.",
+      "publicado_em": "2026-10-21T16:05:17-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "36ed13960e79d852",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Tribunais não podem substituir o debate político, defende Edson Fachin",
+      "link": "https://www.congressoemfoco.com.br/noticia/123477/tribunais-nao-podem-substituir-o-debate-politico-defende-edson-fachin",
+      "resumo": "Ministro defende prudência na atuação judicial diante das críticas de parlamentares à interferência da Corte no Legislativo.",
+      "publicado_em": "2026-10-21T15:56:45-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "d54723d350d150e5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Contra-ataque: Flávio impõe ao menos 21 condições para quebrar sigilo",
+      "link": "https://www.congressoemfoco.com.br/noticia/123476/contra-ataque-flavio-impoe-ao-menos-21-condicoes-para-quebrar-sigilo",
+      "resumo": "Série de exigências inclui informações de pessoas próximas ao presidente, despesas do cartão corporativo da presidência e outros registros.",
+      "publicado_em": "2026-10-21T15:48:57-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "bf0e682e08540f5a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça mantém vídeo de Lula que chama Flávio de \"mentiroso master\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123474/mendonca-mantem-video-de-lula-que-chama-flavio-de-mentiroso-master",
+      "resumo": "Ministro do TSE entendeu que, embora algumas das expressões sejam ásperas, estão inseridas no campo da crítica política.",
+      "publicado_em": "2026-10-21T15:31:06-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "cfc81452912910ca",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ministro do TSE veta peça de Flávio que liga Lula a crime na saidinha",
+      "link": "https://www.congressoemfoco.com.br/noticia/123473/ministro-do-tse-veta-peca-de-flavio-que-liga-lula-a-crime-na-saidinha",
+      "resumo": "Marco Aurélio Bellizze entendeu que associar fala do presidente ao crime pode levar o eleitor a uma conclusão factual não demonstrada.",
+      "publicado_em": "2026-10-21T15:08:29-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "ca76bb9611c5224e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE vê uso irregular de IA e manda retirar vídeo de Zema sobre Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/123472/tse-ve-uso-irregular-de-ia-e-manda-retirar-video-de-zema-sobre-lula",
+      "resumo": "Vídeo faz referências ao mensalão, ao petrolão e ao caso Banco Master.",
+      "publicado_em": "2026-10-21T15:04:51-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
       "id": "aa4157e896d3858e",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -763,6 +1029,20 @@
         "acao"
       ],
       "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "f7bf5fa01424f77a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleições presidenciais: Veja as disputas mais apertadas desde 1989",
+      "link": "https://www.congressoemfoco.com.br/noticia/123470/eleicoes-presidenciais-veja-as-disputas-mais-apertadas-desde-1989",
+      "resumo": "Às vésperas do segundo turno entre Lula e Flávio, levantamento mostra que apenas três eleições presidenciais desde 1989 tiveram diferença inferior a sete pontos percentuais.",
+      "publicado_em": "2026-10-21T14:46:50-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
     },
     {
       "id": "2a7404fc03cbebf3",
@@ -1108,6 +1388,86 @@
         "acao"
       ],
       "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "9c7c0438ee4a1dc4",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ determina promoção de juiz mais antigo a desembargador do TJRN em 48 horas",
+      "link": "https://www.cnj.jus.br/cnj-determina-promocao-de-juiz-mais-antigo-a-desembargador-do-tjrn-em-48-horas/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) determinou que o Tribunal de Justiça do Rio Grande do Norte (TJRN) promova e dê posse, no prazo de 48 horas, ao juiz Henrique Baltazar Vilar dos Santos no cargo de desembargador. A decisão, tomada por unanimidade durante a 2ª Sessão Extraordinária de 2026,",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "decisao",
+        "prazo",
+        "posse"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "3684a516fbc1f6c5",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto estende regras da Lei Maria da Penha para agressões praticadas por ex-namorados",
+      "link": "https://www.camara.leg.br/noticias/1310401-projeto-estende-regras-da-lei-maria-da-penha-para-agressoes-praticadas-por-ex-namorados",
+      "resumo": "",
+      "publicado_em": "2026-10-21T16:48:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "26f41f8064cde04b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Medida provisória abre crédito extra de R$ 300 milhões para combate a incêndios na Amazônia",
+      "link": "https://www.camara.leg.br/noticias/1312761-medida-provisoria-abre-credito-extra-de-r-300-milhoes-para-combate-a-incendios-na-amazonia",
+      "resumo": "",
+      "publicado_em": "2026-10-21T16:24:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "3abdc077f3b72e90",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Medida provisória destina mais R$ 6,5 bilhões para setores afetados por tarifaço dos EUA",
+      "link": "https://www.camara.leg.br/noticias/1312754-medida-provisoria-destina-mais-r-65-bilhoes-para-setores-afetados-por-tarifaco-dos-eua",
+      "resumo": "",
+      "publicado_em": "2026-10-21T15:59:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "722021db4d62e709",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto regulamenta transporte turístico terrestre em veículos de pequeno porte",
+      "link": "https://www.camara.leg.br/noticias/1310149-projeto-regulamenta-transporte-turistico-terrestre-em-veiculos-de-pequeno-porte",
+      "resumo": "",
+      "publicado_em": "2026-10-21T15:18:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
     },
     {
       "id": "9e04bf99c6c4e5e4",
@@ -5123,6 +5483,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-16T19:20:33-03:00"
+    },
+    {
+      "id": "83dd9aa225a7b9f8",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Projeto de IA para contratações sustentáveis é premiado em Brasília-DF",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/projeto-de-ia-para-contratacoes-sustentaveis-e-premiado-em-brasilia-df",
+      "resumo": "",
+      "publicado_em": "2026-10-16T12:00:00-03:00",
+      "dia": "2026-10-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T16:54:58-03:00"
     },
     {
       "id": "b66db1c370747369",
