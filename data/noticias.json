@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-20T19:50:26-03:00",
+  "gerado_em": "2026-10-21T12:50:08-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 401 Client Error: Unauthorized for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -179,7 +179,7 @@
     {
       "id": "fazenda",
       "status": "ok",
-      "itens": 28,
+      "itens": 29,
       "erro": null
     },
     {
@@ -197,7 +197,7 @@
     {
       "id": "cvm",
       "status": "ok",
-      "itens": 29,
+      "itens": 28,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -250,6 +250,624 @@
     }
   ],
   "noticias": [
+    {
+      "id": "225996117363b6bf",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Pontos de Inclusão Digital facilitam acesso à Justiça do Trabalho em três municípios",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pontos-de-inclusao-digital-facilitam-acesso-a-justica-do-trabalho-em-tres-municipios",
+      "resumo": "",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "548a20b0bc81cf84",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Trabalho habitual em folgas descaracteriza escala 3x3, decide 9ª Câmara",
+      "link": "https://trt15.jus.br/noticia/2026/trabalho-habitual-em-folgas-descaracteriza-escala-3x3-decide-9a-camara",
+      "resumo": "Trabalho habitual em folgas descaracteriza escala 3x3, decide 9ª Câmara anagatto Qua, 21/10/2026 - 12:00 Trabalho habitual em folgas descaracteriza escala 3x3, decide 9ª Câmara Conteúdo da Notícia A 9ª Câmara do Tribunal Regional do Trabalho da 15ª Região declarou inválida a escala de trabalho 3x3 a",
+      "publicado_em": "2026-10-21T12:00:31-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decide"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "06febf10e4d1ee58",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Força-tarefa da CGJ alia apoio e capacitação a varas da Fazenda Pública",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115798&pagina=1",
+      "resumo": "Aprimoramento de rotinas e agilidade aos processos. \n \n\tUma única ação coletiva na Justiça pode dar origem a milhares de incidentes de cumprimento de sentença e",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "e3738723a2e58c33",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quarta-feira (21)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-21/",
+      "resumo": "Sessão começa às 14h e será transmitida ao vivo pela Rádio e TV Justiça e pelo canal do STF no YouTube",
+      "publicado_em": "2026-10-21T09:49:30-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "97820e9468eabeba",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF lança nova edição da revista Suprema com foco no direito ao cuidado",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-lanca-nova-edicao-da-revista-suprema-com-foco-no-direito-ao-cuidado/",
+      "resumo": "Debates abordaram diferentes caminhos para reconhecer e concretizar esse direito",
+      "publicado_em": "2026-10-21T09:35:19-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "a62749133a146bc9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "MP destina R$ 300 milhões para ações de proteção e defesa civil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/21/mp-destina-r-300-milhoes-para-acoes-de-protecao-e-defesa-civil",
+      "resumo": "",
+      "publicado_em": "2026-10-21T10:43:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "a1c4f84bb1842d79",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto facilita contratação de pessoas com câncer em licitações",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-facilita-contratacao-de-pessoas-com-cancer-em-licitacoes",
+      "resumo": "",
+      "publicado_em": "2026-10-21T10:10:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "37ea8ae589422a19",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "MPs dos combustíveis e da proteção ao 'tarifaço' dos EUA são prorrogadas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/mps-dos-combustiveis-e-da-protecao-ao-tarifaco-dos-eua-sao-prorrogadas",
+      "resumo": "",
+      "publicado_em": "2026-10-21T09:29:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "prorrogad"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "8bf336a6bd4fb56a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado comemora os 120 anos do primeiro voo do 14-Bis",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/senado-comemora-os-120-anos-do-primeiro-voo-do-14-bis",
+      "resumo": "",
+      "publicado_em": "2026-10-21T09:26:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "comemora"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "9bde9edb72a64dff",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sete municípios vão escolher prefeito e vice-prefeito no domingo",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/sete-municipios-vao-escolher-prefeito-e-vice-prefeito-no-domingo",
+      "resumo": "",
+      "publicado_em": "2026-10-21T09:21:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "f54e79b03f803b62",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sessão especial destaca contribuição da Unicamp à indústria e às políticas públicas",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/sessao-especial-destaca-contribuicao-da-unicamp-a-industria-e-as-politicas-publicas",
+      "resumo": "",
+      "publicado_em": "2026-10-21T09:02:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "22754395b36d7927",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto regulamenta a profissão de pesquisador científico no Brasil",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-regulamenta-a-profissao-de-pesquisador-cientifico-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-10-21T08:36:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "ada9ad3504616487",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal comenta nesta quinta-feira (22) a arrecadação do mês de setembro",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-comenta-nesta-quinta-feira-22-a-arrecadacao-do-mes-de-setembro",
+      "resumo": "",
+      "publicado_em": "2026-10-21T08:43:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "facde731cf3f49e3",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Dia Nacional da Alimentação Escolar: conheça normas que orientam refeições das escolas públicas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/dia-nacional-da-alimentacao-escolar-conheca-as-diretrizes-do-pnae",
+      "resumo": "",
+      "publicado_em": "2026-10-21T10:52:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "46430f7c5cb7dc76",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mulheres representam mais de 60% das inscrições do Enem",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/painel-enem-2026-detalha-inscricoes-no-exame-1",
+      "resumo": "",
+      "publicado_em": "2026-10-21T09:20:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "b0779cd7b1214727",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF combate comércio ilegal de medicamentos e bloqueia R$ 35 milhões",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-deflagra-operacao-contra-o-comercio-ilegal-de-medicamentos",
+      "resumo": "",
+      "publicado_em": "2026-10-21T08:26:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "e7ef5e1a4576ff4a",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal comenta nesta quinta-feira (22/10) a arrecadação do mês de setembro",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-comenta-nesta-quinta-feira-22-10-a-arrecadacao-do-mes-de-setembro",
+      "resumo": "",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "14f933f350c019cf",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM aplica pena de proibição temporária em caso envolvendo atuação sem autorização da Autarquia",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-aplica-pena-de-proibicao-temporaria-em-caso-envolvendo-atuacao-sem-autorizacao-da-autarquia",
+      "resumo": "",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "be132856889dbc4b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula envia ao Congresso PEC da tarifa zero em fins de semana",
+      "link": "https://www.congressoemfoco.com.br/noticia/123460/lula-envia-ao-congresso-pec-da-tarifa-zero-em-fins-de-semana",
+      "resumo": "Proposta prevê que pelo menos 25% das emendas parlamentares obrigatórias sejam destinadas ao custeio da isenção.",
+      "publicado_em": "2026-10-21T12:17:51-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "b87f20bd91ef9a27",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Canal Exército do Lula supera 7,1 milhões de seguidores no WhatsApp",
+      "link": "https://www.congressoemfoco.com.br/noticia/123458/canal-exercito-do-lula-supera-7-1-milhoes-de-seguidores-no-whatsapp",
+      "resumo": "Canal criado pelo deputado André Janones amplia mobilização digital a quatro dias da eleição presidencial.",
+      "publicado_em": "2026-10-21T11:28:46-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "460e8c2bab816097",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "ANR aciona Justiça contra modelo de \"compra intermediada\" da Keeta",
+      "link": "https://www.congressoemfoco.com.br/noticia/123457/anr-aciona-justica-contra-modelo-de-compra-intermediada-da-keeta",
+      "resumo": "Associação pede suspensão do formato para estabelecimentos não parceiros e multa de R$ 10 mil por dia em caso de descumprimento.",
+      "publicado_em": "2026-10-21T11:17:51-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "6b698f11839ca778",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula sanciona perdão de dívidas e novo teto de R$ 140 mil para MEIs",
+      "link": "https://www.congressoemfoco.com.br/noticia/123456/lula-sanciona-perdao-de-dividas-e-novo-teto-de-r-140-mil-para-meis",
+      "resumo": "Presidente também assinou PEC que prevê uso de emendas parlamentares para tarifa zero em fins de semana.",
+      "publicado_em": "2026-10-21T11:08:01-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "d84bd4da5728d4a4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quaest: Indecisos chegam a 14% e rejeição a Lula cai seis pontos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123455/quaest-indecisos-chegam-a-14-e-rejeicao-a-lula-cai-seis-pontos",
+      "resumo": "Indecisos dobram na pesquisa espontânea, em que Lula e Flávio têm 40% cada. Rejeição ao petista recua para 47%, enquanto a do senador cai de 54% para 52%.",
+      "publicado_em": "2026-10-21T11:00:47-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "d87531f147d98293",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas repete estratégia de Trump ao usar música de artista pró-Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/123454/nikolas-repete-estrategia-de-trump-ao-usar-musica-de-artista-pro-lula",
+      "resumo": "Deputado teve áudio de vídeo sobre o Nordeste removido após reivindicação de direitos autorais e transformou episódio em embate político. Trump enfrentou conflitos semelhantes com Beyoncé e outros artistas.",
+      "publicado_em": "2026-10-21T10:21:08-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "ef845af9dcd30ba4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula e Flávio estão praticamente empatados, segundo a Quaest",
+      "link": "https://www.congressoemfoco.com.br/noticia/123453/lula-e-flavio-estao-praticamente-empatados-segundo-a-quaest",
+      "resumo": "Flávio tem 45% das intenções de voto, contra 44% de Lula, a quatro dias do segundo turno. Rejeição ao petista caiu de 53% para 47%, enquanto a do senador recuou de 54% para 52%.",
+      "publicado_em": "2026-10-21T10:19:04-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "be8c891dc6ed5bb9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Petição por checagem no debate da Globo supera 790 mil assinaturas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123452/peticao-por-checagem-no-debate-da-globo-supera-790-mil-assinaturas",
+      "resumo": "Abaixo-assinado ganhou mais de 374 mil adesões em menos de 24 horas e cobra verificação das falas de Lula e Flávio Bolsonaro.",
+      "publicado_em": "2026-10-21T09:50:21-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "f8472358666fd36d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MP pede R$ 100 mil de Campopiano por transfobia contra Erika Hilton",
+      "link": "https://www.congressoemfoco.com.br/noticia/123451/mp-pede-r-100-mil-de-campopiano-por-transfobia-contra-erika-hilton",
+      "resumo": "Ação contra deputada estadual eleita também solicita retratação pública e curso sobre combate à discriminação.",
+      "publicado_em": "2026-10-21T09:12:32-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "5507872f9bd749b5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro tem 50% e Lula, 48%, indica pesquisa Palver",
+      "link": "https://www.congressoemfoco.com.br/noticia/123450/flavio-bolsonaro-tem-50-e-lula-48--indica-pesquisa-palver",
+      "resumo": "Pesquisa aponta empate técnico a quatro dias do segundo turno. Senador mantém percentual da rodada anterior, enquanto presidente oscila um ponto para baixo.",
+      "publicado_em": "2026-10-21T08:32:23-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "0576e8a983ab7936",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Estilo conciliador explica postura de Lula anti confronto em debates",
+      "link": "https://www.congressoemfoco.com.br/noticia/123449/estilo-conciliador-explica-postura-de-lula-contra-confronto-em-debates",
+      "resumo": "Com trajetória política marcada pela negociação, presidente costuma evitar ataques pessoais mais incisivos. Momentos de ironia, porém, ganham destaque nas redes sociais.",
+      "publicado_em": "2026-10-21T08:23:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "1d2e4bdfc8d77f57",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula condiciona ida ao debate na Globo à abertura de sigilos de Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123448/lula-condiciona-ida-ao-debate-na-globo-a-abertura-de-sigilos-de-flavio",
+      "resumo": "Cobrança ocorre após petista propor ao TSE a abertura de seus próprios sigilos, desde que o adversário adote a mesma medida.",
+      "publicado_em": "2026-10-21T08:07:26-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "b881b55fdd8abd19",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula envia PEC da tarifa zero e sanciona pacote para MEIs nesta quarta",
+      "link": "https://www.congressoemfoco.com.br/noticia/123447/lula-envia-pec-da-tarifa-zero-e-sanciona-pacote-para-meis-nesta-quarta",
+      "resumo": "A quatro dias do segundo turno, presidente prevê destinar R$ 11,2 bilhões de emendas parlamentares ao transporte gratuito e sancionar projeto que amplia o faturamento permitido e perdoa dívidas de microempreendedores.",
+      "publicado_em": "2026-10-21T07:47:40-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "1e7b610f70d12886",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Hugo Motta defende diálogo entre Poderes para fortalecer democracia",
+      "link": "https://www.congressoemfoco.com.br/noticia/123445/hugo-motta-defende-dialogo-entre-poderes-para-fortalecer-democracia",
+      "resumo": "Presidente da Câmara ressaltou a necessidade de respeitar as competências de cada Poder, mesmo diante de debates difíceis.",
+      "publicado_em": "2026-10-21T07:38:35-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "a2357934f4fb5f7e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Meio/Ideia: Flávio tem 51,1% e Lula, 48,9% a quatro dias da eleição",
+      "link": "https://www.congressoemfoco.com.br/noticia/123444/meio-ideia-flavio-tem-51-1-e-lula-48-9-a-quatro-dias-da-eleicao",
+      "resumo": "Pesquisa mostra empate técnico a quatro dias do segundo turno. Eleitores com voto decidido chegam a 83,7%, enquanto rejeição aos dois candidatos se aproxima de 50%.",
+      "publicado_em": "2026-10-21T07:18:22-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "1ea306773b05e877",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ vai quantificar e mapear os processos de crimes contra defensores de direitos humanos",
+      "link": "https://www.cnj.jus.br/cnj-passara-a-quantificar-e-mapear-os-processos-de-crimes-contra-defensores-de-direitos-humanos/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) vai passar a quantificar os processos relacionados a crimes e atos infracionais praticados contra pessoas defensoras de direitos humanos. O órgão criou dois códigos nas Tabelas Processuais Unificadas (TPUs), que são utilizadas pelos tribunais brasileiros para pad",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "498d4fade650d4fe",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Consulta sobre enunciados para mediação e conciliação está aberta até 25/10",
+      "link": "https://www.cnj.jus.br/consulta-sobre-enunciados-para-mediacao-e-conciliacao-esta-aberta-ate-25-10/",
+      "resumo": "Especialistas e profissionais que lidam com conciliação e mediação no Judiciário poderão se manifestar, até 25 de outubro, sobre as propostas de enunciado que serão discutidas durante o XX Fórum Nacional de Mediação e Conciliação (Fonamec), em novembro deste ano. A consulta pública é coordenada pelo",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "721088caeaae0321",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política nacional de apoio a crianças e adolescentes neurodivergentes",
+      "link": "https://www.camara.leg.br/noticias/1310576-projeto-cria-politica-nacional-de-apoio-a-criancas-e-adolescentes-neurodivergentes",
+      "resumo": "",
+      "publicado_em": "2026-10-21T12:41:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "8e1629bfbbfe0b9a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe perdão e benefícios penais para condenados por crimes contra crianças",
+      "link": "https://www.camara.leg.br/noticias/1308092-projeto-proibe-perdao-e-beneficios-penais-para-condenados-por-crimes-contra-criancas",
+      "resumo": "",
+      "publicado_em": "2026-10-21T12:08:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "condenado"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "b81a740694e2a624",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto exige local de acolhimento para familiares em hospitais",
+      "link": "https://www.camara.leg.br/noticias/1310152-projeto-exige-local-de-acolhimento-para-familiares-em-hospitais",
+      "resumo": "",
+      "publicado_em": "2026-10-21T11:20:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "3ea28781f1fd213c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto dobra limite de isenção de Imposto de Renda na venda de bens de pequeno valor",
+      "link": "https://www.camara.leg.br/noticias/1309937-projeto-dobra-limite-de-isencao-de-imposto-de-renda-na-venda-de-bens-de-pequeno-valor",
+      "resumo": "",
+      "publicado_em": "2026-10-21T10:10:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "39a7ec40e3b9162c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política nacional para reduzir perdas e desperdício de alimentos",
+      "link": "https://www.camara.leg.br/noticias/1310206-projeto-cria-politica-nacional-para-reduzir-perdas-e-desperdicio-de-alimentos",
+      "resumo": "",
+      "publicado_em": "2026-10-21T09:25:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "5760062c50c64ab0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto fixa percentual mínimo de polpa para produtos comercializados como açaí",
+      "link": "https://www.camara.leg.br/noticias/1310017-projeto-fixa-percentual-minimo-de-polpa-para-produtos-comercializados-como-acai",
+      "resumo": "",
+      "publicado_em": "2026-10-21T08:19:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
     {
       "id": "4c398963d074a6b7",
       "fonte_id": "trt2",
@@ -359,6 +977,22 @@
       "coletado_em": "2026-10-20T19:50:26-03:00"
     },
     {
+      "id": "4bfe8c36605b53f5",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF mantém suspensa licença de instalação do Projeto Volta Grande de Mineração no Pará",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-suspensa-licenca-de-instalacao-do-projeto-volta-grande-de-mineracao-no-para/",
+      "resumo": "Ministro Edson Fachin verificou que implementação do projeto foi autorizada antes de serem respondidas todas as dúvidas sobre impactos ambientais e sobre povos indígenas",
+      "publicado_em": "2026-10-20T21:19:47-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
       "id": "f1a4c8489124a1ac",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -397,7 +1031,7 @@
       "id": "b9bbd9add050375b",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "STF vai analisar revisão judicial dos valores pagos pelo SUS a hospitais privados",
+      "titulo": "Supremo vai analisar revisão judicial dos valores pagos pelo SUS a hospitais privados",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-vai-analisar-revisao-judicial-dos-valores-pagos-pelo-sus-a-hospitais-privados/",
       "resumo": "Plenário seguiu manifestação do relator, ministro Gilmar Mendes, e reconheceu a repercussão geral da controvérsia, que pode afetar o orçamento da saúde pública",
       "publicado_em": "2026-10-20T15:20:30-03:00",
@@ -815,6 +1449,22 @@
       "coletado_em": "2026-10-20T16:49:01-03:00"
     },
     {
+      "id": "c8ccb33c9021160b",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Metodologia inédita mira expropriação de R$ 190 milhões em patrimônio ligado ao PCC e ao Comando Vermelho",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/metodologia-inedita-mira-expropriacao-de-r-190-milhoes-em-patrimonio-ligado-ao-pcc-e-ao-comando-vermelho",
+      "resumo": "",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
       "id": "397ce34947ee3ac3",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1029,6 +1679,20 @@
       "coletado_em": "2026-10-20T16:49:01-03:00"
     },
     {
+      "id": "7f4cfb127b54791e",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Ministério da Fazenda abre consulta pública sobre a 2ª edição da Taxonomia Sustentável Brasileira",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/ministerio-da-fazenda-abre-consulta-publica-sobre-a-2a-edicao-da-taxonomia-sustentavel-brasileira",
+      "resumo": "",
+      "publicado_em": "2026-10-20T12:00:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
       "id": "dd89d75af0e09c15",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -1043,6 +1707,50 @@
         "acao"
       ],
       "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "d7e6934b5d7af0c7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"ViraPix\": Flávio Bolsonaro promete programa de cashback em contas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123443/virapix--flavio-bolsonaro-promete-programa-de-cashback-em-contas",
+      "resumo": "A campanha apresenta o benefício como um sistema de recompensas financeiras para pagamentos cotidianos.",
+      "publicado_em": "2026-10-20T20:36:30-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "224413bd9a0ecdff",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro recebe apoio de artistas sertanejos para campanha",
+      "link": "https://www.congressoemfoco.com.br/noticia/123442/flavio-bolsonaro-recebe-apoio-de-artistas-sertanejos-para-campanha",
+      "resumo": "Na presença de mais de 30 artistas em Goiás, senador reforçou críticas ao governo Lula e pediu confiança em sua candidatura presidencial.",
+      "publicado_em": "2026-10-20T20:18:43-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "eb4e56fcb2707ac0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE não participa em mudanças de locais de votação, diz Nunes Marques",
+      "link": "https://www.congressoemfoco.com.br/noticia/123441/tse-nao-participa-em-mudancas-de-locais-de-votacao-diz-nunes-marques",
+      "resumo": "Após questionamentos sobre transferências de eleitores, presidente do TSE detalha responsabilidade dos tribunais regionais.",
+      "publicado_em": "2026-10-20T19:56:35-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
     },
     {
       "id": "c425e480bfcf635a",
@@ -1670,7 +2378,7 @@
       "id": "5b9a5e82bf6927c9",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Prêmio Viviane do Amaral: Vencedores participam de solenidade na sexta (23/10)",
+      "titulo": "Prêmio Viviane do Amaral: vencedores participam de solenidade na sexta (23/10)",
       "link": "https://www.cnj.jus.br/premio-viviane-do-amaral-vencedores-participam-de-solenidade-na-sexta-23-10/",
       "resumo": "O Conselho Nacional de Justiça (CNJ) realiza, nesta sexta-feira (23/10), a solenidade de entrega do VI Prêmio CNJ Juíza Viviane Vieira do Amaral. Os vencedores serão homenageados no Plenário do CNJ, em Brasília (DF), a partir das 16h. Em sua 6ª edição, a premiação abrange seis categorias: Tribunais;",
       "publicado_em": "2026-10-20T12:00:00-03:00",
@@ -1717,6 +2425,20 @@
         "julga"
       ],
       "coletado_em": "2026-10-20T12:33:35-03:00"
+    },
+    {
+      "id": "496f1a9412f46493",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Hugo Motta defende diálogo e respeito entre os Poderes para fortalecer instituições",
+      "link": "https://www.camara.leg.br/noticias/1312584-hugo-motta-defende-dialogo-e-respeito-entre-os-poderes-para-fortalecer-instituicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-20T20:33:00-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T12:50:08-03:00"
     },
     {
       "id": "bf942f39108069e7",
@@ -91526,95 +92248,6 @@
       "score": 54,
       "tags": [
         "protecao de dados"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "7fb77df224ded958",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Justiça confirma justa causa de trabalhador por importunação sexual",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-confirma-justa-causa-de-trabalhador-por-importunacao-sexual",
-      "resumo": "",
-      "publicado_em": "2026-07-22T12:00:00-03:00",
-      "dia": "2026-07-22",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "2de55424d6f704af",
-      "fonte_id": "receita_federal",
-      "fonte_nome": "Receita Federal",
-      "titulo": "Emissão do CNPJ e de documentos fiscais por pessoas físicas contribuintes da CBS começará em 1º de janeiro de 2027",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/emissao-do-cnpj-e-de-documentos-fiscais-por-pessoas-fisicas-contribuintes-da-cbs-comecara-em-1o-de-janeiro-de-2027",
-      "resumo": "Decreto prorroga para 2027 a obrigatoriedade de inscrição no CNPJ e de emissão de documentos fiscais por pessoas físicas contribuintes da CBS, ampliando o prazo de adaptação à Reforma Tributária.",
-      "publicado_em": "2026-07-22T14:02:38-03:00",
-      "dia": "2026-07-22",
-      "data_estimada": false,
-      "score": 100,
-      "tags": [
-        "decreto",
-        "prazo",
-        "obrigatoriedade",
-        "reforma tributaria",
-        "cbs",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "08398f1e2c89c97b",
-      "fonte_id": "receita_federal",
-      "fonte_nome": "Receita Federal",
-      "titulo": "Receita Federal disponibilizará a versão web da DITR 2026",
-      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/receita-federal-disponibilizara-a-versao-web-da-ditr-2026",
-      "resumo": "Serviço permite preencher, transmitir, retificar e consultar a Declaração do Imposto sobre a Propriedade Territorial Rural de forma on-line.",
-      "publicado_em": "2026-07-22T13:51:56-03:00",
-      "dia": "2026-07-22",
-      "data_estimada": false,
-      "score": 66,
-      "tags": [
-        "imposto",
-        "itr",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "85dc1016c4502bd3",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Cade confirma a realização de leilão para o desinvestimento da marca Nutrella em 24 de julho",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-confirma-a-realizacao-de-leilao-para-o-desinvestimento-da-marca-nutrella-em-24-de-julho",
-      "resumo": "",
-      "publicado_em": "2026-07-22T12:00:00-03:00",
-      "dia": "2026-07-22",
-      "data_estimada": true,
-      "score": 56,
-      "tags": [
-        "cade",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "b4003b8d09aa3583",
-      "fonte_id": "bacen",
-      "fonte_nome": "Bacen",
-      "titulo": "Painel Descobrimento é cedido para exposição no Museu Nacional da China",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21203/nota",
-      "resumo": "A obra integra o conjunto de 12 painéis da coleção Cenas Brasileiras, em que Portinari aborda a formação da identidade brasileira.",
-      "publicado_em": "2026-07-22T17:33:35-03:00",
-      "dia": "2026-07-22",
-      "data_estimada": false,
-      "score": 30,
-      "tags": [
-        "acao",
-        "exposicao"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
