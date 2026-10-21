@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-21T16:54:58-03:00",
+  "gerado_em": "2026-10-21T19:54:27-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -263,6 +263,50 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "db979de1b301b43c",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 recebe lançamento de livro do ministro do TST Mauricio Godinho Delgado",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-recebe-lancamento-de-livro-do-ministro-do-tst-mauricio-godinho-delgado",
+      "resumo": "",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "9012811885eb15a4",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 apresenta projetos de modernização da gestão judiciária à Corregedoria-Geral da Justiça do Trabalho",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-apresenta-projetos-de-modernizacao-da-gestao-judiciaria-corregedoria-geral-da",
+      "resumo": "TRT-15 apresenta projetos de modernização da gestão judiciária à Corregedoria-Geral da Justiça do Trabalho anasiqueira Qua, 21/10/2026 - 17:43 TRT-15 apresenta projetos de modernização da gestão judiciária à Corregedoria-Geral da Justiça do Trabalho Conteúdo da Notícia O Tribunal Regional do Trabalh",
+      "publicado_em": "2026-10-21T17:43:37-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "1f248f5755995571",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "CNJ abre consulta pública sobre as Metas Nacionais do Poder Judiciário para 2027",
+      "link": "https://trt15.jus.br/noticia/2026/cnj-abre-consulta-publica-sobre-metas-nacionais-do-poder-judiciario-para-2027",
+      "resumo": "CNJ abre consulta pública sobre as Metas Nacionais do Poder Judiciário para 2027 anasiqueira Qua, 21/10/2026 - 17:37 CNJ abre consulta pública sobre as Metas Nacionais do Poder Judiciário para 2027 Conteúdo da Notícia O Conselho Nacional de Justiça (CNJ) abriu consulta pública para receber contribui",
+      "publicado_em": "2026-10-21T17:37:38-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
     },
     {
       "id": "859902ddfbb1436d",
@@ -396,6 +440,40 @@ window.DADOS = {
       "coletado_em": "2026-10-21T16:54:58-03:00"
     },
     {
+      "id": "54c3f760593b8442",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF mantém regras de organização da polícia penal de São Paulo",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-regras-de-organizacao-da-policia-penal-de-sao-paulo/",
+      "resumo": "Plenário rejeitou questionamentos à legislação estadual, com divergência parcial do ministro Luiz Fux",
+      "publicado_em": "2026-10-21T19:33:23-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "90593d778868ff65",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF decide que ISS não integra base de cálculo do PIS e da Cofins",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-decide-que-iss-nao-integra-base-de-calculo-do-pis-e-da-cofins/",
+      "resumo": "Maioria entendeu que o imposto não constitui receita ou faturamento da empresa prestadora de serviços; matéria tem repercussão geral",
+      "publicado_em": "2026-10-21T18:27:24-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "decide",
+        "repercussao geral",
+        "imposto"
+      ],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
       "id": "4affa46ec5e7181e",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -456,6 +534,66 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "a2846878417e0881",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Arquivistas do Senado ajudam a guardar e contar a história do Brasil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/21/arquivistas-do-senado-ajudam-a-guardar-e-contar-a-historia-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-10-21T18:36:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "936b5759e91994fe",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto cria Frente Parlamentar de Enfrentamento ao Câncer Infantojuvenil",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-cria-frente-parlamentar-de-enfrentamento-ao-cancer-infantojuvenil",
+      "resumo": "",
+      "publicado_em": "2026-10-21T18:18:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "frente parlamentar"
+      ],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "4e1963d736fe929f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Doenças raras: projeto determina divulgação das fases de registro de medicamento",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/doencas-raras-projeto-determina-divulgacao-das-fases-de-registro-de-medicamento",
+      "resumo": "",
+      "publicado_em": "2026-10-21T17:48:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "b9f15458011693af",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto reduz dívida do Fies para médicos em áreas carentes",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-reduz-divida-do-fies-para-medicos-em-areas-carentes",
+      "resumo": "",
+      "publicado_em": "2026-10-21T16:53:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
     },
     {
       "id": "bf442a45ef8ab54b",
@@ -759,7 +897,7 @@ window.DADOS = {
       "id": "8e4714f5c976b2e5",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
-      "titulo": "MJSP e CNJ avançam com medida para acelerar leilões de bens apreendidos e aumentar a arrecadação dos cofres públicos",
+      "titulo": "MJSP e CNJ avançam com medida para acelerar leilões de bens apreendidos com estimativa de arrecadação de R$ 1 bilhão para os cofres públicos",
       "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-e-cnj-avancam-com-medida-para-acelerar-leiloes-de-bens-apreendidos-e-aumentar-a-arrecadacao-dos-cofres-publicos",
       "resumo": "",
       "publicado_em": "2026-10-21T12:00:00-03:00",
@@ -786,6 +924,48 @@ window.DADOS = {
         "decreto"
       ],
       "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "bc9cdf008b082052",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF inicia atividades de centro nacional de proteção a crianças e adolescentes no mundo virtual",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-inicia-atividades-do-centro-nacional-de-protecao-a-crianca-e-ao-adolescente",
+      "resumo": "",
+      "publicado_em": "2026-10-21T18:44:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "0995509b5a08f791",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério orienta prefeituras sobre uso de novos equipamentos para unidades de Saúde",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/ministerio-da-saude-orienta-gestores-municipais-sobre-novos-equipamentos-doados-para-as-unidades-basicas-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-10-21T15:50:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "faa1c979cc76c740",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Policia Federal atua no combate a crimes eleitorais no segundo turno",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-atua-no-combate-a-crimes-eleitorais-durante-o-segundo-turno-das-eleicoes-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-21T15:30:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
     },
     {
       "id": "3ef901b209d99fbf",
@@ -907,6 +1087,112 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "5779519f48ed8a37",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Colegiado da CVM rejeita propostas de Termo de Compromisso com assessores de investimento",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-rejeita-propostas-de-termo-de-compromisso-com-assessores-de-investimento",
+      "resumo": "",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "2ec08ac674f2271c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula irá ao último debate antes do 2º turno, confirma campanha",
+      "link": "https://www.congressoemfoco.com.br/noticia/123490/lula-ira-ao-ultimo-debate-antes-do-2-turno-confirma-campanha",
+      "resumo": "Encontro está marcado para para sexta-feira (23), a partir das 21h20.",
+      "publicado_em": "2026-10-21T18:48:29-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "15926bafc6a5b54f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Campanha diz que Lula aceita exigências de Flávio para quebrar sigilo",
+      "link": "https://www.congressoemfoco.com.br/noticia/123489/campanha-diz-que-lula-aceita-exigencias-de-flavio-para-quebrar-sigilo",
+      "resumo": "Camilo Santana informou ainda que pretende comparecer ao TSE às 11h desta quinta-feira (22) para formalizar a resposta.",
+      "publicado_em": "2026-10-21T18:34:15-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "2f345fecf75f4401",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PSB e PDT declaram apoio à recondução de Hugo Motta na Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/123488/psb-e-pdt-declaram-apoio-a-reconducao-de-hugo-motta-na-camara",
+      "resumo": "Com 21 deputados eleitos para 2027, PSB e PDT destacam avanços de Motta na agenda trabalhista e no diálogo institucional.",
+      "publicado_em": "2026-10-21T18:18:19-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "a01e4be44318e22c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes diz que integração na PEC da Segurança é \"importantíssima\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123487/moraes-diz-que-integracao-na-pec-da-seguranca-e-importantissima",
+      "resumo": "Ministro do STF elogiou o texto e destacou a criação de competência administrativa comum.",
+      "publicado_em": "2026-10-21T17:56:27-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "41371a6afff7e628",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bellizze manda PL apagar vídeo \"Pegadinha do Lulão\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123484/bellizze-manda-pl-apagar-video-pegadinha-do-lulao",
+      "resumo": "Decisão atende a pedido da campanha de Lula e exige identificação explícita de conteúdo fabricado com inteligência artificial em propaganda.",
+      "publicado_em": "2026-10-21T17:19:46-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "596fe5c64f11c76a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "ICMS na base dos créditos de PIS/Cofins: uma restrição constitucional?",
+      "link": "https://www.congressoemfoco.com.br/artigo/123481/icms-na-base-dos-creditos-de-pis-cofins-uma-restricao-constitucional",
+      "resumo": "Restrição estabelecida pela Lei 14.592/2023 levanta questionamentos sobre a não cumulatividade das contribuições e seus efeitos sobre os custos das empresas.",
+      "publicado_em": "2026-10-21T16:42:12-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
     },
     {
       "id": "9048d8490bd7e7b0",
@@ -1406,6 +1692,143 @@ window.DADOS = {
         "posse"
       ],
       "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "d3c85b2285c1b18d",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Acordo de cooperação técnica vai agilizar o cumprimento de sentenças em ações coletivas",
+      "link": "https://www.cnj.jus.br/acordo-de-cooperacao-tecnica-vai-agilizar-o-cumprimento-de-sentencas-em-acoes-coletivas/",
+      "resumo": "O Conselho da Justiça Federal (CJF) firmou, nesta segunda-feira (19), durante sessão do colegiado, acordo de cooperação técnica para agilizar o cumprimento de sentenças em ações coletivas contra a União. O documento foi assinado pelo presidente do Superior Tribunal de Justiça (STJ) e do CJF, ministr",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "6a2d5391b5788dc7",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Migrantes e refugiados são foco de ação de cidadania no interior de SP",
+      "link": "https://www.cnj.jus.br/migrantes-e-refugiados-sao-foco-de-acao-de-cidadania-no-interior-de-sp/",
+      "resumo": "O Centro Judiciário de Solução de Conflitos e Cidadania (Cejusc) da Comarca de Marília participou da 1ª Feira Integra-Ação, promovida pela Prefeitura Municipal, por meio da Secretaria Municipal de Assistência Social e do Núcleo de Apoio ao Migrante, em parceria com a Organização Internacional para a",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "200a9edad6441f0d",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Corregedoria Extrajudicial destina brinquedos para campanha no Maranhão",
+      "link": "https://www.cnj.jus.br/corregedoria-extrajudicial-destina-brinquedos-para-campanha-no-maranhao/",
+      "resumo": "A Corregedoria Geral do Foro Extrajudicial do Maranhão (Cogex) entregou ao Tribunal de Justiça do Maranhão (TJMA), na manhã desta terça-feira (20/10), cerca de 100 brinquedos, que serão destinados a ações alusivas ao Dia das Crianças. A iniciativa do Poder Judiciário, que pretende arrecadar cerca de",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "e2b8113797a1a32f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Direitos das crianças é tema de ação no Amapá",
+      "link": "https://www.cnj.jus.br/direitos-das-criancas-e-tema-de-acao-no-amapa/",
+      "resumo": "“Eu achei muito legal e interessante!”. Foi assim que Renê Miguel de Oliveira Barbosa, de 9 anos, resumiu a experiência de conhecer, pela primeira vez, a sede do Tribunal de Justiça do Amapá (TJAP), em Macapá. Nesta terça-feira (20), ele fez parte de um grupo de crianças que visitou a",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "31337a4343c89315",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Seminário do CNJ apresenta nesta quinta (22/10) pesquisas sobre gestão, governança e inovação",
+      "link": "https://www.cnj.jus.br/seminario-do-cnj-apresenta-nesta-quinta-22-10-pesquisas-sobre-gestao-governanca-e-inovacao/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ), por meio do Departamento de Pesquisas Judiciárias (DPJ), realiza, nesta quinta-feira (22/10), o Seminário de Pesquisas Empíricas Aplicadas às Políticas Judiciárias – Gestão, Governança e Inovação. Com transmissão pelo canal do CNJ no Youtube e por meio da Plataf",
+      "publicado_em": "2026-10-21T12:00:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": true,
+      "score": 36,
+      "tags": [
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "aeaa46cbd469a33b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria Rede de Desenvolvimento do Esporte",
+      "link": "https://www.camara.leg.br/noticias/1312672-projeto-cria-rede-de-desenvolvimento-do-esporte",
+      "resumo": "",
+      "publicado_em": "2026-10-21T19:47:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "94cf034729c3b2ed",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria programa nacional para fortalecer a pesca artesanal continental",
+      "link": "https://www.camara.leg.br/noticias/1309865-projeto-cria-programa-nacional-para-fortalecer-a-pesca-artesanal-continental",
+      "resumo": "",
+      "publicado_em": "2026-10-21T18:21:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "3eaea29dae787226",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto atualiza lei do crime de perseguição para detalhar condutas digitais",
+      "link": "https://www.camara.leg.br/noticias/1307688-projeto-atualiza-lei-do-crime-de-perseguicao-para-detalhar-condutas-digitais",
+      "resumo": "",
+      "publicado_em": "2026-10-21T17:35:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "ba742c39c7fe02bc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto estabelece regras de saúde e ergonomia para trabalhadores do setor têxtil",
+      "link": "https://www.camara.leg.br/noticias/1312650-projeto-estabelece-regras-de-saude-e-ergonomia-para-trabalhadores-do-setor-textil",
+      "resumo": "",
+      "publicado_em": "2026-10-21T17:19:00-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-21T19:54:27-03:00"
     },
     {
       "id": "3684a516fbc1f6c5",
