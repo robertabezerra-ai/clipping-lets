@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-22T15:11:59-03:00",
+  "gerado_em": "2026-10-22T16:43:52-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -327,6 +327,22 @@ window.DADOS = {
       "coletado_em": "2026-10-22T15:11:59-03:00"
     },
     {
+      "id": "3eb47e3450ea2b73",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 recebe visita de estudantes da USF, USP e PUC-SP",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-recebe-visita-de-estudantes-da-usf-usp-e-puc-sp",
+      "resumo": "TRT-15 recebe visita de estudantes da USF, USP e PUC-SP anagatto Qui, 22/10/2026 - 14:53 TRT-15 recebe visita de estudantes da USF, USP e PUC-SP Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região recebeu, na tarde desta quarta-feira, 21/10, a visita de 47 estudantes do curso de Direit",
+      "publicado_em": "2026-10-22T14:53:31-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
       "id": "d76c9de0c39c17a8",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -390,6 +406,68 @@ window.DADOS = {
         "cade"
       ],
       "coletado_em": "2026-10-22T12:47:31-03:00"
+    },
+    {
+      "id": "79eee740d46f5777",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Anvisa fará consulta pública sobre venda de remédio em plataformas na internet",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/anvisa-fara-consulta-publica-sobre-venda-de-remedio-em-plataformas-na-internet",
+      "resumo": "",
+      "publicado_em": "2026-10-22T16:31:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
+      "id": "b61d9414d6bf1d1e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Autorização de trabalho de reciclagem para presos pode ser votada em comissão",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/autorizacao-de-trabalho-de-reciclagem-para-presos-pode-ser-votada-em-comissao",
+      "resumo": "",
+      "publicado_em": "2026-10-22T16:24:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
+      "id": "e8e0c4060b68a59b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado debate mais inclusão de pessoas surdas na educação",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senado-debate-mais-inclusao-de-pessoas-surdas-na-educacao",
+      "resumo": "",
+      "publicado_em": "2026-10-22T15:59:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
+      "id": "8363307d14e3323c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Avança projeto que incentiva contratação de mulheres com câncer de mama",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/avanca-projeto-que-incentiva-contratacao-de-mulheres-com-cancer-de-mama",
+      "resumo": "",
+      "publicado_em": "2026-10-22T15:18:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
     },
     {
       "id": "82bb7cfb5b9e5855",
@@ -615,6 +693,36 @@ window.DADOS = {
       "coletado_em": "2026-10-22T15:11:59-03:00"
     },
     {
+      "id": "c07acb904d878ef3",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP solicita esclarecimentos sobre denúncias de irregularidades em abordagem policial em Piracicaba",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-solicita-esclarecimentos-sobre-denuncias-de-irregularidades-em-abordagem-policial-em-piracicaba",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
+      "id": "fad7a8354a30051c",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Apreensão de armas de alto poder de fogo cresce 55% no Brasil em 2026",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/apreensao-de-armas-de-alto-poder-de-fogo-cresce-55-no-brasil-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 26,
+      "tags": [
+        "apreensao"
+      ],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
       "id": "14d6c602aecf2e16",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -703,6 +811,37 @@ window.DADOS = {
       "coletado_em": "2026-10-22T15:11:59-03:00"
     },
     {
+      "id": "d1acaf3cb74a7cee",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM absolve acusados em caso envolvendo registros contábeis e demonstrações financeiras do IRB – Brasil Resseguros S.A.",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-absolve-acusados-em-caso-envolvendo-registros-contabeis-e-demonstracoes-financeiras-do-irb-2013-brasil-resseguros-s-a",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
+      "id": "23cbfbf446f6e76a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Proibir é mais fácil que fiscalizar?",
+      "link": "https://www.congressoemfoco.com.br/artigo/123524/proibir-e-mais-facil-que-fiscalizar",
+      "resumo": "Resolução dada pelo CMN não desaparecerá com a necessidade de liquidez de um mercado que vê o crescente número de empresas em recuperações judiciais ou falências.",
+      "publicado_em": "2026-10-22T15:27:04-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "resolucao",
+        "falencia"
+      ],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
       "id": "16f61e8aa182185e",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -761,6 +900,23 @@ window.DADOS = {
         "decisao"
       ],
       "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "c5c2284149594719",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MPF volta a cobrar explicações da Meta sobre bloqueios nas redes",
+      "link": "https://www.congressoemfoco.com.br/noticia/123514/mpf-volta-a-cobrar-explicacoes-da-meta-sobre-bloqueios-nas-redes",
+      "resumo": "Órgão recomenda que Meta suspenda bloqueios arbitrários e amplie transparência durante período eleitoral.",
+      "publicado_em": "2026-10-22T12:36:41-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "itr",
+        "comenda"
+      ],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
     },
     {
       "id": "4a7663aebd99171c",
@@ -1069,6 +1225,62 @@ window.DADOS = {
       "coletado_em": "2026-10-22T12:47:31-03:00"
     },
     {
+      "id": "090020a4752c785c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Proposta cria marco legal para o Programa de Garantia de Preços para a Agricultura Familiar",
+      "link": "https://www.camara.leg.br/noticias/1310139-proposta-cria-marco-legal-para-o-programa-de-garantia-de-precos-para-a-agricultura-familiar",
+      "resumo": "",
+      "publicado_em": "2026-10-22T16:17:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
+      "id": "d8c5d1226e5bb43f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto exige que hospitais divulguem canais de denúncia contra violência a pessoas idosas",
+      "link": "https://www.camara.leg.br/noticias/1310222-projeto-exige-que-hospitais-divulguem-canais-de-denuncia-contra-violencia-a-pessoas-idosas",
+      "resumo": "",
+      "publicado_em": "2026-10-22T16:15:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
+      "id": "8d6c7b18f74bac4c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto de lei amplia oferta de geriatras no SUS",
+      "link": "https://www.camara.leg.br/noticias/1313178-projeto-de-lei-amplia-oferta-de-geriatras-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-10-22T15:42:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
+      "id": "18b968f9288ea045",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe plataformas de induzir uso compulsivo e manipular usuários",
+      "link": "https://www.camara.leg.br/noticias/1313023-projeto-proibe-plataformas-de-induzir-uso-compulsivo-e-manipular-usuarios",
+      "resumo": "",
+      "publicado_em": "2026-10-22T15:10:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
       "id": "ab69209fd35bfad8",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1212,6 +1424,22 @@ window.DADOS = {
         "cade"
       ],
       "coletado_em": "2026-10-22T12:47:31-03:00"
+    },
+    {
+      "id": "346b6cb891934fc2",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade suspenderá atividades na quarta-feira (28/10)",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-suspendera-atividades-na-quarta-feira-28-10",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
     },
     {
       "id": "225996117363b6bf",
@@ -4168,6 +4396,22 @@ window.DADOS = {
       "coletado_em": "2026-10-20T16:49:01-03:00"
     },
     {
+      "id": "baa249ccd8a0094f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Foi um erro nefasto\", diz deputado que votou por legalização das bets",
+      "link": "https://www.congressoemfoco.com.br/noticia/123428/foi-um-erro-nefasto--diz-deputado-que-votou-por-legalizacao-das-bets",
+      "resumo": "Presidente da Frente da Micro e Pequena Empresa, Jorge Goetten admite ter subestimado o impacto das apostas sobre o comércio e as famílias. Também chama o consignado para trabalhadores CLT de \"agiotagem legal\".",
+      "publicado_em": "2026-10-20T14:59:54-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
       "id": "b52ebc1fa901b324",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -4201,6 +4445,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-20T15:10:40-03:00"
+    },
+    {
+      "id": "7abe9f2aaa35613f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fim da 6x1: Relator do Simples quer isenção previdenciária por 3 anos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123425/fim-da-6x1-relator-do-simples-quer-isencao-previdenciaria-por-3-anos",
+      "resumo": "Benefício seria destinado a micro e pequenas empresas que contratarem funcionários para se adaptar à redução da jornada. Mudança será proposta por Jorge Goetten no projeto que atualiza a tabela do Simples, com votação prevista para este ano.",
+      "publicado_em": "2026-10-20T14:29:53-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T16:43:52-03:00"
     },
     {
       "id": "f48ce37c1c5d879f",
