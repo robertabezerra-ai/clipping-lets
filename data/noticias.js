@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-22T16:43:52-03:00",
+  "gerado_em": "2026-10-22T19:53:00-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -376,6 +376,104 @@ window.DADOS = {
       "coletado_em": "2026-10-22T15:11:59-03:00"
     },
     {
+      "id": "165bab059f5f7bb8",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115819&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, ministrou, hoje (22), aula do",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "cf9c9fca60109d4d",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Júri simulado aproxima estudantes de Direito da prática jurídica",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115816&pagina=1",
+      "resumo": "Exercício trabalha oratória e raciocínio jurídico.\n \n\tEstudantes de Direito do Centro Universitário Anhanguera – Campus Belenzinho, participaram, ontem (21), de júri simulado no Palácio da",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "0b68fff5bd89e326",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Magistrados paulistas participam da 68ª Reunião Anual da Associação Internacional de Juízes",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115812&pagina=1",
+      "resumo": "Evento ocorreu em Lisboa.\n \n \tA 68ª Reunião Anual da Associação Internacional de Juízes (IAJ/UIM) realizou-se em Lisboa, Portugal, entre 15 e 21 de outubro",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "303db7015966c4f1",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo mantém cobrança de adicional de ICMS sobre empresa de TV por assinatura para fundo de combate à pobreza",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-mantem-cobranca-de-adicional-de-icms-sobre-empresa-de-tv-por-assinatura-para-fundo-de-combate-a-pobreza/",
+      "resumo": "Plenário esclareceu que reconhecimento da essencialidade dos serviços não retroage para afastar cobranças anteriores à mudança na legislação",
+      "publicado_em": "2026-10-22T19:28:12-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "612bb68e027ae696",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF define início do prazo de dez anos para devolução de cobranças indevidas na conta de luz",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-define-inicio-do-prazo-de-dez-anos-para-devolucao-de-cobrancas-indevidas-na-conta-de-luz/",
+      "resumo": "Decisão complementa julgamento sobre lei que autoriza Aneel a definir a devolução",
+      "publicado_em": "2026-10-22T18:09:09-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 86,
+      "tags": [
+        "decisao",
+        "julgamento",
+        "julga",
+        "prazo"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "351f4de3ddc63d18",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF lança nova edição de publicação trilíngue com resumos de julgamentos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-lanca-nova-edicao-de-publicacao-trilingue-com-resumos-de-julgamentos-da-corte/",
+      "resumo": "Publicação reúne decisões proferidas pelo Plenário entre maio e agosto de 2026 e aborda temas como ampliação do alcance da Lei Maria da Penha, igualdade salarial de gênero e mineração em terras indígenas",
+      "publicado_em": "2026-10-22T17:19:29-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
       "id": "40d9da810147aaf6",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -406,6 +504,66 @@ window.DADOS = {
         "cade"
       ],
       "coletado_em": "2026-10-22T12:47:31-03:00"
+    },
+    {
+      "id": "440e45bea90a7dd6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "'Junho Rosa' pode ser o mês de conscientização de doenças raras pulmonares",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/junho-rosa-pode-ser-o-mes-de-conscientizacao-de-doencas-raras-pulmonares",
+      "resumo": "",
+      "publicado_em": "2026-10-22T18:16:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "f50e18e074647ccf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CMA: 'Tarifaço' afeta soberania, enquanto terras-raras oferecem riscos e oportunidades",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/22/cma-tarifaco-afeta-soberania-enquanto-terras-raras-oferecem-riscos-e-oportunidades",
+      "resumo": "",
+      "publicado_em": "2026-10-22T17:24:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "f8f18c2ccd59ace9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Em debate na CMA, especialistas apontam impacto ambiental das políticas dos EUA",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/em-debate-na-cma-especialistas-apontam-impacto-ambiental-das-politicas-dos-eua",
+      "resumo": "",
+      "publicado_em": "2026-10-22T17:19:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "dac7af934e8e916c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto prevê melhoria no controle da atividade de mineração",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-preve-melhoria-no-controle-da-atividade-de-mineracao",
+      "resumo": "",
+      "publicado_em": "2026-10-22T17:10:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
     },
     {
       "id": "79eee740d46f5777",
@@ -723,6 +881,68 @@ window.DADOS = {
       "coletado_em": "2026-10-22T16:43:52-03:00"
     },
     {
+      "id": "ef8b975ece018a18",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP reforça atuação no combate a incêndios florestais e crimes ambientais no Pará",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-reforca-atuacao-no-combate-a-incendios-florestais-e-crimes-ambientais-no-para",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "66ba53f79590c089",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Ministério da Justiça capacita policiais civis e militares do RJ para utilizar sistemas antidrones",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-capacita-policiais-civis-e-militares-do-rj-para-utilizacao-de-sistemas-anti-drones",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "a6f1727f91327e85",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon, Ministério Público e Procons gaúchos cobram melhorias nos serviços da Corsan/Aegea",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-ministerio-publico-e-procons-gauchos-cobram-melhorias-nos-servicos-da-corsan-aegea",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "3ddc86567886b757",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PND: divulgados gabaritos preliminares e cadernos de provas da reaplicação",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pnd-divulgados-gabaritos-preliminares-e-cadernos-de-provas-da-reaplicacao",
+      "resumo": "",
+      "publicado_em": "2026-10-22T16:19:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "liminar",
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
       "id": "14d6c602aecf2e16",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -823,6 +1043,175 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-22T16:43:52-03:00"
+    },
+    {
+      "id": "5e72d36d0d0c5206",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Sistema Eletrônico de Informações (SEI) está temporariamente indisponível",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/sistema-eletronico-de-informacoes-sei-esta-temporariamente-indisponivel",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "cd91eb70a75cf44c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PDT aciona o STF contra regra de distribuição das sobras eleitorais",
+      "link": "https://www.congressoemfoco.com.br/noticia/123534/pdt-aciona-o-stf-contra-regra-de-distribuicao-das-sobras-eleitorais",
+      "resumo": "Partido contesta cálculo que define vagas remanescentes na Câmara e nas assembleias e pede suspensão imediata da regra ao Supremo.",
+      "publicado_em": "2026-10-22T19:21:43-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "83093312f2d7f1dd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça diz que Lula e Flávio podem abrir sigilo por conta própria",
+      "link": "https://www.congressoemfoco.com.br/noticia/123533/mendonca-diz-que-lula-e-flavio-podem-abrir-sigilo-por-conta-propria",
+      "resumo": "Ministro afirma que a divulgação de informações pessoais cabe aos próprios titulares e dispensa qualquer intervenção da Justiça Eleitoral.",
+      "publicado_em": "2026-10-22T18:51:24-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "db7702a59ced1098",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE dá 12 horas para Meta detalhar alcance de Nikolas e Pablo Marçal",
+      "link": "https://www.congressoemfoco.com.br/noticia/123532/tse-da-12-horas-para-meta-detalhar-alcance-de-nikolas-e-pablo-marcal",
+      "resumo": "Corregedor-geral da Justiça Eleitoral, ministro Ricardo Villas Bôas Cueva, impôs multa de R$ 100 mil por hora de atraso caso a plataforma não cumpra a determinação.",
+      "publicado_em": "2026-10-22T18:02:59-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "c85f5618aeb83e8d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Datafolha: Celina lidera com 54% contra 37% de Leandro Grass no DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/123531/datafolha-celina-lidera-com-54-contra-37-de-leandro-grass-no-df",
+      "resumo": "Governadora interina do DF mantém a posição de preferida para assumir o Palácio do Buriti a partir de 2027.",
+      "publicado_em": "2026-10-22T17:44:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "fe06b6571d13cead",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques pede a Meta relatório detalhado sobre \"Exército do Lula\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123530/nunes-marques-pede-a-meta-relatorio-detalhado-sobre-exercito-do-lula",
+      "resumo": "Decisão atende parcialmente a um pedido do candidato à presidência Flávio Bolsonaro.",
+      "publicado_em": "2026-10-22T17:38:55-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "d63ae13107f1fad0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio aciona TSE contra Lula por suposto uso eleitoral do GovBR",
+      "link": "https://www.congressoemfoco.com.br/noticia/123529/flavio-aciona-tse-contra-lula-por-suposto-uso-eleitoral-do-govbr",
+      "resumo": "Para a defesa de Flávio, a utilização desses canais, somada às notificações da conta oficial GovBR, configura possível abuso de poder político e econômico em benefício da candidatura de Lula.",
+      "publicado_em": "2026-10-22T17:09:42-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "62c35896e7a14792",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O que a ISO 9001 pode ensinar às prefeituras",
+      "link": "https://www.congressoemfoco.com.br/artigo/123528/o-que-a-iso-9001-pode-ensinar-as-prefeituras",
+      "resumo": "A norma de gestão da qualidade não foi feita só para fábricas. Serve a qualquer organização que precise entregar o mesmo serviço, bem feito, todos os dias.",
+      "publicado_em": "2026-10-22T17:02:21-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "069d0d520c83af49",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Entenda busca \"Bolsonaro Talvane Albuquerque\" sugerida por Janones",
+      "link": "https://www.congressoemfoco.com.br/noticia/123527/entenda-busca-bolsonaro-talvane-albuquerque-sugerida-por-janones",
+      "resumo": "Busca sugerida a apoiadores de Lula relembra pronunciamento de Bolsonaro em defesa do mandato de colega acusado de ordenar assassinato de deputada.",
+      "publicado_em": "2026-10-22T16:58:48-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "62d2e1c922cdfff9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O poder do voto e o protagonismo dos cidadãos brasileiros",
+      "link": "https://www.congressoemfoco.com.br/artigo/123526/o-poder-do-voto-e-o-protagonismo-dos-cidadaos-brasileiros",
+      "resumo": "Reta final da disputa presidencial reforça a necessidade de aprofundar o debate sobre economia, saúde, educação e segurança pública, com transparência sobre a viabilidade das promessas.",
+      "publicado_em": "2026-10-22T16:37:11-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "ac23d580379bcd4b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto de Randolfe quebra sigilos bancário e telefônico de candidatos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123525/projeto-de-randolfe-quebra-sigilos-bancario-e-telefonico-de-candidatos",
+      "resumo": "Autorização passaria a integrar os documentos necessários para o pedido de registro de candidatura.",
+      "publicado_em": "2026-10-22T16:00:51-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
     },
     {
       "id": "23cbfbf446f6e76a",
@@ -1206,6 +1595,36 @@ window.DADOS = {
       "coletado_em": "2026-10-22T12:47:31-03:00"
     },
     {
+      "id": "968712e985552490",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Conecta leva assistente de IA e central de ferramentas a magistrados e servidores de todo o país",
+      "link": "https://www.cnj.jus.br/conecta-leva-assistente-de-ia-e-central-de-ferramentas-a-magistrados-e-servidores-de-todo-o-pais/",
+      "resumo": "Tribunais brasileiros contam com duas novas ferramentas para apoiar as atividades diárias de magistradas, magistrados, servidoras e servidores de todos os ramos da Justiça. Nesta quinta-feira (22/10), o Conecta tornou nacionais as soluções Mecanismo Artificial Inteligente de Apoio à Justiça (MAIA), ",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "42606ed8cdc397dc",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ reconhece iniciativas de quatro tribunais que fortalecem a gestão de pessoas no Judiciário",
+      "link": "https://www.cnj.jus.br/cnj-reconhece-iniciativas-de-quatro-tribunais-que-fortalecem-a-gestao-de-pessoas-no-judiciario/",
+      "resumo": "O segundo e último dia da programação do IV Encontro Nacional de Gestores de Pessoas foi dedicado a homenagens às iniciativas vencedoras da 2ª Premiação de Práticas em Gestão de Pessoas do Poder Judiciário. A premiação destaca ações que promovem melhorias e aperfeiçoam a gestão de pessoas no Judiciá",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
       "id": "b1d89e37635e9962",
       "fonte_id": "carf",
       "fonte_nome": "CARF",
@@ -1223,6 +1642,34 @@ window.DADOS = {
         "recurso"
       ],
       "coletado_em": "2026-10-22T12:47:31-03:00"
+    },
+    {
+      "id": "3de60a2b8aacb971",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria Carteira Nacional do Cuidador Familiar Atípico",
+      "link": "https://www.camara.leg.br/noticias/1309587-projeto-cria-carteira-nacional-do-cuidador-familiar-atipico",
+      "resumo": "",
+      "publicado_em": "2026-10-22T18:23:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "b5cc044108e9ad45",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto padroniza termos sobre saúde da mulher e maternidade em documentos federais",
+      "link": "https://www.camara.leg.br/noticias/1307916-projeto-padroniza-termos-sobre-saude-da-mulher-e-maternidade-em-documentos-federais",
+      "resumo": "",
+      "publicado_em": "2026-10-22T17:23:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
     },
     {
       "id": "090020a4752c785c",
