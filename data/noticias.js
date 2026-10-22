@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-22T12:47:31-03:00",
+  "gerado_em": "2026-10-22T15:11:59-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -268,6 +268,65 @@ window.DADOS = {
       "coletado_em": "2026-10-22T12:47:31-03:00"
     },
     {
+      "id": "ba8602b5a8ed59f7",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Tem propostas para aprimorar o Judiciário? Opine em pesquisa do Conselho Nacional de Justiça",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/conselho-nacional-de-justica-abre-consulta-publica-para-propostas-de-metas-nacionais-do-poder-judiciario",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "1a6d9028850d7544",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 suspende processos na 2ª instância sobre revelia e confissão ficta da Administração Pública; saiba mais",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-suspende-processos-na-2a-instancia-sobre-revelia-e-confissao-ficta-da-administracao-publica-saiba-mais",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "ffac0cda7edadc36",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Regional oferece canal de denúncias contra assédio eleitoral no trabalho",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-oferece-canal-de-denuncias-contra-assedio-eleitoral-no-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "623cf76d51c66d42",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Trabalhador hipersuficiente obtém vínculo empregatício após justiça reconhecer fraude em contrato de pessoa jurídica",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trabalhador-hipersuficiente-obtem-vinculo-empregaticio-apos-justica-reconhecer-fraude-em-contrato-de-pessoa-juridica",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
       "id": "d76c9de0c39c17a8",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -282,6 +341,23 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-22T12:47:31-03:00"
+    },
+    {
+      "id": "59403bb51af43e1f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação de cuidadora por furtos qualificados contra idosos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115809&pagina=1",
+      "resumo": "Fixada reparação de R$ 12 mil. \n \n\tA 15ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve, em parte, a condenação de",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
     },
     {
       "id": "40d9da810147aaf6",
@@ -314,6 +390,52 @@ window.DADOS = {
         "cade"
       ],
       "coletado_em": "2026-10-22T12:47:31-03:00"
+    },
+    {
+      "id": "82bb7cfb5b9e5855",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sistema Único de Assistência Social poderá acolher migrantes e refugiados",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/sistema-unico-de-assistencia-social-podera-acolher-migrantes-e-refugiados",
+      "resumo": "",
+      "publicado_em": "2026-10-22T14:02:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "eae7710bfc67f258",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sancionada lei que perdoa dívidas de MEIs",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/sancionada-lei-que-perdoa-dividas-de-meis",
+      "resumo": "",
+      "publicado_em": "2026-10-22T13:04:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "sancionada"
+      ],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "e25af21c1e866139",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Enem 2026: professora orienta candidatos sobre provas e redação",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/enem-2026-professora-orienta-candidatos-sobre-provas-e-redacao",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:50:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
     },
     {
       "id": "2e393c98867063cb",
@@ -448,6 +570,79 @@ window.DADOS = {
       "coletado_em": "2026-10-22T12:47:31-03:00"
     },
     {
+      "id": "849a3057f587580a",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal abre consulta ao lote residual de restituição do IRPF 2026 nesta sexta-feira (23)",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-sexta-feira-23",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:48:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "03956380d25245c0",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Sedigi apresenta ações de implementação do ECA Digital em webinário sobre os seis meses de vigência da lei",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sedigi-apresenta-acoes-de-implementacao-do-eca-digital-em-webinario-sobre-os-seis-meses-de-vigencia-da-lei",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "vigencia",
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "7bea8ca7cc63e52a",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "ECA Digital: empresas têm 60 dias para fazer cadastro no Sistema Nidus da Polícia Federal",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/eca-digital-empresas-tem-60-dias-para-fazer-cadastro-no-sistema-nidus-da-policia-federal",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "14d6c602aecf2e16",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Congresso recebe PEC da tarifa zero no transporte coletivo aos finais de semana",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/sancionada-lei-que-amplia-novas-medidas-para-meis-e-envia-ao-congresso-pec-sobre-tarifa-zero-ao-transporte-coletivo",
+      "resumo": "",
+      "publicado_em": "2026-10-22T14:25:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "fe144362ded919cb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Em meio a estiagem, Porto Velho passa a contar com base da Força Nacional do SUS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/porto-velho-passa-a-contar-com-base-da-forca-nacional-do-sus-para-apoiar-resposta-a-emergencias-em-saude",
+      "resumo": "",
+      "publicado_em": "2026-10-22T13:09:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
       "id": "89eb9829627f0c0b",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -478,6 +673,94 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-22T12:47:31-03:00"
+    },
+    {
+      "id": "643c7dba72ef4e7b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "BNB negocia dívidas de produtores rurais prejudicados por eventos climáticos até dia 12",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/termina-dia-12-o-prazo-para-produtores-rurais-prejudicados-por-eventos-climaticos-renegociarem-dividas-junto-ao-bnb",
+      "resumo": "",
+      "publicado_em": "2026-10-22T00:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "d37e00303b5d12d3",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita abre nesta sexta-feira (23/10) consulta ao lote residual de restituição do IRPF 2026",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-abre-nesta-sexta-feira-23-10-consulta-ao-lote-residual-de-restituicao-do-irpf-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "16f61e8aa182185e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Campanha do PT resistiu a abrir sigilo do Instituto Lula, diz Deltan",
+      "link": "https://www.congressoemfoco.com.br/noticia/123523/campanha-do-pt-resistiu-a-abrir-sigilo-do-instituto-lula-diz-deltan",
+      "resumo": "Ex-procurador alega que representantes de Lula só aceitaram incluir o Instituto Lula no acordo após intervenção dos advogados de Flávio.",
+      "publicado_em": "2026-10-22T14:18:23-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "advogado"
+      ],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "96489a1c5ca8d12d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Globo anuncia regras do debate sem prever checagem na transmissão",
+      "link": "https://www.congressoemfoco.com.br/noticia/123520/globo-anuncia-regras-do-debate-sem-prever-checagem-na-transmissao",
+      "resumo": "Emissora fará verificações pelo g1, mas não anunciou correções durante o programa, como solicitavam a campanha de Lula e uma petição com mais de 1,1 milhão de assinaturas. Veja as regras.",
+      "publicado_em": "2026-10-22T13:51:47-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "c4a5574c271a6779",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Equipe de Lula diz que Flávio não queria abrir sigilo de Willer Tomaz",
+      "link": "https://www.congressoemfoco.com.br/noticia/123518/equipe-de-lula-diz-que-flavio-nao-queria-abrir-sigilo-de-willer-tomaz",
+      "resumo": "Camilo Santana disse que equipe petista não aceitou deixar de fora dados relacionados a uma empresa mencionada nas tratativas.",
+      "publicado_em": "2026-10-22T13:35:24-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "e386b341b3f68457",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula e Flávio autorizam quebra de sigilo; decisão cabe a Mendonça",
+      "link": "https://www.congressoemfoco.com.br/noticia/123515/lula-e-flavio-autorizam-quebra-de-sigilo-decisao-cabe-a-mendonca",
+      "resumo": "Entendimento ocorreu depois de série divergências; campanhas têm até 23h59 para entregar documentos.",
+      "publicado_em": "2026-10-22T13:17:46-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
     },
     {
       "id": "4a7663aebd99171c",
@@ -792,12 +1075,26 @@ window.DADOS = {
       "titulo": "Projeto cria Tarifa Social de Energia Elétrica com descontos calculados por região",
       "link": "https://www.camara.leg.br/noticias/1312670-projeto-cria-tarifa-social-de-energia-eletrica-com-descontos-calculados-por-regiao",
       "resumo": "",
-      "publicado_em": "2026-10-22T12:41:00-03:00",
+      "publicado_em": "2026-10-22T14:30:00-03:00",
       "dia": "2026-10-22",
       "data_estimada": false,
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-22T12:47:31-03:00"
+    },
+    {
+      "id": "5d44cba01471b10b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria sistema de descarte especial para agulhas e seringas usadas em casa",
+      "link": "https://www.camara.leg.br/noticias/1313039-projeto-cria-sistema-de-descarte-especial-para-agulhas-e-seringas-usadas-em-casa",
+      "resumo": "",
+      "publicado_em": "2026-10-22T13:04:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-22T15:11:59-03:00"
     },
     {
       "id": "3168f0b4a3355071",
@@ -1142,7 +1439,7 @@ window.DADOS = {
       "id": "54c3f760593b8442",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "STF mantém regras de organização da polícia penal de São Paulo",
+      "titulo": "STF mantém regras de organização da Polícia Penal de São Paulo",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-regras-de-organizacao-da-policia-penal-de-sao-paulo/",
       "resumo": "Plenário rejeitou questionamentos à legislação estadual, com divergência parcial do ministro Luiz Fux",
       "publicado_em": "2026-10-21T19:33:23-03:00",
@@ -4692,7 +4989,7 @@ window.DADOS = {
       "id": "6a34ae907879490c",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
-      "titulo": "Emissora de televisão é condenada por ofensas homofóbicas; conheça ação do TRT-2 para combater e denunciar casos de discriminação",
+      "titulo": "Emissora é condenada por ofensas homofóbicas; conheça ação do TRT-2 para combater e denunciar discriminação",
       "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/emissora-de-televisao-e-condenada-por-ofensas-homofobicas-conheca-acao-do-trt-2-para-combater-e-denunciar-casos-de-discriminacao",
       "resumo": "",
       "publicado_em": "2026-10-19T12:00:00-03:00",
@@ -4830,7 +5127,7 @@ window.DADOS = {
       "id": "8bfa95e1970ce9c5",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "STF proíbe contratação temporária para funções da polícia penal em Goiás",
+      "titulo": "STF proíbe contratação temporária para funções da Polícia Penal de Goiás",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-proibe-contratacao-temporaria-para-funcoes-da-policia-penal-em-goias/",
       "resumo": "Estado terá dois anos para regularizar quadro de pessoal",
       "publicado_em": "2026-10-19T19:39:45-03:00",
