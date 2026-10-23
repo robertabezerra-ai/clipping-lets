@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-23T15:00:28-03:00",
+  "gerado_em": "2026-10-23T16:46:06-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -295,6 +295,37 @@
       "coletado_em": "2026-10-23T15:00:28-03:00"
     },
     {
+      "id": "f772bb54190a059f",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "2ª Região sedia lançamento de obra sobre políticas públicas de trabalho e emprego no Brasil",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2a-regiao-sedia-lancamento-de-obra-sobre-politicas-publicas-de-trabalho-e-emprego-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "e1c303a5fc2925cc",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 celebra ratificação de posse da desembargadora Juliana Benatti em sessão solene",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-celebra-ratificacao-de-posse-da-desembargadora-juliana-benatti-em-sessao-solene",
+      "resumo": "TRT-15 celebra ratificação de posse da desembargadora Juliana Benatti em sessão solene anasiqueira Sex, 23/10/2026 - 16:08 TRT-15 celebra ratificação de posse da desembargadora Juliana Benatti em sessão solene Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região realizou, na tarde desta",
+      "publicado_em": "2026-10-23T16:08:22-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "acao",
+        "posse"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
       "id": "a5e233714dd6a2c3",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -309,6 +340,71 @@
         "acao"
       ],
       "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "0903a8e45e528d6b",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Lei que determinava instalação obrigatória de câmeras em salas de aula em Tremembé é inconstitucional",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115827&pagina=1",
+      "resumo": "Violação à intimidade e ao exercício da livre docência.\n \n\tO Órgão Especial do Tribunal de Justiça de São Paulo declarou a inconstitucionalidade da Lei Municipal",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "inconstitucional",
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "d003eb5f1d54b9c3",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP participa da Semana Nacional de Conciliação em Saúde Suplementar",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115824&pagina=1",
+      "resumo": "Acordos entre beneficiários e planos de saúde.  \n \n\tO Tribunal de Justiça de São Paulo participa, entre os dias 9 e 13 de novembro, da Semana",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "e65301dfeee3aeaa",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Servidores do TJSP visitam Centro de Treinamento Paralímpico Brasileiro e Escola da Inclusão",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115826&pagina=1",
+      "resumo": "Espaços valorizam as diferenças.\n \n\tO Tribunal de Justiça, por meio da Diretoria de Apoio aos Servidores (Daps), realizou, ontem (22), uma visita guiada ao Centro",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "09574cb7fed29d8f",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF valida conciliação em crimes de menor potencial ofensivo pela Polícia Civil de São Paulo",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-valida-conciliacao-de-crimes-de-menor-potencial-ofensivo-pela-policia-civil-de-sao-paulo/",
+      "resumo": "Para o Plenário, audiências em delegacias não invadem competências do Judiciário e do Ministério Público",
+      "publicado_em": "2026-10-23T15:38:50-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
     },
     {
       "id": "75eafccf55dc2006",
@@ -355,6 +451,98 @@
         "julga"
       ],
       "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "818f4c6a2711ea5f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Veículos de Senado e Câmara farão cobertura integrada do segundo turno",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/23/veiculos-de-senado-e-camara-farao-cobertura-integrada-do-segundo-turno",
+      "resumo": "",
+      "publicado_em": "2026-10-23T16:20:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "be70447459816603",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Subcomissão avalia políticas públicas em execução na Terra Indígena Yanomami",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/23/subcomissao-avalia-politicas-publicas-em-execucao-na-terra-indigena-yanomami",
+      "resumo": "",
+      "publicado_em": "2026-10-23T16:09:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "3880014bd904e400",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "2º turno: votação será mais rápida, mas ‘colinha’ de papel pode ajudar",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/2o-turno-votacao-sera-mais-rapida-mas-2018colinha2019-de-papel-pode-ajudar",
+      "resumo": "",
+      "publicado_em": "2026-10-23T15:57:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "3f0a7cecd8a2a15c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado recebe selo por preservação de residências oficiais",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senado-recebe-selo-por-preservacao-de-residencias-oficiais",
+      "resumo": "",
+      "publicado_em": "2026-10-23T15:20:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "67d682cafb754f7f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Medida Provisória libera R$ 300 milhões para ações da Defesa Civil",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/medida-provisoria-libera-r-300-milhoes-para-acoes-da-defesa-civil",
+      "resumo": "",
+      "publicado_em": "2026-10-23T15:19:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "441582f483216eb9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Medida provisória destina R$ 6,5 bi a exportadores prejudicados por tarifas dos EUA",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/medida-provisoria-destina-r-6-5-bi-a-exportadores-prejudicados-por-tarifas-dos-eua",
+      "resumo": "",
+      "publicado_em": "2026-10-23T15:14:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
     },
     {
       "id": "38cfb975f1ba325d",
@@ -547,6 +735,50 @@
       "coletado_em": "2026-10-23T15:00:28-03:00"
     },
     {
+      "id": "ec2dd85a7d2517bd",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Centro Integrado Mulher Segura recebe representantes do Ministério Público para troca de experiências",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/centro-integrado-mulher-segura-recebe-representantes-do-ministerio-publico-para-troca-de-experiencias",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "fa1723975dabf4a3",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Ministério da Justiça coordena operação integrada para garantir a segurança nas eleições",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/ministerio-da-justica-coordena-operacao-integrada-para-garantir-a-seguranca-nas-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "0bacf87ee062a620",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mulheres são 64% dos 5 milhões de participantes no Enem 2026; metade tem de 17 a 18 anos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/painel-enem-2026-apresenta-perfil-dos-participantes-do-exame",
+      "resumo": "",
+      "publicado_em": "2026-10-23T15:10:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
       "id": "9afa487abeb678cf",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -669,6 +901,134 @@
       "coletado_em": "2026-10-23T15:00:28-03:00"
     },
     {
+      "id": "9eb41cc53916e7b4",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM participa do IV Congresso de Direito de Fundos de Investimento, em São Paulo",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-do-iv-congresso-de-direito-de-fundos-de-investimento-em-sao-paulo",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "5b542c67825918da",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Lei Ana Clara\": Camilo propõe vedação da advocacia a parlamentares",
+      "link": "https://www.congressoemfoco.com.br/noticia/123575/lei-ana-clara--camilo-propoe-vedacao-da-advocacia-a-parlamentares",
+      "resumo": "Texto prevê impedimento para deputados, senadores e vereadores em processos por crimes contra a vida, inclusive nos casos em andamento.",
+      "publicado_em": "2026-10-23T16:18:06-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "1849df96e42f4c0f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Campanha de Lula ameaça levar disputa por sigilos ao Plenário do TSE",
+      "link": "https://www.congressoemfoco.com.br/noticia/123576/campanha-de-lula-ameaca-levar-disputa-por-sigilos-ao-plenario-do-tse",
+      "resumo": "Equipe petista pediu ao ministro André Mendonça que reconsidere a decisão segundo a qual não é necessária uma ordem judicial para que os candidatos divulguem voluntariamente seus próprios dados.",
+      "publicado_em": "2026-10-23T16:18:06-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "decisao",
+        "judicial"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "c0eb4def0bf5c2e7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governo anuncia crédito subsidiado para adaptação ao fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/123574/governo-anuncia-credito-subsidiado-para-adaptacao-ao-fim-da-escala-6x1",
+      "resumo": "Proposta prevê financiamento com condições favorecidas, tendo como referência juros equivalentes à TR acrescida de aproximadamente 2% a 3%.",
+      "publicado_em": "2026-10-23T15:58:24-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "30a6d5117948af2c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ministro proíbe suspensão do \"Exército do Lula\" sem aval do Plenário",
+      "link": "https://www.congressoemfoco.com.br/noticia/123573/ministro-proibe-suspensao-do-exercito-do-lula-sem-aval-do-plenario",
+      "resumo": "Decisão também suspende os efeitos de determinações anteriores ou futuras que tenham como resultado prático a indisponibilização do canal.",
+      "publicado_em": "2026-10-23T15:41:36-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "98f6805e687c8b62",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE nega suspensão de canais do WhatsApp antes das eleições",
+      "link": "https://www.congressoemfoco.com.br/noticia/123571/tse-nega-suspensao-de-canais-do-whatsapp-antes-das-eleicoes",
+      "resumo": "Em comunicado, Corte afirmou que ministros se reuniram com representantes de Meta, X, Google, TikTok e Kwai para discutir cumprimento da legislação eleitoral.",
+      "publicado_em": "2026-10-23T15:05:24-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "483748be3b8eb12f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Madonna publica apoio a Lula; Nikolas mostra apoio de Neymar a Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123570/madonna-publica-apoio-a-lula-nikolas-mostra-apoio-de-neymar-a-flavio",
+      "resumo": "A dois dias do segundo turno, manifestações de celebridades nas redes sociais dão visibilidade às campanhas dos candidatos à Presidência.",
+      "publicado_em": "2026-10-23T15:01:41-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "7467630b7d5a1a25",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O impacto da Lei Complementar nº 236/2026 na persecução penal",
+      "link": "https://www.congressoemfoco.com.br/artigo/123569/o-impacto-da-lei-complementar-n-236-2026-na-persecucao-penal",
+      "resumo": "Inclusão do seguro-garantia entre as causas de suspensão da exigibilidade do crédito tributário abre discussão sobre a continuidade de processos criminais relacionados a dívidas garantidas.",
+      "publicado_em": "2026-10-23T14:56:43-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "tributario",
+        "processo"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
       "id": "c584f2b97b17c2eb",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -697,6 +1057,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "8aea81b2e64742c3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veja como estão as pesquisas presidenciais a dois dias do 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123565/veja-como-estao-as-pesquisas-presidenciais-a-dois-dias-do-2-turno",
+      "resumo": "Levantamento do Congresso em Foco reúne 17 pesquisas divulgadas nesta semana. Flávio tem média de 50,9% dos votos válidos, contra 49,1% de Lula, e aparece numericamente à frente em 14 delas.",
+      "publicado_em": "2026-10-23T14:09:40-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
     },
     {
       "id": "13bce1dca1c645b8",
@@ -1068,6 +1442,82 @@
         "adi"
       ],
       "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "63908806cf95552a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Conselheiro do CNJ participa de lançamento de cartilha sobre adoção e diversidade familiar em Goiás",
+      "link": "https://www.cnj.jus.br/conselheiro-do-cnj-participa-de-lancamento-de-cartilha-sobre-adocao-e-diversidade-familiar-em-goias/",
+      "resumo": "O conselheiro Fabio Esteves, do Conselho Nacional de Justiça (CNJ), participou, nesta quinta-feira (22), do lançamento oficial da cartilha “Família, no plural: adoção e diversidade LGBTQIAPN+”, realizado pelo Tribunal de Justiça do Estado de Goiás (TJGO) no auditório da Unialfa, em Goiânia.  O mater",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "415f1e0d487d7b31",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Projeto Justiça de Olhos Abertos faz júri simulado para estudantes cegos",
+      "link": "https://www.cnj.jus.br/projeto-justica-de-olhos-abertos-faz-juri-simulado-para-estudantes-cegos/",
+      "resumo": "Francivânia Torres perdeu praticamente toda a visão ainda na adolescência e, morando em Boa Viagem, no Interior do Ceará, acabou saindo da escola quando tinha 13 anos. Com diagnóstico de retinose pigmentar, doença genética que causa a degeneração progressiva das células fotorreceptoras da retina, el",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "36dea9b70e024866",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Campanha de combate ao assédio é selecionada para acervo internacional de publicidade",
+      "link": "https://www.cnj.jus.br/campanha-de-combate-ao-assedio-e-selecionada-para-acervo-internacional-de-publicidade/",
+      "resumo": "A campanha “Não é normal. É assédio”, produzida pela Secretaria de Comunicação Social (Secoms) do Tribunal de Justiça do Rio Grande do Norte (TJRN), foi selecionada para publicação no Ads of the World (AOTW), acervo internacional que reúne campanhas publicitárias de diferentes países e serve de refe",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "f0f9b89578bb28d6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política de incentivo à integração lavoura-pecuária-floresta",
+      "link": "https://www.camara.leg.br/noticias/1310455-projeto-cria-politica-de-incentivo-a-integracao-lavoura-pecuaria-floresta",
+      "resumo": "",
+      "publicado_em": "2026-10-23T16:28:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "a39f06e38e7edd83",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto permite que professor da rede pública prepare aulas em casa",
+      "link": "https://www.camara.leg.br/noticias/1305735-projeto-permite-que-professor-da-rede-publica-prepare-aulas-em-casa",
+      "resumo": "",
+      "publicado_em": "2026-10-23T15:03:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T16:46:06-03:00"
     },
     {
       "id": "6eaac905dfd63d5d",
