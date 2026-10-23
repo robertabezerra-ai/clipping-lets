@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-23T12:38:43-03:00",
+  "gerado_em": "2026-10-23T15:00:28-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -209,7 +209,7 @@
     {
       "id": "coaf",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
@@ -279,6 +279,54 @@
       "coletado_em": "2026-10-23T12:38:43-03:00"
     },
     {
+      "id": "a78dfdaa09a6b6df",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Liminar determina que rede de varejo organize escalas para garantir direito de voto de empregados(as)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/liminar-determina-que-rede-de-varejo-organize-escalas-para-garantir-direito-de-voto-de-empregadosas",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "liminar"
+      ],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "a5e233714dd6a2c3",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Co.Labora 15 promove a 27ª edição do Diálogos Inovadores com o tema \"Confiança: a Inovação que Transforma a Gestão\"",
+      "link": "https://trt15.jus.br/noticia/2026/colabora-15-promove-27a-edicao-do-dialogos-inovadores-com-o-tema-confianca-inovacao",
+      "resumo": "Co.Labora 15 promove a 27ª edição do Diálogos Inovadores com o tema \"Confiança: a Inovação que Transforma a Gestão\" anasiqueira Sex, 23/10/2026 - 13:52 Co.Labora 15 promove a 27ª edição do Diálogos Inovadores com o tema \"Confiança: a Inovação que Transforma a Gestão\" Conteúdo da Notícia O Laboratóri",
+      "publicado_em": "2026-10-23T13:52:34-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "75eafccf55dc2006",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF recebe autoridade responsável pela defesa dos direitos dos cidadãos em Angola",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-recebe-autoridade-responsavel-pela-defesa-dos-direitos-dos-cidadaos-em-angola/",
+      "resumo": "Encontro abordou a cooperação entre países e a proteção dos direitos fundamentais",
+      "publicado_em": "2026-10-23T12:42:59-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
       "id": "05f8bf0e99f9b90a",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -307,6 +355,64 @@
         "julga"
       ],
       "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "38cfb975f1ba325d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eleitores voltam às urnas no domingo para definir o próximo presidente",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/eleitores-voltam-as-urnas-no-domingo-para-definir-o-proximo-presidente",
+      "resumo": "",
+      "publicado_em": "2026-10-23T14:16:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "ec304906775edf77",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Presidente e governadores eleitos tomam posse em novas datas em 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/23/presidente-e-governadores-eleitos-tomam-posse-em-novas-datas-em-2027",
+      "resumo": "",
+      "publicado_em": "2026-10-23T14:11:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "caae8a89a17a267c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Domingo é dia de votar: eleitores voltam às urnas para escolher presidente",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/23/domingo-e-dia-de-votar-eleitores-voltam-as-urnas-para-escolher-presidente",
+      "resumo": "",
+      "publicado_em": "2026-10-23T13:51:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "06e979bf4126852c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Área de livre comércio pode alcançar mais um município do Acre",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/area-de-livre-comercio-pode-alcancar-mais-um-municipio-do-acre",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:50:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
     },
     {
       "id": "080813901de7f46b",
@@ -427,6 +533,20 @@
       "coletado_em": "2026-10-23T12:38:43-03:00"
     },
     {
+      "id": "a8151b48a8097ed9",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "MJSP investe R$ 6,3 milhões em 184 drones para combater o crime organizado",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/mjsp-investe-r-6-3-milhoes-em-184-drones-para-combater-o-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
       "id": "9afa487abeb678cf",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -517,6 +637,143 @@
       "coletado_em": "2026-10-23T12:38:43-03:00"
     },
     {
+      "id": "c72c36e3114f4440",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "PGFN lança edital para negociar dívidas de FGTS e contribuições sociais de até R$ 45 milhões",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/pgfn-lanca-edital-para-negociar-dividas-de-fgts-e-contribuicoes-sociais-de-ate-r-45-milhoes",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "fgts"
+      ],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "0eafcd828b31b6bd",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Arrecadação federal soma R$ 239,384 bilhões em setembro, alta real de 5,62%",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/arrecadacao-federal-soma-r-239-384-bilhoes-em-setembro-alta-real-de-5-62",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "c584f2b97b17c2eb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio denuncia Lula ao TSE e pede cassação por abuso nas redes",
+      "link": "https://www.congressoemfoco.com.br/noticia/123568/flavio-denuncia-lula-ao-tse-e-pede-cassacao-por-abuso-nas-redes",
+      "resumo": "Campanha do senador acusa governo e PT de financiar propaganda digital irregular e de coordenar publicações para ampliar alcance eleitoral.",
+      "publicado_em": "2026-10-23T14:36:58-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "fb07d1615867e4d9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O espaço concedido aos policiais nas propostas de governo",
+      "link": "https://www.congressoemfoco.com.br/artigo/123566/o-espaco-concedido-aos-policiais-nas-propostas-de-governo",
+      "resumo": "Propostas de Lula e Flávio Bolsonaro para combater a criminalidade precisam incluir melhores condições de trabalho, jornadas adequadas, assistência à saúde mental e proteção às famílias dos agentes.",
+      "publicado_em": "2026-10-23T14:23:59-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "13bce1dca1c645b8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "2º turno: O que dizem pesquisas que mais se aproximaram no 1º turno?",
+      "link": "https://www.congressoemfoco.com.br/noticia/123563/2-turno-o-que-dizem-pesquisas-que-mais-se-aproximaram-no-1-turno",
+      "resumo": "Quatro dos cinco institutos que apontaram Flávio à frente no primeiro turno mantêm o senador na liderança numérica; Vox Brasil indica vantagem de Lula.",
+      "publicado_em": "2026-10-23T13:38:09-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "94d62883c56b6c3e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governo prepara perdão às dívidas de empresas de eventos no Simples",
+      "link": "https://www.congressoemfoco.com.br/noticia/123561/governo-prepara-perdao-as-dividas-de-empresas-de-eventos-no-simples",
+      "resumo": "Ministro Paulo Pereira anunciou proposta para regularizar débitos de bares, restaurantes e outros pequenos negócios do setor de eventos.",
+      "publicado_em": "2026-10-23T13:09:11-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "eb48591d616fab46",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A eleição que já aconteceu",
+      "link": "https://www.congressoemfoco.com.br/artigo/123560/a-eleicao-que-ja-aconteceu",
+      "resumo": "Escassez de confrontos entre Lula e Flávio Bolsonaro transforma a campanha em uma disputa de imagens e provocações, reduzindo o espaço para propostas e para o convencimento dos eleitores indecisos.",
+      "publicado_em": "2026-10-23T12:45:47-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "384687e2f45a09e7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "OAB quer participação de outros órgãos na escolha de ministros do STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/123559/oab-quer-participacao-de-outros-orgaos-na-escolha-de-ministros-do-stf",
+      "resumo": "Entidade defende vagas cuja indicação não seja exclusiva da Presidência e cita modelo de composição plural do CNJ.",
+      "publicado_em": "2026-10-23T12:37:59-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "oab"
+      ],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "1904b6cf16adc07e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sigilo pessoal de Roberta Luchsinger não foi pedido e nem entregue",
+      "link": "https://www.congressoemfoco.com.br/noticia/123558/campanha-de-lula-nao-entregou-sigilos-pessoais-de-roberta-luchsinger",
+      "resumo": "Dados da empresária sequer entraram na discussão; informações solicitadas por Flávio têm relação apenas ao uso da máquina pública.",
+      "publicado_em": "2026-10-23T12:14:18-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
       "id": "0217b7ee35a80133",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -547,6 +804,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "409a3e63dca95496",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan reafirma elogio a Janones após resgate de tweet: \"será estudado\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123554/renan-reafirma-elogio-a-janones-apos-resgate-de-tweet--sera-estudado",
+      "resumo": "Ex-candidato à Presidência destaca atuação do deputado na campanha petista e recupera publicação de 2021 em que chamava Lula de obsoleto.",
+      "publicado_em": "2026-10-23T11:49:27-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
     },
     {
       "id": "594d84188a0c79fd",
@@ -795,6 +1068,52 @@
         "adi"
       ],
       "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "6eaac905dfd63d5d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria recuperação judicial simplificada para pequenas dívidas",
+      "link": "https://www.camara.leg.br/noticias/1300663-projeto-cria-recuperacao-judicial-simplificada-para-pequenas-dividas",
+      "resumo": "",
+      "publicado_em": "2026-10-23T14:14:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "recuperacao judicial",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "c618f195fb24d27f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria Rede Nacional de Proteção e Defesa dos Direitos Humanos das Pessoas Idosas",
+      "link": "https://www.camara.leg.br/noticias/1310180-projeto-cria-rede-nacional-de-protecao-e-defesa-dos-direitos-humanos-das-pessoas-idosas",
+      "resumo": "",
+      "publicado_em": "2026-10-23T13:30:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "f7dbedee7e4d9fdc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto reconhece cultivo de café como opção para reflorestamento na Amazônia Legal",
+      "link": "https://www.camara.leg.br/noticias/1309995-projeto-reconhece-cultivo-de-cafe-como-opcao-para-reflorestamento-na-amazonia-legal",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:59:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
     },
     {
       "id": "5cdbc80982858216",
