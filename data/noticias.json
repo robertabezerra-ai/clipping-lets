@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-22T19:53:00-03:00",
+  "gerado_em": "2026-10-23T12:38:43-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 19,
+      "erro": null
     },
     {
       "id": "cade",
@@ -250,6 +250,657 @@
     }
   ],
   "noticias": [
+    {
+      "id": "e8bb4db35f5a35a1",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Planejamento estratégico da Justiça do Trabalho até 2032 é tema de oficina em Brasília-DF",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/planejamento-estrategico-da-justica-do-trabalho-ate-2032-e-tema-de-oficina-em-brasilia-df",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "23cde3e54359d732",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "DEJT e  Malote Digital: verifique se seus dados foram acessados indevidamente",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/dejt-e-malote-digital-verifique-se-seus-dados-foram-acessados-indevidamente",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "05f8bf0e99f9b90a",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira os destaques do Plenário Virtual desta semana",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-desta-semana-5/",
+      "resumo": "Sessão virtual começou às 11h desta sexta-feira (23) e vai até as 23h59 de 3/11",
+      "publicado_em": "2026-10-23T11:00:57-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "030564398e303b93",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "‘Direito sem Juridiquês’: o que significa trânsito em julgado?",
+      "link": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-o-que-significa-transito-em-julgado/",
+      "resumo": "Novo episódio da série já está disponível no canal do STF no YouTube",
+      "publicado_em": "2026-10-23T10:00:43-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "julga"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "080813901de7f46b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Código Eleitoral restringe prisão de eleitores até terça-feira",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/codigo-eleitoral-restringe-prisao-de-eleitores-ate-terca-feira",
+      "resumo": "",
+      "publicado_em": "2026-10-23T10:41:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "019ee81f7c6a97b6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto impede que Fundo Constitucional do Distrito Federal sofra restrições",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-impede-que-fundo-constitucional-do-distrito-federal-sofra-restricoes",
+      "resumo": "",
+      "publicado_em": "2026-10-23T10:12:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "83676a96c0d44990",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado analisa projeto sobre violação virtual de domicílio e intimidade",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senado-analisa-projeto-sobre-violacao-virtual-de-domicilio-e-intimidade",
+      "resumo": "",
+      "publicado_em": "2026-10-23T09:30:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "197e9f2ff89e840c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "TSE oferece assistente virtual aos tribunais regionais para orientar eleitores",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/tse-oferece-assistente-virtual-aos-tribunais-regionais-para-orientar-eleitores",
+      "resumo": "",
+      "publicado_em": "2026-10-23T09:09:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "038d658352454c89",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sessão especial vai celebrar 30 anos do Coral do Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/sessao-especial-vai-celebrar-30-anos-do-coral-do-senado",
+      "resumo": "",
+      "publicado_em": "2026-10-23T08:46:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "354f8115aed0c3c0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto de lei cria Dia Nacional da Limpeza",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-de-lei-cria-dia-nacional-da-limpeza",
+      "resumo": "",
+      "publicado_em": "2026-10-23T08:37:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "5350a1650338d9ce",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Novas medidas simplificam obrigações da Reforma Tributária para nanoempreendedores e MEIs",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/novas-medidas-simplificam-obrigacoes-da-reforma-tributaria-para-nanoempreendedores-e-meis",
+      "resumo": "",
+      "publicado_em": "2026-10-23T08:36:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "487abdf4965caa8a",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "PGFN lança edital para negociar dívidas de FGTS e contribuições sociais de até R$ 45 mi",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/pgfn-lanca-edital-para-negociar-dividas-de-fgts-e-contribuicoes-sociais-de-ate-r-45-mi",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "fgts"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "9afa487abeb678cf",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Prévia da inflação de outubro é menor, com queda de preços de água e luz",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/previa-da-inflacao-de-outubro-e-menor-com-queda-de-precos-de-agua-e-luz",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:25:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "49b7d800c4c2348a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polícia Federal apura crimes contra indígenas em Mato Grosso",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-apura-crimes-contra-indigenas-em-mato-grosso",
+      "resumo": "",
+      "publicado_em": "2026-10-23T11:10:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "c42b83e4741ceb3f",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Veículos da EBC realizam ampla cobertura do segundo turno das Eleições 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/veiculos-da-ebc-realizam-ampla-cobertura-do-segundo-turno-das-eleicoes-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-23T10:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "bb1a97f9da0a340f",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Novas medidas simplificam obrigações da reforma tributária para MEIs e nanoempreendedores",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/novas-medidas-simplificam-obrigacoes-da-reforma-tributaria-para-nanoempreendedores-e-meis",
+      "resumo": "",
+      "publicado_em": "2026-10-23T08:36:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "fc0ce95fb63033c0",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Saúde: osteoporose pode evoluir sem sintomas e aumentar o risco de fraturas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/osteoporose-pode-evoluir-sem-sintomas-e-aumentar-o-risco-de-fraturas",
+      "resumo": "",
+      "publicado_em": "2026-10-23T06:10:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "7294e5533a414125",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Novas medidas simplificam obrigações da Reforma Tributária para nanoempreendedores e MEIs",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/novas-medidas-simplificam-obrigacoes-da-reforma-tributaria-para-nanoempreendedores-e-meis",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "reforma tributaria"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "0217b7ee35a80133",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pollon comandará política de armas em eventual governo de Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123556/pollon-comandara-politica-de-armas-em-eventual-governo-de-flavio",
+      "resumo": "Deputado, que defende mudanças nas regras para armas e CACs, ajudará a discutir a legislação do setor na transição.",
+      "publicado_em": "2026-10-23T11:56:14-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "48e8f0d7e7505315",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deltan vai ao TSE e cobra acesso a documentos de Lula: \"não tem nada\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123555/deltan-vai-ao-tse-e-cobra-acesso-a-documentos-de-lula--nao-tem-nada",
+      "resumo": "Senador eleito foi escalado pela equipe de Flávio para analisar a documentação apresentada pelo lado petista.",
+      "publicado_em": "2026-10-23T11:54:11-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "594d84188a0c79fd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Camilo acusa Flávio de descumprir acordo sobre sigilos: \"fugiu\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123553/camilo-acusa-flavio-de-descumprir-acordo-sobre-sigilos--fugiu",
+      "resumo": "Segundo o coordenador da campanha de Lula, o candidato teria apresentado procurações que condicionariam o acesso a informações a uma decisão judicial.",
+      "publicado_em": "2026-10-23T11:34:47-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "decisao",
+        "judicial"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "add7ebe8725cd592",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bandido bom é bandido recuperado",
+      "link": "https://www.congressoemfoco.com.br/artigo/123551/bandido-bom-e-bandido-recuperado",
+      "resumo": "Com quatro em cada dez presos retornando ao sistema penitenciário em até cinco anos, investir em educação, trabalho e reintegração social pode ajudar a reduzir a reincidência criminal.",
+      "publicado_em": "2026-10-23T11:09:18-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "fa9ceff3cce28ca4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cueva cobra esclarecimentos da Meta sobre favorecimento a Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123549/cueva-cobra-esclarecimentos-da-meta-sobre-favorecimento-a-flavio",
+      "resumo": "Meta e X terão 24 horas para explicar critérios de alcance de perfis ligados a Flávio e possíveis diferenças no tratamento eleitoral.",
+      "publicado_em": "2026-10-23T10:42:05-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "ae848e8f0e382f6c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A agenda da reforma administrativa esqueceu quem vai implementá-la",
+      "link": "https://www.congressoemfoco.com.br/artigo/123548/a-agenda-da-reforma-administrativa-esqueceu-quem-vai-implementa-la",
+      "resumo": "Novas exigências de planejamento, avaliação e desempenho dependem da capacitação dos servidores e do fortalecimento das escolas de governo para produzir resultados concretos.",
+      "publicado_em": "2026-10-23T10:31:57-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "9ea9111f71ca4ce4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE mantém propaganda de Flávio que critica economia do governo Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/123547/tse-mantem-propaganda-de-flavio-que-critica-economia-do-governo-lula",
+      "resumo": "Para Estela Aranha, propaganda utiliza críticas políticas permitidas pela legislação eleitoral, sem demonstração de falsidade manifesta.",
+      "publicado_em": "2026-10-23T10:14:11-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "e21e4e985b98e628",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Estela Aranha mantém peça de Lula que liga Flávio a cortes sociais",
+      "link": "https://www.congressoemfoco.com.br/noticia/123546/estela-aranha-mantem-peca-de-lula-que-liga-flavio-a-cortes-sociais",
+      "resumo": "Processo questiona conteúdo veiculado no horário eleitoral gratuito em bloco de rádio no dia 17 de outubro, nos períodos da manhã e da tarde.",
+      "publicado_em": "2026-10-23T10:13:35-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "processo"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "bf71f29858bf2612",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Campanha de Flávio peticiona no TSE para liberação de sigilos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123545/campanha-de-flavio-peticiona-no-tse-para-liberacao-de-sigilos",
+      "resumo": "Equipe do senador entregou autorizações para divulgação de informações bancárias, fiscais e telefônicas, depois do prazo previsto no acordo.",
+      "publicado_em": "2026-10-23T09:48:08-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "2bf607da5b422035",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Motta comemora primeira aplicação da Lei Antifacção contra PCC e CV",
+      "link": "https://www.congressoemfoco.com.br/noticia/123544/motta-comemora-primeira-aplicacao-da-lei-antifaccao-contra-pcc-e-cv",
+      "resumo": "Presidente da Câmara destaca ações judiciais para confiscar R$ 190,3 milhões em bens ligados ao crime organizado.",
+      "publicado_em": "2026-10-23T09:07:56-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "36e1e5927bc60438",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Saiba quais pesquisas chegaram mais perto ou acertaram no 1º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123543/saiba-quais-pesquisas-chegaram-mais-perto-ou-acertaram-no-1-turno",
+      "resumo": "Levantamento compara a diferença entre Flávio e Lula em 15 pesquisas nacionais. Cinco apontaram vantagem do senador e dez indicaram o presidente à frente.",
+      "publicado_em": "2026-10-23T08:53:03-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "ab7d134b15c7dd60",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Corregedor do TSE rejeita ação de Flávio contra mensagens do Gov.br",
+      "link": "https://www.congressoemfoco.com.br/noticia/123542/corregedor-do-tse-rejeita-acao-de-flavio-contra-mensagens-do-gov-br",
+      "resumo": "Ministro não identificou indícios suficientes de favorecimento eleitoral e manteve investigação sobre suposto abuso de poder.",
+      "publicado_em": "2026-10-23T08:30:58-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "4eaba2c1049bf6e6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Boulos diz que Flávio não levou documentos ao TSE até 23:59: \"fugiu\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123541/boulos-diz-que-flavio-nao-levou-documentos-ao-tse-ate-23-59--fugiu",
+      "resumo": "Ministro afirma que Lula cumpriu o prazo estabelecido e critica adversário pela demora na entrega.",
+      "publicado_em": "2026-10-23T08:12:48-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "417d833fc8f77bec",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vox Brasil: Lula tem 50,6% e Flávio, 49,4% dos votos válidos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123540/vox-brasil-lula-tem-50-6-e-flavio-49-4-dos-votos-validos",
+      "resumo": "A dois dias do segundo turno, presidente aparece numericamente à frente de senador, mas candidatos seguem empatados dentro da margem de erro.",
+      "publicado_em": "2026-10-23T07:42:06-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "e1cb7fc819eac47e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas diz que pode disputar presidência em 2031 se aumentar mandato",
+      "link": "https://www.congressoemfoco.com.br/noticia/123539/nikolas-diz-que-pode-disputar-presidencia-em-2031-se-aumentar-mandato",
+      "resumo": "Mudança nas regras eleitorais poderia permitir que deputado disputasse a Presidência após eventual mandato de Flávio Bolsonaro.",
+      "publicado_em": "2026-10-23T07:32:36-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "5aa1c3117426f39d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio tem 52% e Lula, 48%, em nova pesquisa Real Time Big Data",
+      "link": "https://www.congressoemfoco.com.br/noticia/123537/flavio-tem-52-e-lula-48--em-nova-pesquisa-real-time-big-data",
+      "resumo": "A dois dias do segundo turno, candidatos seguem empatados no limite da margem de erro. Levantamento mostra estabilidade nos votos válidos e 95% dos eleitores com voto definido.",
+      "publicado_em": "2026-10-23T07:18:31-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "b9399c5b7d7b93cc",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Projeto de acessibilidade do TJCE leva júri simulado com audiodescrição a alunos de Fortaleza",
+      "link": "https://www.cnj.jus.br/projeto-de-acessibilidade-do-tjce-leva-juri-simulado-com-audiodescricao-a-alunos-de-fortaleza/",
+      "resumo": "O Tribunal de Justiça do Ceará (TJCE) realizou, nesta terça-feira (20/10), mais uma etapa do projeto Justiça de Olhos Abertos. Desta vez, a iniciativa levou uma sessão de júri simulado para a Escola Estadual de Ensino Médio em Tempo Integral Instituto dos Cegos, situada no bairro Antônio Bezerra, em",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "b0e800e263b8b364",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Tribunal de Justiça de Goiás lança cartilha para fortalecer adoção e diversidade familiar",
+      "link": "https://www.cnj.jus.br/tribunal-de-justica-de-goias-lanca-cartilha-para-fortalecer-adocao-e-diversidade-familiar/",
+      "resumo": "O Tribunal de Justiça do Estado de Goiás (TJGO) lançou, nesta quinta-feira (22), no auditório da Unialfa, em Goiânia, a cartilha Família, no plural: adoção e diversidade LGBTQIAPN+. Desenvolvido em parceria com instituições como a Unialfa, a Fadisp e comitês internos do TJGO, o material tem como obj",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "5cdbc80982858216",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Governo vai apresentar projeto de lei para perdoar dívidas dos setores de eventos, bares e restaurantes",
+      "link": "https://www.camara.leg.br/noticias/1313433-governo-vai-apresentar-projeto-de-lei-para-perdoar-dividas-dos-setores-de-eventos-bares-e-restaurantes",
+      "resumo": "",
+      "publicado_em": "2026-10-23T11:35:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "1abef7eea77d069f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto amplia para 60 dias o período de propaganda eleitoral",
+      "link": "https://www.camara.leg.br/noticias/1311968-projeto-amplia-para-60-dias-o-periodo-de-propaganda-eleitoral",
+      "resumo": "",
+      "publicado_em": "2026-10-23T10:43:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "95d959300498e5e4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Saúde debate regulamentação da avaliação biopsicossocial para pessoas com diabetes",
+      "link": "https://www.camara.leg.br/noticias/1313407-comissao-de-saude-debate-regulamentacao-da-avaliacao-biopsicossocial-para-pessoas-com-diabetes",
+      "resumo": "",
+      "publicado_em": "2026-10-23T10:18:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "2d06adc4c79dd285",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Famílias relatam dificuldades nas investigações sobre crianças desaparecidas",
+      "link": "https://www.camara.leg.br/noticias/1313398-familias-relatam-dificuldades-nas-investigacoes-sobre-criancas-desaparecidas",
+      "resumo": "",
+      "publicado_em": "2026-10-23T09:36:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "294d20f1e00eeb2c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política de fiscalização aérea remota para combater maus-tratos a animais",
+      "link": "https://www.camara.leg.br/noticias/1310176-projeto-cria-politica-de-fiscalizacao-aerea-remota-para-combater-maus-tratos-a-animais",
+      "resumo": "",
+      "publicado_em": "2026-10-23T09:32:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "8b31405e6df654de",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Além do segundo turno, algumas cidades terão eleições suplementares neste domingo",
+      "link": "https://www.camara.leg.br/noticias/1313386-alem-do-segundo-turno-algumas-cidades-terao-eleicoes-suplementares-neste-domingo",
+      "resumo": "",
+      "publicado_em": "2026-10-23T08:24:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "34f288f166bc007e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política de saúde mental na educação básica",
+      "link": "https://www.camara.leg.br/noticias/1312271-projeto-cria-politica-de-saude-mental-na-educacao-basica",
+      "resumo": "",
+      "publicado_em": "2026-10-23T07:48:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
     {
       "id": "0945195125345714",
       "fonte_id": "trt2",
@@ -1247,6 +1898,20 @@
       "coletado_em": "2026-10-22T15:11:59-03:00"
     },
     {
+      "id": "ffbcbe52989c36a4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O que Flávio Bolsonaro promete fazer se for eleito presidente",
+      "link": "https://www.congressoemfoco.com.br/noticia/123522/o-que-flavio-bolsonaro-promete-fazer-se-for-eleito-presidente",
+      "resumo": "Programa prevê redução da maioridade penal, expansão dos presídios, revisão das regras fiscais, reforma administrativa e mudanças no STF.",
+      "publicado_em": "2026-10-22T14:12:24-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
       "id": "96489a1c5ca8d12d",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1261,6 +1926,23 @@
       "coletado_em": "2026-10-22T15:11:59-03:00"
     },
     {
+      "id": "beddda482b3a3632",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O que Lula promete fazer se for reeleito presidente",
+      "link": "https://www.congressoemfoco.com.br/noticia/123519/o-que-lula-promete-fazer-se-for-reeleito-presidente",
+      "resumo": "Programa prevê novo Ministério da Segurança, regulamentação de aplicativos, ampliação do SUS e mudanças no financiamento da Previdência.",
+      "publicado_em": "2026-10-22T13:35:59-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
       "id": "c4a5574c271a6779",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1273,6 +1955,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "67f45d585ccf2b61",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula x Flávio: Veja as diferenças entre os planos de governo",
+      "link": "https://www.congressoemfoco.com.br/noticia/123516/lula-x-flavio-veja-as-diferencas-entre-os-planos-de-governo",
+      "resumo": "Da segurança aos impostos, programas apresentam medidas distintas para trabalho, saúde, Previdência, meio ambiente e organização do Estado.",
+      "publicado_em": "2026-10-22T13:27:09-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
     },
     {
       "id": "e386b341b3f68457",
@@ -1600,7 +2299,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Conecta leva assistente de IA e central de ferramentas a magistrados e servidores de todo o país",
       "link": "https://www.cnj.jus.br/conecta-leva-assistente-de-ia-e-central-de-ferramentas-a-magistrados-e-servidores-de-todo-o-pais/",
-      "resumo": "Tribunais brasileiros contam com duas novas ferramentas para apoiar as atividades diárias de magistradas, magistrados, servidoras e servidores de todos os ramos da Justiça. Nesta quinta-feira (22/10), o Conecta tornou nacionais as soluções Mecanismo Artificial Inteligente de Apoio à Justiça (MAIA), ",
+      "resumo": "Tribunais brasileiros contam com duas novas ferramentas para apoiar as atividades diárias de magistradas, magistrados, servidoras e servidores de todos os ramos da Justiça. Nesta quinta-feira (22/10), o Conecta tornou nacionais as soluções Mecanismo Artificial Inteligente de Apoio à Justiça (Maia), ",
       "publicado_em": "2026-10-22T12:00:00-03:00",
       "dia": "2026-10-22",
       "data_estimada": true,
@@ -1623,6 +2322,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
+      "id": "515da4d961e331b2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Violência contra a mulher: integração de sistemas aceleram expedição de medidas protetivas",
+      "link": "https://www.cnj.jus.br/violencia-contra-a-mulher-integracao-de-sistemas-aceleram-expedicao-de-medidas-protetivas/",
+      "resumo": "A integração entre os sistemas da Justiça e da Segurança Pública pode contribuir para oferecer mais velocidade e efetividade no enfrentamento à violência contra a mulher. Esse é o resultado registrado pelo Tribunal de Justiça de Mato Grosso do Sul (TJMS), que reduziu o tempo de resposta das medidas ",
+      "publicado_em": "2026-10-22T12:00:00-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
     },
     {
       "id": "b1d89e37635e9962",
@@ -2990,6 +3705,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-21T16:54:58-03:00"
+    },
+    {
+      "id": "8edd4702e12bdf4e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Saiba como acompanhar a apuração do segundo turno em tempo real",
+      "link": "https://www.congressoemfoco.com.br/noticia/123475/saiba-como-acompanhar-a-apuracao-do-segundo-turno-em-tempo-real",
+      "resumo": "Ferramenta reúne os dados da contagem de votos realizada pela Justiça Eleitoral e atualiza as informações conforme os dados são lançados pelo TSE.",
+      "publicado_em": "2026-10-21T15:41:56-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T12:38:43-03:00"
     },
     {
       "id": "bf0e682e08540f5a",
@@ -95051,53 +95782,6 @@
       "resumo": "ANPD é a primeira autoridade reguladora da América do Sul a integrar a GOSRN, ampliando a cooperação internacional para a proteção de direitos na internet",
       "publicado_em": "2026-07-27T10:07:23-03:00",
       "dia": "2026-07-27",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "af4081d14f73d84a",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Iniciativa do TRT-2 promove cidadania e aproxima jovens do Poder Judiciário",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/iniciativa-do-trt-2-promove-cidadania-e-aproxima-jovens-do-poder-judiciario",
-      "resumo": "",
-      "publicado_em": "2026-07-24T12:00:00-03:00",
-      "dia": "2026-07-24",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "0f6bd5a1d1b5790f",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "TRT-2 divulga orientações para tramitação de processos sobre pejotização",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-divulga-orientacoes-para-tramitacao-de-processos-sobre-pejotizacao",
-      "resumo": "",
-      "publicado_em": "2026-07-24T12:00:00-03:00",
-      "dia": "2026-07-24",
-      "data_estimada": true,
-      "score": 52,
-      "tags": [
-        "processo",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "81e89764ad927a43",
-      "fonte_id": "bacen",
-      "fonte_nome": "Bacen",
-      "titulo": "FMI e Banco Mundial reconhecem avanços do sistema financeiro e apontam agenda para fortalecer supervisão",
-      "link": "https://www.bcb.gov.br/detalhenoticia/21208/nota",
-      "resumo": "Avaliação conclui que sistema financeiro brasileiro permanece resiliente a choques severos. FMI destaca avanços do Pix, da digitalização e da concorrência no setor financeiro.",
-      "publicado_em": "2026-07-24T16:10:25-03:00",
-      "dia": "2026-07-24",
       "data_estimada": false,
       "score": 46,
       "tags": [
