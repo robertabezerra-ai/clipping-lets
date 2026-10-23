@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-23T16:46:06-03:00",
+  "gerado_em": "2026-10-23T19:45:33-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -391,6 +391,38 @@
       "coletado_em": "2026-10-23T16:46:06-03:00"
     },
     {
+      "id": "4915b379deaa5225",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Instituições firmam acordo para implantação de centro de atendimento a crianças e adolescentes vítimas de violência",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115821&pagina=1",
+      "resumo": "TJSP, Prefeitura de São Caetano e Childhood Brasil.\n \n\tO Tribunal de Justiça de São Paulo, a Prefeitura de São Caetano do Sul e a Childhood",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T19:45:33-03:00"
+    },
+    {
+      "id": "e0cd1c23e8152fb6",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Estudantes do projeto Constituição nas Escolas visitam Palácio da Justiça",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115825&pagina=1",
+      "resumo": "Profissionais do sistema de Justiça realizam iniciativa.\n \n\tO Tribunal de Justiça de São Paulo recebeu, hoje (23), estudantes do ensino médio da rede pública que",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-23T19:45:33-03:00"
+    },
+    {
       "id": "09574cb7fed29d8f",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -451,6 +483,34 @@
         "julga"
       ],
       "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "a6c6eef2a49c82bb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Biossegurança: projeto traz regras para reduzir riscos em laboratórios",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/biosseguranca-projeto-traz-regras-para-reduzir-riscos-em-laboratorios",
+      "resumo": "",
+      "publicado_em": "2026-10-23T17:44:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T19:45:33-03:00"
+    },
+    {
+      "id": "2ca7d1c5c0ff9018",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado faz debate sobre fraudes em contratos administrativos na área de saúde",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/23/senado-faz-debate-sobre-fraudes-em-contratos-administrativos-na-area-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-10-23T17:05:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T19:45:33-03:00"
     },
     {
       "id": "818f4c6a2711ea5f",
@@ -765,6 +825,20 @@
       "coletado_em": "2026-10-23T16:46:06-03:00"
     },
     {
+      "id": "e4badc1c414ce7ae",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon notifica empresas sobre estrutura de shows do BTS em São Paulo",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-notifica-empresas-sobre-estrutura-de-shows-do-bts-em-sao-paulo",
+      "resumo": "",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T19:45:33-03:00"
+    },
+    {
       "id": "0bacf87ee062a620",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -913,6 +987,84 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "51564a0f7edc3ff5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Canal \"Exército do Lula\" bate 10 milhões de seguidores no WhatsApp",
+      "link": "https://www.congressoemfoco.com.br/noticia/123584/canal-exercito-do-lula-bate-10-milhoes-de-seguidores-no-whatsapp",
+      "resumo": "Número representa uma forte aceleração da mobilização digital promovida pela campanha petista nos últimos dias e foi alcançado horas antes do último debate entre os candidatos.",
+      "publicado_em": "2026-10-23T17:53:31-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T19:45:33-03:00"
+    },
+    {
+      "id": "43d98b6935dd64d6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mendonça rejeita novo pedido sobre quebra de sigilos de Lula e Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123583/mendonca-rejeita-novo-pedido-sobre-quebra-de-sigilos-de-lula-e-flavio",
+      "resumo": "Ministro do TSE diz que candidatos devem abrir dados \"sem subterfúgios\".",
+      "publicado_em": "2026-10-23T17:38:18-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-23T19:45:33-03:00"
+    },
+    {
+      "id": "e21bc2578941980f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A Seguridade Social é a alma da nação brasileira",
+      "link": "https://www.congressoemfoco.com.br/artigo/123582/a-seguridade-social-e-a-alma-da-nacao-brasileira",
+      "resumo": "A Seguridade Social é a veia por onde trafega as nossas esperanças para que a Nação brasileira saia do vale sombrio e desolado da pobreza, marginalização e desigualdade social para o caminho ensolarado da justiça social.",
+      "publicado_em": "2026-10-23T17:23:37-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T19:45:33-03:00"
+    },
+    {
+      "id": "7decdb61abce6826",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gilmar rejeita ação de Gaspar contra Soraya por acusação de estupro",
+      "link": "https://www.congressoemfoco.com.br/noticia/123580/gilmar-rejeita-acao-de-gaspar-contra-soraya-por-acusacao-de-estupro",
+      "resumo": "Ação teve origem em um confronto ocorrido em 27 de março de 2026, durante a 38ª reunião da CPMI do INSS.",
+      "publicado_em": "2026-10-23T17:10:25-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T19:45:33-03:00"
+    },
+    {
+      "id": "055a73b6db295ba6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "As duas leituras da disputa entre Lula e Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123579/as-duas-leituras-da-disputa-entre-lula-e-flavio",
+      "resumo": "O voto bolsonarista que pode estar subestimado e a recuperação de Lula oferecem caminhos distintos para o resultado de domingo.",
+      "publicado_em": "2026-10-23T16:40:33-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-23T19:45:33-03:00"
     },
     {
       "id": "5b542c67825918da",
@@ -1449,7 +1601,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Conselheiro do CNJ participa de lançamento de cartilha sobre adoção e diversidade familiar em Goiás",
       "link": "https://www.cnj.jus.br/conselheiro-do-cnj-participa-de-lancamento-de-cartilha-sobre-adocao-e-diversidade-familiar-em-goias/",
-      "resumo": "O conselheiro Fabio Esteves, do Conselho Nacional de Justiça (CNJ), participou, nesta quinta-feira (22), do lançamento oficial da cartilha “Família, no plural: adoção e diversidade LGBTQIAPN+”, realizado pelo Tribunal de Justiça do Estado de Goiás (TJGO) no auditório da Unialfa, em Goiânia.  O mater",
+      "resumo": "O conselheiro Fabio Esteves, do Conselho Nacional de Justiça (CNJ), participou, nesta quinta-feira (22), do lançamento oficial da cartilha “Família, no Plural: adoção e diversidade LGBTQIAPN+”, realizado pelo Tribunal de Justiça do Estado de Goiás (TJGO) no auditório da Unialfa, em Goiânia. O materi",
       "publicado_em": "2026-10-23T12:00:00-03:00",
       "dia": "2026-10-23",
       "data_estimada": true,
