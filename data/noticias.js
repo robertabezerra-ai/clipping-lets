@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-23T19:45:33-03:00",
+  "gerado_em": "2026-10-24T11:15:50-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,67 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "a9a0b5c8c160b91a",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Justiça autoriza processamento de recuperação extrajudicial da Ri Happy",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115833&pagina=1",
+      "resumo": "Prazo de 90 dias para adesão da maioria dos credores.\n \n\tA 2ª Vara de Falências e Recuperações Judiciais da Capital deferiu, nesta sexta-feira (23), o",
+      "publicado_em": "2026-10-24T12:00:00-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "prazo",
+        "falencia",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
+      "id": "14fbddef9892cd27",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula e Flávio encerram campanha com atos em SP, MG e RJ neste sábado",
+      "link": "https://www.congressoemfoco.com.br/noticia/123592/lula-e-flavio-encerram-campanha-com-atos-em-sp-mg-e-rj-neste-sabado",
+      "resumo": "Candidatos concentram últimos compromissos nos três maiores colégios eleitorais do país, na véspera do segundo turno.",
+      "publicado_em": "2026-10-24T10:40:34-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
+      "id": "b8f08f42988f415e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eduardo fala em fuzileiros e defende que Flávio deixe o país se perder",
+      "link": "https://www.congressoemfoco.com.br/noticia/123591/eduardo-fala-em-fuzileiros-e-defende-que-flavio-deixe-o-pais-se-perder",
+      "resumo": "Em podcast nos Estados Unidos, ex-deputado também questionou a segurança das urnas eletrônicas e alegou risco de investigações contra o irmão.",
+      "publicado_em": "2026-10-24T09:49:29-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
+      "id": "9eb0a662223467c3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio tem 51,4% dos votos válidos; Lula, 48,6%, diz Instituto França",
+      "link": "https://www.congressoemfoco.com.br/noticia/123590/flavio-tem-51-4-dos-votos-validos-lula-48-6--diz-instituto-franca",
+      "resumo": "Com margem de erro de 2,5 pontos percentuais, levantamento aponta disputa equilibrada pela Presidência.",
+      "publicado_em": "2026-10-24T09:13:01-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
       "id": "e8bb4db35f5a35a1",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -421,6 +482,22 @@ window.DADOS = {
         "visita"
       ],
       "coletado_em": "2026-10-23T19:45:33-03:00"
+    },
+    {
+      "id": "a9ec892b8ce38eed",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF rejeita pedido para liberar gratuidade em transporte interestadual  no segundo turno das eleições",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-pedido-para-liberar-gratuidade-em-transporte-interestadual-no-segundo-turno-das-eleicoes/",
+      "resumo": "Ministra Cármen Lúcia considerou que o pedido buscava ampliar entendimento do STF sobre gratuidade do transporte municipal e intermunicipal, sem trazer elementos nem ponderar consequências da decisão",
+      "publicado_em": "2026-10-23T20:12:14-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
     },
     {
       "id": "09574cb7fed29d8f",
@@ -989,6 +1066,82 @@ window.DADOS = {
       "coletado_em": "2026-10-23T16:46:06-03:00"
     },
     {
+      "id": "0a21647fcd9b8863",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula cobra Flávio sobre SUS e relembra mortes durante a pandemia",
+      "link": "https://www.congressoemfoco.com.br/noticia/123589/lula-cobra-flavio-sobre-sus-e-relembra-mortes-durante-a-pandemia",
+      "resumo": "Presidente critica gestão de Jair Bolsonaro na crise sanitária; senador nega cortes na saúde e promete ampliar investimentos no setor.",
+      "publicado_em": "2026-10-23T23:46:13-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
+      "id": "7390f320f8de079e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes determinou bloqueio de bens e quebra de sigilos de Willer Tomaz",
+      "link": "https://www.congressoemfoco.com.br/noticia/123588/moraes-determinou-bloqueio-de-bens-e-quebra-de-sigilos-de-willer-tomaz",
+      "resumo": "Além das medidas financeiras, ministro determinou o cancelamento dos passaportes do advogado.",
+      "publicado_em": "2026-10-23T23:30:53-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "advogado"
+      ],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
+      "id": "07d92b579cc4aa57",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula e Flávio discutem obras e avanço do crime organizado no Nordeste",
+      "link": "https://www.congressoemfoco.com.br/noticia/123587/lula-e-flavio-discutem-obras-e-avanco-do-crime-organizado-no-nordeste",
+      "resumo": "Presidente destacou investimentos de seus governos, enquanto senador acusou Lula e governadores aliados de permitir a expansão de facções criminosas.",
+      "publicado_em": "2026-10-23T23:13:01-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
+      "id": "c367795a5674c065",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Corregedor barra recomendação de posts eleitorais de Nikolas e Marçal",
+      "link": "https://www.congressoemfoco.com.br/noticia/123586/corregedor-barra-recomendacao-de-posts-eleitorais-de-nikolas-e-marcal",
+      "resumo": "Ministro do TSE também determina que Meta e X apresentem relatórios a cada seis horas e prevê multas de até R$ 500 mil.",
+      "publicado_em": "2026-10-23T22:55:41-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 36,
+      "tags": [
+        "multa",
+        "acao",
+        "comenda"
+      ],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
+      "id": "b8e86ce446e6acee",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio diz que terá mesmo trabalho de Milei para recuperar economia",
+      "link": "https://www.congressoemfoco.com.br/noticia/123585/flavio-diz-que-tera-mesmo-trabalho-de-milei-para-recuperar-economia",
+      "resumo": "Em debate na Globo, senador acusou Lula de deixar o Brasil \"quebrado\" e criticou o preço dos alimentos e os gastos públicos.",
+      "publicado_em": "2026-10-23T22:16:08-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
       "id": "51564a0f7edc3ff5",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1134,6 +1287,20 @@ window.DADOS = {
       "coletado_em": "2026-10-23T16:46:06-03:00"
     },
     {
+      "id": "57c758ffd558696a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Campanha e dívida dos Estados: o caso de Minas (II)",
+      "link": "https://www.congressoemfoco.com.br/coluna/123572/campanha-e-divida-dos-estados-o-caso-de-minas-ii",
+      "resumo": "Com condições de pagamento já revistas pelo governo federal, o próximo governador terá de enfrentar o desequilíbrio das contas públicas, controlar despesas e recuperar a capacidade de investimento do Estado.",
+      "publicado_em": "2026-10-23T15:28:46-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
       "id": "98f6805e687c8b62",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1195,6 +1362,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "5cb4b4fd886521d2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veja os destaques do último debate presidencial entre Lula e Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123567/veja-os-destaques-do-ultimo-debate-presidencial-entre-lula-e-flavio",
+      "resumo": "Encontro ocorre a dois dias da votação que definirá o presidente da República pelos próximos quatro anos.",
+      "publicado_em": "2026-10-23T14:34:12-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
     },
     {
       "id": "fb07d1615867e4d9",
@@ -1298,6 +1481,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-23T15:00:28-03:00"
+    },
+    {
+      "id": "ef3c4c0edc22712e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio e Lula: Quem são os candidatos a presidente no segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123557/flavio-e-lula-quem-sao-os-candidatos-a-presidente-no-segundo-turno",
+      "resumo": "De trajetórias distintas, presidente e senador chegam à disputa decisiva marcados por controvérsias, investigações e desafios eleitorais.",
+      "publicado_em": "2026-10-23T12:09:25-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
     },
     {
       "id": "0217b7ee35a80133",
@@ -1601,7 +1798,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Conselheiro do CNJ participa de lançamento de cartilha sobre adoção e diversidade familiar em Goiás",
       "link": "https://www.cnj.jus.br/conselheiro-do-cnj-participa-de-lancamento-de-cartilha-sobre-adocao-e-diversidade-familiar-em-goias/",
-      "resumo": "O conselheiro Fabio Esteves, do Conselho Nacional de Justiça (CNJ), participou, nesta quinta-feira (22), do lançamento oficial da cartilha “Família, no Plural: adoção e diversidade LGBTQIAPN+”, realizado pelo Tribunal de Justiça do Estado de Goiás (TJGO) no auditório da Unialfa, em Goiânia. O materi",
+      "resumo": "O conselheiro Fabio Esteves, do Conselho Nacional de Justiça (CNJ), participou, nesta quinta-feira (22), do lançamento oficial da cartilha “Família, no plural: adoção e diversidade LGBTQIAPN+”, realizado pelo Tribunal de Justiça do Estado de Goiás (TJGO) no auditório da Unialfa, em Goiânia.  O mater",
       "publicado_em": "2026-10-23T12:00:00-03:00",
       "dia": "2026-10-23",
       "data_estimada": true,
@@ -2876,6 +3073,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-22T15:11:59-03:00"
+    },
+    {
+      "id": "9fdf170752aad29b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem são os candidatos ao governo do Acre no segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123517/quem-sao-os-candidatos-ao-governo-do-acre-no-segundo-turno",
+      "resumo": "Mailza Assis (PP) e Alan Rick (Republicanos) disputam o comando do Estado em 25 de outubro, após receberem 49,76% e 32,27% dos votos válidos.",
+      "publicado_em": "2026-10-22T13:30:42-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
     },
     {
       "id": "67f45d585ccf2b61",
@@ -4744,6 +4955,20 @@ window.DADOS = {
       "coletado_em": "2026-10-21T15:17:50-03:00"
     },
     {
+      "id": "155c45d36fd95ffd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Tudo o que o eleitor precisa saber antes de votar no 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123464/tudo-o-que-o-eleitor-precisa-saber-antes-de-votar-no-2-turno",
+      "resumo": "Veja horários, documentos necessários, ordem dos seis votos e como justificar a ausência nas Eleições 2026.",
+      "publicado_em": "2026-10-21T12:48:22-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
       "id": "06ef164d197de671",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -4802,6 +5027,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-21T12:50:08-03:00"
+    },
+    {
+      "id": "0d8a752813a1f79e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Segundo turno também define seis governos estaduais; veja as disputas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123459/segundo-turno-tambem-define-seis-governos-estaduais-veja-as-disputas",
+      "resumo": "Eleitores de cinco Estados e do Distrito Federal voltam às urnas neste domingo para escolher seus governadores.",
+      "publicado_em": "2026-10-21T12:09:20-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
     },
     {
       "id": "b87f20bd91ef9a27",
@@ -6417,6 +6656,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-20T16:49:01-03:00"
+    },
+    {
+      "id": "90f48cc86477c221",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem são os candidatos ao governo do Amazonas no segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123434/quem-sao-os-candidatos-ao-governo-do-amazonas-no-segundo-turno",
+      "resumo": "Omar Aziz (PSD), aliado de Lula, e Professora Maria do Carmo (PL), apoiada por Flávio Bolsonaro, disputam o comando do Estado no domingo (25). Conheça as trajetórias, o patrimônio e os números de urna.",
+      "publicado_em": "2026-10-20T15:47:39-03:00",
+      "dia": "2026-10-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
     },
     {
       "id": "c5e29abe484f347b",
@@ -12184,6 +12437,20 @@ window.DADOS = {
       "coletado_em": "2026-10-15T16:41:21-03:00"
     },
     {
+      "id": "1de4c3ee68af3d76",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem são os candidatos ao governo do Tocantins no segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123288/quem-sao-os-candidatos-ao-governo-do-tocantins-no-segundo-turno",
+      "resumo": "Candidatos voltam às urnas em 25 de outubro após diferença de 1,58 ponto percentual no primeiro turno.",
+      "publicado_em": "2026-10-15T14:22:15-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
       "id": "15c764f45640cd08",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -16144,6 +16411,20 @@ window.DADOS = {
       "coletado_em": "2026-10-13T14:56:43-03:00"
     },
     {
+      "id": "5a8d3f39db7f9b40",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem são os candidatos ao governo do Distrito Federal no segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123206/quem-sao-os-candidatos-ao-governo-do-distrito-federal-no-segundo-turno",
+      "resumo": "Atual governadora e ex-deputado distrital disputam o comando do DF neste domingo.",
+      "publicado_em": "2026-10-13T14:03:35-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
       "id": "adca83d90e29e119",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -16189,6 +16470,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-13T16:59:18-03:00"
+    },
+    {
+      "id": "5578e2a21c29a4e7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem são os candidatos ao governo do Espírito Santo no segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123202/quem-sao-os-candidatos-ao-governo-do-espirito-santo-no-segundo-turno",
+      "resumo": "Ex-prefeito de Vitória e atual governador disputam o comando do Estado neste domingo.",
+      "publicado_em": "2026-10-13T13:03:23-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
     },
     {
       "id": "1286ec76411e99ef",
@@ -16348,6 +16643,20 @@ window.DADOS = {
         "visita"
       ],
       "coletado_em": "2026-10-13T14:56:43-03:00"
+    },
+    {
+      "id": "b424991531995009",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem são os candidatos ao governo do Rio Grande do Norte no 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123191/quem-sao-os-candidatos-ao-governo-do-rio-grande-do-norte-no-2-turno",
+      "resumo": "Ex-prefeito de Mossoró e ex-secretário estadual da Fazenda disputam o comando do Estado amanhã.",
+      "publicado_em": "2026-10-13T10:57:28-03:00",
+      "dia": "2026-10-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T11:15:50-03:00"
     },
     {
       "id": "c6f3645efa0a6bcc",
