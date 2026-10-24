@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-24T11:15:50-03:00",
+  "gerado_em": "2026-10-24T14:04:19-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -268,6 +268,76 @@
         "acao"
       ],
       "coletado_em": "2026-10-24T11:15:50-03:00"
+    },
+    {
+      "id": "8cd4ab17135330d5",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP disponibiliza acervo da Biblioteca \"Desembargador Marcos Nogueira Garcez\" para consulta",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115768&pagina=1",
+      "resumo": "Necessidade de agendamento prévio.\n \n\tO Tribunal de Justiça de São Paulo disponibiliza o acervo da Biblioteca “Desembargador Marcos Nogueira Garcez”, localizada no Gade MMDC, para",
+      "publicado_em": "2026-10-24T12:00:00-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T14:04:19-03:00"
+    },
+    {
+      "id": "41d61aa197a70b65",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo na Semana comenta exclusão do ISS da base de cálculo do PIS e da Cofins",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-na-semana-comenta-exclusao-do-iss-da-base-de-calculo-do-pis-e-da-cofins/",
+      "resumo": "Episódio #207 está disponível nas principais plataformas de áudio e no YouTube",
+      "publicado_em": "2026-10-24T12:00:00-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T14:04:19-03:00"
+    },
+    {
+      "id": "f0558e45ad1b6e43",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon e ANP fiscalizam e notificam postos de combustíveis em 21 estados",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senacon-e-anp-fiscalizam-e-notificam-postos-de-combustiveis-em-21-estados",
+      "resumo": "",
+      "publicado_em": "2026-10-24T12:00:00-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T14:04:19-03:00"
+    },
+    {
+      "id": "f42bf04a77cdf83d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula tem 50,3% e Flávio 49,7% dos votos válidos, diz Colectta",
+      "link": "https://www.congressoemfoco.com.br/noticia/123594/lula-tem-50-3-e-flavio-49-7-dos-votos-validos-diz-colectta",
+      "resumo": "Pesquisa mostra empate técnico na véspera do segundo turno, mas aponta que mais eleitores acreditam na vitória de Flávio Bolsonaro do que na reeleição de Lula.",
+      "publicado_em": "2026-10-24T12:04:24-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T14:04:19-03:00"
+    },
+    {
+      "id": "9b2d7ff4c28f728e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "CNT/MDA: Flávio tem 50,7% dos votos válidos; Lula registra 49,3%",
+      "link": "https://www.congressoemfoco.com.br/noticia/123593/cnt-mda-flavio-tem-50-7-dos-votos-validos-lula-registra-49-3",
+      "resumo": "Levantamento divulgado na véspera do segundo turno mostra empate técnico entre os candidatos, com margem de erro de 2,2 pontos percentuais.",
+      "publicado_em": "2026-10-24T11:35:53-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T14:04:19-03:00"
     },
     {
       "id": "14fbddef9892cd27",
@@ -4953,6 +5023,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "9ced68279d881a83",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ausência no primeiro turno não impede eleitor de votar no segundo",
+      "link": "https://www.congressoemfoco.com.br/noticia/123465/ausencia-no-primeiro-turno-nao-impede-eleitor-de-votar-no-segundo",
+      "resumo": "Ausência na primeira votação não impede participação no segundo turno, mas eleitor ainda precisa justificar a falta.",
+      "publicado_em": "2026-10-21T13:57:15-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-24T14:04:19-03:00"
     },
     {
       "id": "155c45d36fd95ffd",
