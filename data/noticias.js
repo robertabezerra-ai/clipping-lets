@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-24T14:04:19-03:00",
+  "gerado_em": "2026-10-24T15:34:45-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -310,6 +310,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-24T14:04:19-03:00"
+    },
+    {
+      "id": "326f9133cfeb3d4d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula chama Flávio de \"miliciano\" e prevê vitória em ato em Copacabana",
+      "link": "https://www.congressoemfoco.com.br/noticia/123595/lula-chama-flavio-de-miliciano-e-preve-vitoria-em-ato-em-copacabana",
+      "resumo": "Na véspera do segundo turno, presidente critica adversário, alerta para riscos à democracia e destaca mobilização do \"Exército do Lula\".",
+      "publicado_em": "2026-10-24T14:19:45-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-24T15:34:45-03:00"
     },
     {
       "id": "f42bf04a77cdf83d",
@@ -1492,6 +1508,20 @@ window.DADOS = {
       "coletado_em": "2026-10-23T15:00:28-03:00"
     },
     {
+      "id": "e6f559c8afe803a7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "É proibido beber no dia da eleição? Veja onde há Lei Seca no 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123562/e-proibido-beber-no-dia-da-eleicao-veja-onde-ha-lei-seca-no-2-turno",
+      "resumo": "Regras variam pelo país, com proibições estaduais e restrições específicas em municípios e zonas eleitorais.",
+      "publicado_em": "2026-10-23T13:30:58-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T15:34:45-03:00"
+    },
+    {
       "id": "94d62883c56b6c3e",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1868,7 +1898,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Conselheiro do CNJ participa de lançamento de cartilha sobre adoção e diversidade familiar em Goiás",
       "link": "https://www.cnj.jus.br/conselheiro-do-cnj-participa-de-lancamento-de-cartilha-sobre-adocao-e-diversidade-familiar-em-goias/",
-      "resumo": "O conselheiro Fabio Esteves, do Conselho Nacional de Justiça (CNJ), participou, nesta quinta-feira (22), do lançamento oficial da cartilha “Família, no plural: adoção e diversidade LGBTQIAPN+”, realizado pelo Tribunal de Justiça do Estado de Goiás (TJGO) no auditório da Unialfa, em Goiânia.  O mater",
+      "resumo": "O conselheiro Fabio Esteves, do Conselho Nacional de Justiça (CNJ), participou, nesta quinta-feira (22), do lançamento oficial da cartilha “Família, no Plural: adoção e diversidade LGBTQIAPN+”, realizado pelo Tribunal de Justiça do Estado de Goiás (TJGO) no auditório da Unialfa, em Goiânia. O materi",
       "publicado_em": "2026-10-23T12:00:00-03:00",
       "dia": "2026-10-23",
       "data_estimada": true,
