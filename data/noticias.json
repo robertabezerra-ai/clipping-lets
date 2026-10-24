@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-24T15:34:45-03:00",
+  "gerado_em": "2026-10-24T19:08:17-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -250,6 +250,22 @@
     }
   ],
   "noticias": [
+    {
+      "id": "8f2e0bafbc06b88b",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT da 2ª Região concede liminares para garantir direito de voto de empregados do comércio na Grande São Paulo",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-da-2a-regiao-concede-liminares-para-garantir-direito-de-voto-de-empregados-do-comercio-na-grande-sao-paulo",
+      "resumo": "",
+      "publicado_em": "2026-10-24T12:00:00-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "liminar"
+      ],
+      "coletado_em": "2026-10-24T19:08:17-03:00"
+    },
     {
       "id": "a9a0b5c8c160b91a",
       "fonte_id": "tjsp",
@@ -310,6 +326,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-24T14:04:19-03:00"
+    },
+    {
+      "id": "34654c18c4215aa2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio tem 50,5% dos votos válidos; Lula, 49,5%, aponta BTG/Nexus",
+      "link": "https://www.congressoemfoco.com.br/noticia/123596/flavio-tem-50-5-dos-votos-validos-lula-49-5--aponta-btg-nexus",
+      "resumo": "Pesquisa considera abstenção estimada de 21%. Na amostra total, diferença entre candidatos cai para um ponto percentual.",
+      "publicado_em": "2026-10-24T18:35:07-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-24T19:08:17-03:00"
     },
     {
       "id": "326f9133cfeb3d4d",
@@ -424,22 +454,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-23T12:38:43-03:00"
-    },
-    {
-      "id": "a78dfdaa09a6b6df",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Liminar determina que rede de varejo organize escalas para garantir direito de voto de empregados(as)",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/liminar-determina-que-rede-de-varejo-organize-escalas-para-garantir-direito-de-voto-de-empregadosas",
-      "resumo": "",
-      "publicado_em": "2026-10-23T12:00:00-03:00",
-      "dia": "2026-10-23",
-      "data_estimada": true,
-      "score": 52,
-      "tags": [
-        "liminar"
-      ],
-      "coletado_em": "2026-10-23T15:00:28-03:00"
     },
     {
       "id": "f772bb54190a059f",
@@ -1306,6 +1320,22 @@
       "coletado_em": "2026-10-23T19:45:33-03:00"
     },
     {
+      "id": "387d9aaa5b727779",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Como mudou a votação de Lula e Bolsonaro entre os turnos de 2022",
+      "link": "https://www.congressoemfoco.com.br/noticia/123578/como-mudou-a-votacao-de-lula-e-bolsonaro-entre-os-turnos-de-2022",
+      "resumo": "Há quatro anos, o então candidato à reeleição ganhou mais votos que Lula nas 27 unidades da Federação entre o primeiro e o segundo turno, mas só conseguiu inverter a liderança em um Estado.",
+      "publicado_em": "2026-10-23T16:34:22-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-24T19:08:17-03:00"
+    },
+    {
       "id": "5b542c67825918da",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1898,7 +1928,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Conselheiro do CNJ participa de lançamento de cartilha sobre adoção e diversidade familiar em Goiás",
       "link": "https://www.cnj.jus.br/conselheiro-do-cnj-participa-de-lancamento-de-cartilha-sobre-adocao-e-diversidade-familiar-em-goias/",
-      "resumo": "O conselheiro Fabio Esteves, do Conselho Nacional de Justiça (CNJ), participou, nesta quinta-feira (22), do lançamento oficial da cartilha “Família, no Plural: adoção e diversidade LGBTQIAPN+”, realizado pelo Tribunal de Justiça do Estado de Goiás (TJGO) no auditório da Unialfa, em Goiânia. O materi",
+      "resumo": "O conselheiro Fabio Esteves, do Conselho Nacional de Justiça (CNJ), participou, nesta quinta-feira (22), do lançamento oficial da cartilha “Família, no plural: adoção e diversidade LGBTQIAPN+”, realizado pelo Tribunal de Justiça do Estado de Goiás (TJGO) no auditório da Unialfa, em Goiânia.  O mater",
       "publicado_em": "2026-10-23T12:00:00-03:00",
       "dia": "2026-10-23",
       "data_estimada": true,
@@ -4781,6 +4811,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-22T12:47:31-03:00"
+    },
+    {
+      "id": "d3c9d28d513fa022",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O poder dos votos brancos, nulos e da abstenção no segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123491/o-poder-dos-votos-brancos-nulos-e-da-abstencao-no-segundo-turno",
+      "resumo": "Quase um quarto do eleitorado não votou para presidente no primeiro turno, e sua participação pode modificar a diferença final.",
+      "publicado_em": "2026-10-21T19:31:01-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-24T19:08:17-03:00"
     },
     {
       "id": "2ec08ac674f2271c",
@@ -9422,6 +9468,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-19T14:20:19-03:00"
+    },
+    {
+      "id": "a78dfdaa09a6b6df",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Liminar determina que rede de varejo organize escalas para garantir direito de voto de empregados(as)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/liminar-determina-que-rede-de-varejo-organize-escalas-para-garantir-direito-de-voto-de-empregadosas",
+      "resumo": "",
+      "publicado_em": "2026-10-18T12:00:00-03:00",
+      "dia": "2026-10-18",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "liminar"
+      ],
+      "coletado_em": "2026-10-23T15:00:28-03:00"
     },
     {
       "id": "5cadd0333ab6aef0",
