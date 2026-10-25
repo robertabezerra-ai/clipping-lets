@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-25T11:50:18-03:00",
+  "gerado_em": "2026-10-25T14:18:42-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -267,6 +267,36 @@
       "coletado_em": "2026-10-25T11:50:18-03:00"
     },
     {
+      "id": "23939b70d8628914",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "OE declara constitucional lei que prevê salas de regulação sensorial em shoppings",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115829&pagina=1",
+      "resumo": "Acessibilidade ampla e dignidade da pessoa humana.\n \n\tO Órgão Especial do Tribunal de Justiça de São Paulo declarou a constitucionalidade da Lei nº 18.183/2025, do",
+      "publicado_em": "2026-10-25T12:00:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "798bef2af2389a59",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF defende respeito à soberania popular e pede paz nas eleições",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-defende-respeito-a-soberania-popular-e-pede-paz-nas-eleicoes/",
+      "resumo": "Ministro Edson Fachin também destacou que a Justiça Eleitoral cumpriu seu dever constitucional",
+      "publicado_em": "2026-10-25T12:34:50-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
       "id": "1a783c3ceaa41cde",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -295,6 +325,353 @@
         "obrigatorio"
       ],
       "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "096f0884b5f55c1a",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Segundo turno das eleições ocorre com a segurança monitorada em tempo real",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/segundo-turno-das-eleicoes-ocorre-com-a-seguranca-monitorada-em-tempo-real",
+      "resumo": "",
+      "publicado_em": "2026-10-25T12:00:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "3c78a608c6c4ef44",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Caminhos da Reportagem aborda energia elétrica em áreas remotas da Amazônia",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/caminhos-da-reportagem-aborda-desafios-da-universalizacao-da-energia-eletrica-em-areas-remotas-da-amazonia",
+      "resumo": "",
+      "publicado_em": "2026-10-25T13:05:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "8dc5c8602e5501f6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Suécia no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123656/lula-vence-na-suecia-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 78,3% dos votos válidos entre os brasileiros que votaram na Suécia; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T14:04:17-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "8d8189bf29450f6a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Sérvia no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123655/lula-vence-na-servia-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 72,9% dos votos válidos entre os brasileiros que votaram na Sérvia; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T13:55:23-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "739cef8e4452c7a1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na República Tcheca no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123654/lula-vence-na-republica-tcheca-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 77,9% dos votos válidos entre os brasileiros que votaram na República Tcheca; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T13:55:22-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "94cb9aab7d5feed0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Polônia no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123653/lula-vence-na-polonia-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 75,1% dos votos válidos entre os brasileiros que votaram na Polônia; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T13:55:20-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "0e688b7f0869ab94",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Noruega no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123652/lula-vence-na-noruega-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 76,8% dos votos válidos entre os brasileiros que votaram na Noruega; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T13:55:18-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "7c3b36e291be25a5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence no Líbano no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123651/lula-vence-no-libano-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 68,2% dos votos válidos entre os brasileiros que votaram no Líbano; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T13:55:17-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "9f66ca62f3a0c01e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Eslovênia no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123650/lula-vence-na-eslovenia-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 70,5% dos votos válidos entre os brasileiros que votaram na Eslovênia; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T13:55:14-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "f1f52ade3c5c533d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Eslováquia no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123649/lula-vence-na-eslovaquia-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 77,0% dos votos válidos entre os brasileiros que votaram na Eslováquia; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T13:55:13-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "bfeddb0368587781",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Dinamarca no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123648/lula-vence-na-dinamarca-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 85,1% dos votos válidos entre os brasileiros que votaram na Dinamarca; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T13:55:11-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "03fd7a0306571334",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Croácia no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123647/lula-vence-na-croacia-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 54,4% dos votos válidos entre os brasileiros que votaram na Croácia; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T13:55:10-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "ec45e2fd58d8e082",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Áustria no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123646/lula-vence-na-austria-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 75,0% dos votos válidos entre os brasileiros que votaram na Áustria; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T13:55:08-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "9cd8010988e01482",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence em Angola no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123645/lula-vence-em-angola-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 58,6% dos votos válidos entre os brasileiros que votaram em Angola; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T13:55:07-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "eeeca6922dc05389",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TRE/BA manda prender secretário por retenção de ônibus em Salvador",
+      "link": "https://www.congressoemfoco.com.br/noticia/123644/tre-ba-manda-prender-secretario-por-retencao-de-onibus-em-salvador",
+      "resumo": "Justiça Eleitoral determina circulação da frota integral e multa de R$ 1 milhão por hora de descumprimento. Prefeitura afirma que veículos estão sendo liberados.",
+      "publicado_em": "2026-10-25T13:33:09-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "75e33b69f956849a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Repórter cita \"desânimo\" de Lula e Janja rebate: \"vai se catar\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123643/reporter-cita-desanimo-de-lula-e-janja-rebate--vai-se-catar",
+      "resumo": "Primeira-dama reagiu a comentário de jornalista sobre possível desânimo do presidente durante conversa com a imprensa após votação em São Bernardo do Campo.",
+      "publicado_em": "2026-10-25T13:17:43-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "cf9a3352c56dd935",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas prevê vitória de Flávio: \"nem cogito possibilidade de perder\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123641/nikolas-preve-vitoria-de-flavio--nem-cogito-possibilidade-de-perder",
+      "resumo": "Deputado aposta em vitória por 54% a 46%, cita pesquisa Datafolha e afirma que Flávio Bolsonaro será anunciado presidente ainda neste domingo.",
+      "publicado_em": "2026-10-25T13:06:02-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "0a57a069eac1c67a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na China no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123620/lula-vence-na-china-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 73,7% dos votos válidos entre os brasileiros que votaram na China; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T12:50:45-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "aca404cdb7554eb3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio vence no Catar no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123619/flavio-vence-no-catar-no-segundo-turno-veja-os-numeros",
+      "resumo": "Flávio Bolsonaro recebeu 55,1% dos votos válidos entre os brasileiros que votaram no Catar; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T12:50:44-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "d168e88d620ed4d5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Arábia Saudita no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123618/lula-vence-na-arabia-saudita-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 61,3% dos votos válidos entre os brasileiros que votaram na Arábia Saudita; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T12:50:42-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "d08c2ebdad2813ef",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio vence na África do Sul no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123617/flavio-vence-na-africa-do-sul-no-segundo-turno-veja-os-numeros",
+      "resumo": "Flávio Bolsonaro recebeu 57,9% dos votos válidos entre os brasileiros que votaram na África do Sul; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T12:50:41-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "119de009b2564d31",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Austrália no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123616/lula-vence-na-australia-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 63,5% dos votos válidos entre os brasileiros que votaram na Austrália; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T12:47:26-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T14:18:42-03:00"
     },
     {
       "id": "2916dc08fb387ba0",
