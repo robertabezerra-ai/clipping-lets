@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-25T14:18:42-03:00",
+  "gerado_em": "2026-10-25T15:43:02-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -353,6 +353,164 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "0a96cd0b01132d56",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Suíça no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123666/lula-vence-na-suica-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 56,7% dos votos válidos entre os brasileiros que votaram na Suíça; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T14:51:22-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T15:43:02-03:00"
+    },
+    {
+      "id": "4ea702b976f6f02e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence no Senegal no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123665/lula-vence-no-senegal-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 72,8% dos votos válidos entre os brasileiros que votaram no Senegal; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T14:51:20-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T15:43:02-03:00"
+    },
+    {
+      "id": "ec936b4a3dc5bc11",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Romênia no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123664/lula-vence-na-romenia-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 61,5% dos votos válidos entre os brasileiros que votaram na Romênia; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T14:51:19-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T15:43:02-03:00"
+    },
+    {
+      "id": "722254ae64d8253c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence nos Países Baixos no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123663/lula-vence-nos-paises-baixos-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 80,1% dos votos válidos entre os brasileiros que votaram nos Países Baixos; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T14:51:18-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T15:43:02-03:00"
+    },
+    {
+      "id": "a51d58cdfb4c2211",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence no Marrocos no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123662/lula-vence-no-marrocos-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 83,8% dos votos válidos entre os brasileiros que votaram no Marrocos; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T14:51:16-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T15:43:02-03:00"
+    },
+    {
+      "id": "bebac0d97f688fca",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Hungria no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123661/lula-vence-na-hungria-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 75,2% dos votos válidos entre os brasileiros que votaram na Hungria; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T14:51:15-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T15:43:02-03:00"
+    },
+    {
+      "id": "edb0f9f5890c138d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na França no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123660/lula-vence-na-franca-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 84,0% dos votos válidos entre os brasileiros que votaram na França; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T14:51:13-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T15:43:02-03:00"
+    },
+    {
+      "id": "6ab65c2eb4a0bb70",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Espanha no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123659/lula-vence-na-espanha-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 68,4% dos votos válidos entre os brasileiros que votaram na Espanha; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T14:51:12-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T15:43:02-03:00"
+    },
+    {
+      "id": "591c6bb335f55589",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Bélgica no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123658/lula-vence-na-belgica-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 58,7% dos votos válidos entre os brasileiros que votaram na Bélgica; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T14:51:11-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T15:43:02-03:00"
+    },
+    {
+      "id": "888bdbf266c2f0bf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Aos 96 anos, José Sarney vota e celebra a \"festa da democracia\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123657/aos-96-anos-jose-sarney-vota-e-celebra-a-festa-da-democracia",
+      "resumo": "Oito dias após receber alta hospitalar, ex-presidente participou do segundo turno das eleições em São Luís.",
+      "publicado_em": "2026-10-25T14:41:49-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T15:43:02-03:00"
     },
     {
       "id": "8dc5c8602e5501f6",
@@ -820,6 +978,36 @@
         "acao"
       ],
       "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "ca311f7c53fb4cb7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Presidente do TSE destaca uso de ferramentas tecnológicas contra a desinformação",
+      "link": "https://www.camara.leg.br/noticias/1313667-presidente-do-tse-destaca-uso-de-ferramentas-tecnologicas-contra-a-desinformacao",
+      "resumo": "",
+      "publicado_em": "2026-10-25T15:32:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T15:43:02-03:00"
+    },
+    {
+      "id": "9a549b579d90fb43",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Motta defende segurança das urnas e destaca papel da Justiça Eleitoral na democracia",
+      "link": "https://www.camara.leg.br/noticias/1313654-motta-defende-seguranca-das-urnas-e-destaca-papel-da-justica-eleitoral-na-democracia",
+      "resumo": "",
+      "publicado_em": "2026-10-25T14:33:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T15:43:02-03:00"
     },
     {
       "id": "8f2e0bafbc06b88b",
@@ -4168,6 +4356,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-22T12:47:31-03:00"
+    },
+    {
+      "id": "b5027505a6d83501",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Duas horas para a apuração: Veja a média das pesquisas eleitorais",
+      "link": "https://www.congressoemfoco.com.br/noticia/123501/duas-horas-para-a-apuracao-veja-a-media-das-pesquisas-eleitorais",
+      "resumo": "Com as urnas ainda abertas, pesquisas da véspera apontam disputa apertada entre Lula e Flávio Bolsonaro",
+      "publicado_em": "2026-10-22T09:08:17-03:00",
+      "dia": "2026-10-22",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T15:43:02-03:00"
     },
     {
       "id": "667cb1d3c202d65a",
