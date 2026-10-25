@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-24T19:08:17-03:00",
+  "gerado_em": "2026-10-25T11:50:18-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,200 @@
   ],
   "noticias": [
     {
+      "id": "ce1b2d96b309bfd3",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Formulário para pedido de gratuidade de documentos em cartórios de Registro Civil está disponível on-line",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115834&pagina=1",
+      "resumo": "Acesso pelo Portal do Extrajudicial.\n \n\tO Tribunal de Justiça de São Paulo, por meio da Corregedoria-Geral da Justiça (CGJ), disponibiliza, no Portal do Extrajudicial, modelo",
+      "publicado_em": "2026-10-25T12:00:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "1a783c3ceaa41cde",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi Alcolumbre vota no Amapá e faz chamado à paz e ao respeito",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/25/davi-alcolumbre-vota-no-amapa-e-faz-chamado-a-paz-e-ao-respeito",
+      "resumo": "",
+      "publicado_em": "2026-10-25T09:36:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "5b07c7d169e029b0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Vai votar no 2º turno? Confira os documentos obrigatórios e dicas do TSE",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/vai-votar-no-2o-turno-confira-os-documentos-obrigatorios-e-dicas-do-tse",
+      "resumo": "",
+      "publicado_em": "2026-10-25T09:19:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "obrigatorio"
+      ],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "2916dc08fb387ba0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Haddad diz que foi o 2º turno \"mais bonito\" que já presenciou",
+      "link": "https://www.congressoemfoco.com.br/noticia/123613/haddad-diz-que-foi-o-2-turno-mais-bonito-que-ja-presenciou",
+      "resumo": "Para ele, participação popular surpreendeu na reta final da campanha.",
+      "publicado_em": "2026-10-25T10:39:15-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "9f49be10628432f8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula agradece manifestações antes de votar: \"não tem como pagar\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123612/lula-agradece-manifestacoes-antes-de-votar--nao-tem-como-pagar",
+      "resumo": "Presidente destacou o carinho recebido durante os últimos dias de campanha e afirmou que será eternamente grato aos eleitores.",
+      "publicado_em": "2026-10-25T10:11:10-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "9404f23a55aa4af4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Futura: Flávio tem 50,1% e Lula 49,9% dos votos válidos no 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123611/futura-flavio-tem-50-1-e-lula-49-9-dos-votos-validos-no-2-turno",
+      "resumo": "Diferença entre os candidatos cai para apenas 0,2 ponto percentual na última pesquisa do instituto antes da votação deste domingo (25).",
+      "publicado_em": "2026-10-25T10:06:35-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "66fc3df34d392093",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vota em São Bernardo e estende bandeira do Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/123610/lula-vota-em-sao-bernardo-e-estende-bandeira-do-brasil-apos-votar",
+      "resumo": "Presidente chegou acompanhado de Janja, Alckmin e aliados políticos.",
+      "publicado_em": "2026-10-25T09:58:14-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "a77f4bc075c0b311",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio tem 51,56% dos votos válidos e Lula, 48,44%, diz Veritá",
+      "link": "https://www.congressoemfoco.com.br/noticia/123609/flavio-tem-51-56-dos-votos-validos-e-lula-48-44--diz-verita",
+      "resumo": "Levantamento divulgado na véspera do segundo turno mostra diferença de 3,12 pontos percentuais entre os candidatos, acima dos 2,6 pontos da pesquisa anterior.",
+      "publicado_em": "2026-10-25T09:49:27-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "d9a2d8870233f7b7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques pede \"senso crítico\" e atenção aos locais de votação",
+      "link": "https://www.congressoemfoco.com.br/noticia/123608/nunes-marques-pede-senso-critico-e-atencao-aos-locais-de-votacao",
+      "resumo": "Em pronunciamento nacional, ministro afirma que a Justiça Eleitoral está preparada para garantir a tranquilidade do segundo turno.",
+      "publicado_em": "2026-10-25T09:05:46-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "8f67db4a30435972",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio vota no Rio e diz que chegou a hora da \"mudança de verdade\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123606/flavio-vota-no-rio-e-diz-que-chegou-a-hora-da-mudanca-de-verdade",
+      "resumo": "Candidato do PL elogiou sua campanha no segundo turno e afirmou que o Brasil não suporta mais quatro anos da atual gestão.",
+      "publicado_em": "2026-10-25T08:09:58-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "d09db17949708c0d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vereadora do PT é atingida e ferida durante ataque a carro em ato",
+      "link": "https://www.congressoemfoco.com.br/noticia/123605/vereadora-do-pt-e-atingida-e-ferida-durante-ataque-a-carro-em-ato",
+      "resumo": "Iara Pimentel foi socorrida pelo Samu após manifestantes arremessarem objetos contra carro de som. Deputado federal Paulo Guedes também estava no veículo.",
+      "publicado_em": "2026-10-25T07:39:45-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "a88d2e3f652df386",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Manifestante caminha com homem negro \"acorrentado\" em ato pró-Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/123604/manifestante-caminha-com-homem-negro-acorrentado-em-ato-pro-flavio",
+      "resumo": "Cena registrada durante o encerramento da campanha na Barra da Tijuca mostra homem com símbolos do PT sendo conduzido por corrente enquanto manifestante ofende Lula.",
+      "publicado_em": "2026-10-25T07:31:16-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "8eeb5ad8b503601e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Siga a apuração no exterior: Lula cresce; Flávio tem mais votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123603/primeiras-urnas-sao-apuradas-no-exterior-acompanhe-os-resultados",
+      "resumo": "Boletins divulgados pelo TSE mostram os primeiros resultados da disputa entre Lula e Flávio Bolsonaro em países da Ásia e da Oceania.",
+      "publicado_em": "2026-10-25T07:18:39-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
       "id": "8f2e0bafbc06b88b",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -326,6 +520,98 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-24T14:04:19-03:00"
+    },
+    {
+      "id": "10fd2512a573d6c6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio tem 50,8% dos válidos e Lula, 49,2%, segundo a AtlasIntel",
+      "link": "https://www.congressoemfoco.com.br/noticia/123602/flavio-tem-50-8-dos-validos-e-lula-49-2--segundo-a-atlasintel",
+      "resumo": "Vantagem do senador caiu de 5,4 para 1,5 ponto percentual desde 9 de outubro. Levantamento é o último do instituto antes da votação deste domingo.",
+      "publicado_em": "2026-10-24T20:32:16-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "34d18c32063ede5a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Palver, que acertou ordem no 1º turno, aponta Flávio 50% e Lula 49%",
+      "link": "https://www.congressoemfoco.com.br/noticia/123601/palver-que-acertou-ordem-no-1-turno-aponta-flavio-50-e-lula-49",
+      "resumo": "Diferença entre os candidatos caiu de dois para um ponto percentual desde a última rodada do levantamento.",
+      "publicado_em": "2026-10-24T20:00:38-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "f1fdb3959f6e6624",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio tem 52% dos votos válidos e Lula 48%, aponta Gerp",
+      "link": "https://www.congressoemfoco.com.br/noticia/123600/flavio-tem-52-dos-votos-validos-e-lula-48--aponta-gerp",
+      "resumo": "Pesquisa divulgada na véspera do segundo turno mostra empate técnico entre os candidatos. Senador oscilou um ponto para baixo, enquanto presidente subiu um ponto em relação ao levantamento anterior.",
+      "publicado_em": "2026-10-24T19:41:12-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "b4a2e4b0ffa60702",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin cobra TSE por restrição ao transporte de eleitores indígenas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123599/fachin-cobra-tse-por-restricao-ao-transporte-de-eleitores-indigenas",
+      "resumo": "Presidente do STF deu três horas para a Corte Eleitoral explicar decisão de Nunes Marques que exigiu autorização judicial prévia para cada operação de transporte de indígenas no segundo turno.",
+      "publicado_em": "2026-10-24T19:30:40-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "decisao",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "719aa7f4a1c3499d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quaest aponta Flávio com 51% e Lula com 49% na reta final das eleições",
+      "link": "https://www.congressoemfoco.com.br/noticia/123598/quaest-aponta-flavio-com-51-e-lula-com-49-na-reta-final-das-eleicoes",
+      "resumo": "Com margem de erro de dois pontos percentuais, candidatos seguem tecnicamente empatados.",
+      "publicado_em": "2026-10-24T19:26:37-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "88980910813b95db",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Datafolha: Flávio tem 51% dos votos válidos e Lula, 49% no 2º turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123597/datafolha-flavio-tem-51-dos-votos-validos-e-lula-49-no-2-turno",
+      "resumo": "Último levantamento antes do segundo turno mostra empate técnico entre os candidatos, com margem de erro de dois pontos percentuais.",
+      "publicado_em": "2026-10-24T19:02:41-03:00",
+      "dia": "2026-10-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
     },
     {
       "id": "34654c18c4215aa2",
@@ -1288,6 +1574,20 @@
       "coletado_em": "2026-10-23T19:45:33-03:00"
     },
     {
+      "id": "76eaacfb7455aae6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veja os Estados que podem definir o tamanho da vantagem nacional",
+      "link": "https://www.congressoemfoco.com.br/noticia/123581/veja-os-estados-que-podem-definir-o-tamanho-da-vantagem-nacional",
+      "resumo": "Cinco Estados concentram mais da metade do eleitorado. Flávio venceu em quatro deles, onde também foram eleitos governadores aliados; a exceção foi a Bahia, reduto de Lula.",
+      "publicado_em": "2026-10-23T17:21:56-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
       "id": "7decdb61abce6826",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1708,6 +2008,22 @@
       "coletado_em": "2026-10-23T12:38:43-03:00"
     },
     {
+      "id": "25ff864adfe57622",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veja por onde acompanhar a apuração do segundo turno em tempo real",
+      "link": "https://www.congressoemfoco.com.br/noticia/123550/veja-por-onde-acompanhar-a-apuracao-do-segundo-turno-em-tempo-real",
+      "resumo": "Ferramenta reúne os dados da contagem de votos realizada pela Justiça Eleitoral.",
+      "publicado_em": "2026-10-23T10:50:19-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
       "id": "fa9ceff3cce28ca4",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1928,7 +2244,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Conselheiro do CNJ participa de lançamento de cartilha sobre adoção e diversidade familiar em Goiás",
       "link": "https://www.cnj.jus.br/conselheiro-do-cnj-participa-de-lancamento-de-cartilha-sobre-adocao-e-diversidade-familiar-em-goias/",
-      "resumo": "O conselheiro Fabio Esteves, do Conselho Nacional de Justiça (CNJ), participou, nesta quinta-feira (22), do lançamento oficial da cartilha “Família, no plural: adoção e diversidade LGBTQIAPN+”, realizado pelo Tribunal de Justiça do Estado de Goiás (TJGO) no auditório da Unialfa, em Goiânia.  O mater",
+      "resumo": "O conselheiro Fabio Esteves, do Conselho Nacional de Justiça (CNJ), participou, nesta quinta-feira (22), do lançamento oficial da cartilha “Família, no Plural: adoção e diversidade LGBTQIAPN+”, realizado pelo Tribunal de Justiça do Estado de Goiás (TJGO) no auditório da Unialfa, em Goiânia. O materi",
       "publicado_em": "2026-10-23T12:00:00-03:00",
       "dia": "2026-10-23",
       "data_estimada": true,
@@ -1967,6 +2283,38 @@
         "acao"
       ],
       "coletado_em": "2026-10-23T16:46:06-03:00"
+    },
+    {
+      "id": "e047e533ea8d263f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Sergipe é o primeiro estado do Nordeste a receber o projeto Conexões pela Justiça, do CNJ",
+      "link": "https://www.cnj.jus.br/sergipe-e-o-primeiro-estado-do-nordeste-a-receber-o-projeto-conexoes-pela-justica-do-cnj/",
+      "resumo": "Para aproximar os segmentos da Justiça brasileira e fortalecer a implementação de políticas judiciárias nacionais, o Conselho Nacional de Justiça (CNJ) realizou, nesta sexta-feira (23/10), mais uma etapa do projeto Conexões pela Justiça. Desta vez, a iniciativa chegou ao Sergipe, o primeiro estado d",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "a5dc7c3c11b798c8",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Prêmio Viviane do Amaral 2026 reconhece ações de combate à violência contra a mulher",
+      "link": "https://www.cnj.jus.br/premio-viviane-do-amaral-2026-reconhece-acoes-de-combate-a-violencia-contra-a-mulher/",
+      "resumo": "Iniciativas de destaque no enfrentamento à violência contra mulheres e meninas foram celebradas pelo Conselho Nacional de Justiça (CNJ), nesta sexta-feira (23/10), em solenidade de entrega do Prêmio CNJ Juíza Viviane Vieira do Amaral 2026. Na condução do evento, a supervisora da Política Judiciária ",
+      "publicado_em": "2026-10-23T12:00:00-03:00",
+      "dia": "2026-10-23",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
     },
     {
       "id": "f0f9b89578bb28d6",
@@ -5085,6 +5433,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-21T15:17:50-03:00"
+    },
+    {
+      "id": "33dd660085a703f8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Brasil vai às urnas para decidir presidente da República neste domingo",
+      "link": "https://www.congressoemfoco.com.br/noticia/123467/brasil-vai-as-urnas-para-decidir-presidente-da-republica-neste-domingo",
+      "resumo": "Lula e Flávio Bolsonaro disputam o segundo turno em disputa acirrada pelo cargo mais alto do Executivo.",
+      "publicado_em": "2026-10-21T14:24:01-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T11:50:18-03:00"
     },
     {
       "id": "3e84ce6d9675d0d6",
