@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-25T15:43:02-03:00",
+  "gerado_em": "2026-10-25T19:10:55-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -283,6 +283,23 @@ window.DADOS = {
       "coletado_em": "2026-10-25T14:18:42-03:00"
     },
     {
+      "id": "4661363153a77fb8",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF prorroga votação até as 19h em locais onde urnas permaneceram abertas após as 17h",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-prorroga-votacao-ate-as-19h-em-locais-onde-urnas-permaneceram-abertas-apos-as-17h/",
+      "resumo": "Decisão considera denúncias de  candidaturas sobre falhas no transporte público",
+      "publicado_em": "2026-10-25T18:28:39-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
       "id": "798bef2af2389a59",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -295,6 +312,67 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "9da37e4dd012b836",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "No TSE, presidentes de Senado e Câmara reconhecem papel Justiça Eleitoral",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/presidentes-de-senado-e-camara-elogiam-justica-eleitoral-em-encontro-no-tse",
+      "resumo": "",
+      "publicado_em": "2026-10-25T17:01:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "ebcf23af6e07546b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi pede respeito ao resultado das urnas e cobra pacificação do país",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/25/davi-pede-respeito-ao-resultado-das-urnas-e-cobra-pacificacao-do-pais",
+      "resumo": "",
+      "publicado_em": "2026-10-25T16:50:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "4fd8ffebae838893",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Em visita ao TSE, Davi pede pacificação no segundo turno",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/em-visita-ao-tse-davi-pede-pacificacao-no-segundo-turno",
+      "resumo": "",
+      "publicado_em": "2026-10-25T16:08:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "2b7b1e4fc6d1902d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Presidente do TSE: resultado das eleições deve ser anunciado entre 20h30 e 21h",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/presidente-do-tse-resultado-das-eleicoes-deve-ser-anunciado-entre-20h30-e-21h",
+      "resumo": "",
+      "publicado_em": "2026-10-25T15:49:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
     },
     {
       "id": "1a783c3ceaa41cde",
@@ -353,6 +431,310 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "7e04668a08c82fff",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pedro Rousseff tranquiliza seguidores após acidente: \"estamos bem\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/123696/pedro-rousseff-tranquiliza-seguidores-apos-acidente--estamos-bem",
+      "resumo": "Deputado federal eleito apareceu em vídeo ao lado do assessor e contou que o carro capotou três vezes durante uma forte chuva na Rodovia Fernão Dias.",
+      "publicado_em": "2026-10-25T18:31:19-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "9805661f5f2defe7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes determina que seções que ainda estiverem abertas fiquem até 19h",
+      "link": "https://www.congressoemfoco.com.br/noticia/123695/nunes-determina-que-secoes-que-ainda-estiverem-abertas-fiquem-ate-19h",
+      "resumo": "Orientação foi enviada pelo presidente do TSE aos presidentes dos Tribunais Regionais Eleitorais.",
+      "publicado_em": "2026-10-25T18:13:29-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "3e12c008ec535854",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zanin esclarece que prorrogação vale para urnas que não foram fechadas",
+      "link": "https://www.congressoemfoco.com.br/noticia/123694/zanin-esclarece-que-prorrogacao-vale-para-urnas-que-nao-foram-fechadas",
+      "resumo": "Nos locais em que o encerramento já havia ocorrido, os votos deverão ser computados e totalizados normalmente.",
+      "publicado_em": "2026-10-25T18:03:59-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "57b8eced56a12965",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cleitinho faz apoiadores de Lula e Flávio se abraçarem em MG",
+      "link": "https://www.congressoemfoco.com.br/noticia/123693/cleitinho-faz-apoiadores-de-lula-e-flavio-se-abracarem-em-mg",
+      "resumo": "\"A partir de amanhã, essa cachorrada vai acabar\", afirmou Cleitinho, ao defender que o ambiente de confronto político seja encerrado depois da definição eleitoral.",
+      "publicado_em": "2026-10-25T17:51:06-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "a62dbddfd16373c0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Após decisão do Supremo, TSE interrompe apuração dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/123691/apos-decisao-do-supremo-tse-interrompe-apuracao-dos-votos",
+      "resumo": "Tribunal suspendeu a totalização em resposta a decisão de Cristiano Zanin, que estendeu até as 19h o funcionamento das seções eleitorais.",
+      "publicado_em": "2026-10-25T17:41:02-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "9926fd72650705ae",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zanin manda TSE prorrogar até 19h prazo para votação em todo o Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/123687/zanin-manda-tse-prorrogar-ate-19h-prazo-para-votacao-em-todo-o-brasil",
+      "resumo": "Ministro atribuiu ao TSE a responsabilidade de dar cumprimento à determinação.",
+      "publicado_em": "2026-10-25T17:04:50-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "0c91ffb81f55708c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PT aciona STF para prorrogar horário de votação em todo o país",
+      "link": "https://www.congressoemfoco.com.br/noticia/123685/pt-aciona-stf-para-prorrogar-horario-de-votacao-em-todo-o-pais",
+      "resumo": "Medida busca assegurar mais tempo para que eleitores eventualmente prejudicados pela redução da oferta de ônibus consigam chegar às seções eleitorais.",
+      "publicado_em": "2026-10-25T16:38:02-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "eff5ad983fdfde08",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado eleito Pedro Rousseff sofre acidente na Rodovia Fernão Dias",
+      "link": "https://www.congressoemfoco.com.br/noticia/123683/deputado-eleito-pedro-rousseff-sofre-acidente-na-rodovia-fernao-dias",
+      "resumo": "Sobrinho da ex-presidente Dilma Rousseff viajava para São Paulo com um assessor de comunicação para acompanhar a apuração do segundo turno.",
+      "publicado_em": "2026-10-25T16:30:26-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "e949286cdea1a9d6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vereadora agredida em Minas comparece à votação após receber alta",
+      "link": "https://www.congressoemfoco.com.br/noticia/123682/vereadora-agredida-em-minas-comparece-a-votacao-apos-receber-alta",
+      "resumo": "Parlamentar deixou a Santa Casa de Montes Claros durante a madrugada e foi às urnas com curativo após ataque durante carreata.",
+      "publicado_em": "2026-10-25T16:18:10-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "afb10eca08574ba1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Abstenção costuma ser maior no 2º turno, mas cenário tem mudado",
+      "link": "https://www.congressoemfoco.com.br/noticia/123680/abstencao-costuma-ser-maior-no-2-turno-mas-cenario-tem-mudado",
+      "resumo": "Em seis das sete eleições presidenciais com segundo turno desde 1989, o percentual de ausentes aumentou na votação decisiva; diferença vem diminuindo e chegou a se inverter em 2022.",
+      "publicado_em": "2026-10-25T16:00:25-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "26752f3557511ddd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PT pede prisão de gestores por falta de ônibus na eleição em São Paulo",
+      "link": "https://www.congressoemfoco.com.br/noticia/123679/pt-pede-prisao-de-gestores-por-falta-de-onibus-na-eleicao-em-sao-paulo",
+      "resumo": "Partido acusa secretário municipal e presidente da SPTrans de descumprir ordem judicial durante o segundo turno e pede multa de R$ 1 milhão por hora. Lula pede extensão do horário de votação.",
+      "publicado_em": "2026-10-25T15:59:52-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "multa",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "c131b84a2f960507",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PT pede votação até 19h em Estados que tiveram problemas no transporte",
+      "link": "https://www.congressoemfoco.com.br/noticia/123678/pt-pede-votacao-ate-19h-em-estados-que-tiveram-problemas-no-transporte",
+      "resumo": "Além da prorrogação da votação, a coligação solicita que o transporte coletivo gratuito e com frota integral seja mantido por pelo menos duas horas depois do horário de encerramento.",
+      "publicado_em": "2026-10-25T15:54:56-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "d7abf165b9a7fce8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF abre inquérito sobre ataque a vereadora do PT em Montes Claros",
+      "link": "https://www.congressoemfoco.com.br/noticia/123677/pf-abre-inquerito-sobre-ataque-a-vereadora-do-pt-em-montes-claros",
+      "resumo": "Diretor-geral da Polícia Federal confirmou depoimento da parlamentar e informou que a corporação dispõe de imagens da agressão.",
+      "publicado_em": "2026-10-25T15:53:32-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "3e16faf2a65fe013",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence no Reino Unido no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123676/lula-vence-no-reino-unido-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 63,3% dos votos válidos entre os brasileiros que votaram no Reino Unido; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T15:53:22-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "ff61251096bbc25c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence em Portugal no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123675/lula-vence-em-portugal-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 59,4% dos votos válidos entre os brasileiros que votaram em Portugal; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T15:53:21-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "28353eda11c8e8ec",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Itália no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123674/lula-vence-na-italia-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 60,0% dos votos válidos entre os brasileiros que votaram na Itália; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T15:53:15-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "db863d5843876c94",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence na Irlanda no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123673/lula-vence-na-irlanda-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 80,2% dos votos válidos entre os brasileiros que votaram na Irlanda; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T15:53:10-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "3c28bc9fb2917a7c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence em Cabo Verde no segundo turno; veja os números",
+      "link": "https://www.congressoemfoco.com.br/noticia/123672/lula-vence-em-cabo-verde-no-segundo-turno-veja-os-numeros",
+      "resumo": "Lula recebeu 62,3% dos votos válidos entre os brasileiros que votaram em Cabo Verde; resultado também permite comparação com 2022.",
+      "publicado_em": "2026-10-25T15:53:07-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "668e16b0818cd324",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Não desistam de votar\", pede Lula após denúncias de falta de ônibus",
+      "link": "https://www.congressoemfoco.com.br/noticia/123669/nao-desistam-de-votar--pede-lula-apos-denuncias-de-falta-de-onibus",
+      "resumo": "Presidente classifica situação como \"abominável\" e defende punição aos responsáveis por possíveis crimes eleitorais.",
+      "publicado_em": "2026-10-25T15:27:35-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
     },
     {
       "id": "0a96cd0b01132d56",
@@ -5834,6 +6216,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-21T19:54:27-03:00"
+    },
+    {
+      "id": "ad01ae03b23b0710",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AO VIVO: Acompanhe apuração dos resultados das eleições em tempo real",
+      "link": "https://www.congressoemfoco.com.br/noticia/123482/ao-vivo-acompanhe-apuracao-dos-resultados-das-eleicoes-em-tempo-real",
+      "resumo": "Além da corrida presidencial, seis Estados têm segundo turno para governador.",
+      "publicado_em": "2026-10-21T16:49:10-03:00",
+      "dia": "2026-10-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-25T19:10:55-03:00"
     },
     {
       "id": "596fe5c64f11c76a",
