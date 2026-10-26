@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-25T19:10:55-03:00",
+  "gerado_em": "2026-10-26T14:07:55-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -155,7 +155,7 @@ window.DADOS = {
     {
       "id": "pgfn",
       "status": "ok",
-      "itens": 29,
+      "itens": 28,
       "erro": null
     },
     {
@@ -208,14 +208,14 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
       "status": "ok",
-      "itens": 27,
+      "itens": 29,
       "erro": null
     },
     {
@@ -226,9 +226,9 @@ window.DADOS = {
     },
     {
       "id": "mjsp",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "carf",
@@ -250,6 +250,1220 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "b9355128fafe7165",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Turma mantém justa causa de professora que puxou criança pelo agasalho",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/turma-mantem-justa-causa-de-professora-que-puxou-crianca-pelo-agasalho",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "b8da345dc4baab4a",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Novo canal do TRT-2 explica como relatar irregularidades e o que acontece depois da denúncia",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/novo-canal-do-trt-2-explica-como-relatar-irregularidades-e-o-que-acontece-depois-da-denuncia",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "4cb792da62bbb78e",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça reinaugura Fórum Trabalhista de Osasco-SP após reformas",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-reinaugura-forum-trabalhista-de-osasco-sp-apos-reformas",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "6882c75b8a96a1ca",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Sessão do Tribunal Pleno ocorre a partir das 13h",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/sessao-do-tribunal-pleno-ocorre-a-partir-das-13h-1",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "d1342bf4e048326c",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 recebe quatro artistas na exposição “Memória: Camadas do Tempo” nesta terça",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-recebe-quatro-artistas-na-exposicao-memoria-camadas-do-tempo-nesta-terca",
+      "resumo": "TRT-15 recebe quatro artistas na exposição “Memória: Camadas do Tempo” nesta terça anasiqueira Seg, 26/10/2026 - 12:15 TRT-15 recebe quatro artistas na exposição “Memória: Camadas do Tempo” nesta terça Conteúdo da Notícia O Espaço Cultural “Desembargador Eurico Cruz Neto”, do Tribunal Regional do Tr",
+      "publicado_em": "2026-10-26T12:15:08-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "0f2306d7268a2a55",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Plataforma digital não pode ser responsabilizada por cancelamento de hospedagem",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115839&pagina=1",
+      "resumo": "Anfitrião responde pelos danos morais e materiais sofridos.\n\n\n\tA 29ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve, em parte, decisão da",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "decisao",
+        "itr"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "4eb09eea504c9214",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ambiente virtual concentra maior parte das decisões colegiadas do STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ambiente-virtual-concentra-maior-parte-das-decisoes-colegiadas-do-stf/",
+      "resumo": "Em 2025, o Tribunal registrou 23.031 decisões colegiadas em julgamentos virtuais e 107 em sessões presenciais",
+      "publicado_em": "2026-10-26T10:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "30c31d065ad7b7a2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCJ analisa porte de arma para fiscais ambientais e servidores da Funai",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/ccj-analisa-porte-de-arma-para-fiscais-ambientais-e-servidores-da-funai",
+      "resumo": "",
+      "publicado_em": "2026-10-26T14:01:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "935764d25ba8e103",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Reforma tributária: alíquota da CBS avança nesta semana",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/26/reforma-tributaria-aliquota-da-cbs-avanca-nesta-semana",
+      "resumo": "",
+      "publicado_em": "2026-10-26T13:48:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "reforma tributaria",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "61dc2ae4c582d1b1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Com perdão de dívidas, MEIs podem planejar expansão de negócios, diz consultora",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/com-perdao-de-dividas-meis-podem-planejar-expansao-de-negocios-diz-consultora",
+      "resumo": "",
+      "publicado_em": "2026-10-26T13:14:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "1077a3f975ff2861",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado pode analisar tributação específica para entidades esportivas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senado-pode-analisar-tributacao-especifica-para-entidades-esportivas",
+      "resumo": "",
+      "publicado_em": "2026-10-26T11:54:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "7ad88c49ebf64e43",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAS debaterá proibição de alimentos ultraprocessados nas escolas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/cas-debatera-proibicao-de-alimentos-ultraprocessados-nas-escolas",
+      "resumo": "",
+      "publicado_em": "2026-10-26T11:43:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "1f8f371e2ed226a0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto prevê entrega de material em braile junto com os demais livros escolares",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/26/projeto-preve-entrega-de-material-em-braile-junto-com-os-demais-livros-escolares",
+      "resumo": "",
+      "publicado_em": "2026-10-26T10:58:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "c1d1ce361c67cc0c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Cobertura integrada do segundo turno reúne 54 emissoras da Rede Legislativa",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/cobertura-integrada-do-segundo-turno-reune-54-emissoras-da-rede-legislativa",
+      "resumo": "",
+      "publicado_em": "2026-10-26T10:44:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "6bc8ae82dd393e5e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Presidente do TSE diz que eleição ocorreu com segurança e não há o que contestar",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/presidente-do-tse-diz-que-eleicao-ocorreu-com-seguranca-e-nao-ha-o-que-contestar",
+      "resumo": "",
+      "publicado_em": "2026-10-26T10:32:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "61bd6d795424fade",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado renova 41 das 54 vagas, bate recorde de mulheres e aumenta maioria do PL",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senado-renova-41-das-54-vagas-bate-recorde-de-mulheres-e-aumenta-maioria-do-pl",
+      "resumo": "",
+      "publicado_em": "2026-10-26T09:13:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "2e1f36e3992c5474",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lula é reeleito presidente do Brasil",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/lula-e-reeleito-presidente-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-10-26T09:04:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "7ca414fca7fb6f72",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Votação no exterior registra comparecimento maior no segundo turno",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/votacao-no-exterior-registra-comparecimento-maior-no-segundo-turno",
+      "resumo": "",
+      "publicado_em": "2026-10-26T09:03:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "b50e709fdb292302",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Flávio Bolsonaro contesta resultado da eleição e anuncia pedido de anulação",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/flavio-bolsonaro-contesta-resultado-da-eleicao-e-anuncia-pedido-de-anulacao",
+      "resumo": "",
+      "publicado_em": "2026-10-26T08:59:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "19e2f83a458c10c8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Mais eleitores compareceram às urnas no segundo turno",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/mais-eleitores-compareceram-as-urnas-no-segundo-turno",
+      "resumo": "",
+      "publicado_em": "2026-10-26T08:54:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "9da54411f9bfeb4a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sete cidades do Brasil definiram novos prefeitos em eleições suplementares",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/sete-cidades-do-brasil-definiram-novos-prefeitos-em-eleicoes-suplementares",
+      "resumo": "",
+      "publicado_em": "2026-10-26T08:47:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "ab49eea6cf90f430",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto de lei trata do seguro-desemprego para trabalhadoras domésticas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-de-lei-trata-do-seguro-desemprego-para-trabalhadoras-domesticas",
+      "resumo": "",
+      "publicado_em": "2026-10-26T08:40:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "beca971a4eb2a7f0",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende 32 ovos de aves nativas transportados clandestinamente em ônibus",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-apreende-32-ovos-de-aves-nativas-transportados-clandestinamente-em-onibus",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:04:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "c97b75bb2fc6fa0d",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "Tributo a Elas grava podcast em homenagem às mulheres",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2023/tributo-a-elas-grava-podcast-em-homenagem-as-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 20,
+      "tags": [
+        "homenagem"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "bc50ccf98b930928",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Líderes europeus e latino-americanos parabenizam Lula. OEA destaca participação no segundo turno",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/lideres-europeus-e-latino-americanos-parabenizam-lula-oea-destaca-aumento-da-participacao-no-segundo-turno",
+      "resumo": "",
+      "publicado_em": "2026-10-26T11:37:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "297a4d78233d09f6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Presidentes do TSE, STF, Senado e Câmara se manifestam sobre reeleição de Lula",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/presidentes-do-tse-stf-senado-e-camara-se-manifestam-sobre-reeleicao-de-lula",
+      "resumo": "",
+      "publicado_em": "2026-10-26T10:39:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "f0f9cd0ccfbad81e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pesca Artesanal: seleção pública vai destinar R$ 120 milhões para projetos de inovação",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pesca-artesanal-selecao-publica-vai-destinar-120-milhoes-para-projetos-de-inovacao",
+      "resumo": "",
+      "publicado_em": "2026-10-26T09:31:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "b47a1ea7365f8e54",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Lula é reeleito presidente do Brasil: “Fato histórico que devo ao povo brasileiro”",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/lula-e-reeleito-presidente-do-brasil-201cfato-historico-que-devo-ao-povo-brasileiro201d",
+      "resumo": "",
+      "publicado_em": "2026-10-26T08:03:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "0960bdc1765a1f44",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Arthur do Val xinga candidatos que apoiaram Flávio: \"seus bostas\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129224/arthur-do-val-xinga-candidatos-que-apoiaram-flavio--seus-bostas",
+      "resumo": "Integrante do MBL critica lideranças de direita que apoiaram a candidatura do senador e cobra explicações após a reeleição de Lula.",
+      "publicado_em": "2026-10-26T13:48:08-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "07df10567bdc5430",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bituruna (PR): Flávio Bolsonaro é o mais votado no segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/129223/bituruna-pr-flavio-bolsonaro-e-o-mais-votado-no-segundo-turno",
+      "resumo": "Com 51,32 dos votos válidos, Flávio Bolsonaro derrotou Lula no Paraná por margem média; desempenho ficou abaixo da média das cidades vizinhas e do estado.",
+      "publicado_em": "2026-10-26T13:17:06-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "3ea4338c798c5536",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro vence a eleição presidencial em Marabá (PA)",
+      "link": "https://www.congressoemfoco.com.br/noticia/129222/flavio-bolsonaro-vence-a-eleicao-presidencial-em-maraba-pa",
+      "resumo": "No segundo turno de 2026, Flávio Bolsonaro (PL) derrotou Lula (PT) em Marabá, no Pará, com 54,60% dos votos válidos.",
+      "publicado_em": "2026-10-26T13:17:02-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "8cdabd8c53157f64",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro vence em Santa Maria de Jetibá (ES)",
+      "link": "https://www.congressoemfoco.com.br/noticia/129221/flavio-bolsonaro-vence-em-santa-maria-de-jetiba-es",
+      "resumo": "Com margem folgada sobre Lula, candidato do PL conquista Santa Maria de Jetibá no segundo turno de 2026.",
+      "publicado_em": "2026-10-26T13:17:01-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "0ea1d366dfb0030e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula ganha em Nazaré (BA); veja como a cidade votou",
+      "link": "https://www.congressoemfoco.com.br/noticia/129220/lula-ganha-em-nazare-ba-veja-como-a-cidade-votou",
+      "resumo": "Com margem folgada, Lula (PT) derrotou Flávio Bolsonaro (PL) no segundo turno em Nazaré, na Bahia, com comparecimento alto nas urnas.",
+      "publicado_em": "2026-10-26T13:16:49-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "42ddd1f75c62bc31",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro vence em Fernandes Tourinho (MG)",
+      "link": "https://www.congressoemfoco.com.br/noticia/129219/flavio-bolsonaro-vence-em-fernandes-tourinho-mg",
+      "resumo": "Com margem de 96 votos sobre Lula, Flávio Bolsonaro conquista Fernandes Tourinho no segundo turno de 2026.",
+      "publicado_em": "2026-10-26T13:16:47-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "02287abe8b367628",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Jatobá (MA) escolhe Lula para presidente",
+      "link": "https://www.congressoemfoco.com.br/noticia/129218/jatoba-ma-escolhe-lula-para-presidente",
+      "resumo": "Com margem folgada, Lula (PT) derrotou Flávio Bolsonaro (PL) no segundo turno em Jatobá, no Maranhão.",
+      "publicado_em": "2026-10-26T13:15:59-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "be56c4ceb1ff498d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro ganha em Itu (SP); veja como a cidade votou",
+      "link": "https://www.congressoemfoco.com.br/noticia/129217/flavio-bolsonaro-ganha-em-itu-sp-veja-como-a-cidade-votou",
+      "resumo": "Com margem folgada, Flávio Bolsonaro (PL) derrotou Lula (PT) no segundo turno em Itu, em São Paulo, com comparecimento médio.",
+      "publicado_em": "2026-10-26T13:15:56-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "9a0175b2ebdc7387",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mogi Mirim (SP): Flávio Bolsonaro é o mais votado no segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/129216/mogi-mirim-sp-flavio-bolsonaro-e-o-mais-votado-no-segundo-turno",
+      "resumo": "Candidato do PL venceu com 68,53 dos votos válidos em Mogi Mirim, em São Paulo, superando Lula, do PT, por margem folgada.",
+      "publicado_em": "2026-10-26T13:15:54-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "f22d881067a73abe",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Riachuelo (RN), Lula vence com 69,97% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129215/em-riachuelo-rn-lula-vence-com-69-97-dos-votos",
+      "resumo": "Com comparecimento alto e margem folgada, Lula (PT) derrotou Flávio Bolsonaro (PL) no segundo turno em Riachuelo, no Rio Grande do Norte.",
+      "publicado_em": "2026-10-26T13:15:51-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "b8e6f07de4654e2c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan ironiza bolsonaristas: \"a urna só é fraudada para o adversário?\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/128900/renan-ironiza-bolsonaristas--a-urna-so-e-fraudada-para-o-adversario",
+      "resumo": "Ex-candidato rejeitou as acusações de fraude na eleição presidencial e pediu que eleitores não participem de manifestações contra o resultado das urnas.",
+      "publicado_em": "2026-10-26T12:25:43-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "f2570444fa91a398",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF investiga prejuízo a eleitores por falta de ônibus no segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/128817/pf-investiga-prejuizo-a-eleitores-por-falta-de-onibus-no-segundo-turno",
+      "resumo": "Investigação busca identificar responsáveis por possíveis restrições ao transporte de eleitores durante a votação.",
+      "publicado_em": "2026-10-26T12:12:24-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "293a70d0897deaae",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A Bolsa não descobriu Lula hoje, o mercado apenas perdeu uma aposta",
+      "link": "https://www.congressoemfoco.com.br/coluna/128635/a-bolsa-nao-descobriu-lula-hoje-o-mercado-apenas-perdeu-uma-aposta",
+      "resumo": "Queda de 10% do Ibovespa após a reeleição de Lula pode refletir não apenas preocupações fiscais, mas também o desmonte de posições construídas sobre a expectativa de vitória do candidato do PL.",
+      "publicado_em": "2026-10-26T11:45:36-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "db8a6325d9ae7593",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Abstenção tem maior queda desde 1989; veja recuo por Estado",
+      "link": "https://www.congressoemfoco.com.br/noticia/128596/abstencao-tem-maior-queda-desde-1989-veja-recuo-por-estado",
+      "resumo": "Quase 3 milhões de eleitores a mais compareceram às urnas no segundo turno. Abstenção caiu em 18 unidades da Federação, com destaque para Bahia e Pernambuco, mas aumentou em nove Estados.",
+      "publicado_em": "2026-10-26T11:37:36-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "60eeab5b07a42037",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Líderes mundiais parabenizam Lula pela reeleição e reforçam parceria",
+      "link": "https://www.congressoemfoco.com.br/noticia/128542/lideres-mundiais-parabenizam-lula-pela-reeleicao-e-reforcam-parceria",
+      "resumo": "Representantes das Américas, da África, da Ásia, da Europa e da Oceania se manifestaram sobre as eleições brasileiras.",
+      "publicado_em": "2026-10-26T11:28:33-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "ffe2ce33bd6fcce4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Prefeito de Nova York comemora vitória de Lula: \"o povo unido\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/128463/prefeito-de-nova-york-comemora-vitoria-de-lula--o-povo-unido",
+      "resumo": "Zohran Mamdani parabenizou o presidente pela reeleição. Os dois se encontraram em setembro e trocaram camisas de futebol.",
+      "publicado_em": "2026-10-26T11:14:56-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "comemora"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "e0b5c043fbee9c12",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Brasil e Alemanha comparam experiências na Justiça do Trabalho e regulação de plataformas digitais",
+      "link": "https://www.cnj.jus.br/brasil-e-alemanha-comparam-experiencias-na-justica-do-trabalho-e-regulacao-de-plataformas-digitais/",
+      "resumo": "A maior economia da União Europeia também tem uma Justiça do Trabalho com estrutura semelhante à brasileira e enfrenta desafios parecidos para definir os direitos de quem trabalha por plataformas digitais. Essas semelhanças estarão no centro do seminário “Trabalho em plataformas no Brasil e na Alema",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 36,
+      "tags": [
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "daeb02824ff8a08e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Atos normativos serão analisados pelo Plenário do CNJ em sua 17ª Sessão Ordinária de 2026",
+      "link": "https://www.cnj.jus.br/atos-normativos-serao-analisados-pelo-plenario-do-cnj-em-sua-17a-sessao-ordinaria-de-2026/",
+      "resumo": "A 17ª Sessão Ordinária de 2026 do Conselho Nacional de Justiça (CNJ) será realizada na terça-feira (27/10), a partir das 10h. Na pauta de julgamentos estão previstos 12 processos, incluindo quatro atos normativos: um sobre infância; outro sobre violência processual de gênero; e dois deles relacionad",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "693615085a4e7339",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe cobrança de taxa para acesso a praias, rios e cachoeiras",
+      "link": "https://www.camara.leg.br/noticias/1313505-projeto-proibe-cobranca-de-taxa-para-acesso-a-praias-rios-e-cachoeiras",
+      "resumo": "",
+      "publicado_em": "2026-10-26T13:49:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "8f7cf59760cc3903",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto propõe financiamento do Move Brasil para representantes comerciais",
+      "link": "https://www.camara.leg.br/noticias/1310537-projeto-propoe-financiamento-do-move-brasil-para-representantes-comerciais",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:08:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "5de67a7d75ef9914",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Líderes governistas celebram vitória de Lula; oposição critica prorrogação da votação e lamenta resultado",
+      "link": "https://www.camara.leg.br/noticias/1313811-lideres-governistas-celebram-vitoria-de-lula-oposicao-critica-prorrogacao-da-votacao-e-lamenta-resultado",
+      "resumo": "",
+      "publicado_em": "2026-10-26T11:34:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "fe4afce3e517e6c3",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê integração de dados públicos e simplificação de licenças",
+      "link": "https://www.camara.leg.br/noticias/1310273-projeto-preve-integracao-de-dados-publicos-e-simplificacao-de-licencas",
+      "resumo": "",
+      "publicado_em": "2026-10-26T10:38:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "4a42c73c6ac44d82",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "PL terá seis governadores a partir de 2027; PT ficará com quatro",
+      "link": "https://www.camara.leg.br/noticias/1313746-pl-tera-seis-governadores-a-partir-de-2027-pt-ficara-com-quatro",
+      "resumo": "",
+      "publicado_em": "2026-10-26T10:14:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "b2f47a5a03e21ff1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria Sistema Nacional de Economia Criativa de Base Local",
+      "link": "https://www.camara.leg.br/noticias/1310197-projeto-cria-sistema-nacional-de-economia-criativa-de-base-local",
+      "resumo": "",
+      "publicado_em": "2026-10-26T09:33:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "0629e82aaebf7cbc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "\"O povo é soberano e fez a sua escolha\", diz Motta ao parabenizar Lula pela reeleição",
+      "link": "https://www.camara.leg.br/noticias/1313758-o-povo-e-soberano-e-fez-a-sua-escolha-diz-motta-ao-parabenizar-lula-pela-reeleicao",
+      "resumo": "",
+      "publicado_em": "2026-10-26T00:07:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "c728e22b762b4cda",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade sedia seminário internacional sobre defesa da concorrência",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-sedia-seminario-internacional-sobre-defesa-da-concorrencia",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [
+        "cade",
+        "seminario"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "39cfdc1d4dc11aab",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade abre seleção de estágio para atuação na Procuradoria",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-abre-selecao-de-estagio-para-atuacao-na-procuradoria",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "4d49c54c4fb706ff",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade lança estudo sobre distribuição e revenda de combustíveis líquidos",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-lanca-estudo-sobre-distribuicao-e-revenda-de-combustiveis-liquidos",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "ed9c11291fc686bb",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade julga 41 processos e aplica mais de R$ 164 milhões em multa durante defeso eleitoral",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-julga-41-processos-e-aplica-mais-de-r-164-milhoes-em-multa-durante-defeso-eleitoral",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 76,
+      "tags": [
+        "julga",
+        "multa",
+        "cade",
+        "processo"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "4b7839c9d30adab1",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "2º Encontro da Rede Lusófona promove troca de experiências sobre desafios atuais da proteção de dados",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/2o-encontro-da-rede-lusofona-promove-troca-de-experiencias-sobre-desafios-atuais-da-protecao-de-dados",
+      "resumo": "Autoridades de proteção de dados dos países e territórios de língua portuguesa se reuniram na sede da ANPD, em Brasília, para fortalecer a cooperação internacional",
+      "publicado_em": "2026-10-26T10:28:13-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "protecao de dados",
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "07945639f8bcd7a4",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD abre o 3º Encontro de Encarregados com o debate sobre uso da IA na governança dos dados",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-abre-o-3o-encontro-de-encarregados-com-o-debate-sobre-uso-da-ia-na-governanca-dos-dados",
+      "resumo": "Evento destacou a relação entre o surgimento de novas tecnologias e as responsabilidades dos encarregados no ambiente digital",
+      "publicado_em": "2026-10-26T10:27:55-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "f8942391d2241f50",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Promulgação da Lei 25.254 cria Dia Nacional da Proteção de Dados",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/promulgacao-da-lei-25-254-cria-dia-nacional-da-protecao-de-dados",
+      "resumo": "Data oficial, 17 de julho, é uma homenagem ao pioneiro da área no Brasil, Danilo Doneda. Anúncio foi feito durante celebração dos 5 anos da ANPD",
+      "publicado_em": "2026-10-26T10:27:23-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [
+        "protecao de dados",
+        "acao",
+        "homenagem"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "919416c1512c18fd",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD lança edital do 3º Prêmio Danilo Doneda de artigos científicos",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-lanca-edital-do-3o-premio-danilo-doneda-de-artigos-cientificos",
+      "resumo": "Inscrições vão de 24 de abril a 23 de junho de 2025",
+      "publicado_em": "2026-10-26T10:26:58-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "fbc39f04b077e98e",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD atualiza e inclui novos verbetes no Glossário",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-atualiza-e-inclui-novos-verbetes-no-glossario",
+      "resumo": "A iniciativa visa o nivelamento de entendimento dos termos que envolvem a proteção de dados pessoais",
+      "publicado_em": "2026-10-26T10:26:11-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "d7020a95a21728f6",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD atualiza e inclui novos verbetes no Glossário",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-atualiza-e-inclui-novos-verbetes-no-glossario-1",
+      "resumo": "A iniciativa visa o nivelamento de entendimento dos termos que envolvem a proteção de dados pessoais",
+      "publicado_em": "2026-10-26T10:25:56-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "f1eee9c1376ab24b",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD abre tomada de subsídios para norma de direitos dos titulares de dados pessoais",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-abre-tomada-de-subsidios-para-norma-de-direitos-dos-titulares-de-dados-pessoais",
+      "resumo": "Tomada de subsídios estará aberta a contribuições até o dia 4 de março no Espaço Opine Aqui, dentro da plataforma Participa+Brasil",
+      "publicado_em": "2026-10-26T10:25:45-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "f1db37099edda154",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD realiza evento online alusivo ao Dia Internacional da Proteção de Dados",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-realiza-evento-online-alusivo-ao-dia-internacional-da-protecao-de-dados",
+      "resumo": "Mesa redonda será transmitida ao vivo no dia 30 de janeiro, a partir das 10h, no canal da Autoridade no YouTube",
+      "publicado_em": "2026-10-26T10:25:16-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "eeef56980da7cad9",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD destaca desafios da proteção de dados em Seminário de Privacidade",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-destaca-desafios-da-protecao-de-dados-em-seminario-de-privacidade",
+      "resumo": "Em sua 17ª edição, evento reuniu, em São Paulo, autoridades e a sociedade em torno de temas como o uso de IA e a proteção de crianças e adolescentes no ambiente digital",
+      "publicado_em": "2026-10-26T10:25:01-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 44,
+      "tags": [
+        "protecao de dados",
+        "seminario"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "cf55dfcb27e934e2",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ECA Digital é destaque em audiência pública que debateu a revisão do processo regulatório da ANPD",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/eca-digital-e-destaque-em-audiencia-publica-que-debateu-a-revisao-do-processo-regulatorio-da-anpd",
+      "resumo": "Encontro virtual contou com a contribuição de diferentes atores para a atualização da Portaria nº 16/2021",
+      "publicado_em": "2026-10-26T10:24:48-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "portaria",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "5ac8bc6b0881f62b",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "No Dia Nacional da Proteção de Dados, ANPD debate as perspectivas para a segurança e governança dos dados pessoais",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/no-dia-nacional-da-protecao-de-dados-anpd-debate-as-perspectivas-para-a-seguranca-e-governanca-dos-dados-pessoais",
+      "resumo": "Evento promovido pela Data Privacy Brasil aconteceu em Brasília, e reuniu representantes de instituições públicas e da sociedade civil",
+      "publicado_em": "2026-10-26T10:24:30-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "b10ca5e60f717ce4",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Audiência sobre Regulamento de Fiscalização da ANPD discute fluxos do processo sancionador e atuação das empresas alcançadas pelo ECA Digital",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/audiencia-sobre-regulamento-de-fiscalizacao-da-anpd-discute-fluxos-do-processo-sancionador-e-atuacao-das-empresas-alcancadas-pelo-eca-digital",
+      "resumo": "O debate virtual contou com especialistas e entidades da sociedade civil que apresentaram subsídios para revisão dos processos de fiscalização e sanção da ANPD",
+      "publicado_em": "2026-10-26T10:24:09-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "sancao",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "360d242b0fe27fc6",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "4º Prêmio Danilo Doneda alcança recorde histórico de inscrições e amplia alcance nacional",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/4o-premio-danilo-doneda-alcanca-recorde-historico-de-inscricoes-e-amplia-alcance-nacional",
+      "resumo": "A premiação consolida seu papel na promoção da pesquisa científica sobre proteção de dados pessoais e privacidade no Brasil",
+      "publicado_em": "2026-10-26T10:23:59-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "protecao de dados",
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "84a0ebf25a142423",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD lança versão em inglês do Radar Tecnológico sobre Inteligência Artificial Generativa",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-lanca-versao-em-ingles-do-radar-tecnologico-sobre-inteligencia-artificial-generativa",
+      "resumo": "Tradução do terceiro volume da série amplia o conhecimento técnico produzido pela Agência para a comunidade internacional de proteção de dados",
+      "publicado_em": "2026-10-26T10:23:47-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "5b32a31d492f8dd4",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "2º Encontro Internacional de Proteção de Dados reforça o diálogo entre países",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/2o-encontro-internacional-de-protecao-de-dados-reforca-o-dialogo-entre-paises",
+      "resumo": "No evento promovido pela ANPD, foram debatidos os desafios comuns às nações para a criação de uma rede transnacional de governança dos dados",
+      "publicado_em": "2026-10-26T10:23:33-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "protecao de dados",
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "92a6d6eb96e92dbe",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD recebe representantes da União Europeia para intercâmbio de práticas regulatórias",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-recebe-representantes-da-uniao-europeia-para-intercambio-de-praticas-regulatorias",
+      "resumo": "Durante encontro, as áreas técnicas da Agência apresentaram as ações desenvolvidas para a proteção de dados e o cumprimento do ECA Digital e de acordos internacionais",
+      "publicado_em": "2026-10-26T10:01:19-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "61d6fa0d7cbd9f02",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "CPDP LatAm 2026 encerra com ECA Digital e transparência das plataformas como temas prioritários",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/cpdp-latam-2026-encerra-com-eca-digital-e-transparencia-das-plataformas-como-temas-prioritarios",
+      "resumo": "Último dia foi marcado pela discussão sobre a proteção da criança e do adolescente e a eficácia dos relatórios de transparência para a governança dos dados",
+      "publicado_em": "2026-10-26T10:01:02-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "6e252a03235b78d5",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD apresenta atuação brasileira em IA e proteção de crianças durante reunião da Convenção 108",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-apresenta-atuacao-brasileira-em-ia-e-protecao-de-criancas-durante-reuniao-da-convencao-108",
+      "resumo": "Encontro em Paris reuniu representantes de mais de 60 países para discutir inteligência artificial, fluxos internacionais de dados, novas tecnologias e desafios globais para a proteção da privacidade",
+      "publicado_em": "2026-10-26T10:00:47-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "adc7a65cea672301",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD participa de fórum do RAID - Regulation of Artificilal Intelligence, Internet and Data",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/raid/anpd-participa-de-forum-do-raid-regulation-of-artificilal-intelligence-internet-and-data",
+      "resumo": "O objetivo do fórum é gerar engajamento positivo sobre desafios e oportunidades que a regulação em tecnologia apresenta ao redor do mundo",
+      "publicado_em": "2026-10-26T10:00:03-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "117ce5cc1bd6ff09",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Senado aprova recondução de Miriam Wimmer ao Conselho Diretor da ANPD",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/miriam-wimmer-e-reconduzida-ao-cargo-de-diretora-da-anpd-apos-sabatina-no-senado-federal",
+      "resumo": "A indicada à recondução ao cargo de Diretora da ANPD passou por sabatina na Comissão de Serviços de Infraestrutura (CI), do Senado Federal",
+      "publicado_em": "2026-10-26T09:59:36-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "c58424114ccda510",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD debate governança de dados e soberania digital durante CPDP 2026",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-debate-governanca-de-dados-no-cpdp-latam",
+      "resumo": "Primeiro dia do evento levantou a reflexão sobre como assegurar a proteção de dados num momento de transnacionalidade das informações",
+      "publicado_em": "2026-10-26T09:59:19-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "9682b4f702909312",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD participa do II ciclo de debates do CNMP sobre trabalho infantil em plataformas digitais",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-participa-do-ii-ciclo-de-debates-do-cnmp-sobre-trabalho-infantil-em-plataformas-digitais",
+      "resumo": "Na pauta da reunião estavam as estratégias para proteção integral de crianças e adolescentes e contra a exploração nas relações de trabalho",
+      "publicado_em": "2026-10-26T09:58:45-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
     {
       "id": "ce1b2d96b309bfd3",
       "fonte_id": "tjsp",
@@ -283,6 +1497,20 @@ window.DADOS = {
       "coletado_em": "2026-10-25T14:18:42-03:00"
     },
     {
+      "id": "4d76f2afb6971a34",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Nota da Presidência do Supremo Tribunal Federal",
+      "link": "https://noticias.stf.jus.br/postsnoticias/nota-da-presidencia-do-supremo-tribunal-federal-5/",
+      "resumo": "A República se fortalece quando reconhece e respeita a soberania popular",
+      "publicado_em": "2026-10-25T22:11:18-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
       "id": "4661363153a77fb8",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -312,6 +1540,80 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "539f7319c877b8de",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Presidente do TSE confirma reeleição de Lula e faz balanço do pleito",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/25/presidente-do-tse-confirma-reeleicao-de-lula-e-faz-balanco-do-pleito",
+      "resumo": "",
+      "publicado_em": "2026-10-25T23:31:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "8db8e944a50c6052",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Passadas as eleições, Congresso atuará pela pacificação, afirma Davi Alcolumbre",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/25/passadas-as-eleicoes-congresso-atuara-pela-pacificacao-afirma-davi-alcolumbre",
+      "resumo": "",
+      "publicado_em": "2026-10-25T23:15:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "63c4f3decfed4cbe",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Reeleito presidente, Lula agradece apoio do povo e 'sobretudo das mulheres'",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/reeleito-presidente-lula-agradece-apoio-do-povo-e-sobretudo-das-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-10-25T23:00:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "d056208b22e4d697",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi reconhece resultado da eleição e defende pacificação do país",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/davi-reconhece-resultado-da-eleicao-e-defende-pacificacao-do-pais",
+      "resumo": "",
+      "publicado_em": "2026-10-25T22:54:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "bd30e508fa14b700",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Presidente do TSE proclama o resultado final das eleições 2026",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/10/presidente-do-tse-proclama-o-resultado-final-das-eleicoes-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-25T22:40:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
       "id": "9da37e4dd012b836",
@@ -433,6 +1735,20 @@ window.DADOS = {
       "coletado_em": "2026-10-25T14:18:42-03:00"
     },
     {
+      "id": "851dac71b03f8dba",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O Ministério da Cultura não pode ser refém de cada eleição",
+      "link": "https://www.congressoemfoco.com.br/artigo/123697/o-ministerio-da-cultura-nao-pode-ser-refem-de-cada-eleicao",
+      "resumo": "Criado em 1985, rebaixado a secretaria, extinto e recriado em diferentes governos, o MinC precisa de um sistema capaz de garantir a continuidade das políticas culturais para além das urnas.",
+      "publicado_em": "2026-10-25T18:49:31-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
       "id": "7e04668a08c82fff",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -493,6 +1809,25 @@ window.DADOS = {
       "coletado_em": "2026-10-25T19:10:55-03:00"
     },
     {
+      "id": "e72d78f9c03c8231",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vai haver a reforma tributária?",
+      "link": "https://www.congressoemfoco.com.br/artigo/123692/vai-haver-a-reforma-tributaria",
+      "resumo": "Incertezas sobre alíquotas e regulamentação dificultam o planejamento das empresas, que precisam adaptar sistemas, contratos e processos antes das mudanças previstas para 2027.",
+      "publicado_em": "2026-10-25T17:49:06-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 84,
+      "tags": [
+        "regulamenta",
+        "reforma tributaria",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
       "id": "a62dbddfd16373c0",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -508,6 +1843,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "d9911fb8d84bbc20",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O Mercosul tem mecanismos para defender contra antidemocráticos?",
+      "link": "https://www.congressoemfoco.com.br/artigo/123690/o-mercosul-tem-mecanismos-para-defender-contra-antidemocraticos",
+      "resumo": "O bloco pode suspender um país, mas sua resposta depende de consenso e costuma vir depois de uma ruptura institucional.",
+      "publicado_em": "2026-10-25T17:28:03-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
       "id": "9926fd72650705ae",
@@ -573,6 +1922,23 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-25T19:10:55-03:00"
+    },
+    {
+      "id": "7ae13fe78e43a9bf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governo propõe estratégia para impulsionar empreendedorismo negro",
+      "link": "https://www.congressoemfoco.com.br/artigo/123681/governo-propoe-estrategia-para-impulsionar-empreendedorismo-negro",
+      "resumo": "Proposta de decreto busca articular políticas de crédito, acesso a mercados, inovação e capacitação para ampliar oportunidades econômicas; sociedade pode contribuir até 5 de novembro.",
+      "publicado_em": "2026-10-25T16:07:36-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decreto",
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
       "id": "afb10eca08574ba1",
@@ -1360,6 +2726,51 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-25T11:50:18-03:00"
+    },
+    {
+      "id": "f7ca7218958fb4d7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Presidente do TSE afirma que a decisão de prorrogar a votação exigiu medidas extraordinárias",
+      "link": "https://www.camara.leg.br/noticias/1313728-presidente-do-tse-afirma-que-a-decisao-de-prorrogar-a-votacao-exigiu-medidas-extraordinarias",
+      "resumo": "",
+      "publicado_em": "2026-10-25T22:42:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "b00033fb0b2f3a3a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Motta defende o diálogo e diz que Lula tem a oportunidade de conciliar o país",
+      "link": "https://www.camara.leg.br/noticias/1313658-motta-defende-o-dialogo-e-diz-que-lula-tem-a-oportunidade-de-conciliar-o-pais",
+      "resumo": "",
+      "publicado_em": "2026-10-25T22:30:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "60951243d2936df2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lula é reeleito presidente com quase 52% dos votos válidos no 2º turno",
+      "link": "https://www.camara.leg.br/noticias/1313705-lula-e-reeleito-presidente-com-quase-52-dos-votos-validos-no-2o-turno",
+      "resumo": "",
+      "publicado_em": "2026-10-25T21:29:00-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
       "id": "ca311f7c53fb4cb7",
@@ -14828,6 +16239,22 @@ window.DADOS = {
         "cade"
       ],
       "coletado_em": "2026-10-15T12:30:07-03:00"
+    },
+    {
+      "id": "ce912d7c262c289f",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD debate desafios do ECA Digital e apresenta novas entregas regulatórias durante Webinário",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-debate-desafios-ecadigital-webinar",
+      "resumo": "Apresentação on line reuniu especialistas para avaliar o primeiro ano da lei e marcou o pré-lançamento do Guia de Fornecedores, com publicação prevista até final de outubro",
+      "publicado_em": "2026-10-15T19:04:00-03:00",
+      "dia": "2026-10-15",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
       "id": "148390ee73a3095a",
@@ -98476,64 +99903,6 @@ window.DADOS = {
       "score": 60,
       "tags": [
         "protecao de dados",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "b80b03babc228abe",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "2ª Região participa de evento nacional sobre sustentabilidade no Judiciário",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2a-regiao-participa-de-evento-nacional-sobre-sustentabilidade-no-judiciario",
-      "resumo": "",
-      "publicado_em": "2026-07-27T12:00:00-03:00",
-      "dia": "2026-07-27",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "a9e8edbe0621964d",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Justiça reverte abandono de emprego de vítima de violência doméstica",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-reverte-abandono-de-emprego-de-vitima-de-violencia-domestica",
-      "resumo": "",
-      "publicado_em": "2026-07-27T12:00:00-03:00",
-      "dia": "2026-07-27",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "35ae0dd6b3d7c93b",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "ANPD releases English version of Technology Radar on Generative AI",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-releases-english-version",
-      "resumo": "Translation of the third volume in the series brings technical insights from the Agency to the international data protection community",
-      "publicado_em": "2026-07-27T15:28:00-03:00",
-      "dia": "2026-07-27",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "03dfc4b31bd5c864",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "Brasil se torna membro de rede global de reguladores de segurança no ambiente digital",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/brasil-se-torna-membro-de-rede-global-de-reguladores-de-seguranca-no-ambiente-digital",
-      "resumo": "ANPD é a primeira autoridade reguladora da América do Sul a integrar a GOSRN, ampliando a cooperação internacional para a proteção de direitos na internet",
-      "publicado_em": "2026-07-27T10:07:23-03:00",
-      "dia": "2026-07-27",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
         "acao"
       ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
