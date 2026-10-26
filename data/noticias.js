@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-26T14:07:55-03:00",
+  "gerado_em": "2026-10-26T16:37:55-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -208,14 +208,14 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
       "status": "ok",
-      "itens": 29,
+      "itens": 27,
       "erro": null
     },
     {
@@ -309,6 +309,20 @@ window.DADOS = {
       "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
+      "id": "036424dc77480aa6",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Portal do TRT-2 tem período de indisponibilidade nesta segunda-feira (26/10)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/portal-do-trt-2-tem-periodo-de-indisponibilidade-nesta-segunda-feira-26-10",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
       "id": "d1342bf4e048326c",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -342,6 +356,39 @@ window.DADOS = {
       "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
+      "id": "f18a0b3c67eaf021",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Palestra da CIJ discute desafios do ECA Digital para a produção de conteúdo infantil",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115831&pagina=1",
+      "resumo": "Exposição do juiz Heitor Moreira de Oliveira.\n \n\tA Coordenadoria da Infância e da Juventude (CIJ) e a Escola Paulista da Magistratura (EPM) do Tribunal de",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
+      "id": "90e3c18f381b6489",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF reafirma jornada máxima de 30 horas semanais para fisioterapeutas e terapeutas ocupacionais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-reafirma-jornada-maxima-de-30-horas-semanais-para-fisioterapeutas-e-terapeutas-ocupacionais/",
+      "resumo": "Ao julgar matéria com repercussão geral, Tribunal reitera jurisprudência de que a jornada de trabalho de profissionais concursados dessas categorias deve respeitar lei federal",
+      "publicado_em": "2026-10-26T15:34:58-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julga",
+        "repercussao geral"
+      ],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
       "id": "4eb09eea504c9214",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -357,6 +404,36 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "442bccb33af6d442",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão de Educação vota Semana do Pequeno Investidor",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/comissao-de-educacao-vota-semana-do-pequeno-investidor",
+      "resumo": "",
+      "publicado_em": "2026-10-26T15:13:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
+      "id": "e31c76eaa3a8a8cc",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado avalia ações do governo em terra indígena ianomâmi",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senado-avalia-acoes-do-governo-em-terra-indigena-ianomami",
+      "resumo": "",
+      "publicado_em": "2026-10-26T14:40:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
     },
     {
       "id": "30c31d065ad7b7a2",
@@ -578,6 +655,22 @@ window.DADOS = {
       "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
+      "id": "fa4408d9efaf0e42",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal e Polícia Militar apreendem carga estimada em R$ 1 milhão em ônibus de turismo na região de Sertaneja/PR",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-e-policia-militar-apreendem-carga-estimada-em-r-1-milhao-em-onibus-de-turismo-na-regiao-de-sertaneja-pr",
+      "resumo": "",
+      "publicado_em": "2026-10-26T13:50:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
       "id": "beca971a4eb2a7f0",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -610,6 +703,34 @@ window.DADOS = {
       "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
+      "id": "e3b803fca06a3e01",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MEC Livros bate 1 milhão de empréstimos e amplia acervo",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/mec-livros-bate-1-milhao-de-emprestimos-e-amplia-acervo",
+      "resumo": "",
+      "publicado_em": "2026-10-26T15:40:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
+      "id": "b297d76e3300fbfa",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Superávit brasileiro alcança US$ 1,7 bi na quarta semana de outubro de 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/superavit-brasileiro-alcanca-us-1-7-bi-na-quarta-semana-de-outubro-de-2026-1",
+      "resumo": "",
+      "publicado_em": "2026-10-26T15:16:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
       "id": "bc50ccf98b930928",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -640,6 +761,20 @@ window.DADOS = {
       "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
+      "id": "66a330ba2daeddbb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Fies remanescentes: inscrições abertas a partir de hoje (26)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/fies-remanescentes-inscricoes-abertas-nesta-segunda-26",
+      "resumo": "",
+      "publicado_em": "2026-10-26T10:07:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
       "id": "f0f9cd0ccfbad81e",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -668,6 +803,62 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "26ee46fef36ccb81",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Espírito Santo e Piauí apresentam os maiores crescimentos das receitas correntes no 4º bimestre de 2026",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/espirito-santo-e-piaui-apresentam-os-maiores-crescimentos-das-receitas-correntes-no-4o-bimestre-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
+      "id": "43efc556d160e2bb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula cresceu 22% em cidade que Nikolas gravou vídeo sobre o Nordeste",
+      "link": "https://www.congressoemfoco.com.br/noticia/129227/lula-cresceu-22-em-cidade-que-nikolas-gravou-video-sobre-o-nordeste",
+      "resumo": "Candidato do PL continuou à frente e venceu por 61,60% a 38,40%, mas a distância entre os dois diminuiu.",
+      "publicado_em": "2026-10-26T15:38:42-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
+      "id": "953ddf0a44bc7358",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputada eleita no Paraná diz para demitir petistas: \"demita o mal\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129226/deputada-eleita-no-parana-diz-para-demitir-petistas--demita-o-mal",
+      "resumo": "Jessicão afirmou que votos no PT prejudicam negócios e famílias e defendeu o afastamento de apoiadores do partido.",
+      "publicado_em": "2026-10-26T14:27:49-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
+      "id": "d20c68260ac6e236",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Duda ironiza vídeo de Nikolas no Nordeste com moção de aplausos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129225/duda-ironiza-video-de-nikolas-no-nordeste-com-mocao-de-aplausos",
+      "resumo": "Parlamentar sustenta que a propaganda dirigida aos nordestinos teve efeito contrário ao pretendido e ajudou a mobilizar eleitores de Lula.",
+      "publicado_em": "2026-10-26T14:21:25-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
     },
     {
       "id": "0960bdc1765a1f44",
@@ -810,6 +1001,53 @@ window.DADOS = {
       "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
+      "id": "67f49daa64f92dd0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Correntes na Barra: O Brasil não conhece mais o chão que pisa",
+      "link": "https://www.congressoemfoco.com.br/artigo/129109/correntes-na-barra-o-brasil-nao-conhece-mais-o-chao-que-pisa",
+      "resumo": "Na véspera do segundo turno, uma cena registrada em ato pró-Flávio revela a distância entre a memória da escravidão e a linguagem política que ainda circula nas ruas brasileiras.",
+      "publicado_em": "2026-10-26T12:57:49-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
+      "id": "26b112a7b6f6ec79",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio reúne argumentos das contestações de Aécio e Jair Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/129063/flavio-reune-argumentos-das-contestacoes-de-aecio-e-jair-bolsonaro",
+      "resumo": "Senador questiona fiscalização, como o PSDB em 2014, e não reconhece a derrota, a exemplo do pai em 2022. Entre os três, perdeu pela maior diferença de votos.",
+      "publicado_em": "2026-10-26T12:52:18-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
+      "id": "0570d4f24af69264",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eleições suplementares elegem prefeitos em sete cidades; veja quem são",
+      "link": "https://www.congressoemfoco.com.br/noticia/128994/eleicoes-suplementares-elegem-prefeitos-em-sete-cidades-veja-quem-sao",
+      "resumo": "Votação ocorreu simultaneamente ao segundo turno para presidente e governador em cinco Estados e no Distrito Federal.",
+      "publicado_em": "2026-10-26T12:40:51-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
       "id": "b8e6f07de4654e2c",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -900,6 +1138,36 @@ window.DADOS = {
       "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
+      "id": "65aae2ee665fb8ff",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Escala 6x1, do fim ao fato",
+      "link": "https://www.congressoemfoco.com.br/artigo/128205/escala-6x1-do-fim-ao-fato",
+      "resumo": "A jornada de trabalho e a garantia de direitos. Uma nova agenda regulatória, do Congresso aos tribunais, passando pela mesa de negociação.",
+      "publicado_em": "2026-10-26T10:33:53-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
+      "id": "4c6c1cad15dc2f77",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O que o quarto mandato de Lula reserva às mulheres?",
+      "link": "https://www.congressoemfoco.com.br/coluna/128191/o-que-o-quarto-mandato-de-lula-reserva-as-mulheres",
+      "resumo": "Com três governadoras eleitas e novas lideranças no Congresso, cresce a expectativa sobre o espaço que as mulheres terão no quarto mandato do presidente, especialmente nos ministérios e no STF.",
+      "publicado_em": "2026-10-26T10:17:02-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
       "id": "e0b5c043fbee9c12",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
@@ -933,6 +1201,52 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "d163e7b5adaeefab",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política nacional para profissionais de portaria, vigia e controle de acesso",
+      "link": "https://www.camara.leg.br/noticias/1309849-projeto-cria-politica-nacional-para-profissionais-de-portaria-vigia-e-controle-de-acesso",
+      "resumo": "",
+      "publicado_em": "2026-10-26T16:23:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "portaria"
+      ],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
+      "id": "81f9b4d727916bc6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto suspende cobrança de tributos na importação de urânio",
+      "link": "https://www.camara.leg.br/noticias/1312038-projeto-suspende-cobranca-de-tributos-na-importacao-de-uranio",
+      "resumo": "",
+      "publicado_em": "2026-10-26T15:03:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
+      "id": "e9e00e15bb87dc44",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política para incentivar economia compartilhada no campo",
+      "link": "https://www.camara.leg.br/noticias/1310135-projeto-cria-politica-para-incentivar-economia-compartilhada-no-campo",
+      "resumo": "",
+      "publicado_em": "2026-10-26T14:08:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
     },
     {
       "id": "693615085a4e7339",
@@ -1104,6 +1418,42 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "328fa9ce19eb7fe8",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Confira programação do evento em que ANPD fará balanço dos seis anos de atuação",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/programacao-evento-anpd-balanco-seis-anos",
+      "resumo": "Encontro será no próximo dia 05/11, em Brasília, com apresentação dos resultados da Agência, debates sobre sua trajetória institucional e entrega do 4º Prêmio Danilo Doneda",
+      "publicado_em": "2026-10-26T16:08:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
+    },
+    {
+      "id": "ab171271c3581b3e",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD estabelece medidas corretivas à Prefeitura de Feira de Santana pelo vazamento de dados médicos de 1.200 pessoas",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-estabelece-medidas-corretivas-a-prefeitura-de-feira-de-santana-pelo-vazamento-de-dados-medicos-de-1-200-pessoas",
+      "resumo": "Decisão foi tomada após processo de fiscalização comprovar a exposição de informações de pacientes com HIV, anemia e fibromialgia no Diário Oficial do município baiano",
+      "publicado_em": "2026-10-26T14:41:49-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "decisao",
+        "processo",
+        "acao",
+        "exposicao"
+      ],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
     },
     {
       "id": "4b7839c9d30adab1",
