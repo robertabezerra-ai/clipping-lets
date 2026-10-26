@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-26T17:53:18-03:00",
+  "gerado_em": "2026-10-26T20:28:44-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -337,6 +337,23 @@
       "coletado_em": "2026-10-26T17:53:18-03:00"
     },
     {
+      "id": "19e52ee33192946f",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Presidente do TRT-15 recebe delegação que conquistou 32 medalhas na Olimpíada do Judiciário Federal",
+      "link": "https://trt15.jus.br/noticia/2026/presidente-do-trt-15-recebe-delegacao-que-conquistou-32-medalhas-na-olimpiada-do",
+      "resumo": "Presidente do TRT-15 recebe delegação que conquistou 32 medalhas na Olimpíada do Judiciário Federal anasiqueira Seg, 26/10/2026 - 19:04 Presidente do TRT-15 recebe delegação que conquistou 32 medalhas na Olimpíada do Judiciário Federal Conteúdo da Notícia No primeiro dia da IX Semana do Servidor, o ",
+      "publicado_em": "2026-10-26T19:04:03-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "acao",
+        "medalha"
+      ],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
       "id": "1434840fd5247612",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -418,6 +435,57 @@
       "coletado_em": "2026-10-26T17:53:18-03:00"
     },
     {
+      "id": "ba39b38913612d69",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Novidades da versão eproc: ampliação do endereço favorito e outras funcionalidades",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115775&pagina=1",
+      "resumo": "Atualização do último domingo (25).\n \n \tA versão 9.23 do eproc, atualizada no último domingo (25), traz funcionalidades que melhoram a experiência de usuários internos",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
+      "id": "49723d496bfec5cd",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Participe da consulta pública do Planejamento Estratégico de 2027-2032",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115850&pagina=1",
+      "resumo": "Formulário disponível até 29/10.\n \n\tEstá aberta a consulta pública e a consulta interna para a elaboração do Planejamento Estratégico 2027-2032 do Tribunal de Justiça de São",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
+      "id": "429eaf814286e16b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confederação questiona no STF lei que obriga seguradoras a comunicar recusa de propostas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confederacao-questiona-no-stf-lei-que-obriga-seguradoras-a-comunicar-recusa-de-propostas/",
+      "resumo": "Entidade pede que Supremo derrube norma de MS que estabelece prazo para informar a decisão e prevê multas em caso de descumprimento",
+      "publicado_em": "2026-10-26T18:14:25-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "decisao",
+        "prazo",
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
       "id": "3ca4d5bebea2e145",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -486,6 +554,80 @@
         "julga"
       ],
       "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "3cee114a6e9fd29d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi Alcolumbre e Hugo Motta visitam presidente Lula",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/26/davi-alcolumbre-e-hugo-motta-visitam-presidente-lula",
+      "resumo": "",
+      "publicado_em": "2026-10-26T19:13:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
+      "id": "08c0444454eac2b1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto proíbe ensino a distância em cursos de medicina e educação física",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-proibe-ensino-a-distancia-em-cursos-de-medicina-e-educacao-fisica",
+      "resumo": "",
+      "publicado_em": "2026-10-26T18:51:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
+      "id": "2b8fba8a7be00dd8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto em análise na CDH inclui o turismo entre os direitos dos idosos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-em-analise-na-cdh-inclui-o-turismo-entre-os-direitos-dos-idosos",
+      "resumo": "",
+      "publicado_em": "2026-10-26T18:32:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
+      "id": "61608ed8dc65c781",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto destina 1% de royalties da Margem Equatorial a servidor de ex-territórios",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-destina-1-de-royalties-da-margem-equatorial-a-servidor-de-ex-territorios",
+      "resumo": "",
+      "publicado_em": "2026-10-26T18:25:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
+      "id": "4c60bcd190f8418d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Proposta proriza iniciativas voltadas ao esporte feminino",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/proposta-proriza-iniciativas-voltadas-ao-esporte-feminino",
+      "resumo": "",
+      "publicado_em": "2026-10-26T17:54:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
     },
     {
       "id": "351eda55e3461ac3",
@@ -767,6 +909,20 @@
       "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
+      "id": "ff95c323786c9366",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal leva à OCDE debate sobre tecnologias de privacidade e inteligência artificial",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-leva-a-ocde-debate-sobre-tecnologias-de-privacidade-e-inteligencia-artificial",
+      "resumo": "",
+      "publicado_em": "2026-10-26T17:18:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
       "id": "fa4408d9efaf0e42",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -813,6 +969,20 @@
         "homenagem"
       ],
       "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "66a330ba2daeddbb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Fies remanescentes: inscrições abertas a partir de hoje (26)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/fies-remanescentes-inscricoes-abertas-nesta-segunda-26",
+      "resumo": "",
+      "publicado_em": "2026-10-26T17:30:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T16:37:55-03:00"
     },
     {
       "id": "e3b803fca06a3e01",
@@ -871,20 +1041,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-26T14:07:55-03:00"
-    },
-    {
-      "id": "66a330ba2daeddbb",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Fies remanescentes: inscrições abertas a partir de hoje (26)",
-      "link": "https://agenciagov.ebc.com.br/noticias/202610/fies-remanescentes-inscricoes-abertas-nesta-segunda-26",
-      "resumo": "",
-      "publicado_em": "2026-10-26T10:07:00-03:00",
-      "dia": "2026-10-26",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-10-26T16:37:55-03:00"
     },
     {
       "id": "f0f9cd0ccfbad81e",
@@ -989,6 +1145,50 @@
       "coletado_em": "2026-10-26T17:53:18-03:00"
     },
     {
+      "id": "7e55af4f30df37cd",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal leva à OCDE debate sobre tecnologias de privacidade e inteligência artificial",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-leva-a-ocde-debate-sobre-tecnologias-de-privacidade-e-inteligencia-artificial",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
+      "id": "428948c487aec27a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PL reconhece vitória de Lula e atribui a \"medidas eleitoreiras\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129234/pl-reconhece-vitoria-de-lula-e-atribui-a-medidas-eleitoreiras",
+      "resumo": "Valdemar Costa Neto questionou gastos sociais na reta final da campanha e cobrou esclarecimentos sobre o pleito.",
+      "publicado_em": "2026-10-26T20:08:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
+      "id": "62c59eb15cd91cab",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro anuncia que vai \"organizar a oposição\" contra Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/129233/flavio-bolsonaro-anuncia-que-vai-organizar-a-oposicao-contra-lula",
+      "resumo": "Após derrota no segundo turno, senador planeja reunir deputados e senadores eleitos para definir atuação no Congresso a partir de 2027.",
+      "publicado_em": "2026-10-26T18:15:36-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
       "id": "1c791b7618e8c2d2",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1019,6 +1219,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
+      "id": "17798ea1d607adaf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Trump sobre eleição brasileira: \"não governo o Brasil, governo os EUA\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129230/trump-sobre-eleicao-brasileira--nao-governo-o-brasil-governo-os-eua",
+      "resumo": "Presidente dos EUA declarou ainda gostar de Lula, mas afirmou que o processo lhe pareceu \"fraudado\".",
+      "publicado_em": "2026-10-26T17:18:21-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
     },
     {
       "id": "ed0eb1dd47693e6e",
@@ -1263,6 +1479,22 @@
       "coletado_em": "2026-10-26T16:37:55-03:00"
     },
     {
+      "id": "20e603616b37c48b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A virada de Lula começou onde fantasmas de Flávio perderam controle",
+      "link": "https://www.congressoemfoco.com.br/noticia/129017/a-virada-de-lula-comecou-onde-fantasmas-de-flavio-perderam-controle",
+      "resumo": "Ecos da campanha de Jair em 2022 marcaram a reta final de Flávio, enquanto Lula reorganizou política, comunicação e mobilização digital; saiba quem está por trás do fenômeno.",
+      "publicado_em": "2026-10-26T12:44:03-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
       "id": "0570d4f24af69264",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1338,6 +1570,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "00d40524ee1031c9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A virada de Lula em 2026: razões, mecanismos e lições",
+      "link": "https://www.congressoemfoco.com.br/coluna/128552/a-virada-de-lula-em-2026-razoes-mecanismos-e-licoes",
+      "resumo": "Mobilização de eleitores ausentes no primeiro turno, novas propostas de governo e estratégias de comunicação contribuíram para a recuperação de Lula e sua vitória na disputa presidencial.",
+      "publicado_em": "2026-10-26T11:29:59-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
     },
     {
       "id": "60eeab5b07a42037",
@@ -1451,6 +1699,37 @@
         "processo"
       ],
       "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "ff006bf650b22771",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Motta e Alcolumbre parabenizam Lula e reafirmam compromisso com harmonia institucional",
+      "link": "https://www.camara.leg.br/noticias/1314009-motta-e-alcolumbre-parabenizam-lula-e-reafirmam-compromisso-com-harmonia-institucional",
+      "resumo": "",
+      "publicado_em": "2026-10-26T20:17:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
+      "id": "472ce57fba599c68",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto facilita captação de recursos privados para produtores rurais",
+      "link": "https://www.camara.leg.br/noticias/1310277-projeto-facilita-captacao-de-recursos-privados-para-produtores-rurais",
+      "resumo": "",
+      "publicado_em": "2026-10-26T18:41:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
     },
     {
       "id": "4d2f85d7ff4b6d13",
@@ -2377,6 +2656,76 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-25T14:18:42-03:00"
+    },
+    {
+      "id": "d12637661357ebbd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro vence em Ponte Alta do Norte (SC)",
+      "link": "https://www.congressoemfoco.com.br/noticia/123766/flavio-bolsonaro-vence-em-ponte-alta-do-norte",
+      "resumo": "Com margem média de votos, Flávio Bolsonaro (PL) supera Lula (PT) na cidade em Santa Catarina e confirma vitória no segundo turno de 2026.",
+      "publicado_em": "2026-10-25T23:16:26-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
+      "id": "0e581f14175c541d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula ganha em Atalaia do Norte (AM); veja como a cidade votou",
+      "link": "https://www.congressoemfoco.com.br/noticia/123765/lula-ganha-em-atalaia-do-norte-veja-como-a-cidade-votou",
+      "resumo": "Com comparecimento baixo e margem folgada, Lula (PT) derrotou Flávio Bolsonaro (PL) no segundo turno em Atalaia do Norte, Amazonas.",
+      "publicado_em": "2026-10-25T23:16:19-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
+      "id": "386ac07c6e5b4201",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Serra Grande (PB): Lula tem 87,05% e vence o segundo turno",
+      "link": "https://www.congressoemfoco.com.br/noticia/123764/serra-grande-lula-tem-87-05-e-vence-o-segundo-turno",
+      "resumo": "(linhaFina) Com margem folgada sobre Flávio Bolsonaro, Lula (PT) garante a vitória em Serra Grande na Paraíba em eleição com comparecimento médio.",
+      "publicado_em": "2026-10-25T23:16:17-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
+      "id": "0b09038fe86c96c6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro vence em São Cristóvão do Sul (SC)",
+      "link": "https://www.congressoemfoco.com.br/noticia/123763/flavio-bolsonaro-vence-em-sao-cristovao-do-sul",
+      "resumo": "Candidato do PL derrotou Lula, do PT, por 634 votos de diferença no segundo turno em São Cristóvão do Sul, Santa Catarina.",
+      "publicado_em": "2026-10-25T23:16:15-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
+    },
+    {
+      "id": "45a5d3e4311c44d7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro vence em Maripá de Minas (MG)",
+      "link": "https://www.congressoemfoco.com.br/noticia/123762/flavio-bolsonaro-ganha-em-maripa-de-minas-veja-como-a-cidade-votou",
+      "resumo": "Com margem apertada, Flávio Bolsonaro (PL) derrotou Lula (PT) no segundo turno em Maripá de Minas, Minas Gerais.",
+      "publicado_em": "2026-10-25T23:16:12-03:00",
+      "dia": "2026-10-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
     },
     {
       "id": "851dac71b03f8dba",
@@ -17904,6 +18253,22 @@
         "acao"
       ],
       "coletado_em": "2026-10-15T16:41:21-03:00"
+    },
+    {
+      "id": "1758edb85361f2d9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Investir em combustíveis exige tecnologia e segurança jurídica",
+      "link": "https://www.congressoemfoco.com.br/noticia/123258/investir-em-combustiveis-exige-tecnologia-e-seguranca-juridica",
+      "resumo": "Empreendimento em Sorocaba reúne infraestrutura moderna e exemplifica os desafios de projetos industriais de longo prazo.",
+      "publicado_em": "2026-10-14T18:17:09-03:00",
+      "dia": "2026-10-14",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-10-26T20:28:44-03:00"
     },
     {
       "id": "7c37dec4ebc31b2b",
