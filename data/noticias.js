@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-26T16:37:55-03:00",
+  "gerado_em": "2026-10-26T17:53:18-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -208,14 +208,14 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
       "id": "cade",
       "status": "ok",
-      "itens": 27,
+      "itens": 28,
       "erro": null
     },
     {
@@ -323,6 +323,34 @@ window.DADOS = {
       "coletado_em": "2026-10-26T16:37:55-03:00"
     },
     {
+      "id": "dfa808e7eef5cc20",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Expediente presencial no Arquivo é suspenso por falta de energia elétrica",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/expediente-presencial-no-arquivo-e-suspenso-por-falta-de-energia-eletrica",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
+      "id": "1434840fd5247612",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 abre IX Semana do Servidor com caminhada e atividades de saúde e bem-estar",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-abre-ix-semana-do-servidor-com-caminhada-e-atividades-de-saude-e-bem-estar",
+      "resumo": "TRT-15 abre IX Semana do Servidor com caminhada e atividades de saúde e bem-estar anasiqueira Seg, 26/10/2026 - 17:10 TRT-15 abre IX Semana do Servidor com caminhada e atividades de saúde e bem-estar Conteúdo da Notícia A IX Semana do Servidor do Tribunal Regional do Trabalho da 15ª Região foi abert",
+      "publicado_em": "2026-10-26T17:10:48-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
       "id": "d1342bf4e048326c",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -372,6 +400,60 @@ window.DADOS = {
       "coletado_em": "2026-10-26T16:37:55-03:00"
     },
     {
+      "id": "2065511c700c898b",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação de mulher por injúria racial contra ex-companheiro",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115845&pagina=1",
+      "resumo": "Crime em ambiente virtual de ampla visibilidade.\n \n\tA 14ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve decisão da 2ª Vara",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
+      "id": "3ca4d5bebea2e145",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF define prazo para aplicação do piso nacional do magistério a professores temporários",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-define-prazo-para-aplicacao-do-piso-nacional-do-magisterio-a-professores-temporarios/",
+      "resumo": "Decisão afasta pagamentos retroativos para estados e municípios que já adotaram o piso e estabelece efeitos a partir de 2027 para os demais",
+      "publicado_em": "2026-10-26T17:10:49-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "decisao",
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
+      "id": "351f4de3ddc63d18",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF lança nova edição de publicação trilíngue com resumos de julgamentos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-lanca-nova-edicao-de-publicacao-trilingue-com-resumos-de-julgamentos-da-corte/",
+      "resumo": "Publicação reúne decisões proferidas pelo Plenário entre maio e agosto de 2026 e aborda temas como ampliação do alcance da Lei Maria da Penha, igualdade salarial de gênero e mineração em terras indígenas",
+      "publicado_em": "2026-10-26T17:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-10-22T19:53:00-03:00"
+    },
+    {
       "id": "90e3c18f381b6489",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -404,6 +486,36 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "351eda55e3461ac3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Presidente e governadores terão novas datas de posse em 2027",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/presidente-e-governadores-terao-novas-datas-de-posse-em-2027",
+      "resumo": "",
+      "publicado_em": "2026-10-26T17:26:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
+      "id": "efb812dd4b177935",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado vai analisar projeto que cria o Orçamento Mulher",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senado-vai-analisar-projeto-que-cria-o-orcamento-mulher",
+      "resumo": "",
+      "publicado_em": "2026-10-26T16:48:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
     },
     {
       "id": "442bccb33af6d442",
@@ -819,6 +931,126 @@ window.DADOS = {
       "coletado_em": "2026-10-26T16:37:55-03:00"
     },
     {
+      "id": "506af9ad4b890a3c",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Jogo é lazer e diversão, não meio de enriquecer, diz José Manssur",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2023/setembro/jogo-e-lazer-e-diversao-nao-meio-de-enriquecer-diz-jose-manssur",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
+      "id": "9c4867d9aa7320f2",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Para ministro da Fazenda, Brasil vai inaugurar ciclo promissor com reformas Fiscal e Tributária",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2023/maio/para-ministro-da-fazenda-brasil-vai-inaugurar-ciclo-promissor-com-reformas-fiscal-e-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
+      "id": "6c02f350ed80dfaf",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Haddad assume compromisso de nova âncora fiscal e afirma que Brasil vai recuperar confiança de investidores e da população",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2023/marco/haddad-assume-compromisso-de-nova-ancora-fiscal-e-afirma-que-brasil-vai-recuperar-confianca-de-investidores-e-da-populacao",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
+      "id": "55bbddd501cb4958",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Emissão de debêntures incentivadas captou R$ 4,5 bilhões em novembro",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2023/janeiro/emissao-de-debentures-incentivadas-captou-r-4-5-bilhoes-em-novembro",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
+      "id": "1c791b7618e8c2d2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Partidos aliados de Flávio parabenizam Lula pela vitória eleitoral",
+      "link": "https://www.congressoemfoco.com.br/noticia/129232/partidos-aliados-de-flavio-parabenizam-lula-pela-vitoria-eleitoral",
+      "resumo": "Dirigentes de siglas que apoiaram o senador no segundo turno defenderam diálogo institucional e pacificação nacional para o próximo mandato.",
+      "publicado_em": "2026-10-26T17:34:59-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
+      "id": "cf77b62c24120de6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio acusa Lula de comprar votos e diz que pedirá cassação da chapa",
+      "link": "https://www.congressoemfoco.com.br/noticia/129231/flavio-acusa-lula-de-comprar-votos-e-diz-que-pedira-cassacao-da-chapa",
+      "resumo": "Após derrota nas urnas, senador acusa governo de favorecer a candidatura à reeleição e contesta prorrogação do horário de votação.",
+      "publicado_em": "2026-10-26T17:20:40-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
+      "id": "ed0eb1dd47693e6e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio diz que PF o intimou a entregar passaportes após derrota",
+      "link": "https://www.congressoemfoco.com.br/noticia/129229/flavio-diz-que-pf-o-intimou-a-entregar-passaportes-apos-derrota",
+      "resumo": "Senador disse ter sido intimado pela Polícia Federal após o resultado do segundo turno e está proibido de deixar o Brasil.",
+      "publicado_em": "2026-10-26T17:09:28-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
+      "id": "074cfcc0eadfdcff",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Urnas registraram apenas 34 mil votos após as 17h; confira os locais",
+      "link": "https://www.congressoemfoco.com.br/noticia/129228/urnas-registraram-apenas-34-mil-votos-apos-as-17h-confira-os-locais",
+      "resumo": "Levantamento do Congresso em Foco com dados do TSE identificou 34.330 votos a partir das 17h. Pelo menos 28.257 (82,3%) foram registrados até as 17h05, antes da comunicação nacional da prorrogação determinada por Zanin.",
+      "publicado_em": "2026-10-26T16:19:34-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
       "id": "43efc556d160e2bb",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1138,6 +1370,24 @@ window.DADOS = {
       "coletado_em": "2026-10-26T14:07:55-03:00"
     },
     {
+      "id": "99a4c7734d4fa076",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Reforma tributária: Neutra para o Tesouro, cara para a Universidade",
+      "link": "https://www.congressoemfoco.com.br/artigo/128344/reforma-tributaria-neutra-para-o-tesouro-cara-para-a-universidade",
+      "resumo": "Nos contratos de limpeza e vigilância, que possui em sua grande composição verbas trabalhistas, a CBS pode pesar mais, e o tributo que volta à União não volta ao orçamento da universidade.",
+      "publicado_em": "2026-10-26T10:54:47-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "reforma tributaria",
+        "trabalhista",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
       "id": "65aae2ee665fb8ff",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1201,6 +1451,36 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "4d2f85d7ff4b6d13",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto incentiva emprego para mães e escola para autistas",
+      "link": "https://www.camara.leg.br/noticias/1310589-projeto-incentiva-emprego-para-maes-e-escola-para-autistas",
+      "resumo": "",
+      "publicado_em": "2026-10-26T17:47:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
+    },
+    {
+      "id": "02dcf28970277414",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria programa para simplificar regularização ambiental e fundiária de imóveis rurais",
+      "link": "https://www.camara.leg.br/noticias/1310183-projeto-cria-programa-para-simplificar-regularizacao-ambiental-e-fundiaria-de-imoveis-rurais",
+      "resumo": "",
+      "publicado_em": "2026-10-26T17:14:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
     },
     {
       "id": "d163e7b5adaeefab",
@@ -1418,6 +1698,20 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-10-26T14:07:55-03:00"
+    },
+    {
+      "id": "913cf0512041b55c",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "ICN completa 25 anos em prol da concorrência e do desenvolvimento econômico",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/icn-completa-25-anos-em-prol-da-concorrencia-e-do-desenvolvimento-economico",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-26T17:53:18-03:00"
     },
     {
       "id": "328fa9ce19eb7fe8",
@@ -5407,24 +5701,6 @@ window.DADOS = {
         "julgamento",
         "julga",
         "prazo"
-      ],
-      "coletado_em": "2026-10-22T19:53:00-03:00"
-    },
-    {
-      "id": "351f4de3ddc63d18",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "STF lança nova edição de publicação trilíngue com resumos de julgamentos",
-      "link": "https://noticias.stf.jus.br/postsnoticias/stf-lanca-nova-edicao-de-publicacao-trilingue-com-resumos-de-julgamentos-da-corte/",
-      "resumo": "Publicação reúne decisões proferidas pelo Plenário entre maio e agosto de 2026 e aborda temas como ampliação do alcance da Lei Maria da Penha, igualdade salarial de gênero e mineração em terras indígenas",
-      "publicado_em": "2026-10-22T17:19:29-03:00",
-      "dia": "2026-10-22",
-      "data_estimada": false,
-      "score": 68,
-      "tags": [
-        "julgamento",
-        "julga",
-        "acao"
       ],
       "coletado_em": "2026-10-22T19:53:00-03:00"
     },
