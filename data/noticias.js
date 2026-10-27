@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-27T17:25:29-03:00",
+  "gerado_em": "2026-10-27T20:22:29-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,38 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "4f2c61dbad01c4b1",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Serviços de TI do TRT-2 ficam indisponíveis no feriado de 2/11",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/servicos-de-ti-do-trt-2-ficam-indisponiveis-no-feriado-de-2-11",
+      "resumo": "",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "8b757b462bd76dad",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Regional aprova cancelamento de súmulas e teses jurídicas prevalecentes",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/regional-aprova-cancelamento-de-sumulas-e-teses-juridicas-prevalecentes",
+      "resumo": "",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 76,
+      "tags": [
+        "tese",
+        "sumula",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
       "id": "66f8b22318ffba2d",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -315,6 +347,58 @@ window.DADOS = {
       "coletado_em": "2026-10-27T13:12:35-03:00"
     },
     {
+      "id": "6370558ef421ae41",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP promove capacitação para uso de ferramentas de inteligência artificial",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115863&pagina=1",
+      "resumo": "Aula sobre Minuta IA no próximo dia 3.\n \n\tO Tribunal de Justiça de São Paulo investe na capacitação de magistrados e servidores para o uso",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "2621e3b2e3cb9b5d",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "eproc atinge 5 milhões de processos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115858&pagina=1",
+      "resumo": "Sistema já supera 20% da tramitação no Estado.\n \n\tO eproc alcançou a marca de 5 milhões de processos, entre ações em tramitação e já extintas,",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "6739512477ba0b59",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "CESTF prorroga para próxima sexta (30) prazo de inscrições para audiência acadêmica no Rio de Janeiro",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cestf-prorroga-para-proxima-sexta-30-prazo-de-inscricoes-para-audiencia-academica-no-rio-de-janeiro/",
+      "resumo": "Audiência ocorrerá na UFRJ no dia 10 de novembro; prazo para inscrição de instituições interessadas em realizar exposição oral foi prorrogado",
+      "publicado_em": "2026-10-27T19:12:09-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "prorrogad",
+        "prazo",
+        "cade",
+        "exposicao"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
       "id": "24012f814d15b848",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -361,6 +445,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-27T13:12:35-03:00"
+    },
+    {
+      "id": "55ff1edde4cc74af",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Gasto público voltado às mulheres poderá ser destacado na lei orçamentária",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/27/gasto-publico-voltado-as-mulheres-podera-ser-destacado-na-lei-orcamentaria",
+      "resumo": "",
+      "publicado_em": "2026-10-27T18:32:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
     },
     {
       "id": "e53ee10c1055bc79",
@@ -570,6 +668,51 @@ window.DADOS = {
       "coletado_em": "2026-10-27T13:12:35-03:00"
     },
     {
+      "id": "1da53999c2769877",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "Atraso no processamento do débito automático exige atenção de contribuintes",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/atraso-no-processamento-do-debito-automatico-exige-atencao-de-contribuintes",
+      "resumo": "",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "c0fd7529eec3f3cd",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "No “Bom Dia, Ministro”, João Paulo Capobianco detalha combate a incêndios florestais no Pará e Amazonas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/no-201cbom-dia-ministro201d-joao-paulo-capobianco-detalha-combate-a-incendios-florestais-no-para-e-amazonas",
+      "resumo": "",
+      "publicado_em": "2026-10-27T18:50:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "e9a79f50be567404",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mais de 700 moradias estão aptas para contratação no Minha Casa, Minha Vida Rural",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/mais-de-700-moradias-estao-aptas-para-contratacao-no-minha-casa-minha-vida-rural",
+      "resumo": "",
+      "publicado_em": "2026-10-27T18:09:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
       "id": "c8cebc75b4559ca1",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -589,15 +732,15 @@ window.DADOS = {
       "id": "e511d829e898447c",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Telessaúde avança, chega a 63 núcleos e R$ 248,9 milhões em recursos e incentivos",
+      "titulo": "Telessaúde tem expansão de 384% e amplia o acesso da população aos serviços de saúde",
       "link": "https://agenciagov.ebc.com.br/noticias/202610/telessaude-avanca-no-sus-chega-a-63-nucleos-e-ultrapassa-r-248-9-milhoes-em-recursos-e-incentivos",
       "resumo": "",
       "publicado_em": "2026-10-27T16:05:00-03:00",
       "dia": "2026-10-27",
       "data_estimada": false,
-      "score": 48,
+      "score": 46,
       "tags": [
-        "recurso"
+        "acao"
       ],
       "coletado_em": "2026-10-27T17:25:29-03:00"
     },
@@ -803,6 +946,306 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-10-27T13:12:35-03:00"
+    },
+    {
+      "id": "8cf41210512dbd7d",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Área técnica da CVM informa sobre entrada em funcionamento do Sistema de Gestão de Intermediários",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-informa-sobre-entrada-em-funcionamento-do-sistema-de-gestao-de-intermediarios",
+      "resumo": "",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "960602a9572e9bfb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Federação PT-PCdoB-PV declara apoio à recondução de Hugo Motta em 2027",
+      "link": "https://www.congressoemfoco.com.br/noticia/129570/federacao-pt-pcdob-pv-declara-apoio-a-reconducao-de-hugo-motta-em-2027",
+      "resumo": "Com 88 deputados eleitos, federação pretende integrar bloco de centro para viabilizar propostas do governo Lula na próxima legislatura.",
+      "publicado_em": "2026-10-27T20:05:26-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "aeb03b05baf2b8f3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Adamantina (SP), Flávio Bolsonaro vence com 73,60% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129569/em-adamantina-sp-flavio-bolsonaro-vence-com-73-60-dos-votos",
+      "resumo": "Candidato do PL supera Lula por 9.407 votos em Adamantina, em São Paulo, no segundo turno.",
+      "publicado_em": "2026-10-27T20:03:45-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "350c23cb44c9f72a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro vence em Monte Alegre do Sul (SP)",
+      "link": "https://www.congressoemfoco.com.br/noticia/129568/flavio-bolsonaro-vence-em-monte-alegre-do-sul-sp",
+      "resumo": "Candidato do PL supera Lula, do PT, por 1.692 votos de diferença no segundo turno em Monte Alegre do Sul.",
+      "publicado_em": "2026-10-27T20:01:55-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "f1c15f01dd6c7a01",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Floresta (PE), Lula vence com 85,73% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129567/em-floresta-pe-lula-vence-com-85-73-dos-votos",
+      "resumo": "Resultado do segundo turno em Floresta, Pernambuco: Lula (PT) derrota Flávio Bolsonaro (PL) com margem folgada de 71,46 pontos percentuais.",
+      "publicado_em": "2026-10-27T20:01:36-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "a18230a0a30efe6e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Herculândia (SP), Flávio Bolsonaro vence com 65,36% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129566/em-herculandia-sp-flavio-bolsonaro-vence-com-65-36-dos-votos",
+      "resumo": "Com margem folgada, Flávio Bolsonaro (PL) derrotou Lula (PT) no segundo turno em São Paulo e ficou acima do desempenho do Estado.",
+      "publicado_em": "2026-10-27T20:01:33-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "3fffd05e52978e9c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Barra Bonita (SP), Flávio Bolsonaro vence com 65,74% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129565/em-barra-bonita-sp-flavio-bolsonaro-vence-com-65-74-dos-votos",
+      "resumo": "Com margem folgada, Flávio Bolsonaro (PL) derrotou Lula (PT) em Barra Bonita, São Paulo, no segundo turno disputado em 25 de outubro de 2026.",
+      "publicado_em": "2026-10-27T19:53:49-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "b023492c08a8e2bb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Nova Roma (GO), Lula vence com 64,00% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129564/em-nova-roma-go-lula-vence-com-64-00-dos-votos",
+      "resumo": "Com comparecimento baixo e margem folgada, Lula (PT) derrotou Flávio Bolsonaro (PL) no segundo turno em Nova Roma, Goiás.",
+      "publicado_em": "2026-10-27T19:53:21-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "108369e80cdca014",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Martinópole (CE), Lula vence com 80,41% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129563/em-martinopole-ce-lula-vence-com-80-41-dos-votos",
+      "resumo": "Com margem folgada, Lula (PT) derrotou Flávio Bolsonaro (PL) no segundo turno em Martinópole, no Ceará, com comparecimento alto às urnas.",
+      "publicado_em": "2026-10-27T19:53:18-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "9d45751bef4b660a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Nortelândia (MT), Lula vence com 50,31% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129562/em-nortelandia-mt-lula-vence-com-50-31-dos-votos",
+      "resumo": "Candidato vira o placar em relação ao primeiro turno e supera Flávio Bolsonaro por 23 votos em Mato Grosso",
+      "publicado_em": "2026-10-27T19:49:07-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "2d88910ba7be1be6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Inhumas (GO), Flávio Bolsonaro vence com 57,64% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129561/em-inhumas-go-flavio-bolsonaro-vence-com-57-64-dos-votos",
+      "resumo": "Candidato do PL supera Lula, do PT, por 15,28 pontos percentuais no segundo turno em Inhumas, em Goiás.",
+      "publicado_em": "2026-10-27T19:49:01-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "42617ee2c9f6f890",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence a eleição presidencial em Viçosa (MG)",
+      "link": "https://www.congressoemfoco.com.br/noticia/129560/lula-vence-a-eleicao-presidencial-em-vicosa-mg",
+      "resumo": "Com margem folgada, Lula (PT) derrotou Flávio Bolsonaro (PL) no segundo turno em Viçosa, em Minas Gerais.",
+      "publicado_em": "2026-10-27T19:48:42-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "a54d19869ce2ae88",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro vence a eleição presidencial em Ascurra (SC)",
+      "link": "https://www.congressoemfoco.com.br/noticia/129559/flavio-bolsonaro-vence-a-eleicao-presidencial-em-ascurra-sc",
+      "resumo": "Com margem folgada de 63,78 pontos percentuais e comparecimento alto, Flávio Bolsonaro (PL) derrotou Lula (PT) no segundo turno em Ascurra, Santa Catarina.",
+      "publicado_em": "2026-10-27T19:48:33-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "d79d0108eb312c69",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Verdejante (PE), Lula vence com 87,16% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129558/em-verdejante-pe-lula-vence-com-87-16-dos-votos",
+      "resumo": "Com margem folgada sobre Flávio Bolsonaro, Lula somou 5.919 votos em Verdejante no segundo turno, com comparecimento alto nas urnas.",
+      "publicado_em": "2026-10-27T19:48:31-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "40b4c15e62dc4085",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro vence em São Félix de Minas (MG)",
+      "link": "https://www.congressoemfoco.com.br/noticia/129557/flavio-bolsonaro-vence-em-sao-felix-de-minas-mg",
+      "resumo": "Resultado do segundo turno em São Félix de Minas, Minas Gerais: Flávio Bolsonaro (PL) derrota Lula (PT) por margem média de 4,28 pontos percentuais.",
+      "publicado_em": "2026-10-27T19:48:01-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "0f9fb161d25b6e10",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro vence em Cruzeiro da Fortaleza (MG)",
+      "link": "https://www.congressoemfoco.com.br/noticia/129556/flavio-bolsonaro-vence-em-cruzeiro-da-fortaleza-mg",
+      "resumo": "Com margem folgada, Flávio Bolsonaro (PL) derrotou Lula (PT) em Cruzeiro da Fortaleza, em Minas Gerais, no segundo turno.",
+      "publicado_em": "2026-10-27T19:47:38-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "5fc50936145d00b4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Rio Vermelho (MG), Lula vence com 65,47% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129555/em-rio-vermelho-mg-lula-vence-com-65-47-dos-votos",
+      "resumo": "Com comparecimento baixo e margem folgada, Lula (PT) derrotou Flávio Bolsonaro (PL) em Minas Gerais no segundo turno realizado em 25 de outubro de 2026.",
+      "publicado_em": "2026-10-27T19:47:25-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "f7ff042e6765343f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Aurilândia (GO), Lula vence com 51,28% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129554/em-aurilandia-go-lula-vence-com-51-28-dos-votos",
+      "resumo": "Após virada em relação ao primeiro turno, Lula (PT) derrota Flávio Bolsonaro (PL) em Aurilândia, em Goiás, com margem média de votos válidos.",
+      "publicado_em": "2026-10-27T19:47:20-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "542b79b3e00bf075",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula vence a eleição presidencial em Coribe (BA)",
+      "link": "https://www.congressoemfoco.com.br/noticia/129553/lula-vence-a-eleicao-presidencial-em-coribe-ba",
+      "resumo": "Com margem folgada sobre Flávio Bolsonaro, Lula garantiu a vitória em Coribe no segundo turno de 2026; abstenção ficou em 22,63%.",
+      "publicado_em": "2026-10-27T19:45:48-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "f5c42346bc08b452",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Jaramataia (AL), Lula vence com 77,73% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129552/em-jaramataia-al-lula-vence-com-77-73-dos-votos",
+      "resumo": "Candidato do PT supera Flávio Bolsonaro, do PL, por 2.258 votos de diferença no segundo turno em Jaramataia, em Alagoas.",
+      "publicado_em": "2026-10-27T19:45:45-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "7ce17dd913264f79",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Carlos Barbosa (RS), Flávio Bolsonaro vence com 76,11% dos votos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129551/em-carlos-barbosa-rs-flavio-bolsonaro-vence-com-76-11-dos-votos",
+      "resumo": "Com margem folgada de 10.584 votos e 52,22 pontos percentuais, Flávio Bolsonaro (PL) derrotou Lula (PT) no segundo turno em Carlos Barbosa, no Rio Grande do Sul.",
+      "publicado_em": "2026-10-27T19:45:30-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
     },
     {
       "id": "2d5e98603686567d",
@@ -1726,7 +2169,7 @@ window.DADOS = {
       "id": "29d205df904bdf59",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "CNJ orienta sistema de Justiça a identificar e combater violência processual contra mulheres",
+      "titulo": "CNJ orienta sistema de justiça a identificar e combater violência processual contra mulheres",
       "link": "https://www.cnj.jus.br/cnj-orienta-sistema-de-justica-a-identificar-e-combater-violencia-processual-contra-mulheres/",
       "resumo": "Mulheres que procuram a Justiça para denunciar situações de violência passam a contar com novas diretrizes destinadas a impedir que o próprio processo judicial seja utilizado como instrumento de intimidação, perseguição ou retaliação. O Conselho Nacional de Justiça (CNJ) aprovou, nesta terça-feira (",
       "publicado_em": "2026-10-27T12:00:00-03:00",
@@ -1755,6 +2198,131 @@ window.DADOS = {
         "premio"
       ],
       "coletado_em": "2026-10-27T17:25:29-03:00"
+    },
+    {
+      "id": "aa627b0c450047e7",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Cinco magistrados do TJBA são penalizados pelo CNJ por envolvimento na Operação Faroeste",
+      "link": "https://www.cnj.jus.br/cinco-magistrados-do-tjba-sao-penalizados-pelo-cnj-por-envolvimento-na-operacao-faroeste/",
+      "resumo": "Por unanimidade, o Plenário do Conselho Nacional de Justiça (CNJ) julgou procedentes as imputações disciplinares contra cinco magistrados do Tribunal de Justiça da Bahia (TJBA), por irregularidades relacionadas à Operação Faroeste, que apurou esquema de venda de decisões judiciais em disputas por te",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "1ce86c00fdd9b09c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Serventias desacumuladas serão excluídas de concurso para cartórios capixabas, decide CNJ",
+      "link": "https://www.cnj.jus.br/serventias-desacumuladas-serao-excluidas-de-concurso-para-cartorios-capixabas-decide-cnj/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) decidiu, por maioria, excluir de edital de concurso público realizado pelo Tribunal de Justiça do Espírito Santo (TJES) os cartórios extrajudiciais criados por lei estadual a partir da desacumulação de atribuições de serventias preexistentes que já estavam provid",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decide",
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "339a6bb3ca4b0e4f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Relatório de GT do CNJ aponta para evolução de política para aposentadoria na magistratura",
+      "link": "https://www.cnj.jus.br/relatorio-de-gt-do-cnj-aponta-para-evolucao-de-politica-para-aposentadoria-na-magistratura/",
+      "resumo": "Grupo de trabalho instituído pelo Conselho Nacional de Justiça (CNJ) concluiu uma proposta de Política Nacional de Ações Voltadas à Aposentadoria da Magistratura. A minuta compõe o relatório entregue ao presidente do órgão e do Supremo Tribunal Federal (STF), ministro Edson Fachin, nesta terça-feira",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "4124bef82a710dd4",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Novas regras para transparência e segurança à cessão de precatórios são propostas pelo Plenário do CNJ",
+      "link": "https://www.cnj.jus.br/novas-regras-para-transparencia-e-seguranca-a-cessao-de-precatorios-sao-propostas-no-plenario-do-cnj/",
+      "resumo": "A cessão de créditos de precatórios poderá passar a seguir regras nacionais mais rígidas de transparência, rastreabilidade e controle, com a criação de uma central única para registro das operações e a exigência de novos mecanismos de proteção aos credores. As medidas estão previstas em proposta de ",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "novas regras",
+        "precatorio",
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "e7e3e7cf41240474",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Inscrições no Prêmio CNJ Memória do Poder Judiciário 2027 estão abertas até 11/12",
+      "link": "https://www.cnj.jus.br/inscricoes-no-premio-cnj-memoria-do-poder-judiciario-2027-estao-abertas-ate-11-12/",
+      "resumo": "Para reconhecer e valorizar as histórias que remontam a trajetória do Poder Judiciário e revelam caminhos para compreender o presente e construir o futuro, o Prêmio CNJ Memória do Poder Judiciário 2027 está com as inscrições abertas. Até 11 de dezembro, os interessados podem se inscrever pelo formul",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "ca55166f1014a9aa",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Federação PT-PCdoB-PV anuncia apoio à reeleição de Motta para presidente da Câmara",
+      "link": "https://www.camara.leg.br/noticias/1314337-federacao-pt-pcdob-pv-anuncia-apoio-a-reeleicao-de-motta-para-presidente-da-camara",
+      "resumo": "",
+      "publicado_em": "2026-10-27T19:23:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "146fbb0fec77ee34",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê política de cuidado continuado para pessoas com deficiência de alta dependência",
+      "link": "https://www.camara.leg.br/noticias/1310568-projeto-preve-politica-de-cuidado-continuado-para-pessoas-com-deficiencia-de-alta-dependencia",
+      "resumo": "",
+      "publicado_em": "2026-10-27T18:42:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
+    },
+    {
+      "id": "47a27f78aa627346",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política de rastreabilidade bovina individual",
+      "link": "https://www.camara.leg.br/noticias/1310280-projeto-cria-politica-de-rastreabilidade-bovina-individual",
+      "resumo": "",
+      "publicado_em": "2026-10-27T18:19:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
     },
     {
       "id": "11d4fa18e355e4fe",
