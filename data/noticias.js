@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-27T13:12:35-03:00",
+  "gerado_em": "2026-10-27T16:02:45-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,7 +173,7 @@ window.DADOS = {
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 29,
+      "itens": 28,
       "erro": null
     },
     {
@@ -208,14 +208,14 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
       "status": "ok",
-      "itens": 28,
+      "itens": 29,
       "erro": null
     },
     {
@@ -250,6 +250,20 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "66f8b22318ffba2d",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 orienta sobre prevenção e combate ao assédio eleitoral após as eleições",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-orienta-sobre-prevencao-e-combate-ao-assedio-eleitoral-apos-eleicoes",
+      "resumo": "TRT-15 orienta sobre prevenção e combate ao assédio eleitoral após as eleições anasiqueira Ter, 27/10/2026 - 15:59 TRT-15 orienta sobre prevenção e combate ao assédio eleitoral após as eleições Conteúdo da Notícia Com o encerramento das Eleições 2026, o Tribunal Regional do Trabalho da 15ª Região re",
+      "publicado_em": "2026-10-27T15:59:27-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
     {
       "id": "08eda9d9a17d16ad",
       "fonte_id": "tjsp",
@@ -304,7 +318,7 @@ window.DADOS = {
       "id": "bd2c73bca3a989c9",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "STF realizará audiência pública sobre MP que trata de apostas esportivas",
+      "titulo": "STF realizará audiência pública sobre MP das bets",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-realizara-audiencia-publica-sobre-mp-que-trata-de-apostas-esportivas/",
       "resumo": "Encontro será realizado em 3 de novembro, às 10h, com a participação de representantes de instituições públicas, associações e clubes de futebol",
       "publicado_em": "2026-10-27T11:13:04-03:00",
@@ -315,6 +329,62 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-27T13:12:35-03:00"
+    },
+    {
+      "id": "cb6555dff2bf1ab6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pauta da CAS tem prevenção ao câncer de pele para trabalhadores",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/pauta-da-cas-tem-prevencao-ao-cancer-de-pele-para-trabalhadores",
+      "resumo": "",
+      "publicado_em": "2026-10-27T15:40:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "078aac00fc815218",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senadores debatem efetividade das ações de proteção do povo indígena ianomâmi",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senadores-debatem-efetividade-das-acoes-de-protecao-do-povo-indigena-ianomami",
+      "resumo": "",
+      "publicado_em": "2026-10-27T14:42:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "fa3dbb2094769509",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "PL terá mais governadores e maior bancada do Senado em 2027",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/pl-tera-mais-governadores-e-maior-bancada-do-senado-em-2027",
+      "resumo": "",
+      "publicado_em": "2026-10-27T14:13:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "856f7b3a51175480",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lideranças ianomâmis cobram proteção e continuidade de ações ambientais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/27/liderancas-ianomamis-cobram-protecao-e-continuidade-de-acoes-ambientais",
+      "resumo": "",
+      "publicado_em": "2026-10-27T13:50:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
     },
     {
       "id": "0d84b8e1842637bd",
@@ -422,6 +492,22 @@ window.DADOS = {
       "coletado_em": "2026-10-27T13:12:35-03:00"
     },
     {
+      "id": "45fd2e0c479a35ca",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende mais de 17 toneladas de barbatanas de tubarão em porto de Santa Catarina",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/receita-federal-apreende-mais-de-17-toneladas-de-barbatanas-de-tubarao-em-porto-de-santa-catarina",
+      "resumo": "",
+      "publicado_em": "2026-10-27T14:44:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
       "id": "80f2076b51d444ab",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -436,6 +522,64 @@ window.DADOS = {
         "seminario"
       ],
       "coletado_em": "2026-10-27T13:12:35-03:00"
+    },
+    {
+      "id": "e13aa9735e308a38",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Controle do câncer da mulher negra é destaque do Outubro Rosa 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/controle-do-cancer-da-mulher-negra-e-destaque-do-outubro-rosa-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-27T15:12:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "817c2276046bf562",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Receita apreende mais de 17 toneladas de barbatanas de tubarão em porto de Santa Catarina",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/receita-apreende-mais-de-17-toneladas-de-barbatanas-de-tubarao-em-porto-de-santa-catarina",
+      "resumo": "",
+      "publicado_em": "2026-10-27T14:44:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "1f1a604cf01a4cbb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo Federal libera R$ 13,6 milhões para ações da Defesa Civil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/governo-federal-libera-r-13-6-milhoes-para-acoes-da-defesa-civil",
+      "resumo": "",
+      "publicado_em": "2026-10-27T14:42:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "2a36bc4eeb358e95",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pé-de-Meia é caminho para a construção do futuro dos estudantes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pe-de-meia-como-caminho-para-a-construcao-do-futuro-dos-estudantes",
+      "resumo": "",
+      "publicado_em": "2026-10-27T14:10:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
     },
     {
       "id": "88a773e48deb22ff",
@@ -508,6 +652,36 @@ window.DADOS = {
       "coletado_em": "2026-10-27T13:12:35-03:00"
     },
     {
+      "id": "33e7324c97ea3c29",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal destaca Programa Confia em seminário regional sobre conformidade cooperativa na Guatemala",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/receita-federal-destaca-programa-confia-em-seminario-regional-sobre-conformidade-cooperativa-na-guatemala",
+      "resumo": "",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "0c5ec7625449ee6e",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Três estados ultrapassam no segundo quadrimestre o limite da despesa com pessoal estabelecido pela LRF",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/tres-estados-ultrapassam-no-segundo-quadrimestre-o-limite-da-despesa-com-pessoal-estabelecido-pela-lrf",
+      "resumo": "",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
       "id": "938a37a5fc6c0ee6",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -537,6 +711,318 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-10-27T13:12:35-03:00"
+    },
+    {
+      "id": "dfd661e9591bb2a5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A comunidade LGBTI+ também ajudou a construir a vitória de Lula",
+      "link": "https://www.congressoemfoco.com.br/artigo/129297/a-comunidade-lgbti-tambem-ajudou-a-construir-a-vitoria-de-lula",
+      "resumo": "Mobilização nas eleições de 2026 e crescimento da representação política ampliam as expectativas por investimentos em saúde, educação, segurança e políticas de combate à discriminação no quarto mandato.",
+      "publicado_em": "2026-10-27T15:50:33-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "02511c13d1e733f4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro venceu eleição presidencial no Acre",
+      "link": "https://www.congressoemfoco.com.br/noticia/129296/flavio-bolsonaro-venceu-eleicao-presidencial-no-acre",
+      "resumo": "Candidato do PL obteve 66,57% dos votos válidos no 2º turno. Veja os números e a comparação com o 1º turno.",
+      "publicado_em": "2026-10-27T15:45:32-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "17befcba42fe4e40",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro venceu eleição presidencial em Mato Grosso do Sul",
+      "link": "https://www.congressoemfoco.com.br/noticia/129295/flavio-bolsonaro-venceu-eleicao-presidencial-em-mato-grosso-do-sul",
+      "resumo": "Candidato do PL obteve 59,60% dos votos válidos no 2º turno; veja os números e a comparação com o 1º turno.",
+      "publicado_em": "2026-10-27T15:45:23-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "1452e3912254cb7b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula venceu eleição presidencial em Minas Gerais",
+      "link": "https://www.congressoemfoco.com.br/noticia/129294/lula-venceu-eleicao-presidencial-em-minas-gerais",
+      "resumo": "Com 50,43% dos votos válidos no 2º turno, Lula derrotou Flávio Bolsonaro no estado; veja os números e a comparação com o 1º turno.",
+      "publicado_em": "2026-10-27T15:45:10-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "31ec793720a24bc9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula venceu a eleição presidencial no Maranhão",
+      "link": "https://www.congressoemfoco.com.br/noticia/129293/lula-venceu-a-eleicao-presidencial-no-maranhao",
+      "resumo": "Candidato do PT obteve 69,54% dos votos válidos no 2º turno. Veja os números e a comparação com o primeiro turno.",
+      "publicado_em": "2026-10-27T15:45:10-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "140b4964191a47ea",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula venceu a eleição presidencial no Ceará",
+      "link": "https://www.congressoemfoco.com.br/noticia/129292/lula-venceu-a-eleicao-presidencial-no-ceara",
+      "resumo": "Candidato do PT obteve 68,93% dos votos válidos no 2º turno, realizado em 25 de outubro de 2026. Veja os números e a comparação com o 1º turno.",
+      "publicado_em": "2026-10-27T15:42:17-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "09dd70aa5ee9e93e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro venceu a eleição presidencial em Roraima",
+      "link": "https://www.congressoemfoco.com.br/noticia/129291/flavio-bolsonaro-venceu-a-eleicao-presidencial-em-roraima",
+      "resumo": "Candidato do PL obteve 72,46% dos votos válidos no 2º turno em Roraima. Veja os números e a comparação com o 1º turno.",
+      "publicado_em": "2026-10-27T15:40:17-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "6db1dc066c60b9f8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro venceu eleição presidencial no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/129290/flavio-bolsonaro-venceu-eleicao-presidencial-no-tocantins",
+      "resumo": "Candidato do PL obteve 51,37% dos votos válidos no 2º turno. Veja os números e compare com o 1º turno.",
+      "publicado_em": "2026-10-27T15:40:15-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "cc89b4b1fe98083b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro venceu eleição presidencial no Paraná",
+      "link": "https://www.congressoemfoco.com.br/noticia/129289/flavio-bolsonaro-venceu-eleicao-presidencial-no-parana",
+      "resumo": "Candidato do PL obteve 62,58% dos votos válidos no 2º turno; veja os números e a comparação com o 1º turno.",
+      "publicado_em": "2026-10-27T15:40:02-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "d7f594f07bb83a36",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula venceu eleição presidencial em Pernambuco",
+      "link": "https://www.congressoemfoco.com.br/noticia/129288/lula-venceu-eleicao-presidencial-em-pernambuco",
+      "resumo": "Candidato do PT obteve 69,20% dos votos válidos no 2º turno; veja os números e a comparação com o 1º turno.",
+      "publicado_em": "2026-10-27T15:39:58-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "8ec1feb6b45b6f54",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro venceu eleição presidencial em Mato Grosso",
+      "link": "https://www.congressoemfoco.com.br/noticia/129287/flavio-bolsonaro-venceu-eleicao-presidencial-em-mato-grosso",
+      "resumo": "Candidato do PL obteve 66,06% dos votos válidos no 2º turno; veja os números e a comparação com o primeiro turno.",
+      "publicado_em": "2026-10-27T15:39:49-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "73b720e96370cf32",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro venceu a eleição presidencial no Distrito Federal",
+      "link": "https://www.congressoemfoco.com.br/noticia/129286/flavio-bolsonaro-venceu-a-eleicao-presidencial-no-distrito-federal",
+      "resumo": "Candidato do PL obteve 54,28% dos votos válidos no 2º turno; veja os números e a comparação com o 1º turno.",
+      "publicado_em": "2026-10-27T15:39:39-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "3d7becb8196e461c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula venceu a eleição presidencial no Piauí",
+      "link": "https://www.congressoemfoco.com.br/noticia/129285/lula-venceu-a-eleicao-presidencial-no-piaui",
+      "resumo": "Candidato do PT obteve 75,88% dos votos válidos no 2º turno no estado. Veja os números e a comparação com o 1º turno.",
+      "publicado_em": "2026-10-27T15:39:16-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "d67b3fef2c99c11c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro venceu eleição presidencial no Espírito Santo",
+      "link": "https://www.congressoemfoco.com.br/noticia/129284/flavio-bolsonaro-venceu-eleicao-presidencial-no-espirito-santo",
+      "resumo": "Candidato do PL obteve 56,37% dos votos válidos no 2º turno; veja os números e a comparação com o 1º turno.",
+      "publicado_em": "2026-10-27T15:39:13-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "15051feebbd7649a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula venceu eleição presidencial no Rio Grande do Norte",
+      "link": "https://www.congressoemfoco.com.br/noticia/129283/lula-venceu-eleicao-presidencial-no-rio-grande-do-norte",
+      "resumo": "Candidato do PT obteve 65,72% dos votos válidos no 2º turno; veja os números e a comparação com o 1º turno.",
+      "publicado_em": "2026-10-27T15:39:13-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "616160b7cc79eb7b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula venceu a eleição presidencial no Pará",
+      "link": "https://www.congressoemfoco.com.br/noticia/129282/lula-venceu-a-eleicao-presidencial-no-para",
+      "resumo": "Candidato do PT obteve 55,02% dos votos válidos no 2º turno no estado; veja os números e a comparação com o 1º turno.",
+      "publicado_em": "2026-10-27T15:39:03-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "b70890cef0d3811d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula venceu a eleição presidencial na Paraíba",
+      "link": "https://www.congressoemfoco.com.br/noticia/129281/lula-venceu-a-eleicao-presidencial-na-paraiba",
+      "resumo": "Candidato do PT obteve 67,46% dos votos válidos no 2º turno no estado; veja os números e a comparação com o 1º turno.",
+      "publicado_em": "2026-10-27T15:38:48-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "37dad67b1781e980",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula venceu a eleição presidencial no Nordeste em 2026",
+      "link": "https://www.congressoemfoco.com.br/noticia/129258/lula-venceu-a-eleicao-presidencial-no-nordeste-em-2026",
+      "resumo": "Candidato do PT obteve 69,37% dos votos válidos na região, com margem de 38,74 pontos percentuais sobre Flávio Bolsonaro (PL).",
+      "publicado_em": "2026-10-27T12:31:29-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "a02a8e0c7888fff6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro venceu a eleição presidencial no Sul",
+      "link": "https://www.congressoemfoco.com.br/noticia/129257/flavio-bolsonaro-venceu-a-eleicao-presidencial-no-sul",
+      "resumo": "Candidato do PL obteve 62,58% dos votos válidos na região, que engloba Paraná, Santa Catarina e Rio Grande do Sul.",
+      "publicado_em": "2026-10-27T12:31:28-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "59a6a4e3d5cba335",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Bolsonaro venceu eleição presidencial no Sudeste",
+      "link": "https://www.congressoemfoco.com.br/noticia/129256/flavio-bolsonaro-venceu-eleicao-presidencial-no-sudeste",
+      "resumo": "Candidato do PL obteve 52,76% dos votos válidos na região, com 100% das urnas apuradas.",
+      "publicado_em": "2026-10-27T12:31:28-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
     },
     {
       "id": "d62032e806b2a78d",
@@ -802,13 +1288,108 @@ window.DADOS = {
       "coletado_em": "2026-10-27T13:12:35-03:00"
     },
     {
-      "id": "3841fdf8a19f3967",
+      "id": "432fd39289ffeec8",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Webinário sobre autodeclaração indígena e quilombola será nesta quarta (28/10)",
+      "link": "https://www.cnj.jus.br/webinario-sobre-autodeclaracao-indigena-e-quilombola-sera-nesta-quarta-28-10/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realiza, nesta quarta-feira (28/10), das 14h às 18h, o webinário Procedimentos de Confirmação Complementar à Autodeclaração de Pessoas Indígenas e Quilombolas no Enam e no Enac. Promovido em parceria com a Escola Nacional do Judiciário (Enaju) e o Fórum Nacional ",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "b8814a95499c947c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Resolução aprovada pelo CNJ e pelo CNMP busca enfrentar falta de vagas em creches",
+      "link": "https://www.cnj.jus.br/resolucao-aprovada-pelo-cnj-e-cnmp-busca-enfrentar-falta-de-vagas-em-creches/",
+      "resumo": "A falta de vagas em creches e pré-escolas leva milhares de famílias a recorrer à Justiça. Embora garantam a vaga de uma criança, as decisões judiciais individuais nem sempre resolvem a insuficiência de vagas e podem alterar a ordem de atendimento de outras famílias que aguardam na fila.  Para enfren",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "resolucao",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "e16f03297f1a8e4e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "TRT-RS entrega mais de 1,4 mil fotografias restauradas a famílias atingidas pela enchente no Vale do Taquari",
+      "link": "https://www.cnj.jus.br/trt-rs-entrega-mais-de-14-mil-fotografias-restauradas-a-familias-atingidas-pela-enchente-no-vale-do-taquari/",
+      "resumo": "A Justiça do Trabalho gaúcha entregou, nesta sexta-feira (22/10), 1.483 fotografias restauradas a famílias atingidas pela enchente de 2023 no Vale do Taquari. A cerimônia ocorreu na sede da Vara do Trabalho de Encantado, com a presença da corregedora do TRT-RS, desembargadora Maria Madalena Telesca,",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "0f9090ee81bf4560",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ lança mês de conscientização em segurança cibernética no Judiciário",
+      "link": "https://www.cnj.jus.br/cnj-lanca-mes-de-conscientizacao-em-seguranca-cibernetica-no-judiciario/",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Edson Fachin, lançou nesta terça-feira (27/10) a campanha Novembro Alerta, que dedicará o próximo mês à conscientização sobre segurança cibernética no Poder Judiciário. A iniciativa integra as ações do P",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "a35f0a728e2cb7a9",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Projeto muda regras para incorporação de novas tecnologias no SUS",
-      "link": "https://www.camara.leg.br/noticias/1313222-projeto-muda-regras-para-incorporacao-de-novas-tecnologias-no-sus",
+      "titulo": "Projeto define regras para participação de filhos em atividades rurais da família",
+      "link": "https://www.camara.leg.br/noticias/1314150-projeto-define-regras-para-participacao-de-filhos-em-atividades-rurais-da-familia",
       "resumo": "",
-      "publicado_em": "2026-10-27T12:24:00-03:00",
+      "publicado_em": "2026-10-27T15:50:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "ac6c3b8bdee37dfe",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto restringe participação em seleções brasileiras de futebol a atletas que atuam no país",
+      "link": "https://www.camara.leg.br/noticias/1313498-projeto-restringe-participacao-em-selecoes-brasileiras-de-futebol-a-atletas-que-atuam-no-pais",
+      "resumo": "",
+      "publicado_em": "2026-10-27T15:15:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "b8036636c6aaecae",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto aumenta pena para adulteração de alimentos e torna o crime hediondo",
+      "link": "https://www.camara.leg.br/noticias/1310596-projeto-aumenta-pena-para-adulteracao-de-alimentos-e-torna-o-crime-hediondo",
+      "resumo": "",
+      "publicado_em": "2026-10-27T14:22:00-03:00",
       "dia": "2026-10-27",
       "data_estimada": false,
       "score": 46,
@@ -824,12 +1405,28 @@ window.DADOS = {
       "titulo": "Projeto prevê GPS obrigatório em veículos de transporte escolar",
       "link": "https://www.camara.leg.br/noticias/1313021-projeto-preve-gps-obrigatorio-em-veiculos-de-transporte-escolar",
       "resumo": "",
-      "publicado_em": "2026-10-27T11:46:00-03:00",
+      "publicado_em": "2026-10-27T13:46:00-03:00",
       "dia": "2026-10-27",
       "data_estimada": false,
       "score": 52,
       "tags": [
         "obrigatorio"
+      ],
+      "coletado_em": "2026-10-27T13:12:35-03:00"
+    },
+    {
+      "id": "3841fdf8a19f3967",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto muda regras para incorporação de novas tecnologias no SUS",
+      "link": "https://www.camara.leg.br/noticias/1313222-projeto-muda-regras-para-incorporacao-de-novas-tecnologias-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-10-27T12:24:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
       ],
       "coletado_em": "2026-10-27T13:12:35-03:00"
     },
@@ -859,22 +1456,6 @@ window.DADOS = {
       "data_estimada": false,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-10-27T13:12:35-03:00"
-    },
-    {
-      "id": "b8036636c6aaecae",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Projeto aumenta pena para adulteração de alimentos e torna o crime hediondo",
-      "link": "https://www.camara.leg.br/noticias/1310596-projeto-aumenta-pena-para-adulteracao-de-alimentos-e-torna-o-crime-hediondo",
-      "resumo": "",
-      "publicado_em": "2026-10-27T10:22:00-03:00",
-      "dia": "2026-10-27",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
       "coletado_em": "2026-10-27T13:12:35-03:00"
     },
     {
@@ -923,6 +1504,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-23T12:38:43-03:00"
+    },
+    {
+      "id": "a3e1c665df84fd38",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "WiCade 2026 começa na próxima quarta-feira (04/11)",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/wicade-2026-comeca-na-proxima-quarta-feira-04-11",
+      "resumo": "",
+      "publicado_em": "2026-10-27T12:00:00-03:00",
+      "dia": "2026-10-27",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
     },
     {
       "id": "b9355128fafe7165",
@@ -1863,6 +2460,20 @@ window.DADOS = {
       "coletado_em": "2026-10-27T13:12:35-03:00"
     },
     {
+      "id": "d5bb9c7aa693924f",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Tesouro honra em abril R$ 820,78 milhões em dívidas garantidas pela União",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2025/Maio/tesouro-honra-em-abril-r-820-78-milhoes-em-dividas-garantidas-pela-uniao",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
       "id": "428948c487aec27a",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2466,7 +3077,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Justiça faz mutirão para conciliação de processos em saúde suplementar em novembro",
       "link": "https://www.cnj.jus.br/justica-realiza-mutirao-para-conciliacao-de-processos-em-saude-suplementar-em-novembro/",
-      "resumo": "Os tribunais de Justiça vão realizar, entre os dias 9 e 13 de novembro, a Semana Nacional de Conciliação em Saúde Suplementar. Sob a coordenação do Conselho Nacional de Justiça (CNJ), a iniciativa vai tratar de mais de cinco mil processos que podem chegar a acordo com as operadoras. A",
+      "resumo": "Os tribunais de justiça vão realizar, entre os dias 9 e 13 de novembro, a Semana Nacional de Conciliação em Saúde Suplementar. Sob a coordenação do Conselho Nacional de Justiça (CNJ), a iniciativa vai tratar de mais de cinco mil processos que podem chegar a acordo com as operadoras. A",
       "publicado_em": "2026-10-26T12:00:00-03:00",
       "dia": "2026-10-26",
       "data_estimada": true,
@@ -2499,7 +3110,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Rede do Judiciário debate marco legal e competência para julgar em crime organizado",
       "link": "https://www.cnj.jus.br/rede-do-judiciario-debate-marco-legal-e-competencia-para-julgar-em-crime-organizado/",
-      "resumo": "A Rede Nacional de Juízes e Juízas com Competência em Criminalidade Organizada (Portaria CNJ 142/2026) avançou na elaboração de uma nota técnica sobre a aplicação da nova regra de competência para o julgamento de crimes dolosos contra a vida relacionados a organizações criminosas. A segunda reunião ",
+      "resumo": "A Rede Nacional de Juízes e Juízas com Competência em Criminalidade Organizada (Portaria CNJ n. 142/2026) avançou na elaboração de uma nota técnica sobre a aplicação da nova regra de competência para o julgamento de crimes dolosos contra a vida relacionados a organizações criminosas. A segunda reuni",
       "publicado_em": "2026-10-26T12:00:00-03:00",
       "dia": "2026-10-26",
       "data_estimada": true,
@@ -2518,7 +3129,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Profissionais de 48 tribunais fazem formação sobre avaliação biopsicossocial da deficiência",
       "link": "https://www.cnj.jus.br/profissionais-de-48-tribunais-fazem-formacao-sobre-avaliacao-biopsicossocial-da-deficiencia/",
-      "resumo": "Cento e vinte servidores e servidoras de 48 tribunais brasileiros encerraram na sexta-feira (23/10) a formação prática do curso “Avaliação Biopsicossocial da Deficiência por meio do IFBrA e IFBrM”, realizado pelo Conselho Nacional de Justiça (CNJ), por meio da Escola Nacional do Judiciário (Enaju). ",
+      "resumo": "Cento e vinte servidores e servidoras de 48 tribunais brasileiros encerraram, na sexta-feira (23/10), a formação prática do curso “Avaliação Biopsicossocial da Deficiência por meio do IFBrA e IFBrM”, realizado pelo Conselho Nacional de Justiça (CNJ), por meio da Escola Nacional do Judiciário (Enaju)",
       "publicado_em": "2026-10-26T12:00:00-03:00",
       "dia": "2026-10-26",
       "data_estimada": true,
