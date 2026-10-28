@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-28T16:10:41-03:00",
+  "gerado_em": "2026-10-28T17:45:38-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -148,9 +148,9 @@ window.DADOS = {
     },
     {
       "id": "tjsp",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.tjsp.jus.br', port=443): Read timed out. (read timeout=20)"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "pgfn",
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -315,6 +315,22 @@ window.DADOS = {
       "coletado_em": "2026-10-28T16:10:41-03:00"
     },
     {
+      "id": "967134c7e86f3c7a",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça do Trabalho realiza inspeção judicial nos maiores terminais do Porto de Santos",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-do-trabalho-realiza-inspecao-judicial-nos-maiores-terminais-do-porto-de-santos",
+      "resumo": "",
+      "publicado_em": "2026-10-28T12:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
       "id": "ebccd0db9d2d9726",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -350,7 +366,7 @@ window.DADOS = {
       "fonte_nome": "TJSP",
       "titulo": "Dia do Servidor Público: história de quem faz a diferença na vida das pessoas",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115867&pagina=1",
-      "resumo": "Servidores com meio século de TJSP compartilham experiências. \n \n\tPor trás de cada processo, atendimento ou audiência, há o trabalho de servidores que contribuem diariamente para",
+      "resumo": "Servidores com meio século de TJSP contam experiências. \n \n\tPor trás de cada processo, atendimento ou audiência, há o trabalho de servidores que contribuem diariamente para",
       "publicado_em": "2026-10-28T12:00:00-03:00",
       "dia": "2026-10-28",
       "data_estimada": true,
@@ -378,6 +394,55 @@ window.DADOS = {
       "coletado_em": "2026-10-28T13:59:32-03:00"
     },
     {
+      "id": "f9032df2f97556a2",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Campanha \"Ler adianta\" arrecada livros para unidades prisionais",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115866&pagina=1",
+      "resumo": "Doações até 30 de outubro.\n \n\tO Grupo de Monitoramento e Fiscalização do Sistema Carcerário (GMF) do Tribunal de Justiça de São Paulo, realiza, até 30",
+      "publicado_em": "2026-10-28T12:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
+      "id": "dd7aabf5f7ea8112",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF recebe professores da Universidade de Sorbonne para debater democracia, Constituição e jurisdição",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-professores-de-sorbonne-para-debater-democracia-constituicao-e-jurisdicao/",
+      "resumo": "Encontro faz parte do projeto “Diálogos Acadêmicos”, que visa trazer ao Tribunal juristas para tratar de temas pertinentes no contexto contemporâneo",
+      "publicado_em": "2026-10-28T17:35:15-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
+      "id": "e1ff89b8d89ad3e5",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF invalida alteração de nome de cargo no Tribunal de Contas da Bahia",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-alteracao-de-nome-de-cargo-no-tribunal-de-contas-da-bahia/",
+      "resumo": "Para o Tribunal, denominação “auditor de contas públicas” não corresponde às atribuições do cargo e prejudica a distinção entre funções",
+      "publicado_em": "2026-10-28T17:04:22-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
       "id": "50686e888dd3e768",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -392,6 +457,36 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-10-28T13:59:32-03:00"
+    },
+    {
+      "id": "f59592a32f0e7beb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "MP que mantém subsídio ao diesel prevê mecanismo de prorrogação mensal",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/mp-que-mantem-subsidio-ao-diesel-preve-mecanismo-de-prorrogacao-mensal",
+      "resumo": "",
+      "publicado_em": "2026-10-28T16:57:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
+      "id": "165a76714af74748",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto prevê atenção integral a pessoas com insuficiência adrenal",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/projeto-preve-atencao-integral-a-pessoas-com-insuficiencia-adrenal",
+      "resumo": "",
+      "publicado_em": "2026-10-28T16:42:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
     },
     {
       "id": "1cd41144a9004c55",
@@ -605,6 +700,20 @@ window.DADOS = {
       "coletado_em": "2026-10-28T13:59:32-03:00"
     },
     {
+      "id": "dae67137aa14b7f9",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "PGFN a favor da ciência",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/pgfn-a-favor-da-ciencia",
+      "resumo": "",
+      "publicado_em": "2026-10-28T12:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
       "id": "93dcbaf726bea8ea",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -751,6 +860,80 @@ window.DADOS = {
       "coletado_em": "2026-10-28T16:10:41-03:00"
     },
     {
+      "id": "39473d34bb6ebe2f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Leia a íntegra da primeira carta de Flávio após chegar aos EUA",
+      "link": "https://www.congressoemfoco.com.br/noticia/129620/leia-a-integra-da-primeira-carta-de-flavio-apos-chegar-aos-eua",
+      "resumo": "Senador apresenta uma série de acusações contra o Judiciário e o PT, além de se declarar \"verdadeiro presidente\".",
+      "publicado_em": "2026-10-28T17:27:10-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
+      "id": "7166a7bc3f817d52",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques pede parecer da PGR sobre revisão penal de Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/129619/nunes-marques-pede-parecer-da-pgr-sobre-revisao-penal-de-bolsonaro",
+      "resumo": "Ministro retomou a tramitação da revisão criminal após o segundo turno e encaminhou os argumentos da defesa à Procuradoria.",
+      "publicado_em": "2026-10-28T17:20:34-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
+      "id": "3cdfc03cf5fa0a09",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em carta, Flávio Bolsonaro se diz \"verdadeiro presidente do Brasil\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129618/em-carta-flavio-bolsonaro-se-diz-verdadeiro-presidente-do-brasil",
+      "resumo": "Senador negou ter fugido e voltou a contestar o resultado da eleição presidencial.",
+      "publicado_em": "2026-10-28T17:07:53-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
+      "id": "980c6fb564a382c6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio perde, foge, e Tarcísio se apresenta como líder da direita",
+      "link": "https://www.congressoemfoco.com.br/coluna/129617/flavio-perde-foge-e-tarcisio-se-apresenta-como-lider-da-direita",
+      "resumo": "Após a derrota presidencial e a saída de Flávio Bolsonaro do país, governador de São Paulo apresenta uma agenda para a oposição e busca ampliar seu protagonismo no cenário político nacional.",
+      "publicado_em": "2026-10-28T16:13:45-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
+      "id": "8957f0e3997f4a32",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Estão esquecendo daquilo que é inerente aos cargos no Congresso",
+      "link": "https://www.congressoemfoco.com.br/artigo/129615/estao-esquecendo-daquilo-que-e-inerente-aos-cargos-no-congresso",
+      "resumo": "Com a oposição fortalecida na Câmara e no Senado, o quarto mandato de Lula enfrentará desafios de articulação política. A participação dos cidadãos será fundamental para acompanhar e cobrar a atuação dos parlamentares.",
+      "publicado_em": "2026-10-28T15:57:47-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
       "id": "029352e252599c3c",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -783,6 +966,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "37c723a6df9eefe9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O placar invisível que virou a eleição",
+      "link": "https://www.congressoemfoco.com.br/artigo/129612/o-placar-invisivel-que-virou-a-eleicao",
+      "resumo": "Indicadores de força digital apontaram uma mudança favorável ao presidente uma semana antes de ela aparecer nos levantamentos eleitorais. Mobilização nas redes e nas ruas ajudou a consolidar a recuperação no segundo turno.",
+      "publicado_em": "2026-10-28T15:30:26-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
     },
     {
       "id": "0bb63502542c06c2",
@@ -1264,6 +1463,80 @@ window.DADOS = {
       "coletado_em": "2026-10-28T16:10:41-03:00"
     },
     {
+      "id": "833171a9b14ad195",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova acordo do Mercosul para proteger mulheres vítimas de violência",
+      "link": "https://www.camara.leg.br/noticias/1314230-camara-aprova-acordo-do-mercosul-para-proteger-mulheres-vitimas-de-violencia",
+      "resumo": "",
+      "publicado_em": "2026-10-28T16:53:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
+      "id": "fa9d28321a366c7e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto exige meios de escape para fauna em canais artificiais de água",
+      "link": "https://www.camara.leg.br/noticias/1313033-projeto-exige-meios-de-escape-para-fauna-em-canais-artificiais-de-agua",
+      "resumo": "",
+      "publicado_em": "2026-10-28T16:29:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
+      "id": "75f7902e0009fd13",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Especialistas divergem sobre avaliação biopsicossocial de diabéticos para inclusão em políticas para pessoas com deficiência",
+      "link": "https://www.camara.leg.br/noticias/1314538-especialistas-divergem-sobre-avaliacao-biopsicossocial-de-diabeticos-para-inclusao-em-politicas-para-pessoas-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-10-28T16:19:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
+      "id": "f68902b1f42fe823",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados analisam acordo do Mercosul sobre proteção às mulheres; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1314635-deputados-analisam-acordo-do-mercosul-sobre-protecao-as-mulheres-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-10-28T16:14:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
+      "id": "765fc1f7267dd098",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe cobrança de estacionamento de quem trabalha em centros comerciais",
+      "link": "https://www.camara.leg.br/noticias/1313496-projeto-proibe-cobranca-de-estacionamento-de-quem-trabalha-em-centros-comerciais",
+      "resumo": "",
+      "publicado_em": "2026-10-28T16:09:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
+    },
+    {
       "id": "650b7757e39d88af",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1494,6 +1767,24 @@ window.DADOS = {
         "cade"
       ],
       "coletado_em": "2026-10-28T13:59:32-03:00"
+    },
+    {
+      "id": "171c105601d47c08",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD publica versões traduzidas para outros idiomas dos Decretos nº 12.975 e nº 12.976 e da LGPD atualizada",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-versoes-traduzidas-para-outros-idiomas-dos-decretos-no-12-975-e-no-12-976-e-da-lgpd-atualizada",
+      "resumo": "Iniciativa disponibiliza os normativos em inglês, espanhol e francês, e a LGPD revisada em inglês e espanhol para dar maior alcance internacional ao sistema regulatório brasileiro relacionado à proteção de dados e proteção de crianças, adolescentes e mulheres no ambiente digital",
+      "publicado_em": "2026-10-28T17:41:10-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 82,
+      "tags": [
+        "decreto",
+        "lgpd",
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-10-28T17:45:38-03:00"
     },
     {
       "id": "22fc7cdeb3bea5c4",
