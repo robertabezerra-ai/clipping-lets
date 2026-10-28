@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-28T13:59:32-03:00",
+  "gerado_em": "2026-10-28T16:10:41-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -148,9 +148,9 @@
     },
     {
       "id": "tjsp",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.tjsp.jus.br', port=443): Read timed out. (read timeout=20)"
     },
     {
       "id": "pgfn",
@@ -299,6 +299,22 @@
       "coletado_em": "2026-10-28T13:59:32-03:00"
     },
     {
+      "id": "8bf5262904274277",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TST define novas teses vinculantes",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/tst-define-novas-teses-vinculantes",
+      "resumo": "",
+      "publicado_em": "2026-10-28T12:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "tese"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
       "id": "ebccd0db9d2d9726",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -376,6 +392,20 @@
         "adi"
       ],
       "coletado_em": "2026-10-28T13:59:32-03:00"
+    },
+    {
+      "id": "1cd41144a9004c55",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Proposta prevê alerta em aplicativos de GPS sobre áreas de alto risco de crimes",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/proposta-preve-alerta-em-aplicativos-de-gps-sobre-areas-de-alto-risco-de-crimes",
+      "resumo": "",
+      "publicado_em": "2026-10-28T14:10:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
     },
     {
       "id": "f1da8d8dd390b102",
@@ -575,6 +605,66 @@
       "coletado_em": "2026-10-28T13:59:32-03:00"
     },
     {
+      "id": "93dcbaf726bea8ea",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Faturamento do turismo de negócios no Brasil já soma R$ 11 bilhões em 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/faturamento-do-turismo-de-negocios-no-brasil-ja-soma-r-11-bilhoes-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-28T15:42:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "cb7ab824113de4c1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "'Vamos mudar a realidade do garimpo ilegal, que vem provocando danos à população', diz ministro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/vamos-mudar-a-realidade-do-garimpo-ilegal-que-vem-provocando-danos-a-populacao-diz-ministro",
+      "resumo": "",
+      "publicado_em": "2026-10-28T15:35:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "11f92f6d352d3398",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministro afirma que participação da população é determinante no combate aos incêndios na Amazônia",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/ministro-afirma-que-participacao-da-populacao-e-determinante-no-combate-aos-incendios-florestais-na-amazonia",
+      "resumo": "",
+      "publicado_em": "2026-10-28T14:10:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "a6f8defc9966758c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Feriado de Finados: 107 mil passageiros devem passar pelos aeroportos da Infraero",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/aeroportos-da-infraero-esperam-107-mil-passageiros-no-feriado-de-finados",
+      "resumo": "",
+      "publicado_em": "2026-10-28T13:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
       "id": "906d97020518517e",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -647,6 +737,144 @@
       "coletado_em": "2026-10-28T13:59:32-03:00"
     },
     {
+      "id": "7fe70a3d9f4e0c93",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "PGFN alerta sobre atraso no processamento do débito automático de prestações que vencem em 30/10",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/pgfn-alerta-sobre-atraso-no-processamento-do-debito-automatico-de-prestacoes-que-vencem-em-30-10",
+      "resumo": "",
+      "publicado_em": "2026-10-28T12:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "029352e252599c3c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MP/SP pede condenação de Cariani por tráfico e lavagem de dinheiro",
+      "link": "https://www.congressoemfoco.com.br/noticia/129614/mp-sp-pede-condenacao-de-cariani-por-trafico-e-lavagem-de-dinheiro",
+      "resumo": "Se condenado por todos os crimes apontados, as penas somadas podem variar de 16 a 51 anos de prisão.",
+      "publicado_em": "2026-10-28T15:50:14-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "condenado",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "60725f06e979297f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika Kokay critica boicote a apoiadores de Lula: \"novo 8 de janeiro\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129613/erika-kokay-critica-boicote-a-apoiadores-de-lula--novo-8-de-janeiro",
+      "resumo": "Deputada afirma que divergências eleitorais estão sendo transformadas em campanhas de intimidação.",
+      "publicado_em": "2026-10-28T15:34:23-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "0bb63502542c06c2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF diz que medidas cautelares não caracterizam Flávio como foragido",
+      "link": "https://www.congressoemfoco.com.br/noticia/129611/pf-diz-que-medidas-cautelares-nao-caracterizam-flavio-como-foragido",
+      "resumo": "Em nota, a entidade afirmou que as restrições, por si só, não autorizam sua prisão, vigilância permanente ou outras medidas cautelares.",
+      "publicado_em": "2026-10-28T15:05:07-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "acfeb15e206e1d42",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ana Elisa critica boicote a comércios de petistas: \"onde vamos parar?\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129610/ana-elisa-critica-boicote-a-comercios-de-petistas--onde-vamos-parar",
+      "resumo": "Deputada eleita afirmou que a disputa política estaria levando médicos a anunciarem nas redes sociais medidas contra pacientes por divergências políticas.",
+      "publicado_em": "2026-10-28T14:38:40-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "01079759706bba25",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Voto distrital misto: Entenda o sistema que deve ser votado na Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/129609/voto-distrital-misto-entenda-o-sistema-que-deve-ser-votado-na-camara",
+      "resumo": "O modelo combina a escolha de representantes por distrito com a distribuição proporcional de cadeiras entre partidos, mediante dois votos.",
+      "publicado_em": "2026-10-28T14:30:01-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "989eb0a785a4fe1c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Comissão aprova fim da exigência de efetiva necessidade para armas",
+      "link": "https://www.congressoemfoco.com.br/noticia/129608/comissao-aprova-fim-da-exigencia-de-efetiva-necessidade-para-armas",
+      "resumo": "Substitutivo estabelece critérios para aquisição, posse e porte e condiciona mudanças à aprovação em referendo popular.",
+      "publicado_em": "2026-10-28T14:29:08-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 36,
+      "tags": [
+        "aprova",
+        "acao",
+        "posse"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "afebb8ff6ace3351",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Tadeu Veneri ironiza fuga de Flávio: \"a democracia não persegue\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129607/tadeu-veneri-ironiza-fuga-de-flavio--a-democracia-nao-persegue",
+      "resumo": "Parlamentar criticou discurso de perseguição política do senador e comparou a democracia ao regime militar.",
+      "publicado_em": "2026-10-28T14:27:01-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "7662bf2cd03bf094",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fuga de Flávio amplia lista de bolsonaristas no exterior",
+      "link": "https://www.congressoemfoco.com.br/noticia/129606/fuga-de-flavio-amplia-lista-de-bolsonaristas-no-exterior",
+      "resumo": "Familiares e aliados de Jair Bolsonaro deixaram o Brasil em meio a investigações e condenações. Veja quem fugiu da Justiça, quem foi preso e quem permanece no exterior.",
+      "publicado_em": "2026-10-28T14:03:01-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
       "id": "5df7bb31943c5440",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -661,6 +889,39 @@
         "acao"
       ],
       "coletado_em": "2026-10-28T13:59:32-03:00"
+    },
+    {
+      "id": "f6c67c8d0061523c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara aprova subsídio de R$ 12 por tonelada de cana no Nordeste",
+      "link": "https://www.congressoemfoco.com.br/noticia/129602/camara-aprova-subsidio-de-r-12-por-tonelada-de-cana-no-nordeste",
+      "resumo": "Medida prevê R$ 12 por tonelada entregue na safra 2025/2026 e mantém até R$ 14,5 bilhões para renovação de frotas.",
+      "publicado_em": "2026-10-28T12:50:33-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "2702938e5a5e971b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Violência, votos e poder: Mulheres trans e travestis nas eleições 2026",
+      "link": "https://www.congressoemfoco.com.br/artigo/129601/violencia-votos-e-poder-mulheres-trans-e-travestis-nas-eleicoes-2026",
+      "resumo": "Erika Hilton e Duda Salabert simbolizam a expansão da presença trans na política nacional; em 2026, suas reeleições demonstram a consolidação de suas carreiras.",
+      "publicado_em": "2026-10-28T12:33:04-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
     },
     {
       "id": "59896ddc5fbb56ca",
@@ -961,7 +1222,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Infância e Juventude é tema do Disseminando Boas Práticas do Poder Judiciário",
       "link": "https://www.cnj.jus.br/infancia-e-juventude-e-tema-do-disseminando-boas-praticas-do-poder-judiciario/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) promove, nesta quarta-feira (28/10), a 33ª edição do Disseminando Boas Práticas do Poder Judiciário com foco na Infância e Juventude. O evento ocorre na Plataforma Microsoft Teams e é transmitido simultaneamente via canal do CNJ no Youtube. Servidores e magistrad",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) promove, nesta quarta-feira (28/10), a 33ª Edição do Disseminando Boas Práticas do Poder Judiciário com foco na Infância e Juventude. O evento ocorre na plataforma Microsoft Teams e é transmitido simultaneamente via canal do CNJ no YouTube. Servidores e magistrad",
       "publicado_em": "2026-10-28T12:00:00-03:00",
       "dia": "2026-10-28",
       "data_estimada": true,
@@ -969,6 +1230,113 @@
       "tags": [
         "multa"
       ],
+      "coletado_em": "2026-10-28T13:59:32-03:00"
+    },
+    {
+      "id": "1071a5c37ff5c85c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Administradores de sistemas judiciais aprimoram a gestão da execução penal",
+      "link": "https://www.cnj.jus.br/administradores-de-sistemas-judiciais-aprimoram-a-gestao-da-execucao-penal/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) reúne, nesta quarta (28/10) e nesta quinta-feira (29/10), em Brasília, administradores de dois dos principais sistemas utilizados pela Justiça Criminal brasileira: o Banco Nacional de Medidas Penais e Prisões (BNMP 3.0) e o Sistema Eletrônico de Execução Unificad",
+      "publicado_em": "2026-10-28T12:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "4de188e480199b2a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Procurações processuais podem ser assinadas pela plataforma gov.br",
+      "link": "https://www.cnj.jus.br/procuracoes-processuais-podem-ser-assinadas-pela-plataforma-gov-br/",
+      "resumo": "As assinaturas eletrônicas realizadas por meio da plataforma gov.br em procurações de ações judiciais devem ser aceitas, assim como as assinaturas digitais qualificadas. A medida foi aprovada por unanimidade durante a 17ª Sessão Ordinária de 2026 do Conselho Nacional de Justiça (CNJ). A decisão volt",
+      "publicado_em": "2026-10-28T12:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "decisao",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "650b7757e39d88af",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova critérios de dosimetria penal para agentes de segurança pública",
+      "link": "https://www.camara.leg.br/noticias/1314507-comissao-aprova-criterios-de-dosimetria-penal-para-agentes-de-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-10-28T15:39:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "49ba24dc2a7cd054",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova incentivo a startups de inclusão, saúde pública e bioeconomia amazônica",
+      "link": "https://www.camara.leg.br/noticias/1314512-comissao-aprova-incentivo-a-startups-de-inclusao-saude-publica-e-bioeconomia-amazonica",
+      "resumo": "",
+      "publicado_em": "2026-10-28T15:02:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "376b331b289105ce",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Líderes de partidos defendem busca da governabilidade após as eleições",
+      "link": "https://www.camara.leg.br/noticias/1314541-lideres-de-partidos-defendem-busca-da-governabilidade-apos-as-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-28T14:32:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "00eb97b4c97394a2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que torna permanente a política de combate à malária",
+      "link": "https://www.camara.leg.br/noticias/1314516-comissao-aprova-projeto-que-torna-permanente-a-politica-de-combate-a-malaria",
+      "resumo": "",
+      "publicado_em": "2026-10-28T14:17:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "27908ba67be23f03",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto exige campanha informativa 90 dias antes de cobrança de pedágio em rodovia federal",
+      "link": "https://www.camara.leg.br/noticias/1313029-projeto-exige-campanha-informativa-90-dias-antes-de-cobranca-de-pedagio-em-rodovia-federal",
+      "resumo": "",
+      "publicado_em": "2026-10-28T14:09:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
       "coletado_em": "2026-10-28T13:59:32-03:00"
     },
     {
@@ -985,20 +1353,6 @@
       "tags": [
         "aprova"
       ],
-      "coletado_em": "2026-10-28T13:59:32-03:00"
-    },
-    {
-      "id": "27908ba67be23f03",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Projeto exige campanha informativa 90 dias antes de cobrança de pedágio em rodovia federal",
-      "link": "https://www.camara.leg.br/noticias/1313029-projeto-exige-campanha-informativa-90-dias-antes-de-cobranca-de-pedagio-em-rodovia-federal",
-      "resumo": "",
-      "publicado_em": "2026-10-28T12:59:00-03:00",
-      "dia": "2026-10-28",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
       "coletado_em": "2026-10-28T13:59:32-03:00"
     },
     {
