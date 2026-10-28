@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-28T17:45:38-03:00",
+  "gerado_em": "2026-10-28T20:44:08-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 17,
       "erro": null
     },
     {
@@ -173,7 +173,7 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 28,
+      "itens": 27,
       "erro": null
     },
     {
@@ -239,7 +239,7 @@
     {
       "id": "governo_federal",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -331,6 +331,22 @@
       "coletado_em": "2026-10-28T17:45:38-03:00"
     },
     {
+      "id": "f76eebdd395e92c9",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 abre exposição “Memória: Camadas do Tempo” com obras de quatro artistas",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-abre-exposicao-memoria-camadas-do-tempo-com-obras-de-quatro-artistas",
+      "resumo": "TRT-15 abre exposição “Memória: Camadas do Tempo” com obras de quatro artistas anasiqueira Qua, 28/10/2026 - 18:26 TRT-15 abre exposição “Memória: Camadas do Tempo” com obras de quatro artistas Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região realizou, na tarde desta terça-feira, 27",
+      "publicado_em": "2026-10-28T18:26:54-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
       "id": "ebccd0db9d2d9726",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -411,6 +427,89 @@
       "coletado_em": "2026-10-28T17:45:38-03:00"
     },
     {
+      "id": "22c35428b81daf49",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Autorização eletrônica de viagem para crianças e adolescentes",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115876&pagina=1",
+      "resumo": "Requerimento não substitui autorização judicial.\n\n\tA Autorização Eletrônica de Viagem (AEV), instituída pelo Provimento nº 38/21 da Corregedoria Geral da Justiça, pode ser emitida para crianças",
+      "publicado_em": "2026-10-28T12:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "c53a72e0befdf195",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Dia do Servidor e feriado de Finados alteram expediente no STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/dia-do-servidor-e-feriado-de-finados-alteram-expediente-no-stf/",
+      "resumo": "Prazos processuais que começam ou terminam na sexta (30) e na segunda (2) serão automaticamente prorrogados",
+      "publicado_em": "2026-10-28T20:32:12-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "prorrogad",
+        "prazo"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "af4b1b6e5ed5c305",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF avança em julgamento sobre fretamento de ônibus por aplicativos em Minas Gerais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-avanca-em-julgamento-sobre-fretamento-de-onibus-por-aplicativos-em-minas-gerais/",
+      "resumo": "Até o momento, há três votos pela validade da legislação estadual, que prevê restrições ao serviço, e dois contrários",
+      "publicado_em": "2026-10-28T20:02:06-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "2095d4301f892176",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF começa a julgar diferença de tratamento entre homens e mulheres na previdência complementar",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-comeca-a-julgar-diferenca-de-tratamento-entre-homens-e-mulheres-na-previdencia-complementar/",
+      "resumo": "Análise do recurso será retomada pelo Plenário nesta quinta-feira (29)",
+      "publicado_em": "2026-10-28T19:51:15-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "julga",
+        "recurso"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "9a889e611a6ca075",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF divulga cronograma de audiência pública sobre proibição das bets",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-divulga-cronograma-de-audiencia-publica-sobre-proibicao-das-bets/",
+      "resumo": "Encontro será em 3 de novembro e reunirá 28 entidades, entre clubes de futebol, órgãos públicos e representantes do setor de apostas",
+      "publicado_em": "2026-10-28T18:03:14-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
       "id": "dd7aabf5f7ea8112",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -430,7 +529,7 @@
       "id": "e1ff89b8d89ad3e5",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "STF invalida alteração de nome de cargo no Tribunal de Contas da Bahia",
+      "titulo": "Supremo invalida alteração de nome de cargo no Tribunal de Contas da Bahia",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-alteracao-de-nome-de-cargo-no-tribunal-de-contas-da-bahia/",
       "resumo": "Para o Tribunal, denominação “auditor de contas públicas” não corresponde às atribuições do cargo e prejudica a distinção entre funções",
       "publicado_em": "2026-10-28T17:04:22-03:00",
@@ -457,6 +556,121 @@
         "adi"
       ],
       "coletado_em": "2026-10-28T13:59:32-03:00"
+    },
+    {
+      "id": "13db745d510e89be",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senadores reafirmam resultado das eleições",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/28/senadores-reafirmam-resultado-das-eleicoes",
+      "resumo": "",
+      "publicado_em": "2026-10-28T19:45:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "301072a0cf34bda4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado fará sessão especial em homenagem a atletas brasileiros",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/28/senado-fara-sessao-especial-em-homenagem-a-atletas-brasileiros",
+      "resumo": "",
+      "publicado_em": "2026-10-28T19:43:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenagem"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "802f6b2198f0fef5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovada ampliação do adicional de fronteira para servidores federais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/28/aprovada-ampliacao-do-adicional-de-fronteira-para-servidores-federais",
+      "resumo": "",
+      "publicado_em": "2026-10-28T19:28:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "adi",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "6b7dbf5f1a0507e1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Paim celebra vitória de Lula e homenageia eleitores",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/28/paim-celebra-vitoria-de-lula-e-homenageia-eleitores",
+      "resumo": "",
+      "publicado_em": "2026-10-28T18:29:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "d10524f0635d54f3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pacote de apoio a agricultura, transporte e aviação vai à sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/28/pacote-de-apoio-a-agricultura-transporte-e-aviacao-vai-a-sancao-presidencial",
+      "resumo": "",
+      "publicado_em": "2026-10-28T18:22:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "70b371dcc7b74387",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado analisa proibição a cursos à distância em saúde e educação física",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/28/senado-analisa-proibicao-a-cursos-a-distancia-em-saude-e-educacao-fisica",
+      "resumo": "",
+      "publicado_em": "2026-10-28T18:22:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "96bab12476195614",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Reforma tributária: TCU calcula alíquota da CBS em 11,3% para 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/28/reforma-tributaria-tcu-calcula-aliquota-da-cbs-em-11-3-para-2027",
+      "resumo": "",
+      "publicado_em": "2026-10-28T17:57:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "reforma tributaria",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
     },
     {
       "id": "f59592a32f0e7beb",
@@ -714,6 +928,95 @@
       "coletado_em": "2026-10-28T17:45:38-03:00"
     },
     {
+      "id": "f72608f744e190c5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo anuncia medidas de prevenção e combate à violência política e apuração rigorosa",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/governo-anuncia-medidas-de-prevencao-e-combate-a-violencia-politica-e-apuracao-rigorosa",
+      "resumo": "",
+      "publicado_em": "2026-10-28T19:15:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "f23a2322f56f6318",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo aprimora compra de alimentos da agricultura familiar para a merenda escolar",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/governo-aprimora-compra-de-alimentos-da-agricultura-familiar-para-a-alimentacao-escolar",
+      "resumo": "",
+      "publicado_em": "2026-10-28T18:12:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "d54b4dcb35e1de87",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Saúde desenvolve painel para monitorar cobertura vacinal contra meningite em adolescentes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/ministerio-da-saude-desenvolve-painel-para-monitorar-cobertura-vacinal-contra-meningite-em-adolescentes",
+      "resumo": "",
+      "publicado_em": "2026-10-28T17:46:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "c401b42090f418bf",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rádio Nacional do Alto Solimões comemora 20 anos com circuito de palestras nas escolas de Tabatinga (AM)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/radio-nacional-do-alto-solimoes-comemora-20-anos-com-circuito-de-palestras-nas-escolas-de-tabatinga-am",
+      "resumo": "",
+      "publicado_em": "2026-10-28T17:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "adi",
+        "comemora"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "ce1bfaf042b8ea0d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enem 2026: confira o passo a passo para visualizar o local de prova",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/enem-2026-confira-o-passo-a-passo-para-visualizar-o-local-de-prova",
+      "resumo": "",
+      "publicado_em": "2026-10-28T16:20:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "19b2ba5a3f277501",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/teste-para-deteccao-precoce-do-cancer-do-colo-do-utero-ja-esta-disponivel-em-26-estados-do-pais",
+      "resumo": "",
+      "publicado_em": "2026-10-28T15:59:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
       "id": "93dcbaf726bea8ea",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -858,6 +1161,186 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-28T16:10:41-03:00"
+    },
+    {
+      "id": "835cc5215e9bfe36",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Colegiado da CVM rejeita propostas de Termo de Compromisso com Riza Securitizadora S.A., ex-Virgo Companhia de Securitização, e seus ex-diretores",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-rejeita-propostas-de-termo-de-compromisso-com-riza-securitizadora-s-a-ex-virgo-companhia-de-securitizacao-e-seus-ex-diretores",
+      "resumo": "",
+      "publicado_em": "2026-10-28T12:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "43d8def048fef84e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Rogério Marinho se opõe à intervenção dos Estados Unidos no Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/129631/rogerio-marinho-se-opoe-a-intervencao-dos-estados-unidos-no-brasil",
+      "resumo": "Para o líder da oposição, Trump tem o direito de comentar a política brasileira, desde que suas opiniões não resultem em interferência.",
+      "publicado_em": "2026-10-28T20:07:25-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "23c4360497af1851",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Não há provas de que houve fraude eleitoral, diz Rogério Marinho",
+      "link": "https://www.congressoemfoco.com.br/noticia/129630/nao-ha-provas-de-que-houve-fraude-eleitoral-diz-rogerio-marinho",
+      "resumo": "Senador do PL nega tese de fraude no período eleitoral e chama carta de Flávio Bolsonaro de \"desabafo\".",
+      "publicado_em": "2026-10-28T19:44:20-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "tese"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "882a9bb25c963c25",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Não vou me envolver\", diz Trump sobre Flávio se declarar presidente",
+      "link": "https://www.congressoemfoco.com.br/noticia/129629/nao-vou-me-envolver--diz-trump-sobre-flavio-se-declarar-presidente",
+      "resumo": "Presidente dos EUA confirmou que governo autorizou entrada do senador no país, mas afirmou que não pretende se envolver na disputa sobre o resultado da eleição brasileira.",
+      "publicado_em": "2026-10-28T19:06:49-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "db2c697e8c9e2309",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Carta de Flávio se declarando presidente gera enxurrada de memes",
+      "link": "https://www.congressoemfoco.com.br/noticia/129628/carta-de-flavio-se-declarando-presidente-gera-enxurrada-de-memes",
+      "resumo": "Senador derrotado nas urnas afirmou ser o \"verdadeiro presidente eleito do Brasil\", mas alterou o texto posteriormente. Declaração virou alvo de piadas nas redes sociais.",
+      "publicado_em": "2026-10-28T18:55:21-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "1505af0028156401",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mãe de Flávio lamenta fuga aos EUA: \"obrigado a deixar a pátria\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129627/mae-de-flavio-lamenta-fuga-aos-eua--obrigado-a-deixar-a-patria",
+      "resumo": "Rogéria Bolsonaro acusou autoridades brasileiras de perseguição política e lamentou que a distância a impeça de acompanhar quatro netos.",
+      "publicado_em": "2026-10-28T18:43:30-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "79526ef50d172445",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan Santos ironiza carta de Flávio: \"vai lutar da terra do Mickey\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129626/renan-santos-ironiza-carta-de-flavio--vai-lutar-da-terra-do-mickey",
+      "resumo": "Após senador divulgar carta em que inicialmente se declarava presidente da República, líder do Missão critica a tentativa de contestar o resultado das eleições a partir dos Estados Unidos.",
+      "publicado_em": "2026-10-28T18:22:43-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "2bb6f2ff5bb42de2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Você é um bobo\", comenta Renan Santos em carta de Flávio Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/129625/voce-e-um-bobo--comenta-renan-santos-em-carta-de-flavio-bolsonaro",
+      "resumo": "Ex-candidato à Presidência reagiu à manifestação em que senador diz que não fugiu do Brasil e anuncia que comandará a oposição dos Estados Unidos.",
+      "publicado_em": "2026-10-28T18:11:49-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "3f895a0f175bb5d9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Carta de Flávio é uma \"conspiração contra o Brasil\", diz Randolfe",
+      "link": "https://www.congressoemfoco.com.br/noticia/129624/carta-de-flavio-e-uma-conspiracao-contra-o-brasil--diz-randolfe",
+      "resumo": "Randolfe acusou Flávio de buscar apoio nos Estados Unidos para contestar a vitória de Lula e alimentar a instabilidade política no Brasil.",
+      "publicado_em": "2026-10-28T17:55:59-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "198e282513907f42",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "De Rui Barbosa a líder da oposição: A carta de Flávio pós-derrota",
+      "link": "https://www.congressoemfoco.com.br/noticia/129623/de-rui-barbosa-a-lider-da-oposicao-a-carta-de-flavio-pos-derrota",
+      "resumo": "Ex-candidato promete apresentar nos próximos dias uma estratégia para mobilizar seus eleitores e aliados políticos.",
+      "publicado_em": "2026-10-28T17:51:52-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "2f60895cfaa567e0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio muda carta e troca \"presidente eleito\" por \"líder do Brasil\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129622/flavio-muda-carta-e-troca-presidente-eleito-por-lider-do-brasil",
+      "resumo": "Na nova versão, a expressão foi substituída por \"como o líder do Brasil\".",
+      "publicado_em": "2026-10-28T17:43:58-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "8e5f332343f89795",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Uso de brasão em carta de Flávio pode configurar crime; entenda",
+      "link": "https://www.congressoemfoco.com.br/noticia/129621/uso-de-brasao-em-carta-de-flavio-pode-configurar-crime-entenda",
+      "resumo": "Primeira versão da carta divulgada por Flávio trazia símbolo diferente das Armas Nacionais; Código Penal prevê punição para uso indevido de símbolos da Administração Pública.",
+      "publicado_em": "2026-10-28T17:41:35-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
     },
     {
       "id": "39473d34bb6ebe2f",
@@ -1463,6 +1946,97 @@
       "coletado_em": "2026-10-28T16:10:41-03:00"
     },
     {
+      "id": "c8e1f9707da4fbf3",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Guia orienta equipes que atendem pessoas com transtorno mental em conflito com a lei",
+      "link": "https://www.cnj.jus.br/guia-orienta-equipes-que-atendem-pessoas-com-transtorno-mental-em-conflito-com-a-lei/",
+      "resumo": "Equipes que atuam no atendimento a pessoas com transtorno mental em conflito com a lei passam a contar com um novo guia de referência. Elaborada pelo Ministério da Saúde com participação do Conselho Nacional de Justiça (CNJ) e apoio do programa Fazendo Justiça, a publicação oferece orientações para ",
+      "publicado_em": "2026-10-28T12:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "91b7990eca721adb",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Judiciário articula ações regionais contra trabalho escravo e tráfico de pessoas",
+      "link": "https://www.cnj.jus.br/judiciario-articula-acoes-regionais-contra-trabalho-escravo-e-trafico-de-pessoas/",
+      "resumo": "O fortalecimento da atuação conjunta dos tribunais no enfrentamento ao trabalho escravo e ao tráfico de pessoas, de acordo com as necessidades e particularidades de cada região do país. Esse é o foco das cinco reuniões promovidas pelo Conselho Nacional de Justiça (CNJ) com os comitês estaduais do Fó",
+      "publicado_em": "2026-10-28T12:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "0c54e3f46078776a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Prêmio Boas Práticas PopRuaJud recebe inscrições até o dia 29 de outubro",
+      "link": "https://www.cnj.jus.br/premio-boas-praticas-popruajud-recebe-inscricoes-ate-o-dia-29-de-outubro/",
+      "resumo": "Os tribunais e os órgãos do sistema de justiça que desenvolvam iniciativas voltadas à inclusão, à promoção de direitos e à ampliação do acesso à Justiça da população em situação de rua têm até o dia 29 de outubro para se inscreverem no III Prêmio de Boas Práticas na Política",
+      "publicado_em": "2026-10-28T12:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "ab14734d71984dce",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política de incentivo à tecnologia assistiva e mobilidade inclusiva",
+      "link": "https://www.camara.leg.br/noticias/1310580-projeto-cria-politica-de-incentivo-a-tecnologia-assistiva-e-mobilidade-inclusiva",
+      "resumo": "",
+      "publicado_em": "2026-10-28T20:28:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "d664db69f9b49469",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria política de incentivo à inclusão de ciclovias em rodovias federais",
+      "link": "https://www.camara.leg.br/noticias/1310582-projeto-cria-politica-de-incentivo-a-inclusao-de-ciclovias-em-rodovias-federais",
+      "resumo": "",
+      "publicado_em": "2026-10-28T19:34:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "6f99450bdcffd290",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Reeleição de Lula e viagem de Flávio Bolsonaro aos EUA repercutem no Plenário",
+      "link": "https://www.camara.leg.br/noticias/1314703-reeleicao-de-lula-e-viagem-de-flavio-bolsonaro-aos-eua-repercutem-no-plenario",
+      "resumo": "",
+      "publicado_em": "2026-10-28T18:57:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
       "id": "833171a9b14ad195",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1769,10 +2343,42 @@
       "coletado_em": "2026-10-28T13:59:32-03:00"
     },
     {
+      "id": "2fae17346744b18d",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Corregedoria do Cade avança e alcança o Nível 2 de Maturidade Correcional",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/corregedoria-do-cade-avanca-e-alcanca-o-nivel-2-de-maturidade-correcional",
+      "resumo": "",
+      "publicado_em": "2026-10-28T12:00:00-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
+      "id": "26da2d13763f345e",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD debate governança de dados durante conferência internacional que acontece na UnB",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-debate-governanca-de-dados-durante-conferencia-internacional-que-acontece-na-unb",
+      "resumo": "Em sua 36ª edição, e primeira na América Latina, a Conferência Internacional da European Association for Research on Service destacou parte do evento para colocar em pauta a regulação para governança segura e eficaz dos dados",
+      "publicado_em": "2026-10-28T19:00:46-03:00",
+      "dia": "2026-10-28",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-28T20:44:08-03:00"
+    },
+    {
       "id": "171c105601d47c08",
       "fonte_id": "anpd",
       "fonte_nome": "ANPD",
-      "titulo": "ANPD publica versões traduzidas para outros idiomas dos Decretos nº 12.975 e nº 12.976 e da LGPD atualizada",
+      "titulo": "ANPD publica versões traduzidas para outros idiomas da LGPD e dos Decretos nº 12.975 e nº 12.976",
       "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-versoes-traduzidas-para-outros-idiomas-dos-decretos-no-12-975-e-no-12-976-e-da-lgpd-atualizada",
       "resumo": "Iniciativa disponibiliza os normativos em inglês, espanhol e francês, e a LGPD revisada em inglês e espanhol para dar maior alcance internacional ao sistema regulatório brasileiro relacionado à proteção de dados e proteção de crianças, adolescentes e mulheres no ambiente digital",
       "publicado_em": "2026-10-28T17:41:10-03:00",
