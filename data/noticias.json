@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-29T16:19:18-03:00",
+  "gerado_em": "2026-10-29T17:51:32-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 19,
       "erro": null
     },
     {
@@ -279,6 +279,23 @@
       "coletado_em": "2026-10-29T14:19:03-03:00"
     },
     {
+      "id": "a7a9dab2874a5e69",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Seminário na USP debate ativismo judicial e estado democrático de direito",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/seminario-na-usp-debate-ativismo-judicial-e-estado-democratico-de-direito",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 38,
+      "tags": [
+        "judicial",
+        "seminario"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
       "id": "e7ae66c7bfc11b73",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -391,6 +408,69 @@
       "coletado_em": "2026-10-29T16:19:18-03:00"
     },
     {
+      "id": "a530c1bf65222d8a",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Juridiquês Não Tem Vez aborda guarda de filhos, abandono afetivo e pensão alimentícia",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115886&pagina=1",
+      "resumo": "Novo episódio aprofunda temas do Direito de Família.\n \n\tGuarda compartilhada significa dividir igualmente o tempo dos filhos entre os pais? A pensão alimentícia termina aos",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "e5b07bbb9539b7dd",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Outubro Rosa: Judiciário paulista apoia a campanha de prevenção ao câncer de mama",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115883&pagina=1",
+      "resumo": "Diagnóstico precoce salva vidas. \n \n\tPor mais um ano, o Tribunal de Justiça de São Paulo apoiou a campanha Outubro Rosa, movimento pela conscientização sobre a",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "9533f7efec392baa",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF invalida equiparação remuneratória entre MP estadual e MP de contas no Espírito Santo",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-equiparacao-remuneratoria-entre-mp-estadual-e-mp-de-contas-no-espirito-santo/",
+      "resumo": "Para maioria do Tribunal, Constituição não autoriza vincular salários de membros do Ministério Público de Contas aos do MPES",
+      "publicado_em": "2026-10-29T16:54:59-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "760b2beba57af1b7",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF determina arquivamento de inquérito contra youtuber Monark por descumprimento de ordem judicial",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-determina-arquivamento-de-inquerito-contra-youtuber-monark-por-descumprimento-de-ordem-judicial/",
+      "resumo": "Ministro Alexandre de Moraes acolheu manifestação da PGR para encerrar investigações",
+      "publicado_em": "2026-10-29T16:31:19-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
       "id": "30b9cf581e3ae461",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -440,6 +520,64 @@
         "adi"
       ],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "fac02da06750fe93",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senador propõe dedução no IR de parte dos gastos com saúde de pets",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/senador-propoe-deducao-no-ir-de-parte-dos-gastos-com-saude-de-pets",
+      "resumo": "",
+      "publicado_em": "2026-10-29T17:39:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "e6d0785956d99eec",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Em Manaus, Subcomissão dos Povos Yanomami avalia crise na saúde indígena",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/em-manaus-subcomissao-dos-povos-yanomami-avalia-crise-na-saude-indigena",
+      "resumo": "",
+      "publicado_em": "2026-10-29T17:34:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "04c68291880c6fde",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto cria regras para reaproveitar plataformas de petróleo para outros usos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/29/projeto-cria-regras-para-reaproveitar-plataformas-de-petroleo-para-outros-usos",
+      "resumo": "",
+      "publicado_em": "2026-10-29T17:27:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "47ea0eeb0e38101e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Acesso de idosos a tecnologias para melhorar saúde mental aguarda votação na CDH",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/acesso-de-idosos-a-tecnologias-para-melhorar-saude-mental-aguarda-votacao-na-cdh",
+      "resumo": "",
+      "publicado_em": "2026-10-29T16:14:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
     },
     {
       "id": "eb54b1a5abdddd63",
@@ -647,6 +785,38 @@
       "coletado_em": "2026-10-29T14:19:03-03:00"
     },
     {
+      "id": "fef005adda2689d8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Saúde disponibiliza painel para monitorar imunização contra o Vírus Sincicial Respiratório",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/ministerio-da-saude-disponibiliza-painel-para-monitorar-imunizacao-contra-o-virus-sincicial-respiratorio-vsr",
+      "resumo": "",
+      "publicado_em": "2026-10-29T17:20:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "28b6003437ff4c90",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério da Saúde amplia parceria com hospitais de referência e Proadi terá R$ 3,95 bilhões para fortalecer o SUS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/ministerio-da-saude-amplia-parceria-com-hospitais-de-referencia-e-proadi-tera-r-3-95-bilhoes-para-fortalecer-o-sus",
+      "resumo": "",
+      "publicado_em": "2026-10-29T16:15:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
       "id": "6129328237adcc7b",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -673,6 +843,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "7a9d4f6f8a59bffe",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Plano de energia de 2036 prevê R$ 142 bi em investimentos para biocombustíveis",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pde-2036-preve-r-142-bilhoes-em-investimentos-para-biocombustiveis",
+      "resumo": "",
+      "publicado_em": "2026-10-29T13:42:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
     },
     {
       "id": "c7529f5478acad00",
@@ -855,6 +1039,23 @@
       "coletado_em": "2026-10-29T16:19:18-03:00"
     },
     {
+      "id": "50d0edfbc8e332c0",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Mais de 1 milhão de contribuintes já optaram pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/mais-de-1-milhao-de-contribuintes-ja-optaram-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
       "id": "32580bfc17f3be5e",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -881,6 +1082,64 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "8b1406848ada9287",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM promove 2º Encontro com o Mercado do GT de Tokenização, em São Paulo",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-promove-2o-encontro-com-o-mercado-do-gt-de-tokenizacao-em-sao-paulo",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "509d7e96f23d6d27",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM lança Edital de Tomada Pública de Subsídios sobre informações financeiras relacionadas à sustentabilidade",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-lanca-edital-de-tomada-publica-de-subsidios-sobre-informacoes-financeiras-relacionadas-a-sustentabilidade",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "f6762be6bef7a1a7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe mistura do voto proporcional com modelo \"distritão\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129675/deputado-propoe-mistura-do-voto-proporcional-com-modelo-distritao",
+      "resumo": "Proposta de Glaustin da Fokus prevê metade dos parlamentares eleitos por voto majoritário e metade por voto proporcional.",
+      "publicado_em": "2026-10-29T16:53:43-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "9bff338a233018f7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF faz buscas em imóveis de Márcio Poncio, pastor aliado de Bacellar",
+      "link": "https://www.congressoemfoco.com.br/noticia/129672/pf-faz-buscas-em-imoveis-de-marcio-poncio-pastor-aliado-de-bacellar",
+      "resumo": "Polícia Federal vasculhou salas comerciais ligadas ao pastor na Barra da Tijuca para apurar suspeitas de lavagem de dinheiro.",
+      "publicado_em": "2026-10-29T15:58:29-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
     },
     {
       "id": "757b455e887d16e2",
@@ -1004,6 +1263,20 @@
       "coletado_em": "2026-10-29T16:19:18-03:00"
     },
     {
+      "id": "1433804a8d7fa1a0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A Constituição está segura?",
+      "link": "https://www.congressoemfoco.com.br/artigo/129656/a-constituicao-esta-segura",
+      "resumo": "Defender a democracia exige preservar as instituições e fazer os direitos chegarem à vida cotidiana.",
+      "publicado_em": "2026-10-29T12:26:40-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
       "id": "c49f9b016f887258",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1083,6 +1356,25 @@
       "coletado_em": "2026-10-29T14:19:03-03:00"
     },
     {
+      "id": "c67d3d1e27cefb40",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Setor de tecnologia alerta para atraso em regras da reforma tributária",
+      "link": "https://www.congressoemfoco.com.br/noticia/129650/setor-de-tecnologia-alerta-para-atraso-em-regras-da-reforma-tributaria",
+      "resumo": "A dois meses do início da vigência da nova fase da reforma, associação das empresas de TI cobra definições técnicas para adaptar sistemas e defende prioridade à implantação da CBS.",
+      "publicado_em": "2026-10-29T11:03:34-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 86,
+      "tags": [
+        "vigencia",
+        "reforma tributaria",
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
       "id": "85cb76d13a8331b4",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1131,6 +1423,23 @@
         "acao"
       ],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "2625e0fd75170497",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Disputa entre ministérios trava Redata, diz setor de tecnologia",
+      "link": "https://www.congressoemfoco.com.br/noticia/129645/disputa-entre-ministerios-trava-redata-diz-setor-de-tecnologia",
+      "resumo": "Diretor da associação brasileira de empresas de TI, a Brasscom, aponta impasse sobre o uso de gás natural e alerta que demora na regulamentação já provoca perda de investimentos em data centers.",
+      "publicado_em": "2026-10-29T10:46:19-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
     },
     {
       "id": "d2588bd0aada5755",
@@ -1274,6 +1583,132 @@
         "acao"
       ],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "95343fb858f24821",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "29 de outubro - Dia Nacional de Prevenção à Lavagem de Dinheiro",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/dia-nacional-de-prevencao-a-lavagem-de-dinheiro-1",
+      "resumo": "",
+      "publicado_em": "2026-10-29T16:34:45-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "c2b9d23f42008d6e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Regulação de vagas e mutirões reduzem superlotação prisional em cenário desafiador",
+      "link": "https://www.cnj.jus.br/regulacao-de-vagas-e-mutiroes-reduzem-superlotacao-prisional-em-cenario-desafiador/",
+      "resumo": "Com taxa de ocupação média de 150% nas prisões brasileiras e agravamento da situação a cada ano, a superlotação cria insegurança dentro e fora das unidades prisionais, dificulta a separação adequada de presos, compromete a administração, favorece o fortalecimento de organizações criminosas e coloca ",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "add817b6c6d847d6",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Ordens de bloqueio de crédito pendentes serão monitoradas com novo sistema do CNJ",
+      "link": "https://www.cnj.jus.br/ordens-de-bloqueio-de-credito-pendentes-serao-monitoradas-com-novo-sistema-do-cnj/",
+      "resumo": "Os bloqueios judiciais de créditos que ainda aguardam providências ou desbloqueio desses recursos passam a ser monitorados pelo Conselho Nacional de Justiça (CNJ) por meio do Sistema Integra. A plataforma já é utilizada para acompanhar o cumprimento das resoluções editadas pelo órgão e agora incluem",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "d047735ebbb7806c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova medidas para fortalecer combate ao câncer de próstata",
+      "link": "https://www.camara.leg.br/noticias/1314937-comissao-aprova-medidas-para-fortalecer-combate-ao-cancer-de-prostata",
+      "resumo": "",
+      "publicado_em": "2026-10-29T17:51:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "ba2bc3f2b81c3f5c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova política nacional de inclusão e letramento digital para pessoas idosas",
+      "link": "https://www.camara.leg.br/noticias/1314934-comissao-aprova-politica-nacional-de-inclusao-e-letramento-digital-para-pessoas-idosas",
+      "resumo": "",
+      "publicado_em": "2026-10-29T17:31:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "721f7518c78d511a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova acessibilidade para exames de prevenção ao câncer em mulheres com deficiência",
+      "link": "https://www.camara.leg.br/noticias/1314742-comissao-aprova-acessibilidade-para-exames-de-prevencao-ao-cancer-em-mulheres-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-10-29T17:17:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "f8937fd3e2146247",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova acessibilidade em páginas de escolas na internet",
+      "link": "https://www.camara.leg.br/noticias/1314930-comissao-aprova-acessibilidade-em-paginas-de-escolas-na-internet",
+      "resumo": "",
+      "publicado_em": "2026-10-29T17:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "bdee73c652338719",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova proposta que tipifica lesbocídio no Código Penal",
+      "link": "https://www.camara.leg.br/noticias/1314858-comissao-aprova-proposta-que-tipifica-lesbocidio-no-codigo-penal",
+      "resumo": "",
+      "publicado_em": "2026-10-29T16:20:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
     },
     {
       "id": "8ddef0edac35c8d6",
@@ -1466,6 +1901,23 @@
       "coletado_em": "2026-10-29T14:19:03-03:00"
     },
     {
+      "id": "fdc0229e4a0ae9b0",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Inscrições para três vagas do Programa de Estágio de Pós-Graduação em Pesquisa (PEPP) são prorrogadas até 13 de novembro",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21307/nota",
+      "resumo": "Nesta prorrogação, as vagas serão destinadas à Linha 2 para as praças de Brasília, Rio de Janeiro e São Paulo. A carga horária do estágio é de trinta horas semanais, com bolsa no valor de R$2.231,39. O estágio poderá ser realizado de forma remota ou presencial, conforme as necessidades do trabalho.",
+      "publicado_em": "2026-10-29T16:32:39-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "prorrogad",
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
       "id": "3ec53bd20cc251ca",
       "fonte_id": "anpd",
       "fonte_nome": "ANPD",
@@ -1512,22 +1964,6 @@
         "acao"
       ],
       "coletado_em": "2026-10-28T13:59:32-03:00"
-    },
-    {
-      "id": "8bf5262904274277",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "TST define novas teses vinculantes",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/tst-define-novas-teses-vinculantes",
-      "resumo": "",
-      "publicado_em": "2026-10-28T12:00:00-03:00",
-      "dia": "2026-10-28",
-      "data_estimada": true,
-      "score": 54,
-      "tags": [
-        "tese"
-      ],
-      "coletado_em": "2026-10-28T16:10:41-03:00"
     },
     {
       "id": "967134c7e86f3c7a",
@@ -6070,6 +6506,22 @@
         "cade"
       ],
       "coletado_em": "2026-10-27T16:02:45-03:00"
+    },
+    {
+      "id": "8bf5262904274277",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TST define novas teses vinculantes",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/tst-define-novas-teses-vinculantes",
+      "resumo": "",
+      "publicado_em": "2026-10-26T12:00:00-03:00",
+      "dia": "2026-10-26",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "tese"
+      ],
+      "coletado_em": "2026-10-28T16:10:41-03:00"
     },
     {
       "id": "b9355128fafe7165",
