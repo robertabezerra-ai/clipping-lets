@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-29T14:19:03-03:00",
+  "gerado_em": "2026-10-29T16:19:18-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 17,
+      "itens": 18,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "Not a gzipped file (b'<!')"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -279,6 +279,39 @@ window.DADOS = {
       "coletado_em": "2026-10-29T14:19:03-03:00"
     },
     {
+      "id": "e7ae66c7bfc11b73",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 divulga escala de plantão judiciário para os feriados do Dia do Servidor Público e de Finados",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-divulga-escala-de-plantao-judiciario-para-os-feriados-do-dia-do-servidor",
+      "resumo": "TRT-15 divulga escala de plantão judiciário para os feriados do Dia do Servidor Público e de Finados anasiqueira Qui, 29/10/2026 - 15:23 TRT-15 divulga escala de plantão judiciário para os feriados do Dia do Servidor Público e de Finados/div> Conteúdo da Notícia Conforme a Portaria GP-CR nº 16/2025,",
+      "publicado_em": "2026-10-29T15:23:09-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "portaria"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "27bc15d9e4f052fa",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Livro sobre migração e exílio inspira debate no Direito em Páginas",
+      "link": "https://trt15.jus.br/noticia/2026/livro-sobre-migracao-e-exilio-inspira-debate-no-direito-em-paginas",
+      "resumo": "Livro sobre migração e exílio inspira debate no Direito em Páginas anasiqueira Qui, 29/10/2026 - 15:14 Livro sobre migração e exílio inspira debate no Direito em Páginas Conteúdo da Notícia A Escola Judicial do Tribunal Regional do Trabalho da 15ª Região promove dia 4/11, quarta-feira, das 10h às 11",
+      "publicado_em": "2026-10-29T15:14:57-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
       "id": "67291f3d6127bbc9",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -342,6 +375,40 @@ window.DADOS = {
       "coletado_em": "2026-10-29T14:19:03-03:00"
     },
     {
+      "id": "c8a82d131dfbde3f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida exclusão de sócio que dificultou atividade de empresa imobiliária",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115884&pagina=1",
+      "resumo": "Falta grave caracterizada. \n \n\tA 1ª Câmara Reservada de Direito Empresarial do Tribunal de Justiça de São Paulo manteve decisão da 4ª Vara Cível de Americana,",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "30b9cf581e3ae461",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF reabre consulta sobre propostas preliminares relativas ao contencioso judicial da reforma tributária do consumo",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-abre-consulta-sobre-propostas-preliminares-relativas-ao-contencioso-judicial-da-reforma-tributaria-do-consumo/",
+      "resumo": "Nova fase submete a debate as conclusões preliminares do grupo de trabalho; instituições podem enviar contribuições até 16 de novembro",
+      "publicado_em": "2026-10-29T16:03:52-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "liminar",
+        "reforma tributaria",
+        "judicial"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
       "id": "9c1574548670c5f7",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -373,6 +440,38 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "eb54b1a5abdddd63",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Imposto Seletivo: governo define alíquotas nos próximos dias",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/imposto-seletivo-governo-define-aliquotas-nos-proximos-dias",
+      "resumo": "",
+      "publicado_em": "2026-10-29T15:40:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "9423c65304384a3f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCJ faz nova votação de projeto sobre biometria de mães e bebês",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/10/ccj-faz-nova-votacao-de-projeto-sobre-biometria-de-maes-e-bebes",
+      "resumo": "",
+      "publicado_em": "2026-10-29T14:58:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
     },
     {
       "id": "e98d33980d5e840f",
@@ -512,6 +611,23 @@ window.DADOS = {
       "coletado_em": "2026-10-29T14:19:03-03:00"
     },
     {
+      "id": "47232d44419be184",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Mais de 1 milhão de contribuintes já optaram pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/outubro/mais-de-1-milhao-de-contribuintes-ja-optaram-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-10-29T16:12:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
       "id": "9f49e2256dcb4edb",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -529,6 +645,34 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "6129328237adcc7b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Paulo Pereira: mulheres empreendedoras são prioridade no Prospera MEI",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/paulo-pereira-mulheres-empreendedoras-sao-prioridade-no-prospera-mei",
+      "resumo": "",
+      "publicado_em": "2026-10-29T15:20:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "ad6d9b1611a6a95a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Astrônomos identificam pela primeira vez uma estrela verde no Universo",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/astronomos-identificam-pela-primeira-vez-uma-estrela-verde-no-universo-conheca-a-lei-de-wien-que-explica-a-cor-dos-astros",
+      "resumo": "",
+      "publicado_em": "2026-10-29T14:33:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
     },
     {
       "id": "c7529f5478acad00",
@@ -608,7 +752,7 @@ window.DADOS = {
       "id": "039480f90cefce75",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Discriminação política no atendimento em saúde pode ser denunciada na Ouvidoria do SUS",
+      "titulo": "Cidadãos e profissionais podem denunciar discriminação política na saúde pelo 136",
       "link": "https://agenciagov.ebc.com.br/noticias/202610/discriminacao-politica-no-atendimento-em-saude-pode-ser-denunciada-pelo-136-da-ouvidoria-do-sus",
       "resumo": "",
       "publicado_em": "2026-10-29T11:50:00-03:00",
@@ -693,6 +837,24 @@ window.DADOS = {
       "coletado_em": "2026-10-29T14:19:03-03:00"
     },
     {
+      "id": "7016c71c762a3a3b",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Governo discute ampliar até 30/11 o prazo de opção pelo regime da CBS e do IBS para cooperativas",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/governo-discute-ampliar-ate-30-11-o-prazo-de-opcao-pelo-regime-da-cbs-e-do-ibs-para-cooperativas",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 76,
+      "tags": [
+        "prazo",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
       "id": "32580bfc17f3be5e",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -719,6 +881,69 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "757b455e887d16e2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Polícia Civil prende suspeito de atacar a deputada Duda Salabert",
+      "link": "https://www.congressoemfoco.com.br/noticia/129668/policia-civil-prende-suspeito-de-atacar-a-deputada-duda-salabert",
+      "resumo": "Segundo a deputada, homem já tinha passagem criminal por homicídio, roubo e tráfico de drogas.",
+      "publicado_em": "2026-10-29T14:56:25-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "droga"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "f1fce2682dfb7130",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bolsonaro não sabia de fuga de Flávio para os EUA, diz Valdemar Neto",
+      "link": "https://www.congressoemfoco.com.br/noticia/129666/bolsonaro-nao-sabia-de-fuga-de-flavio-para-os-eua-diz-valdemar-neto",
+      "resumo": "Presidente do PL afirmou que nem ele nem o ex-presidente foram avisados da viagem e criticou a decisão do senador após a derrota eleitoral.",
+      "publicado_em": "2026-10-29T14:26:27-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "8b0e98941e112db4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Midterms: Eleições dos EUA na próxima terça testam força de Trump",
+      "link": "https://www.congressoemfoco.com.br/noticia/129665/midterms-eleicoes-dos-eua-na-proxima-terca-testam-forca-de-trump",
+      "resumo": "A votação de terça-feira poderá alterar a maioria nas duas Casas do Congresso e limitar a aprovação de propostas da Casa Branca.",
+      "publicado_em": "2026-10-29T14:18:42-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "53ad30fc7954f1a5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pancadaria entre deputados interrompe sessão no Parlamento da Armênia",
+      "link": "https://www.congressoemfoco.com.br/noticia/129664/pancadaria-entre-deputados-interrompe-sessao-no-parlamento-da-armenia",
+      "resumo": "Confronto entre governistas e oposicionistas começou após acusações de corrupção e deixou parlamentares feridos.",
+      "publicado_em": "2026-10-29T14:03:38-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
     },
     {
       "id": "9c627ccb2f84948c",
@@ -763,6 +988,69 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "4831c83dcc0e998d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mapa do poder: Veja quantos candidatos cada partido elegeu em 2026",
+      "link": "https://www.congressoemfoco.com.br/noticia/129657/mapa-do-poder-veja-quantos-candidatos-cada-partido-elegeu-em-2026",
+      "resumo": "PL amplia em 53,8% o número de eleitos, enquanto PT cresce 13,8%, reelege Lula e conquista o segundo maior número de mandatos do país. Confira o saldo final da eleição para cada legenda.",
+      "publicado_em": "2026-10-29T12:30:31-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "c49f9b016f887258",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O novo Congresso e os desafios da Psicologia",
+      "link": "https://www.congressoemfoco.com.br/artigo/129655/o-novo-congresso-e-os-desafios-da-psicologia",
+      "resumo": "Defender a Psicologia é também defender as condições de trabalho da categoria, a qualidade dos serviços oferecidos à população e o compromisso democrático do Estado com a garantia de direitos.",
+      "publicado_em": "2026-10-29T12:14:54-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "2eeb438cf4fb97e0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TSE deveria evitar que candidaturas sub judice se estendam até a posse",
+      "link": "https://www.congressoemfoco.com.br/noticia/129654/tse-deveria-evitar-que-candidaturas-sub-judice-se-estendam-ate-a-posse",
+      "resumo": "Casos como os de Deltan Dallagnol, Dr. Furlan e Márcio Canella desafiam segurança jurídica da Corte.",
+      "publicado_em": "2026-10-29T11:40:50-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "565a198ff0c170b1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O fim da escala 6x1 e seus impactos sociais, trabalhistas e econômicos",
+      "link": "https://www.congressoemfoco.com.br/artigo/129653/o-fim-da-escala-6x1-e-seus-impactos-sociais-trabalhistas-e-economicos",
+      "resumo": "Redução gradual da jornada para 40 horas semanais, ampliação do descanso remunerado e manutenção dos salários exigirão adaptações nos contratos, nas escalas de trabalho e na organização das empresas.",
+      "publicado_em": "2026-10-29T11:37:50-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
     },
     {
       "id": "4a333e729349d6b4",
@@ -986,6 +1274,54 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "8ddef0edac35c8d6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova regras para garantir continuidade dos estudos de vítimas de violência nas escolas",
+      "link": "https://www.camara.leg.br/noticias/1314884-comissao-aprova-regras-para-garantir-continuidade-dos-estudos-de-vitimas-de-violencia-nas-escolas",
+      "resumo": "",
+      "publicado_em": "2026-10-29T16:11:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "a5c4823494b51b06",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova diretrizes para ampliar acesso à psicoterapia para populações vulneráveis",
+      "link": "https://www.camara.leg.br/noticias/1314744-comissao-aprova-diretrizes-para-ampliar-acesso-a-psicoterapia-para-populacoes-vulneraveis",
+      "resumo": "",
+      "publicado_em": "2026-10-29T15:18:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "bd20c30da5e63d80",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto para ampliar o acesso a remédios de uso contínuo no SUS",
+      "link": "https://www.camara.leg.br/noticias/1314738-comissao-aprova-projeto-para-ampliar-o-acesso-a-remedios-de-uso-continuo-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-10-29T14:39:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-10-29T16:19:18-03:00"
     },
     {
       "id": "251e2d20a6db79c4",
