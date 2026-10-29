@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-29T17:51:32-03:00",
+  "gerado_em": "2026-10-29T20:42:58-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 18,
       "erro": null
     },
     {
@@ -239,7 +239,7 @@ window.DADOS = {
     {
       "id": "governo_federal",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
@@ -301,8 +301,8 @@ window.DADOS = {
       "fonte_nome": "TRT-15",
       "titulo": "TRT-15 divulga escala de plantão judiciário para os feriados do Dia do Servidor Público e de Finados",
       "link": "https://trt15.jus.br/noticia/2026/trt-15-divulga-escala-de-plantao-judiciario-para-os-feriados-do-dia-do-servidor",
-      "resumo": "TRT-15 divulga escala de plantão judiciário para os feriados do Dia do Servidor Público e de Finados anasiqueira Qui, 29/10/2026 - 15:23 TRT-15 divulga escala de plantão judiciário para os feriados do Dia do Servidor Público e de Finados/div> Conteúdo da Notícia Conforme a Portaria GP-CR nº 16/2025,",
-      "publicado_em": "2026-10-29T15:23:09-03:00",
+      "resumo": "TRT-15 divulga escala de plantão judiciário para os feriados do Dia do Servidor Público e de Finados anasiqueira Qui, 29/10/2026 - 19:41 TRT-15 divulga escala de plantão judiciário para os feriados do Dia do Servidor Público e de Finados Conteúdo da Notícia Conforme a Portaria GP-CR nº 16/2025, da P",
+      "publicado_em": "2026-10-29T19:41:09-03:00",
       "dia": "2026-10-29",
       "data_estimada": false,
       "score": 50,
@@ -317,8 +317,8 @@ window.DADOS = {
       "fonte_nome": "TRT-15",
       "titulo": "Livro sobre migração e exílio inspira debate no Direito em Páginas",
       "link": "https://trt15.jus.br/noticia/2026/livro-sobre-migracao-e-exilio-inspira-debate-no-direito-em-paginas",
-      "resumo": "Livro sobre migração e exílio inspira debate no Direito em Páginas anasiqueira Qui, 29/10/2026 - 15:14 Livro sobre migração e exílio inspira debate no Direito em Páginas Conteúdo da Notícia A Escola Judicial do Tribunal Regional do Trabalho da 15ª Região promove dia 4/11, quarta-feira, das 10h às 11",
-      "publicado_em": "2026-10-29T15:14:57-03:00",
+      "resumo": "Livro sobre migração e exílio inspira debate no Direito em Páginas anasiqueira Qui, 29/10/2026 - 19:14 Livro sobre migração e exílio inspira debate no Direito em Páginas Conteúdo da Notícia A Escola Judicial do Tribunal Regional do Trabalho da 15ª Região promove dia 4/11, quarta-feira, das 10h às 11",
+      "publicado_em": "2026-10-29T19:14:57-03:00",
       "dia": "2026-10-29",
       "data_estimada": false,
       "score": 54,
@@ -327,6 +327,54 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "d3795c35e957f28a",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "EJud-15 promove visita técnica à fábrica da Hyundai em Piracicaba",
+      "link": "https://trt15.jus.br/noticia/2026/ejud-15-promove-visita-tecnica-fabrica-da-hyundai-em-piracicaba",
+      "resumo": "EJud-15 promove visita técnica à fábrica da Hyundai em Piracicaba anasiqueira Qui, 29/10/2026 - 17:56 EJud-15 promove visita técnica à fábrica da Hyundai em Piracicaba Conteúdo da Notícia Magistrados do Tribunal Regional do Trabalho da 15ª Região participaram, na última sexta-feira, 23/10, de uma vi",
+      "publicado_em": "2026-10-29T17:56:46-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
+    },
+    {
+      "id": "4c742812e5e505ad",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 participa da Semana Nacional da Conciliação do CNJ que começa na terça, 3/11",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-participa-da-semana-nacional-da-conciliacao-do-cnj-que-comeca-na-terca-311",
+      "resumo": "TRT-15 participa da Semana Nacional da Conciliação do CNJ que começa na terça, 3/11 anasiqueira Qui, 29/10/2026 - 16:18 TRT-15 participa da Semana Nacional da Conciliação do CNJ que começa na terça, 3/11 Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região participa, de 3 a 6 de novembr",
+      "publicado_em": "2026-10-29T16:18:26-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
+    },
+    {
+      "id": "242e210cfc071fbd",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 encerra Semana do Servidor com homenagens, celebração dos 40 anos e arrecadação de quase 2,5 toneladas de alimentos",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-encerra-semana-do-servidor-com-homenagens-celebracao-dos-40-anos-e-arrecadacao",
+      "resumo": "TRT-15 encerra Semana do Servidor com homenagens, celebração dos 40 anos e arrecadação de quase 2,5 toneladas de alimentos anasiqueira Qui, 29/10/2026 - 16:02 TRT-15 encerra Semana do Servidor com homenagens, celebração dos 40 anos e arrecadação de quase 2,5 toneladas de alimentos Conteúdo da Notíci",
+      "publicado_em": "2026-10-29T16:02:08-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
     },
     {
       "id": "67291f3d6127bbc9",
@@ -436,6 +484,40 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "3c9a06f904d11563",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF valida regra que altera isenção de contribuição previdenciária sobre aposentadoria de servidores incapacitados",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-valida-regra-que-altera-isencao-de-contribuicao-previdenciaria-sobre-aposentadoria-de-servidores-incapacitados/",
+      "resumo": "Alteração ocorreu na Reforma da Previdência de 2019 e limita isenção ao teto do RGPS",
+      "publicado_em": "2026-10-29T19:49:15-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
+    },
+    {
+      "id": "44d96a674f8df1ee",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF suspende julgamento sobre igualdade entre homens e mulheres na previdência complementar",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-julgamento-sobre-igualdade-entre-homens-e-mulheres-na-previdencia-complementar/",
+      "resumo": "Placar é de cinco votos a três a favor da diferenciação de critérios para concessão de benefício integral",
+      "publicado_em": "2026-10-29T19:04:27-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
     },
     {
       "id": "9533f7efec392baa",
@@ -785,6 +867,37 @@ window.DADOS = {
       "coletado_em": "2026-10-29T14:19:03-03:00"
     },
     {
+      "id": "5d98ad6924bd5a6b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Identidade Jovem garante diretos e já ultrapassa 1,5 milhão de usuários",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/id-jovem-ultrapassa-1-5-milhao-de-usuarios",
+      "resumo": "",
+      "publicado_em": "2026-10-29T18:38:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
+    },
+    {
+      "id": "067304a1959314c3",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Conselho Curador do FGTS aprova R$ 169 bilhões para investimentos em 2027",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/conselho-curador-do-fgts-aprova-orcamento-de-r-169-bilhoes-para-investimentos-em-2027",
+      "resumo": "",
+      "publicado_em": "2026-10-29T17:39:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "fgts",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
+    },
+    {
       "id": "fef005adda2689d8",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -799,6 +912,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "6a296a747bc5ded3",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Operação Verão: bebidas entregam menos do que o rótulo promete",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/operacao-verao-bebidas-entregam-menos-do-que-o-rotulo-promete",
+      "resumo": "",
+      "publicado_em": "2026-10-29T16:31:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
     },
     {
       "id": "28b6003437ff4c90",
@@ -1056,6 +1185,48 @@ window.DADOS = {
       "coletado_em": "2026-10-29T17:51:32-03:00"
     },
     {
+      "id": "12463e97cf805749",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "PGFN debate estratégias para reduzir litígios no mercado regulado de carbono",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/pgfn-debate-estrategias-para-reduzir-litigios-no-mercado-regulado-de-carbono",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
+    },
+    {
+      "id": "19f053cc60709e7a",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Mercado Regulado de Carbono define cronograma para que setores da indústria comecem a medir emissões",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/mercado-regulado-de-carbono-define-cronograma-para-que-setores-da-industria-comecem-a-medir-emissoes",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
+    },
+    {
+      "id": "794479966c5fe7f0",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Governo Central registra superávit de R$ 4,839 bilhões em setembro, mostra o Tesouro Nacional",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/outubro/governo-central-registra-superavit-de-r-4-839-bilhoes-em-setembro-mostra-o-tesouro-nacional",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
+    },
+    {
       "id": "32580bfc17f3be5e",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -1112,6 +1283,72 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "59d973ca80982d26",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alencar Santana aciona PGE e pede inelegibilidade de Flávio Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/129679/alencar-santana-aciona-pge-e-pede-inelegibilidade-de-flavio-bolsonaro",
+      "resumo": "Deputado solicita investigação eleitoral contra o senador por acusações de fraude e por se apresentar como vencedor do segundo turno.",
+      "publicado_em": "2026-10-29T19:17:15-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
+    },
+    {
+      "id": "4f0a3c3426319a11",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Justiça nega pedido para obrigar Richarlison a apagar posts sobre ilha",
+      "link": "https://www.congressoemfoco.com.br/noticia/129678/justica-nega-pedido-para-obrigar-richarlison-a-apagar-posts-sobre-ilha",
+      "resumo": "Juiz recusou a restrição antecipada às publicações do jogador, e o prazo para Willer Tomaz se manifestar no processo já terminou.",
+      "publicado_em": "2026-10-29T18:30:57-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "processo"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
+    },
+    {
+      "id": "96ac5e519221034a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Arnaldo Jardim propõe crédito tributário para estoques de remédios",
+      "link": "https://www.congressoemfoco.com.br/noticia/129677/arnaldo-jardim-propoe-credito-tributario-para-estoques-de-remedios",
+      "resumo": "Texto busca impedir que distribuidores e farmácias percam parte dos impostos pagos sobre medicamentos na transição tributária de 2027.",
+      "publicado_em": "2026-10-29T18:04:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "tributario",
+        "imposto"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
+    },
+    {
+      "id": "71cc2ff61569ab5b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ex-primeira-dama de Patos se desculpa por usar boné com ofensa a Janja",
+      "link": "https://www.congressoemfoco.com.br/noticia/129676/ex-primeira-dama-de-patos-se-desculpa-por-usar-bone-com-ofensa-a-janja",
+      "resumo": "Em vídeo publicado nas redes sociais, ela classificou o episódio como uma \"brincadeira de muito mau gosto\".",
+      "publicado_em": "2026-10-29T17:15:23-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
     },
     {
       "id": "f6762be6bef7a1a7",
@@ -1231,6 +1468,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "52044f637e5bcf0c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O recado do TCU para a atenção primária",
+      "link": "https://www.congressoemfoco.com.br/artigo/129659/o-recado-do-tcu-para-a-atencao-primaria",
+      "resumo": "Auditoria do Tribunal de Contas da União mostra que o novo modelo de financiamento federal da atenção primária entrou em vigor antes de ter régua, meta e gestão de riscos. Em 2027, a regra passa a valer por inteiro.",
+      "publicado_em": "2026-10-29T12:49:15-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
     },
     {
       "id": "17142ce01948c611",
@@ -1588,10 +1839,10 @@ window.DADOS = {
       "id": "95343fb858f24821",
       "fonte_id": "coaf",
       "fonte_nome": "Coaf",
-      "titulo": "29 de outubro - Dia Nacional de Prevenção à Lavagem de Dinheiro",
+      "titulo": "Como surgiu a lavagem de dinheiro? Entenda como o Coaf atua na prevenção ao crime",
       "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/dia-nacional-de-prevencao-a-lavagem-de-dinheiro-1",
       "resumo": "",
-      "publicado_em": "2026-10-29T16:34:45-03:00",
+      "publicado_em": "2026-10-29T19:39:05-03:00",
       "dia": "2026-10-29",
       "data_estimada": false,
       "score": 40,
@@ -1629,6 +1880,22 @@ window.DADOS = {
         "recurso"
       ],
       "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "70bdda79cb4fe317",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate implementação da Política Nacional de Minerais Críticos e Estratégicos",
+      "link": "https://www.camara.leg.br/noticias/1314763-comissao-debate-implementacao-da-politica-nacional-de-minerais-criticos-e-estrategicos",
+      "resumo": "",
+      "publicado_em": "2026-10-29T17:59:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
     },
     {
       "id": "d047735ebbb7806c",
@@ -1916,6 +2183,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "e3999c05ec914e0d",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Classificação e cumulatividade de infrações são destaques em audiência pública sobre Regulamento de Dosimetria da ANPD",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/classificacao-e-cumulatividade-de-infracoes-sao-destaques-em-audiencia-publica-sobre-regulamento-de-dosimetria-da-anpd",
+      "resumo": "O encontro virtual faz parte das ações de participação social para atualização do novo normativo, que também inclui uma consulta pública que está aberta a sugestões até 30 de novembro",
+      "publicado_em": "2026-10-29T19:50:50-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
     },
     {
       "id": "3ec53bd20cc251ca",
