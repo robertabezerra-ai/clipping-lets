@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-30T13:56:38-03:00",
+  "gerado_em": "2026-10-30T15:55:15-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -293,6 +293,64 @@
       "coletado_em": "2026-10-30T13:56:38-03:00"
     },
     {
+      "id": "fa6ceb009f455f40",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Disque 100 teve 350% de aumento nas denúncias de violência política durante as eleições",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/mdhc-registrou-350-de-aumento-nas-denuncias-de-violencia-politica-durante-a-eleicao",
+      "resumo": "",
+      "publicado_em": "2026-10-30T14:33:00-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T15:55:15-03:00"
+    },
+    {
+      "id": "fac8a539940f52c6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Temporada de cruzeiros começa no Brasil com aumento de 24% na oferta de leitos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/temporada-de-cruzeiros-comeca-no-brasil-com-aumento-de-24-na-oferta-de-leitos",
+      "resumo": "",
+      "publicado_em": "2026-10-30T14:33:00-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T15:55:15-03:00"
+    },
+    {
+      "id": "16e386b334b05ce5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Leilão de transmissão garante R$ 8,9 bilhões em investimentos para sete estados brasileiros",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/leilao-de-transmissao-4-2026-garante-r-8-9-bilhoes-em-investimentos-para-sete-estados-brasileiros",
+      "resumo": "",
+      "publicado_em": "2026-10-30T14:02:00-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T15:55:15-03:00"
+    },
+    {
+      "id": "ee4e1304ff15811d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Investimento estrangeiro no setor de informação e comunicação bate recorde",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/investimento-estrangeiro-no-setor-de-informacao-e-comunicacao-bate-recorde-e-chega-a-us-5-6-bilhoes-nos-nove-primeiros-meses-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-30T13:34:00-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T15:55:15-03:00"
+    },
+    {
       "id": "d0b13c4675cfb679",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -310,7 +368,7 @@
       "id": "f6e6e82a1a116be6",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "PF e Funai inutilizam equipamentos usados extração ilegal de ouro na Terra Indígena Kayapó",
+      "titulo": "PF e Funai inutilizam equipamentos usados na extração ilegal de ouro em Terra Indígena",
       "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-e-funai-inutilizaram-equipamentos-usados-extracao-ilegal-de-ouro-na-terra-indigena-kayapo",
       "resumo": "",
       "publicado_em": "2026-10-30T07:49:00-03:00",
@@ -340,6 +398,50 @@
       "coletado_em": "2026-10-30T13:56:38-03:00"
     },
     {
+      "id": "36cc5dca904ae397",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Papa Leão XIV vota por correio nas eleições legislativas dos EUA",
+      "link": "https://www.congressoemfoco.com.br/noticia/129713/papa-leao-xiv-vota-por-correio-nas-eleicoes-legislativas-dos-eua",
+      "resumo": "Natural de Chicago, Leão XIV se tornou o primeiro papa a participar de eleições democráticas durante o exercício do pontificado.",
+      "publicado_em": "2026-10-30T14:29:42-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T15:55:15-03:00"
+    },
+    {
+      "id": "0cfd2d9865712535",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Representação feminina: O avanço civilizatório das eleições de 2026",
+      "link": "https://www.congressoemfoco.com.br/artigo/129711/representacao-feminina-o-avanco-civilizatorio-das-eleicoes-de-2026",
+      "resumo": "Câmara e Senado terão bancadas femininas recordes a partir de 2027, enquanto três mulheres assumirão governos estaduais. Apesar dos avanços, a participação feminina permanece distante da paridade.",
+      "publicado_em": "2026-10-30T14:12:02-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T15:55:15-03:00"
+    },
+    {
+      "id": "5fbae7c6752ed7c4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas defende boicotes políticos, mas condena suspender caridade",
+      "link": "https://www.congressoemfoco.com.br/noticia/129710/nikolas-defende-boicotes-politicos-mas-condena-suspender-caridade",
+      "resumo": "\"Nós temos o direito de escolher para onde que vai o nosso salário\", afirmou o deputado.",
+      "publicado_em": "2026-10-30T14:06:40-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T15:55:15-03:00"
+    },
+    {
       "id": "d0795a583853edf0",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -352,6 +454,54 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "391157e54e201588",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O Brasil não cabe em quatro cartas",
+      "link": "https://www.congressoemfoco.com.br/artigo/129704/o-brasil-nao-cabe-em-quatro-cartas",
+      "resumo": "Quatro versões de uma carta, a reinvindicação de uma autoridade e um brasão de outro tempo histórico: o que a linguagem revela sobre a representação política e os limites da inteligência artificial?",
+      "publicado_em": "2026-10-30T12:38:26-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T15:55:15-03:00"
+    },
+    {
+      "id": "ebc7c179b696012a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Parlamentares democratas questionam Marco Rubio sobre visto de Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/129702/parlamentares-democratas-questionam-marco-rubio-sobre-visto-de-flavio",
+      "resumo": "Em carta, deputados fazem 15 perguntas sobre suposta ajuda ao senador brasileiro com visto, documentação, logística ou entrada no país.",
+      "publicado_em": "2026-10-30T12:35:26-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T15:55:15-03:00"
+    },
+    {
+      "id": "e35634d57104dc97",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A cidade inteligente começa debaixo da terra",
+      "link": "https://www.congressoemfoco.com.br/coluna/129700/a-cidade-inteligente-comeca-debaixo-da-terra",
+      "resumo": "Apagões, alagamentos e redes elétricas expostas revelam a necessidade de investimentos em prevenção, planejamento e integração de serviços para melhorar a segurança e a qualidade de vida na capital.",
+      "publicado_em": "2026-10-30T12:05:52-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T15:55:15-03:00"
     },
     {
       "id": "83a62a86d700cdda",
@@ -1320,6 +1470,22 @@
       "coletado_em": "2026-10-29T20:42:58-03:00"
     },
     {
+      "id": "7a3b8dddd943046a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Programa Futuras Cientistas tem inscrições prorrogadas até 6 de novembro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/programa-futuras-cientistas-tem-inscricoes-prorrogadas-ate-6-de-novembro",
+      "resumo": "",
+      "publicado_em": "2026-10-29T18:23:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "prorrogad"
+      ],
+      "coletado_em": "2026-10-30T15:55:15-03:00"
+    },
+    {
       "id": "067304a1959314c3",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1395,6 +1561,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "69b8cd99fe5a0602",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Super El Niño: Brasil deve enfrentar temperaturas altas e ondas de calor nos próximos meses",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/brasil-deve-enfrentar-temperaturas-altas-e-ondas-de-calor-nos-proximos-meses",
+      "resumo": "",
+      "publicado_em": "2026-10-29T14:55:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T15:55:15-03:00"
     },
     {
       "id": "ad6d9b1611a6a95a",
