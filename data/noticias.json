@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-29T20:42:58-03:00",
+  "gerado_em": "2026-10-30T13:56:38-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 19,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -250,6 +250,341 @@
     }
   ],
   "noticias": [
+    {
+      "id": "082e8fc2778f173d",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Últimos dias para inscrições de interessados em atuar nos Tribunais do Júri das comarcas de Guarulhos e Socorro",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115882&pagina=1",
+      "resumo": "Cadastro on-line.\n \n\tA Justiça de Guarulhos e de Socorro seguem com inscrições abertas para interessados em atuar como jurados nos Tribunais do Júri realizados nas",
+      "publicado_em": "2026-10-30T12:00:00-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "046b22d0c482b883",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Tribunal do Júri condena empresário pela morte de motorista de aplicativo na Capital",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115899&pagina=1",
+      "resumo": "Réu dirigia Porsche em alta velocidade.\n \n\tTribunal do Júri realizado pela 1ª Vara do Júri da Capital condenou, hoje (30), empresário pelo homicídio de motorista",
+      "publicado_em": "2026-10-30T12:00:00-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "297fb72f7e72545b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira os destaques do Plenário Virtual desta semana",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-desta-semana-6/",
+      "resumo": "Sessão virtual começou às 11h desta sexta-feira (30) e vai até as 23h59 de 10/11",
+      "publicado_em": "2026-10-30T11:21:21-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "d0b13c4675cfb679",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Taxa de desemprego tem queda e alcança menor resultado para setembro em 14 anos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/taxa-de-desemprego-tem-queda-e-alcanca-menor-resultado-para-setembro-em-14-anos",
+      "resumo": "",
+      "publicado_em": "2026-10-30T09:56:00-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "f6e6e82a1a116be6",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF e Funai inutilizam equipamentos usados extração ilegal de ouro na Terra Indígena Kayapó",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-e-funai-inutilizaram-equipamentos-usados-extracao-ilegal-de-ouro-na-terra-indigena-kayapo",
+      "resumo": "",
+      "publicado_em": "2026-10-30T07:49:00-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "7d684731f45fccd3",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Sessão de Julgamento em 3/11",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/sessao-de-julgamento-em-3-11",
+      "resumo": "",
+      "publicado_em": "2026-10-30T12:00:00-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "d0795a583853edf0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Desemprego cai a 5,2% e Brasil bate recorde de trabalhadores ocupados",
+      "link": "https://www.congressoemfoco.com.br/noticia/129708/desemprego-cai-a-5-2-e-brasil-bate-recorde-de-trabalhadores-ocupados",
+      "resumo": "Brasil chega a 103,6 milhões de trabalhadores ocupados, maior número desde 2012; emprego com carteira fica estável, mas quantidade de desalentados aumenta.",
+      "publicado_em": "2026-10-30T13:32:54-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "83a62a86d700cdda",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika Hilton cria site para pressionar assinaturas à CPI das Big Techs",
+      "link": "https://www.congressoemfoco.com.br/noticia/129699/erika-hilton-cria-site-para-pressionar-assinaturas-a-cpi-das-big-techs",
+      "resumo": "Contador disponível na própria plataforma apontava 87 das 171 assinaturas necessárias, faltando agora 84.",
+      "publicado_em": "2026-10-30T11:56:53-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "4711ad50266fce75",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "As mulheres chegaram ao Congresso; o poder, ainda não",
+      "link": "https://www.congressoemfoco.com.br/artigo/129698/as-mulheres-chegaram-ao-congresso-o-poder-ainda-nao",
+      "resumo": "O Congresso terá 109 deputadas e 18 senadoras em 2027, um recorde. Mas número não é poder, e ser mulher não garante defender mulheres.",
+      "publicado_em": "2026-10-30T11:49:48-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "a9fcee6f62e9550a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Auxílio-reclusão: O que muda com a nova lei?",
+      "link": "https://www.congressoemfoco.com.br/artigo/129696/auxilio-reclusao-o-que-muda-com-a-nova-lei",
+      "resumo": "Legislação estabelece restrições ao benefício previdenciário em situações específicas relacionadas ao crime organizado, sem extinguir o direito de todas as famílias de pessoas presas.",
+      "publicado_em": "2026-10-30T11:33:15-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "217048c060ee9e92",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bancada do PT propõe pena de até 6 anos para discriminação política",
+      "link": "https://www.congressoemfoco.com.br/noticia/129695/bancada-do-pt-propoe-pena-de-ate-6-anos-para-discriminacao-politica",
+      "resumo": "Texto atinge perseguição motivadas pelo voto ou pela convicção política no ambiente de trabalho e na atividade econômica.",
+      "publicado_em": "2026-10-30T11:31:25-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "c3c883c552213167",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Davi Alcolumbre comemora nova descoberta de petróleo no Amapá",
+      "link": "https://www.congressoemfoco.com.br/noticia/129694/davi-alcolumbre-comemora-nova-descoberta-de-petroleo-no-amapa",
+      "resumo": "Presidente do Senado celebrou a terceira descoberta no poço Morpho e defendeu a continuidade das pesquisas na costa amapaense.",
+      "publicado_em": "2026-10-30T11:18:29-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "comemora"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "c980268a391af880",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vorcaro ironiza delegada sobre fraude: \"tem alguém com coragem na PF?\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129692/vorcaro-ironiza-delegada-sobre-fraude--tem-alguem-com-coragem-na-pf",
+      "resumo": "Durante depoimento, banqueiro questionou investigação sobre operações com o BRB, negou ter cometido fraude e afirmou que a crise do banco público não foi causada por ele.",
+      "publicado_em": "2026-10-30T10:49:48-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "394ef2ce114d1673",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vorcaro pede fim da prisão: \"vida devassada, família dilacerada\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/129689/vorcaro-pede-fim-da-prisao--vida-devassada-familia-dilacerada",
+      "resumo": "Em depoimento à Polícia Federal, banqueiro reclamou do período de prisão, negou ter cometido fraude contra o BRB e pediu o arquivamento do inquérito.",
+      "publicado_em": "2026-10-30T10:41:33-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "928ea1614c7c4d5d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Reforma eleitoral: Voto distrital foi adotado por 71 anos no Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/129688/reforma-eleitoral-voto-distrital-foi-adotado-por-71-anos-no-brasil",
+      "resumo": "O modelo distrital adotado no século 19 foi reformulado diversas vezes, com alterações no tamanho das regiões e no número de representantes.",
+      "publicado_em": "2026-10-30T10:34:57-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "094b7fb5b9bcef5b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O fim das bets e a oportunidade de mudar o futebol brasileiro",
+      "link": "https://www.congressoemfoco.com.br/artigo/129687/o-fim-das-bets-e-a-oportunidade-de-mudar-o-futebol-brasileiro",
+      "resumo": "Perda dos patrocínios das casas de apostas revela a dependência dos clubes de receitas extraordinárias e reforça a necessidade de planejamento, transparência e responsabilidade na gestão financeira.",
+      "publicado_em": "2026-10-30T10:22:11-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "0b920195ed171048",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vorcaro diz que celular é sua \"maldição e bênção\" em depoimento à PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/129685/vorcaro-diz-que-celular-e-sua-maldicao-e-bencao-em-depoimento-a-pf",
+      "resumo": "Banqueiro afirmou que mensagens encontradas em seu aparelho mostram relações comerciais e investimentos do Banco Master, contrariando, segundo ele, a versão de que a instituição não possuía ativos.",
+      "publicado_em": "2026-10-30T08:40:36-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "1a68e3c4452d9b68",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Reforma tributária: Quem pagará o novo imposto e o que falta decidir",
+      "link": "https://www.congressoemfoco.com.br/noticia/129684/reforma-tributaria-quem-pagara-o-novo-imposto-e-o-que-falta-decidir",
+      "resumo": "A CBS substituirá o PIS e a Cofins a partir de janeiro de 2027, sem ser um tributo adicional. O Senado tem até 15 de dezembro para avaliar a alíquota de 11,3%, proposta pelo TCU.",
+      "publicado_em": "2026-10-30T08:35:16-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 90,
+      "tags": [
+        "adi",
+        "reforma tributaria",
+        "imposto",
+        "cbs"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "81c3cc217403d199",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Caso Master-BRB: Veja a íntegra do depoimento de Daniel Vorcaro à PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/129683/caso-master-brb-veja-a-integra-do-depoimento-de-daniel-vorcaro-a-pf",
+      "resumo": "Em interrogatório tornado público nesta quinta-feira (29), banqueiro negou fraude na operação com o BRB, pediu arquivamento do inquérito e disse estar disposto a revelar suas relações.",
+      "publicado_em": "2026-10-30T08:11:04-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "7b8ca8af475de51e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Após reeleição, PT mira jovens para se renovar e preparar o pós-Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/129682/apos-reeleicao-pt-mira-jovens-para-se-renovar-e-preparar-o-pos-lula",
+      "resumo": "Executiva do PT anuncia campanha de filiação de jovens, defende regulação das plataformas digitais e alerta para postura de Trump após eleição.",
+      "publicado_em": "2026-10-30T07:54:54-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "6a485100e4ec1fa4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin devolve investigação do INSS a Mendonça, mas mantém a do Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/129680/fachin-devolve-investigacao-do-inss-a-mendonca-mas-mantem-a-do-master",
+      "resumo": "Presidente do STF mantém investigação sobre o Banco Master sob sua responsabilidade por prazo limitado; Plenário decidirá quem conduzirá o caso.",
+      "publicado_em": "2026-10-30T07:13:11-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "0924b9c4835e4bfd",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Remuneração pela coleta de resíduos em tribunais leva dignidade a catadores",
+      "link": "https://www.cnj.jus.br/remuneracao-pela-coleta-de-residuos-em-tribunais-leva-dignidade-a-catadores/",
+      "resumo": "O que representa uma pequena despesa para uma instituição pública pode fazer grande diferença na vida de catadores de materiais recicláveis. A avaliação é do presidente da Cooperativa Itamare, José Marques, beneficiada pela contratação remunerada do serviço de coleta pelo Tribunal Regional do Trabal",
+      "publicado_em": "2026-10-30T12:00:00-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
     {
       "id": "84338ad6abbfb7c9",
       "fonte_id": "trt2",
@@ -296,6 +631,36 @@
       "coletado_em": "2026-10-29T17:51:32-03:00"
     },
     {
+      "id": "ddddbd37f4d4138f",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Justiça do Trabalho de São Paulo determina que Meta remova conteúdos de suas redes que incentivem assédio eleitoral contra trabalhadores",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-do-trabalho-de-sao-paulo-determina-que-meta-remova-conteudos-de-suas-redes-que-incentivem-assedio-eleitoral-contra-trabalhadores",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "ead58618fd18af78",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 recebe visita institucional de representantes da FIESP para alinhar acordos na área social",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-recebe-visita-institucional-de-representantes-da-fiesp-para-alinhar-acordos-na-area-social",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
       "id": "e7ae66c7bfc11b73",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -310,6 +675,20 @@
         "portaria"
       ],
       "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "be55016b2cfbcce3",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 prorroga Plantão Judiciário Eleitoral até 18 de dezembro",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-prorroga-plantao-judiciario-eleitoral-ate-18-de-dezembro",
+      "resumo": "TRT-15 prorroga Plantão Judiciário Eleitoral até 18 de dezembro anasiqueira Qui, 29/10/2026 - 19:24 TRT-15 prorroga Plantão Judiciário Eleitoral até 18 de dezembro Conteúdo da Notícia O Plantão Judiciário Eleitoral do Tribunal Regional do Trabalho da 15ª Região, destinado ao atendimento de denúncias",
+      "publicado_em": "2026-10-29T19:24:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
     },
     {
       "id": "27bc15d9e4f052fa",
@@ -327,22 +706,6 @@
         "acao"
       ],
       "coletado_em": "2026-10-29T16:19:18-03:00"
-    },
-    {
-      "id": "d3795c35e957f28a",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "EJud-15 promove visita técnica à fábrica da Hyundai em Piracicaba",
-      "link": "https://trt15.jus.br/noticia/2026/ejud-15-promove-visita-tecnica-fabrica-da-hyundai-em-piracicaba",
-      "resumo": "EJud-15 promove visita técnica à fábrica da Hyundai em Piracicaba anasiqueira Qui, 29/10/2026 - 17:56 EJud-15 promove visita técnica à fábrica da Hyundai em Piracicaba Conteúdo da Notícia Magistrados do Tribunal Regional do Trabalho da 15ª Região participaram, na última sexta-feira, 23/10, de uma vi",
-      "publicado_em": "2026-10-29T17:56:46-03:00",
-      "dia": "2026-10-29",
-      "data_estimada": false,
-      "score": 28,
-      "tags": [
-        "visita"
-      ],
-      "coletado_em": "2026-10-29T20:42:58-03:00"
     },
     {
       "id": "4c742812e5e505ad",
@@ -392,6 +755,22 @@
         "seminario"
       ],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "d3795c35e957f28a",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "EJud-15 promove visita técnica à fábrica da Hyundai em Piracicaba",
+      "link": "https://trt15.jus.br/noticia/2026/ejud-15-promove-visita-tecnica-fabrica-da-hyundai-em-piracicaba",
+      "resumo": "EJud-15 promove visita técnica à fábrica da Hyundai em Piracicaba anasiqueira Qui, 29/10/2026 - 12:56 EJud-15 promove visita técnica à fábrica da Hyundai em Piracicaba Conteúdo da Notícia Magistrados do Tribunal Regional do Trabalho da 15ª Região participaram, na última sexta-feira, 23/10, de uma vi",
+      "publicado_em": "2026-10-29T12:56:46-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-29T20:42:58-03:00"
     },
     {
       "id": "d29c41e39c8ff088",
@@ -484,6 +863,38 @@
         "acao"
       ],
       "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "150262af08abe1f4",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo discute reforma obrigatória de militar com HIV mesmo sem sintomas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-discute-reforma-obrigatoria-de-militar-com-hiv-mesmo-sem-sintomas/",
+      "resumo": "Perante o Plenário, AGU sustentou que o diagnóstico, por si só, não justifica o afastamento definitivo do serviço militar",
+      "publicado_em": "2026-10-29T21:18:33-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "9cad42c97c09edeb",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF devolve Operação Sem Desconto a relator e mantém provisoriamente Compliance Zero",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-devolve-operacao-sem-desconto-a-relator-e-mantem-provisoriamente-compliance-zero/",
+      "resumo": "Decisão do ministro Edson Fachin será submetida a referendo do Plenário",
+      "publicado_em": "2026-10-29T20:58:35-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "decisao",
+        "compliance",
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
     },
     {
       "id": "3c9a06f904d11563",
@@ -602,6 +1013,20 @@
         "adi"
       ],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "d911b3ec0994fc45",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi celebra terceira descoberta de petróleo em poço no litoral do Amapá",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/10/29/davi-celebra-terceira-descoberta-de-petroleo-em-poco-no-litoral-do-amapa",
+      "resumo": "",
+      "publicado_em": "2026-10-29T20:53:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
     },
     {
       "id": "fac02da06750fe93",
@@ -867,6 +1292,20 @@
       "coletado_em": "2026-10-29T14:19:03-03:00"
     },
     {
+      "id": "baa42900b6770fa3",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Polícia Federal alcança marca recorde de 17 mil foragidos capturados em 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/pf-alcanca-marca-de-17-mil-foragidos-capturados-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-10-29T18:39:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
       "id": "5d98ad6924bd5a6b",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -933,16 +1372,14 @@
       "id": "28b6003437ff4c90",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Ministério da Saúde amplia parceria com hospitais de referência e Proadi terá R$ 3,95 bilhões para fortalecer o SUS",
+      "titulo": "Ministério da Saúde amplia parceria com hospitais de referência",
       "link": "https://agenciagov.ebc.com.br/noticias/202610/ministerio-da-saude-amplia-parceria-com-hospitais-de-referencia-e-proadi-tera-r-3-95-bilhoes-para-fortalecer-o-sus",
       "resumo": "",
       "publicado_em": "2026-10-29T16:15:00-03:00",
       "dia": "2026-10-29",
       "data_estimada": false,
-      "score": 50,
-      "tags": [
-        "adi"
-      ],
+      "score": 40,
+      "tags": [],
       "coletado_em": "2026-10-29T17:51:32-03:00"
     },
     {
@@ -1007,7 +1444,7 @@
       "id": "fb1bf1a83832af4c",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Prospera MEI: 'A gente pensou em um programa que impacte de verdade a vida das pessoas', diz ministro",
+      "titulo": "Prospera MEI: 'Pensamos em um programa que impacte a vida das pessoas', diz ministro",
       "link": "https://agenciagov.ebc.com.br/noticias/202610/prospera-mei-a-gente-pensou-em-um-programa-que-impacte-de-verdade-a-vida-das-pessoas-diz-ministro",
       "resumo": "",
       "publicado_em": "2026-10-29T12:57:00-03:00",
@@ -1880,6 +2317,41 @@
         "recurso"
       ],
       "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "9f89865ec09aad22",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Certidões de óbito deverão trazer contexto da causa da morte em caso de ação policial",
+      "link": "https://www.cnj.jus.br/certidoes-de-obito-deverao-trazer-contexto-da-causa-da-morte-em-caso-de-acao-policial/",
+      "resumo": "Os registros de óbito que tenham acontecido por ação dos órgãos de segurança pública devem informar o contexto da morte, além da causa médica. A medida foi aprovada por unanimidade na 16ª Sessão Virtual do Conselho Nacional de Justiça (CNJ), encerrada na quinta-feira (29/10). A decisão serve para a ",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "decisao",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "a149d02962a793eb",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Copa do Mundo Feminina: TJBA e CNJ fortalecem atuação da Justiça nos estádios",
+      "link": "https://www.cnj.jus.br/copa-do-mundo-feminina-tjba-e-cnj-fortalecem-atuacao-da-justica-nos-estadios/",
+      "resumo": "A preparação do Judiciário baiano para a Copa do Mundo Feminina de 2027 foi debatida em reunião do Grupo de Trabalho (GT) Paz nas Arenas, do Conselho Nacional de Justiça (CNJ), realizada no Tribunal de Justiça da Bahia (TJBA), na quarta-feira (28/10). O encontro alinhou ações para fortalecer a atuaç",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T13:56:38-03:00"
     },
     {
       "id": "70bdda79cb4fe317",
@@ -107248,134 +107720,6 @@
       "data_estimada": true,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "a4308bf30bc0f7ae",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "TRT-2 lança portais com informações e serviços para aposentados(as) e pensionistas",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-lanca-portais-com-informacoes-e-servicos-para-aposentadosas-e-pensionistas",
-      "resumo": "",
-      "publicado_em": "2026-07-31T12:00:00-03:00",
-      "dia": "2026-07-31",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "a36e4bb1dbb084a8",
-      "fonte_id": "fazenda",
-      "fonte_nome": "Ministério da Fazenda",
-      "titulo": "Tesouro Direto informa desativação do aplicativo a partir de 17 de agosto",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/tesouro-direto-informa-desativacao-do-aplicativo-a-partir-de-17-de-agosto",
-      "resumo": "",
-      "publicado_em": "2026-07-31T12:00:00-03:00",
-      "dia": "2026-07-31",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "3c27b385bfd13d16",
-      "fonte_id": "fazenda",
-      "fonte_nome": "Ministério da Fazenda",
-      "titulo": "Déficit primário do Governo Central em junho soma R$ 48,2 bilhões",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/deficit-primario-do-governo-central-em-junho-soma-r-48-2-bilhoes",
-      "resumo": "",
-      "publicado_em": "2026-07-31T12:00:00-03:00",
-      "dia": "2026-07-31",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "8b4df7dd7640d918",
-      "fonte_id": "fazenda",
-      "fonte_nome": "Ministério da Fazenda",
-      "titulo": "Receita Federal gera o primeiro CNPJ em formato alfanumérico",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/receita-federal-gera-o-primeiro-cnpj-em-formato-alfanumerico",
-      "resumo": "",
-      "publicado_em": "2026-07-31T12:00:00-03:00",
-      "dia": "2026-07-31",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "dcecb1190ad9ebf1",
-      "fonte_id": "fazenda",
-      "fonte_nome": "Ministério da Fazenda",
-      "titulo": "Arrecadação federal em junho totaliza R$ 264,4 bilhões",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/arrecadacao-federal-em-junho-totaliza-r-264-4-bilhoes",
-      "resumo": "",
-      "publicado_em": "2026-07-31T12:00:00-03:00",
-      "dia": "2026-07-31",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "ca105cc1363af7cf",
-      "fonte_id": "fazenda",
-      "fonte_nome": "Ministério da Fazenda",
-      "titulo": "Receita Federal e Comitê Gestor do IBS publicam o cronograma de implementação dos documentos fiscais eletrônicos da Reforma Tributária do Consumo",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/julho/receita-federal-e-comite-gestor-do-ibs-publicam-o-cronograma-de-implementacao-dos-documentos-fiscais-eletronicos-da-reforma-tributaria-do-consumo",
-      "resumo": "",
-      "publicado_em": "2026-07-31T12:00:00-03:00",
-      "dia": "2026-07-31",
-      "data_estimada": true,
-      "score": 76,
-      "tags": [
-        "reforma tributaria",
-        "ibs",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "16d98260f79f2ffe",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "SG/Cade emite parecer pela aprovação sem restrições de investimento da American Airlines na Azul",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/sg-cade-emite-parecer-pela-aprovacao-sem-restricoes-de-investimento-da-american-airlines-na-azul",
-      "resumo": "",
-      "publicado_em": "2026-07-31T12:00:00-03:00",
-      "dia": "2026-07-31",
-      "data_estimada": true,
-      "score": 64,
-      "tags": [
-        "cade",
-        "aprova",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "e1e928e415f7a2eb",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Pauta da próxima sessão de julgamento (05/08) do Cade é publicada",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/pauta-da-proxima-sessao-de-julgamento-05-08-do-cade-e-publicada",
-      "resumo": "",
-      "publicado_em": "2026-07-31T12:00:00-03:00",
-      "dia": "2026-07-31",
-      "data_estimada": true,
-      "score": 72,
-      "tags": [
-        "julgamento",
-        "julga",
-        "cade"
-      ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
