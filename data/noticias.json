@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-30T15:55:15-03:00",
+  "gerado_em": "2026-10-30T17:22:50-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -270,7 +270,7 @@
       "fonte_nome": "TJSP",
       "titulo": "Tribunal do Júri condena empresário pela morte de motorista de aplicativo na Capital",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115899&pagina=1",
-      "resumo": "Réu dirigia Porsche em alta velocidade.\n \n\tTribunal do Júri realizado pela 1ª Vara do Júri da Capital condenou, hoje (30), empresário pelo homicídio de motorista",
+      "resumo": "Réu dirigia Porsche em alta velocidade.\n \n\tTribunal do Júri realizado pela 1ª Vara do Júri da Capital condenou, hoje (30), empresário pelo homicídio doloso de",
       "publicado_em": "2026-10-30T12:00:00-03:00",
       "dia": "2026-10-30",
       "data_estimada": true,
@@ -351,6 +351,22 @@
       "coletado_em": "2026-10-30T15:55:15-03:00"
     },
     {
+      "id": "31fad70ce21d0563",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério da Integração alerta para golpe envolvendo o Auxílio Reconstrução",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/midr-alerta-para-golpe-envolvendo-o-auxilio-reconstrucao",
+      "resumo": "",
+      "publicado_em": "2026-10-30T12:42:00-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T17:22:50-03:00"
+    },
+    {
       "id": "d0b13c4675cfb679",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -398,6 +414,22 @@
       "coletado_em": "2026-10-30T13:56:38-03:00"
     },
     {
+      "id": "fc44bbfc90550d92",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bolsonaro \"se entristece\" com divisão entre apoiadores, diz Michelle",
+      "link": "https://www.congressoemfoco.com.br/noticia/129716/bolsonaro-se-entristece-com-divisao-entre-apoiadores-diz-michelle",
+      "resumo": "Ex-primeira-dama diz que o ex-presidente rejeita acusações contra aliados e agradece a participação de cada um na campanha de Flávio.",
+      "publicado_em": "2026-10-30T16:25:20-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T17:22:50-03:00"
+    },
+    {
       "id": "36cc5dca904ae397",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -410,6 +442,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-30T15:55:15-03:00"
+    },
+    {
+      "id": "d0d11acb07fd41df",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nome aos bois: Afinal, o que se criou com o Imposto de Renda Mínimo?",
+      "link": "https://www.congressoemfoco.com.br/artigo/129712/nome-aos-bois-afinal-o-que-se-criou-com-o-imposto-de-renda-minimo",
+      "resumo": "Criada pela Lei 15.270/2025, a tributação mínima de 10% é questionada por sua complexidade, possíveis problemas de constitucionalidade e tratamento desigual entre contribuintes com rendimentos semelhantes.",
+      "publicado_em": "2026-10-30T14:27:12-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-10-30T17:22:50-03:00"
     },
     {
       "id": "0cfd2d9865712535",
