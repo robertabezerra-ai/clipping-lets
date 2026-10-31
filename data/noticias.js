@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-30T20:22:49-03:00",
+  "gerado_em": "2026-10-31T12:57:00-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -250,6 +250,269 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "158a2663f4562b89",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Gapri disponibiliza edição de setembro do “Repertório de jurisprudência”",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115880&pagina=1",
+      "resumo": "Publicação reúne decisões do Direito Privado.\n \n\tO Grupo de Apoio ao Direito Privado do Tribunal de Justiça de São Paulo (Gapri) disponibilizou a edição de",
+      "publicado_em": "2026-10-31T12:00:00-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "8f97da532c01c29d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo na Semana debate julgamento sobre igualdade entre homens e mulheres na previdência complementar",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-na-semana-debate-julgamento-sobre-igualdade-entre-homens-e-mulheres-na-previdencia-complementar/",
+      "resumo": "Episódio #208 do podcast está disponível nas principais plataformas de áudio e no YouTube",
+      "publicado_em": "2026-10-31T12:00:00-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "5df614f9327ee491",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Após ameaças de envenenamento, Lula envia ministros a aldeias de MS",
+      "link": "https://www.congressoemfoco.com.br/noticia/131084/apos-ameacas-de-envenenamento-lula-envia-ministros-a-aldeias-de-ms",
+      "resumo": "Comitiva do governo visita aldeias após relatos de violência e ameaça de envenenamento da água atribuídos a represálias pelo resultado da eleição. PF e MPF investigam.",
+      "publicado_em": "2026-10-31T12:11:46-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "f58db60231c66dd9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alcolumbre pauta votação da PEC da Segurança Pública para terça",
+      "link": "https://www.congressoemfoco.com.br/noticia/131083/alcolumbre-pauta-votacao-da-pec-da-seguranca-publica-para-terca",
+      "resumo": "Proposta do governo amplia a integração das polícias e endurece o combate às facções; emendas de PT e PL abrem disputa sobre a redução da maioridade penal.",
+      "publicado_em": "2026-10-31T10:26:25-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "0f44f753247e1007",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio não explica fuga e já fala em nova eleição antes de 2030",
+      "link": "https://www.congressoemfoco.com.br/noticia/131082/flavio-nao-explica-fuga-e-ja-fala-em-nova-eleicao-antes-de-2030",
+      "resumo": "Em primeiro vídeo dos EUA, senador não revela como deixou o Brasil apesar da proibição judicial, prevê queda antecipada de Lula e defende Rogério Marinho para o Senado.",
+      "publicado_em": "2026-10-31T08:25:52-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "dafabefce2887cbc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Marcos Duarte (PRD) foi eleito deputado estadual no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131081/marcos-duarte-prd-foi-eleito-deputado-estadual-no-tocantins",
+      "resumo": "Candidato do PRD obteve 9.733 votos, 1,07% dos válidos, e fechou a lista dos 24 eleitos para a Assembleia Legislativa do Tocantins.",
+      "publicado_em": "2026-10-31T02:26:44-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "4c9a271341c96876",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Katia Chaves (Republicanos) foi eleita deputada estadual no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131080/katia-chaves-republicanos-foi-eleita-deputada-estadual-no-tocantins",
+      "resumo": "Candidata obteve 13.159 votos (1,45% dos válidos) e ficou na 22ª posição entre os 24 deputados estaduais eleitos no Tocantins em 2026.",
+      "publicado_em": "2026-10-31T02:26:39-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "57f8b94a11264d99",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ivory de Lira (PCdoB) foi eleito deputado estadual no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131079/ivory-de-lira-pcdob-foi-eleito-deputado-estadual-no-tocantins",
+      "resumo": "Candidato do PCdoB obteve 15.404 votos, 1,69% dos válidos, e ficou na 20ª posição entre os 24 eleitos para a Assembleia Legislativa do Tocantins.",
+      "publicado_em": "2026-10-31T02:26:34-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "6160ffb738847095",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Marcos Junior (PODE) foi eleito deputado estadual no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131078/marcos-junior-pode-foi-eleito-deputado-estadual-no-tocantins",
+      "resumo": "Candidato do Podemos obteve 18.668 votos, equivalentes a 2,05% dos votos válidos, e ocupou a 18ª posição entre os 24 deputados estaduais eleitos no Tocantins.",
+      "publicado_em": "2026-10-31T02:26:28-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "44dd1f47e8a78ef8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Jorge Frederico (PSDB) foi eleito deputado estadual no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131077/jorge-frederico-psdb-foi-eleito-deputado-estadual-no-tocantins",
+      "resumo": "Candidato do PSDB obteve 19.752 votos, 2,17% dos votos válidos, e foi o 17º mais votado entre os 24 deputados estaduais eleitos no Tocantins.",
+      "publicado_em": "2026-10-31T02:26:23-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "9aa213c021e36804",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Marcus Marcelo (PL) foi eleito deputado estadual no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131076/marcus-marcelo-pl-foi-eleito-deputado-estadual-no-tocantins",
+      "resumo": "Candidato do PL obteve 20.354 votos, 2,24% dos votos válidos, e foi o 16º mais votado entre os 24 deputados estaduais eleitos no Tocantins em 2026.",
+      "publicado_em": "2026-10-31T02:26:16-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "c2bdb62aa583f25f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nilton Franco (UNIÃO) foi eleito deputado estadual no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131075/nilton-franco-uniao-foi-eleito-deputado-estadual-no-tocantins",
+      "resumo": "Candidato do UNIÃO obteve 20.465 votos, 2,25% dos votos válidos, e ficou na 15ª posição entre os 24 eleitos para a Assembleia Legislativa do Tocantins.",
+      "publicado_em": "2026-10-31T02:26:07-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "2ec09aedcc7f5677",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eduardo do Dertins (UNIÃO) foi eleito deputado estadual no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131074/eduardo-do-dertins-uniao-foi-eleito-deputado-estadual-no-tocantins",
+      "resumo": "Candidato do UNIÃO obteve 20.596 votos, 2,27% dos votos válidos, e terminou na 14ª posição entre os 24 eleitos para a Assembleia Legislativa do Tocantins.",
+      "publicado_em": "2026-10-31T02:26:00-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "e898248ac7d3ea0a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Valdemar Júnior (MDB) foi eleito deputado estadual no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131073/valdemar-junior-mdb-foi-eleito-deputado-estadual-no-tocantins",
+      "resumo": "Candidato do MDB obteve 20.957 votos, 2,30% dos válidos, e ficou na 13ª posição entre os 24 deputados estaduais eleitos no Tocantins.",
+      "publicado_em": "2026-10-31T02:25:52-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "22ea3fcb07a85008",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Gipão (PL) foi eleito deputado estadual no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131072/gipao-pl-foi-eleito-deputado-estadual-no-tocantins",
+      "resumo": "Candidato do PL obteve 21.469 votos, 2,36% dos votos válidos, e ficou na 12ª posição entre os 24 deputados estaduais eleitos no Tocantins.",
+      "publicado_em": "2026-10-31T02:25:46-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "9b47bb9a2d041abf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Wiston Gomes (PL) foi eleito deputado estadual no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131071/wiston-gomes-pl-foi-eleito-deputado-estadual-no-tocantins",
+      "resumo": "Candidato do PL obteve 21.797 votos, 2,40% dos votos válidos, e ficou na 11ª posição entre os 24 eleitos para a Assembleia Legislativa do Tocantins.",
+      "publicado_em": "2026-10-31T02:25:39-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "cb5b86ad35ee5d9d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Raul Cayres (MDB) foi eleito deputado estadual pelo Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131070/raul-cayres-mdb-foi-eleito-deputado-estadual-pelo-tocantins",
+      "resumo": "Candidato do MDB obteve 21.838 votos, 2,40% dos votos válidos, e ficou na 10ª posição entre os 24 eleitos para a Assembleia Legislativa do Tocantins.",
+      "publicado_em": "2026-10-31T02:25:32-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "e4fe3527f876a2f4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Claudia Lelis (PV) foi eleita deputada estadual no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131069/claudia-lelis-pv-foi-eleita-deputada-estadual-no-tocantins",
+      "resumo": "Candidata do PV obteve 21.907 votos, o equivalente a 2,41% dos votos válidos, e ocupou a 9ª posição entre os 24 eleitos para a Assembleia Legislativa do Tocantins.",
+      "publicado_em": "2026-10-31T02:25:25-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
     {
       "id": "082e8fc2778f173d",
       "fonte_id": "tjsp",
@@ -845,6 +1108,22 @@ window.DADOS = {
       "coletado_em": "2026-10-30T15:55:15-03:00"
     },
     {
+      "id": "4c03c2a65a1ec8d8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Veja quais promessas de Lula dependem de votação no Congresso",
+      "link": "https://www.congressoemfoco.com.br/noticia/129703/veja-quais-promessas-de-lula-dependem-de-votacao-no-congresso",
+      "resumo": "Com o fortalecimento do PL no Congresso, Lula terá de negociar reformas do Judiciário e da segurança, redução da maioridade penal, tarifa zero e ampliação do Pé-de-Meia.",
+      "publicado_em": "2026-10-30T12:37:10-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
       "id": "ebc7c179b696012a",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -903,6 +1182,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "948f838e2e9067c9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Paulo Teixeira propõe teto para cobrança de juros em empréstimos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129697/paulo-teixeira-propoe-teto-para-cobranca-de-juros-em-emprestimos",
+      "resumo": "Projeto inspirado em lei britânica limita cobrança de juros ao dobro da quantia recebida na operação de crédito.",
+      "publicado_em": "2026-10-30T11:46:27-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
     },
     {
       "id": "a9fcee6f62e9550a",
@@ -967,6 +1262,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "59987e68d192000d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A voz das urnas e um olhar para o futuro",
+      "link": "https://www.congressoemfoco.com.br/coluna/129690/a-voz-das-urnas-e-um-olhar-para-o-futuro",
+      "resumo": "Reeleição histórica de Lula não elimina a polarização política nem as dificuldades de governabilidade. Direita fortalecida, Centrão decisivo e necessidade de renovação partidária marcam o cenário até 2030.",
+      "publicado_em": "2026-10-30T10:44:47-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
     },
     {
       "id": "394ef2ce114d1673",
@@ -2697,6 +3008,22 @@ window.DADOS = {
         "tese"
       ],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "18c959a57cbfcfe0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto quer alertas em rótulos de alimentos com fórmula modificada",
+      "link": "https://www.congressoemfoco.com.br/noticia/129642/projeto-quer-alertas-em-rotulos-de-alimentos-com-formula-modificada",
+      "resumo": "Texto busca evitar que consumidores confundam alimentos tradicionais com versões similares ou substitutas.",
+      "publicado_em": "2026-10-29T10:09:51-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-10-31T12:57:00-03:00"
     },
     {
       "id": "01b0e0f0c1a016f6",
@@ -108231,48 +108558,6 @@ window.DADOS = {
         "cade",
         "processo"
       ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "6bf1249280202134",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Acesso ao PJe por meio de certificado digital no PDPJ está normalizado",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acesso-ao-pje-por-meio-de-certificado-digital-no-pdpj-esta-normalizado",
-      "resumo": "",
-      "publicado_em": "2026-08-01T12:00:00-03:00",
-      "dia": "2026-08-01",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "afc4cbdb86219094",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Justiça mantém justa causa de empregado que vendia canetas emagrecedoras no trabalho",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-mantem-justa-causa-de-empregado-que-vendia-canetas-emagrecedoras-no-trabalho",
-      "resumo": "",
-      "publicado_em": "2026-08-01T12:00:00-03:00",
-      "dia": "2026-08-01",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "6c436b0c797945fa",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Acesso ao PJe por meio de certificado digital no PDPJ apresenta instabilidade; veja alternativa",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/acesso-ao-pje-por-meio-de-certificado-digital-no-pdpj-apresenta-instabilidade-veja-alternativa",
-      "resumo": "",
-      "publicado_em": "2026-08-01T12:00:00-03:00",
-      "dia": "2026-08-01",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
