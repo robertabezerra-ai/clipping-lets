@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-31T15:01:22-03:00",
+  "gerado_em": "2026-10-31T16:42:23-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -282,6 +282,22 @@
         "julga"
       ],
       "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "3af52d5d722db7b3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Rubio nega ajuda dos EUA a Flávio, mas confirma aval de Trump",
+      "link": "https://www.congressoemfoco.com.br/noticia/131085/rubio-nega-ajuda-dos-eua-a-flavio-mas-confirma-aval-de-trump",
+      "resumo": "Secretário de Estado diz que governo americano não organizou a saída do senador. Jornais apontam participação de assessor da Casa Branca na obtenção do avião.",
+      "publicado_em": "2026-10-31T15:03:58-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-31T16:42:23-03:00"
     },
     {
       "id": "5df614f9327ee491",
@@ -2680,6 +2696,22 @@
       "coletado_em": "2026-10-29T17:51:32-03:00"
     },
     {
+      "id": "2592c4627582772e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dr. Francisco propõe dispensar CadÚnico para isenção em concursos",
+      "link": "https://www.congressoemfoco.com.br/noticia/129669/dr-francisco-propoe-dispensar-cadunico-para-isencao-em-concursos",
+      "resumo": "Projeto do deputado prevê que comprovação de renda inferior a um salário mínimo e estudo em escola pública sejam os pré-requisitos para o benefício.",
+      "publicado_em": "2026-10-29T15:31:13-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-31T16:42:23-03:00"
+    },
+    {
       "id": "757b455e887d16e2",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -3179,6 +3211,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "6cdc608ddc5ad6f5",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Plenária do Gafi: Coaf lidera delegação brasileira em Paris",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/plenaria-do-gafi-coaf-lidera-delegacao-brasileira-em-paris",
+      "resumo": "",
+      "publicado_em": "2026-10-29T15:47:10-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-31T16:42:23-03:00"
     },
     {
       "id": "c2b9d23f42008d6e",
