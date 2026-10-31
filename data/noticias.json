@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-31T16:42:23-03:00",
+  "gerado_em": "2026-10-31T19:56:11-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -267,6 +267,20 @@
       "coletado_em": "2026-10-31T12:57:00-03:00"
     },
     {
+      "id": "0a3b5f7db69b8a8f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Comunicado informa sobre plantão especial no Complexo Judiciário “Ministro Mário Guimarães”",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115903&pagina=1",
+      "resumo": "Sistema remoto nos dias 1º e 2 de novembro.\n \n\tEm razão da necessidade de reparos no sistema hidráulico do prédio do Complexo Judiciário “Ministro Mário",
+      "publicado_em": "2026-10-31T12:00:00-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T19:56:11-03:00"
+    },
+    {
       "id": "8f97da532c01c29d",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -282,6 +296,20 @@
         "julga"
       ],
       "coletado_em": "2026-10-31T12:57:00-03:00"
+    },
+    {
+      "id": "fb13c8755bc58058",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Janones critica disputa por mérito na vitória de Lula: \"Uma merda\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131086/janones-critica-disputa-por-merito-na-vitoria-de-lula--uma-merda",
+      "resumo": "Deputado critica \"vaidade\" na esquerda e a disputa por protagonismo na reeleição de Lula, enquanto a direita amplia sua força no Congresso.",
+      "publicado_em": "2026-10-31T18:35:02-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T19:56:11-03:00"
     },
     {
       "id": "3af52d5d722db7b3",
@@ -2728,6 +2756,22 @@
       "coletado_em": "2026-10-29T16:19:18-03:00"
     },
     {
+      "id": "b5813ec8fde1f29e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto cria novas restrições para acesso de crianças às redes sociais",
+      "link": "https://www.congressoemfoco.com.br/noticia/129667/projeto-cria-novas-restricoes-para-acesso-de-criancas-as-redes-sociais",
+      "resumo": "Proposta atribui a autoridade digital a classificação das plataformas e prevê exceções para redes educacionais e serviços públicos.",
+      "publicado_em": "2026-10-29T14:54:16-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-31T19:56:11-03:00"
+    },
+    {
       "id": "f1fce2682dfb7130",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2773,6 +2817,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "13ce45c4748b5996",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê cancelamento automático de multas a ambulâncias",
+      "link": "https://www.congressoemfoco.com.br/noticia/129663/projeto-preve-cancelamento-automatico-de-multas-a-ambulancias",
+      "resumo": "Proposta determina que órgãos de trânsito cancelem autuações sem pedido do condutor e exige prova do órgão para manter a penalidade.",
+      "publicado_em": "2026-10-29T13:37:40-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-10-31T19:56:11-03:00"
     },
     {
       "id": "c9eb9f3e517aa6d8",
