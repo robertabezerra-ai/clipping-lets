@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-31T12:57:00-03:00",
+  "gerado_em": "2026-10-31T15:01:22-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -2741,6 +2741,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T16:19:18-03:00"
+    },
+    {
+      "id": "c9eb9f3e517aa6d8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto quer impedir propaganda política em instituições de ensino",
+      "link": "https://www.congressoemfoco.com.br/noticia/129662/projeto-quer-impedir-propaganda-politica-em-instituicoes-de-ensino",
+      "resumo": "Proposta veta materiais de campanha e uso de estruturas de instituições de ensino para promover ou desqualificar candidatos e partidos.",
+      "publicado_em": "2026-10-29T13:07:11-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T15:01:22-03:00"
     },
     {
       "id": "9c627ccb2f84948c",
