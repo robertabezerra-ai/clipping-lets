@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-01T17:08:48-03:00",
+  "gerado_em": "2026-11-01T20:14:30-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -263,6 +263,36 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-31T19:56:11-03:00"
+    },
+    {
+      "id": "d104fbee727f6139",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cleitinho critica boicotes e desafia políticos: \"Abram mão do salário\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131091/cleitinho-critica-boicotes-e-desafia-politicos--abram-mao-do-salario",
+      "resumo": "Governador eleito de Minas repudia humilhação de criança por voto da família em Lula, critica retaliações políticas e cobra coerência de parlamentares de direita e esquerda.",
+      "publicado_em": "2026-11-01T17:29:56-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-01T20:14:30-03:00"
+    },
+    {
+      "id": "b85c1848f414892d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula rebate boatos pós-eleição: \"nenhum programa social será extinto\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131090/lula-rebate-boatos-pos-eleicao--nenhum-programa-social-sera-extinto",
+      "resumo": "Após uma semana com problemas na voz, presidente reaparece, nega cortes em benefícios, reafirma promessas de campanha e agradece aos eleitores.",
+      "publicado_em": "2026-11-01T17:09:33-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-01T20:14:30-03:00"
     },
     {
       "id": "6f5406ef46dcf367",
@@ -356,6 +386,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-01T17:08:48-03:00"
+    },
+    {
+      "id": "2d648db696633af8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério registra 4,3 mil denúncias de assédio eleitoral no trabalho em apenas três dias",
+      "link": "https://agenciagov.ebc.com.br/noticias/202610/mte-registra-4-3-mil-denuncias-de-assedio-eleitoral-no-trabalho-em-apenas-tres-dias",
+      "resumo": "",
+      "publicado_em": "2026-10-31T14:39:00-03:00",
+      "dia": "2026-10-31",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-01T20:14:30-03:00"
     },
     {
       "id": "fb13c8755bc58058",
@@ -1275,6 +1319,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-30T15:55:15-03:00"
+    },
+    {
+      "id": "21db9b263c309b62",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputada propõe feriado após eleições para facilitar volta do eleitor",
+      "link": "https://www.congressoemfoco.com.br/noticia/129701/deputada-propoe-feriado-apos-eleicoes-para-facilitar-volta-do-eleitor",
+      "resumo": "Proposta vale para eleições gerais e municipais e busca facilitar o retorno de eleitores que precisarem viajar para votar.",
+      "publicado_em": "2026-10-30T12:14:17-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-01T20:14:30-03:00"
     },
     {
       "id": "e35634d57104dc97",
