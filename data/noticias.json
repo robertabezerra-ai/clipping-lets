@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-01T14:00:03-03:00",
+  "gerado_em": "2026-11-01T15:39:24-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -263,6 +263,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-31T19:56:11-03:00"
+    },
+    {
+      "id": "6f5406ef46dcf367",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Renan indica Eduardo Braga para relatar CBS e chamará Durigan à CAE",
+      "link": "https://www.congressoemfoco.com.br/noticia/131089/renan-indica-eduardo-braga-para-relatar-cbs-e-chamara-durigan-a-cae",
+      "resumo": "Audiências públicas começarão em 11 de novembro. Renan Calheiros também convidará o presidente do TCU para discutir a alíquota do tributo que substituirá PIS e Cofins em 2027.",
+      "publicado_em": "2026-11-01T12:59:12-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "cbs"
+      ],
+      "coletado_em": "2026-11-01T15:39:24-03:00"
     },
     {
       "id": "4de542db4c27a4a0",
@@ -2771,6 +2787,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "e7de870c564b0538",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto estende piso do magistério a professores de escolas privadas",
+      "link": "https://www.congressoemfoco.com.br/noticia/129674/projeto-estende-piso-do-magisterio-a-professores-de-escolas-privadas",
+      "resumo": "Proposta prevê implementação gradual em quatro anos e permite negociação coletiva para alterar prazos e valores em casos de risco à empregabilidade.",
+      "publicado_em": "2026-10-29T16:32:54-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-01T15:39:24-03:00"
     },
     {
       "id": "9bff338a233018f7",
