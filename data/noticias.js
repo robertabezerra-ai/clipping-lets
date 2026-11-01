@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-10-31T19:56:11-03:00",
+  "gerado_em": "2026-11-01T14:00:03-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -251,6 +251,50 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "0a3b5f7db69b8a8f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Comunicado informa sobre plantão especial no Complexo Judiciário “Ministro Mário Guimarães”",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115903&pagina=1",
+      "resumo": "Sistema remoto nos dias 1º e 2 de novembro.\n \n\tEm razão da necessidade de reparos no sistema hidráulico do prédio do Complexo Judiciário “Ministro Mário",
+      "publicado_em": "2026-11-01T12:00:00-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-31T19:56:11-03:00"
+    },
+    {
+      "id": "4de542db4c27a4a0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Justiça e Senado são acionados para suspender salário de Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/131088/justica-e-senado-sao-acionados-para-suspender-salario-de-flavio",
+      "resumo": "Ação popular, pedido de parlamentares e abaixo-assinado cobram suspensão de pagamentos após fuga do senador para os EUA.",
+      "publicado_em": "2026-11-01T10:22:41-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-01T14:00:03-03:00"
+    },
+    {
+      "id": "631d801de70ee9a4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Trump descarta encontro com Flávio, mas diz que ele pode ficar nos EUA",
+      "link": "https://www.congressoemfoco.com.br/noticia/131087/trump-descarta-encontro-com-flavio-mas-diz-que-ele-pode-ficar-nos-eua",
+      "resumo": "Presidente americano afirma que senador foi \"maltratado\" e volta a questionar eleição brasileira, sem apresentar provas de irregularidades.",
+      "publicado_em": "2026-11-01T09:24:30-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-01T14:00:03-03:00"
+    },
+    {
       "id": "158a2663f4562b89",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -265,20 +309,6 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-31T12:57:00-03:00"
-    },
-    {
-      "id": "0a3b5f7db69b8a8f",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Comunicado informa sobre plantão especial no Complexo Judiciário “Ministro Mário Guimarães”",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115903&pagina=1",
-      "resumo": "Sistema remoto nos dias 1º e 2 de novembro.\n \n\tEm razão da necessidade de reparos no sistema hidráulico do prédio do Complexo Judiciário “Ministro Mário",
-      "publicado_em": "2026-10-31T12:00:00-03:00",
-      "dia": "2026-10-31",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-10-31T19:56:11-03:00"
     },
     {
       "id": "8f97da532c01c29d",
@@ -1061,6 +1091,22 @@ window.DADOS = {
       "coletado_em": "2026-10-30T17:22:50-03:00"
     },
     {
+      "id": "95baaf4058f35968",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe dividir cotas afirmativas do fundo eleitoral por cargo",
+      "link": "https://www.congressoemfoco.com.br/noticia/129715/deputado-propoe-dividir-cotas-afirmativas-do-fundo-eleitoral-por-cargo",
+      "resumo": "Pelo projeto, partidos deverão calcular as cotas de mulheres, negros e indígenas com base nos recursos e nas candidaturas de cada cargo em disputa.",
+      "publicado_em": "2026-10-30T15:38:40-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-01T14:00:03-03:00"
+    },
+    {
       "id": "36cc5dca904ae397",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1120,6 +1166,23 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-30T15:55:15-03:00"
+    },
+    {
+      "id": "df4e0c7734ba63f1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pós eleição: Entenda os passos até a posse dos vencedores de 2026",
+      "link": "https://www.congressoemfoco.com.br/noticia/129709/pos-eleicao-entenda-os-passos-ate-a-posse-dos-vencedores-de-2026",
+      "resumo": "Antes de assumir os mandatos, os eleitos precisam ser diplomados pela Justiça Eleitoral, com cerimônias previstas até 18 de dezembro.",
+      "publicado_em": "2026-10-30T13:58:50-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 8,
+      "tags": [
+        "posse",
+        "diploma"
+      ],
+      "coletado_em": "2026-11-01T14:00:03-03:00"
     },
     {
       "id": "d0795a583853edf0",
@@ -2722,6 +2785,36 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "c0876cd2cbe29082",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto cria controle sobre álcool em parques aquáticos e de diversão",
+      "link": "https://www.congressoemfoco.com.br/noticia/129671/projeto-cria-controle-sobre-alcool-em-parques-aquaticos-e-de-diversao",
+      "resumo": "Proposta não proíbe a venda de bebidas, mas exige alertas e impede acesso a atrações de risco por usuários alcoolizados.",
+      "publicado_em": "2026-10-29T15:57:47-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-01T14:00:03-03:00"
+    },
+    {
+      "id": "677e4e58fc4d5f38",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe confiscar restituição do IR para pagar pensão atrasada",
+      "link": "https://www.congressoemfoco.com.br/noticia/129670/deputado-propoe-confiscar-restituicao-do-ir-para-pagar-pensao-atrasada",
+      "resumo": "Receita Federal poderá reter o valor que seria devolvido ao contribuinte inadimplente e destiná-lo ao pagamento da pensão, desde que a medida seja determinada pela Justiça.",
+      "publicado_em": "2026-10-29T15:56:15-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-11-01T14:00:03-03:00"
     },
     {
       "id": "2592c4627582772e",
