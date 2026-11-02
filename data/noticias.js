@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-02T19:30:10-03:00",
+  "gerado_em": "2026-11-02T20:18:32-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -148,9 +148,9 @@ window.DADOS = {
     },
     {
       "id": "tjsp",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.tjsp.jus.br', port=443): Max retries exceeded with url: /Noticias (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF oc"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "pgfn",
@@ -387,6 +387,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-31T19:56:11-03:00"
+    },
+    {
+      "id": "1933e667281bf860",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Acordo Mercosul-UE completa seis meses com alta de 14,8% nas exportações do agronegócio brasileiro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/acordo-mercosul-uniao-europeia-completa-seis-meses-com-alta-de-14-8-nas-exportacoes-do-agronegocio-brasileiro",
+      "resumo": "",
+      "publicado_em": "2026-11-01T11:06:00-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T20:18:32-03:00"
     },
     {
       "id": "80d51c1f33f71b17",
