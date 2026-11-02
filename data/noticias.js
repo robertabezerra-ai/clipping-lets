@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-01T20:14:30-03:00",
+  "gerado_em": "2026-11-02T17:38:06-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,130 @@ window.DADOS = {
   ],
   "noticias": [
     {
+      "id": "55a2c63d4814583f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP visita TJSC para intercâmbio de experiências em inspeções e gestão de unidades especializadas",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115898&pagina=1",
+      "resumo": "Foco em boas práticas, gestão e organização judiciária.\n \n\tA Corregedoria-Geral da Justiça do Tribunal de Justiça de São Paulo (TJSP) participou, na última semana de",
+      "publicado_em": "2026-11-02T12:00:00-03:00",
+      "dia": "2026-11-02",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "7df36b88425417e5",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Negado pedido de associações para proibir vendas de animais em plataformas digitais",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115784&pagina=1",
+      "resumo": "Inexistência de norma que proíba a prática.\n \n\tA 2ª Câmara Reservada ao Meio Ambiente do Tribunal de Justiça de São Paulo manteve decisão da 34ª",
+      "publicado_em": "2026-11-02T12:00:00-03:00",
+      "dia": "2026-11-02",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "89206e0c38e3fcfe",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF realiza nesta terça (3) audiência pública sobre proibição das bets",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-realiza-nesta-terca-3-audiencia-publica-sobre-proibicao-das-bets/",
+      "resumo": "Iniciativa reunirá representantes de clubes de futebol, de órgãos públicos, do comércio e do setor de apostas",
+      "publicado_em": "2026-11-02T09:00:00-03:00",
+      "dia": "2026-11-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "23725e3168b90105",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PEC da Segurança é destaque da pauta do Senado nesta semana",
+      "link": "https://www.congressoemfoco.com.br/noticia/131248/pec-da-seguranca-e-destaque-da-pauta-do-senado-nesta-semana",
+      "resumo": "Proposta pode abrir debate sobre maioridade penal; comissões analisam projetos de educação, Previdência e direitos do consumidor. Câmara ainda não divulgou sua pauta.",
+      "publicado_em": "2026-11-02T15:37:25-03:00",
+      "dia": "2026-11-02",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "8d740faef13d237c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vorcaro recorre à Comissão Interamericana e pede fim da prisão",
+      "link": "https://www.congressoemfoco.com.br/noticia/131247/vorcaro-recorre-a-comissao-interamericana-e-pede-fim-da-prisao",
+      "resumo": "Preso desde março, ex-banqueiro alega violações de direitos humanos, questiona provas da PF e cobra decisão do STF sobre pedido de liberdade.",
+      "publicado_em": "2026-11-02T14:55:45-03:00",
+      "dia": "2026-11-02",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "b9ec2b45813fb46d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bets: Veja os 34 participantes e horários da audiência no STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/131246/bets-veja-os-34-participantes-e-horarios-da-audiencia-no-stf",
+      "resumo": "Fux ouvirá representantes do governo, clubes de futebol e entidades sobre a MP que proibiu as apostas online nesta terça-feira (3).",
+      "publicado_em": "2026-11-02T12:03:13-03:00",
+      "dia": "2026-11-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "6b20bb73a0680a10",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Após pedido do governo, Fux amplia audiência sobre bets nesta terça",
+      "link": "https://www.congressoemfoco.com.br/noticia/131245/apos-pedido-do-governo-fux-amplia-audiencia-sobre-bets-nesta-terca",
+      "resumo": "Ministérios da Saúde e da Justiça entram no debate sobre a MP de Lula que proibiu as apostas online e ainda precisa ser votada pelo Congresso.",
+      "publicado_em": "2026-11-02T11:14:34-03:00",
+      "dia": "2026-11-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "e4e51ec3c08c8fc5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Janones diz que não será ministro de Lula e continuará na Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/131243/janones-diz-que-nao-sera-ministro-de-lula-e-continuara-na-camara",
+      "resumo": "Após admitir possibilidade de integrar o governo, deputado reafirma decisão de permanecer na Câmara e diz que quer manter liberdade de atuação política e digital.",
+      "publicado_em": "2026-11-02T08:54:39-03:00",
+      "dia": "2026-11-02",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
       "id": "0a3b5f7db69b8a8f",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -263,6 +387,132 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-31T19:56:11-03:00"
+    },
+    {
+      "id": "80d51c1f33f71b17",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Paulinho do Bonifácio (PODE) foi eleito no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131242/paulinho-do-bonifacio-pode-foi-eleito-no-tocantins",
+      "resumo": "Candidato do Podemos obteve 13.809 votos, 1,52% dos válidos, e ficou na 21ª posição entre os 24 deputados estaduais eleitos no Tocantins em 2026.",
+      "publicado_em": "2026-11-01T22:04:40-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "6dcb24be1dce9b3f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Toinho Andrade (PSDB) eleito deputado no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131241/toinho-andrade-psdb-eleito-deputado-no-tocantins",
+      "resumo": "Candidato do PSDB obteve 17.947 votos, correspondentes a 1,97% dos votos válidos, e ficou na 19ª posição entre os 24 deputados estaduais eleitos no Tocantins em 2026.",
+      "publicado_em": "2026-11-01T22:04:36-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "02af7d231c3e9536",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cleiton Cardoso (Republicanos) foi eleito no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131240/cleiton-cardoso-republicanos-foi-eleito-no-tocantins",
+      "resumo": "Candidato do Republicanos obteve 23.960 votos, equivalentes a 2,64% dos votos válidos, e ficou na 6ª posição entre os 24 deputados estaduais eleitos no Tocantins.",
+      "publicado_em": "2026-11-01T22:04:31-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "1be6ef31b4b3c380",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eduardo Fortes (Republicanos) foi eleito no Tocantins",
+      "link": "https://www.congressoemfoco.com.br/noticia/131239/eduardo-fortes-republicanos-foi-eleito-no-tocantins",
+      "resumo": "Veterinário obteve 35.258 votos, 3,88% dos válidos, e foi o 1º entre os 24 deputados estaduais eleitos no Tocantins em 2026.",
+      "publicado_em": "2026-11-01T22:04:26-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "4f2cf1cad5e563e2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ricardo França (PODE) foi eleito deputado estadual em SP",
+      "link": "https://www.congressoemfoco.com.br/noticia/131238/ricardo-franca-pode-foi-eleito-deputado-estadual-em-sp",
+      "resumo": "Candidato do Podemos obteve 53.644 votos (0,23% dos válidos) e fechou a lista dos 94 eleitos para a Assembleia Legislativa do Estado de São Paulo.",
+      "publicado_em": "2026-11-01T22:04:19-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "6dd89706b32cdb32",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Thiago Auricchio (PL) foi eleito deputado em São Paulo",
+      "link": "https://www.congressoemfoco.com.br/noticia/131237/thiago-auricchio-pl-foi-eleito-deputado-em-sao-paulo",
+      "resumo": "Candidato do PL obteve 59.942 votos (0,26% dos válidos) e ficou na 91ª posição entre os 94 deputados estaduais eleitos no Estado de São Paulo.",
+      "publicado_em": "2026-11-01T22:04:14-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "f2c8bdcbfb6e425d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fabiana Bolsonaro (PL) foi eleita deputada estadual em SP",
+      "link": "https://www.congressoemfoco.com.br/noticia/131236/fabiana-bolsonaro-pl-foi-eleita-deputada-estadual-em-sp",
+      "resumo": "Candidata do PL obteve 61.183 votos, 0,26% dos votos válidos, e foi a 90ª mais votada entre os 94 eleitos para a Assembleia Legislativa do Estado de São Paulo.",
+      "publicado_em": "2026-11-01T22:04:09-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "c0b2d8f7f970c65c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Henrique Krigner (NOVO) foi eleito deputado estadual em SP",
+      "link": "https://www.congressoemfoco.com.br/noticia/131235/henrique-krigner-novo-foi-eleito-deputado-estadual-em-sp",
+      "resumo": "Candidato do NOVO obteve 66.512 votos, 0,29% dos válidos, e ocupou a 87ª posição entre os 94 deputados estaduais eleitos no Estado de São Paulo.",
+      "publicado_em": "2026-11-01T22:04:05-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "d5a415bfb6f77a2a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sebastião Santos foi eleito deputado estadual em SP",
+      "link": "https://www.congressoemfoco.com.br/noticia/131234/sebastiao-santos-foi-eleito-deputado-estadual-em-sp",
+      "resumo": "Candidato do Republicanos obteve 68.118 votos, 0,29% dos válidos, e ficou na 84ª posição entre os 94 deputados estaduais eleitos no Estado de São Paulo.",
+      "publicado_em": "2026-11-01T22:04:00-03:00",
+      "dia": "2026-11-01",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
     },
     {
       "id": "d104fbee727f6139",
@@ -1273,6 +1523,50 @@ window.DADOS = {
       "coletado_em": "2026-10-30T13:56:38-03:00"
     },
     {
+      "id": "d1d10e3fe5d27258",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto estende piso da enfermagem a contratos com o poder público",
+      "link": "https://www.congressoemfoco.com.br/noticia/129707/projeto-estende-piso-da-enfermagem-a-contratos-com-o-poder-publico",
+      "resumo": "Proposta inclui profissionais contratados por empresas terceirizadas, organizações sociais e entidades privadas que prestem serviços públicos de saúde.",
+      "publicado_em": "2026-10-30T13:18:33-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "9d77566cceed8cc3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Plínio Valério propõe dedução do IR para gastos com saúde de mascotes",
+      "link": "https://www.congressoemfoco.com.br/noticia/129706/plinio-valerio-propoe-deducao-do-ir-para-gastos-com-saude-de-mascotes",
+      "resumo": "Projeto permite abater despesas com consultas, exames e tratamentos veterinários até o limite de R$ 2.275,08 por contribuinte a cada ano.",
+      "publicado_em": "2026-10-30T13:16:55-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "189e65a8f1cd0708",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sâmia Bomfim propõe reajuste do Bolsa Família pela inflação e pelo PIB",
+      "link": "https://www.congressoemfoco.com.br/noticia/129705/samia-bomfim-propoe-reajuste-do-bolsa-familia-pela-inflacao-e-pelo-pib",
+      "resumo": "Proposta prevê correção pela inflação e, quando houver crescimento, pelo PIB de dois anos antes, com primeiro reajuste em 2027.",
+      "publicado_em": "2026-10-30T13:00:57-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
       "id": "391157e54e201588",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1515,6 +1809,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-30T13:56:38-03:00"
+    },
+    {
+      "id": "8ade7a58710e43a5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Há 96 anos, Vargas chegava ao poder após derrota nas urnas",
+      "link": "https://www.congressoemfoco.com.br/noticia/129686/ha-96-anos-vargas-chegava-ao-poder-apos-derrota-nas-urnas",
+      "resumo": "Depois de perder a eleição presidencial de 1930, assumiu após movimento armado e governou sem Congresso, que só voltaria a se reunir três anos depois.",
+      "publicado_em": "2026-10-30T09:41:10-03:00",
+      "dia": "2026-10-30",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
     },
     {
       "id": "0b920195ed171048",
@@ -2878,6 +3186,20 @@ window.DADOS = {
       "coletado_em": "2026-11-01T15:39:24-03:00"
     },
     {
+      "id": "9abe9f68523e7164",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Crivella quer facilitar devolução em dobro por cobrança indevida",
+      "link": "https://www.congressoemfoco.com.br/noticia/129673/crivella-quer-facilitar-devolucao-em-dobro-por-cobranca-indevida",
+      "resumo": "Proposta dispensa a necessidade de comprovar que o fornecedor agiu de má-fé, desde que a cobrança tenha contrariado o princípio da boa-fé objetiva.",
+      "publicado_em": "2026-10-29T16:12:15-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
       "id": "9bff338a233018f7",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -3279,6 +3601,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-10-29T14:19:03-03:00"
+    },
+    {
+      "id": "82d0066c4a29b76a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê inelegibilidade de professores por pressão eleitoral",
+      "link": "https://www.congressoemfoco.com.br/noticia/129646/projeto-preve-inelegibilidade-de-professores-por-pressao-eleitoral",
+      "resumo": "Debate político nas escolas é permitido, mas projeto busca impedir o constrangimento de alunos.",
+      "publicado_em": "2026-10-29T10:47:21-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T17:38:06-03:00"
     },
     {
       "id": "2625e0fd75170497",
@@ -108785,115 +109121,6 @@ window.DADOS = {
       "data_estimada": true,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "17bdff3cfd772e60",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "​Liminar do TRT-2 fixa efetivo mínimo de 60 a 80% na greve da CPTM",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/liminar-do-trt-2-fixa-efetivo-minimo-de-60-a-80-na-greve-da-cptm",
-      "resumo": "",
-      "publicado_em": "2026-08-03T12:00:00-03:00",
-      "dia": "2026-08-03",
-      "data_estimada": true,
-      "score": 52,
-      "tags": [
-        "liminar"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "a39cd118bb5815b9",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Conheça o novo Corpo Diretivo da 2ª Região para o biênio 2026/2028",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/conheca-o-novo-corpo-diretivo-da-2a-regiao-para-o-bienio-2026-2028",
-      "resumo": "",
-      "publicado_em": "2026-08-03T12:00:00-03:00",
-      "dia": "2026-08-03",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "8c1cb42790c45cc8",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Sueli Tomé da Ponte é eleita presidente do TRT da 2ª Região",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/sueli-tome-da-ponte-e-eleita-presidente-do-trt-da-2a-regiao",
-      "resumo": "",
-      "publicado_em": "2026-08-03T12:00:00-03:00",
-      "dia": "2026-08-03",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "edade06230b9f562",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Acompanhe ao vivo a eleição para novos(as) dirigentes do TRT-2",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/eleicao-para-novosas-dirigentes-do-trt-2-acontece-as-13h-acompanhe-ao-vivo",
-      "resumo": "",
-      "publicado_em": "2026-08-03T12:00:00-03:00",
-      "dia": "2026-08-03",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "c6fdcefdc863e8fa",
-      "fonte_id": "fazenda",
-      "fonte_nome": "Ministério da Fazenda",
-      "titulo": "Receita Federal publica alteração nas regras de atendimento relativas ao Imposto de Renda",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/receita-federal-publica-alteracao-nas-regras-de-atendimento-relativas-ao-imposto-de-renda",
-      "resumo": "",
-      "publicado_em": "2026-08-03T12:00:00-03:00",
-      "dia": "2026-08-03",
-      "data_estimada": true,
-      "score": 56,
-      "tags": [
-        "imposto",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "a411c8c388d5b2c8",
-      "fonte_id": "fazenda",
-      "fonte_nome": "Ministério da Fazenda",
-      "titulo": "Receita Federal e CGIBS flexibilizarão obrigatoriedade de informações em documentos fiscais",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/receita-federal-e-cgibs-flexibilizarao-obrigatoriedade-de-informacoes-em-documentos-fiscais",
-      "resumo": "",
-      "publicado_em": "2026-08-03T12:00:00-03:00",
-      "dia": "2026-08-03",
-      "data_estimada": true,
-      "score": 66,
-      "tags": [
-        "obrigatoriedade",
-        "ibs"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "3bc848ac8ced4a98",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Cade abre processo seletivo de estágio para a Procuradoria Federal Especializada",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-abre-processo-seletivo-de-estagio-para-a-procuradoria-federal-especializada",
-      "resumo": "",
-      "publicado_em": "2026-08-03T12:00:00-03:00",
-      "dia": "2026-08-03",
-      "data_estimada": true,
-      "score": 56,
-      "tags": [
-        "cade",
-        "processo"
-      ],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
