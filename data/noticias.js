@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-02T20:18:32-03:00",
+  "gerado_em": "2026-11-02T22:55:33-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -296,6 +296,37 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-02T17:38:06-03:00"
+    },
+    {
+      "id": "7cc2c43b5530ab72",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Fies remanescente: inscrições terminam nesta terça-feira (3)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/fies-remanescente-inscricoes-terminam-na-terca-feira-3",
+      "resumo": "",
+      "publicado_em": "2026-11-02T20:23:00-03:00",
+      "dia": "2026-11-02",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-02T22:55:33-03:00"
+    },
+    {
+      "id": "4ba8f3775ba683cc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio recorre ao STF por passaportes e pede afastamento de Moraes",
+      "link": "https://www.congressoemfoco.com.br/noticia/131249/flavio-recorre-ao-stf-por-passaportes-e-pede-afastamento-de-moraes",
+      "resumo": "Após deixar o Brasil apesar de proibição judicial, senador tenta reverter restrições e transferir investigação para André Mendonça.",
+      "publicado_em": "2026-11-02T20:55:08-03:00",
+      "dia": "2026-11-02",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-11-02T22:55:33-03:00"
     },
     {
       "id": "23725e3168b90105",
