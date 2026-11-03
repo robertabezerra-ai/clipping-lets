@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-03T17:19:44-03:00",
+  "gerado_em": "2026-11-03T18:28:58-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -295,6 +295,22 @@
       "coletado_em": "2026-11-03T15:14:32-03:00"
     },
     {
+      "id": "b0d0242e92af498b",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Tem início nesta terça (3/11) a Semana da Conciliação; mutirão envolvendo pessoas idosas alcançou mais de R$ 6 mi em consensos",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/tem-inicio-nesta-terca-3-11-a-semana-da-conciliacao-mutirao-envolvendo-pessoas-idosas-alcancou-mais-de-r-6-mi-em-consensos",
+      "resumo": "",
+      "publicado_em": "2026-11-03T12:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
       "id": "e321263c51fad5b6",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -374,6 +390,52 @@
       "coletado_em": "2026-11-03T17:19:44-03:00"
     },
     {
+      "id": "66bfacb3e72eb8a0",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Começa a XXI Semana Nacional da Conciliação",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115910&pagina=1",
+      "resumo": "TJSP e TRF3 realizam ação em São Paulo.\n \n\tO Tribunal de Justiça de São Paulo e o Tribunal Regional Federal da 3ª Região (TRF3) deram",
+      "publicado_em": "2026-11-03T12:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "69d0b2f0ea111e0d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Obras alteram funcionamento da biblioteca do STF na primeira quinzena de novembro",
+      "link": "https://noticias.stf.jus.br/postsnoticias/obras-alteram-funcionamento-da-biblioteca-do-stf-na-primeira-quinzena-de-novembro/",
+      "resumo": "Troca de carpete vai limitar acesso ao espaço, mas atendimento continua normalmente",
+      "publicado_em": "2026-11-03T17:32:56-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "e0dff9172db2c392",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF requer informações sobre relatos de violência contra comunidades indígenas após as eleições",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-requer-informacoes-sobre-relatos-de-violencia-contra-comunidades-indigenas-apos-as-eleicoes/",
+      "resumo": "Órgãos públicos e entidades de Mato Grosso do Sul terão cinco dias para apresentar manifestações ao ministro Gilmar Mendes, relator de ação sobre a matéria",
+      "publicado_em": "2026-11-03T17:20:29-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
       "id": "015e66decdf2ac8d",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -440,6 +502,117 @@
         "acao"
       ],
       "coletado_em": "2026-11-03T15:14:32-03:00"
+    },
+    {
+      "id": "128cc6fa4d98e77f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Acordo de cooperação militar entre Brasil e Guiana vai à promulgação",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/acordo-de-cooperacao-militar-entre-brasil-e-guiana-vai-a-promulgacao",
+      "resumo": "",
+      "publicado_em": "2026-11-03T18:20:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "d0dfb8b86b12193c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CMO aprova recursos para ações de atendimento à imigração em Roraima",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/cmo-aprova-recursos-para-acoes-de-atendimento-a-imigracao-em-roraima",
+      "resumo": "",
+      "publicado_em": "2026-11-03T18:04:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "aprova",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "930710cba0162b58",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eduardo Braga será o relator-geral do projeto de lei do Orçamento 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/eduardo-braga-sera-o-relator-geral-do-projeto-de-lei-do-orcamento-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-03T18:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "bd767d3b4730b29e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Vai à promulgação acordo de cooperação espacial entre Brasil e Venezuela",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/vai-a-promulgacao-acordo-de-cooperacao-espacial-entre-brasil-e-venezuela",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:56:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "3cef06c56bff11ec",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Confúcio Moura alerta para dificuldades no aprendizado de matemática",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/confucio-moura-alerta-para-dificuldades-no-aprendizado-de-matematica",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:51:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "26401134c1e09bca",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto que prevê campanhas sobre parentalidade positiva segue para sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/projeto-que-preve-campanhas-sobre-parentalidade-positiva-segue-para-sancao",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:32:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "sancao"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "55aa96e759d2f6aa",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova sessões especiais em homenagem a síndicos e biomédicos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-sessoes-especiais-em-homenagem-a-sindicos-e-biomedicos",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:28:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "aprova",
+        "homenagem"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
     },
     {
       "id": "f1e065e7c2c27c65",
@@ -866,6 +1039,36 @@
       "coletado_em": "2026-11-03T15:14:32-03:00"
     },
     {
+      "id": "7268b4a834ca5548",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "Unidade da PGFN em Maringá sem atendimento presencial",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/unidade-da-pgfn-em-maringa-sem-atendimento-presencial",
+      "resumo": "",
+      "publicado_em": "2026-11-03T12:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "e2f4ba1700109153",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Cartilha da Redação do Enem na versão em Libras está disponível",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/cartilha-da-redacao-do-enem-na-versao-em-libras-esta-disponivel",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:21:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
       "id": "1f0d955bb47e0dcb",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1139,6 +1342,39 @@
       "coletado_em": "2026-11-03T15:14:32-03:00"
     },
     {
+      "id": "12812e103f2968fd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MJSP muda classificação indicativa de desenhos bíblicos após polêmica",
+      "link": "https://www.congressoemfoco.com.br/noticia/131278/mjsp-muda-classificacao-indicativa-de-desenhos-biblicos-apos-polemica",
+      "resumo": "Produção, que havia recebido classificação de não recomendada para menores de 12 anos, passa agora a ter classificação livre.",
+      "publicado_em": "2026-11-03T18:02:03-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "acao",
+        "comenda"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "b0f1422466d61437",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Caixa abre apostas e anuncia prêmio de R$ 1 bilhão para Mega da Virada",
+      "link": "https://www.congressoemfoco.com.br/noticia/131277/caixa-abre-apostas-e-anuncia-premio-de-r-1-bilhao-para-mega-da-virada",
+      "resumo": "Apostas começam nesta terça-feira e seguem até 31 de dezembro; sorteio será realizado em 1º de janeiro de 2027.",
+      "publicado_em": "2026-11-03T17:42:44-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
       "id": "70e54bbd5301e878",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1261,6 +1497,22 @@
         "acao"
       ],
       "coletado_em": "2026-11-03T15:14:32-03:00"
+    },
+    {
+      "id": "c6db2fbd80bc42d0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto quer tornar explícita inelegibilidade por lesão contra mulher",
+      "link": "https://www.congressoemfoco.com.br/noticia/131268/projeto-quer-tornar-explicita-inelegibilidade-por-lesao-contra-mulher",
+      "resumo": "Proposta apresentada após decisão do TSE busca incluir expressamente o crime na Lei de Inelegibilidades.",
+      "publicado_em": "2026-11-03T14:09:50-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
     },
     {
       "id": "cbaf4761206fdc2d",
@@ -1567,6 +1819,100 @@
         "droga"
       ],
       "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "2eaf28e1263755ce",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate denúncia sobre existência de plataforma digital com conteúdo de abuso sexual infantil",
+      "link": "https://www.camara.leg.br/noticias/1315314-comissao-debate-denuncia-sobre-existencia-de-plataforma-digital-com-conteudo-de-abuso-sexual-infantil",
+      "resumo": "",
+      "publicado_em": "2026-11-03T18:26:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "b1d27ca9049bae3c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto que permite convênios para reduzir o prazo de concessão de patentes segue para análise do Senado",
+      "link": "https://www.camara.leg.br/noticias/1315402-projeto-que-permite-convenios-para-reduzir-o-prazo-de-concessao-de-patentes-segue-para-analise-do-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-03T18:23:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "f184387cb0c4809c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova regras mais duras para crimes contra o patrimônio praticados com violência",
+      "link": "https://www.camara.leg.br/noticias/1315389-comissao-aprova-regras-mais-duras-para-crimes-contra-o-patrimonio-praticados-com-violencia",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:59:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "e7c0bb4198eb3c20",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que cria política de bibliotecas digitais sociais",
+      "link": "https://www.camara.leg.br/noticias/1315218-comissao-aprova-projeto-que-cria-politica-de-bibliotecas-digitais-sociais",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:37:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "96224fd0d1b69e61",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão Mista de Orçamento aprova crédito de R$ 115 milhões para atender venezuelanos em Roraima",
+      "link": "https://www.camara.leg.br/noticias/1315391-comissao-mista-de-orcamento-aprova-credito-de-r-115-milhoes-para-atender-venezuelanos-em-roraima",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:34:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "2ce2b963652587ce",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova inclusão de ultrassonografias morfológicas no pré-natal do SUS",
+      "link": "https://www.camara.leg.br/noticias/1315411-camara-aprova-inclusao-de-ultrassonografias-morfologicas-no-pre-natal-do-sus",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:19:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-03T18:28:58-03:00"
     },
     {
       "id": "8b490bc7da00231f",
