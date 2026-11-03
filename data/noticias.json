@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-03T15:14:32-03:00",
+  "gerado_em": "2026-11-03T17:19:44-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 16,
       "erro": null
     },
     {
@@ -173,13 +173,13 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 27,
+      "itens": 28,
       "erro": null
     },
     {
       "id": "fazenda",
       "status": "ok",
-      "itens": 30,
+      "itens": 29,
       "erro": null
     },
     {
@@ -210,7 +210,7 @@
       "id": "coaf",
       "status": "falhou",
       "itens": 0,
-      "erro": "Not a gzipped file (b'<!')"
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -358,6 +358,40 @@
       "coletado_em": "2026-11-03T15:14:32-03:00"
     },
     {
+      "id": "80aabb0264c7cad6",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP instala 2ª Vara do Juizado Especial Cível em São Bernardo do Campo",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115907&pagina=1",
+      "resumo": "PJ busca oferecer serviço de excelência à população.\n \n\tO Tribunal de Justiça de São Paulo instalou, nesta terça-feira (3), a 2ª Vara do Juizado Especial",
+      "publicado_em": "2026-11-03T12:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "015e66decdf2ac8d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF invalida lei do Maranhão que permitia aos pais vetar participação dos filhos em aulas sobre gênero e sexualidade",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-lei-do-maranhao-que-permitia-aos-pais-vetar-participacao-dos-filhos-em-aulas-sobre-genero-e-sexualidade/",
+      "resumo": "Ministro Gilmar Mendes lembrou que a Corte declarou inconstitucional lei semelhante sancionada no Espírito Santo",
+      "publicado_em": "2026-11-03T16:21:52-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 74,
+      "tags": [
+        "inconstitucional",
+        "sancionada",
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
       "id": "04ae79ba7693b123",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -406,6 +440,124 @@
         "acao"
       ],
       "coletado_em": "2026-11-03T15:14:32-03:00"
+    },
+    {
+      "id": "f1e065e7c2c27c65",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Humberto: mobilização popular nas ruas e nas redes foi decisiva na eleição de Lula",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/humberto-mobilizacao-popular-nas-ruas-e-nas-redes-foi-decisiva-na-eleicao-de-lula",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:04:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "59a256b2d6e063bd",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Zenaide: municípios precisam de recursos permanente para implementar PEC da Segurança",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/zenaide-municipios-precisam-de-recursos-permanente-para-implementar-pec-da-seguranca",
+      "resumo": "",
+      "publicado_em": "2026-11-03T16:50:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "7b67c53739cf205a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Ianomâmis relatam problemas com saúde e garimpo; Damares quer plano decenal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/ianomamis-relatam-problemas-com-saude-e-garimpo-damares-quer-plano-decenal",
+      "resumo": "",
+      "publicado_em": "2026-11-03T16:34:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "0fc55ffb3f720ffb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Para Jayme Campos, Brasil não pode continuar 'refém de uma disputa eleitoral'",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/para-jayme-campos-brasil-nao-pode-continuar-refem-de-uma-disputa-eleitoral",
+      "resumo": "",
+      "publicado_em": "2026-11-03T16:32:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "71f75e450e20767c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "População do Pará sofre com concessões de serviços públicos, denuncia Beto Faro",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/populacao-do-para-sofre-com-concessoes-de-servicos-publicos-denuncia-beto-faro",
+      "resumo": "",
+      "publicado_em": "2026-11-03T16:28:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "f9192abc8fee262b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Em reunião no Senado com lideranças, governo apresenta prioridades legislativas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/em-reuniao-no-senado-com-liderancas-governo-apresenta-prioridades-legislativas",
+      "resumo": "",
+      "publicado_em": "2026-11-03T16:13:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "1bf8c4e16f9d25a2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Governabilidade se constrói com diálogo e respeito, afirma Paulo Paim",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/governabilidade-se-constroi-com-dialogo-e-respeito-afirma-paulo-paim",
+      "resumo": "",
+      "publicado_em": "2026-11-03T15:59:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "6f18028d79454c02",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Proposta cria o LGBTIcídio e prevê pena de até 40 anos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/proposta-cria-o-lgbticidio-e-preve-pena-de-ate-40-anos",
+      "resumo": "",
+      "publicado_em": "2026-11-03T15:26:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
     },
     {
       "id": "327daae293049ff9",
@@ -649,6 +801,55 @@
       "coletado_em": "2026-11-03T15:14:32-03:00"
     },
     {
+      "id": "3ef7185f53d754c5",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Deflagrada edição 2026 da Operação Fronteira Receita Federal",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/deflagrada-edicao-2026-da-operacao-fronteira-receita-federal",
+      "resumo": "",
+      "publicado_em": "2026-11-03T16:42:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "6274414f79cd3e95",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Contribuintes com Selo Confia e Sintonia podem regularizar pendências sem multa de mora",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/contribuintes-com-selo-confia-e-sintonia-podem-regularizar-pendencias-sem-multa-de-mora",
+      "resumo": "",
+      "publicado_em": "2026-11-03T14:53:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "f3c0dbb58c31374a",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal prorroga prazo para adesão a editais de transação tributária até 30 de dezembro",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-prorroga-prazo-para-adesao-a-editais-de-transacao-tributaria-ate-30-de-dezembro",
+      "resumo": "",
+      "publicado_em": "2026-11-03T14:30:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
       "id": "1127a6a249b4241f",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -665,10 +866,96 @@
       "coletado_em": "2026-11-03T15:14:32-03:00"
     },
     {
+      "id": "1f0d955bb47e0dcb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Correios e Serasa dão início a nova edição do Feirão Limpa Nome em mais 7 mil agências",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/correios-e-serasa-promovem-nova-edicao-do-feirao-limpa-nome-com-atendimento-em-mais-de-7-mil-agencias",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "857a771428c0efe1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Veja como funciona o benefício do INSS em razão de doença ou acidente",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/veja-como-funciona-o-beneficio-do-inss-em-razao-de-doenca-ou-acidente",
+      "resumo": "",
+      "publicado_em": "2026-11-03T16:20:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "a8198f910f98a9ca",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Reconhecida emergência em duas cidades do Rio Grande do Norte afetadas pela estiagem",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/reconhecida-emergencia-em-duas-cidades-do-rio-grande-do-norte-afetadas-pela-estiagem",
+      "resumo": "",
+      "publicado_em": "2026-11-03T15:51:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "7b429c18032ec692",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Presidência da COP30 lança Mapas do Caminho sobre combustíveis fósseis e desmatamento",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/presidencia-da-cop30-lanca-mapas-do-caminho-para-acelerar-transicao-dos-combustiveis-fosseis-e-fim-do-desmatamento",
+      "resumo": "",
+      "publicado_em": "2026-11-03T15:40:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "cab28ff3206532b8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Com 29 edições em 2026, Governo do Brasil na Rua leva serviços públicos para a população",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-do-brasil-na-rua-realiza-29-edicoes-em-2026-e-leva-servicos-publicos-gratuitos-para-perto-da-populacao",
+      "resumo": "",
+      "publicado_em": "2026-11-03T15:10:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "db5b0057106100b5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil registra US$ 5,6 bilhões em investimentos estrangeiros no setor de comunicações",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/brasil-registra-us-5-6-bilhoes-em-investimentos-estrangeiros-no-setor-de-comunicacoes",
+      "resumo": "",
+      "publicado_em": "2026-11-03T14:58:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
       "id": "3ff33644e7d30f6b",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Ministério da Saúde avança na atualização de protocolos de tratamento do câncer no SUS",
+      "titulo": "Saúde avança na atualização de protocolos de tratamento do câncer no SUS",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-avanca-na-atualizacao-de-protocolos-de-tratamento-do-cancer-no-sus",
       "resumo": "",
       "publicado_em": "2026-11-03T12:19:00-03:00",
@@ -805,6 +1092,39 @@
       "coletado_em": "2026-11-03T15:14:32-03:00"
     },
     {
+      "id": "7d889eca0cc28aec",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Contribuintes com Selo Confia e Sintonia podem regularizar pendências sem multa de mora",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/contribuintes-com-selo-confia-e-sintonia-podem-regularizar-pendencias-sem-multa-de-mora",
+      "resumo": "",
+      "publicado_em": "2026-11-03T12:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "402273c259c33dde",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita prorroga até 30 de dezembro o prazo para adesão a editais de transação tributária",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-prorroga-ate-30-de-dezembro-o-prazo-para-adesao-a-editais-de-transacao-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-11-03T12:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
       "id": "f0a14ffe95f99d5f",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -817,6 +1137,114 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-03T15:14:32-03:00"
+    },
+    {
+      "id": "70e54bbd5301e878",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Eduardo Paes cobra 2º turno no Rio de Janeiro: \"reiniciar a luta\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131276/eduardo-paes-cobra-2-turno-no-rio-de-janeiro--reiniciar-a-luta",
+      "resumo": "Ex-prefeito retomou a mobilização pelo segundo turno no Rio após a eleição presidencial e criticou exclusão dos votos de Garotinho.",
+      "publicado_em": "2026-11-03T16:48:56-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "b67b077635541ac8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Antes tarde do que nunca",
+      "link": "https://www.congressoemfoco.com.br/coluna/131275/antes-tarde-do-que-nunca",
+      "resumo": "Não se trata de criar nova hipótese de inelegibilidade, mas de interpretar as existentes.",
+      "publicado_em": "2026-11-03T16:30:25-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "tese"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "38b088daa179e9d4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula viaja a São Paulo para exames médicos de rotina nesta terça",
+      "link": "https://www.congressoemfoco.com.br/noticia/131274/lula-viaja-a-sao-paulo-para-exames-medicos-de-rotina-nesta-terca",
+      "resumo": "Atendimento no Hospital Sírio-Libanês já estava programado para ocorrer após as eleições, segundo o Palácio do Planalto.",
+      "publicado_em": "2026-11-03T16:05:55-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "92b6d0f8d40586da",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A eleição acabou. E o Brasil?",
+      "link": "https://www.congressoemfoco.com.br/artigo/131273/a-eleicao-acabou-e-o-brasil",
+      "resumo": "O verdadeiro compromisso de uma liderança não deveria ser com a próxima eleição, mas com as próximas gerações.",
+      "publicado_em": "2026-11-03T16:04:57-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "1e3c7da3bc8d56e7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Relator da CBS, Eduardo Braga quer mudar alíquota de 11,3% do TCU",
+      "link": "https://www.congressoemfoco.com.br/noticia/131272/relator-da-cbs-eduardo-braga-quer-mudar-aliquota-de-11-3-do-tcu",
+      "resumo": "Relator admite rever alíquota do tributo que substituirá PIS e Cofins em 2027 e destaca que estudos da Fazenda apontavam percentual menor, de 9,21%.",
+      "publicado_em": "2026-11-03T15:04:54-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "cbs"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "73fdc06a1f594bf7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ataque a idoso em SP: Entenda proposta sobre gerontocídio no Congresso",
+      "link": "https://www.congressoemfoco.com.br/noticia/131271/ataque-a-idoso-em-sp-entenda-proposta-sobre-gerontocidio-no-congresso",
+      "resumo": "Projeto de lei pretende estabelecer uma tipificação penal específica para o homicídio de pessoas idosas, com pena de 20 a 40 anos de reclusão.",
+      "publicado_em": "2026-11-03T15:03:03-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "b38114050cba499a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TCU julgará futuro de parceria para desenvolver IA soberana no Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/131270/tcu-julgara-futuro-de-parceria-para-desenvolver-ia-soberana-no-brasil",
+      "resumo": "Projeto prevê R$ 100 milhões em investimentos privados e transferência de tecnologia ao Estado; suspensão coloca em debate os desafios para desenvolver inteligência artificial brasileira.",
+      "publicado_em": "2026-11-03T14:39:47-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "julga"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
     },
     {
       "id": "b38b96f45723d38c",
@@ -851,6 +1279,20 @@
       "coletado_em": "2026-11-03T15:14:32-03:00"
     },
     {
+      "id": "20c82a37ccd44cbb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Com três nomes em jogo, disputa pelo Senado divide a direita",
+      "link": "https://www.congressoemfoco.com.br/noticia/131266/com-tres-nomes-em-jogo-disputa-pelo-senado-divide-a-direita",
+      "resumo": "PL deve lançar Rogério Marinho nesta quarta (4), com apoio dos Bolsonaro. Alcolumbre busca a reeleição com respaldo de Lula e partidos do Centrão, enquanto Tereza Cristina tenta atrair senadoras e setores da oposição.",
+      "publicado_em": "2026-11-03T13:49:38-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
       "id": "630f35fcfacfcdb8",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -865,6 +1307,20 @@
         "acao"
       ],
       "coletado_em": "2026-11-03T15:14:32-03:00"
+    },
+    {
+      "id": "feb58ff0f26c033d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê biometria facial para passageiros de aplicativos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131264/projeto-preve-biometria-facial-para-passageiros-de-aplicativos",
+      "resumo": "Proposta prevê biometria facial, botão de emergência e liberdade para motorista recusar corrida se passageiro não corresponder ao cadastro.",
+      "publicado_em": "2026-11-03T13:12:21-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
     },
     {
       "id": "04a47cbd7ad0ab63",
@@ -929,6 +1385,20 @@
       "coletado_em": "2026-11-03T15:14:32-03:00"
     },
     {
+      "id": "1630088072ba1f87",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AO VIVO: Plenário do Senado vota PEC da Segurança Pública",
+      "link": "https://www.congressoemfoco.com.br/noticia/131259/ao-vivo-plenario-do-senado-vota-pec-da-seguranca-publica",
+      "resumo": "Proposta de emenda à Constituição busca endurecer regras relacionadas ao combate ao crime organizado, facções e milícias.",
+      "publicado_em": "2026-11-03T11:14:59-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
       "id": "6d3d9970e3ecccd1",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -941,6 +1411,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-03T15:14:32-03:00"
+    },
+    {
+      "id": "89a0f48c235b5472",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nova política mineral fortalece agro, barateia alimento e combate fome",
+      "link": "https://www.congressoemfoco.com.br/artigo/131257/nova-politica-mineral-fortalece-agro-barateia-alimento-e-combate-fome",
+      "resumo": "A riqueza mineral brasileira precisa chegar ao campo, aumentar a produção de alimentos e gerar benefícios concretos para a população.",
+      "publicado_em": "2026-11-03T09:59:27-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
     },
     {
       "id": "4415ad671a17c091",
@@ -1036,9 +1522,9 @@
       "id": "e2dab09913d3b238",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Mais de 1,6 mil pessoas participam de capacitação sobre Plataforma Socioeducativa",
+      "titulo": "Mais de 1,6 mil pessoas participam de capacitação sobre plataforma socioeducativa",
       "link": "https://www.cnj.jus.br/mais-de-16-mil-pessoas-participam-de-capacitacao-sobre-plataforma-socioeducativa/",
-      "resumo": "Ferramenta que centraliza a gestão de processos socioeducativos de forma inédita no país, a Plataforma Socioeducativa (PSE) foi tema de formação realizada pelo Conselho Nacional de Justiça (CNJ) no final do mês passado, mobilizando 1.671 juízes e servidores de onze tribunais. O objetivo da ferrament",
+      "resumo": "Ferramenta que centraliza a gestão de processos socioeducativos de forma inédita no país, a Plataforma Socioeducativa (PSE), foi tema de formação realizada pelo Conselho Nacional de Justiça (CNJ) no final do mês passado, mobilizando 1.671 juízes e servidores de 11 tribunais. O objetivo da ferramenta",
       "publicado_em": "2026-11-03T12:00:00-03:00",
       "dia": "2026-11-03",
       "data_estimada": true,
@@ -1066,13 +1552,108 @@
       "coletado_em": "2026-11-03T15:14:32-03:00"
     },
     {
+      "id": "139da72ded0ebd31",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Encontro debate proteção de crianças e maternidades em situação de rua",
+      "link": "https://www.cnj.jus.br/encontro-debate-protecao-de-criancas-e-maternidades-em-situacao-de-rua/",
+      "resumo": "Dificuldades de acesso aos serviços de saúde, violência doméstica e sexual, discriminação racial e estigmas relacionados ao uso de álcool e outras drogas estão entre os principais obstáculos enfrentados por mulheres em situação de rua. A maternidade pode tornar esses desafios ainda mais severos, amp",
+      "publicado_em": "2026-11-03T12:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": true,
+      "score": 26,
+      "tags": [
+        "acao",
+        "droga"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "8b490bc7da00231f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto que limita penhora de recursos de empresas para pagamentos de débitos trabalhistas segue para o Senado",
+      "link": "https://www.camara.leg.br/noticias/1315392-projeto-que-limita-penhora-de-recursos-de-empresas-para-pagamentos-de-debitos-trabalhistas-segue-para-o-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:13:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "trabalhista",
+        "recurso"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "8a7350348c7fb594",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova requerimentos de urgência para dois projetos de lei",
+      "link": "https://www.camara.leg.br/noticias/1315385-camara-aprova-requerimentos-de-urgencia-para-dois-projetos-de-lei",
+      "resumo": "",
+      "publicado_em": "2026-11-03T16:59:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "71bc780a429c7056",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão sobre redução da maioridade civil e penal vota nesta quarta pedidos para realizar debates",
+      "link": "https://www.camara.leg.br/noticias/1315354-comissao-sobre-reducao-da-maioridade-civil-e-penal-vota-nesta-quarta-pedidos-para-realizar-debates",
+      "resumo": "",
+      "publicado_em": "2026-11-03T16:24:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "7ab35381b00b1720",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate contribuições do Brasil para a COP-31 nesta quarta-feira; participe",
+      "link": "https://www.camara.leg.br/noticias/1315308-comissao-debate-contribuicoes-do-brasil-para-a-cop-31-nesta-quarta-feira-participe",
+      "resumo": "",
+      "publicado_em": "2026-11-03T16:16:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "27dfff0b5024f28d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que retoma isenção de imposto para energia solar",
+      "link": "https://www.camara.leg.br/noticias/1315256-comissao-aprova-projeto-que-retoma-isencao-de-imposto-para-energia-solar",
+      "resumo": "",
+      "publicado_em": "2026-11-03T16:08:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "imposto",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
       "id": "18a47df95ea6f2db",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
       "titulo": "Comissão da Câmara aprova regras para parceria entre academias e personal trainers",
       "link": "https://www.camara.leg.br/noticias/1315115-comissao-da-camara-aprova-regras-para-parceria-entre-academias-e-personal-trainers",
       "resumo": "",
-      "publicado_em": "2026-11-03T15:53:00-03:00",
+      "publicado_em": "2026-11-03T15:42:00-03:00",
       "dia": "2026-11-03",
       "data_estimada": false,
       "score": 58,
@@ -1097,6 +1678,39 @@
         "aprova"
       ],
       "coletado_em": "2026-11-03T15:14:32-03:00"
+    },
+    {
+      "id": "6e3f53c9527f8a81",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Finanças aprova regras para repasse de recursos públicos a entidades privadas",
+      "link": "https://www.camara.leg.br/noticias/1315150-comissao-de-financas-aprova-regras-para-repasse-de-recursos-publicos-a-entidades-privadas",
+      "resumo": "",
+      "publicado_em": "2026-11-03T15:29:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprova",
+        "recurso"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "771345df6fcccef2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova incentivo fiscal para projetos culturais e esportivos em cidades pequenas",
+      "link": "https://www.camara.leg.br/noticias/1315177-comissao-aprova-incentivo-fiscal-para-projetos-culturais-e-esportivos-em-cidades-pequenas",
+      "resumo": "",
+      "publicado_em": "2026-11-03T15:22:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
     },
     {
       "id": "9fa119d9fb4df14c",
@@ -1272,6 +1886,22 @@
         "cade"
       ],
       "coletado_em": "2026-11-03T15:14:32-03:00"
+    },
+    {
+      "id": "981064893940d65f",
+      "fonte_id": "bacen",
+      "fonte_nome": "Bacen",
+      "titulo": "Consulta propõe mais transparência e priorização do interesse do cliente na distribuição de produtos de captação",
+      "link": "https://www.bcb.gov.br/detalhenoticia/21308/nota",
+      "resumo": "Proposta busca alinhar incentivos da distribuição ao melhor interesse do cliente. Contribuições podem ser feitas até 24/1/2027.",
+      "publicado_em": "2026-11-03T15:59:43-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T17:19:44-03:00"
     },
     {
       "id": "6d4a8693000f3cd7",
@@ -5684,7 +6314,7 @@
       "fonte_nome": "STF",
       "titulo": "Supremo invalida alteração de nome de cargo no Tribunal de Contas da Bahia",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-alteracao-de-nome-de-cargo-no-tribunal-de-contas-da-bahia/",
-      "resumo": "Para o Tribunal, denominação “auditor de contas públicas” não corresponde às atribuições do cargo e prejudica a distinção entre funções",
+      "resumo": "Para o Tribunal, termo “auditor de contas públicas” não corresponde às atribuições do cargo e prejudica a distinção entre funções",
       "publicado_em": "2026-10-28T17:04:22-03:00",
       "dia": "2026-10-28",
       "data_estimada": false,
