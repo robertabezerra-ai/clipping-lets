@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-03T18:28:58-03:00",
+  "gerado_em": "2026-11-03T21:17:52-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -406,6 +406,22 @@
       "coletado_em": "2026-11-03T18:28:58-03:00"
     },
     {
+      "id": "fff5f72e167fa179",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Edifício-sede do STF ganha iluminação especial em adesão à campanha Novembro Azul",
+      "link": "https://noticias.stf.jus.br/postsnoticias/edificio-sede-do-stf-ganha-iluminacao-especial-em-adesao-a-campanha-novembro-azul/",
+      "resumo": "Iniciativa reforça importância do diagnóstico precoce do câncer de próstata; quando diagnosticada em estágio inicial, doença tem altas taxas de cura",
+      "publicado_em": "2026-11-03T21:01:35-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
       "id": "69d0b2f0ea111e0d",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -502,6 +518,116 @@
         "acao"
       ],
       "coletado_em": "2026-11-03T15:14:32-03:00"
+    },
+    {
+      "id": "15da3d8856595f9a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sem ajuste, juros podem subir, aponta Instituição Fiscal Independente",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/sem-ajuste-fiscal-juros-podem-subir-aponta-instituicao-fiscal-independente",
+      "resumo": "",
+      "publicado_em": "2026-11-03T20:13:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "fafbee58a7c74425",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova PEC da Segurança Pública sem redução da maioridade penal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal",
+      "resumo": "",
+      "publicado_em": "2026-11-03T19:59:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "89a47f1598d5fac8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto que prevê cursos e palestras sobre parentalidade positiva vai à sanção",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-que-preve-cursos-e-palestras-sobre-parentalidade-positiva-vai-a-sancao",
+      "resumo": "",
+      "publicado_em": "2026-11-03T19:44:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "sancao",
+        "vai a sancao"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "3ef1b868acd7f0b6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão debaterá denúncias sobre contratos de serviços de saúde",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/comissao-debatera-denuncias-sobre-contratos-de-servicos-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-11-03T19:39:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "8f4130fda2e6e954",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Campanha de prevenção ao câncer ginecológico vai à sanção",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/campanha-de-prevencao-ao-cancer-ginecologico-vai-a-sancao",
+      "resumo": "",
+      "publicado_em": "2026-11-03T19:31:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "sancao",
+        "vai a sancao"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "0384148ce05e5003",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova Setembro em Flor, campanha contra o câncer ginecológico",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-setembro-em-flor-campanha-contra-o-cancer-ginecologico",
+      "resumo": "",
+      "publicado_em": "2026-11-03T19:21:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "fa5ec019e93daaef",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Território ianomâmi: Damares quer mais recursos para a Funai",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/territorio-ianomami-damares-quer-mais-recursos-para-a-funai",
+      "resumo": "",
+      "publicado_em": "2026-11-03T18:26:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
     },
     {
       "id": "128cc6fa4d98e77f",
@@ -645,6 +771,22 @@
         "recurso"
       ],
       "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "48478c248de4d824",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Zenaide: municípios precisam de recursos permanentes para implementar PEC da Segurança",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/03/zenaide-municipios-precisam-de-recursos-permanentes-para-implementar-pec-da-seguranca",
+      "resumo": "",
+      "publicado_em": "2026-11-03T16:50:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
     },
     {
       "id": "7b67c53739cf205a",
@@ -974,6 +1116,22 @@
       "coletado_em": "2026-11-03T15:14:32-03:00"
     },
     {
+      "id": "48019e9d9d040ed1",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação Fármacos II: RFB identifica R$ 1,8 bilhão em créditos farmacêuticos incompatíveis e orienta contribuintes à regularização até 20/01/2027",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/operacao-farmacos-ii-rfb-identifica-r-1-8-bilhao-em-creditos-farmaceuticos-incompativeis-e-orienta-contribuintes-a-regularizacao-ate-20-01-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-03T19:04:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
       "id": "3ef7185f53d754c5",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -1051,6 +1209,66 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-03T18:28:58-03:00"
+    },
+    {
+      "id": "34692004a195a148",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Em audiência no STF, Governo Federal defende proibição de jogos de aposta online",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/em-audiencia-no-stf-governo-federal-defende-proibicao-de-jogos-de-aposta-online",
+      "resumo": "",
+      "publicado_em": "2026-11-03T20:29:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "a9b65f1587588485",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "De autoria do Executivo, PEC da Segurança Pública é aprovada por unanimidade no Senado Federal",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/pec-da-seguranca-publica-e-aprovada-por-unanimidade-no-senado-federal",
+      "resumo": "",
+      "publicado_em": "2026-11-03T19:53:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "025d1b13f5fb4e44",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Fundação Cultural Palmares realiza o maior Novembro Negro de sua história, com programação em cinco estados",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/fundacao-cultural-palmares-realiza-o-maior-novembro-negro-de-sua-historia-com-programacao-em-cinco-estados",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:37:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "90628ef0f90f1963",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "No “Bom Dia, Ministro”, Leonardo Barchini fala sobre o Enem, Pé-de-Meia Universitário e tempo integral",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/no-201cbom-dia-ministro201d-leonardo-barchini-fala-sobre-o-enem-pe-de-meia-universitario-e-expansao-do-ensino-em-tempo-integral",
+      "resumo": "",
+      "publicado_em": "2026-11-03T17:32:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
     },
     {
       "id": "e2f4ba1700109153",
@@ -1328,6 +1546,36 @@
       "coletado_em": "2026-11-03T17:19:44-03:00"
     },
     {
+      "id": "6799b9660a431e25",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal deflagra maior ação conjunta de vigilância nas fronteiras terrestres, marítimas e aéreas do país",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-deflagra-maior-acao-conjunta-de-vigilancia-nas-fronteiras-terrestres-maritimas-e-aereas-do-pais",
+      "resumo": "",
+      "publicado_em": "2026-11-03T12:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "b88fd59e305e34d5",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Unidade da Procuradoria-Geral da Fazenda Nacional em Maringá/PR sem atendimento presencial",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/unidade-da-procuradoria-geral-da-fazenda-nacional-em-maringa-pr-sem-atendimento-presencial",
+      "resumo": "",
+      "publicado_em": "2026-11-03T12:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
       "id": "f0a14ffe95f99d5f",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -1340,6 +1588,40 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-03T15:14:32-03:00"
+    },
+    {
+      "id": "5c855a9d6e1565e2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado retira debate sobre maioridade da PEC da Segurança Pública",
+      "link": "https://www.congressoemfoco.com.br/noticia/131280/senado-retira-debate-sobre-maioridade-da-pec-da-seguranca-publica",
+      "resumo": "Plenário decidiu analisar em separado as emendas sobre maioridade penal, preservando a redação aprovada anteriormente pela Câmara.",
+      "publicado_em": "2026-11-03T18:23:48-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "7a3eba32cc389485",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova PEC da Segurança Pública em dois turnos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131279/senado-aprova-pec-da-seguranca-publica-em-dois-turnos",
+      "resumo": "Proposta amplia a integração entre as forças de segurança, com criação de polícias municipais, novas atribuições à PRF e combate às facções.",
+      "publicado_em": "2026-11-03T18:10:54-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
     },
     {
       "id": "12812e103f2968fd",
@@ -1640,7 +1922,7 @@
       "id": "1630088072ba1f87",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "AO VIVO: Plenário do Senado vota PEC da Segurança Pública",
+      "titulo": "Plenário do Senado vota PEC da Segurança Pública",
       "link": "https://www.congressoemfoco.com.br/noticia/131259/ao-vivo-plenario-do-senado-vota-pec-da-seguranca-publica",
       "resumo": "Proposta de emenda à Constituição busca endurecer regras relacionadas ao combate ao crime organizado, facções e milícias.",
       "publicado_em": "2026-11-03T11:14:59-03:00",
@@ -1771,6 +2053,40 @@
       "coletado_em": "2026-11-03T15:14:32-03:00"
     },
     {
+      "id": "b12b5ab37e025999",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Do processo físico ao online: Coaf realiza 100ª sessão de julgamento",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/do-processo-fisico-ao-online-coaf-realiza-100a-sessao-de-julgamento-1",
+      "resumo": "",
+      "publicado_em": "2026-11-03T20:11:54-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "6cdc608ddc5ad6f5",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Plenária do Gafi: Coaf lidera delegação brasileira em Paris",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/plenaria-do-gafi-coaf-lidera-delegacao-brasileira-em-paris",
+      "resumo": "",
+      "publicado_em": "2026-11-03T11:16:49-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-10-31T16:42:23-03:00"
+    },
+    {
       "id": "e2dab09913d3b238",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
@@ -1819,6 +2135,133 @@
         "droga"
       ],
       "coletado_em": "2026-11-03T17:19:44-03:00"
+    },
+    {
+      "id": "b617efc40133327b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ fortalece diálogo com tribunais de Roraima e amplia escuta de comunidades indígenas",
+      "link": "https://www.cnj.jus.br/cnj-fortalece-dialogo-com-tribunais-de-roraima-e-amplia-escuta-de-comunidades-indigenas/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) cumpriu, nos dias 28 e 29 de outubro, uma agenda institucional em Roraima, marcada pelo diálogo com o Tribunal de Justiça de Roraima (TJRR), o Tribunal Regional Eleitoral de Roraima (TRE-RR) e lideranças indígenas. A missão contou com a participação dos conselhei",
+      "publicado_em": "2026-11-03T12:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "fec2a8d8609c13a3",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ amplia parceria para destravar obras paralisadas em saúde e educação",
+      "link": "https://www.cnj.jus.br/cnj-amplia-parceria-para-destravar-obras-paralisadas-em-saude-e-educacao/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) formalizou a adesão de novos órgãos ao Acordo de Cooperação Técnica nº 26/2026, para reforçar a atuação interinstitucional voltada à retomada de obras públicas paralisadas em todo o país. Com a ampliação, passam a integrar a iniciativa a Advocacia-Geral da União ",
+      "publicado_em": "2026-11-03T12:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "981238f079bf3556",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Judiciário e mercado financeiro se unem para modernizar gestão de precatórios",
+      "link": "https://www.cnj.jus.br/judiciario-e-mercado-financeiro-se-unem-para-modernizar-gestao-de-precatorios/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) dará mais um passo para modernizar a gestão de precatórios e requisições de pequeno valor (RPVs) no Poder Judiciário. O presidente do Conselho, ministro Edson Fachin, assinou, nesta terça-feira (3/11), dois acordos voltados ao desenvolvimento do Sistema Nacional ",
+      "publicado_em": "2026-11-03T12:00:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "precatorio"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "47ddc51e96738859",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Senado aprova PEC da Segurança sem redução da maioridade penal",
+      "link": "https://www.camara.leg.br/noticias/1315539-senado-aprova-pec-da-seguranca-sem-reducao-da-maioridade-penal",
+      "resumo": "",
+      "publicado_em": "2026-11-03T20:54:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "430e3c914b2b2c5f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Hugo Motta destaca aprovação da PEC da Segurança Pública pelo Senado",
+      "link": "https://www.camara.leg.br/noticias/1315533-hugo-motta-destaca-aprovacao-da-pec-da-seguranca-publica-pelo-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-03T20:31:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "339415eff731fbcf",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Eduardo Braga será o relator-geral do Orçamento 2027",
+      "link": "https://www.camara.leg.br/noticias/1315522-eduardo-braga-sera-o-relator-geral-do-orcamento-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-03T19:53:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "b1b77c12c3d8087f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Ministro garante “absoluta prioridade” na implementação da Política de Minerais Críticos e Estratégicos",
+      "link": "https://www.camara.leg.br/noticias/1315488-ministro-garante-absoluta-prioridade-na-implementacao-da-politica-de-minerais-criticos-e-estrategicos",
+      "resumo": "",
+      "publicado_em": "2026-11-03T19:49:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "9176577f5adca0c7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate dispensa de laudo médico para atendimento de alunos da educação especial",
+      "link": "https://www.camara.leg.br/noticias/1315372-comissao-debate-dispensa-de-laudo-medico-para-atendimento-de-alunos-da-educacao-especial",
+      "resumo": "",
+      "publicado_em": "2026-11-03T19:18:00-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
     },
     {
       "id": "2eaf28e1263755ce",
@@ -5992,22 +6435,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T17:51:32-03:00"
-    },
-    {
-      "id": "6cdc608ddc5ad6f5",
-      "fonte_id": "coaf",
-      "fonte_nome": "Coaf",
-      "titulo": "Plenária do Gafi: Coaf lidera delegação brasileira em Paris",
-      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/plenaria-do-gafi-coaf-lidera-delegacao-brasileira-em-paris",
-      "resumo": "",
-      "publicado_em": "2026-10-29T15:47:10-03:00",
-      "dia": "2026-10-29",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-10-31T16:42:23-03:00"
     },
     {
       "id": "c2b9d23f42008d6e",
