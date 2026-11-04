@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-04T17:35:35-03:00",
+  "gerado_em": "2026-11-04T18:42:31-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -347,16 +347,14 @@
       "id": "4f21cf63f9d8e2f2",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
-      "titulo": "Mostra no Fórum de Piracicaba homenageia atrações da cidade",
+      "titulo": "Fóruns de Piracicaba e Itanhaém estão com exposições abertas",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115914&pagina=1",
-      "resumo": "Visitação até 18 de dezembro.\n \n\tO Espaço Cultural do Fórum Dr. Francisco Morato, na Comarca de Piracicaba, recebe, de 3 de novembro a 18 de",
+      "resumo": "Visitações gratuitas e abertas ao público.\n \n\tOs Fóruns de Piracicaba e Itanhaém estão com exposições gratuitas e abertas para o público geral, de segunda a",
       "publicado_em": "2026-11-04T12:00:00-03:00",
       "dia": "2026-11-04",
       "data_estimada": true,
-      "score": 14,
+      "score": 28,
       "tags": [
-        "acao",
-        "homenageia",
         "visita"
       ],
       "coletado_em": "2026-11-04T15:28:26-03:00"
@@ -396,6 +394,39 @@
       "coletado_em": "2026-11-04T17:35:35-03:00"
     },
     {
+      "id": "b661bdd3ad0a98e0",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confederação do comércio questiona no STF prazo para fim da escala 6×1",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confederacao-do-comercio-questiona-no-stf-prazo-para-fim-da-escala-6x1/",
+      "resumo": "CNC pede mais tempo para implementação da nova jornada de trabalho e ajustes nas regras de transição para acordos e convenções coletivas",
+      "publicado_em": "2026-11-04T17:44:58-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "c254730243d07f28",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo ouve manifestações sobre leis que autorizam loterias municipais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-ouve-manifestacoes-sobre-leis-que-autorizam-loterias-municipais/",
+      "resumo": "Discussão envolve a divisão de competências entre União, estados e municípios para exploração desses serviços",
+      "publicado_em": "2026-11-04T17:41:17-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
       "id": "8d79024b83a5e593",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -426,6 +457,98 @@
         "adi"
       ],
       "coletado_em": "2026-11-04T15:28:26-03:00"
+    },
+    {
+      "id": "01ca7c9dc44884c5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão da MP do Plano Brasil Soberano 3 elege presidente, vice e relatora",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/comissao-da-mp-do-plano-brasil-soberano-3-elege-presidente-vice-e-relatora",
+      "resumo": "",
+      "publicado_em": "2026-11-04T18:36:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "f97c50eecc7bdbb4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CRA aprova flexibilização da regularização ambiental de produtores rurais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cra-aprova-flexibilizacao-da-regularizacao-ambiental-de-produtores-rurais",
+      "resumo": "",
+      "publicado_em": "2026-11-04T18:35:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "ebb4c8291b8b6ff9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova protocolo que amplia defesa da democracia no Mercosul",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-aprova-protocolo-que-amplia-defesa-da-democracia-no-mercosul",
+      "resumo": "",
+      "publicado_em": "2026-11-04T18:12:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "beb4d09df1e4df8d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Isenção de tarifa para usinas movidas a biomassa da casca de arroz vai à CAE",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/isencao-de-tarifa-para-usinas-movidas-a-biomassa-da-casca-de-arroz-vai-a-cae",
+      "resumo": "",
+      "publicado_em": "2026-11-04T18:12:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "ef32ca4adab29b8e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso prevê votar Orçamento de 2027 até 17 de dezembro",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/congresso-preve-votar-orcamento-de-2027-ate-17-de-dezembro",
+      "resumo": "",
+      "publicado_em": "2026-11-04T18:01:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "0232e77682a84dd4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova atualização do Estatuto da Criança e do Adolescente",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-aprova-atualizacao-do-estatuto-da-crianca-e-do-adolescente",
+      "resumo": "",
+      "publicado_em": "2026-11-04T17:42:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
     },
     {
       "id": "1dc0015f7966e38f",
@@ -895,6 +1018,20 @@
       "coletado_em": "2026-11-04T15:28:26-03:00"
     },
     {
+      "id": "31cc03ec2cb09e32",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "PGFN esclarece regras sobre perdão de dívidas tributárias para MEIs",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/pgfn-esclarece-regras-sobre-perdao-de-dividas-tributarias-para-meis",
+      "resumo": "",
+      "publicado_em": "2026-11-04T12:00:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
       "id": "ccc2aba0d0a67898",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1085,6 +1222,20 @@
       "coletado_em": "2026-11-04T15:28:26-03:00"
     },
     {
+      "id": "8b44e187b416813e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Todas as 12,3 mil favelas brasileiras agora têm CEP e endereço reconhecido",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/todas-as-12-348-favelas-brasileiras-agora-tem-cep-e-passam-a-ter-endereco-reconhecido",
+      "resumo": "",
+      "publicado_em": "2026-11-04T10:51:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
       "id": "5d4973ded170b762",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1159,6 +1310,87 @@
       "coletado_em": "2026-11-04T15:28:26-03:00"
     },
     {
+      "id": "0efad18adf7ba696",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Colegiado da CVM aceita nova proposta de Termo de Compromisso em caso de suposta utilização de informações relevantes",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-aceita-nova-proposta-de-termo-de-compromisso-em-caso-de-suposta-utilizacao-de-informacoes-relevantes",
+      "resumo": "",
+      "publicado_em": "2026-11-04T12:00:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "78b0c82320452366",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Colegiado da CVM aprova acordo de cooperação com a Fundação Getúlio Vargas - AGRO (FGV AGRO)",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-aprova-acordo-de-cooperacao-com-a-fundacao-getulio-vargas-agro-fgv-agro",
+      "resumo": "",
+      "publicado_em": "2026-11-04T12:00:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "4085ac823199e8e7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alcolumbre ironiza ataques a urna e lamenta eleitos sem proposta",
+      "link": "https://www.congressoemfoco.com.br/noticia/131317/alcolumbre-ironiza-ataques-a-urna-e-lamenta-eleitos-sem-proposta",
+      "resumo": "Em discurso no Plenário, o senador defendeu que o Congresso retome debates sobre desenvolvimento, educação, saúde, democracia e infraestrutura.",
+      "publicado_em": "2026-11-04T18:12:43-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "d2f3f85b24346da5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Análise do Orçamento deve ser feita até 2 de dezembro, afirma relator",
+      "link": "https://www.congressoemfoco.com.br/noticia/131316/analise-do-orcamento-deve-ser-feita-ate-2-de-dezembro-afirma-relator",
+      "resumo": "Cronograma reserva duas semanas para a apresentação de emendas até 20 de novembro.",
+      "publicado_em": "2026-11-04T17:52:54-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "a2e31f7af79ab5c1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alcolumbre diz que Senado aguardará Câmara para debater maioridade",
+      "link": "https://www.congressoemfoco.com.br/noticia/131314/alcolumbre-diz-que-senado-aguardara-camara-para-debater-maioridade",
+      "resumo": "A decisão, segundo ele, atende a um pedido de Hugo Motta, que se comprometeu a votar a matéria ainda em novembro.",
+      "publicado_em": "2026-11-04T17:17:17-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
       "id": "dc95999a955d419c",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1192,6 +1424,20 @@
         "acao"
       ],
       "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "85e6d18ab95a173a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Saúde digital sem governança: o alerta do TCU",
+      "link": "https://www.congressoemfoco.com.br/artigo/131306/saude-digital-sem-governanca-o-alerta-do-tcu",
+      "resumo": "Enquanto o SUS se digitaliza, o comitê que deveria conduzir a estratégia nacional passou cerca de 15 meses sem se reunir. O Tribunal de Contas da União registrou o problema e cobrou providências.",
+      "publicado_em": "2026-11-04T15:27:27-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
     },
     {
       "id": "1a32cfacdef76539",
@@ -1538,15 +1784,131 @@
       "id": "b12b5ab37e025999",
       "fonte_id": "coaf",
       "fonte_nome": "Coaf",
-      "titulo": "Estamos em manutenção",
+      "titulo": "Do processo físico ao online: Coaf realiza 100ª sessão de julgamento",
       "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/do-processo-fisico-ao-online-coaf-realiza-100a-sessao-de-julgamento-1",
       "resumo": "",
       "publicado_em": "2026-11-04T10:55:56-03:00",
       "dia": "2026-11-04",
       "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "332c99017dddd5ec",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova criação de programa para acompanhamento psicossocial de crianças e adolescentes",
+      "link": "https://www.camara.leg.br/noticias/1316057-camara-aprova-criacao-de-programa-para-acompanhamento-psicossocial-de-criancas-e-adolescentes",
+      "resumo": "",
+      "publicado_em": "2026-11-04T18:22:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "e4fa7d00f56e0156",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Relator da PEC da Maioridade Penal deve apresentar parecer no final do mês",
+      "link": "https://www.camara.leg.br/noticias/1316048-relator-da-pec-da-maioridade-penal-deve-apresentar-parecer-no-final-do-mes",
+      "resumo": "",
+      "publicado_em": "2026-11-04T18:10:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-11-03T21:17:52-03:00"
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "3a28c40fdea8436b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Sessão solene celebra os 40 anos da confederação de cooperativas de crédito",
+      "link": "https://www.camara.leg.br/noticias/1315993-sessao-solene-celebra-os-40-anos-da-confederacao-de-cooperativas-de-credito",
+      "resumo": "",
+      "publicado_em": "2026-11-04T17:59:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "dc7c5b393a44ea1b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova presença de intérprete de Libras para acompanhar paciente surdo em hospital",
+      "link": "https://www.camara.leg.br/noticias/1315977-comissao-aprova-presenca-de-interprete-de-libras-para-acompanhar-paciente-surdo-em-hospital",
+      "resumo": "",
+      "publicado_em": "2026-11-04T17:53:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "7dbab013a740b26e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova criação do Dia Nacional da Consolidação da Independência do Brasil",
+      "link": "https://www.camara.leg.br/noticias/1315988-camara-aprova-criacao-do-dia-nacional-da-consolidacao-da-independencia-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-11-04T17:50:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "cd254a59f399e59f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que amplia uso de câmeras e cria alerta contra desaparecimento de pessoas",
+      "link": "https://www.camara.leg.br/noticias/1315958-comissao-aprova-projeto-que-amplia-uso-de-cameras-e-cria-alerta-contra-desaparecimento-de-pessoas",
+      "resumo": "",
+      "publicado_em": "2026-11-04T17:46:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "2c112de8296e2415",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova regras para o uso de postes por empresas de energia e teles",
+      "link": "https://www.camara.leg.br/noticias/1315992-camara-aprova-regras-para-o-uso-de-postes-por-empresas-de-energia-e-teles",
+      "resumo": "",
+      "publicado_em": "2026-11-04T17:35:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
     },
     {
       "id": "f991c1cad832eee2",
@@ -1955,18 +2317,33 @@
       "id": "8aa854b381b079c5",
       "fonte_id": "cade",
       "fonte_nome": "Cade",
-      "titulo": "Cade condenada empresas por cartel internacional na cadeia de produção e venda de Escopolamina-n-BrometoButil (SnBB)",
+      "titulo": "Cade condena empresas por cartel internacional na cadeia de produção e venda de Escopolamina-n-BrometoButil (SnBB)",
       "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-condenada-empresas-por-cartel-internacional-na-cadeia-de-producao-e-venda-de-escopolamina-n-brometobutil-snbb",
       "resumo": "",
       "publicado_em": "2026-11-04T12:00:00-03:00",
       "dia": "2026-11-04",
       "data_estimada": true,
-      "score": 60,
+      "score": 50,
       "tags": [
-        "condenada",
         "cade"
       ],
       "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "f80a3f892b6a4a11",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD publica balanço de seis anos de atuação e o apresenta em  evento nesta quinta-feira (05)",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-balanco-de-seis-anos-de-atuacao",
+      "resumo": "Documento reúne os principais marcos da trajetória da Agência, com destaque para o fortalecimento institucional e a ampliação de suas competências",
+      "publicado_em": "2026-11-04T18:08:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T18:42:31-03:00"
     },
     {
       "id": "dcfa984e6eb6fa3a",
@@ -8189,7 +8566,7 @@
       "id": "95343fb858f24821",
       "fonte_id": "coaf",
       "fonte_nome": "Coaf",
-      "titulo": "Estamos em manutenção",
+      "titulo": "Como surgiu a lavagem de dinheiro? Entenda como o Coaf atua na prevenção ao crime",
       "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/dia-nacional-de-prevencao-a-lavagem-de-dinheiro-1",
       "resumo": "",
       "publicado_em": "2026-10-29T19:39:05-03:00",
