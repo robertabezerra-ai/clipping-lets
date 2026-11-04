@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-04T15:28:26-03:00",
+  "gerado_em": "2026-11-04T17:35:35-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 404 Client Error: Not Found for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 16,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -281,6 +281,20 @@
       "coletado_em": "2026-11-04T15:28:26-03:00"
     },
     {
+      "id": "2b5acd88a4f48e57",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "PJe e outros sistemas de informática ficam indisponíveis neste sábado (7/11)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/pje-e-outros-sistemas-de-informatica-ficam-indisponiveis-neste-sabado-7-11",
+      "resumo": "",
+      "publicado_em": "2026-11-04T12:00:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
       "id": "fccfac5129e712e9",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -348,6 +362,56 @@
       "coletado_em": "2026-11-04T15:28:26-03:00"
     },
     {
+      "id": "750c77b38fa0340f",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "EPM realiza curso sobre relação entre arbitragem e Judiciário",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115928&pagina=1",
+      "resumo": "Participação do presidente Francisco Loureiro.\n \n\tA Escola Paulista da Magistratura promove, em 3 de dezembro, o curso Arbitragem e judiciário: diálogo permanente, com participação do",
+      "publicado_em": "2026-11-04T12:00:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "itr",
+        "arbitragem",
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "2cca34de37b4eaf3",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Comissão Regional de Soluções Fundiárias encaminha acordos e alternativas para ocupações",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115921&pagina=1",
+      "resumo": "Tratativas para aquisição, regularização e desocupação de imóveis.\n \n\tAo longo da segunda quinzena de outubro, a Comissão Regional de Soluções Fundiárias do Tribunal de Justiça",
+      "publicado_em": "2026-11-04T12:00:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "8d79024b83a5e593",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "CNI questiona pagamento de horas extras por falta de pausas térmicas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cni-questiona-pagamento-de-horas-extras-por-falta-de-pausas-termicas/",
+      "resumo": "Confederação alega que Justiça do Trabalho transforma critérios técnicos em obrigação não prevista em lei",
+      "publicado_em": "2026-11-04T16:20:12-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
       "id": "49980e24e32cc799",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -362,6 +426,94 @@
         "adi"
       ],
       "coletado_em": "2026-11-04T15:28:26-03:00"
+    },
+    {
+      "id": "1dc0015f7966e38f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi pedirá ajuda federal após senadores relatarem danos por chuvas em SC",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/davi-pedira-ajuda-federal-apos-senadores-relatarem-danos-por-chuvas-em-sc",
+      "resumo": "",
+      "publicado_em": "2026-11-04T17:28:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "eb5422c107358786",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Avança projeto que reorganiza política nacional para merenda escolar",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-projeto-que-reorganiza-politica-nacional-para-merenda-escolar",
+      "resumo": "",
+      "publicado_em": "2026-11-04T17:19:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "ed1696c68b566b3d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado confirma acordo sobre educação entre Brasil e Croácia",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-confirma-acordo-sobre-educacao-entre-brasil-e-croacia",
+      "resumo": "",
+      "publicado_em": "2026-11-04T17:10:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "c4da4459f899cd12",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Confúcio defende integração das forças de segurança",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/confucio-defende-integracao-das-forcas-de-seguranca",
+      "resumo": "",
+      "publicado_em": "2026-11-04T16:52:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "6a4b6ca636bbb418",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Paim defende tarifa zero no transporte público aos fins de semana",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/paim-defende-tarifa-zero-no-transporte-publico-aos-fins-de-semana",
+      "resumo": "",
+      "publicado_em": "2026-11-04T16:28:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "b4688ca507f105af",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAE: governadores poderão renegociar dívidas no fim do mandato",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cae-governadores-poderao-renegociar-dividas-no-fim-do-mandato",
+      "resumo": "",
+      "publicado_em": "2026-11-04T16:13:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
     },
     {
       "id": "d220c3ced4e8984f",
@@ -497,17 +649,14 @@
       "id": "84d174253a2c61cb",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "CDH rejeita mudanças da Câmara e texto sobre síndrome de Tourette vai à sanção",
+      "titulo": "CDH rejeita mudanças da Câmara e texto sobre síndrome de Tourette vai a Plenário",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cdh-rejeita-mudancas-da-camara-e-texto-sobre-sindrome-de-tourette-vai-a-sancao",
       "resumo": "",
       "publicado_em": "2026-11-04T13:38:00-03:00",
       "dia": "2026-11-04",
       "data_estimada": false,
-      "score": 62,
-      "tags": [
-        "sancao",
-        "vai a sancao"
-      ],
+      "score": 40,
+      "tags": [],
       "coletado_em": "2026-11-04T15:28:26-03:00"
     },
     {
@@ -746,6 +895,80 @@
       "coletado_em": "2026-11-04T15:28:26-03:00"
     },
     {
+      "id": "ccc2aba0d0a67898",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Caged: Brasil gera 121,3 mil empregos formais em setembro. Saldo no ano chega a 1,24 milhão",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/brasil-gera-121-3-mil-empregos-formais-em-setembro-e-saldo-no-ano-chega-a-1-24-milhao-de-novos-postos-com-carteira-assinada",
+      "resumo": "",
+      "publicado_em": "2026-11-04T15:44:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "c5d9a9bfbe99d63c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "“Bom Dia, Ministra”: Márcia Lopes detalha enfrentamento da violência digital contra mulheres",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/marcia-lopes-detalha-acoes-para-o-enfrentamento-da-violencia-digital-contra-mulheres-no-201cbom-dia-ministra201d-desta-quinta-feira-5-11",
+      "resumo": "",
+      "publicado_em": "2026-11-04T15:40:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "fc0a8f53f6d95b42",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Universidade Federal Indígena deve alcançar  20 localidades do país, destaca ministro da Educação",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/universidade-federal-indigena-deve-alcancar-20-localidades-do-pais-destaca-ministro-da-educacao",
+      "resumo": "",
+      "publicado_em": "2026-11-04T15:23:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "069a9b9d79878f18",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF erradica 20 mil pés de maconha e prende três pessoas no Piauí",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/pf-erradica-20-mil-pes-de-maconha-e-prende-tres-pessoas-no-piaui",
+      "resumo": "",
+      "publicado_em": "2026-11-04T15:19:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "c27a9a574dd8fcd5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Novembro Negro: campanha do Governo Federal fortalece promoção da igualdade racial",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/novembro-negro-campanha-do-governo-federal-fortalece-promocao-da-igualdade-racial",
+      "resumo": "",
+      "publicado_em": "2026-11-04T15:10:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
       "id": "0bc3083c5cc40fcf",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -934,6 +1157,86 @@
         "acao"
       ],
       "coletado_em": "2026-11-04T15:28:26-03:00"
+    },
+    {
+      "id": "dc95999a955d419c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara aprova pena de prisão para uso de drones sobre presídios",
+      "link": "https://www.congressoemfoco.com.br/noticia/131313/camara-aprova-pena-de-prisao-para-uso-de-drones-sobre-presidios",
+      "resumo": "Texto aprovado pela Câmara pune o sobrevoo não autorizado de presídios com até cinco anos de prisão, além de multa aos responsáveis.",
+      "publicado_em": "2026-11-04T17:06:57-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "multa",
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "012de9238ce89330",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe sistema eleitoral distrital misto com votação única",
+      "link": "https://www.congressoemfoco.com.br/noticia/131308/deputado-propoe-sistema-eleitoral-distrital-misto-com-votacao-unica",
+      "resumo": "Proposta divide as cadeiras entre eleitos por distritos e pelo sistema proporcional, com apenas um voto por eleitor nas duas modalidades.",
+      "publicado_em": "2026-11-04T15:49:24-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "1a32cfacdef76539",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas critica post de Janja com Estátua da Liberdade fazendo \"L\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131305/nikolas-critica-post-de-janja-com-estatua-da-liberdade-fazendo-l",
+      "resumo": "Deputado reagiu à imagem compartilhada pela primeira-dama após vitória dos Democratas nas eleições americanas.",
+      "publicado_em": "2026-11-04T15:02:45-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "2c5b1e3a7a93620a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Isca de ódio racista: Quando o racismo vira audiência e lucro",
+      "link": "https://www.congressoemfoco.com.br/artigo/131304/isca-de-odio-racista-quando-o-racismo-vira-audiencia-e-lucro",
+      "resumo": "Ataques contra mulheres negras na política revelam como conteúdos discriminatórios podem ser utilizados para gerar engajamento.",
+      "publicado_em": "2026-11-04T14:51:30-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "df2d00b91cd6c56f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio nos EUA: A soberania sob pressão",
+      "link": "https://www.congressoemfoco.com.br/artigo/131303/flavio-nos-eua-a-soberania-sob-pressao",
+      "resumo": "Ordem judicial, alegação de perseguição política e possíveis articulações externas colocam em debate os limites da soberania brasileira.",
+      "publicado_em": "2026-11-04T14:40:51-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
     },
     {
       "id": "1f380f7ccb4ff76a",
@@ -1232,6 +1535,162 @@
       "coletado_em": "2026-11-04T15:28:26-03:00"
     },
     {
+      "id": "b12b5ab37e025999",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Estamos em manutenção",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/do-processo-fisico-ao-online-coaf-realiza-100a-sessao-de-julgamento-1",
+      "resumo": "",
+      "publicado_em": "2026-11-04T10:55:56-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "f991c1cad832eee2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados analisam projeto sobre uso de postes por empresas de energia e teles; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1315941-deputados-analisam-projeto-sobre-uso-de-postes-por-empresas-de-energia-e-teles-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-04T16:58:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "7f9fd54fe81431c6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova proposta que criminaliza sobrevoo não autorizado de drones perto de presídios",
+      "link": "https://www.camara.leg.br/noticias/1315957-camara-aprova-proposta-que-criminaliza-sobrevoo-nao-autorizado-de-drones-perto-de-presidios",
+      "resumo": "",
+      "publicado_em": "2026-11-04T16:58:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "0f601fa0a5778db0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que aumenta punição para crimes ambientais",
+      "link": "https://www.camara.leg.br/noticias/1315928-comissao-aprova-projeto-que-aumenta-punicao-para-crimes-ambientais",
+      "resumo": "",
+      "publicado_em": "2026-11-04T16:52:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "f03f34ee9b27ca18",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova proposta que inclui povos tradicionais no crédito fundiário",
+      "link": "https://www.camara.leg.br/noticias/1315853-comissao-aprova-proposta-que-inclui-povos-tradicionais-no-credito-fundiario",
+      "resumo": "",
+      "publicado_em": "2026-11-04T16:51:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "adi",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "7db1c652e2d72dab",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados aprovam urgência para projeto que cria nova modalidade para Fies; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1315954-deputados-aprovam-urgencia-para-projeto-que-cria-nova-modalidade-para-fies-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-04T16:49:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "6f2ede41227eea4b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que resgata princípio da condição mais favorável ao trabalhador",
+      "link": "https://www.camara.leg.br/noticias/1315651-comissao-aprova-projeto-que-resgata-principio-da-condicao-mais-favoravel-ao-trabalhador",
+      "resumo": "",
+      "publicado_em": "2026-11-04T16:25:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "6abfa4154830bb09",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados analisam requerimentos de urgência para projetos no Plenário; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1315938-deputados-analisam-requerimentos-de-urgencia-para-projetos-no-plenario-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-04T16:24:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "04baa13f4c974346",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova regras para convivência de marcas semelhantes",
+      "link": "https://www.camara.leg.br/noticias/1315747-comissao-aprova-regras-para-convivencia-de-marcas-semelhantes",
+      "resumo": "",
+      "publicado_em": "2026-11-04T15:41:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "b5c1092eb3d9a088",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Constituição e Justiça aprova regras para ações contra drogas em escolas",
+      "link": "https://www.camara.leg.br/noticias/1315793-comissao-de-constituicao-e-justica-aprova-regras-para-acoes-contra-drogas-em-escolas",
+      "resumo": "",
+      "publicado_em": "2026-11-04T15:27:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "aprova",
+        "droga"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
       "id": "8b871b8f34e71a8e",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1475,6 +1934,39 @@
         "cade"
       ],
       "coletado_em": "2026-11-04T15:28:26-03:00"
+    },
+    {
+      "id": "361bd226dfc6f0d1",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Quer assumir um novo desafio no Cade? CGTI abre seleção para cargo de liderança",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/quer-assumir-um-novo-desafio-no-cade-cgti-abre-selecao-para-cargo-de-lideranca",
+      "resumo": "",
+      "publicado_em": "2026-11-04T12:00:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "8aa854b381b079c5",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade condenada empresas por cartel internacional na cadeia de produção e venda de Escopolamina-n-BrometoButil (SnBB)",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-condenada-empresas-por-cartel-internacional-na-cadeia-de-producao-e-venda-de-escopolamina-n-brometobutil-snbb",
+      "resumo": "",
+      "publicado_em": "2026-11-04T12:00:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "condenada",
+        "cade"
+      ],
+      "coletado_em": "2026-11-04T17:35:35-03:00"
     },
     {
       "id": "dcfa984e6eb6fa3a",
@@ -3340,24 +3832,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-03T15:14:32-03:00"
-    },
-    {
-      "id": "b12b5ab37e025999",
-      "fonte_id": "coaf",
-      "fonte_nome": "Coaf",
-      "titulo": "Do processo físico ao online: Coaf realiza 100ª sessão de julgamento",
-      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/do-processo-fisico-ao-online-coaf-realiza-100a-sessao-de-julgamento-1",
-      "resumo": "",
-      "publicado_em": "2026-11-03T20:11:54-03:00",
-      "dia": "2026-11-03",
-      "data_estimada": false,
-      "score": 68,
-      "tags": [
-        "julgamento",
-        "julga",
-        "processo"
-      ],
-      "coletado_em": "2026-11-03T21:17:52-03:00"
     },
     {
       "id": "6cdc608ddc5ad6f5",
@@ -7715,7 +8189,7 @@
       "id": "95343fb858f24821",
       "fonte_id": "coaf",
       "fonte_nome": "Coaf",
-      "titulo": "Como surgiu a lavagem de dinheiro? Entenda como o Coaf atua na prevenção ao crime",
+      "titulo": "Estamos em manutenção",
       "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/dia-nacional-de-prevencao-a-lavagem-de-dinheiro-1",
       "resumo": "",
       "publicado_em": "2026-10-29T19:39:05-03:00",
