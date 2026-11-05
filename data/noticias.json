@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-05T17:52:16-03:00",
+  "gerado_em": "2026-11-05T18:45:31-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -417,6 +417,39 @@
       "coletado_em": "2026-11-05T17:52:16-03:00"
     },
     {
+      "id": "049a2265ca6b1952",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF invalida normas sobre organização e poderes de investigação do Ministério Público do RS",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-normas-sobre-organizacao-e-poderes-de-investigacao-do-ministerio-publico-do-rs/",
+      "resumo": "Plenário afastou dispositivos que ampliavam atribuições do procurador-geral de Justiça e reafirmou limites à atuação investigatória da instituição",
+      "publicado_em": "2026-11-05T18:40:56-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T18:45:31-03:00"
+    },
+    {
+      "id": "fadfa79f58d1e578",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Escala 6×1: STF marca audiência de conciliação para debater implementação da mudança",
+      "link": "https://noticias.stf.jus.br/postsnoticias/escala-6x1-stf-marca-audiencia-de-conciliacao-para-debater-implementacao-da-mudanca/",
+      "resumo": "Ministro Flávio Dino ressaltou que estão em discussão apenas os aspectos relacionados à transição para as novas regras",
+      "publicado_em": "2026-11-05T18:09:17-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "novas regras",
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T18:45:31-03:00"
+    },
+    {
       "id": "ad053e86b6a6d154",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -497,6 +530,39 @@
         "adi"
       ],
       "coletado_em": "2026-11-05T15:32:00-03:00"
+    },
+    {
+      "id": "bf8f0b3dacfdb297",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Paim lança frente pela paz mundial e comemora vitória dos democratas nos EUA",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/paim-vitoria-do-partido-democrata-nos-estados-unidos-contribui-para-a-paz",
+      "resumo": "",
+      "publicado_em": "2026-11-05T18:36:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "comemora"
+      ],
+      "coletado_em": "2026-11-05T18:45:31-03:00"
+    },
+    {
+      "id": "6d27ddb6911fc4e4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sessão especial celebra criação da Frente Parlamentar pela Paz Mundial",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/sessao-especial-celebra-criacao-da-frente-parlamentar-pela-paz-mundial",
+      "resumo": "",
+      "publicado_em": "2026-11-05T18:07:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "frente parlamentar"
+      ],
+      "coletado_em": "2026-11-05T18:45:31-03:00"
     },
     {
       "id": "e1a3fecb1825e961",
@@ -851,6 +917,22 @@
       "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
+      "id": "fbd422b2f4a428cd",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Na reta final para o Enem, aplicativo reúne simulados e recursos para revisar conteúdos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/na-reta-final-para-o-enem-aplicativo-reune-simulados-e-recursos-para-revisar-conteudos",
+      "resumo": "",
+      "publicado_em": "2026-11-05T17:34:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-05T18:45:31-03:00"
+    },
+    {
       "id": "29f2258febae6c39",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1000,6 +1082,38 @@
       "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
+      "id": "c1288894129efbaa",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vieira propõe trava de gastos quando meta fiscal for descumprida",
+      "link": "https://www.congressoemfoco.com.br/noticia/131362/vieira-propoe-trava-de-gastos-quando-meta-fiscal-for-descumprida",
+      "resumo": "Projeto estabelece sanções progressivas sobre despesas e benefícios fiscais, com fiscalização independente do cumprimento das metas.",
+      "publicado_em": "2026-11-05T18:05:26-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T18:45:31-03:00"
+    },
+    {
+      "id": "5bf92db02a051b37",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "iFood ajuiza ação contra a Keeta por aliciamento de restaurantes",
+      "link": "https://www.congressoemfoco.com.br/noticia/131361/ifood-ajuiza-acao-contra-a-keeta-por-aliciamento-de-restaurantes",
+      "resumo": "Empresa pede uma perícia econômico-financeira para verificar o volume de subsídios utilizados pela Keeta para financiar descontos e manter preços baixos.",
+      "publicado_em": "2026-11-05T17:56:09-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T18:45:31-03:00"
+    },
+    {
       "id": "8f42966753b49781",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1033,6 +1147,20 @@
         "acao"
       ],
       "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "04062917ae73a12f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dezembro vende, janeiro cobra: o risco de confundir pico com lucro",
+      "link": "https://www.congressoemfoco.com.br/artigo/131357/dezembro-vende-janeiro-cobra-o-risco-de-confundir-pico-com-lucro",
+      "resumo": "O dinheiro circula, as vendas crescem e o otimismo toma conta, mas quem confunde movimento com lucro pode pagar a conta já em janeiro.",
+      "publicado_em": "2026-11-05T16:29:14-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T18:45:31-03:00"
     },
     {
       "id": "10aadb7d880e33cd",
