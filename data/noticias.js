@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-04T18:42:31-03:00",
+  "gerado_em": "2026-11-04T21:39:54-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 16,
+      "itens": 19,
       "erro": null
     },
     {
@@ -394,6 +394,71 @@ window.DADOS = {
       "coletado_em": "2026-11-04T17:35:35-03:00"
     },
     {
+      "id": "2b93513d79546a4b",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "InspirAÇÕES: servidora tem pesquisa premiada por ampliar olhar sobre proteção às mulheres",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115900&pagina=1",
+      "resumo": "1º lugar em prêmio nacional do CNJ.\n\n\n \n\n\n\tGisele Porto Barros é servidora do Tribunal de Justiça de São Paulo e vencedora da categoria Produção Acadêmica da",
+      "publicado_em": "2026-11-04T12:00:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": true,
+      "score": 38,
+      "tags": [
+        "cade",
+        "premio"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "b7e8728e3c9aed7c",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF recebe especialistas da União Europeia que acompanharam eleições no Brasil",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-recebe-especialistas-da-uniao-europeia-que-acompanharam-eleicoes-no-brasil/",
+      "resumo": "No encontro, ministro Edson Fachin destacou a importância da observação internacional e o funcionamento das instituições brasileiras no processo eleitoral",
+      "publicado_em": "2026-11-04T20:24:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "d47f855166cfb6a2",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF começa a discutir critérios para definir crime de ato obsceno em locais públicos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-comeca-a-discutir-criterios-para-definir-crime-de-ato-obsceno-em-locais-publicos/",
+      "resumo": "Relator, ministro Luiz Fux, votou pela constitucionalidade da norma o Código Penal, mas ministros sugeriram delimitar melhor quais condutas podem ser punidas",
+      "publicado_em": "2026-11-04T20:13:15-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "ac4c021c5c9e2b9c",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "‘Diálogos com o Supremo’ debate transformações digitais na Justiça com pesquisadores franceses",
+      "link": "https://noticias.stf.jus.br/postsnoticias/dialogos-com-o-supremo-debate-transformacoes-digitais-na-justica-com-pesquisadores-franceses/",
+      "resumo": "Na abertura do evento, ministro Edson Fachin, presidente da Corte, afirmou que a incorporação de ferramentas digitais no Judiciário deve preservar a fundamentação das decisões, o contraditório e a ampla defesa",
+      "publicado_em": "2026-11-04T18:56:03-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
       "id": "b661bdd3ad0a98e0",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -457,6 +522,233 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-11-04T15:28:26-03:00"
+    },
+    {
+      "id": "0f2c25ff93755e36",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Debate aponta precarização do emprego em contratos na saúde entre governo e organizações sociais",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/debate-aponta-precarizacao-do-emprego-em-contratos-na-saude-entre-governo-e-organizacoes-sociais",
+      "resumo": "",
+      "publicado_em": "2026-11-04T21:06:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "94cab933271a584f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto que proíbe obsolescência programada de produtos vai à Câmara",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-que-proibe-obsolescencia-programada-de-produtos-vai-a-camara",
+      "resumo": "",
+      "publicado_em": "2026-11-04T20:55:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "3e3c9cf75f879475",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Política de enfrentamento à violência contra a mulher avança no Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/politica-de-enfrentamento-a-violencia-contra-a-mulher-avanca-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-04T20:47:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "09c0ce11dab82151",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto de lei prevê semana anual de conscientização sobre diabetes",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-de-lei-preve-semana-anual-de-conscientizacao-sobre-diabetes",
+      "resumo": "",
+      "publicado_em": "2026-11-04T20:35:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "4632f92cf5e80f5e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Estatuto da Criança e do Adolescente será atualizado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/estatuto-da-crianca-e-do-adolescente-sera-atualizado",
+      "resumo": "",
+      "publicado_em": "2026-11-04T20:07:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "034d2216180979f3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Uso de organizações sociais em contratos na saúde é questionado em audiência no Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/uso-de-organizacoes-sociais-em-contratos-na-saude-e-questionado-em-audiencia-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-04T19:57:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "a272cd2a521f6725",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eduardo Braga propõe cronograma para votar Orçamento até 17 de dezembro",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/eduardo-braga-propoe-cronograma-para-votar-orcamento-ate-17-de-dezembro",
+      "resumo": "",
+      "publicado_em": "2026-11-04T19:46:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "62332d6414e084f8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi vai analisar questões de Randolfe sobre situação de Flávio Bolsonaro",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/davi-vai-analisar-questoes-de-randolfe-sobre-situacao-de-flavio-bolsonaro",
+      "resumo": "",
+      "publicado_em": "2026-11-04T19:46:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "c621dc0927993274",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado permite que estados e municípios renegociem dívidas durante final de mandato",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-permite-que-estados-e-municipios-renegociem-dividas-durante-final-de-mandato",
+      "resumo": "",
+      "publicado_em": "2026-11-04T19:34:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "76cb42e12961c68e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CTFC aprova proibição da redução artificial da vida útil de produtos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/ctfc-aprova-proibicao-da-reducao-artificial-da-vida-util-de-produtos",
+      "resumo": "",
+      "publicado_em": "2026-11-04T19:25:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "ced4b51521017576",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto que regulamenta profissão de cuidador avança no Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-que-regulamenta-profissao-de-cuidador-avanca-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-04T19:23:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "f15344e554c6af34",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi Alcolumbre lamenta radicalismo e pede foco no país",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/davi-alcolumbre-lamenta-radicalismo-e-pede-foco-no-pais",
+      "resumo": "",
+      "publicado_em": "2026-11-04T19:07:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "85f884be061750de",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Redução da maioridade penal: Senado aguardará votação de PEC da Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/reducao-da-maioridade-penal-senado-aguardara-votacao-de-pec-da-camara",
+      "resumo": "",
+      "publicado_em": "2026-11-04T19:03:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "e8d17b9b3db21684",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Encontro de colecionadores em Brasília aborda período de JK no Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/encontro-de-colecionadores-em-brasilia-aborda-periodo-de-jk-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-04T18:46:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "3a0da557098f9429",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovação de protocolo pelo Senado permitirá ao Brasil sediar 'Expos' mundiais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/04/aprovacao-de-protocolo-pelo-senado-permitira-ao-brasil-sediar-expos-mundiais",
+      "resumo": "",
+      "publicado_em": "2026-11-04T18:39:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
     },
     {
       "id": "01ca7c9dc44884c5",
@@ -1032,6 +1324,22 @@ window.DADOS = {
       "coletado_em": "2026-11-04T18:42:31-03:00"
     },
     {
+      "id": "2398853aeb737070",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério da Saúde reforça vacinação e vigilância da mpox no Rio de Janeiro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-reforca-vacinacao-e-vigilancia-da-mpox-no-rio-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-11-04T17:50:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
       "id": "ccc2aba0d0a67898",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1294,6 +1602,20 @@ window.DADOS = {
       "coletado_em": "2026-11-04T15:28:26-03:00"
     },
     {
+      "id": "88e9cd7c79f2b816",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "PGFN esclarece regras sobre perdão de dívidas tributárias para Microempreendedor Individual",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/pgfn-esclarece-regras-sobre-perdao-de-dividas-tributarias-para-microempreendedor-individual",
+      "resumo": "",
+      "publicado_em": "2026-11-04T12:00:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
       "id": "f63d3896fd82ec68",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -1341,6 +1663,67 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "edbf00d549812aef",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Randolfe pede anulação de voto de Flávio na PEC da Segurança Pública",
+      "link": "https://www.congressoemfoco.com.br/noticia/131321/randolfe-pede-anulacao-de-voto-de-flavio-na-pec-da-seguranca-publica",
+      "resumo": "Questão de ordem contesta a participação remota de Flávio, que votou dos Estados Unidos sem ter informado oficialmente sua saída do país.",
+      "publicado_em": "2026-11-04T20:45:21-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "40a760e142aaeb34",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "André Esteves recebe prêmio empresarial do rei Felipe VI da Espanha",
+      "link": "https://www.congressoemfoco.com.br/noticia/131320/andre-esteves-recebe-premio-empresarial-do-rei-felipe-vi-da-espanha",
+      "resumo": "Primeiro brasileiro a conquistar a honraria, banqueiro foi reconhecido por sua atuação no setor financeiro e na integração ibero-americana.",
+      "publicado_em": "2026-11-04T20:27:14-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "b23ed10a48c5fdef",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projetos sobre topless reforçam proibição de ato obsceno, diz Mendonça",
+      "link": "https://www.congressoemfoco.com.br/noticia/131319/projetos-sobre-topless-reforcam-proibicao-de-ato-obsceno-diz-mendonca",
+      "resumo": "Mendonça sustentou que os parlamentares buscam criar exceções a uma proibição que consideram compatível com a Constituição.",
+      "publicado_em": "2026-11-04T19:53:41-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "e6a8e38975879440",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PSDB prepara estratégia eleitoral de 2028 com foco no Norte e Nordeste",
+      "link": "https://www.congressoemfoco.com.br/noticia/131318/psdb-prepara-estrategia-eleitoral-de-2028-com-foco-no-norte-e-nordeste",
+      "resumo": "Partido pretende aproveitar as vitórias de JHC e Vicentinho Júnior para ampliar suas bases municipais e recuperar espaço no eleitorado.",
+      "publicado_em": "2026-11-04T18:44:33-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
     },
     {
       "id": "4085ac823199e8e7",
@@ -1797,6 +2180,48 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-11-03T21:17:52-03:00"
+    },
+    {
+      "id": "095a54c58f50b462",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Debatedores divergem sobre projeto de lei para ampliar concorrência no mercado de gás natural",
+      "link": "https://www.camara.leg.br/noticias/1316160-debatedores-divergem-sobre-projeto-de-lei-para-ampliar-concorrencia-no-mercado-de-gas-natural",
+      "resumo": "",
+      "publicado_em": "2026-11-04T20:26:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "ad3cef5f64774bd1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Instalada comissão que vai analisar linhas de crédito para empresas atingidas por tarifaço",
+      "link": "https://www.camara.leg.br/noticias/1316107-instalada-comissao-que-vai-analisar-linhas-de-credito-para-empresas-atingidas-por-tarifaco",
+      "resumo": "",
+      "publicado_em": "2026-11-04T19:20:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
+    },
+    {
+      "id": "e3229658807d1fff",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Após sediar COP30, Brasil leva novas contribuições à COP31, na Turquia",
+      "link": "https://www.camara.leg.br/noticias/1316069-apos-sediar-cop30-brasil-leva-novas-contribuicoes-a-cop31-na-turquia",
+      "resumo": "",
+      "publicado_em": "2026-11-04T18:50:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
     },
     {
       "id": "332c99017dddd5ec",
@@ -2328,6 +2753,22 @@ window.DADOS = {
         "cade"
       ],
       "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "6c456dd35d5f1051",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "WiCade conecta estudantes aos desafios reais da defesa da concorrência",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/wicade-conecta-estudantes-aos-desafios-reais-da-defesa-da-concorrencia",
+      "resumo": "",
+      "publicado_em": "2026-11-04T12:00:00-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-11-04T21:39:54-03:00"
     },
     {
       "id": "f80a3f892b6a4a11",
@@ -5587,7 +6028,7 @@ window.DADOS = {
       "fonte_nome": "STF",
       "titulo": "Confira os destaques do Plenário Virtual desta semana",
       "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-desta-semana-6/",
-      "resumo": "Sessão virtual começou às 11h desta sexta-feira (30) e vai até as 23h59 de 10/11",
+      "resumo": "Sessão virtual começou às 11h desta sexta-feira (30) e vai até as 23h59 de 10 de novembro",
       "publicado_em": "2026-10-30T11:21:21-03:00",
       "dia": "2026-10-30",
       "data_estimada": false,
