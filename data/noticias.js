@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-05T15:32:00-03:00",
+  "gerado_em": "2026-11-05T17:52:16-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -302,6 +302,34 @@ window.DADOS = {
       "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
+      "id": "6855c15021fd67dc",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Novo Painel de Sustentabilidade para monitoramento de indicadores socioambientais está disponível na 2ª Região",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/novo-painel-de-sustentabilidade-para-monitoramento-de-indicadores-ambientais-esta-disponivel-na-2a-regiao",
+      "resumo": "",
+      "publicado_em": "2026-11-05T12:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "4c46fc65b4ef458a",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 sedia 49º Encontro do Colégio de Ouvidores da Justiça do Trabalho de 11 a 13 de novembro",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-sedia-49o-encontro-do-colegio-de-ouvidores-da-justica-do-trabalho-de-11-13-de",
+      "resumo": "TRT-15 sedia 49º Encontro do Colégio de Ouvidores da Justiça do Trabalho de 11 a 13 de novembro anasiqueira Qui, 05/11/2026 - 16:31 TRT-15 sedia 49º Encontro do Colégio de Ouvidores da Justiça do Trabalho de 11 a 13 de novembro Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região sediar",
+      "publicado_em": "2026-11-05T16:31:28-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
       "id": "1526e027dfe1a4fe",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -345,6 +373,64 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-05T15:32:00-03:00"
+    },
+    {
+      "id": "14295bf27fb9f7b2",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Cuidado com golpes em falsos leilões, telefonemas, mensagens e sites",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115698&pagina=1",
+      "resumo": "Criminosos utilizam nome do Tribunal e de outras instituições.\n \n\tQuadrilhas especializadas em golpes costumam utilizar o nome, logotipo e/ou informações de empresas, escritórios de advocacia,",
+      "publicado_em": "2026-11-05T12:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-10-09T20:43:26-03:00"
+    },
+    {
+      "id": "af1aac3a817769f9",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Tribunal do Júri em Leme condena homem pelo feminicídio da companheira",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115942&pagina=1",
+      "resumo": "Pena fixada em 24 anos de reclusão.\n \n\tTribunal do Júri realizado na Comarca de Leme condenou homem pelo feminicídio da companheira. A pena foi fixada",
+      "publicado_em": "2026-11-05T12:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "b400b0a0e30c887e",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115938&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, reuniu-se, ontem (4), no Gabinete da",
+      "publicado_em": "2026-11-05T12:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "ad053e86b6a6d154",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF fará audiência pública sobre aplicação da Lei de Alienação Parental",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-fara-audiencia-publica-sobre-aplicacao-da-lei-de-alienacao-parental/",
+      "resumo": "Convocado pelo ministro Flávio Dino, encontro ocorrerá em 14 de dezembro; interessados em participar devem se inscrever até 26 de novembro",
+      "publicado_em": "2026-11-05T16:23:09-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
     },
     {
       "id": "193b7eb3ddbf10ac",
@@ -411,6 +497,99 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-11-05T15:32:00-03:00"
+    },
+    {
+      "id": "e1a3fecb1825e961",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovado em comissão mista relatório de MP que amplia crédito à exportação",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/aprovado-em-comissao-mista-relatorio-de-mp-que-amplia-credito-a-exportacao",
+      "resumo": "",
+      "publicado_em": "2026-11-05T17:34:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "5fd50f953dd9df12",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Avança projeto que pune quem registra intimidade sexual de outra pessoa",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/avanca-projeto-que-pune-quem-registra-intimidade-sexual-de-outra-pessoa",
+      "resumo": "",
+      "publicado_em": "2026-11-05T17:33:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "ff6f274d4139862e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto traz novas regras para o acolhimento emergencial de crianças e adolescentes",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-traz-novas-regras-para-o-acolhimento-emergencial-de-criancas-e-adolescentes",
+      "resumo": "",
+      "publicado_em": "2026-11-05T17:04:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "novas regras"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "f967bdedeb6b4169",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão aprova ampliação de R$ 13,5 bilhões no crédito a exportadores",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/comissao-aprova-ampliacao-de-r-13-5-bilhoes-no-credito-a-exportadores",
+      "resumo": "",
+      "publicado_em": "2026-11-05T17:01:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "b91007ae5ca90b03",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Estatuto do Ribeirinho deve ter debate na Comissão de Meio Ambiente",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/estatuto-do-ribeirinho-deve-ter-debate-na-comissao-de-meio-ambiente",
+      "resumo": "",
+      "publicado_em": "2026-11-05T17:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "48997bd81012b640",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CSP analisa confisco de bens usados em crimes sexuais e tráfico de crianças",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/csp-analisa-confisco-de-bens-usados-em-crimes-sexuais-e-trafico-de-criancas",
+      "resumo": "",
+      "publicado_em": "2026-11-05T15:57:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
     },
     {
       "id": "fdf7bb749664405d",
@@ -672,6 +851,20 @@ window.DADOS = {
       "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
+      "id": "29f2258febae6c39",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Expedição leva serviços do INSS a comunidades de difícil acesso em Mato Grosso",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/expedicao-leva-servicos-do-inss-a-comunidades-de-dificil-acesso-em-mato-grosso",
+      "resumo": "",
+      "publicado_em": "2026-11-05T15:10:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
       "id": "5e7a3bfe87493519",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -730,6 +923,36 @@ window.DADOS = {
       "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
+      "id": "d4bac32323fc957e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Agricultores familiares e quilombolas têm autorizadas 716 novas moradias rurais pelo Novo PAC",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/agricultores-familiares-e-quilombolas-recebem-716-novas-moradias-rurais-pelo-novo-pac",
+      "resumo": "",
+      "publicado_em": "2026-11-05T11:48:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "6967cd776739b362",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Uso de melatonina sublingual NÃO é autorizado no Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/uso-de-melatonina-sublingual-nao-e-autorizado-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-11-05T11:30:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
       "id": "28ab95258f3e1ef0",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -775,6 +998,120 @@ window.DADOS = {
         "imposto"
       ],
       "coletado_em": "2026-11-05T15:32:00-03:00"
+    },
+    {
+      "id": "8f42966753b49781",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Dino nega suspender período de transição para fim da escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/131359/flavio-dino-nega-suspender-periodo-de-transicao-para-fim-da-escala-6x1",
+      "resumo": "Ministro convocou uma audiência de conciliação para a próxima terça-feira (10) a fim de ouvir as partes.",
+      "publicado_em": "2026-11-05T16:51:12-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "a547be9ba53d3e3a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara do Paraguai aprova processo de impeachment contra Santiago Peña",
+      "link": "https://www.congressoemfoco.com.br/noticia/131358/camara-do-paraguai-aprova-processo-de-impeachment-contra-santiago-pena",
+      "resumo": "A acusação aprovada por 78 deputados aponta favorecimento ao Ueno Bank e destinação irregular de recursos da previdência pública.",
+      "publicado_em": "2026-11-05T16:37:30-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "aprova",
+        "processo",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "10aadb7d880e33cd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio diz ao Times que Bolsonaro o viu sair com \"lágrimas nos olhos\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131356/flavio-diz-ao-times-que-bolsonaro-o-viu-sair-com-lagrimas-nos-olhos",
+      "resumo": "Senado disse que Jair Bolsonaro o chamou de lado e fez um alerta sobre o que poderia acontecer com o filho após apreensão de passaportes.",
+      "publicado_em": "2026-11-05T16:18:44-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreensao"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "38f07c21425777b1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Devedor contumaz: Quando inadimplência tributária não significa má-fé",
+      "link": "https://www.congressoemfoco.com.br/artigo/131355/devedor-contumaz-quando-inadimplencia-tributaria-nao-significa-ma-fe",
+      "resumo": "Projeto aprovado pela Alerj estabelece critérios para identificar contribuintes que deixam de pagar tributos de forma reiterada e injustificada.",
+      "publicado_em": "2026-11-05T16:09:10-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "adi",
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "f3873ecd5ae631cd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Mestre dos Magos\" recebe moção de aplausos na Câmara de Uberlândia",
+      "link": "https://www.congressoemfoco.com.br/noticia/131354/mestre-dos-magos-recebe-mocao-de-aplausos-na-camara-de-uberlandia",
+      "resumo": "Aposentado ficou conhecido após se fantasiar como personagem de Caverna do Dragão para acompanhar a neta em evento de cultura pop.",
+      "publicado_em": "2026-11-05T16:01:33-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "304baa8195635ced",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Como cheguei até aqui, levarei ao túmulo\", diz Flávio sobre EUA",
+      "link": "https://www.congressoemfoco.com.br/noticia/131353/como-cheguei-ate-aqui-levarei-ao-tumulo--diz-flavio-sobre-eua",
+      "resumo": "Segundo reportagem, senador negou ter tido ajuda. \"Não houve ajuda de absolutamente ninguém, de nenhum governo\", disse.",
+      "publicado_em": "2026-11-05T15:47:29-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "8691bd51dcdfb5eb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Democratizar o fomento à cultura",
+      "link": "https://www.congressoemfoco.com.br/artigo/131352/democratizar-o-fomento-a-cultura",
+      "resumo": "Política Nacional Aldir Blanc amplia a continuidade do financiamento cultural, mas a distribuição efetiva dos recursos depende da aplicação do novo marco regulatório, especialmente nos municípios com menor estrutura administrativa.",
+      "publicado_em": "2026-11-05T15:22:54-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
     },
     {
       "id": "6061717dfd00fc14",
@@ -1144,6 +1481,120 @@ window.DADOS = {
       "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
+      "id": "5a33870d3dc86ad6",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Estão abertas as inscrições para o 1º Ciclo de Capacitação em Segurança Cibernética",
+      "link": "https://www.cnj.jus.br/estao-abertas-as-inscricoes-para-o-1o-ciclo-de-capacitacao-em-seguranca-cibernetica/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ), por meio do Programa Justiça [+Segura], promove, entre 12 e 13 de novembro, o 1º Ciclo de Capacitação em Segurança Cibernética. A formação é direcionada a magistradas, magistrados, servidoras e servidores de todos os ramos da Justiça brasileira e apresenta conce",
+      "publicado_em": "2026-11-05T12:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "23d298377fd2e6be",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Aplicativo gratuito de tribunal do Paraná apoia a organização da guarda compartilhada",
+      "link": "https://www.cnj.jus.br/aplicativo-gratuito-de-tribunal-do-parana-apoia-a-organizacao-da-guarda-compartilhada/",
+      "resumo": "Para facilitar a comunicação entre pais, mães e responsáveis legais no exercício da guarda compartilhada, o Tribunal de Justiça do Paraná (TJPR) lançou na quarta-feira (4/11) o aplicativo Guarda no Celular. Gratuita, a ferramenta reúne informações sobre crianças e adolescentes, compromissos, plano d",
+      "publicado_em": "2026-11-05T12:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "1208537eb2f2add9",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova criação de programa nacional de apoio à amamentação em emergências",
+      "link": "https://www.camara.leg.br/noticias/1316313-comissao-aprova-criacao-de-programa-nacional-de-apoio-a-amamentacao-em-emergencias",
+      "resumo": "",
+      "publicado_em": "2026-11-05T17:46:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "da7b713f2231bf09",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova criação de programa de atendimento domiciliar de saúde para idosos pelo SUS",
+      "link": "https://www.camara.leg.br/noticias/1316336-comissao-aprova-criacao-de-programa-de-atendimento-domiciliar-de-saude-para-idosos-pelo-sus",
+      "resumo": "",
+      "publicado_em": "2026-11-05T17:38:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "7ea8413ca8479d5f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova proposta que prevê restrições a homenagens em bens públicos",
+      "link": "https://www.camara.leg.br/noticias/1316491-comissao-aprova-proposta-que-preve-restricoes-a-homenagens-em-bens-publicos",
+      "resumo": "",
+      "publicado_em": "2026-11-05T17:12:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "3e9fba14d7146d4c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão mista aprova terceira edição de plano para auxiliar exportadores atingidos pelo tarifaço norte-americano",
+      "link": "https://www.camara.leg.br/noticias/1316545-comissao-mista-aprova-terceira-edicao-de-plano-para-auxiliar-exportadores-atingidos-pelo-tarifaco-norte-americano",
+      "resumo": "",
+      "publicado_em": "2026-11-05T16:18:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "410658392cb34292",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que cria programa nacional de defesa pessoal para mulheres",
+      "link": "https://www.camara.leg.br/noticias/1316287-comissao-aprova-projeto-que-cria-programa-nacional-de-defesa-pessoal-para-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-11-05T15:50:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-05T15:32:00-03:00"
+    },
+    {
       "id": "0f0de55872f5c55a",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1173,22 +1624,6 @@ window.DADOS = {
       "tags": [
         "aprova",
         "acao"
-      ],
-      "coletado_em": "2026-11-05T15:32:00-03:00"
-    },
-    {
-      "id": "410658392cb34292",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Comissão aprova projeto que cria programa nacional de defesa pessoal para mulheres",
-      "link": "https://www.camara.leg.br/noticias/1316287-comissao-aprova-projeto-que-cria-programa-nacional-de-defesa-pessoal-para-mulheres",
-      "resumo": "",
-      "publicado_em": "2026-11-05T14:56:00-03:00",
-      "dia": "2026-11-05",
-      "data_estimada": false,
-      "score": 48,
-      "tags": [
-        "aprova"
       ],
       "coletado_em": "2026-11-05T15:32:00-03:00"
     },
@@ -1343,6 +1778,23 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-05T15:32:00-03:00"
+    },
+    {
+      "id": "f6d21cf2f1b6cef8",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Representantes do Cade participam do 32º Seminário Internacional de Defesa da Concorrência",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/representantes-do-cade-participam-do-32o-seminario-internacional-de-defesa-da-concorrencia",
+      "resumo": "",
+      "publicado_em": "2026-11-05T12:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [
+        "cade",
+        "seminario"
+      ],
+      "coletado_em": "2026-11-05T17:52:16-03:00"
     },
     {
       "id": "5332e3e35ec80d6b",
@@ -36665,20 +37117,6 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-09T16:07:48-03:00"
-    },
-    {
-      "id": "14295bf27fb9f7b2",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Cuidado com golpes em falsos leilões, telefonemas, mensagens e sites",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115698&pagina=1",
-      "resumo": "Criminosos utilizam nome do Tribunal e de outras instituições.\n \n\tQuadrilhas especializadas em golpes costumam utilizar o nome, logotipo e/ou informações de empresas, escritórios de advocacia,",
-      "publicado_em": "2026-10-09T12:00:00-03:00",
-      "dia": "2026-10-09",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-10-09T20:43:26-03:00"
     },
     {
       "id": "e4abc78fab855f1c",
