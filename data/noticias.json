@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-06T17:08:16-03:00",
+  "gerado_em": "2026-11-06T18:15:18-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -263,6 +263,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-06T14:48:25-03:00"
+    },
+    {
+      "id": "4965317d0bcfff46",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Confira os próximos eventos e palestras da Escola Judicial da 2ª Região",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/confira-os-proximos-eventos-e-palestras-da-escola-judicial-da-2a-regiao",
+      "resumo": "",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
       "id": "72298e2358755825",
@@ -375,6 +391,22 @@
       "coletado_em": "2026-11-06T17:08:16-03:00"
     },
     {
+      "id": "315a118bd3544ab5",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Caso Master: STF mantém prisão preventiva de Fabiano Zettel",
+      "link": "https://noticias.stf.jus.br/postsnoticias/caso-master-stf-mantem-prisao-preventiva-de-fabiano-zettel/",
+      "resumo": "Ministro Edson Fachin considerou que ainda estão presentes os riscos à ordem pública, à investigação e à aplicação da lei penal",
+      "publicado_em": "2026-11-06T18:08:25-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T18:15:18-03:00"
+    },
+    {
       "id": "c5474b7430337dc5",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -464,6 +496,87 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-06T14:48:25-03:00"
+    },
+    {
+      "id": "a52be33741ea09e5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Cinema Acessível Kids reuniu estudantes em cinema de Brasília",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/cinema-acessivel-kids-reuniu-estudantes-em-cinema-de-brasilia",
+      "resumo": "",
+      "publicado_em": "2026-11-06T18:15:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T18:15:18-03:00"
+    },
+    {
+      "id": "a6f52f43a08ec2d8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova acordo de cooperação espacial entre Brasil e Venezuela",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-aprova-acordo-de-cooperacao-espacial-entre-brasil-e-venezuela",
+      "resumo": "",
+      "publicado_em": "2026-11-06T17:34:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T18:15:18-03:00"
+    },
+    {
+      "id": "05be6e270cbaeea8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Proibição de bloqueio de recursos do Fust está na pauta do Plenário de quarta",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/proibicao-de-bloqueio-de-recursos-do-fust-esta-na-pauta-do-plenario-de-quarta",
+      "resumo": "",
+      "publicado_em": "2026-11-06T17:29:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-06T18:15:18-03:00"
+    },
+    {
+      "id": "cd6ea07439bdef26",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fiscalização do setor de combustíveis está na pauta do Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/fiscalizacao-do-setor-de-combustiveis-esta-na-pauta-do-plenario",
+      "resumo": "",
+      "publicado_em": "2026-11-06T17:16:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T18:15:18-03:00"
+    },
+    {
+      "id": "16b198ece793576f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovado acordo na área de educação entre Brasil e Croácia",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/aprovado-acordo-na-area-de-educacao-entre-brasil-e-croacia",
+      "resumo": "",
+      "publicado_em": "2026-11-06T17:05:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T18:15:18-03:00"
     },
     {
       "id": "3334b909609d490b",
@@ -816,7 +929,7 @@
       "id": "3ab636b6ea190ffc",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Lula sanciona lei que institui o exame de avaliação da formação médica. Acompanhe",
+      "titulo": "Lula sanciona lei que institui o exame de avaliação da formação médica",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/lula-sanciona-lei-que-institui-o-enamed-exame-de-avaliacao-da-formacao-medica-acompanhe",
       "resumo": "",
       "publicado_em": "2026-11-06T16:27:00-03:00",
@@ -1136,6 +1249,54 @@
         "acao"
       ],
       "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "3dd57fb2032d4889",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Grupo de Trabalho de Tokenização da CVM recebe 11 propostas de pilotos para testes",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/grupo-de-trabalho-de-tokenizacao-da-cvm-recebe-11-propostas-de-pilotos-para-testes",
+      "resumo": "",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T18:15:18-03:00"
+    },
+    {
+      "id": "712b1375adafc1e2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula recebe mensagem do Papa Leão XIV e reforça convite ao Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/131395/lula-recebe-mensagem-do-papa-leao-xiv-e-reforca-convite-ao-brasil",
+      "resumo": "Pontífice desejou paz e unidade aos brasileiros durante passagem pelo espaço aéreo nacional, a caminho de visita ao Uruguai.",
+      "publicado_em": "2026-11-06T16:59:01-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-11-06T18:15:18-03:00"
+    },
+    {
+      "id": "5da5e48d490758ba",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O Parlamento pode muito, mas não pode tudo",
+      "link": "https://www.congressoemfoco.com.br/artigo/131394/o-parlamento-pode-muito-mas-nao-pode-tudo",
+      "resumo": "Apesar do avanço de parlamentares alinhados ao bolsonarismo nas eleições de 2026, capacidade de articulação do presidente e dinâmica das negociações legislativas podem limitar a força da oposição no novo Congresso.",
+      "publicado_em": "2026-11-06T16:40:16-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T18:15:18-03:00"
     },
     {
       "id": "484d8352ac6964e3",
@@ -1520,7 +1681,7 @@
       "fonte_nome": "CNJ",
       "titulo": "CNJ firma acordos com Fiocruz e USP para fortalecer o enfrentamento ao feminicídio",
       "link": "https://www.cnj.jus.br/cnj-firma-acordos-com-fiocruz-e-usp-para-fortalecer-o-enfrentamento-ao-feminicidio/",
-      "resumo": "Em um movimento histórico para o aprimoramento da Política Judiciária Nacional de Enfrentamento à Violência contra as Mulheres (Resolução CNJ nº 254/2018), o Conselho Nacional de Justiça (CNJ) assinará dois importantes Acordos de Cooperação Técnica (ACTs) que fortalecem o combate ao feminicídio no p",
+      "resumo": "Em um movimento histórico para o aprimoramento da Política Judiciária Nacional de Enfrentamento à Violência contra as Mulheres (Resolução CNJ n. 254/2018), o Conselho Nacional de Justiça (CNJ) assinará dois importantes Acordos de Cooperação Técnica (ACTs) que fortalecem o combate ao feminicídio no p",
       "publicado_em": "2026-11-06T12:00:00-03:00",
       "dia": "2026-11-06",
       "data_estimada": true,
@@ -1548,6 +1709,74 @@
       "coletado_em": "2026-11-06T17:08:16-03:00"
     },
     {
+      "id": "a6a1a8e0dcd2a5c2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Saúde suplementar: ferramentas de conciliação envolvem inovação e diálogo",
+      "link": "https://www.cnj.jus.br/saude-suplementar-ferramentas-de-conciliacao-envolvem-inovacao-e-dialogo/",
+      "resumo": "A desjudicialização da saúde representa o fortalecimento de ferramentas que possam possibilitar a negociação, o diálogo e o acordo, e não o afastamento da Justiça. Para especialistas presentes no V Congresso do Fórum Nacional do Judiciário para a Saúde (Fonajus) nesta sexta-feira (6/11), canais de r",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T18:15:18-03:00"
+    },
+    {
+      "id": "88e0752aecc5e6ab",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Práticas para garantir direito à saúde são reconhecidas com Prêmio Justiça e Saúde",
+      "link": "https://www.cnj.jus.br/praticas-para-garantir-direito-a-saude-sao-reconhecidas-com-premio-justica-e-saude/",
+      "resumo": "Os vencedores do 4º Prêmio Justiça e Saúde foram reconhecidos em solenidade nesta sexta-feira (6/11), realizada no encerramento do V Congresso do Fórum Nacional do Judiciário para a Saúde (Fonajus), no Rio de Janeiro. Promovida pelo Conselho Nacional de Justiça (CNJ), a premiação reconheceu boas prá",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-11-06T18:15:18-03:00"
+    },
+    {
+      "id": "210647a093a02188",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova proibição de posse em cargo público para condenados por crimes contra vulneráveis",
+      "link": "https://www.camara.leg.br/noticias/1316835-comissao-aprova-proibicao-de-posse-em-cargo-publico-para-condenados-por-crimes-contra-vulneraveis",
+      "resumo": "",
+      "publicado_em": "2026-11-06T17:40:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [
+        "condenado",
+        "aprova",
+        "posse"
+      ],
+      "coletado_em": "2026-11-06T18:15:18-03:00"
+    },
+    {
+      "id": "aecc3b5362073054",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova política nacional para celíacos",
+      "link": "https://www.camara.leg.br/noticias/1316839-comissao-aprova-politica-nacional-para-celiacos",
+      "resumo": "",
+      "publicado_em": "2026-11-06T17:17:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
       "id": "56bf9bb3e223fc59",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1559,22 +1788,6 @@
       "data_estimada": false,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-11-06T17:08:16-03:00"
-    },
-    {
-      "id": "aecc3b5362073054",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Comissão aprova política nacional para celíacos",
-      "link": "https://www.camara.leg.br/noticias/1316839-comissao-aprova-politica-nacional-para-celiacos",
-      "resumo": "",
-      "publicado_em": "2026-11-06T16:17:00-03:00",
-      "dia": "2026-11-06",
-      "data_estimada": false,
-      "score": 48,
-      "tags": [
-        "aprova"
-      ],
       "coletado_em": "2026-11-06T17:08:16-03:00"
     },
     {
@@ -1817,6 +2030,22 @@
       "coletado_em": "2026-11-06T14:48:25-03:00"
     },
     {
+      "id": "460483d200d1eaea",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "WiCade: UFMG, IDP, Insper e USP (equipe B) disputam final neste sábado",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/wicade-ufmg-idp-insper-e-usp-equipe-b-disputam-final-neste-sabado",
+      "resumo": "",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-11-06T18:15:18-03:00"
+    },
+    {
       "id": "df3b74c2b4e98d7c",
       "fonte_id": "anpd",
       "fonte_nome": "ANPD",
@@ -1863,22 +2092,6 @@
         "premio"
       ],
       "coletado_em": "2026-11-06T14:48:25-03:00"
-    },
-    {
-      "id": "4965317d0bcfff46",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Confira os próximos eventos e palestras da Escola Judicial da 2ª Região",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/confira-os-proximos-eventos-e-palestras-da-escola-judicial-da-2a-regiao",
-      "resumo": "",
-      "publicado_em": "2026-11-05T12:00:00-03:00",
-      "dia": "2026-11-05",
-      "data_estimada": true,
-      "score": 48,
-      "tags": [
-        "judicial"
-      ],
-      "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
       "id": "c1750b75eba82523",
