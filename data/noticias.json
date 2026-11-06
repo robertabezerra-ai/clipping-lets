@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-05T18:45:31-03:00",
+  "gerado_em": "2026-11-05T21:37:45-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -417,6 +417,43 @@
       "coletado_em": "2026-11-05T17:52:16-03:00"
     },
     {
+      "id": "f9aa4b484f67e30d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF rejeita recurso de ex-prefeito de Duque de Caxias (RJ) condenado por crime ambiental",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-recurso-de-ex-prefeito-de-duque-de-caxias-rj-condenado-por-crime-ambiental/",
+      "resumo": "Com a rejeição de embargos infringentes, fica mantida a condenação de Washington Reis",
+      "publicado_em": "2026-11-05T20:42:22-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 74,
+      "tags": [
+        "condenado",
+        "condenacao",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
+    },
+    {
+      "id": "006d6cf0282ae0af",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF suspende julgamento sobre limites para atuação do TCU na solução consensual de conflitos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-julgamento-sobre-limites-para-atuacao-do-tcu-na-solucao-consensual-de-conflitos/",
+      "resumo": "Pedido de vista interrompeu discussão sobre mecanismos de conciliação na administração pública",
+      "publicado_em": "2026-11-05T19:52:50-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
+    },
+    {
       "id": "049a2265ca6b1952",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -532,6 +569,22 @@
       "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
+      "id": "de78c9cc0cf5ffe5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado se prepara posse dos novos parlamentares",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-se-prepara-posse-dos-novos-parlamentares",
+      "resumo": "",
+      "publicado_em": "2026-11-05T19:05:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
+    },
+    {
       "id": "bf8f0b3dacfdb297",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
@@ -546,6 +599,20 @@
         "comemora"
       ],
       "coletado_em": "2026-11-05T18:45:31-03:00"
+    },
+    {
+      "id": "154eb68c9be8ebbc",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Em sessão em Plenário, Paim relaciona paz à vitória democrata nos EUA",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/05/em-sessao-em-plenario-paim-relaciona-paz-a-vitoria-democrata-nos-eua",
+      "resumo": "",
+      "publicado_em": "2026-11-05T18:36:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
     },
     {
       "id": "6d27ddb6911fc4e4",
@@ -917,6 +984,36 @@
       "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
+      "id": "dd1598619b1b6f30",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enem 2026 amplia locais de aplicação do exame",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/enem-2026-amplia-locais-de-aplicacao-do-exame",
+      "resumo": "",
+      "publicado_em": "2026-11-05T19:01:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
+    },
+    {
+      "id": "08a7a68f37b033be",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "INSS orienta profissionais da assistência social do RS sobre acesso ao BPC",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/inss-orienta-profissionais-da-assistencia-social-do-rio-grande-do-sul-sobre-acesso-ao-beneficio-de-prestacao-continuada",
+      "resumo": "",
+      "publicado_em": "2026-11-05T18:40:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
+    },
+    {
       "id": "fbd422b2f4a428cd",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1080,6 +1177,50 @@
         "imposto"
       ],
       "coletado_em": "2026-11-05T15:32:00-03:00"
+    },
+    {
+      "id": "d201b449fe77f105",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula ironiza fuga de Flávio aos EUA: \"Pé frio, derrotou o Trump\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131365/lula-ironiza-fuga-de-flavio-aos-eua--pe-frio-derrotou-o-trump",
+      "resumo": "Presidente fez referência à bandeira americana na campanha de Flávio e à busca do senador por proteção nos Estados Unidos após a derrota.",
+      "publicado_em": "2026-11-05T20:51:56-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
+    },
+    {
+      "id": "256e3c972a21d130",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula elogia mobilização e propõe levar \"Exército do Lula\" pelo mundo",
+      "link": "https://www.congressoemfoco.com.br/noticia/131364/lula-elogia-mobilizacao-e-propoe-levar-exercito-do-lula-pelo-mundo",
+      "resumo": "Presidente elogiou a atuação dos apoiadores no segundo turno e defendeu a continuidade da mobilização digital durante seu novo mandato.",
+      "publicado_em": "2026-11-05T20:09:12-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
+    },
+    {
+      "id": "13f28b92ce781f39",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Resultado da eleição foi uma \"lição para o mundo\", diz Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/131363/resultado-da-eleicao-foi-uma-licao-para-o-mundo--diz-lula",
+      "resumo": "Lula destacou a repercussão internacional da vitória sobre Flávio Bolsonaro e citou derrotas políticas de Trump e Netanyahu.",
+      "publicado_em": "2026-11-05T19:54:47-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
     },
     {
       "id": "c1288894129efbaa",
@@ -1641,6 +1782,89 @@
       "coletado_em": "2026-11-05T17:52:16-03:00"
     },
     {
+      "id": "a15e662017daf353",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Estados avançam na construção de planos para adequar unidades prisionais",
+      "link": "https://www.cnj.jus.br/estados-avancam-na-construcao-de-planos-para-adequar-unidades-prisionais/",
+      "resumo": "Com o Pena Justa Reforma, as condições de cada unidade prisional deixaram de ser tema de incidência exclusiva do Poder Executivo para envolver uma rede de atores que estão contribuindo para espaços mais padronizados e seguros. Essa mobilização atende à decisão do Supremo Tribunal Federal que determi",
+      "publicado_em": "2026-11-05T12:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
+    },
+    {
+      "id": "9545c958eed284a2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Conciliação no TRT-PB põe fim a processo de 12 anos sobre acidente de trabalho fatal em João Pessoa",
+      "link": "https://www.cnj.jus.br/conciliacao-no-trt-pb-poe-fim-a-processo-de-12-anos-sobre-acidente-de-trabalho-fatal-em-joao-pessoa/",
+      "resumo": "A família do trabalhador Rosivaldo Arlindo da Silva fechou um acordo na Justiça do Trabalho em novembro de 2026, encerrando um processo que tramitava há 12 anos. Ele morreu em março de 2014 após o desabamento de uma barreira no canteiro de obras de um edifício residencial no bairro do",
+      "publicado_em": "2026-11-05T12:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
+    },
+    {
+      "id": "c7f1fe62c51f1d1c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ destaca resultados de Goiás e mobiliza Judiciário para reduzir processos pendentes do Tribunal do Júri",
+      "link": "https://www.cnj.jus.br/cnj-destaca-resultados-de-goias-e-mobiliza-judiciario-para-reduzir-processos-pendentes-do-tribunal-do-juri/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) abriu nesta quinta-feira (05/11), o Mês Nacional do Júri 2026, em cerimônia realizada no Plenário Dr. Wanderley de Medeiros, no prédio dos Tribunais do Júri, em Goiânia, com a participação dos conselheiros Sílvio Amorim e Carlos Vinícius Alves Ribeiro, além do pr",
+      "publicado_em": "2026-11-05T12:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
+    },
+    {
+      "id": "7f0bcfd42a03232e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Judicialização em saúde: novas ferramentas dão acesso a informações sobre casos de saúde",
+      "link": "https://www.cnj.jus.br/judicializacao-em-saude-novas-ferramentas-dao-acesso-a-informacoes-sobre-casos-de-saude/",
+      "resumo": "As informações técnicas em saúde utilizadas como subsídios para pesquisas e para a tomada de decisão em ações judiciais podem ser pesquisadas com uma nova ferramenta de inteligência artificial, o EvidêncIAJud. Na primeira fase do projeto, a plataforma poderá ser utilizada pelos Núcleos de Apoio Técn",
+      "publicado_em": "2026-11-05T12:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "decisao",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
+    },
+    {
+      "id": "0c8e93e5089703dc",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria portal para eleitor consultar posições dos partidos políticos",
+      "link": "https://www.camara.leg.br/noticias/1311454-projeto-cria-portal-para-eleitor-consultar-posicoes-dos-partidos-politicos",
+      "resumo": "",
+      "publicado_em": "2026-11-05T19:05:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
+    },
+    {
       "id": "1208537eb2f2add9",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1940,6 +2164,20 @@
         "acao"
       ],
       "coletado_em": "2026-11-05T15:32:00-03:00"
+    },
+    {
+      "id": "fdcadfae0c08b34e",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD conclui 1ª edição de Sandbox de IA e anuncia 2ª edição voltada a jogos digitais para crianças e adolescentes",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-conclui-1a-edicao-de-sandbox-de-ia-e-anuncia-2a-edicao-voltada-a-jogos-digitais-para-criancas-e-adolescentes",
+      "resumo": "Balanço final consolida aprendizados a partir de três soluções de mercado, abrindo caminho para o 2º Sandbox, que focará no uso seguro da tecnologia pelo público infantojuvenil",
+      "publicado_em": "2026-11-05T21:32:58-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-05T21:37:45-03:00"
     },
     {
       "id": "6f523a9d32ce2c47",
