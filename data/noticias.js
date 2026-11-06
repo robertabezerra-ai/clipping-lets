@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-06T18:15:18-03:00",
+  "gerado_em": "2026-11-06T20:52:53-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 18,
       "erro": null
     },
     {
@@ -281,6 +281,22 @@ window.DADOS = {
       "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
+      "id": "a24db5309774c437",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Semana Nacional da Conciliação: TRT-15 realiza audiência sobre cumprimento do acordo do Caso Shell/Basf",
+      "link": "https://trt15.jus.br/noticia/2026/semana-nacional-da-conciliacao-trt-15-realiza-audiencia-sobre-cumprimento-do-acordo-do",
+      "resumo": "Semana Nacional da Conciliação: TRT-15 realiza audiência sobre cumprimento do acordo do Caso Shell/Basf anasiqueira Sex, 06/11/2026 - 19:28 Semana Nacional da Conciliação: TRT-15 realiza audiência sobre cumprimento do acordo do Caso Shell/Basf Conteúdo da Notícia Uma audiência de conciliação presidi",
+      "publicado_em": "2026-11-06T19:28:34-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
+    },
+    {
       "id": "72298e2358755825",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -391,6 +407,86 @@ window.DADOS = {
       "coletado_em": "2026-11-06T17:08:16-03:00"
     },
     {
+      "id": "6e55858e1d52c529",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Com presença da rainha da Suécia, Centro de Atendimento Integrado a Crianças e Adolescentes é inaugurado em São Caetano do Sul",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115960&pagina=1",
+      "resumo": "Parceria entre Childhood Brasil, Prefeitura e TJSP.\n \n\tAcolher, proteger e assegurar que crianças e adolescentes vítimas ou testemunhas de violência encontrem atendimento adequado. Com esse",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
+    },
+    {
+      "id": "4715f75a0cf1b631",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ministra Cármen Lúcia critica baixa representação feminina na política",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ministra-carmen-lucia-critica-baixa-representacao-feminina-na-politica/",
+      "resumo": "Em fórum sobre violência doméstica, ela questionou a distância entre o número de eleitoras e de eleitas e criticou discursos que defendem a retirada do direito de voto das mulheres",
+      "publicado_em": "2026-11-06T20:29:44-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
+    },
+    {
+      "id": "96f19478640227c0",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "CESTF reabre consulta para debater conclusões preliminares sobre sistema de precedentes e autonomia federativa",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cestf-reabre-consulta-para-debater-conclusoes-preliminares-sobre-sistema-de-precedentes-e-autonomia-federativa/",
+      "resumo": "Nova fase dos editais submete à análise conclusões preliminares dos grupos de trabalho; instituições podem enviar contribuições até 30 de novembro",
+      "publicado_em": "2026-11-06T20:03:59-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "liminar",
+        "precedente"
+      ],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
+    },
+    {
+      "id": "9e4a88e67bc652c2",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF e do CNJ participa da instalação do Programa Destrava no Rio Grande do Sul",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-e-do-cnj-participa-da-instalacao-do-programa-destrava-no-rio-grande-do-sul/",
+      "resumo": "Iniciativa busca viabilizar a retomada de obras paralisadas; Comitê Estadual do Destrava reunirá 18 órgãos e entidades",
+      "publicado_em": "2026-11-06T18:56:35-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
+    },
+    {
+      "id": "350491a68fab28af",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF recebe título de doutor honoris causa da Unisinos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-recebe-titulo-de-doutor-honoris-causa-da-unisinos/",
+      "resumo": "Homenagem reconhece a trajetória acadêmica e jurídica do ministro Edson Fachin e as contribuições ao Direito e à defesa da democracia",
+      "publicado_em": "2026-11-06T18:28:12-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "cade",
+        "homenagem"
+      ],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
+    },
+    {
       "id": "315a118bd3544ab5",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -496,6 +592,62 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-06T14:48:25-03:00"
+    },
+    {
+      "id": "659e469889c5f58e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado participará da COP 31, que começa nesta segunda-feira",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-participara-da-cop-31-que-comeca-segunda-feira-na-turquia",
+      "resumo": "",
+      "publicado_em": "2026-11-06T18:45:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
+    },
+    {
+      "id": "55f3745d328b3d5d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Vai à CAE a isenção de tarifa de energia para usinas de biomassa de casca de arroz",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cra-aprova-isencao-de-tarifa-de-energia-para-usinas-de-biomassa-de-casca-de-arroz",
+      "resumo": "",
+      "publicado_em": "2026-11-06T18:38:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
+    },
+    {
+      "id": "c03ff341718ab761",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado participa da 72ª edição da Feira do Livro de Porto Alegre",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/senado-participa-da-72a-edicao-da-feira-do-livro-de-porto-alegre",
+      "resumo": "",
+      "publicado_em": "2026-11-06T18:31:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
+    },
+    {
+      "id": "4e3f9409aa24f4ff",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Plenário celebra 80 anos da Secretaria-Geral da Mesa na próxima terça",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/plenario-celebra-80-anos-da-secretaria-geral-da-mesa-na-proxima-terca",
+      "resumo": "",
+      "publicado_em": "2026-11-06T18:20:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
     },
     {
       "id": "a52be33741ea09e5",
@@ -924,6 +1076,22 @@ window.DADOS = {
         "apreende"
       ],
       "coletado_em": "2026-11-06T14:48:25-03:00"
+    },
+    {
+      "id": "f4807e92e05689d7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Lula sanciona lei que torna a avaliação da formação médica requisito para o exercício da profissão",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/lula-sanciona-lei-que-torna-a-avaliacao-da-formacao-medica-requisito-para-o-exercicio-da-profissao",
+      "resumo": "",
+      "publicado_em": "2026-11-06T19:12:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
     },
     {
       "id": "3ab636b6ea190ffc",
@@ -1741,6 +1909,56 @@ window.DADOS = {
         "premio"
       ],
       "coletado_em": "2026-11-06T18:15:18-03:00"
+    },
+    {
+      "id": "113034462be46ae2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Corregedor nacional de Justiça anuncia programa Conexão Extrajudicial",
+      "link": "https://www.cnj.jus.br/corregedor-nacional-de-justica-anuncia-programa-conexao-extrajudicial/",
+      "resumo": "O corregedor nacional de Justiça, ministro Benedito Gonçalves, participou nesta sexta-feira (6/11) da programação do último dia do 98º Encontro Nacional de Corregedoras e Corregedores da Justiça do Brasil (Encoge), em Maceió. Em participação online, ele anunciou a criação do programa Conexão Extraju",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
+    },
+    {
+      "id": "049b3c58013ac6ba",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ aponta perspectivas para centros de inteligência em encontro no Paraná",
+      "link": "https://www.cnj.jus.br/cnj-aponta-perspectivas-para-centros-de-inteligencia-em-encontro-no-parana/",
+      "resumo": "A presidente do Laboratório de Inovação, Inteligência e Objetivos de Desenvolvimento Sustentável (LIODS), conselheira do Conselho Nacional de Justiça (CNJ) Andréa Cunha Esmeraldo, conduziu o painel inaugural do V Encontro Nacional dos Centros de Inteligência do Poder Judiciário, em Foz do Iguaçu (PR",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
+    },
+    {
+      "id": "dde7159fafbbb36f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Nova lei condiciona registro de médicos à aprovação em exame",
+      "link": "https://www.camara.leg.br/noticias/1316981-nova-lei-condiciona-registro-de-medicos-a-aprovacao-em-exame",
+      "resumo": "",
+      "publicado_em": "2026-11-06T18:42:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T20:52:53-03:00"
     },
     {
       "id": "210647a093a02188",
