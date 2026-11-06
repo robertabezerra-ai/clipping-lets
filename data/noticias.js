@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-06T14:48:25-03:00",
+  "gerado_em": "2026-11-06T17:08:16-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -358,6 +358,40 @@ window.DADOS = {
       "coletado_em": "2026-11-06T14:48:25-03:00"
     },
     {
+      "id": "f96a7ac9b1835704",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Comissão Regional de Soluções Fundiárias conquista acordos para compra e desocupação de imóveis",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115946&pagina=1",
+      "resumo": "Resolução pacífica para litígios fundiários.\n \n\tNesta semana, a Comissão Regional de Soluções Fundiárias do Tribunal de Justiça de São Paulo conquistou três acordos para compra",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "resolucao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "c5474b7430337dc5",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira os destaques da pauta do Plenário do STF para novembro",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-da-pauta-do-plenario-do-stf-para-novembro/",
+      "resumo": "Julgamentos previstos envolvem temas como anistia a partidos políticos, crime patrimonial contra mulheres, nepotismo e emendas impositivas",
+      "publicado_em": "2026-11-06T16:18:55-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
       "id": "67724d54ce617f96",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -430,6 +464,68 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-06T14:48:25-03:00"
+    },
+    {
+      "id": "3334b909609d490b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Ratificado acordo de cooperação militar com a Guiana",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/ratificado-acordo-de-cooperacao-militar-com-a-guiana",
+      "resumo": "",
+      "publicado_em": "2026-11-06T16:59:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "8b600d80eee0a642",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto amplia passe livre a pessoa com deficiência no transporte interestadual",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-amplia-passe-livre-a-pessoa-com-deficiencia-no-transporte-interestadual",
+      "resumo": "",
+      "publicado_em": "2026-11-06T16:36:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "72031758ce6dbac0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Regras para internação de adolescentes com dependência química seguem à CAS",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/regras-para-internacao-de-adolescentes-com-dependencia-quimica-seguem-a-cas",
+      "resumo": "",
+      "publicado_em": "2026-11-06T15:41:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "37705b7e65d51124",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto amplia participação feminina em concursos da segurança pública",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-amplia-participacao-feminina-em-concursos-da-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-11-06T15:34:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
     },
     {
       "id": "35b05e903eb557a9",
@@ -562,6 +658,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-06T14:48:25-03:00"
+    },
+    {
+      "id": "c7302d2ae8f607c7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado promove congresso sobre direito parlamentar",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/06/senado-promove-congresso-sobre-direito-parlamentar",
+      "resumo": "",
+      "publicado_em": "2026-11-06T10:44:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
     },
     {
       "id": "0aaf49943554acbd",
@@ -703,6 +813,80 @@ window.DADOS = {
       "coletado_em": "2026-11-06T14:48:25-03:00"
     },
     {
+      "id": "3ab636b6ea190ffc",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Lula sanciona lei que institui o exame de avaliação da formação médica. Acompanhe",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/lula-sanciona-lei-que-institui-o-enamed-exame-de-avaliacao-da-formacao-medica-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-06T16:27:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "76d551ce5206af15",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "CNPE aprova cinco resoluções para impulsionar a transição energética no Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/cnpe-aprova-cinco-resolucoes-para-impulsionar-a-transicao-energetica-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-11-06T16:06:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "1428ebfde8d762e4",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Quem faz o Enem pode ter parcela extra do Pé-de-Meia",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/quem-faz-o-enem-pode-ter-parcela-extra-do-pe-de-meia",
+      "resumo": "",
+      "publicado_em": "2026-11-06T15:48:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "29479f05b16f95ea",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Segurados terão direito a segunda análise de benefício negado por Atestmed",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/segurados-terao-direito-a-segunda-analise-quando-o-beneficio-for-negado-por-atestmed-1",
+      "resumo": "",
+      "publicado_em": "2026-11-06T14:03:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "00023d6ca3dd128e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mais uma carreta de saúde vai pro Amapá ampliar o diagnóstico precoce de doenças no SUS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-do-brasil-destina-mais-uma-carreta-de-saude-para-ampliar-o-diagnostico-precoce-de-doencas-no-sus-no-amapa",
+      "resumo": "",
+      "publicado_em": "2026-11-06T13:37:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
       "id": "181385517f2a43fc",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -827,6 +1011,55 @@ window.DADOS = {
       "coletado_em": "2026-11-06T14:48:25-03:00"
     },
     {
+      "id": "a7a81a29ed20d457",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal concorre ao Prêmio de Inovação da Enap 2026",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-concorre-ao-premio-de-inovacao-da-enap-2026",
+      "resumo": "",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "e7432902832c3c45",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Câmara Técnica de Normas Contábeis e de Demonstrativos Fiscais da Federação debate evolução da Contabilidade Aplicada ao Setor Público no Brasil",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/camara-tecnica-de-normas-contabeis-e-de-demonstrativos-fiscais-da-federacao-debate-evolucao-da-contabilidade-aplicada-ao-setor-publico-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "7e3be749f460ba20",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Comitê Interministerial sobre Mudança do Clima aprova diretrizes do mercado de carbono no Brasil",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/comite-interministerial-sobre-mudanca-do-clima-aprova-diretrizes-do-mercado-de-carbono-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
       "id": "266c6d91fb6646a9",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -841,6 +1074,133 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-06T14:48:25-03:00"
+    },
+    {
+      "id": "9d2cd0c190a0b551",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Confira comunicado do GAFI/FATF sobre países com potencial risco ao sistema financeiro",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/confira-comunicado-do-gafi-fatf-sobre-paises-com-potencial-risco-ao-sistema-financeiro-2",
+      "resumo": "",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "7aa6f1dfd33a4f94",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Aberta consulta pública para a Orientação Técnica OCPC Nº 06 (R1) – Apresentação de Informações Financeiras Pro Forma",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/aberta-consulta-publica-para-a-orientacao-tecnica-ocpc-no-06-r1-2013-apresentacao-de-informacoes-financeiras-pro-forma",
+      "resumo": "",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "861505cb12319027",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM inicia consulta pública relacionada à Revisão de Pronunciamento Técnico CPC 31",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-inicia-consulta-publica-relacionada-a-revisao-de-pronunciamento-tecnico-cpc-31",
+      "resumo": "",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "00dba03b5ac72842",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Aberta consulta pública para tornar obrigatório Pronunciamento Técnico CPC 34 - Exploração e Avaliação de Recursos Minerais",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/aberta-consulta-publica-para-tornar-obrigatorio-pronunciamento-tecnico-cpc-34-exploracao-e-avaliacao-de-recursos-minerais",
+      "resumo": "",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "obrigatorio",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "484d8352ac6964e3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula sanciona lei que regulamenta o Enamed; confira os prazos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131393/lula-sanciona-lei-que-regulamenta-o-enamed-confira-os-prazos",
+      "resumo": "Medida prevê provas no segundo, quarto e sexto anos da graduação para avalição contínua dos estudantes.",
+      "publicado_em": "2026-11-06T16:15:08-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "regulamenta",
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "8f012c778b076d3e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Reforma Tributária: Sem margem para ilusão",
+      "link": "https://www.congressoemfoco.com.br/artigo/131392/reforma-tributaria-sem-margem-para-ilusao",
+      "resumo": "Entrada em vigor das primeiras etapas do novo sistema tributário exige que empresas revisem contratos, preços e fluxo de caixa.",
+      "publicado_em": "2026-11-06T16:14:56-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "reforma tributaria",
+        "tributario"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "90b525fdbb87e852",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A direita diante da própria força",
+      "link": "https://www.congressoemfoco.com.br/artigo/131391/a-direita-diante-da-propria-forca",
+      "resumo": "Reconhecimento da vitória de Lula por Tarcísio de Freitas aponta um caminho para a oposição.",
+      "publicado_em": "2026-11-06T15:21:37-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "a1a94e9a6c3b51a5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O trabalho invisível por trás das máquinas",
+      "link": "https://www.congressoemfoco.com.br/artigo/131390/o-trabalho-invisivel-por-tras-das-maquinas",
+      "resumo": "Apesar da aparência de autonomia, sistemas de IA dependem de uma extensa cadeia de trabalho humano, muitas vezes terceirizado e pouco reconhecido.",
+      "publicado_em": "2026-11-06T14:43:20-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
     },
     {
       "id": "26844e1f240b07fb",
@@ -861,6 +1221,39 @@ window.DADOS = {
         "solidariedade"
       ],
       "coletado_em": "2026-11-06T14:48:25-03:00"
+    },
+    {
+      "id": "6c67bf8fc0e4c00d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula cita JK e diz que quer tornar Brasil potência no próximo mandato",
+      "link": "https://www.congressoemfoco.com.br/noticia/131387/lula-cita-jk-e-diz-que-quer-tornar-brasil-potencia-no-proximo-mandato",
+      "resumo": "Presidente afirmou que quer reduzir a dependência do país em relação às duas maiores economias mundiais, China e Estados Unidos.",
+      "publicado_em": "2026-11-06T13:32:50-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "119af829c4d03d0c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Comissão aprova retirada de sobrenome em casos de abandono e violência",
+      "link": "https://www.congressoemfoco.com.br/noticia/131385/comissao-aprova-retirada-de-sobrenome-em-casos-de-abandono-e-violencia",
+      "resumo": "Substitutivo amplia medida para casos de abandono e castigos imoderados e permite alteração em registros de casamento.",
+      "publicado_em": "2026-11-06T12:54:07-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
     },
     {
       "id": "5d977ad90cc31575",
@@ -893,6 +1286,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-06T14:48:25-03:00"
+    },
+    {
+      "id": "d2f4a38140cece62",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O crash moral e financeiro do mercado",
+      "link": "https://www.congressoemfoco.com.br/artigo/131381/o-crash-moral-e-financeiro-do-mercado",
+      "resumo": "Trajetória do Ibovespa nos governos petistas contrasta com as expectativas do mercado financeiro nas eleições de 2026.",
+      "publicado_em": "2026-11-06T12:05:32-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
     },
     {
       "id": "75a6adaa747fbe35",
@@ -1106,6 +1513,118 @@ window.DADOS = {
         "aprova"
       ],
       "coletado_em": "2026-11-06T14:48:25-03:00"
+    },
+    {
+      "id": "45347d638052b24f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ firma acordos com Fiocruz e USP para fortalecer o enfrentamento ao feminicídio",
+      "link": "https://www.cnj.jus.br/cnj-firma-acordos-com-fiocruz-e-usp-para-fortalecer-o-enfrentamento-ao-feminicidio/",
+      "resumo": "Em um movimento histórico para o aprimoramento da Política Judiciária Nacional de Enfrentamento à Violência contra as Mulheres (Resolução CNJ nº 254/2018), o Conselho Nacional de Justiça (CNJ) assinará dois importantes Acordos de Cooperação Técnica (ACTs) que fortalecem o combate ao feminicídio no p",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "resolucao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "766eb437e2154f8c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Programa Destrava é instalado no Rio Grande do Sul para viabilizar a retomada de obras paralisadas",
+      "link": "https://www.cnj.jus.br/programa-destrava-e-instalado-no-rio-grande-do-sul-para-viabilizar-a-retomada-de-obras-paralisadas/",
+      "resumo": "Com o compromisso de transformar a cooperação institucional em entregas concretas para a população, foi instalado nesta sexta-feira (6/11) o Comitê Estadual do Programa Destrava no Rio Grande do Sul. A cerimônia, realizada no Palácio da Justiça, em Porto Alegre, reuniu representantes das 18 institui",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "56bf9bb3e223fc59",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate redução da maioridade penal em duas audiências públicas",
+      "link": "https://www.camara.leg.br/noticias/1316864-comissao-debate-reducao-da-maioridade-penal-em-duas-audiencias-publicas",
+      "resumo": "",
+      "publicado_em": "2026-11-06T16:23:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "aecc3b5362073054",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova política nacional para celíacos",
+      "link": "https://www.camara.leg.br/noticias/1316839-comissao-aprova-politica-nacional-para-celiacos",
+      "resumo": "",
+      "publicado_em": "2026-11-06T16:17:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "2ab2dcbbf6253fd4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova garantia de informações claras sobre atendimento a pessoas com autismo no SUS",
+      "link": "https://www.camara.leg.br/noticias/1316780-comissao-aprova-garantia-de-informacoes-claras-sobre-atendimento-a-pessoas-com-autismo-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-11-06T16:14:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "6094a28ee3a6b316",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Educação aprova regras para facilitar trabalho de conselho que fiscaliza merenda escolar",
+      "link": "https://www.camara.leg.br/noticias/1316724-comissao-de-educacao-aprova-regras-para-facilitar-trabalho-de-conselho-que-fiscaliza-merenda-escolar",
+      "resumo": "",
+      "publicado_em": "2026-11-06T16:08:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "f2ff2491d6da6cf1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova emissão gratuita de documentos para mulheres e filhos vítimas de violência patrimonial",
+      "link": "https://www.camara.leg.br/noticias/1316689-comissao-aprova-emissao-gratuita-de-documentos-para-mulheres-e-filhos-vitimas-de-violencia-patrimonial",
+      "resumo": "",
+      "publicado_em": "2026-11-06T15:09:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-06T17:08:16-03:00"
     },
     {
       "id": "02735f250edde135",
@@ -2945,7 +3464,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "CNJ destaca resultados de Goiás e mobiliza Judiciário para reduzir processos pendentes do Tribunal do Júri",
       "link": "https://www.cnj.jus.br/cnj-destaca-resultados-de-goias-e-mobiliza-judiciario-para-reduzir-processos-pendentes-do-tribunal-do-juri/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) abriu nesta quinta-feira (05/11), o Mês Nacional do Júri 2026, em cerimônia realizada no Plenário Dr. Wanderley de Medeiros, no prédio dos Tribunais do Júri, em Goiânia, com a participação dos conselheiros Sílvio Amorim e Carlos Vinícius Alves Ribeiro, além do pr",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) abriu nesta quinta-feira (5/11), o Mês Nacional do Júri 2026, em cerimônia realizada no Plenário Dr. Wanderley de Medeiros, no prédio dos Tribunais do Júri, em Goiânia, com a participação dos conselheiros Sílvio Amorim e Carlos Vinícius Alves Ribeiro, além do pre",
       "publicado_em": "2026-11-05T12:00:00-03:00",
       "dia": "2026-11-05",
       "data_estimada": true,
