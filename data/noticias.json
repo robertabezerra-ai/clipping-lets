@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-07T13:44:45-03:00",
+  "gerado_em": "2026-11-07T15:22:54-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -6054,6 +6054,23 @@
         "acao"
       ],
       "coletado_em": "2026-11-04T18:42:31-03:00"
+    },
+    {
+      "id": "4b1c44e02eb535f2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Izalci propõe redução da CBS quando houver arrecadação excessiva",
+      "link": "https://www.congressoemfoco.com.br/noticia/131315/izalci-propoe-reducao-da-cbs-quando-houver-arrecadacao-excessiva",
+      "resumo": "Projeto determina revisão anual da arrecadação federal a partir de 2028 para diminuir a alíquota quando a receita superar o teto.",
+      "publicado_em": "2026-11-04T17:47:35-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-11-07T15:22:54-03:00"
     },
     {
       "id": "a2e31f7af79ab5c1",
