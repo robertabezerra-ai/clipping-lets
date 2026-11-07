@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-06T20:52:53-03:00",
+  "gerado_em": "2026-11-07T13:44:45-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,158 @@
   ],
   "noticias": [
     {
+      "id": "218a54ed0c559d1d",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Concessionária de energia deve retirar fios de alta tensão de terreno de consumidor",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115782&pagina=1",
+      "resumo": "Limitação ao exercício do direito de propriedade. \n \n\tA 27ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo manteve decisão da",
+      "publicado_em": "2026-11-07T12:00:00-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
+      "id": "69e05836ade93cf7",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Siga o TJSP nas redes sociais",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115959&pagina=1",
+      "resumo": "Plataformas informam serviços para a população. \n \n\tPara facilitar o acesso a informações e promover a interação da população, o Tribunal de Justiça de São Paulo",
+      "publicado_em": "2026-11-07T12:00:00-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
+      "id": "7acc1f17bee9822e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo na Semana destaca audiência pública sobre proibição das bets",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-na-semana-destaca-audiencia-publica-sobre-proibicao-das-bets/",
+      "resumo": "Episódio #209 está disponível nas principais plataformas de áudio e no YouTube",
+      "publicado_em": "2026-11-07T12:00:00-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
+      "id": "e965697714a64b6b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Dia D de vacinação contra o sarampo no AM mobiliza tríplice fronteira neste sábado (7)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/dia-d-de-vacinacao-contra-o-sarampo-mobiliza-a-triplice-fronteira-neste-sabado-7",
+      "resumo": "",
+      "publicado_em": "2026-11-07T10:43:00-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
+      "id": "f0e8c3e57a4c6569",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Terceiro mutirão de hospitais univesitários realiza quase 50 mil consultas, exames e cirurgias",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/rede-hu-brasil-realiza-terceiro-mutirao-nacional-de-2026-com-previsao-de-quase-50-mil-procedimentos",
+      "resumo": "",
+      "publicado_em": "2026-11-07T10:30:00-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
+      "id": "6ef288cd6f9a5d3a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Dia do Radialista: profissionais dão voz à informação e mantêm viva a história do rádio",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/dia-do-radialista-profissionais-dao-voz-a-informacao-e-mantem-viva-a-historia-do-radio",
+      "resumo": "",
+      "publicado_em": "2026-11-07T10:24:00-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
+      "id": "aea0b87fdd94064b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Emprego, minerais críticos e exame de formação médica marcaram a Semana Gov",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/emprego-minerais-criticos-e-exame-da-avaliacao-medica-marcaram-a-semana-gov",
+      "resumo": "",
+      "publicado_em": "2026-11-07T09:05:00-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
+      "id": "b23ecd279008101c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Doença de Newcastle: Brasil reverte restrições de abrangência nacional e retoma exportações",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/doenca-de-newcastle-uruguai-retoma-importacoes-de-produtos-avicolas-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-11-07T08:56:00-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
+      "id": "355929e4dde43368",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O milagre era \"coisa do Paraguai\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131398/o-milagre-era-coisa-do-paraguai",
+      "resumo": "A nova Suíça da América do Sul aprende dura lição sobre os atalhos da prosperidade.",
+      "publicado_em": "2026-11-07T11:52:14-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
+      "id": "3b0ed4f862b610d6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PGR pede ao STF que suspenda ações paralelas sobre proibição das bets",
+      "link": "https://www.congressoemfoco.com.br/noticia/131397/pgr-pede-ao-stf-que-suspenda-acoes-paralelas-sobre-proibicao-das-bets",
+      "resumo": "Paulo Gonet aponta risco de decisões divergentes e tratamentos desiguais às plataformas durante a análise da proibição pelo STF.",
+      "publicado_em": "2026-11-07T11:04:08-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
       "id": "1eb14d403ed6cd0d",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -475,7 +627,7 @@
       "fonte_nome": "STF",
       "titulo": "Presidente do STF recebe título de doutor honoris causa da Unisinos",
       "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-recebe-titulo-de-doutor-honoris-causa-da-unisinos/",
-      "resumo": "Homenagem reconhece a trajetória acadêmica e jurídica do ministro Edson Fachin e as contribuições ao Direito e à defesa da democracia",
+      "resumo": "Homenagem reconhece a trajetória acadêmica e jurídica do ministro Edson Fachin e as contribuições ao direito e à defesa da democracia",
       "publicado_em": "2026-11-06T18:28:12-03:00",
       "dia": "2026-11-06",
       "data_estimada": false,
@@ -1078,6 +1230,38 @@
       "coletado_em": "2026-11-06T14:48:25-03:00"
     },
     {
+      "id": "d94931078c027aa1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Novo Acordo do Rio Doce completa dois anos de atuação junto às comunidades quilombolas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/novo-acordo-do-rio-doce-completa-dois-anos-de-atuacao-junto-as-comunidades-quilombolas",
+      "resumo": "",
+      "publicado_em": "2026-11-06T22:37:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
+      "id": "455f80e3d76848ac",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Justiça suspende autorização para funcionamento de empresa de apostas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/justica-suspende-autorizacao-para-funcionamento-de-empresa-de-apostas",
+      "resumo": "",
+      "publicado_em": "2026-11-06T19:56:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
       "id": "f4807e92e05689d7",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1435,6 +1619,24 @@
       "coletado_em": "2026-11-06T18:15:18-03:00"
     },
     {
+      "id": "5c30f8542de75557",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado do Paraguai aprova impeachment contra Santiago Peña",
+      "link": "https://www.congressoemfoco.com.br/noticia/131396/senado-do-paraguai-aprova-impeachment-contra-santiago-pena",
+      "resumo": "Rejeitado pedido de prazo adicional para defesa, Santiago Peña foi destituído por unanimidade após acusações de má gestão do governo.",
+      "publicado_em": "2026-11-06T20:43:47-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "adi",
+        "prazo",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
       "id": "712b1375adafc1e2",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1568,6 +1770,20 @@
       "coletado_em": "2026-11-06T17:08:16-03:00"
     },
     {
+      "id": "261f286e283b33dd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O indecifrável diálogo entre economia e política (I)",
+      "link": "https://www.congressoemfoco.com.br/coluna/131386/o-indecifravel-dialogo-entre-economia-e-politica-i",
+      "resumo": "Diferenças de linguagem, prioridades e perspectivas dificultam o diálogo entre economistas e parlamentares.",
+      "publicado_em": "2026-11-06T13:06:39-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
       "id": "119af829c4d03d0c",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1583,6 +1799,22 @@
         "acao"
       ],
       "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "9a54dccf5cc4c1f9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dia do Radialista: Veja quais parlamentares já trabalharam no rádio",
+      "link": "https://www.congressoemfoco.com.br/noticia/131384/dia-do-radialista-veja-quais-parlamentares-ja-trabalharam-no-radio",
+      "resumo": "Deputados e senadores que estiveram em rádios de todo o Brasil antes de entrar para a política.",
+      "publicado_em": "2026-11-06T12:48:22-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
     },
     {
       "id": "5d977ad90cc31575",
@@ -3606,6 +3838,22 @@
         "acao"
       ],
       "coletado_em": "2026-11-05T15:32:00-03:00"
+    },
+    {
+      "id": "e35fa58556d3bcb7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Kim Kataguiri propõe pena maior a quem esconder o rosto durante crimes",
+      "link": "https://www.congressoemfoco.com.br/noticia/131334/kim-kataguiri-propoe-pena-maior-a-quem-esconder-o-rosto-durante-crimes",
+      "resumo": "Projeto inclui o uso de acessórios que dificultem a identificação entre as circunstâncias agravantes previstas no Código Penal.",
+      "publicado_em": "2026-11-05T11:02:31-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
     },
     {
       "id": "1c70a0a715bdc9bd",
@@ -5840,6 +6088,36 @@
         "aprova"
       ],
       "coletado_em": "2026-11-04T17:35:35-03:00"
+    },
+    {
+      "id": "db68ac5c6a85cb37",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto facilita troca de seção eleitoral para vítimas de violência",
+      "link": "https://www.congressoemfoco.com.br/noticia/131312/projeto-facilita-troca-de-secao-eleitoral-para-vitimas-de-violencia",
+      "resumo": "Proposta permite transferência temporária para eleitoras com medida protetiva e prevê sigilo do novo local de votação.",
+      "publicado_em": "2026-11-04T17:01:11-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
+      "id": "00806dd51f63ce27",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto agrava punição para adulto que autoriza menor de idade dirigir",
+      "link": "https://www.congressoemfoco.com.br/noticia/131311/projeto-agrava-punicao-para-adulto-que-autoriza-menor-de-idade-dirigir",
+      "resumo": "Proposta prevê até quatro anos de detenção se o condutor causar morte e aumenta a pena quando veículo for entregue a menor.",
+      "publicado_em": "2026-11-04T16:30:40-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
     },
     {
       "id": "26a559a800346540",
@@ -117512,20 +117790,6 @@
         "cade",
         "acao"
       ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "c78b9a321f8c5fab",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "Supremo na Semana destaca fim de restrição à alíquota zero para compra de veículos por pessoas autistas e PcDs",
-      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-na-semana-destaca-fim-de-restricao-a-aliquota-zero-para-compra-de-veiculos-por-pessoas-autistas-e-pcds/",
-      "resumo": "Episódio #197 está disponível nas principais plataformas de áudio e no YouTube",
-      "publicado_em": "2026-08-08T12:00:00-03:00",
-      "dia": "2026-08-08",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
       "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
