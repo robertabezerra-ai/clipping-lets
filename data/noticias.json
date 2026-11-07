@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-07T15:22:54-03:00",
+  "gerado_em": "2026-11-07T16:51:39-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -373,6 +373,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
+      "id": "951c58b61b363007",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Novas regras do Vale-Alimentação começam a valer; veja o que muda",
+      "link": "https://www.congressoemfoco.com.br/noticia/131399/novas-regras-do-vale-alimentacao-comecam-a-valer-veja-o-que-muda",
+      "resumo": "Nova exigência amplia a aceitação de vales em restaurantes e supermercados, independentemente da operadora responsável pelo cartão.",
+      "publicado_em": "2026-11-07T15:10:53-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "novas regras",
+        "acao"
+      ],
+      "coletado_em": "2026-11-07T16:51:39-03:00"
     },
     {
       "id": "355929e4dde43368",
