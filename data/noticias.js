@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-07T16:51:39-03:00",
+  "gerado_em": "2026-11-07T20:16:43-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -298,6 +298,36 @@ window.DADOS = {
       "coletado_em": "2026-11-07T13:44:45-03:00"
     },
     {
+      "id": "7744e0b1f387acfc",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enem: nota do exame também abre portas para institutos federais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/enem-2026-nota-do-exame-tambem-abre-portas-para-os-institutos-federais",
+      "resumo": "",
+      "publicado_em": "2026-11-07T18:25:00-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-07T20:16:43-03:00"
+    },
+    {
+      "id": "aea0b87fdd94064b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Emprego, minerais críticos e exame de formação médica marcaram a Semana Gov",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/emprego-minerais-criticos-e-exame-da-avaliacao-medica-marcaram-a-semana-gov",
+      "resumo": "",
+      "publicado_em": "2026-11-07T10:50:00-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
       "id": "e965697714a64b6b",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -340,22 +370,6 @@ window.DADOS = {
       "score": 56,
       "tags": [
         "adi",
-        "acao"
-      ],
-      "coletado_em": "2026-11-07T13:44:45-03:00"
-    },
-    {
-      "id": "aea0b87fdd94064b",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Emprego, minerais críticos e exame de formação médica marcaram a Semana Gov",
-      "link": "https://agenciagov.ebc.com.br/noticias/202611/emprego-minerais-criticos-e-exame-da-avaliacao-medica-marcaram-a-semana-gov",
-      "resumo": "",
-      "publicado_em": "2026-11-07T09:05:00-03:00",
-      "dia": "2026-11-07",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
         "acao"
       ],
       "coletado_em": "2026-11-07T13:44:45-03:00"
@@ -418,6 +432,38 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-07T13:44:45-03:00"
+    },
+    {
+      "id": "2e3588a771eba756",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade e WIA firmam parceria para fortalecer Revista de Defesa da Concorrência",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-e-wia-firmam-parceria-para-fortalecer-revista-de-defesa-da-concorrencia",
+      "resumo": "",
+      "publicado_em": "2026-11-07T12:00:00-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-11-07T20:16:43-03:00"
+    },
+    {
+      "id": "7aae4569e4bc9ca5",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Universidade Federal de Minas Gerais vence WiCade 2026",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/universidade-federal-de-minas-gerais-vence-wicade-2026",
+      "resumo": "",
+      "publicado_em": "2026-11-07T12:00:00-03:00",
+      "dia": "2026-11-07",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-11-07T20:16:43-03:00"
     },
     {
       "id": "1eb14d403ed6cd0d",
@@ -1429,6 +1475,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-06T14:48:25-03:00"
+    },
+    {
+      "id": "7e7a8aac4aa8e9f2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enem 2026: primeiro dia de provas ocorre neste domingo (8)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/enem-2026-primeiro-dia-de-provas-ocorre-neste-domingo-8",
+      "resumo": "",
+      "publicado_em": "2026-11-06T11:49:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-07T20:16:43-03:00"
     },
     {
       "id": "695e679615719b1a",
@@ -3765,6 +3825,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-05T15:32:00-03:00"
+    },
+    {
+      "id": "b611e90457b88f15",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto cria política de soberania digital e impõe regras a big techs",
+      "link": "https://www.congressoemfoco.com.br/noticia/131343/projeto-cria-politica-de-soberania-digital-e-impoe-regras-a-big-techs",
+      "resumo": "Proposta obriga empresas estrangeiras a manter representação no país e prevê interoperabilidade entre plataformas digitais.",
+      "publicado_em": "2026-11-05T12:23:59-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-07T20:16:43-03:00"
     },
     {
       "id": "3a4a81088351e6b8",
