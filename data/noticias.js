@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-08T13:55:24-03:00",
+  "gerado_em": "2026-11-08T15:33:37-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -285,6 +285,38 @@ window.DADOS = {
         "judicial"
       ],
       "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
+      "id": "c202e1911043bf86",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "“Esse país só vai garantir um futuro digno de verdade para o seu povo com educação”, diz Lula sobre o Enem",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/201cesse-pais-so-vai-garantir-um-futuro-digno-de-verdade-para-o-seu-povo-com-educacao201d-diz-lula-sobre-o-enem",
+      "resumo": "",
+      "publicado_em": "2026-11-08T14:55:00-03:00",
+      "dia": "2026-11-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-08T15:33:37-03:00"
+    },
+    {
+      "id": "44bb95792cac3e44",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Tema da redação do Enem é “A valorização do SUS como direito universal”",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/tema-da-redacao-201ca-valorizacao-do-sistema-unico-de-saude-sus-como-direito-universal201d",
+      "resumo": "",
+      "publicado_em": "2026-11-08T13:50:00-03:00",
+      "dia": "2026-11-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-08T15:33:37-03:00"
     },
     {
       "id": "5bec00388224b02d",
@@ -3903,6 +3935,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-05T15:32:00-03:00"
+    },
+    {
+      "id": "bc9bdd2e8ac46fa3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto integra bombeiros civis ao sistema de Defesa Civil",
+      "link": "https://www.congressoemfoco.com.br/noticia/131347/projeto-integra-bombeiros-civis-ao-sistema-de-defesa-civil",
+      "resumo": "Proposta prevê atuação complementar em desastres, treinamentos, prevenção e resposta a emergências, integrada à Defesa Civil.",
+      "publicado_em": "2026-11-05T13:51:48-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-08T15:33:37-03:00"
     },
     {
       "id": "5898c0df8f508b7e",
