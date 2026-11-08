@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-07T20:16:43-03:00",
+  "gerado_em": "2026-11-08T13:55:24-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -250,6 +250,72 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "b01d68f392f88582",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Repertório do Cadicrim reúne decisões criminais de setembro",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115955&pagina=1",
+      "resumo": "Publicação destaca temas julgados pelo TJSP.\n \n\tO Centro de Apoio da Seção de Direito Criminal do Tribunal de Justiça de São Paulo (Cadicrim) disponibilizou",
+      "publicado_em": "2026-11-08T12:00:00-03:00",
+      "dia": "2026-11-08",
+      "data_estimada": true,
+      "score": 66,
+      "tags": [
+        "julga",
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
+      "id": "fb0a74e47b5c7ad3",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Estado indenizará proprietário de carro roubado leiloado como sucata",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115823&pagina=1",
+      "resumo": "Leilão ocorreu em descumprimento à ordem judicial.\n \n\tA 2ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve decisão da Vara da",
+      "publicado_em": "2026-11-08T12:00:00-03:00",
+      "dia": "2026-11-08",
+      "data_estimada": true,
+      "score": 70,
+      "tags": [
+        "decisao",
+        "indenizar",
+        "judicial"
+      ],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
+      "id": "5bec00388224b02d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PT faz \"vaquinha\" com Pix de R$ 13 para arcar com dívidas de campanha",
+      "link": "https://www.congressoemfoco.com.br/noticia/131401/pt-faz-vaquinha-com-pix-de-r-13-para-arcar-com-dividas-de-campanha",
+      "resumo": "Partido precisa reunir R$ 7 milhões para cobrir os custos ainda não pagos da campanha de Lula e fixou o dia 11 como prazo para doações.",
+      "publicado_em": "2026-11-08T12:27:36-03:00",
+      "dia": "2026-11-08",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
+      "id": "ac4fb1f808643e59",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nunes Marques \"não sabe o que fala\" ao reconhecer eleição, diz Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/131400/nunes-marques-nao-sabe-o-que-fala-ao-reconhecer-eleicao-diz-flavio",
+      "resumo": "Ex-candidato tornou a questionar resultado das eleições e criticou conduta do ministro indicado por Bolsonaro ao STF.",
+      "publicado_em": "2026-11-08T09:07:38-03:00",
+      "dia": "2026-11-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
     {
       "id": "218a54ed0c559d1d",
       "fonte_id": "tjsp",
@@ -1809,6 +1875,20 @@ window.DADOS = {
         "cade"
       ],
       "coletado_em": "2026-11-06T17:08:16-03:00"
+    },
+    {
+      "id": "43b4867f0397dcef",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Da COP30 à COP31: O que o Brasil cumpriu e o que falta após Belém",
+      "link": "https://www.congressoemfoco.com.br/noticia/131389/da-cop30-a-cop31-o-que-o-brasil-cumpriu-e-o-que-falta-apos-belem",
+      "resumo": "Com queda no desmatamento, governo busca avançar na transição energética e no financiamento florestal após a conferência de Belém.",
+      "publicado_em": "2026-11-06T14:25:25-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
     },
     {
       "id": "26844e1f240b07fb",
@@ -3562,6 +3642,34 @@ window.DADOS = {
       "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
+      "id": "89a523e52348925a",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Ministério da Fazenda apresenta diretrizes do mercado regulado de carbono nos EUA",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/ministerio-da-fazenda-apresenta-diretrizes-do-mercado-regulado-de-carbono-nos-eua",
+      "resumo": "",
+      "publicado_em": "2026-11-05T12:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
+      "id": "93701459f5f98a05",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Ministério da Fazenda conclui missão sobre mercado de carbono na China com avanços bilaterais e multilaterais",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/ministerio-da-fazenda-conclui-missao-sobre-mercado-de-carbono-na-china-com-avancos-bilaterais-e-multilaterais",
+      "resumo": "",
+      "publicado_em": "2026-11-05T12:00:00-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
       "id": "d201b449fe77f105",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -3811,6 +3919,22 @@ window.DADOS = {
       "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
+      "id": "0946408e59b3d091",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto cria medidas de proteção para policiais e agentes penais",
+      "link": "https://www.congressoemfoco.com.br/noticia/131345/projeto-cria-medidas-de-protecao-para-policiais-e-agentes-penais",
+      "resumo": "Proposta prevê avaliação de risco em 48 horas, escolta, mudança temporária de lotação e apoio a familiares de servidores ameaçados.",
+      "publicado_em": "2026-11-05T12:59:35-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
       "id": "ed5069b9f81f5fdd",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -3857,6 +3981,22 @@ window.DADOS = {
       "coletado_em": "2026-11-05T15:32:00-03:00"
     },
     {
+      "id": "7ef7a454c6b92968",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto de Sâmia obriga candidatos a declarar passaportes estrangeiros",
+      "link": "https://www.congressoemfoco.com.br/noticia/131341/projeto-de-samia-obriga-candidatos-a-declarar-passaportes-estrangeiros",
+      "resumo": "Texto prevê que esses dados sejam disponibilizados ao público durante o processo eleitoral.",
+      "publicado_em": "2026-11-05T12:03:35-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
       "id": "667186e0299d74f0",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -3901,6 +4041,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-05T15:32:00-03:00"
+    },
+    {
+      "id": "717ec76f6977e2fc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe regras para combater golpes de consórcio nas redes",
+      "link": "https://www.congressoemfoco.com.br/noticia/131337/deputado-propoe-regras-para-combater-golpes-de-consorcio-nas-redes",
+      "resumo": "Texto de Rubens Pereira Júnior obriga plataformas a verificar anunciantes e retirar ofertas fraudulentas em até 48 horas.",
+      "publicado_em": "2026-11-05T11:32:30-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
     },
     {
       "id": "1e10471f16f9906d",
@@ -12752,6 +12906,113 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T20:42:58-03:00"
+    },
+    {
+      "id": "007818989d316013",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Ministério da Fazenda avalia impactos de tarifa de carbono europeia para alinhar regulamentação do mercado brasileiro",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/ministerio-da-fazenda-avalia-impactos-de-tarifa-de-carbono-europeia-para-alinhar-regulamentacao-do-mercado-brasileiro",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
+      "id": "5edbb77095b28002",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Ministério da Fazenda avança com o 5º Leilão do Eco Invest Brasil para financiar inovação climática",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/ministerio-da-fazenda-avanca-com-o-5o-leilao-do-eco-invest-brasil-para-financiar-inovacao-climatica",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
+      "id": "683fa625a23a9f88",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Ministério da Fazenda participa de debate sobre resultados do Radar IDHM",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/ministerio-da-fazenda-participa-de-debate-sobre-resultados-do-radar-idhm",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
+      "id": "08e695b9ecccc2a1",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Edital vai selecionar projetos para o desenvolvimento de soluções tecnológicas para cooperativas e associações de catadores de materiais recicláveis",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/edital-vai-selecionar-projetos-para-o-desenvolvimento-de-solucoes-tecnologicas-para-cooperativas-e-associacoes-de-catadores-de-materiais-reciclaveis",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
+      "id": "110dc89c1123b08a",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Ministério da Fazenda apresenta diretrizes do mercado regulado de carbono nos Estados Unidos",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/ministerio-da-fazenda-apresenta-diretrizes-do-mercado-regulado-de-carbono-nos-estados-unidos-1",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
+      "id": "229b133dedff25f3",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Ministério da Fazenda apresenta avanços na implementação do Sistema Brasileiro de Comércio de Emissões",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/ministerio-da-fazenda-apresenta-avancos-na-implementacao-do-sistema-brasileiro-de-comercio-de-emissoes",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
+    },
+    {
+      "id": "8541445fce79752e",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "II Seminário Jurídico de Seguros reúne especialistas, universidade, advocacia e reguladores",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/setembro/ii-seminario-juridico-de-seguros-reune-especialistas-universidade-advocacia-e-reguladores",
+      "resumo": "",
+      "publicado_em": "2026-10-29T12:00:00-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-11-08T13:55:24-03:00"
     },
     {
       "id": "32580bfc17f3be5e",
