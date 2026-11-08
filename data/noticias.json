@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-08T17:10:55-03:00",
+  "gerado_em": "2026-11-08T20:18:53-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -287,6 +287,20 @@
       "coletado_em": "2026-11-08T13:55:24-03:00"
     },
     {
+      "id": "5067892ffadb3b4a",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF promove curso internacional de direito constitucional para magistrados de países de língua portuguesa",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-promove-curso-internacional-de-direito-constitucional-para-magistrados-de-paises-de-lingua-portuguesa/",
+      "resumo": "O curso será aberto nesta segunda (9) pelo ministro Edson Fachin",
+      "publicado_em": "2026-11-08T18:49:48-03:00",
+      "dia": "2026-11-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-08T20:18:53-03:00"
+    },
+    {
       "id": "c202e1911043bf86",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -317,6 +331,36 @@
         "acao"
       ],
       "coletado_em": "2026-11-08T15:33:37-03:00"
+    },
+    {
+      "id": "84e43add25f61588",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pauta do Senado tem Estatuto do Aprendiz e proteção a ambientalistas",
+      "link": "https://www.congressoemfoco.com.br/noticia/131403/pauta-do-senado-tem-estatuto-do-aprendiz-e-protecao-a-ambientalistas",
+      "resumo": "Senado terá na pauta da semana novas regras para aprendizes e a adesão a tratado internacional de proteção a defensores ambientais.",
+      "publicado_em": "2026-11-08T18:41:23-03:00",
+      "dia": "2026-11-08",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "novas regras"
+      ],
+      "coletado_em": "2026-11-08T20:18:53-03:00"
+    },
+    {
+      "id": "0342dd43df4fb7f7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PF abre inquérito para investigar ameaças de morte contra Ana Elisa",
+      "link": "https://www.congressoemfoco.com.br/noticia/131402/pf-abre-inquerito-para-investigar-ameacas-de-morte-contra-ana-elisa",
+      "resumo": "Deputada eleita expôs ameaças de estupro e assassinato e lamentou a perda da liberdade de sair às ruas sem escolta policial.",
+      "publicado_em": "2026-11-08T18:19:12-03:00",
+      "dia": "2026-11-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-08T20:18:53-03:00"
     },
     {
       "id": "5bec00388224b02d",
