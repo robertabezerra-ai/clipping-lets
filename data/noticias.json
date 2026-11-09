@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-08T20:18:53-03:00",
+  "gerado_em": "2026-11-09T18:17:28-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 18,
+      "itens": 20,
       "erro": null
     },
     {
@@ -221,7 +221,7 @@
     {
       "id": "cnj",
       "status": "ok",
-      "itens": 10,
+      "itens": 9,
       "erro": null
     },
     {
@@ -250,6 +250,1462 @@
     }
   ],
   "noticias": [
+    {
+      "id": "7456f237743bb0b3",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Sistemas de informática ficam indisponíveis neste fim de semana (14 e 15/11)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/sistemas-de-informatica-ficam-indisponiveis-neste-fim-de-semana-14-e-15-11",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "37fa19a86d7f3ce3",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Turma converte justa causa em pedido de demissão ao não reconhecer abandono de emprego de mãe de criança no espectro autista",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/turma-converte-justa-causa-em-pedido-de-demissao-ao-nao-reconhecer-abandono-de-emprego-de-mae-de-crianca-no-espectro-autista",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "906d821108245546",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 participa de encontro nacional sobre promoção do trabalho decente em Porto Alegre",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-participa-de-encontro-nacional-sobre-promocao-do-trabalho-decente-em-porto",
+      "resumo": "TRT-15 participa de encontro nacional sobre promoção do trabalho decente em Porto Alegre anasiqueira Seg, 09/11/2026 - 16:47 TRT-15 participa de encontro nacional sobre promoção do trabalho decente em Porto Alegre Conteúdo da Notícia Uma comitiva do Tribunal Regional do Trabalho da 15ª Região partic",
+      "publicado_em": "2026-11-09T16:47:07-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "bbb5f6b4f2530d6f",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados",
+      "link": "https://trt15.jus.br/noticia/2026/acesso-indevido-ao-dejt-e-ao-malote-digital-verifique-se-seus-dados-foram-acessados",
+      "resumo": "Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados anagatto Seg, 09/11/2026 - 09:44 Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados Conteúdo da Notícia Ambos sistemas já foram restabelecidos. Polícia Federal e a ANPD foram inform",
+      "publicado_em": "2026-11-09T09:44:21-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-09-21T17:15:24-03:00"
+    },
+    {
+      "id": "4e71371b70099c66",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Família real sueca prestigia encerramento da 3ª edição do Encontro do Foeji, na EPM",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115967&pagina=1",
+      "resumo": "Evento reúne juízas e juízes da Infância e Juventude.\n \n\tInfância protetiva e infracional e medidas de pós-desacolhimento foram os principais temas do III Encontro do",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "00b3e722c7a90001",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP participa do 98º Encoge e do 10º Fórum Fundiário Nacional",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115964&pagina=1",
+      "resumo": "Desembargadora Silvia Rocha eleita 1ª vice-presidente do CCOGE.\n\n\n\n\tA corregedora-geral da Justiça de São Paulo, desembargadora Silvia Rocha, participou do 98º Encontro Nacional de Corregedoras e",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "41412a3d78d25d60",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Michel Temer fala sobre respeito à Constituição na sede da Apamagis",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115973&pagina=1",
+      "resumo": "Canal oficial de diálogo institucional.\n \n\tA Associação Paulista de Magistrados (Apamagis) realizou, nesta segunda-feira (9), uma reunião-almoço com o advogado, professor, escritor e político Michel",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "93c1e101e9a607de",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Mantida condenação por esquema fraudulento que envolveu 800 veículos",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115969&pagina=1",
+      "resumo": "Reparação de danos fixada em R$ 38 milhões. \n \n\tA 6ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve, em parte, decisão",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "470673e0b42c9248",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "4ª edição do Prêmio #Rompa abrirá inscrições no primeiro semestre de 2027",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115966&pagina=1",
+      "resumo": "Nova categoria: Jornalismo.  \n \n\tSe você desenvolve ou participa de alguma iniciativa de enfrentamento à violência contra a mulher no Estado de São Paulo, vale ficar",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "37c8dcc31cb25fbd",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF lança programa de incentivo à preparação de pessoas negras, indígenas e quilombolas para a magistratura",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-lanca-programa-de-incentivo-a-preparacao-de-pessoas-negras-indigenas-e-quilombolas-para-a-magistratura/",
+      "resumo": "Aprovados no Enam terão acesso a livros, publicações e materiais de estudo do acervo da biblioteca da Corte",
+      "publicado_em": "2026-11-09T17:12:28-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "5b75b068f08506b2",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF suspende punição aplicada pelo CNJ à juíza Gabriela Hardt",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-punicao-aplicada-pelo-cnj-a-juiza-gabriela-hardt/",
+      "resumo": "Em análise preliminar do caso, ministro Luiz Fux considerou que processo disciplinar contra juíza que ocupou a 13ª Vara Federal de Curitiba foi aberto após prazo previsto em resolução do Conselho",
+      "publicado_em": "2026-11-09T15:39:44-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "liminar",
+        "resolucao",
+        "prazo",
+        "processo"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "9f539cd113a35206",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Em curso internacional no STF, Fachin defende cooperação entre tribunais constitucionais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/fachin-defende-cooperacao-entre-tribunais-constitucionais-durante-curso-internacional-no-stf/",
+      "resumo": "Evento reúne magistrados e assessores jurídicos de países de língua portuguesa para intercâmbio de experiências e debate sobre desafios do direito",
+      "publicado_em": "2026-11-09T10:54:01-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "43f045ac7be8b081",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF acolhe, em recursos extraordinários, 10 vezes mais pedidos do que em agravos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-acolhe-em-recursos-extraordinarios-10-vezes-mais-pedidos-do-que-em-agravos/",
+      "resumo": "Em 2025, 25,7% das decisões de mérito em recursos extraordinários acolheram total ou parcialmente o pedido. Nos agravos, o percentual foi de 2,4%",
+      "publicado_em": "2026-11-09T10:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "ed62fbbed7c411ff",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF suspende processos que questionam constitucionalidade de MP das bets",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-processos-que-questionam-constitucionalidade-de-mp-das-bets/",
+      "resumo": "Medida busca evitar decisões judiciais divergentes e vale até o julgamento definitivo da questão pelo tribunal",
+      "publicado_em": "2026-11-09T08:49:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "5c8ef1fc4eff4c54",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Para debatedores em audiência, educação midiática vai além das 'fake news'",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/para-debatedores-em-audiencia-educacao-midiatica-vai-alem-das-fake-news",
+      "resumo": "",
+      "publicado_em": "2026-11-09T17:33:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "a0c3660165d44902",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Confúcio pede mais crédito para pequenos produtores da região amazônica",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/confucio-pede-mais-credito-para-pequenos-produtores-da-regiao-amazonica",
+      "resumo": "",
+      "publicado_em": "2026-11-09T16:58:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "160db3b56446ee94",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Paulo Paim agradece a apoiadores e faz balanço de trajetória no Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/paulo-paim-agradece-a-apoiadores-e-faz-balanco-de-trajetoria-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-09T16:49:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "e750a430ebb848d9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Plenário vota projeto que protege recursos para internet em escolas públicas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/plenario-vota-projeto-que-protege-recursos-para-internet-em-escolas-publicas",
+      "resumo": "",
+      "publicado_em": "2026-11-09T16:31:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "68ab93fc21817ca7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado avalia medidas para enfrentar impactos do super El Niño",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-avalia-medidas-para-enfrentar-impactos-do-super-el-nino",
+      "resumo": "",
+      "publicado_em": "2026-11-09T15:43:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "9215bf9754c7af98",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado homenageia Lide pelos 25 anos de atuação no setor empresarial",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-homenageia-lide-pelos-25-anos-de-atuacao-no-setor-empresarial",
+      "resumo": "",
+      "publicado_em": "2026-11-09T15:04:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "acao",
+        "homenageia"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "13c6c6ac4497df26",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovado acordo sobre regras para exposições internacionais",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/aprovado-acordo-sobre-regras-para-exposicoes-internacionais",
+      "resumo": "",
+      "publicado_em": "2026-11-09T15:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "686df13f92626388",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Contratação de associações de PcDs está na pauta da CCJ",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/contratacao-de-associacoes-de-pcds-esta-na-pauta-da-ccj",
+      "resumo": "",
+      "publicado_em": "2026-11-09T14:49:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "740e98c4fe0356e9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Educação midiática é vital para exercer cidadania, dizem debatedores",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/educacao-midiatica-e-vital-para-exercer-cidadania-dizem-debatedores",
+      "resumo": "",
+      "publicado_em": "2026-11-09T14:45:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "719db9c99df4533b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado celebra os 25 anos do Lide, grupo que reúne líderes empresariais",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/11/senado-homenageia-os-25-anos-do-lide-grupo-que-reune-lideres-empresariais",
+      "resumo": "",
+      "publicado_em": "2026-11-09T14:45:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "50e0a19e16a54fac",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Atendimento presencial e educação digital para idosos estão em análise no Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/atendimento-presencial-e-educacao-digital-para-idosos-estao-em-analise-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-09T14:38:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "ac78fe5bbc9cc5d3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAE terá audiência sobre fim das bets",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cae-tera-audiencia-sobre-fim-das-bets",
+      "resumo": "",
+      "publicado_em": "2026-11-09T13:06:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "386942aede49618a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Atuação do grupo Lide é aplaudida em sessão especial no Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/atuacao-do-grupo-lide-e-aplaudida-em-sessao-especial-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:49:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "b74e66c682735598",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Cultural abre as portas em 9/12 com exposição sobre 200 anos da Casa",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/senado-cultural-abre-as-portas-em-9-12-com-exposicao-sobre-200-anos-da-casa",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:26:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "60a39963aa616913",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Governo estende programa Gás do Povo até 2031",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/governo-estende-programa-gas-do-povo-ate-2031",
+      "resumo": "",
+      "publicado_em": "2026-11-09T11:32:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "5f5add5fefd6df61",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pauta tem inclusão de mulheres com câncer de mama no mercado de trabalho",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/pauta-tem-inclusao-de-mulheres-com-cancer-de-mama-no-mercado-de-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-11-09T10:50:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "734292608df14cf1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Agora é lei: prática da medicina dependerá de aprovação no Enamed",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/agora-e-lei-pratica-da-medicina-dependera-de-aprovacao-no-enamed",
+      "resumo": "",
+      "publicado_em": "2026-11-09T10:25:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "60daca0d014da5c1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Artesão de baixa renda pode se tornar segurado especial da Previdência",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/artesao-de-baixa-renda-pode-se-tornar-segurado-especial-da-previdencia",
+      "resumo": "",
+      "publicado_em": "2026-11-09T09:34:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "de64e882ac03114b",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal libera acesso às novas APIs de apuração da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-11-09T16:57:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "488b16461754c3c0",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Em seis dias, Operação Fronteira Receita Federal apreendeu mais de 3,5 toneladas de drogas",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/em-seis-dias-operacao-fronteira-receita-federal-apreendeu-mais-de-3-5-toneladas-de-drogas",
+      "resumo": "",
+      "publicado_em": "2026-11-09T16:06:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 12,
+      "tags": [
+        "acao",
+        "apreende",
+        "droga"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "876d4de0347f3e67",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação Fronteira: Receita Federal apreende anabolizantes, cabelo humano e mais de 12 kg de drogas em Viracopos",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/operacao-fronteira-receita-federal-apreende-anabolizantes-cabelo-humano-e-mais-de-12-kg-de-drogas-em-viracopos",
+      "resumo": "",
+      "publicado_em": "2026-11-09T16:01:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 12,
+      "tags": [
+        "acao",
+        "apreende",
+        "droga"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "97b44d1634c114db",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal disponibiliza calculadora para apoiar contribuintes na análise de opções de transação tributária.",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-disponibiliza-calculadora-para-apoiar-contribuintes-na-analise-de-opcoes-de-transacao-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-11-09T14:30:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "6658bd7a80ad9384",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal abre consulta pública sobre alteração da IN do Adicional da CSLL",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-abre-consulta-publica-sobre-alteracao-da-in-do-adicional-da-csll",
+      "resumo": "",
+      "publicado_em": "2026-11-09T08:24:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "6ac47a1dbb312788",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo Federal investe em novos cabos submarinos para expandir a conectividade",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-investe-em-novos-cabos-submarinos-para-expandir-a-conectividade-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-11-09T16:54:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "85bb769f4b081b66",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Estatais federais registram alta de 22% no lucro do primeiro semestre de 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/estatais-federais-registram-alta-de-22-no-lucro-do-primeiro-semestre-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-11-09T15:40:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "73cd2063238755f5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Calculadora da Receita apoia contribuintes na análise de opções de transação tributária",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/receita-federal-disponibiliza-calculadora-para-apoiar-contribuintes-na-analise-de-opcoes-de-transacao-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-11-09T14:30:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "8009b96e0bb16196",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF participa de campanha internacional de prevenção a crimes cibernéticos entre jovens",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/pf-participa-de-campanha-internacional-de-prevencao-a-crimes-ciberneticos-entre-jovens",
+      "resumo": "",
+      "publicado_em": "2026-11-09T14:22:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "2005a3b827814420",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "EBC e Museu da Imagem e do Som firmam acordo para preservar memória audiovisual brasileira",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ebc-e-museu-da-imagem-e-do-som-firmam-acordo-para-preservar-e-difundir-memoria-audiovisual-brasileira",
+      "resumo": "",
+      "publicado_em": "2026-11-09T14:22:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "4e368dc4c72327d8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enade 2026: locais de prova e Cartão de Confirmação estão disponíveis",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/enade-2026-locais-de-prova-e-cartao-de-confirmacao-estao-disponiveis",
+      "resumo": "",
+      "publicado_em": "2026-11-09T14:10:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "d21942fd99ecff7b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Iphan abre consulta pública sobre novas regras para tombamento de bens culturais materiais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/iphan-abre-consulta-publica-sobre-novas-regras-para-tombamento-de-bens-culturais-materiais",
+      "resumo": "",
+      "publicado_em": "2026-11-09T13:57:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "novas regras"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "e667b29c14c06ac5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "União destina área para construção de 550 moradias populares em Fortaleza",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-destina-area-da-uniao-para-a-construcao-de-550-moradias-populares-em-fortaleza-ce",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:55:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "7ca47e57536d1e6b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério da Saúde compra lote com 25 mil doses da vacina contra mpox",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-compra-lote-com-25-mil-doses-da-vacina-contra-mpox",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:36:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "5e441b392b080b0f",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Corrente de comércio do Brasil bate recorde em outubro, com US$ 66,3 bilhões",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/corrente-de-comercio-do-brasil-bate-recorde-em-outubro-com-us-66-3-bilhoes",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:28:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "12fe953cf70f387f",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "900 agências do INSS já oferecem perícia médica por telemedicina",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/900-agencias-do-inss-ja-oferecem-pericia-medica-por-telemedicina",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:15:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "2adf96d05089b813",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Senacon notifica seis empresas por possível discriminação por posicionamento político",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/senacon-notifica-seis-empresas-por-possivel-discriminacao-de-consumidores-por-posicionamento-politico",
+      "resumo": "",
+      "publicado_em": "2026-11-09T11:13:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "ab1c62054c19b0a2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Novembro Azul: campanha reforça importância da prevenção e dos cuidados com a saúde do homem",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/novembro-azul-campanha-reforca-a-importancia-da-prevencao-e-dos-cuidados-com-a-saude-do-homem",
+      "resumo": "",
+      "publicado_em": "2026-11-09T09:55:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "63b6dba1cbd7edbf",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo Federal prorroga Auxílio Gás do Povo até novembro de 2031",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-prorroga-vigencia-do-auxilio-gas-do-povo-ate-novembro-de-2031",
+      "resumo": "",
+      "publicado_em": "2026-11-09T09:47:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "37f68838e927abcd",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Confira o novo edital de classificação do CPNU 2 para vagas remanescentes",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/cpnu-2-confira-o-novo-edital-de-classificacao-para-vagas-remanescentes",
+      "resumo": "",
+      "publicado_em": "2026-11-09T08:25:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "84baf457cb410e56",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Feirão Limpa Nome: agências dos Correios recebem especialistas em finanças para tirar dúvidas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/feirao-limpa-nome-2013-agencias-dos-correios-recebem-especialistas-em-financas-para-tirar-duvidas-dos-consumidores",
+      "resumo": "",
+      "publicado_em": "2026-11-09T00:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "4379728a759f423b",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal libera acesso às novas APIs de apuração da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "0798b968d8ab5108",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal divulga calculadora para apoiar contribuintes na análise de opções de transação tributária",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-divulga-calculadora-para-apoiar-contribuintes-na-analise-de-opcoes-de-transacao-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "b90f4e7fbb044268",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal divulga portaria para concurso público das carreiras tributárias",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-divulga-portaria-para-concurso-publico-das-carreiras-tributarias",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "portaria"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "b1ccc5a1b480efb5",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal abre consulta pública sobre alteração da Instrução Normativa do Adicional da CSLL",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-abre-consulta-publica-sobre-alteracao-da-instrucao-normativa-do-adicional-da-csll",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 72,
+      "tags": [
+        "adi",
+        "instrucao normativa",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "a08a22013465affe",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM edita norma sobre agências de classificação de risco de crédito",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-edita-norma-sobre-agencias-de-classificacao-de-risco-de-credito",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "1b5e1254a8f6a399",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM atualiza rol de certificações aceitas para o exercício da atividade de consultoria de valores mobiliários",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-atualiza-rol-de-certificacoes-aceitas-para-o-exercicio-da-atividade-de-consultoria-de-valores-mobiliarios",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "ea72693f31ad882e",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Atenção, jornalistas: inscrições abertas para o 20º Prêmio Imprensa",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/atencao-jornalistas-inscricoes-abertas-para-o-20o-premio-imprensa",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "afc30fb2865da8d6",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Revertida suspensão de registro de companhia aberta",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/revertida-suspensao-de-registro-de-companhia-aberta",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "bb988e181a324e8a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Domingos Neto propõe voto único para o sistema distrital misto",
+      "link": "https://www.congressoemfoco.com.br/noticia/131433/domingos-neto-propoe-voto-unico-para-o-sistema-distrital-misto",
+      "resumo": "Com o voto único, a votação dos distritos também definirá as vagas proporcionais, conforme o desempenho dos candidatos de cada legenda.",
+      "publicado_em": "2026-11-09T17:09:33-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "6c925168bcc4d4b1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vídeo que expõe FHC vira caso de polícia e filhos acionam MP/SP",
+      "link": "https://www.congressoemfoco.com.br/noticia/131432/video-que-expoe-fhc-vira-caso-de-policia-e-filhos-acionam-mp-sp",
+      "resumo": "Na gravação, publicada no Tik Tok, Wesley Oliveira mostra os cômodos e peças da mobília com valor de mercado, além das acomodações do ex-presidente.",
+      "publicado_em": "2026-11-09T17:06:58-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "aa0e51e5b7824795",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senacon notifica seis empresas por possível discriminação política",
+      "link": "https://www.congressoemfoco.com.br/noticia/131431/senacon-notifica-seis-empresas-por-possivel-discriminacao-politica",
+      "resumo": "Notificações envolvem publicações e relatos de recusa ou cancelamento de atendimento por convicção ou posicionamento político.",
+      "publicado_em": "2026-11-09T16:43:40-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "eb3a6ab54f87803b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto proíbe contratação pública de artistas que discriminem regiões",
+      "link": "https://www.congressoemfoco.com.br/noticia/131430/projeto-proibe-contratacao-publica-de-artistas-que-discriminem-regioes",
+      "resumo": "Proposta do Pastor Sargento Isidório busca vetar quem tenha promovido manifestações de discriminação, hostilidade ou segregação por causa da origem.",
+      "publicado_em": "2026-11-09T16:00:48-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "140a2f75be85120f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O ódio que alguns fingem não entender",
+      "link": "https://www.congressoemfoco.com.br/coluna/131429/o-odio-que-alguns-fingem-nao-entender",
+      "resumo": "Ameaças a parlamentares e agressões contra mulheres expõem a persistência da misoginia, mesmo diante dos avanços da representação feminina.",
+      "publicado_em": "2026-11-09T15:51:15-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "a1a389d0298c8fdb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Se eu fizesse o Enem hoje: minha redação sobre o SUS",
+      "link": "https://www.congressoemfoco.com.br/artigo/131426/se-eu-fizesse-o-enem-hoje-minha-redacao-sobre-o-sus",
+      "resumo": "O tema deste ano pediu ao candidato que defendesse o SUS como direito universal. Encarei as 30 linhas como se estivesse na sala de prova.",
+      "publicado_em": "2026-11-09T14:57:44-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "63b365743e80bb7e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O IBGE precisa nos ver: queremos ser contados no Censo de 2030",
+      "link": "https://www.congressoemfoco.com.br/artigo/131424/o-ibge-precisa-nos-ver-queremos-ser-contados-no-censo-de-2030",
+      "resumo": "Após mais de 30 anos de reivindicações, inclusão de dados sobre orientação sexual e identidade de gênero volta ao debate na Justiça.",
+      "publicado_em": "2026-11-09T14:34:18-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "eeb0613be6ffb702",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Brasil além do tarifaço",
+      "link": "https://www.congressoemfoco.com.br/artigo/131423/brasil-alem-do-tarifaco",
+      "resumo": "Três planos de emergência em um ano mostram que o país sabe reagir a crises. Resta saber se ainda sabe planejar.",
+      "publicado_em": "2026-11-09T14:25:08-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "43755c5d4c1d1f4a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dorinaldo Malafaia critica federação e anuncia saída do PDT",
+      "link": "https://www.congressoemfoco.com.br/noticia/131422/dorinaldo-malafaia-critica-federacao-e-anuncia-saida-do-pdt",
+      "resumo": "Malafaia criticou a falta de consulta à bancada e aos dirigentes estaduais na decisão de integrar o bloco com partidos de centro.",
+      "publicado_em": "2026-11-09T14:12:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "0eada80093b1ed6c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PGR pede a Fachin o arquivamento do inquérito das Fake News",
+      "link": "https://www.congressoemfoco.com.br/noticia/131421/pgr-pede-a-fachin-o-arquivamento-do-inquerito-das-fake-news",
+      "resumo": "Com a manifestação da procuradoria, presidente do STF deverá decidir sobre o encerramento da investigação instaurada em 2019.",
+      "publicado_em": "2026-11-09T14:02:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "ee39c7bd66ed7ba8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governo Federal prorroga vigência do programa Gás do Povo até 2031",
+      "link": "https://www.congressoemfoco.com.br/noticia/131420/governo-federal-prorroga-vigencia-do-programa-gas-do-povo-ate-2031",
+      "resumo": "Medida mantém gratuidade da recarga de botijão de 13 kg para mais de 15 milhões de famílias.",
+      "publicado_em": "2026-11-09T12:52:20-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "vigencia"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "859d1a8d4164b33b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A solidariedade é o pilar da dignidade humana",
+      "link": "https://www.congressoemfoco.com.br/artigo/131419/a-solidariedade-e-o-pilar-da-dignidade-humana",
+      "resumo": "Sem solidariedade, a dignidade humana não passa de letra morta largada, ao léu, nas estradas turbulentas da vida.",
+      "publicado_em": "2026-11-09T12:46:17-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "solidariedade"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "154b628b77583e12",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O preço de uma juventude sedentária",
+      "link": "https://www.congressoemfoco.com.br/artigo/131418/o-preco-de-uma-juventude-sedentaria",
+      "resumo": "Dados da OMS sobre sedentarismo entre adolescentes reforçam a urgência de ampliar o acesso ao esporte e avançar com projeto parado no Senado.",
+      "publicado_em": "2026-11-09T12:31:21-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "ecf128b5f46adffa",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Adiar a cobrança de tributos é proteger a segurança das empresas",
+      "link": "https://www.congressoemfoco.com.br/artigo/131417/adiar-a-cobranca-de-tributos-e-proteger-a-seguranca-das-empresas",
+      "resumo": "Falta de definições sobre a nova tributação dificulta o planejamento de contratos, preços e investimentos e amplia os riscos para o setor produtivo.",
+      "publicado_em": "2026-11-09T12:12:27-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "bdfcd87aff0a9053",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Babá nos EUA, mato-grossense se torna deputada em Massachussets",
+      "link": "https://www.congressoemfoco.com.br/noticia/131416/baba-nos-eua-mato-grossense-se-torna-deputada-em-massachussets",
+      "resumo": "Filiada ao Partido Democrata, Lorena Betts venceu a disputa pelo 16º Distrito de Middlesex, que abrange áreas de Lowell e Chelmsford.",
+      "publicado_em": "2026-11-09T11:50:32-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "66a5cc3daebd4014",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O risco de Abilene na formação do novo governo",
+      "link": "https://www.congressoemfoco.com.br/artigo/131415/o-risco-de-abilene-na-formacao-do-novo-governo",
+      "resumo": "A busca por apoio político pode produzir consensos frágeis quando os envolvidos confundem cordialidade com compromisso.",
+      "publicado_em": "2026-11-09T11:45:18-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "e21b489346f0d34c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "STF terá mês de julgamentos sobre partidos, emendas e nepotismo",
+      "link": "https://www.congressoemfoco.com.br/noticia/131414/stf-tera-mes-de-julgamentos-sobre-partidos-emendas-e-nepotismo",
+      "resumo": "Entre os principais temas está a anistia concedida a legendas que descumpriram regras relacionadas às cotas raciais e de gênero.",
+      "publicado_em": "2026-11-09T11:17:03-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "2c1941fa88da15ad",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O quarto mandato de Lula e o futuro das relações de trabalho",
+      "link": "https://www.congressoemfoco.com.br/artigo/131413/o-quarto-mandato-de-lula-e-o-futuro-das-relacoes-de-trabalho",
+      "resumo": "As decisões do governo sobre legislação trabalhista, política fiscal e composição do STF terão reflexos na economia, no mercado de trabalho e na segurança jurídica do país nos próximos anos.",
+      "publicado_em": "2026-11-09T11:01:50-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "66f42bc84967fbd2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A promessa impagável de Trump",
+      "link": "https://www.congressoemfoco.com.br/artigo/131411/a-promessa-impagavel-de-trump",
+      "resumo": "A promessa de US$ 5 mil por adulto, condicionada à vitória republicana que não aconteceu, deixaria um custo fiscal estimado em US$ 1,2 trilhão e dúvidas sobre seus efeitos econômicos.",
+      "publicado_em": "2026-11-09T10:41:25-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "5b98e9092b14e04f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Dia Mundial da Adoção: aplicativo A.dot SNA viabilizou mais de 300 adoções em seis meses de nacionalização",
+      "link": "https://www.cnj.jus.br/dia-mundial-da-adocao-aplicativo-a-dot-sna-viabilizou-mais-de-300-adocoes-em-seis-meses-de-nacionalizacao/",
+      "resumo": "Celebrado neste dia 9 de novembro, o Dia Mundial da Adoção chama a atenção para a importância de garantir a crianças e adolescentes o direito constitucional de crescer em família, com afeto, proteção e segurança. Nesse contexto, o mecanismo de busca ativa tem ampliado as oportunidades de adoção no B",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "359836f9c38a4eef",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Trabalho decente no sistema prisional se consolida como estratégia de segurança pública",
+      "link": "https://www.cnj.jus.br/trabalho-decente-no-sistema-prisional-se-consolida-como-estrategia-de-seguranca-publica/",
+      "resumo": "O acesso ao trabalho decente e remunerado é a principal aposta do plano Pena Justa para que pessoas que passaram pelo sistema prisional não voltem a cometer crimes. As frentes de ação do Pena Justa Emprega têm o objetivo de que a oferta de trabalho ocorra de forma padronizada para",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "72d302bc3ccecd36",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Cancelada votação de parecer sobre política nacional para pessoas com autismo",
+      "link": "https://www.camara.leg.br/noticias/1296150-cancelada-votacao-de-parecer-sobre-politica-nacional-para-pessoas-com-autismo",
+      "resumo": "",
+      "publicado_em": "2026-11-09T17:40:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "ee1ff8fc3e38e241",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova diretrizes para atendimento integral a mulheres com endometriose no SUS",
+      "link": "https://www.camara.leg.br/noticias/1317308-comissao-aprova-diretrizes-para-atendimento-integral-a-mulheres-com-endometriose-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-11-09T17:37:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "cd4a5b01bb4b6ac8",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova ampliação da política nacional para pacientes com diabetes tipo 1 no SUS",
+      "link": "https://www.camara.leg.br/noticias/1317312-comissao-aprova-ampliacao-da-politica-nacional-para-pacientes-com-diabetes-tipo-1-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-11-09T17:19:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "2aafa26169d4f18d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Especialistas afirmam que Brasil avança para se tornar referência em educação digital e midiática",
+      "link": "https://www.camara.leg.br/noticias/1317402-especialistas-afirmam-que-brasil-avanca-para-se-tornar-referencia-em-educacao-digital-e-midiatica",
+      "resumo": "",
+      "publicado_em": "2026-11-09T16:49:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "b7b1125d02394ebb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão discute falta de auditores-fiscais do trabalho nesta quarta-feira",
+      "link": "https://www.camara.leg.br/noticias/1317278-comissao-discute-falta-de-auditores-fiscais-do-trabalho-nesta-quarta-feira",
+      "resumo": "",
+      "publicado_em": "2026-11-09T16:16:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "4fae2afb8ceb5905",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova regras de prevenção e resposta a emergências em escolas",
+      "link": "https://www.camara.leg.br/noticias/1317310-comissao-aprova-regras-de-prevencao-e-resposta-a-emergencias-em-escolas",
+      "resumo": "",
+      "publicado_em": "2026-11-09T15:47:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "c05fd39590f996ab",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova destinação de recursos da venda de bens militares ao Ministério da Defesa",
+      "link": "https://www.camara.leg.br/noticias/1317252-comissao-aprova-destinacao-de-recursos-da-venda-de-bens-militares-ao-ministerio-da-defesa",
+      "resumo": "",
+      "publicado_em": "2026-11-09T15:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "aprova",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "b017a50cbafd126b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que inclui trabalho doméstico e de cuidado na redução de pena",
+      "link": "https://www.camara.leg.br/noticias/1317305-comissao-aprova-projeto-que-inclui-trabalho-domestico-e-de-cuidado-na-reducao-de-pena",
+      "resumo": "",
+      "publicado_em": "2026-11-09T14:44:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "0ad75df4d6002dcf",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate exploração sexual de crianças e adolescentes em rodovias e no turismo",
+      "link": "https://www.camara.leg.br/noticias/1317272-comissao-debate-exploracao-sexual-de-criancas-e-adolescentes-em-rodovias-e-no-turismo",
+      "resumo": "",
+      "publicado_em": "2026-11-09T14:16:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "b23e78d5379a9a5b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova programa para ampliar ações de atividade física no SUS",
+      "link": "https://www.camara.leg.br/noticias/1317164-comissao-aprova-programa-para-ampliar-acoes-de-atividade-fisica-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-11-09T13:17:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "9fd29168a92cbb65",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Decreto Presidencial de promulgação do Acordo de Defesa da Concorrência do Mercosul é publicado",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/decreto-presidencial-de-promulgacao-do-acordo-de-defesa-da-concorrencia-do-mercosul-e-publicado",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decreto",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
     {
       "id": "b01d68f392f88582",
       "fonte_id": "tjsp",
@@ -301,10 +1757,40 @@
       "coletado_em": "2026-11-08T20:18:53-03:00"
     },
     {
+      "id": "32254fe8475d969d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Lula diz que foco do governo é o crescimento e reafirma compromisso com a responsabilidade fiscal",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/lula-afirma-que-governo-tera-foco-no-crescimento-e-compromisso-com-a-responsabilidade-fiscal-em-pronunciamento",
+      "resumo": "",
+      "publicado_em": "2026-11-08T21:30:00-03:00",
+      "dia": "2026-11-08",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "6cde5014ce18662a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enem tem participação recorde de concluintes da rede pública",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/enem-2026-tem-participacao-recorde-de-concluintes-da-rede-publica",
+      "resumo": "",
+      "publicado_em": "2026-11-08T21:09:00-03:00",
+      "dia": "2026-11-08",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
       "id": "c202e1911043bf86",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "“Esse país só vai garantir um futuro digno de verdade para o seu povo com educação”, diz Lula sobre o Enem",
+      "titulo": "“País só vai garantir futuro digno de verdade para seu povo com educação”, diz Lula sobre o Enem",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/201cesse-pais-so-vai-garantir-um-futuro-digno-de-verdade-para-o-seu-povo-com-educacao201d-diz-lula-sobre-o-enem",
       "resumo": "",
       "publicado_em": "2026-11-08T14:55:00-03:00",
@@ -636,6 +2122,24 @@
         "judicial"
       ],
       "coletado_em": "2026-11-05T15:32:00-03:00"
+    },
+    {
+      "id": "8b757b462bd76dad",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Regional aprova cancelamento de súmulas e teses jurídicas prevalecentes",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/regional-aprova-cancelamento-de-sumulas-e-teses-juridicas-prevalecentes",
+      "resumo": "",
+      "publicado_em": "2026-11-06T12:00:00-03:00",
+      "dia": "2026-11-06",
+      "data_estimada": true,
+      "score": 76,
+      "tags": [
+        "tese",
+        "sumula",
+        "aprova"
+      ],
+      "coletado_em": "2026-10-27T20:22:29-03:00"
     },
     {
       "id": "a24db5309774c437",
@@ -2347,7 +3851,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Saúde suplementar: ferramentas de conciliação envolvem inovação e diálogo",
       "link": "https://www.cnj.jus.br/saude-suplementar-ferramentas-de-conciliacao-envolvem-inovacao-e-dialogo/",
-      "resumo": "A desjudicialização da saúde representa o fortalecimento de ferramentas que possam possibilitar a negociação, o diálogo e o acordo, e não o afastamento da Justiça. Para especialistas presentes no V Congresso do Fórum Nacional do Judiciário para a Saúde (Fonajus) nesta sexta-feira (6/11), canais de r",
+      "resumo": "A desjudicialização da saúde representa o fortalecimento de ferramentas que possam possibilitar a negociação, o diálogo e o acordo, e não o afastamento da Justiça. Para especialistas presentes no V Congresso do Fórum Nacional do Judiciário para a Saúde (Fonajus) nesta sexta-feira (6/11), o uso de ca",
       "publicado_em": "2026-11-06T12:00:00-03:00",
       "dia": "2026-11-06",
       "data_estimada": true,
@@ -2362,7 +3866,7 @@
       "id": "88e0752aecc5e6ab",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Práticas para garantir direito à saúde são reconhecidas com Prêmio Justiça e Saúde",
+      "titulo": "Práticas para garantir direito à saúde são reconhecidas no Prêmio Justiça e Saúde",
       "link": "https://www.cnj.jus.br/praticas-para-garantir-direito-a-saude-sao-reconhecidas-com-premio-justica-e-saude/",
       "resumo": "Os vencedores do 4º Prêmio Justiça e Saúde foram reconhecidos em solenidade nesta sexta-feira (6/11), realizada no encerramento do V Congresso do Fórum Nacional do Judiciário para a Saúde (Fonajus), no Rio de Janeiro. Promovida pelo Conselho Nacional de Justiça (CNJ), a premiação reconheceu boas prá",
       "publicado_em": "2026-11-06T12:00:00-03:00",
@@ -2379,9 +3883,9 @@
       "id": "113034462be46ae2",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Corregedor nacional de Justiça anuncia programa Conexão Extrajudicial",
+      "titulo": "Corregedor nacional de justiça anuncia programa Conexão Extrajudicial",
       "link": "https://www.cnj.jus.br/corregedor-nacional-de-justica-anuncia-programa-conexao-extrajudicial/",
-      "resumo": "O corregedor nacional de Justiça, ministro Benedito Gonçalves, participou nesta sexta-feira (6/11) da programação do último dia do 98º Encontro Nacional de Corregedoras e Corregedores da Justiça do Brasil (Encoge), em Maceió. Em participação online, ele anunciou a criação do programa Conexão Extraju",
+      "resumo": "O corregedor nacional de justiça, ministro Benedito Gonçalves, participou nesta sexta-feira (6/11) da programação do último dia do 98º Encontro Nacional de Corregedoras e Corregedores da Justiça do Brasil (Encoge), em Maceió (AL). Em participação on-line, ele anunciou a criação do programa Conexão E",
       "publicado_em": "2026-11-06T12:00:00-03:00",
       "dia": "2026-11-06",
       "data_estimada": true,
@@ -2398,7 +3902,7 @@
       "fonte_nome": "CNJ",
       "titulo": "CNJ aponta perspectivas para centros de inteligência em encontro no Paraná",
       "link": "https://www.cnj.jus.br/cnj-aponta-perspectivas-para-centros-de-inteligencia-em-encontro-no-parana/",
-      "resumo": "A presidente do Laboratório de Inovação, Inteligência e Objetivos de Desenvolvimento Sustentável (LIODS), conselheira do Conselho Nacional de Justiça (CNJ) Andréa Cunha Esmeraldo, conduziu o painel inaugural do V Encontro Nacional dos Centros de Inteligência do Poder Judiciário, em Foz do Iguaçu (PR",
+      "resumo": "A presidente do Laboratório de Inovação, Inteligência e Objetivos de Desenvolvimento Sustentável (Liods), conselheira do Conselho Nacional de Justiça (CNJ) Andréa Cunha Esmeraldo, conduziu o painel inaugural do V Encontro Nacional dos Centros de Inteligência do Poder Judiciário, em Foz do Iguaçu (PR",
       "publicado_em": "2026-11-06T12:00:00-03:00",
       "dia": "2026-11-06",
       "data_estimada": true,
@@ -6524,6 +8028,20 @@
       "coletado_em": "2026-11-04T17:35:35-03:00"
     },
     {
+      "id": "f78f6c0c7e6ed714",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe garantir Bolsa Família por 24 meses após novo emprego",
+      "link": "https://www.congressoemfoco.com.br/noticia/131307/deputado-propoe-garantir-bolsa-familia-por-24-meses-apos-novo-emprego",
+      "resumo": "Texto prevê redução de até 50% da contribuição previdenciária patronal para empresas que ampliarem o quadro de funcionários contratando trabalhadores elegíveis ao programa.",
+      "publicado_em": "2026-11-04T15:44:30-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
       "id": "85e6d18ab95a173a",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -8560,7 +10078,7 @@
       "id": "7268b4a834ca5548",
       "fonte_id": "pgfn",
       "fonte_nome": "PGFN",
-      "titulo": "Unidade da PGFN em Maringá sem atendimento presencial",
+      "titulo": "Retomado atendimento na unidade da PGFN em Maringá",
       "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/unidade-da-pgfn-em-maringa-sem-atendimento-presencial",
       "resumo": "",
       "publicado_em": "2026-11-03T12:00:00-03:00",
@@ -16484,24 +18002,6 @@
         "exposicao"
       ],
       "coletado_em": "2026-10-13T16:59:18-03:00"
-    },
-    {
-      "id": "8b757b462bd76dad",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Regional aprova cancelamento de súmulas e teses jurídicas prevalecentes",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/regional-aprova-cancelamento-de-sumulas-e-teses-juridicas-prevalecentes",
-      "resumo": "",
-      "publicado_em": "2026-10-27T12:00:00-03:00",
-      "dia": "2026-10-27",
-      "data_estimada": true,
-      "score": 76,
-      "tags": [
-        "tese",
-        "sumula",
-        "aprova"
-      ],
-      "coletado_em": "2026-10-27T20:22:29-03:00"
     },
     {
       "id": "66f8b22318ffba2d",
@@ -30243,20 +31743,6 @@
         "acao"
       ],
       "coletado_em": "2026-10-19T14:20:19-03:00"
-    },
-    {
-      "id": "bbb5f6b4f2530d6f",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados",
-      "link": "https://trt15.jus.br/noticia/2026/acesso-indevido-ao-dejt-e-ao-malote-digital-verifique-se-seus-dados-foram-acessados",
-      "resumo": "Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados anagatto Seg, 19/10/2026 - 15:59 Acesso indevido ao DEJT e ao Malote Digital: verifique se seus dados foram acessados Conteúdo da Notícia Ambos sistemas já foram restabelecidos. Polícia Federal e a ANPD foram inform",
-      "publicado_em": "2026-10-19T15:59:21-03:00",
-      "dia": "2026-10-19",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-09-21T17:15:24-03:00"
     },
     {
       "id": "7d607073b0ef41a3",
@@ -118016,261 +119502,6 @@
         "acao"
       ],
       "coletado_em": "2026-08-12T15:14:18-03:00"
-    },
-    {
-      "id": "e3a0df28e42c78c0",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Faculdade de Direito da USP homenageia presidente do TRT-2 na abertura do Jubileu do Bicentenário",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/faculdade-de-direito-da-usp-homenageia-presidente-do-trt-2-na-abertura-do-jubileu-do-bicentenario",
-      "resumo": "",
-      "publicado_em": "2026-08-10T12:00:00-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": true,
-      "score": 20,
-      "tags": [
-        "homenageia"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "d8cdc0a0a71f1742",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "No Largo de São Francisco, Fachin participa da abertura das celebrações pelos 200 anos dos cursos jurídicos no Brasil",
-      "link": "https://noticias.stf.jus.br/postsnoticias/no-largo-de-sao-francisco-presidente-do-stf-participa-da-abertura-das-celebracoes-pelos-200-anos-dos-cursos-juridicos-no-brasil/",
-      "resumo": "Presidente do STF ressaltou papel da Faculdade de Direito de São Paulo como espaço de defesa das liberdades públicas, dos direitos humanos e da democracia",
-      "publicado_em": "2026-08-10T14:37:40-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "8fc223d72a06bb58",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "Confiança pública é fundamento da autoridade legítima das instituições, afirma presidente do STF",
-      "link": "https://noticias.stf.jus.br/postsnoticias/confianca-publica-e-fundamento-da-autoridade-legitima-das-instituicoes-afirma-presidente-do-stf/",
-      "resumo": "Em seminário realizado pela Folha de S.Paulo, Fachin falou sobre confiança, integridade e transparência no Judiciário",
-      "publicado_em": "2026-08-10T11:41:30-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": false,
-      "score": 30,
-      "tags": [
-        "seminario"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "097daa9928f422a6",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "Do Plenário à Agenda 2030: STF transforma sustentabilidade em prática institucional",
-      "link": "https://noticias.stf.jus.br/postsnoticias/do-plenario-a-agenda-2030-stf-transforma-sustentabilidade-em-pratica-institucional/",
-      "resumo": "Última reportagem da série mostra que descarbonização, energia limpa, consumo responsável e cooperação institucional conectam a rotina da Corte aos Objetivos de Desenvolvimento Sustentável da ONU",
-      "publicado_em": "2026-08-10T09:00:00-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "d0f5557d6937cdd3",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "STF promoverá escuta de povos e comunidades tradicionais em Montes Claros (MG)",
-      "link": "https://noticias.stf.jus.br/postsnoticias/stf-promovera-escuta-de-povos-e-comunidades-tradicionais-em-montes-claros-mg/",
-      "resumo": "Iniciativa busca aproximar o Supremo de grupos historicamente pouco ouvidos pelo sistema de Justiça e ampliar a participação deles nos espaços de diálogo institucional",
-      "publicado_em": "2026-08-10T09:00:00-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": false,
-      "score": 56,
-      "tags": [
-        "adi",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "485803d0cdf4eb00",
-      "fonte_id": "mjsp",
-      "fonte_nome": "MJSP",
-      "titulo": "Sessão especial no Senado celebra o primeiro Dia Nacional da Proteção de Dados",
-      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/sessao-especial-no-senado-celebra-o-primeiro-dia-nacional-da-protecao-de-dados-1",
-      "resumo": "",
-      "publicado_em": "2026-08-10T12:00:00-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": true,
-      "score": 54,
-      "tags": [
-        "protecao de dados"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "cf2896f6b7503dc7",
-      "fonte_id": "mjsp",
-      "fonte_nome": "MJSP",
-      "titulo": "Senad e Copolad III iniciam visita técnica sobre prevenção ampliada",
-      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senad-e-copolad-iii-iniciam-visita-tecnica-sobre-prevencao-ampliada",
-      "resumo": "",
-      "publicado_em": "2026-08-10T12:00:00-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": true,
-      "score": 28,
-      "tags": [
-        "visita"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "d7f058c4f932a4fc",
-      "fonte_id": "mjsp",
-      "fonte_nome": "MJSP",
-      "titulo": "Fiscalização de bets é tema de oficina com órgãos de defesa do consumidor",
-      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/fiscalizacao-de-bets-e-tema-de-oficina-com-orgaos-de-defesa-do-consumidor-1",
-      "resumo": "",
-      "publicado_em": "2026-08-10T12:00:00-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "d42fa78175ae67c5",
-      "fonte_id": "mjsp",
-      "fonte_nome": "MJSP",
-      "titulo": "Operação Redecarga estima R$ 18 milhões em prejuízos ao crime organizado",
-      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-redecarga-estima-r-18-milhoes-em-prejuizos-ao-crime-organizado",
-      "resumo": "",
-      "publicado_em": "2026-08-10T12:00:00-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "ae607e5aaa8efb22",
-      "fonte_id": "mjsp",
-      "fonte_nome": "MJSP",
-      "titulo": "Senasp participa de Blitz do Autismo em ação de conscientização no Distrito Federal",
-      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senasp-participa-de-blitz-do-autismo-em-acao-de-conscientizacao-no-distrito-federal",
-      "resumo": "",
-      "publicado_em": "2026-08-10T12:00:00-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "a3f96ed73f804690",
-      "fonte_id": "mjsp",
-      "fonte_nome": "MJSP",
-      "titulo": "Workshop promove alinhamento para segurança das Eleições 2026",
-      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/workshop-promove-alinhamento-para-seguranca-das-eleicoes-2026",
-      "resumo": "",
-      "publicado_em": "2026-08-10T12:00:00-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "f86a1f4d0294149e",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Kim quer acabar com redução de pena para pequenos traficantes",
-      "link": "https://www.congressoemfoco.com.br/noticia/121155/kim-quer-acabar-com-reducao-de-pena-para-pequenos-traficantes",
-      "resumo": "Proposta elimina redução de pena para réus primários, com bons antecedentes e sem vínculo com organização criminosa.",
-      "publicado_em": "2026-08-10T18:28:07-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "e22699eaa025741a",
-      "fonte_id": "cnj",
-      "fonte_nome": "CNJ",
-      "titulo": "Confiança pública é fundamento da autoridade legítima das instituições, afirma presidente do CNJ",
-      "link": "https://www.cnj.jus.br/confianca-publica-e-fundamento-da-autoridade-legitima-das-instituicoes-afirma-presidente-do-cnj/",
-      "resumo": "O presidente do Supremo Tribunal Federal (STF) e do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, abriu, na manhã desta segunda-feira (10/8), em São Paulo (SP), a série de seminários “O Judiciário em Debate: integridade, eficiência e acesso à Justiça”, evento promovido pelo jornal Folha",
-      "publicado_em": "2026-08-10T12:00:00-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": true,
-      "score": 30,
-      "tags": [
-        "seminario"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "b26773a4c64e7b5d",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Cade busca consultor técnico especializado para elaboração e desenvolvimento de solução educacional de lideranças",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-busca-consultor-tecnico-especializado-para-elaboracao-e-desenvolvimento-de-solucao-educacional-de-liderancas",
-      "resumo": "",
-      "publicado_em": "2026-08-10T12:00:00-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": true,
-      "score": 56,
-      "tags": [
-        "cade",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "6e2eb50a8e2575d4",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Cade requisita servidor para atuar na Auditoria Interna",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-requisita-servidor-para-atuar-na-auditoria-interna",
-      "resumo": "",
-      "publicado_em": "2026-08-10T12:00:00-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": true,
-      "score": 50,
-      "tags": [
-        "cade"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
-    },
-    {
-      "id": "0c2c55c54c77e44c",
-      "fonte_id": "cade",
-      "fonte_nome": "Cade",
-      "titulo": "Cade está com oportunidade aberta para servidor na Assessoria de Comunicação Social",
-      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-esta-com-oportunidade-aberta-para-servidor-na-assessoria-de-comunicacao-social",
-      "resumo": "",
-      "publicado_em": "2026-08-10T12:00:00-03:00",
-      "dia": "2026-08-10",
-      "data_estimada": true,
-      "score": 56,
-      "tags": [
-        "cade",
-        "acao"
-      ],
-      "coletado_em": "2026-08-14T16:49:53-03:00"
     }
   ]
 }
