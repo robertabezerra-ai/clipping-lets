@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-09T18:17:28-03:00",
+  "gerado_em": "2026-11-09T20:12:26-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -166,9 +166,9 @@
     },
     {
       "id": "camara",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.camara.leg.br', port=443): Max retries exceeded with url: /noticias/ultimas (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.camara.leg"
     },
     {
       "id": "receita_federal",
@@ -221,7 +221,7 @@
     {
       "id": "cnj",
       "status": "ok",
-      "itens": 9,
+      "itens": 10,
       "erro": null
     },
     {
@@ -386,6 +386,37 @@
       "coletado_em": "2026-11-09T18:17:28-03:00"
     },
     {
+      "id": "73a9541d2521275e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF arquiva inquérito das fake news (Inquérito 4781)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-arquiva-inquerito-das-fake-news-inquerito-4-781/",
+      "resumo": "Decisão do ministro Edson Fachin acolhe manifestação da PGR, que indicou o esgotamento do objeto específico das investigações",
+      "publicado_em": "2026-11-09T19:58:27-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T20:12:26-03:00"
+    },
+    {
+      "id": "0d50a3a599d0cf8a",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Ouvidoria da Mulher do STF compartilha experiências de acolhimento e proteção em encontro nacional de ouvidorias",
+      "link": "https://noticias.stf.jus.br/postsnoticias/ouvidoria-da-mulher-do-stf-compartilha-experiencias-de-acolhimento-e-protecao-em-encontro-nacional-de-ouvidorias/",
+      "resumo": "No encontro em Macapá, foram apresentados a Sala Lilás, protocolos de atendimento e materiais educativos voltados à prevenção da violência e ao acolhimento das mulheres",
+      "publicado_em": "2026-11-09T19:33:46-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T20:12:26-03:00"
+    },
+    {
       "id": "37c8dcc31cb25fbd",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -471,6 +502,22 @@
         "processo"
       ],
       "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "138713133dc0bf36",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Conselho de Comunicação debate seu papel em remoção de conteúdos nas redes",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/09/conselho-de-comunicacao-debate-seu-papel-em-remocao-de-conteudos-nas-redes",
+      "resumo": "",
+      "publicado_em": "2026-11-09T18:36:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T20:12:26-03:00"
     },
     {
       "id": "5c8ef1fc4eff4c54",
@@ -746,6 +793,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "c0497529acd203aa",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação Fronteira registra oito prisões e R$ 3 milhões em apreensões na primeira semana em Santana do Livramento (RS)",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/operacao-fronteira-registra-oito-prisoes-e-r-3-milhoes-em-apreensoes-na-primeira-semana-em-santana-do-livramento-rs",
+      "resumo": "",
+      "publicado_em": "2026-11-09T18:21:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T20:12:26-03:00"
     },
     {
       "id": "de64e882ac03114b",
@@ -1137,6 +1200,22 @@
       "coletado_em": "2026-11-09T18:17:28-03:00"
     },
     {
+      "id": "abcc4925bf886381",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Ministério da Fazenda apresenta avanços da Transformação Ecológica durante COP31 na Turquia",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/ministerio-da-fazenda-apresenta-avancos-da-transformacao-ecologica-durante-cop31-na-turquia",
+      "resumo": "",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T20:12:26-03:00"
+    },
+    {
       "id": "a08a22013465affe",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -1195,6 +1274,36 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "9895a9dabfe3748d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MP da renegociação de dívidas rurais expira na quarta-feira",
+      "link": "https://www.congressoemfoco.com.br/noticia/131437/mp-da-renegociacao-de-dividas-rurais-expira-na-quarta-feira",
+      "resumo": "A comissão mista ainda não votou o parecer de Paulo Pimenta, e o texto precisa passar pelos plenários da Câmara e do Senado.",
+      "publicado_em": "2026-11-09T18:27:41-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T20:12:26-03:00"
+    },
+    {
+      "id": "d09b2f76a439e00c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Prefeito em SP é gravado imobilizando agressor de mulher em bar",
+      "link": "https://www.congressoemfoco.com.br/noticia/131435/prefeito-em-sp-e-gravado-imobilizando-agressor-de-mulher-em-bar",
+      "resumo": "Eduardo Boigues derrubou e imobilizou o suspeito depois de presenciar a agressão; agentes municipais o levaram à delegacia.",
+      "publicado_em": "2026-11-09T17:57:09-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T20:12:26-03:00"
     },
     {
       "id": "bb988e181a324e8a",
@@ -1291,6 +1400,23 @@
         "acao"
       ],
       "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "0783d8fecb3f45be",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O comitê de auditoria nas empresas estatais",
+      "link": "https://www.congressoemfoco.com.br/artigo/131425/o-comite-de-auditoria-nas-empresas-estatais",
+      "resumo": "Independência, fiscalização de riscos e acompanhamento de recomendações são essenciais para fortalecer a governança e prevenir falhas nas estatais.",
+      "publicado_em": "2026-11-09T14:48:30-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "acao",
+        "comenda"
+      ],
+      "coletado_em": "2026-11-09T20:12:26-03:00"
     },
     {
       "id": "63b365743e80bb7e",
@@ -1527,6 +1653,72 @@
         "acao"
       ],
       "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "e4f44358ef2ba44e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ leva experiência do Judiciário brasileiro a debate internacional sobre acesso",
+      "link": "https://www.cnj.jus.br/cnj-leva-experiencia-do-judiciario-brasileiro-a-debate-internacional-sobre-acesso/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) representou o Poder Judiciário brasileiro na Mesa Redonda Global sobre Acesso à Justiça, promovida pela Organização para a Cooperação e Desenvolvimento Econômico (OCDE) em Istambul (Turquia). O conselheiro Marcello Terto, ouvidor nacional de Justiça, foi o repres",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T20:12:26-03:00"
+    },
+    {
+      "id": "9d883f929a1d91f0",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Novos tutoriais orientam usuários sobre o uso da Remessa Digital e o peticionamento pelo Jus.br",
+      "link": "https://www.cnj.jus.br/novos-tutoriais-orientam-usuarios-sobre-o-uso-da-remessa-digital-e-o-peticionamento-pelo-jus-br/",
+      "resumo": "O Programa Justiça 4.0 lançou três novos vídeos para auxiliar o público na utilização de serviços do Jus.br. O conteúdo pode ser acessado diretamente no portal Jus.br, mediante login; no Portal CNJ ou pela plataforma da Escola Nacional do Judiciário (Enaju). Os tutoriais oferecem orientações sobre a",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T20:12:26-03:00"
+    },
+    {
+      "id": "e1f5c43376a2f9f2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pesquisas vão trazer dados para combate ao feminicídio e à violência contra a mulher",
+      "link": "https://www.cnj.jus.br/pesquisas-vao-trazer-dados-para-combate-ao-feminicidio-e-a-violencia-contra-a-mulher/",
+      "resumo": "Os custos que a violência contra a mulher impõe ao país, os caminhos percorridos pelas vítimas e os pontos em que a rede de proteção poderia atuar de forma antecipada e otimizada serão objeto de pesquisa. Em acordo firmado entre o Conselho Nacional de Justiça (CNJ), a Fundação Oswaldo Cruz",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T20:12:26-03:00"
+    },
+    {
+      "id": "8f808339f2a1a787",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ analisa regras para cessão de precatórios e política para ações previdenciárias na 18ª Sessão Ordinária/2026",
+      "link": "https://www.cnj.jus.br/cnj-analisa-regras-para-cessao-de-precatorios-e-politica-para-acoes-previdenciarias-na-18a-sessao-ordinaria-na-terca-10/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realiza, na terça-feira (10), a 18ª Sessão Ordinária de 2026. Entre os 11 itens da pauta, há duas propostas de ato normativo, a resolução que estabelece parâmetros gerais para a cessão de créditos de precatórios no Poder Judiciário e a criação da Política Judiciá",
+      "publicado_em": "2026-11-09T12:00:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "resolucao",
+        "precatorio",
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T20:12:26-03:00"
     },
     {
       "id": "72d302bc3ccecd36",
