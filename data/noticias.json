@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-10T17:38:57-03:00",
+  "gerado_em": "2026-11-10T18:38:30-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 18,
       "erro": null
     },
     {
@@ -423,6 +423,132 @@
         "cade"
       ],
       "coletado_em": "2026-11-10T15:28:48-03:00"
+    },
+    {
+      "id": "1a2b5a063001b4cb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Renegociação de dívidas rurais avança no Congresso em meio a divergências",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/renegociacao-de-dividas-rurais-avanca-no-congresso-em-meio-a-divergencias",
+      "resumo": "",
+      "publicado_em": "2026-11-10T18:13:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
+      "id": "0390efd7dd3ff6e5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado recebe acórdão do TCU que propõe alíquota de 11,3% para a CBS",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-recebe-acordao-do-tcu-que-propoe-aliquota-de-11-3-para-a-cbs",
+      "resumo": "",
+      "publicado_em": "2026-11-10T18:11:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "acordao",
+        "cbs"
+      ],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
+      "id": "4205c5b719b222bb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão de Direitos Humanos deve fazer mais três diligências este ano",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/comissao-de-direitos-humanos-deve-fazer-mais-tres-diligencias-este-ano",
+      "resumo": "",
+      "publicado_em": "2026-11-10T18:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "diligencia"
+      ],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
+      "id": "8403aa9aed9f3d94",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova incentivo à contratação de mulheres com câncer de mama",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-aprova-incentivo-a-contratacao-de-mulheres-com-cancer-de-mama",
+      "resumo": "",
+      "publicado_em": "2026-11-10T17:54:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
+      "id": "ff15c8890da7d358",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Confúcio homenageia servidores pelos 80 anos da Secretaria-Geral da Mesa",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/confucio-homenageia-servidores-pelos-80-anos-da-secretaria-geral-da-mesa",
+      "resumo": "",
+      "publicado_em": "2026-11-10T17:51:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
+      "id": "f0c81cf3459f4699",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Adesão do Brasil a acordo contra crimes ambientais será analisada pela CRE",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/adesao-do-brasil-a-acordo-contra-crimes-ambientais-sera-analisada-pela-cre",
+      "resumo": "",
+      "publicado_em": "2026-11-10T17:47:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
+      "id": "84795d9f82fa0e56",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Flávio Dino: É necessário fortalecer os processos decisórios do Parlamento",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/flavio-dino-e-necessario-fortalecer-os-processos-decisorios-do-parlamento",
+      "resumo": "",
+      "publicado_em": "2026-11-10T17:46:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
+      "id": "1a76c109aff05a58",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Na CCT, cientistas apresentam soluções contra impacto do clima nas periferias",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/na-cct-cientistas-apresentam-solucoes-contra-impacto-do-clima-nas-periferias",
+      "resumo": "",
+      "publicado_em": "2026-11-10T17:38:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
     },
     {
       "id": "ec0af4a92bd09e93",
@@ -780,6 +906,20 @@
       "coletado_em": "2026-11-10T15:28:48-03:00"
     },
     {
+      "id": "67490077fcc5a3d9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo e BID lançam plataforma para ajudar empresas brasileiras a vender na Europa",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/mdic-lanca-plataforma-para-fortalecer-presenca-do-brasil-no-mercado-europeu",
+      "resumo": "",
+      "publicado_em": "2026-11-10T17:04:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
       "id": "d9437f038e8ad255",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1051,6 +1191,56 @@
       "coletado_em": "2026-11-10T15:28:48-03:00"
     },
     {
+      "id": "bba4ce615a51472c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Maioridade penal: Vice-líder do governo se opõe a redução aos 14 anos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131481/maioridade-penal-vice-lider-do-governo-se-opoe-a-reducao-aos-14-anos",
+      "resumo": "Alencar cobrou respostas para deficiências no sistema socioeducativo e na atuação doo poder público contra as organizações criminosas.",
+      "publicado_em": "2026-11-10T17:41:04-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
+      "id": "2862f557a4f14bcd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado amplia acesso da ANP a notas fiscais para combater fraudes",
+      "link": "https://www.congressoemfoco.com.br/noticia/131479/senado-amplia-acesso-da-anp-a-notas-fiscais-para-combater-fraudes",
+      "resumo": "Proposta permite que a agência consulte dados de notas fiscais eletrônicas e faça cruzamentos para verificar operações comerciais; texto vai à sanção.",
+      "publicado_em": "2026-11-10T17:29:42-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "sancao",
+        "vai a sancao"
+      ],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
+      "id": "33b90ea06a384aa2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio Dino cobra discussão sobre limites tecnológicos nas eleições",
+      "link": "https://www.congressoemfoco.com.br/noticia/131478/flavio-dino-cobra-discussao-sobre-limites-tecnologicos-nas-eleicoes",
+      "resumo": "Ministro do STF citou precedente europeu sobre o dever dos Estados de proteger os processos eleitorais.",
+      "publicado_em": "2026-11-10T17:20:10-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "precedente",
+        "processo"
+      ],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
       "id": "0e39c9291973fd9b",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1082,6 +1272,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "178bc8b2f6a66157",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O efeito Janones e a ilusão do algoritmo",
+      "link": "https://www.congressoemfoco.com.br/artigo/131475/o-efeito-janones-e-a-ilusao-do-algoritmo",
+      "resumo": "Estratégia digital que ganhou força em 2022 não substitui o trabalho de base e a presença da esquerda nas comunidades.",
+      "publicado_em": "2026-11-10T16:45:20-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
     },
     {
       "id": "5623beabd285f709",
@@ -1631,6 +1835,54 @@
         "acao"
       ],
       "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "0d414611e62d40e8",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados aprovam requerimentos de urgência para duas propostas; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1317848-deputados-aprovam-requerimentos-de-urgencia-para-duas-propostas-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-10T18:29:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
+      "id": "196553b93329e42c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão da Câmara aprova proposta que fortalece combate a violência doméstica na pandemia",
+      "link": "https://www.camara.leg.br/noticias/1317947-comissao-da-camara-aprova-proposta-que-fortalece-combate-a-violencia-domestica-na-pandemia",
+      "resumo": "",
+      "publicado_em": "2026-11-10T18:22:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
+      "id": "44a51e0e4b86c907",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova aumento de penas para crimes contra profissionais de saúde",
+      "link": "https://www.camara.leg.br/noticias/1317915-comissao-aprova-aumento-de-penas-para-crimes-contra-profissionais-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-11-10T18:11:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-10T18:38:30-03:00"
     },
     {
       "id": "cda11f60fdff09cf",
