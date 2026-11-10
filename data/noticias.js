@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-09T20:57:15-03:00",
+  "gerado_em": "2026-11-09T23:27:45-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -277,6 +277,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "26e83a173f647982",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Ministro José Roberto Pimenta inicia correição no TRT-15 com foco na melhoria dos serviços ao cidadão",
+      "link": "https://trt15.jus.br/noticia/2026/ministro-jose-roberto-pimenta-inicia-correicao-no-trt-15-com-foco-na-melhoria-dos",
+      "resumo": "Ministro José Roberto Pimenta inicia correição no TRT-15 com foco na melhoria dos serviços ao cidadão anasiqueira Seg, 09/11/2026 - 19:18 Ministro José Roberto Pimenta inicia correição no TRT-15 com foco na melhoria dos serviços ao cidadão Conteúdo da Notícia O corregedor-geral da Justiça do Trabalh",
+      "publicado_em": "2026-11-09T19:18:46-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T23:27:45-03:00"
     },
     {
       "id": "906d821108245546",
@@ -384,6 +398,22 @@ window.DADOS = {
         "premio"
       ],
       "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "2e54e234cecfc560",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF realiza escuta territorializada com comunidades ribeirinhas nas ilhas de Ananindeua (PA)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-realiza-escuta-territorializada-com-comunidades-ribeirinhas-nas-ilhas-de-ananindeua-pa/",
+      "resumo": "Encontro reuniu moradores e lideranças das ilhas para compartilhar experiências, apresentar demandas e dialogar com representantes da Justiça e da administração local",
+      "publicado_em": "2026-11-09T21:07:55-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T23:27:45-03:00"
     },
     {
       "id": "73a9541d2521275e",
@@ -897,6 +927,66 @@ window.DADOS = {
       "coletado_em": "2026-11-09T18:17:28-03:00"
     },
     {
+      "id": "0b2e708c9fff5205",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Presidente da Caixa detalha modernização do banco e super aplicativo que integra serviços",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/presidente-da-caixa-detalha-modernizacao-do-banco-e-super-aplicativo-que-integra-servicos",
+      "resumo": "",
+      "publicado_em": "2026-11-09T23:09:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T23:27:45-03:00"
+    },
+    {
+      "id": "2c16c080af8c15d1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério da Justiça pede derrubada de 348 perfis de influenciadores que divulgam bets ilegais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/mjsp-pede-derrubada-de-348-perfis-de-influenciadores-que-divulgam-bets-ilegais",
+      "resumo": "",
+      "publicado_em": "2026-11-09T20:16:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T23:27:45-03:00"
+    },
+    {
+      "id": "8e9ea73fd97e5777",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mulheres responderam pela maior parte dos empregos com carteira assinada criados em setembro",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/mulheres-responderam-pela-maior-parte-dos-empregos-com-carteira-assinada-criados-no-brasil-em-setembro-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-11-09T19:31:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T23:27:45-03:00"
+    },
+    {
+      "id": "6a688278bab12548",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Publicado o novo edital de classificação para vagas remanescentes do CPNU 2",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-publica-novo-edital-de-classificacao-para-vagas-remanescentes-do-cpnu-2",
+      "resumo": "",
+      "publicado_em": "2026-11-09T19:25:00-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-09T23:27:45-03:00"
+    },
+    {
       "id": "6ac47a1dbb312788",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1279,7 +1369,7 @@ window.DADOS = {
       "id": "12fe88bd2b3a2900",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "Entenda o que muda com o arquivamento do inquérito das Fake News",
+      "titulo": "Entenda o que muda com o arquivamento do inquérito das fake news",
       "link": "https://www.congressoemfoco.com.br/noticia/131439/entenda-o-que-muda-com-o-arquivamento-do-inquerito-das-fake-news",
       "resumo": "Condenações, absolvições e acordos anteriores permanecem válidos, assim como os processos criminais já instaurados a partir da investigação.",
       "publicado_em": "2026-11-09T20:25:55-03:00",
@@ -1296,7 +1386,7 @@ window.DADOS = {
       "id": "f6a8388de24915c6",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "Edson Fachin determina arquivamento do inquérito das Fake News",
+      "titulo": "Edson Fachin determina arquivamento do inquérito das fake news",
       "link": "https://www.congressoemfoco.com.br/noticia/131438/edson-fachin-determina-arquivamento-do-inquerito-das-fake-news",
       "resumo": "Ministro apontou a duração prolongada e a incorporação sucessiva de novos fatos como fundamentos para o encerramento da investigação.",
       "publicado_em": "2026-11-09T20:08:57-03:00",
@@ -1654,6 +1744,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-09T18:17:28-03:00"
+    },
+    {
+      "id": "74aad77dd017ee87",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Equipe do Coaf participa de encontro da Enccla no Rio de Janeiro",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/equipe-do-coaf-participa-de-encontro-da-enccla-no-rio-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-11-09T21:27:15-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-09T23:27:45-03:00"
     },
     {
       "id": "5b98e9092b14e04f",
@@ -4123,7 +4227,7 @@ window.DADOS = {
       "id": "88e0752aecc5e6ab",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Práticas para garantir direito à saúde são reconhecidas no Prêmio Justiça e Saúde",
+      "titulo": "Práticas para garantir direito à saúde são reconhecidas com Prêmio Justiça e Saúde",
       "link": "https://www.cnj.jus.br/praticas-para-garantir-direito-a-saude-sao-reconhecidas-com-premio-justica-e-saude/",
       "resumo": "Os vencedores do 4º Prêmio Justiça e Saúde foram reconhecidos em solenidade nesta sexta-feira (6/11), realizada no encerramento do V Congresso do Fórum Nacional do Judiciário para a Saúde (Fonajus), no Rio de Janeiro. Promovida pelo Conselho Nacional de Justiça (CNJ), a premiação reconheceu boas prá",
       "publicado_em": "2026-11-06T12:00:00-03:00",
@@ -4582,6 +4686,24 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-05T17:52:16-03:00"
+    },
+    {
+      "id": "797488f6de1ff6f2",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "8ª Câmara afasta prescrição intercorrente ao reconhecer atuação do credor na execução trabalhista",
+      "link": "https://trt15.jus.br/noticia/2026/8a-camara-afasta-prescricao-intercorrente-ao-reconhecer-atuacao-do-credor-na-0",
+      "resumo": "8ª Câmara afasta prescrição intercorrente ao reconhecer atuação do credor na execução trabalhista anagatto Qui, 05/11/2026 - 11:23 8ª Câmara afasta prescrição intercorrente ao reconhecer atuação do credor na execução trabalhista Conteúdo da Notícia A 8ª Câmara do Tribunal Regional do Trabalho da 15ª",
+      "publicado_em": "2026-11-05T11:23:51-03:00",
+      "dia": "2026-11-05",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "prescricao",
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-11-04T15:28:26-03:00"
     },
     {
       "id": "1526e027dfe1a4fe",
@@ -6691,24 +6813,6 @@ window.DADOS = {
       "data_estimada": false,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-11-04T15:28:26-03:00"
-    },
-    {
-      "id": "797488f6de1ff6f2",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "8ª Câmara afasta prescrição intercorrente ao reconhecer atuação do credor na execução trabalhista",
-      "link": "https://trt15.jus.br/noticia/2026/8a-camara-afasta-prescricao-intercorrente-ao-reconhecer-atuacao-do-credor-na-0",
-      "resumo": "8ª Câmara afasta prescrição intercorrente ao reconhecer atuação do credor na execução trabalhista anagatto Qua, 04/11/2026 - 11:23 8ª Câmara afasta prescrição intercorrente ao reconhecer atuação do credor na execução trabalhista Conteúdo da Notícia A 8ª Câmara do Tribunal Regional do Trabalho da 15ª",
-      "publicado_em": "2026-11-04T11:23:51-03:00",
-      "dia": "2026-11-04",
-      "data_estimada": false,
-      "score": 68,
-      "tags": [
-        "prescricao",
-        "trabalhista",
-        "acao"
-      ],
       "coletado_em": "2026-11-04T15:28:26-03:00"
     },
     {
