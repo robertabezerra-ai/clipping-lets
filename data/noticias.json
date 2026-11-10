@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-10T15:28:48-03:00",
+  "gerado_em": "2026-11-10T17:38:57-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -265,6 +265,20 @@
       "coletado_em": "2026-11-10T15:28:48-03:00"
     },
     {
+      "id": "30ca1ff8f49e0c43",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "1ª Câmara afasta responsabilidade de sucessora por dívida de outra empresa do mesmo grupo econômico",
+      "link": "https://trt15.jus.br/noticia/2026/1a-camara-afasta-responsabilidade-de-sucessora-por-divida-de-outra-empresa-do-mesmo",
+      "resumo": "1ª Câmara afasta responsabilidade de sucessora por dívida de outra empresa do mesmo grupo econômico anasiqueira Ter, 10/11/2026 - 16:49 1ª Câmara afasta responsabilidade de sucessora por dívida de outra empresa do mesmo grupo econômico. Conteúdo da Notícia A 1ª Câmara do Tribunal Regional do Trabalh",
+      "publicado_em": "2026-11-10T16:49:50-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
       "id": "a7f0a37445c76e0b",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -294,6 +308,72 @@
         "indenizar"
       ],
       "coletado_em": "2026-11-10T15:28:48-03:00"
+    },
+    {
+      "id": "ac9ab2fb208d8c61",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Desembargador Paulo Antonio Rossi recebe homenagens em sessão da 12ª Câmara de Direito Criminal",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115986&pagina=1",
+      "resumo": "Mais de 40 anos dedicados ao TJSP. \n \n\tO desembargador Paulo Antonio Rossi recebeu, hoje (10), homenagens em sessão de julgamento da 12ª Câmara de Direito",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "2440d7c52bdc4c97",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Lei de furto de combustíveis é tema de novo informativo do Cadicrim",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115989&pagina=1",
+      "resumo": "Nova Lei nº 15.517/26 e atualizações.\n \n\tO Centro de Apoio da Seção de Direito Criminal do Tribunal de Justiça de São Paulo (Cadicrim) disponibilizou material",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "b8743ae38d43f2e5",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Associação questiona regras do CNJ sobre leilões judiciais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/associacao-questiona-regras-do-cnj-sobre-leiloes-judiciais/",
+      "resumo": "Leiloeiros contestam exclusividade de plataforma eletrônica e preferência pela venda direta de bens",
+      "publicado_em": "2026-11-10T16:57:44-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "60c40f93cf2b3d5d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Companhia de saneamento do RJ deve pagar dívidas judiciais por precatórios, decide STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/companhia-de-saneamento-do-rj-deve-pagar-dividas-judiciais-por-precatorios-decide-stf/",
+      "resumo": "Por maioria, Corte entendeu que a Cedae preenche os requisitos da jurisprudência do STF para se submeter ao regime constitucional de precatórios",
+      "publicado_em": "2026-11-10T16:06:05-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "decide",
+        "precatorio"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
     },
     {
       "id": "20159ba8fadc0dd2",
@@ -343,6 +423,111 @@
         "cade"
       ],
       "coletado_em": "2026-11-10T15:28:48-03:00"
+    },
+    {
+      "id": "ec0af4a92bd09e93",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sargento Reginauro cobra ações efetivas contra o crime organizado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/sargento-reginauro-cobra-acoes-efetivas-contra-o-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-11-10T16:28:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "b7501ac45719f27d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Infrações no inquérito das fake news não podem cair no esquecimento, diz Amin",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/infracoes-no-inquerito-das-fake-news-nao-podem-cair-no-esquecimento-diz-amin",
+      "resumo": "",
+      "publicado_em": "2026-11-10T16:24:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "67e571dcf59db3bb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Para Paulo Paim, cotas ajudam a corrigir desigualdades históricas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/para-paulo-paim-cotas-ajudam-a-corrigir-desigualdades-historicas",
+      "resumo": "",
+      "publicado_em": "2026-11-10T15:57:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "844701f78ecb7d92",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão de Infraestrutura contesta leilão de rodovia entre Rondônia e Mato Grosso",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/11/comissao-de-infraestrutura-contesta-leilao-de-rodovia-entre-rondonia-e-mato-grosso",
+      "resumo": "",
+      "publicado_em": "2026-11-10T15:50:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "64b2c1f19a88bc9b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso de Direito Parlamentar debate relação entre os três Poderes",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/congresso-de-direito-parlamentar-debate-relacao-entre-os-tres-poderes",
+      "resumo": "",
+      "publicado_em": "2026-11-10T15:39:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "f8aff89995a9bd20",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "É falso que Senado esteja votando às pressas a reforma do Código Civil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/e-falso-que-senado-esteja-votando-as-pressas-a-reforma-do-codigo-civil",
+      "resumo": "",
+      "publicado_em": "2026-11-10T15:39:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "codigo civil"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "7f921ae54a472c23",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Vai a sanção texto que garante direitos a quem tem síndrome de Tourette",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/vai-a-sancao-texto-que-garante-direitos-a-quem-tem-sindrome-de-tourette",
+      "resumo": "",
+      "publicado_em": "2026-11-10T15:30:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "sancao",
+        "vai a sancao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
     },
     {
       "id": "d0670c2469bcb7af",
@@ -511,6 +696,40 @@
       "coletado_em": "2026-11-10T15:28:48-03:00"
     },
     {
+      "id": "b678c7ffd1f7d2fe",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação Fronteira Receita Federal supera R$ 139 milhões em apreensões em Mato Grosso do Sul",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/operacao-fronteira-receita-federal-supera-r-139-milhoes-em-apreensoes-em-mato-grosso-do-sul",
+      "resumo": "",
+      "publicado_em": "2026-11-10T15:26:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "e02f88bc0b934399",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação Fronteira: Receita Federal apreende 24,20 kg de haxixe e 60 ml de cocaína líquida em Viracopos",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/operacao-fronteira-receita-federal-apreende-24-20-kg-de-haxixe-e-60-ml-de-cocaina-liquida-em-viracopos",
+      "resumo": "",
+      "publicado_em": "2026-11-10T15:25:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 10,
+      "tags": [
+        "acao",
+        "apreende",
+        "cocaina"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
       "id": "64cd26e9733f694f",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -559,6 +778,66 @@
         "acao"
       ],
       "coletado_em": "2026-11-10T15:28:48-03:00"
+    },
+    {
+      "id": "d9437f038e8ad255",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo do Brasil estabelece diretrizes para uso responsável da IA na educação",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-estabelece-diretrizes-para-uso-responsavel-da-ia-na-educacao",
+      "resumo": "",
+      "publicado_em": "2026-11-10T16:18:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "1a89610d27deca0c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Relatório aponta que crime pode mascarar lavagem de dinheiro com 'preservação ambiental'",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/enccla-aponta-fragilidades-regulatorias-que-podem-facilitar-a-chamada-201cgrilagem-verde201d",
+      "resumo": "",
+      "publicado_em": "2026-11-10T15:55:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "58c1916688d5f652",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enem: quem faltou ao primeiro dia pode fazer a prova no segundo?",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/enem-quem-faltou-ao-primeiro-dia-pode-fazer-a-prova-no-segundo",
+      "resumo": "",
+      "publicado_em": "2026-11-10T15:16:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "980e8908a3252a8e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Carbono Oculto escancarou novas formas de lavagem de dinheiro do crime, diz relatório",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/de-postos-de-combustiveis-a-fundos-de-investimento-enccla-mapeia-possiveis-estrategias-de-lavagem-de-dinheiro-do-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-11-10T14:55:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
     },
     {
       "id": "8d13d0556cb7360a",
@@ -772,6 +1051,129 @@
       "coletado_em": "2026-11-10T15:28:48-03:00"
     },
     {
+      "id": "0e39c9291973fd9b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova incentivo à contratação de mulheres com câncer de mama",
+      "link": "https://www.congressoemfoco.com.br/noticia/131477/senado-aprova-incentivo-a-contratacao-de-mulheres-com-cancer-de-mama",
+      "resumo": "Projeto cria programa para permanência e a reinserção no mercado de trabalho; medida vai à sanção presidencial.",
+      "publicado_em": "2026-11-10T17:07:31-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 76,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "fbd36ad4f9f34cd9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Na Câmara, humorista chama Nikolas de \"porteiro de banheiro\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131476/na-camara-humorista-chama-nikolas-de-porteiro-de-banheiro",
+      "resumo": "Humorista lembrou que o governo brasileiro recebeu ofertas de vacinas da Pfizer em 2020, antes da morte do ator.",
+      "publicado_em": "2026-11-10T16:51:25-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "5623beabd285f709",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Comédia vai apontar o dedo para quem foge do país\", diz Porchat",
+      "link": "https://www.congressoemfoco.com.br/noticia/131474/comedia-vai-apontar-o-dedo-para-quem-foge-do-pais--diz-porchat",
+      "resumo": "Humorista mencionou o uso de dinheiro de aposentados, viagens em jatinhos e a saída de pessoas do país para afirmar que o humor continuará expondo essas condutas.",
+      "publicado_em": "2026-11-10T16:34:27-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "8ceb34178b493701",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Direitos sociais foram os grandes vencedores das eleições, diz Dino",
+      "link": "https://www.congressoemfoco.com.br/noticia/131473/direitos-sociais-foram-os-grandes-vencedores-das-eleicoes-diz-dino",
+      "resumo": "Para o ministro, as urnas reforçaram o apoio a políticas sociais e o debate sobre quem deve arcar com os custos dos ajustes fiscais.",
+      "publicado_em": "2026-11-10T16:31:37-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "59f01dcdb043cf39",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Aumento de penas por agressão a profissional de saúde avança na Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/131472/aumento-de-penas-por-agressao-a-profissional-de-saude-avanca-na-camara",
+      "resumo": "Proposta prevê aumento de penas para ameaças e lesões corporais, além de incluir determinadas agressões no rol de crimes hediondos.",
+      "publicado_em": "2026-11-10T16:20:46-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "65bd0002fcf37a37",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "CCJ aprova aumento de pena por maus-tratos a idosos em instituições",
+      "link": "https://www.congressoemfoco.com.br/noticia/131471/ccj-aprova-aumento-de-pena-por-maus-tratos-a-idosos-em-instituicoes",
+      "resumo": "Penas poderão aumentadas em um terço quando o crime for praticado por \"dirigente, servidor, empregado ou pessoa contratada por entidade de atendimento ao idoso\".",
+      "publicado_em": "2026-11-10T16:08:37-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "8b4fd01b973a1168",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino rebate críticas por STF discutir escala 6x1: \"alguém pediu\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131470/dino-rebate-criticas-por-stf-discutir-escala-6x1--alguem-pediu",
+      "resumo": "Ministro disse que foi \"premiado\" pelo \"azareio\" ao ficar responsável pelo processo envolvendo o fim da escala de trabalho 6x1.",
+      "publicado_em": "2026-11-10T15:51:27-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "f50cad7fce37eba5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vereador é suspenso após dizer que \"advogados estudam para roubar\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131468/vereador-e-suspenso-apos-dizer-que-advogados-estudam-para-roubar",
+      "resumo": "Parlamentar de Criciúma (SC) pediu desculpas à categoria após punição por quebra de decoro. Afastamento foi reduzido de 30 para sete dias.",
+      "publicado_em": "2026-11-10T14:57:28-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "advogado"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
       "id": "2385214a6abb6adf",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -841,6 +1243,22 @@
       "coletado_em": "2026-11-10T15:28:48-03:00"
     },
     {
+      "id": "b9e216f7cdf4489d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A federação pode punir quem disputa a presidência do Senado?",
+      "link": "https://www.congressoemfoco.com.br/artigo/131459/a-federacao-pode-punir-quem-disputa-a-presidencia-do-senado",
+      "resumo": "O apoio da Federação União Progressista a Davi Alcolumbre abriu uma questão que vai além da disputa por votos: uma organização partidária pode punir um senador apenas porque ele decidiu concorrer à presidência da Casa?",
+      "publicado_em": "2026-11-10T12:43:41-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
       "id": "59d43b791c81c9c7",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -903,6 +1321,20 @@
         "acao"
       ],
       "coletado_em": "2026-11-10T15:28:48-03:00"
+    },
+    {
+      "id": "27df8c08b521a83e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O caminho brasileiro para uma indústria mais sustentável",
+      "link": "https://www.congressoemfoco.com.br/artigo/131452/o-caminho-brasileiro-para-uma-industria-mais-sustentavel",
+      "resumo": "Transição para uma economia circular exige políticas que reduzam impactos ambientais sem comprometer empregos, renda e competitividade industrial.",
+      "publicado_em": "2026-11-10T11:34:11-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
     },
     {
       "id": "187fb8a89ca7183f",
@@ -1035,6 +1467,274 @@
         "imposto"
       ],
       "coletado_em": "2026-11-10T15:28:48-03:00"
+    },
+    {
+      "id": "7f8d4a585da204a0",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ firma parceria com a Unicef para fortalecer direitos da infância",
+      "link": "https://www.cnj.jus.br/cnj-firma-parceria-com-a-unicef-para-fortalecer-direitos-da-infancia/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) firmou nesta terça-feira (10/11) parceria com o Fundo das Nações Unidas para a Infância (Unicef) para fortalecer a garantia do acesso à justiça e a proteção de crianças na primeira infância contra diversas formas de violência. A agenda conjunta renova e amplia a ",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "0e4be069dd863852",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ vai investigar desembargador por suspeita de uso fraudulento do CPF de colega",
+      "link": "https://www.cnj.jus.br/cnj-vai-investigar-desembargador-por-suspeita-de-uso-fraudulento-de-cpf-de-colega/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) decidiu, por unanimidade, instaurar Processo Administrativo Disciplinar (PAD) contra o desembargador James Magno Araújo Farias, do Tribunal Regional do Trabalho da 16ª Região (TRT-16), no Maranhão. A investigação apura suspeitas de uso indevido do CPF de uma cole",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "65261e97db4b7a1b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ discutirá sistema socioeducativo em evento de quatro dias com dados inéditos",
+      "link": "https://www.cnj.jus.br/cnj-discutira-sistema-socioeducativo-em-evento-de-quatro-dias-com-dados-ineditos/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realizará, de 10 a 13 de novembro, em Brasília, o evento Altos Estudos em Justiça Juvenil: políticas judiciárias e sistema socioeducativo. Com transmissão ao vivo pelo YouTube, o encontro reunirá magistrados, integrantes do sistema de Justiça, gestores públicos, ",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "0b8ad922ff25f330",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Suspeitas de favorecimento em decisões judiciais levam à abertura de processos disciplinares",
+      "link": "https://www.cnj.jus.br/suspeitas-de-favorecimento-em-decisoes-judiciais-levam-a-abertura-de-processos-disciplinares/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) instaurou, por unanimidade, processos administrativos disciplinares (PADs) contra dois desembargadores do Tribunal de Justiça de Roraima (TJRR). A decisão ocorreu durante a 18ª Sessão Ordinária de 2026, nesta terça-feira (10/11). As investigações terão como foco ",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "processo"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "c730ea70abf90e1c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Nova resolução do CNJ cria central de controle e protege credores de precatórios",
+      "link": "https://www.cnj.jus.br/nova-resolucao-do-cnj-cria-central-de-controle-e-protege-credores-de-precatorios/",
+      "resumo": "O plenário do Conselho Nacional de Justiça (CNJ) aprovou por unanimidade, nesta terça-feira (10/11), regras nacionais para a negociação de créditos de precatórios. A resolução, aprovada na 18ª Sessão Ordinária de 2026, estabelece mecanismos de proteção aos credores e cria uma central para acompanhar",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 76,
+      "tags": [
+        "resolucao",
+        "precatorio",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "3a8ea1925e504f42",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Política nacional aprovada pelo CNJ busca garantir mais agilidade a demandas previdenciárias",
+      "link": "https://www.cnj.jus.br/politica-nacional-aprovada-pelo-cnj-busca-garantir-mais-agilidade-a-demandas-previdenciarias/",
+      "resumo": "A nova Política Judiciária Nacional para o Tratamento Adequado das Demandas Previdenciárias e Assistenciais (PJ-Prev), aprovada por unanimidade pelo Conselho Nacional de Justiça (CNJ) nesta terça-feira (10/11), busca reduzir a judicialização e agilizar o reconhecimento de direitos de milhões de bras",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "aprova",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "16ecd4ccfd602207",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Congresso em Belém reúne especialistas para discutir direitos e acesso à Justiça",
+      "link": "https://www.cnj.jus.br/congresso-em-belem-reune-especialistas-para-discutir-direitos-e-acesso-a-justica/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ), em parceria com o Tribunal de Justiça do Pará (TJPA), abriu nesta segunda-feira, 9/11, em Belém, o 3º Congresso Internacional: desafios contemporâneos no acesso à Justiça. O evento reúne, até esta terça-feira, 10/11, representantes do Judiciário, autoridades int",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "c4fe847f000b77fb",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Fachin reforça mobilização para julgamento de processos no Mutirão Racial 2026",
+      "link": "https://www.cnj.jus.br/fachin-reforca-mobilizacao-para-julgamento-de-processos-no-mutirao-racial-2026/",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Edson Fachin, convidou os tribunais brasileiros a participarem da segunda edição do Mutirão de Julgamento e Impulsionamento de Processos com Ênfase na Temática Racial, conhecido como Mutirão Racial.  Rea",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 74,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "73eec0cb9f6b83dd",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Conhecimento científico e tecnologia devem orientar decisões judiciais em saúde",
+      "link": "https://www.cnj.jus.br/conhecimento-cientifico-e-tecnologia-devem-orientar-decisoes-judiciais-em-saude/",
+      "resumo": "A combinação de conhecimento científico, novas tecnologias e responsabilidade institucional são fundamentais para aprimorar as decisões judiciais e assegurar o direito à saúde. A avaliação foi feita pelo presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro E",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "75fb70a335c0b2a2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Aprimoramento de provas em casos de exploração humana mobiliza grupo de trabalho do CNJ",
+      "link": "https://www.cnj.jus.br/aprimoramento-de-provas-em-casos-de-exploracao-humana-mobiliza-grupo-de-trabalho-do-cnj/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realizou, nesta segunda-feira (9/11), a primeira reunião do Grupo de Trabalho criado para aperfeiçoar a produção de provas em casos de trabalho escravo contemporâneo e tráfico de pessoas. A iniciativa busca fortalecer a atuação integrada dos órgãos do sistema de ",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "cda11f60fdff09cf",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate propostas orçamentárias para 2027 nesta quarta-feira",
+      "link": "https://www.camara.leg.br/noticias/1317917-comissao-debate-propostas-orcamentarias-para-2027-nesta-quarta-feira",
+      "resumo": "",
+      "publicado_em": "2026-11-10T17:29:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "1375f3c49a892c02",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova punição para instituições que descumprirem deveres com idosos",
+      "link": "https://www.camara.leg.br/noticias/1317909-comissao-aprova-punicao-para-instituicoes-que-descumprirem-deveres-com-idosos",
+      "resumo": "",
+      "publicado_em": "2026-11-10T17:28:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "1ba984abdbf1a740",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova créditos de R$ 164,5 bilhões para o Orçamento de 2026",
+      "link": "https://www.camara.leg.br/noticias/1317901-comissao-aprova-creditos-de-r-1645-bilhoes-para-o-orcamento-de-2026",
+      "resumo": "",
+      "publicado_em": "2026-11-10T17:20:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "6beab5f5caec74ef",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto autoriza cobertura integral de seguro rural para perdas climáticas",
+      "link": "https://www.camara.leg.br/noticias/1313876-projeto-autoriza-cobertura-integral-de-seguro-rural-para-perdas-climaticas",
+      "resumo": "",
+      "publicado_em": "2026-11-10T17:17:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "98a9fee8b87090fd",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe ciclista de passar de 25 km/h em ciclovias",
+      "link": "https://www.camara.leg.br/noticias/1313146-projeto-proibe-ciclista-de-passar-de-25-km-h-em-ciclovias",
+      "resumo": "",
+      "publicado_em": "2026-11-10T16:39:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "0e827fe53beb4de7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto isenta policiais e bombeiros militares do Imposto de Renda",
+      "link": "https://www.camara.leg.br/noticias/1310863-projeto-isenta-policiais-e-bombeiros-militares-do-imposto-de-renda",
+      "resumo": "",
+      "publicado_em": "2026-11-10T16:09:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "e14bdf016eb83c61",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados assinam pacto legislativo contra apostas virtuais",
+      "link": "https://www.camara.leg.br/noticias/1317843-deputados-assinam-pacto-legislativo-contra-apostas-virtuais",
+      "resumo": "",
+      "publicado_em": "2026-11-10T15:27:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T17:38:57-03:00"
     },
     {
       "id": "f9af5546c57bcf53",
