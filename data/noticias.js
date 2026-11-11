@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-11T17:58:34-03:00",
+  "gerado_em": "2026-11-11T19:27:54-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 17,
       "erro": null
     },
     {
@@ -350,6 +350,41 @@ window.DADOS = {
       "coletado_em": "2026-11-11T17:58:34-03:00"
     },
     {
+      "id": "af7e7c1440b54f41",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP recebe visita oficial da Comissão Parlamentar Antimáfia Italiana",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116007&pagina=1",
+      "resumo": "Comitiva busca cooperação com instituições brasileiras.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro; a corregedora-geral da Justiça, desembargadora Silva",
+      "publicado_em": "2026-11-11T12:00:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "90ac5c306a88d026",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF suspende processos e bloqueia precatórios de valores pagos pelo SUS a hospitais privados",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-processos-e-bloqueia-precatorios-de-valores-pagos-pelo-sus-a-hospitais-privados/",
+      "resumo": "Ministro Gilmar Mendes determinou a suspensão nacional dos casos até que a Corte decida o tema, com repercussão geral reconhecida em outubro",
+      "publicado_em": "2026-11-11T18:30:09-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 76,
+      "tags": [
+        "repercussao geral",
+        "precatorio",
+        "processo"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
       "id": "a111f56a44924445",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -431,6 +466,154 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-11-11T15:23:33-03:00"
+    },
+    {
+      "id": "6040506a71de77de",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Ministro do Planejamento anuncia na CMO ajuste fiscal de R$ 60 bi em 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ministro-do-planejamento-anuncia-na-cmo-ajuste-fiscal-de-r-60-bi-em-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-11T19:18:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "c2e27b17cbc2408c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Eduardo Gomes apresenta regras para emendas à LDO",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/eduardo-gomes-apresenta-regras-para-emendas-a-ldo",
+      "resumo": "",
+      "publicado_em": "2026-11-11T19:04:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "d6c3b42cc212b1b4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Dra. Eudócia aponta suspeita de desvios de recursos da saúde de Alagoas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/dra-eudocia-aponta-suspeita-de-desvios-de-recursos-da-saude-de-alagoas",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:50:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "0ab31b0014220208",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Zenaide Maia alerta para os riscos dos cigarros eletrônicos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/zenaide-maia-alerta-para-os-riscos-dos-cigarros-eletronicos",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:21:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "80c8a16dd7d297d8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Damares quer esclarecimentos sobre mudanças de equipes em investigações da PF",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/damares-quer-esclarecimentos-sobre-mudancas-de-equipes-em-investigacoes-da-pf",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:17:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "29f3622c586d8ab2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Amin questiona remanejamento de delegados que atuaram no inquérito das fake news",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/amin-questiona-remanejamento-de-delegados-que-atuaram-no-inquerito-das-fake-news",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:14:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "cd731ac7cfd07bca",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Humberto Costa declara apoio à MP que proibiu as bets no Brasil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/humberto-costa-declara-apoio-a-mp-que-proibiu-as-bets-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:10:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "c648a35e346b7d92",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CE aprova Política Nacional de Educação Escolar Indígena nos Territórios Etnoeducacionais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ce-aprova-politica-nacional-de-educacao-escolar-indigena-nos-territorios-etnoeducacionais",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:00:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "72bae98e329520b7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CE fará audiência pública sobre os impactos do casamento infantil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ce-fara-audiencia-publica-sobre-os-impactos-do-casamento-infantil",
+      "resumo": "",
+      "publicado_em": "2026-11-11T17:58:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "a51141f8aa280a43",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso faz reunião nesta quinta para votar liberação de recursos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/sessao-do-congresso-sera-nesta-quinta-feira",
+      "resumo": "",
+      "publicado_em": "2026-11-11T17:56:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
     },
     {
       "id": "011803eac6b9225d",
@@ -1044,6 +1227,22 @@ window.DADOS = {
       "coletado_em": "2026-11-11T15:23:33-03:00"
     },
     {
+      "id": "f9cdb9c2eda2882a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Novas regras do Seguro-Defeso economizam R$ 2,2 bilhões aos cofres públicos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/novas-regras-do-seguro-defeso-economizam-r-2-2-bilhoes-aos-cofres-publicos",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:02:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "novas regras"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
       "id": "1519812855d1462d",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1074,6 +1273,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-11T15:23:33-03:00"
+    },
+    {
+      "id": "70fe149b541142d8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério da Saúde defende integração de setores público e privado a serviço do SUS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-defende-integracao-entre-setores-publico-e-privado-para-fortalecer-o-sus-durante-o-rio-health-forum-2026",
+      "resumo": "",
+      "publicado_em": "2026-11-11T16:53:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
     },
     {
       "id": "2a246a28d0c38942",
@@ -1357,6 +1572,102 @@ window.DADOS = {
       "coletado_em": "2026-11-11T15:23:33-03:00"
     },
     {
+      "id": "3c8a72ef06164477",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Davi explica que \"compra\" de iPhone é comodato de serviço de telefonia",
+      "link": "https://www.congressoemfoco.com.br/noticia/131528/davi-explica-que-compra-de-iphone-e-comodato-de-servico-de-telefonia",
+      "resumo": "Declaração ocorreu em meio à repercussão do Pregão Eletrônico 290/2026, aberto pelo Senado para substituir o atual contrato de telefonia da Casa.",
+      "publicado_em": "2026-11-11T18:49:56-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "263328cbe64e6792",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputada supostamente aponta Erika ao falar de homem e gera confusão",
+      "link": "https://www.congressoemfoco.com.br/noticia/131527/deputada-supostamente-aponta-erika-ao-falar-de-homem-e-gera-confusao",
+      "resumo": "Priscila Costa negou que o gesto tivesse sido dirigido à parlamentar e afirmou que estava falando de \"homens heterossexuais\".",
+      "publicado_em": "2026-11-11T18:25:17-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "b01a1d8c80f7e085",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "STF reafirma direito aos honorários advocatícios em acordos judiciais",
+      "link": "https://www.congressoemfoco.com.br/noticia/131526/stf-reafirma-direito-aos-honorarios-advocaticios-em-acordos-judiciais",
+      "resumo": "Supremo anulou a isenção de honorários prevista em lei municipal para contribuintes que renegociassem dívidas judiciais.",
+      "publicado_em": "2026-11-11T18:16:39-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "0b526814b8192862",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Governo apresenta plano de ajuste fiscal com economia de até R$ 60 bi",
+      "link": "https://www.congressoemfoco.com.br/noticia/131525/governo-apresenta-plano-de-ajuste-fiscal-com-economia-de-ate-r-60-bi",
+      "resumo": "Projeto de Jaques Wagner prevê corte de 20% em incentivos tributários e limite de 2% para o crescimento real das despesas federais.",
+      "publicado_em": "2026-11-11T17:50:14-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "tributario"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "aea21ecb9b73bf44",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado barra jabuti que regulamentava vapes em MP sobre dívidas rurais",
+      "link": "https://www.congressoemfoco.com.br/noticia/131524/senado-barra-jabuti-que-regulamentava-vapes-em-mp-sobre-dividas-rurais",
+      "resumo": "Trecho incluído pelo relator Paulo Pimenta atribuía à Anvisa a definição de regras para a comercialização de cigarros eletrônicos.",
+      "publicado_em": "2026-11-11T17:40:36-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "regulamenta",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "dc246f6e9c09105d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "MP da renegociação de dívidas de produtores rurais vai à sanção",
+      "link": "https://www.congressoemfoco.com.br/noticia/131523/mp-da-renegociacao-de-dividas-de-produtores-rurais-vai-a-sancao",
+      "resumo": "Senado aprovou a matéria no último de vigência do texto, que perderia a validade caso não tivesse sua análise concluída pelo Congresso hoje.",
+      "publicado_em": "2026-11-11T17:37:31-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "vigencia",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
       "id": "c7cf84a0bc57e1d6",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1420,6 +1731,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "d220ce271ba2f9ab",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Favelados e favelizados: Empreendedores entre o Estado e o crime",
+      "link": "https://www.congressoemfoco.com.br/artigo/131518/favelados-e-favelizados-empreendedores-entre-o-estado-e-o-crime",
+      "resumo": "Pesquisa em 18 favelas do Rio mostra que quem empreende nesses territórios enfrenta estigma, exclusão econômica e a sujeição a facções e milícias, enquanto o Estado aparece sobretudo como repressão.",
+      "publicado_em": "2026-11-11T16:16:43-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
     },
     {
       "id": "5235e18d09ba7d7d",
@@ -1806,6 +2131,182 @@ window.DADOS = {
         "seminario"
       ],
       "coletado_em": "2026-11-11T15:23:33-03:00"
+    },
+    {
+      "id": "da69e00db2e32f94",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Em sessão virtual, CNJ define medidas de combate ao racismo na adoção de crianças e adolescentes",
+      "link": "https://www.cnj.jus.br/em-sessao-virtual-cnj-define-medidas-de-combate-ao-racismo-na-adocao-de-criancas-e-adolescentes/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) determinou medidas de enfrentamento ao racismo no sistema de adoção brasileiro. A decisão ocorreu durante a 15ª Sessão Virtual Extraordinária, estabeleceu como providências a inclusão de discussões sobre racismo nos cursos preparatórios para adoção e a capacitaçã",
+      "publicado_em": "2026-11-11T12:00:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "184e629ae450e052",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Escolas judiciais planejam cursos e rede de capacitação para 2027",
+      "link": "https://www.cnj.jus.br/escolas-judiciais-planejam-cursos-e-rede-de-capacitacao-para-2027/",
+      "resumo": "A oferta de novos cursos nacionais, o compartilhamento de conteúdo educacional entre tribunais e a formação de uma rede colaborativa de escolas judiciais estão entre as prioridades da Escola Nacional do Judiciário (Enaju) para 2027. As propostas foram apresentadas nesta quarta-feira (11/11), durante",
+      "publicado_em": "2026-11-11T12:00:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "7d55b2b98b833153",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Encontro debate como prevenir assédio e discriminação nos tribunais",
+      "link": "https://www.cnj.jus.br/encontro-debate-como-prevenir-assedio-e-discriminacao-nos-tribunais/",
+      "resumo": "A eficácia dos canais de denúncia e a proteção contra retaliações a quem relata abusos abriram os debates do 4º Encontro Nacional das Comissões de Prevenção e Enfrentamento ao Assédio e à Discriminação, realizado nesta quarta-feira (11/11) na sede do Tribunal Superior do Trabalho (TST), em Brasília.",
+      "publicado_em": "2026-11-11T12:00:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "c43cc735292e7b9a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Orçamento aprova relatório preliminar da LDO de 2027",
+      "link": "https://www.camara.leg.br/noticias/1318622-comissao-de-orcamento-aprova-relatorio-preliminar-da-ldo-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-11T19:00:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "liminar",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "e52d0109e720d353",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara decide enviar ao Senado projeto que revoga lei sobre alienação parental; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1318504-camara-decide-enviar-ao-senado-projeto-que-revoga-lei-sobre-alienacao-parental-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:53:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decide",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "01f08cd7736267e6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Relator aponta amadurecimento do debate sobre redução da maioridade penal e marca votação para dezembro",
+      "link": "https://www.camara.leg.br/noticias/1318624-relator-aponta-amadurecimento-do-debate-sobre-reducao-da-maioridade-penal-e-marca-votacao-para-dezembro",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:50:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "96715ed68f50a3b0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Congresso Nacional realiza sessão nesta quinta-feira",
+      "link": "https://www.camara.leg.br/noticias/1318646-congresso-nacional-realiza-sessao-nesta-quinta-feira",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:32:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "f5c22dad7bdd1aa9",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Ministro do Planejamento anuncia novas medidas de ajuste fiscal para 2027",
+      "link": "https://www.camara.leg.br/noticias/1318603-ministro-do-planejamento-anuncia-novas-medidas-de-ajuste-fiscal-para-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:28:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "603e4864e6a6960a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova obrigatoriedade de pelo menos um local por município para distribuição de absorventes",
+      "link": "https://www.camara.leg.br/noticias/1318517-comissao-aprova-obrigatoriedade-de-pelo-menos-um-local-por-municipio-para-distribuicao-de-absorventes",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:19:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "obrigatoriedade",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "2cf8e19dd73d5dfb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova criação do Cadastro Nacional de Protetores e Associações da Causa Animal",
+      "link": "https://www.camara.leg.br/noticias/1318499-comissao-aprova-criacao-do-cadastro-nacional-de-protetores-e-associacoes-da-causa-animal",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:08:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "205e5c4aea8a57d1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputadas e movimentos sociais homenageiam Benedita da Silva e Paulo Paim em sessão solene na Câmara",
+      "link": "https://www.camara.leg.br/noticias/1318549-deputadas-e-movimentos-sociais-homenageiam-benedita-da-silva-e-paulo-paim-em-sessao-solene-na-camara",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:02:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-11-11T19:27:54-03:00"
     },
     {
       "id": "b273231798060a39",
