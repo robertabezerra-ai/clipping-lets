@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-11T15:23:33-03:00",
+  "gerado_em": "2026-11-11T17:58:34-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -173,7 +173,7 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 28,
+      "itens": 29,
       "erro": null
     },
     {
@@ -317,6 +317,73 @@
       "coletado_em": "2026-11-11T15:23:33-03:00"
     },
     {
+      "id": "cb4805f176d01444",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Palestra do GMF reflete sobre direito constitucional de crianças e adolescentes à cultura",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115996&pagina=1",
+      "resumo": "Exposição do juiz Iberê de Castro Roxo Dias.\n \n\tO Grupo de Monitoramento e Fiscalização do Sistema Carcerário do Tribunal de Justiça de São Paulo (GMF),",
+      "publicado_em": "2026-11-11T12:00:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "acao",
+        "exposicao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "d0014ab4f4601354",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Anuário da Justiça São Paulo 2026 é lançado no TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115994&pagina=1",
+      "resumo": "Publicação do Conjur chega à 15ª edição. \n \n\tO Palácio da Justiça foi palco, na noite de ontem (10), do lançamento do \"Anuário da Justiça São",
+      "publicado_em": "2026-11-11T12:00:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "a111f56a44924445",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Provedores de internet questionam lei de MT que exige informações de velocidade nas faturas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/provedores-de-internet-questionam-lei-de-mt-que-exige-informacoes-de-velocidade-nas-faturas/",
+      "resumo": "Abrint alega que empresas podem sofrer altíssimas multas em caso de descumprimento da obrigação",
+      "publicado_em": "2026-11-11T16:32:58-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "0feb20773d96a450",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF cumprimenta ministra Cármen Lúcia por prêmio do Conselho da Europa",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-cumprimenta-ministra-carmen-lucia-por-premio-do-conselho-da-europa/",
+      "resumo": "Premiação reconhece atuação da ministra na defesa dos direitos humanos, da democracia e do Estado de Direito",
+      "publicado_em": "2026-11-11T15:55:07-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
       "id": "ccc4894925441b25",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -364,6 +431,206 @@
         "adi"
       ],
       "coletado_em": "2026-11-11T15:23:33-03:00"
+    },
+    {
+      "id": "011803eac6b9225d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Selo que favorece a produção de café artesanal vai ao Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/selo-que-favorece-a-producao-de-cafe-artesanal-vai-ao-plenario",
+      "resumo": "",
+      "publicado_em": "2026-11-11T17:50:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "12b01601f4d4b05c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Paim lança obra sobre trajetória e anuncia presença na Feira do Livro de Porto Alegre",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/paim-lanca-obra-sobre-trajetoria-e-anuncia-presenca-na-feira-do-livro-de-porto-alegre",
+      "resumo": "",
+      "publicado_em": "2026-11-11T17:37:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "fea0c659b2bcd2ec",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Flávio Arns destaca carta de estudantes de Curitiba em defesa do meio ambiente",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/flavio-arns-destaca-carta-de-estudantes-de-curitiba-em-defesa-do-meio-ambiente",
+      "resumo": "",
+      "publicado_em": "2026-11-11T17:30:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "be6c641e15199b1e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Política de qualidade à produção de pimenta-do-reino segue ao Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/politica-de-qualidade-a-producao-de-pimenta-do-reino-segue-ao-plenario",
+      "resumo": "",
+      "publicado_em": "2026-11-11T17:27:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "3b9775fce931fe22",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovado projeto que tipifica tráfico de animais silvestres",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/aprovado-projeto-que-tipifica-trafico-de-animais-silvestres",
+      "resumo": "",
+      "publicado_em": "2026-11-11T17:03:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "950d956715f9351b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Dia Nacional da Parentalidade vai a sanção presidencial",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/dia-nacional-da-parentalidade-vai-a-sancao-presidencial",
+      "resumo": "",
+      "publicado_em": "2026-11-11T16:59:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "sancao",
+        "vai a sancao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "127317b40a4339bc",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CDH: polilaminina, medicamento para epilepsia e pornografia serão temas de debates",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cdh-polilaminina-medicamento-para-epilepsia-e-pornografia-serao-temas-de-debates",
+      "resumo": "",
+      "publicado_em": "2026-11-11T16:49:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "bbf923df0da09a9f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Destinação de terras a mulheres na reforma agrária vai ao Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/projeto-que-facilita-a-destinacao-de-terras-a-mulheres-na-reforma-agraria",
+      "resumo": "",
+      "publicado_em": "2026-11-11T16:45:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "60116f2d0d90874c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Subcomissão vai monitorar a implementação do PNE",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/subcomissao-vai-monitorar-a-implementacao-do-pne",
+      "resumo": "",
+      "publicado_em": "2026-11-11T16:37:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "b04af77b02d32f6e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Prazo de 20 anos para reparação por crimes sexuais contra menores vai a Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/prazo-de-20-anos-para-reparacao-por-crimes-sexuais-contra-menores-vai-a-plenario",
+      "resumo": "",
+      "publicado_em": "2026-11-11T16:07:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "1f9257e61d542ac1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Dia Nacional da Música Instrumental Hermeto Pascoal vai a sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/dia-nacional-da-musica-instrumental-hermeto-pascoal-vai-a-sancao",
+      "resumo": "",
+      "publicado_em": "2026-11-11T15:53:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "sancao",
+        "vai a sancao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "9de9829a0bf1261a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso homenageia Nossa Senhora de Nazaré",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/congresso-homenageia-nossa-senhora-de-nazare",
+      "resumo": "",
+      "publicado_em": "2026-11-11T15:48:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "a92f2218f4fe4d46",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CMO libera R$ 966,4 milhões em créditos para o Orçamento deste ano",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/cmo-libera-r-966-4-milhoes-em-creditos-para-o-orcamento-deste-ano",
+      "resumo": "",
+      "publicado_em": "2026-11-11T15:26:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
     },
     {
       "id": "4da1de3778024469",
@@ -679,6 +946,22 @@
       "coletado_em": "2026-11-11T15:23:33-03:00"
     },
     {
+      "id": "a3126f8831715d65",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal participa de apreensão de quase 8 toneladas de maconha avaliadas em R$ 78 milhões",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-participa-de-apreensao-de-quase-8-toneladas-de-maconha-avaliadas-em-r-78-milhoes",
+      "resumo": "",
+      "publicado_em": "2026-11-11T15:29:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreensao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
       "id": "9d8e34960170b4ff",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -761,6 +1044,80 @@
       "coletado_em": "2026-11-11T15:23:33-03:00"
     },
     {
+      "id": "1519812855d1462d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Em premiação da ONU, Esther Dweck afirma que equidade de gênero é indissociável de raça",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/201ca-equidade-de-genero-nao-pode-vir-dissociada-da-igualdade-de-raca201d-defende-ministra-esther-dweck",
+      "resumo": "",
+      "publicado_em": "2026-11-11T17:02:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "ca497143fd2913f2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Vontade política, investimento e cooperação são fundamentais para proteger florestas, diz Lula",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/lula-ressalta-na-turquia-que-vontade-politica-investimento-e-cooperacao-internacional-sao-fundamentais-para-protecao-das-florestas-tropicais",
+      "resumo": "",
+      "publicado_em": "2026-11-11T17:00:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T15:23:33-03:00"
+    },
+    {
+      "id": "2a246a28d0c38942",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil reduz em 27% as emissões de gases de efeito estufa entre 2022 e 2024",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-em-27-as-emissoes-de-gases-de-efeito-estufa-entre-2022-e-2024",
+      "resumo": "",
+      "publicado_em": "2026-11-11T16:12:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "fae8d8674c030b9a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo do Brasil vai levar internet e sinal de celular a 28 localidades rurais de Pernambuco",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-do-brasil-vai-levar-internet-e-sinal-de-celular-a-28-localidades-rurais-de-pernambuco",
+      "resumo": "",
+      "publicado_em": "2026-11-11T15:51:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "d0b9a636d1571d22",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Autorizado repasse de R$ 22,2 milhões para nove cidades afetadas por desastres",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/autorizado-repasse-de-r-22-2-milhoes-para-nove-cidades-afetadas-por-desastres",
+      "resumo": "",
+      "publicado_em": "2026-11-11T14:57:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
       "id": "82dbd7d5a6729196",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -777,20 +1134,18 @@
       "coletado_em": "2026-11-11T15:23:33-03:00"
     },
     {
-      "id": "ca497143fd2913f2",
+      "id": "72fe29a170975cca",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Vontade política, investimento e cooperação são fundamentais para proteger florestas, diz Lula",
-      "link": "https://agenciagov.ebc.com.br/noticias/202611/lula-ressalta-na-turquia-que-vontade-politica-investimento-e-cooperacao-internacional-sao-fundamentais-para-protecao-das-florestas-tropicais",
+      "titulo": "Esther Dweck detalha concursos e avanços nos serviços públicos no Bom Dia, Ministra neste dia 12",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/esther-dweck-detalha-concursos-e-avancos-nos-servicos-publicos-no-201cbom-dia-ministra201d-desta-quinta-12-11",
       "resumo": "",
-      "publicado_em": "2026-11-11T13:25:00-03:00",
+      "publicado_em": "2026-11-11T13:01:00-03:00",
       "dia": "2026-11-11",
       "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-11-11T15:23:33-03:00"
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
     },
     {
       "id": "45b0e3805cdf4ae9",
@@ -1000,6 +1355,103 @@
         "processo"
       ],
       "coletado_em": "2026-11-11T15:23:33-03:00"
+    },
+    {
+      "id": "c7cf84a0bc57e1d6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A presença do Brasil na COP31 e o mapa do caminho indígena",
+      "link": "https://www.congressoemfoco.com.br/artigo/131522/a-presenca-do-brasil-na-cop31-e-o-mapa-do-caminho-indigena",
+      "resumo": "Conferência na Turquia reforça a urgência de garantir financiamento climático, proteção dos biomas e participação efetiva dos povos indígenas.",
+      "publicado_em": "2026-11-11T17:16:42-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "2b3369f475a49e22",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Relator adia apresentação de texto da PEC da maioridade para dezembro",
+      "link": "https://www.congressoemfoco.com.br/noticia/131521/relator-adia-apresentacao-de-texto-da-pec-da-maioridade-para-dezembro",
+      "resumo": "Antes do protocolo oficial na Câmara, o substitutivo passará pelo Colégio de Líderes por solicitação do presidente Hugo Motta.",
+      "publicado_em": "2026-11-11T17:07:46-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "02dccb18292683a6",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova proibição de cortes em fundo para internet nas escolas",
+      "link": "https://www.congressoemfoco.com.br/noticia/131520/senado-aprova-proibicao-de-cortes-em-fundo-para-internet-nas-escolas",
+      "resumo": "Projeto já aprovado na Câmara dos Deputados agora segue sanção presidencial.",
+      "publicado_em": "2026-11-11T16:37:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "sancao",
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "5058c9e47784609d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Coronel Meira sobre redução da maioridade: \"lei vale para todos\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131519/coronel-meira-sobre-reducao-da-maioridade--lei-vale-para-todos",
+      "resumo": "Presidente da Comissão de Segurança Pública defendeu redução da maioridade penal em abertura de audiência pública.",
+      "publicado_em": "2026-11-11T16:21:27-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "5235e18d09ba7d7d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vice-prefeito de SP pede investigação de acordo da própria prefeitura",
+      "link": "https://www.congressoemfoco.com.br/noticia/131517/vice-prefeito-de-sp-pede-investigacao-de-acordo-da-propria-prefeitura",
+      "resumo": "Gabinete do vice-prefeito identificou possíveis irregularidades em parcerias que destinaram R$ 15,78 milhões a 12 entidades.",
+      "publicado_em": "2026-11-11T15:41:56-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "d4e1a95282c036e2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas nega ter criado ou mudado nome do canal \"Tropa do Flávio\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131516/nikolas-nega-ter-criado-ou-mudado-nome-do-canal-tropa-do-flavio",
+      "resumo": "Deputado afirma que não foi responsável pela criação nem pela alteração do nome do canal de WhatsApp, que passou a se chamar \"Direita Já\" após as eleições.",
+      "publicado_em": "2026-11-11T15:12:51-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
     },
     {
       "id": "a9d881e658994db9",
@@ -1354,6 +1806,106 @@
         "seminario"
       ],
       "coletado_em": "2026-11-11T15:23:33-03:00"
+    },
+    {
+      "id": "b273231798060a39",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova criação de serviço telefônico para atender pessoas com transtornos mentais e familiares",
+      "link": "https://www.camara.leg.br/noticias/1318489-comissao-aprova-criacao-de-servico-telefonico-para-atender-pessoas-com-transtornos-mentais-e-familiares",
+      "resumo": "",
+      "publicado_em": "2026-11-11T17:45:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "4d644875eb7da373",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara homenageia ex-constituinte e ex-governador paranaense José Richa",
+      "link": "https://www.camara.leg.br/noticias/1318572-camara-homenageia-ex-constituinte-e-ex-governador-paranaense-jose-richa",
+      "resumo": "",
+      "publicado_em": "2026-11-11T17:38:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "ed95198dba45ecf6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova diretrizes para atendimento remoto de gestantes em áreas rurais",
+      "link": "https://www.camara.leg.br/noticias/1318370-comissao-aprova-diretrizes-para-atendimento-remoto-de-gestantes-em-areas-rurais",
+      "resumo": "",
+      "publicado_em": "2026-11-11T17:21:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "d21d1a8192c04b88",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova validade indeterminada para credencial de estacionamento de pessoa com deficiência",
+      "link": "https://www.camara.leg.br/noticias/1318416-comissao-aprova-validade-indeterminada-para-credencial-de-estacionamento-de-pessoa-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-11-11T16:58:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "d408370da3ceeab4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara inaugura busto em homenagem ao ex-deputado Bonifácio de Andrada",
+      "link": "https://www.camara.leg.br/noticias/1318539-camara-inaugura-busto-em-homenagem-ao-ex-deputado-bonifacio-de-andrada",
+      "resumo": "",
+      "publicado_em": "2026-11-11T16:49:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenagem"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
+    },
+    {
+      "id": "983dc234bf386b19",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que muda ordem de depoimentos em julgamentos relacionados a drogas",
+      "link": "https://www.camara.leg.br/noticias/1318471-comissao-aprova-projeto-que-muda-ordem-de-depoimentos-em-julgamentos-relacionados-a-drogas",
+      "resumo": "",
+      "publicado_em": "2026-11-11T16:16:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "julgamento",
+        "julga",
+        "aprova",
+        "droga"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
     },
     {
       "id": "1d5b448a7669ff33",
@@ -2305,6 +2857,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-10T15:28:48-03:00"
+    },
+    {
+      "id": "1020ce9ecfb69219",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal realiza coletiva de imprensa sobre a Operação Fronteira Receita Federal no Rio Grande do Sul",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/aviso-de-pauta-receita-federal-realiza-coletiva-de-imprensa-sobre-a-operacao-fronteira-receita-federal-no-rio-grande-do-sul",
+      "resumo": "",
+      "publicado_em": "2026-11-10T17:53:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T17:58:34-03:00"
     },
     {
       "id": "b678c7ffd1f7d2fe",
