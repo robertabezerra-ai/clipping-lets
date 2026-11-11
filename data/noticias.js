@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-10T18:38:30-03:00",
+  "gerado_em": "2026-11-10T21:19:31-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -343,6 +343,40 @@ window.DADOS = {
       "coletado_em": "2026-11-10T17:38:57-03:00"
     },
     {
+      "id": "4fd911ed73fdfc5a",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Tribunal realiza sessão para divulgação das notas das provas orais do 192º Concurso de Ingresso na Magistratura",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115982&pagina=1",
+      "resumo": "103 candidatos aprovados na etapa.\n \n\tO Tribunal de Justiça de São Paulo realizou, hoje (10), sessão pública para divulgação das notas das provas orais do",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "64e671eebe51cc22",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Escala 5×2: relator decidirá sobre implementação da nova jornada até sexta-feira (13)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/escala-5x2-relator-decidira-sobre-implementacao-da-nova-jornada-ate-sexta-feira-13/",
+      "resumo": "Suspensão da emenda não está em discussão, afirmou ministro Flávio Dino",
+      "publicado_em": "2026-11-10T20:11:03-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
       "id": "b8743ae38d43f2e5",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -423,6 +457,172 @@ window.DADOS = {
         "cade"
       ],
       "coletado_em": "2026-11-10T15:28:48-03:00"
+    },
+    {
+      "id": "49ed6614a72de0c0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Zequinha Marinho defende medida provisória de renegociação de dívidas rurais",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/zequinha-marinho-defende-medida-provisoria-de-renegociacao-de-dividas-rurais",
+      "resumo": "",
+      "publicado_em": "2026-11-10T20:40:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "medida provisoria",
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "0774e70dad33112c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sérgio Petecão faz balanço de atuação no Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/sergio-petecao-faz-balanco-de-atuacao-no-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-10T20:34:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "77014804c29406b3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Vai à sanção projeto que incentiva contratação de mulheres com câncer de mama",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/vai-a-sancao-projeto-que-incentiva-contratacao-de-mulheres-com-cancer-de-mama",
+      "resumo": "",
+      "publicado_em": "2026-11-10T20:17:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "4205b220f05ce0e8",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Secretaria-Geral da Mesa do Senado completa 80 anos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/secretaria-geral-da-mesa-do-senado-completa-80-anos",
+      "resumo": "",
+      "publicado_em": "2026-11-10T20:12:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "a6af35b508fbabfd",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Chico Rodrigues comemora aprovação da PEC da Segurança Pública",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/chico-rodrigues-comemora-aprovacao-da-pec-da-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-11-10T20:01:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 38,
+      "tags": [
+        "aprova",
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "c9a4354d0f0378a2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Instituição Fiscal Independente celebra dez anos de criação",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/instituicao-fiscal-independente-celebra-dez-anos-de-criacao",
+      "resumo": "",
+      "publicado_em": "2026-11-10T20:01:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "1db7f1d2a7b39d10",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão altera MP de renegociação de dívidas rurais para ampliar beneficiários",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/comissao-altera-mp-de-renegociacao-de-dividas-rurais-para-ampliar-beneficiarios",
+      "resumo": "",
+      "publicado_em": "2026-11-10T19:41:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "0608ba198f06f0fe",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CMO aprova créditos adicionais para benefícios sociais e outros setores",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/cmo-aprova-creditos-adicionais-para-beneficios-sociais-e-outros-setores",
+      "resumo": "",
+      "publicado_em": "2026-11-10T19:19:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "adi",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "958c86a38770488d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova sessão especial em homenagem ao navegador Amyr Klink",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-aprova-sessao-especial-em-homenagem-ao-navegador-amyr-klink",
+      "resumo": "",
+      "publicado_em": "2026-11-10T19:01:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "aprova",
+        "homenagem"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "af5f9b9c2d922614",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovado projeto que aumenta poder da ANP para combater crimes com combustíveis",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/10/aprovado-projeto-que-aumenta-poder-da-anp-para-combater-crimes-com-combustiveis",
+      "resumo": "",
+      "publicado_em": "2026-11-10T18:55:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
     },
     {
       "id": "1a2b5a063001b4cb",
@@ -912,12 +1112,54 @@ window.DADOS = {
       "titulo": "Governo e BID lançam plataforma para ajudar empresas brasileiras a vender na Europa",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/mdic-lanca-plataforma-para-fortalecer-presenca-do-brasil-no-mercado-europeu",
       "resumo": "",
-      "publicado_em": "2026-11-10T17:04:00-03:00",
+      "publicado_em": "2026-11-10T18:45:00-03:00",
       "dia": "2026-11-10",
       "data_estimada": false,
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
+      "id": "b7b2ced7f4814421",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Banco da Amazônia e agência francesa oferecem crédito para projetos de sociobiodiversidade",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/banco-da-amazonia",
+      "resumo": "",
+      "publicado_em": "2026-11-10T18:42:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "e74ace21bc430e2e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Na COP 31, Brasil defende tornar compromissos de clima e saúde em ações concretas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/brasil-defende-transformar-compromissos-de-clima-e-saude-em-acoes-concretas-durante-cop31",
+      "resumo": "",
+      "publicado_em": "2026-11-10T18:29:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "e50ced6565987af5",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Covid-19: casos e óbitos seguem em queda no Brasil, informa ministério",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/covid-19-casos-e-obitos-seguem-em-queda-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-11-10T18:21:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
     },
     {
       "id": "d9437f038e8ad255",
@@ -1191,6 +1433,84 @@ window.DADOS = {
       "coletado_em": "2026-11-10T15:28:48-03:00"
     },
     {
+      "id": "36d5bbcb04547aa6",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Área técnica reforça orientações sobre o novo Sistema de Atendimento ao Cidadão (SAC-CVM)",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-reforca-orientacoes-sobre-o-novo-sistema-de-atendimento-ao-cidadao-sac-cvm",
+      "resumo": "",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "ebbb88b65686fbe0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara aprova crédito a exportadores afetados por tarifas dos EUA",
+      "link": "https://www.congressoemfoco.com.br/noticia/131485/camara-aprova-credito-a-exportadores-afetados-por-tarifas-dos-eua",
+      "resumo": "Texto amplia de R$ 15 bilhões para R$ 28,5 bilhões o limite de recursos federais destinados às linhas do Plano Brasil Soberano.",
+      "publicado_em": "2026-11-10T19:09:27-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprova",
+        "recurso"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "5cd614fab395ebcb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Alcolumbre ironiza vídeo de Zema comendo banana: \"teve 0,27%\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131484/alcolumbre-ironiza-video-de-zema-comendo-banana--teve-0-27",
+      "resumo": "Presidente do Senado afirmou que a estratégia \"não deu certo\" e relembrou número de votos.",
+      "publicado_em": "2026-11-10T18:51:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "8dddc5015f2fa8a3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara aprova MP da renegociação de dívidas de produtores rurais",
+      "link": "https://www.congressoemfoco.com.br/noticia/131483/camara-aprova-mp-da-renegociacao-de-dividas-de-produtores-rurais",
+      "resumo": "Proposta aprovada estabelece juros anuais de 6% a 12%, com parcelamento em até oito anos e crédito de até R$ 4 milhões por produtor.",
+      "publicado_em": "2026-11-10T18:43:49-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "2289b3ea2975db65",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Não existe nenhuma comparação entre Rui Barbosa e Flávio\", diz Otto",
+      "link": "https://www.congressoemfoco.com.br/noticia/131482/nao-existe-nenhuma-comparacao-entre-rui-barbosa-e-flavio--diz-otto",
+      "resumo": "Senador baiano também chamou vídeo de Nikolas em Luís Eduardo Magalhães de \"ato cênico mentiroso\".",
+      "publicado_em": "2026-11-10T18:27:49-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
       "id": "bba4ce615a51472c",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1205,6 +1525,38 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-10T18:38:30-03:00"
+    },
+    {
+      "id": "976d5be5671ca5f5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Maioridade penal: Vice-líder do governo se opõe a redução para 14 anos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131481/maioridade-penal-vice-lider-do-governo-se-opoe-a-reducao-para-14-anos",
+      "resumo": "Alencar cobrou respostas para deficiências no sistema socioeducativo e na atuação doo poder público contra as organizações criminosas.",
+      "publicado_em": "2026-11-10T17:41:04-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "9b47d48434374709",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A exposição da intimidade de FHC e os limites das redes sociais",
+      "link": "https://www.congressoemfoco.com.br/artigo/131480/a-exposicao-da-intimidade-de-fhc-e-os-limites-das-redes-sociais",
+      "resumo": "Episódio revela o conflito entre liberdade de expressão, interesse público e direito à intimidade na era digital.",
+      "publicado_em": "2026-11-10T17:34:13-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "exposicao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
     },
     {
       "id": "2862f557a4f14bcd",
@@ -1678,7 +2030,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "CNJ firma parceria com a Unicef para fortalecer direitos da infância",
       "link": "https://www.cnj.jus.br/cnj-firma-parceria-com-a-unicef-para-fortalecer-direitos-da-infancia/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) firmou nesta terça-feira (10/11) parceria com o Fundo das Nações Unidas para a Infância (Unicef) para fortalecer a garantia do acesso à justiça e a proteção de crianças na primeira infância contra diversas formas de violência. A agenda conjunta renova e amplia a ",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) firmou, nesta terça-feira (10/11), parceria com o Fundo das Nações Unidas para a Infância (Unicef) para fortalecer a garantia do acesso à Justiça e a proteção de crianças na primeira infância contra diversas formas de violência. A agenda conjunta renova e amplia ",
       "publicado_em": "2026-11-10T12:00:00-03:00",
       "dia": "2026-11-10",
       "data_estimada": true,
@@ -1835,6 +2187,194 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-10T17:38:57-03:00"
+    },
+    {
+      "id": "7c458074af4cf5e3",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Inspeção da Corregedoria Nacional de Justiça chega ao TJDFT",
+      "link": "https://www.cnj.jus.br/inspecao-da-corregedoria-nacional-de-justica-chega-ao-tjdft/",
+      "resumo": "A Corregedoria Nacional de Justiça abriu na manhã desta terça-feira (10/11) a inspeção ordinária no Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT). Na solenidade, o corregedor nacional de Justiça, ministro Benedito Gonçalves, ressaltou o caráter colaborativo e de parceria instituc",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "d190f6501fadfaa7",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Em nota técnica, CNJ apoia tratado que amplia acesso à Justiça em causas ambientais",
+      "link": "https://www.cnj.jus.br/em-nota-tecnica-cnj-apoia-tratado-que-amplia-acesso-a-justica-em-causas-ambientais/",
+      "resumo": "O acordo internacional, conhecido como Acordo Escazú, que busca garantir acesso a informações sobre o meio ambiente e participação da população em decisões relacionadas a questões ambientais foi referendado pelo Conselho Nacional de Justiça (CNJ), nesta terça-feira (10/11), por meio de uma Nota Técn",
+      "publicado_em": "2026-11-10T12:00:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "547494e1385fa37c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara entrega Prêmio Paulo Gustavo a comediantes pela contribuição à cultura brasileira",
+      "link": "https://www.camara.leg.br/noticias/1318101-camara-entrega-premio-paulo-gustavo-a-comediantes-pela-contribuicao-a-cultura-brasileira",
+      "resumo": "",
+      "publicado_em": "2026-11-10T20:46:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "e3cdbd5fd3a8e44a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Medida provisória cria fundo garantidor para novas operações de crédito rural",
+      "link": "https://www.camara.leg.br/noticias/1318105-medida-provisoria-cria-fundo-garantidor-para-novas-operacoes-de-credito-rural",
+      "resumo": "",
+      "publicado_em": "2026-11-10T20:40:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "3fb2b1f8505e1d76",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Especialistas defendem trabalho integrado no combate à exploração sexual de menores em rodovias",
+      "link": "https://www.camara.leg.br/noticias/1318032-especialistas-defendem-trabalho-integrado-no-combate-a-exploracao-sexual-de-menores-em-rodovias",
+      "resumo": "",
+      "publicado_em": "2026-11-10T20:30:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "a3457f4f33c99b81",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova criação do Dia Nacional do Autocuidado",
+      "link": "https://www.camara.leg.br/noticias/1318083-camara-aprova-criacao-do-dia-nacional-do-autocuidado",
+      "resumo": "",
+      "publicado_em": "2026-11-10T19:21:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "4b27825e4a9e30d9",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova urgência para propostas sobre educação integral e escolinhas de futebol feminino",
+      "link": "https://www.camara.leg.br/noticias/1318059-camara-aprova-urgencia-para-propostas-sobre-educacao-integral-e-escolinhas-de-futebol-feminino",
+      "resumo": "",
+      "publicado_em": "2026-11-10T19:14:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "18679091982661f5",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova nome de Severo Eulálio Filho para viaduto em Teresina",
+      "link": "https://www.camara.leg.br/noticias/1318058-camara-aprova-nome-de-severo-eulalio-filho-para-viaduto-em-teresina",
+      "resumo": "",
+      "publicado_em": "2026-11-10T19:04:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "f026870d96681fba",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova inclusão de Padre Inácio de Sousa Rolim no livro de heróis e heroínas da pátria",
+      "link": "https://www.camara.leg.br/noticias/1318043-camara-aprova-inclusao-de-padre-inacio-de-sousa-rolim-no-livro-de-herois-e-heroinas-da-patria",
+      "resumo": "",
+      "publicado_em": "2026-11-10T19:01:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "34868367838575ae",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara envia ao Senado projeto que flexibiliza Código Florestal",
+      "link": "https://www.camara.leg.br/noticias/1318042-camara-envia-ao-senado-projeto-que-flexibiliza-codigo-florestal",
+      "resumo": "",
+      "publicado_em": "2026-11-10T18:53:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "3633d213ca15272e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova crédito de 18,5 bi para exportadores afetados por novo tarifaço dos EUA",
+      "link": "https://www.camara.leg.br/noticias/1317853-camara-aprova-credito-de-185-bi-para-exportadores-afetados-por-novo-tarifaco-dos-eua",
+      "resumo": "",
+      "publicado_em": "2026-11-10T18:39:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
+    },
+    {
+      "id": "c5b6e196e7e50937",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Governo defende redução da maioridade penal apenas para crimes hediondos",
+      "link": "https://www.camara.leg.br/noticias/1317996-governo-defende-reducao-da-maioridade-penal-apenas-para-crimes-hediondos",
+      "resumo": "",
+      "publicado_em": "2026-11-10T18:34:00-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-10T21:19:31-03:00"
     },
     {
       "id": "0d414611e62d40e8",
