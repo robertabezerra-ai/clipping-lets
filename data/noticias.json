@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-11T19:27:54-03:00",
+  "gerado_em": "2026-11-11T22:44:18-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 17,
+      "itens": 18,
       "erro": null
     },
     {
@@ -283,6 +283,20 @@
       "coletado_em": "2026-11-11T15:23:33-03:00"
     },
     {
+      "id": "4aba5d062ae6536b",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Corregedor-geral da Justiça do Trabalho cumpre agenda de diálogo institucional durante correição no TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/corregedor-geral-da-justica-do-trabalho-cumpre-agenda-de-dialogo-institucional-durante",
+      "resumo": "Corregedor-geral da Justiça do Trabalho cumpre agenda de diálogo institucional durante correição no TRT-15 anasiqueira Qua, 11/11/2026 - 18:47 Corregedor-geral da Justiça do Trabalho cumpre agenda de diálogo institucional durante correição no TRT-15 Conteúdo da Notícia O corregedor-geral da Justiça ",
+      "publicado_em": "2026-11-11T18:47:44-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
       "id": "5c5fdce256cb6a60",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -365,6 +379,71 @@
         "visita"
       ],
       "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "aac78a1d6b203ed5",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "OE define listas tríplices para provimento de dois cargos de desembargador pelo 5º Constitucional – Classe Ministério Público",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115998&pagina=1",
+      "resumo": "Listas serão encaminhadas ao governador.\n\tEm sessão realizada nesta quarta-feira (11), o Órgão Especial do Tribunal de Justiça de São Paulo definiu os nomes das listas",
+      "publicado_em": "2026-11-11T12:00:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "da7599b6aa974969",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF e vice se reúnem com parlamentares da Comissão Mista de Planos, Orçamentos Públicos e Fiscalização",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-e-vice-se-reunem-com-parlamentares-da-comissao-mista-de-planos-orcamentos-publicos-e-fiscalizacao/",
+      "resumo": "Encontro tratou de temas de interesse do Poder Judiciário, especialmente do orçamento de 2027",
+      "publicado_em": "2026-11-11T20:43:24-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "d254faba2f49bfd0",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Relator vota pelo fim da isenção de pena em crimes patrimoniais contra mulheres no ambiente familiar",
+      "link": "https://noticias.stf.jus.br/postsnoticias/relator-vota-pelo-fim-da-isencao-de-pena-em-crimes-patrimoniais-contra-mulheres-no-ambiente-familiar/",
+      "resumo": "STF iniciou julgamento de duas ações, relatadas pelo ministro Dias Toffoli, que questionam regras do Código Penal que impedem a punição de determinados crimes cometidos entre familiares",
+      "publicado_em": "2026-11-11T20:10:39-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "b14803ed57a8d41f",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF vai definir se alegação de desconhecimento de idade pode afastar condenação por estupro de vulnerável",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-vai-definir-se-alegacao-de-desconhecimento-de-idade-pode-afastar-condenacao-por-estupro-de-vulneravel/",
+      "resumo": "Plenário reconheceu, por unanimidade, repercussão geral da matéria, que envolve consentimento, aparência, experiência sexual e desconhecimento da idade da vítima",
+      "publicado_em": "2026-11-11T19:46:26-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 74,
+      "tags": [
+        "repercussao geral",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
     },
     {
       "id": "90ac5c306a88d026",
@@ -466,6 +545,160 @@
         "adi"
       ],
       "coletado_em": "2026-11-11T15:23:33-03:00"
+    },
+    {
+      "id": "1709df6ecb600503",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Relator, Braga diz que Orçamento de 2027 depende de novas regras",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/relator-braga-diz-que-orcamento-de-2027-depende-de-novas-regras",
+      "resumo": "",
+      "publicado_em": "2026-11-11T21:26:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "novas regras"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "ea65188ca859bcbe",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi informa que Senado não está comprando smartphones para os parlamentares",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/davi-informa-que-senado-nao-esta-comprando-smartphones-para-os-parlamentares",
+      "resumo": "",
+      "publicado_em": "2026-11-11T20:49:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "6c48f8556f7f3aec",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Acesso de idosos a tecnologias de estimulação cognitiva vai ao Plenário",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/acesso-de-idosos-a-tecnologias-de-estimulacao-cognitiva-vai-ao-plenario",
+      "resumo": "",
+      "publicado_em": "2026-11-11T20:30:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "c1de14656409530a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Ajuste fiscal pode ser votado nesta quinta-feira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ajuste-fiscal-pode-ser-votado-nesta-quinta-feira",
+      "resumo": "",
+      "publicado_em": "2026-11-11T20:24:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "739229f4b149a032",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Criação do Dia Nacional da Cachaça Brasileira recebe apoio durante audiência",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/criacao-do-dia-nacional-da-cachaca-brasileira-recebe-apoio-durante-audiencia",
+      "resumo": "",
+      "publicado_em": "2026-11-11T20:20:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "380e14de0b46c591",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Teresa Leitão defende política permanente de proteção ambiental",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/teresa-leitao-defende-politica-permanente-de-protecao-ambiental",
+      "resumo": "",
+      "publicado_em": "2026-11-11T20:17:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "5ba6e10762e18214",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Reginauro cobra efetividade das leis de segurança pública",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/reginauro-cobra-efetividade-das-leis-de-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-11-11T19:42:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "fa8d0935a91fa937",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova proteção de recursos para internet em escolas públicas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/senado-aprova-protecao-de-recursos-para-internet-em-escolas-publicas",
+      "resumo": "",
+      "publicado_em": "2026-11-11T19:40:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprova",
+        "recurso"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "d4c64a8aadbad767",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Vai a Plenário projeto que aumenta punição para uso de celular em presídios",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/vai-a-plenario-projeto-que-aumenta-punicao-para-uso-de-celular-em-presidios",
+      "resumo": "",
+      "publicado_em": "2026-11-11T19:30:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "0f472a3be3eab25a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Renegociação de dívidas rurais é aprovada pelo Senado e vai à sanção presidencial",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/11/renegociacao-de-dividas-rurais-e-aprovada-pelo-senado-e-vai-a-sancao-presidencial",
+      "resumo": "",
+      "publicado_em": "2026-11-11T19:27:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 76,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
     },
     {
       "id": "6040506a71de77de",
@@ -1227,6 +1460,22 @@
       "coletado_em": "2026-11-11T15:23:33-03:00"
     },
     {
+      "id": "9801403085bf3c0c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo regulamenta fundo para bets devolverem sobras de dinheiro não apostado",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-estabelece-regras-para-uso-da-reserva-financeira-das-bets-na-devolucao-de-valores-aos-apostadores",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:55:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
       "id": "f9cdb9c2eda2882a",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1570,6 +1819,58 @@
         "processo"
       ],
       "coletado_em": "2026-11-11T15:23:33-03:00"
+    },
+    {
+      "id": "bb898f24d2c22ec8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara aprova Política Nacional de Residência em Saúde",
+      "link": "https://www.congressoemfoco.com.br/noticia/131531/camara-aprova-politica-nacional-de-residencia-em-saude",
+      "resumo": "Texto garante bolsas, auxílio-moradia, descanso semanal e licenças para profissionais em programas de especialização na saúde.",
+      "publicado_em": "2026-11-11T20:34:43-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "adi",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "556bfbde4f26e771",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara aprova punição mais rigorosa por morte de cães e gatos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131530/camara-aprova-punicao-mais-rigorosa-por-morte-de-caes-e-gatos",
+      "resumo": "Condenados por maus-tratos com morte de cães e gatos terão regras mais rígidas para progressão de regime, sem acesso a benefícios penais.",
+      "publicado_em": "2026-11-11T20:24:41-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "condenado",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "fd185b3fc88b88e3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Motta anuncia membros de GT sobre novas regras de propaganda eleitoral",
+      "link": "https://www.congressoemfoco.com.br/noticia/131529/motta-anuncia-membros-de-gt-sobre-novas-regras-de-propaganda-eleitoral",
+      "resumo": "Com prazo inicial de 15 dias, grupo reúne 19 deputados de partidos diferentes para discutir propaganda eleitoral nas plataformas digitais.",
+      "publicado_em": "2026-11-11T19:55:42-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "novas regras",
+        "prazo"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
     },
     {
       "id": "3c8a72ef06164477",
@@ -2088,7 +2389,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Rainha da Suécia prestigia inauguração do Centro de Atendimento Integrado a Crianças e Adolescentes em São Caetano do Sul",
       "link": "https://www.cnj.jus.br/rainha-da-suecia-prestigia-inauguracao-do-centro-de-atendimento-integrado-a-criancas-e-adolescentes-em-sao-caetano-do-sul/",
-      "resumo": "Acolher, proteger e assegurar que crianças e adolescentes vítimas ou testemunhas de violência encontrem atendimento adequado. Com esse propósito, foi inaugurado, hoje (6), em São Caetano do Sul (SP), o Centro de Atendimento Integrado a Crianças e Adolescentes Vítimas ou Testemunhas de Violência. A s",
+      "resumo": "Acolher, proteger e assegurar que crianças e adolescentes vítimas ou testemunhas de violência encontrem atendimento adequado. Com esse propósito, foi inaugurado, hoje (6), em São Caetano do Sul, o Centro de Atendimento Integrado a Crianças e Adolescentes Vítimas ou Testemunhas de Violência. A soleni",
       "publicado_em": "2026-11-11T12:00:00-03:00",
       "dia": "2026-11-11",
       "data_estimada": true,
@@ -2102,9 +2403,9 @@
       "id": "129b7d8d37110d39",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "TRF-6 participa de mutirão que amplia o acesso à Justiça e promove cidadania para pessoas em situação de rua",
+      "titulo": "TRF6 participa de mutirão que amplia o acesso à Justiça e promove cidadania para pessoas em situação de rua",
       "link": "https://www.cnj.jus.br/trf6-participa-de-mutirao-que-amplia-o-acesso-a-justica-e-promove-cidadania-para-pessoas-em-situacao-de-rua/",
-      "resumo": "A união de esforços entre instituições públicas, sociedade civil e universidades levou serviços essenciais e orientação sobre direitos às pessoas em situação de rua e em vulnerabilidade social em Belo Horizonte. Mais de 20 instituições participaram, no último dia 7, da Rua de Direitos, mutirão reali",
+      "resumo": "A união de esforços entre instituições públicas, sociedade civil e universidades levou serviços essenciais e orientação sobre direitos às pessoas em situação de rua e vulnerabilidade social em Belo Horizonte. Mais de 20 instituições participaram, no último dia 7, da Rua de Direitos, mutirão realizad",
       "publicado_em": "2026-11-11T12:00:00-03:00",
       "dia": "2026-11-11",
       "data_estimada": true,
@@ -2181,6 +2482,102 @@
       "coletado_em": "2026-11-11T19:27:54-03:00"
     },
     {
+      "id": "8f0aeec83ef55694",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova criação da Política Nacional de Residência em Saúde",
+      "link": "https://www.camara.leg.br/noticias/1318796-camara-aprova-criacao-da-politica-nacional-de-residencia-em-saude",
+      "resumo": "",
+      "publicado_em": "2026-11-11T20:53:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "2f79c59824fe5a0c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Motta anuncia grupo de trabalho para discutir propaganda eleitoral nas redes sociais",
+      "link": "https://www.camara.leg.br/noticias/1318798-motta-anuncia-grupo-de-trabalho-para-discutir-propaganda-eleitoral-nas-redes-sociais",
+      "resumo": "",
+      "publicado_em": "2026-11-11T20:44:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "35fe3c69a7c14f39",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova projeto que torna hediondo o crime de maus-tratos de cães e gatos quando resulta em morte",
+      "link": "https://www.camara.leg.br/noticias/1318510-camara-aprova-projeto-que-torna-hediondo-o-crime-de-maus-tratos-de-caes-e-gatos-quando-resulta-em-morte",
+      "resumo": "",
+      "publicado_em": "2026-11-11T20:15:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "603da6bd3b54cafd",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Relator de mudanças no Código de Trânsito altera texto para facilitar aprovação",
+      "link": "https://www.camara.leg.br/noticias/1318733-relator-de-mudancas-no-codigo-de-transito-altera-texto-para-facilitar-aprovacao",
+      "resumo": "",
+      "publicado_em": "2026-11-11T19:59:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "2920f28ba3eb3ba2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova convenção internacional sobre reciclagem segura de navios",
+      "link": "https://www.camara.leg.br/noticias/1318718-camara-aprova-convencao-internacional-sobre-reciclagem-segura-de-navios",
+      "resumo": "",
+      "publicado_em": "2026-11-11T19:35:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
+      "id": "cef91da42c0c7e03",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova perda de herança para quem tentar interditar idosos de forma fraudulenta",
+      "link": "https://www.camara.leg.br/noticias/1318722-camara-aprova-perda-de-heranca-para-quem-tentar-interditar-idosos-de-forma-fraudulenta",
+      "resumo": "",
+      "publicado_em": "2026-11-11T19:24:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
+    },
+    {
       "id": "c43cc735292e7b9a",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -2213,6 +2610,23 @@
         "acao"
       ],
       "coletado_em": "2026-11-11T19:27:54-03:00"
+    },
+    {
+      "id": "e806817738ac7821",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara decide enviar ao Senado projeto que revoga lei sobre alienação parental",
+      "link": "https://www.camara.leg.br/noticias/1318504-camara-decide-enviar-ao-senado-projeto-que-revoga-lei-sobre-alienacao-parental",
+      "resumo": "",
+      "publicado_em": "2026-11-11T18:53:00-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decide",
+        "acao"
+      ],
+      "coletado_em": "2026-11-11T22:44:18-03:00"
     },
     {
       "id": "01f08cd7736267e6",
