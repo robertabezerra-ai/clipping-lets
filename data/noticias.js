@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-12T18:12:57-03:00",
+  "gerado_em": "2026-11-12T19:01:56-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -281,6 +281,20 @@ window.DADOS = {
       "coletado_em": "2026-11-12T18:12:57-03:00"
     },
     {
+      "id": "522a1e14bceb90ce",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Eleita nova diretoria do Coleouv para 2027 em encontro sediado no TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/eleita-nova-diretoria-do-coleouv-para-2027-em-encontro-sediado-no-trt-15",
+      "resumo": "Eleita nova diretoria do Coleouv para 2027 em encontro sediado no TRT-15 anasiqueira Qui, 12/11/2026 - 18:10 Eleita nova diretoria do Coleouv para 2027 em encontro sediado no TRT-15 Conteúdo da Notícia Representantes do Colégio de Ouvidores da Justiça do Trabalho (Coleouv) elegeram, nesta quinta-fei",
+      "publicado_em": "2026-11-12T18:10:12-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-12T19:01:56-03:00"
+    },
+    {
       "id": "542ba88884a9a9b1",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -349,6 +363,22 @@ window.DADOS = {
       "coletado_em": "2026-11-12T18:12:57-03:00"
     },
     {
+      "id": "08847672e71b9656",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Abandono de Tribunal do Júri gera dever de ressarcimento das despesas",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116013&pagina=1",
+      "resumo": "Decisão da 13ª Câmara de Direito Criminal.\n \n\tA 13ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve decisão da 4ª Vara",
+      "publicado_em": "2026-11-12T12:00:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-11-12T19:01:56-03:00"
+    },
+    {
       "id": "5824bbca96f52569",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -399,7 +429,7 @@ window.DADOS = {
       "id": "c218af3fb04e3a35",
       "fonte_id": "stf",
       "fonte_nome": "STF",
-      "titulo": "STF valida regra do Amazonas sobre prescrição nos processos no Tribunal de Contas estadual",
+      "titulo": "Supremo valida regra do Amazonas sobre prescrição nos processos no Tribunal de Contas estadual",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-valida-regra-do-amazonas-sobre-prescricao-nos-processos-no-tribunal-de-contas-estadual/",
       "resumo": "Prevaleceu o voto do relator, ministro Cristiano Zanin, que considerou válidas as regras estaduais sobre a matéria",
       "publicado_em": "2026-11-12T17:21:48-03:00",
@@ -445,6 +475,52 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-11-12T15:41:42-03:00"
+    },
+    {
+      "id": "b0344f47258911ab",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso aprova R$ 34,9 milhões para datacenter do Serpro",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/congresso-aprova-r-34-9-milhoes-para-datacenter-do-serpro",
+      "resumo": "",
+      "publicado_em": "2026-11-12T18:44:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-12T19:01:56-03:00"
+    },
+    {
+      "id": "36f8b04fb4a159c0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado lança nova edição do e-book 'Racismo em Pauta', com 37 artigos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-lanca-nova-edicao-do-e-book-racismo-em-pauta-com-37-artigos",
+      "resumo": "",
+      "publicado_em": "2026-11-12T18:35:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-12T19:01:56-03:00"
+    },
+    {
+      "id": "a9c4c3400eba0ec2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAS aprova estabilidade para gestantes e vacina contra herpes-zóster no SUS",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cas-aprova-estabilidade-para-gestantes-e-vacina-contra-herpes-zoster-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-11-12T18:16:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-12T19:01:56-03:00"
     },
     {
       "id": "4e153d9b17dc4220",
@@ -914,6 +990,50 @@ window.DADOS = {
       "coletado_em": "2026-11-12T15:41:42-03:00"
     },
     {
+      "id": "149e5624452c1595",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Boulos: 'Encontro com a sociedade na COP31 é um tributo à participação social'",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ministro-boulos-201cencontro-de-hoje-na-cop31-e-um-tributo-a-participacao-social201d",
+      "resumo": "",
+      "publicado_em": "2026-11-12T18:50:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-12T18:12:57-03:00"
+    },
+    {
+      "id": "c399241b32260b16",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mais de US$ 480 milhões doados na COP31 para acelerar a redução das emissões",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/mais-de-us-480-milhoes-anunciados-na-cupula-de-lideres-da-cop31-para-acelerar-a-reducao-das-emissoes-de-metano-e-outros-gases-de-efeito-estufa-nao-co2",
+      "resumo": "",
+      "publicado_em": "2026-11-12T18:39:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-12T19:01:56-03:00"
+    },
+    {
+      "id": "a95d0354ea0e3e57",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Justiça participa de encontro de comandos das PM's para debater segurança pública",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/encontro-nacional-de-comandantes-gerais-das-policias-militares-debate-seguranca-publica",
+      "resumo": "",
+      "publicado_em": "2026-11-12T18:05:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-12T19:01:56-03:00"
+    },
+    {
       "id": "63929be78ed724be",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -931,7 +1051,7 @@ window.DADOS = {
       "id": "ad52888a4054963f",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Violência doméstica associada ao vício em apostas cresce 75% em um ano no Brasil",
+      "titulo": "Antes de proibição, bets geraram aumento de 75% nos casos de violência doméstica",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/violencia-domestica-associada-ao-vicio-em-apostas-cresce-75-em-um-ano-no-brasil",
       "resumo": "",
       "publicado_em": "2026-11-12T17:00:00-03:00",
@@ -967,22 +1087,6 @@ window.DADOS = {
       "data_estimada": false,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-11-12T18:12:57-03:00"
-    },
-    {
-      "id": "149e5624452c1595",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Boulos: 'Encontro com a sociedade na COP31 é um tributo à participação social'",
-      "link": "https://agenciagov.ebc.com.br/noticias/202611/ministro-boulos-201cencontro-de-hoje-na-cop31-e-um-tributo-a-participacao-social201d",
-      "resumo": "",
-      "publicado_em": "2026-11-12T15:43:00-03:00",
-      "dia": "2026-11-12",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
       "coletado_em": "2026-11-12T18:12:57-03:00"
     },
     {
@@ -1252,6 +1356,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-12T18:12:57-03:00"
+    },
+    {
+      "id": "7cc3e530300fc568",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Zanin nega pedido do PSD por segundo turno ao governo do Rio",
+      "link": "https://www.congressoemfoco.com.br/noticia/131564/zanin-nega-pedido-do-psd-por-segundo-turno-ao-governo-do-rio",
+      "resumo": "Negativa de Zanin mantém a vitória de Douglas Ruas no primeiro turno, após a anulação dos votos recebidos por Anthony Garotinho.",
+      "publicado_em": "2026-11-12T18:42:18-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-12T19:01:56-03:00"
     },
     {
       "id": "6ae8138e1df3f92e",
@@ -1826,6 +1946,68 @@ window.DADOS = {
       "coletado_em": "2026-11-12T18:12:57-03:00"
     },
     {
+      "id": "ef15c372132a4b0d",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ e Suprema Corte da Índia discutem parceria em IA e soberania digital",
+      "link": "https://www.cnj.jus.br/cnj-e-suprema-corte-da-india-discutem-parceria-em-ia-e-soberania-digital/",
+      "resumo": "O conselheiro do Conselho Nacional de Justiça (CNJ) Rodrigo Badaró recebeu, nesta quinta-feira (12), em Brasília, uma delegação da Suprema Corte da Índia, chefiada pelo Chefe de Justiça Surya Kant. Na reunião, Badaró destacou o esforço do CNJ para se consolidar como um polo de conhecimento e desenvo",
+      "publicado_em": "2026-11-12T12:00:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-12T19:01:56-03:00"
+    },
+    {
+      "id": "66185830d44155de",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Motta destaca o papel da comunicação e o reconhecimento internacional da TV Câmara",
+      "link": "https://www.camara.leg.br/noticias/1319194-motta-destaca-o-papel-da-comunicacao-e-o-reconhecimento-internacional-da-tv-camara",
+      "resumo": "",
+      "publicado_em": "2026-11-12T18:58:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-12T19:01:56-03:00"
+    },
+    {
+      "id": "695c99d527da3671",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão promove audiência pública sobre direitos das pessoas idosas",
+      "link": "https://www.camara.leg.br/noticias/1319071-comissao-promove-audiencia-publica-sobre-direitos-das-pessoas-idosas",
+      "resumo": "",
+      "publicado_em": "2026-11-12T18:31:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-12T19:01:56-03:00"
+    },
+    {
+      "id": "6862b133152f4c90",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto cria fundo para agricultura familiar bancado por taxas sobre exportação e grandes propriedades",
+      "link": "https://www.camara.leg.br/noticias/1314167-projeto-cria-fundo-para-agricultura-familiar-bancado-por-taxas-sobre-exportacao-e-grandes-propriedades",
+      "resumo": "",
+      "publicado_em": "2026-11-12T18:22:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-12T18:12:57-03:00"
+    },
+    {
       "id": "e3fca35c5f559e7a",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1851,22 +2033,6 @@ window.DADOS = {
       "data_estimada": false,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-11-12T18:12:57-03:00"
-    },
-    {
-      "id": "6862b133152f4c90",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Projeto cria fundo para agricultura familiar bancado por taxas sobre exportação e grandes propriedades",
-      "link": "https://www.camara.leg.br/noticias/1314167-projeto-cria-fundo-para-agricultura-familiar-bancado-por-taxas-sobre-exportacao-e-grandes-propriedades",
-      "resumo": "",
-      "publicado_em": "2026-11-12T17:42:00-03:00",
-      "dia": "2026-11-12",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
       "coletado_em": "2026-11-12T18:12:57-03:00"
     },
     {
