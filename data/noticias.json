@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-13T17:41:06-03:00",
+  "gerado_em": "2026-11-13T18:47:32-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -251,6 +251,22 @@
   ],
   "noticias": [
     {
+      "id": "3227f09aa4310efe",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Prazos processuais são suspensos em todo o território nacional nesta quinta e sexta (12 e 13/11)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/prazos-processuais-sao-suspensos-em-todo-o-territorio-nacional-nesta-quinta-e-sexta-12-e-13-11",
+      "resumo": "",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-11-13T18:47:32-03:00"
+    },
+    {
       "id": "708eb10f0f4f6b4a",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -310,6 +326,34 @@
         "posse"
       ],
       "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "175314946792e25e",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP instala Vara Criminal e da Infância e Juventude e UPJ Cível em Embu as Artes",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116026&pagina=1",
+      "resumo": "Fortalecimento do Judiciário na 1ª RAJ. \n \n\tO Tribunal de Justiça de São Paulo instalou, hoje (13), a Vara Criminal e da Infância e Juventude Infracional",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T18:47:32-03:00"
+    },
+    {
+      "id": "c3dddd7a1b3e5621",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP abre Semana da Justiça Restaurativa com lideranças do Quilombo Cafundó",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116027&pagina=1",
+      "resumo": "Encontro abordou saberes ancestrais e cultura da paz. \n \n\tO Tribunal de Justiça de São Paulo (TJSP) realizou hoje (13) a abertura da Semana da Justiça",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T18:47:32-03:00"
     },
     {
       "id": "1b145b63976e7dbb",
@@ -386,6 +430,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "749f736ec27d6328",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senadoras acompanham investigação sobre crianças desaparecidas no Maranhão",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senadoras-acompanham-investigacao-sobre-criancas-desaparecidas-no-maranhao",
+      "resumo": "",
+      "publicado_em": "2026-11-13T18:17:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T18:47:32-03:00"
     },
     {
       "id": "3e9d8a78b468799e",
@@ -633,6 +693,22 @@
       "coletado_em": "2026-11-13T15:23:25-03:00"
     },
     {
+      "id": "f51ef3a716cba316",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação Fronteira Receita Federal realiza encerramento operacional em Rio Grande (RS)",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/operacao-fronteira-receita-federal-realiza-encerramento-operacional-em-rio-grande-rs",
+      "resumo": "",
+      "publicado_em": "2026-11-13T17:13:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T18:47:32-03:00"
+    },
+    {
       "id": "99b90b322cc29051",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -697,6 +773,50 @@
         "acao"
       ],
       "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "0e9e9ea4dc85dcc7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Unidade básica de saúde com tecnologia sustentável beneficia indígenas no Pará",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/unidade-basica-de-saude-com-tecnologia-sustentavel-beneficia-indigenas-no-para",
+      "resumo": "",
+      "publicado_em": "2026-11-13T17:59:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T18:47:32-03:00"
+    },
+    {
+      "id": "06afb36cf22f8a8b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil e ONU-Habitat ampliam cooperação pelo desenvolvimento urbano sustentável",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/cop31-ministerio-das-cidades-e-onu-habitat-ampliam-cooperacao-pelo-desenvolvimento-urbano-sustentavel",
+      "resumo": "",
+      "publicado_em": "2026-11-13T17:20:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T18:47:32-03:00"
+    },
+    {
+      "id": "92c6e4e478a4ad31",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Caminhos da Reportagem desta segunda (16) aborda negócios de impacto social e seu potencial de transformar realidades",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/caminhos-da-reportagem-desta-segunda-16-aborda-negocios-de-impacto-social-e-seu-potencial-de-transformar-realidades",
+      "resumo": "",
+      "publicado_em": "2026-11-13T17:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T18:47:32-03:00"
     },
     {
       "id": "71adb9253bc466d3",
@@ -1440,7 +1560,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Conheça os finalistas do Prêmio Pena Justa/CNJ de Jornalismo e Comunicação",
       "link": "https://www.cnj.jus.br/conheca-os-finalistas-do-premio-pena-justa-cnj-de-jornalismo-e-comunicacao/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) anuncia os 70 trabalhos finalistas da primeira edição do Prêmio Pena Justa/CNJ de Jornalismo e Comunicação — são 10 finalistas em cada uma das sete categorias, citados em ordem alfabética ao final do texto. Os vencedores de cada categoria serão anunciados ainda e",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) anuncia os 70 trabalhos finalistas da primeira edição do Prêmio Pena Justa/CNJ de Jornalismo e Comunicação – são 10 finalistas em cada uma das sete categorias, citados em ordem alfabética ao final do texto. Os vencedores de cada categoria serão anunciados ainda e",
       "publicado_em": "2026-11-13T12:00:00-03:00",
       "dia": "2026-11-13",
       "data_estimada": true,
@@ -1466,6 +1586,23 @@
         "acao"
       ],
       "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "7c31bab16ee63b68",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova criação de data para valorizar mulheres que trabalham em setores de infraestrutura",
+      "link": "https://www.camara.leg.br/noticias/1319435-comissao-aprova-criacao-de-data-para-valorizar-mulheres-que-trabalham-em-setores-de-infraestrutura",
+      "resumo": "",
+      "publicado_em": "2026-11-13T18:15:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T18:47:32-03:00"
     },
     {
       "id": "26019ac8898ea161",
@@ -3621,7 +3758,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Articulação interinstitucional fortalece procedimentos que evitem a revitimização de crianças",
       "link": "https://www.cnj.jus.br/articulacao-interinstitucional-fortalece-procedimentos-que-evitem-a-revitimizacao-de-criancas/",
-      "resumo": "A proteção de crianças e adolescentes vítimas ou testemunhas de violência exige atuação integrada das instituições do sistema de justiça. Esse trabalho também engloba o planejamento e a adoção de procedimentos adequados para evitar a repetição de relatos e situações que possam provocar novas experiê",
+      "resumo": "A proteção de crianças e adolescentes vítimas ou testemunhas de violência exige atuação integrada das instituições do sistema de Justiça. Esse trabalho também engloba o planejamento e a adoção de procedimentos adequados para evitar a repetição de relatos e situações que possam provocar novas experiê",
       "publicado_em": "2026-11-12T12:00:00-03:00",
       "dia": "2026-11-12",
       "data_estimada": true,
@@ -3637,7 +3774,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Diálogo sobre recuperação judicial rural destaca valor da cooperação",
       "link": "https://www.cnj.jus.br/dialogo-sobre-recuperacao-judicial-rural-destaca-valor-da-cooperacao/",
-      "resumo": "Compreender as divergências, identificar os pontos de convergência e aproximar a realidade de quem produz e financia o agronegócio das decisões judiciais. Essa foi uma das principais contribuições do Diálogo Nacional do Fórum Nacional de Recuperação Empresarial e Falências (Fonaref), realizado nesta",
+      "resumo": "Compreender as divergências, identificar pontos de convergência e aproximar a realidade de quem produz e financia o agronegócio das decisões judiciais. Essa foi uma das principais contribuições do Diálogo Nacional do Fórum Nacional de Recuperação Empresarial e Falências (Fonaref), realizado nesta qu",
       "publicado_em": "2026-11-12T12:00:00-03:00",
       "dia": "2026-11-12",
       "data_estimada": true,
