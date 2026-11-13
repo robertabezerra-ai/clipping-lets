@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-13T15:23:25-03:00",
+  "gerado_em": "2026-11-13T17:41:06-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 18,
       "erro": null
     },
     {
@@ -295,6 +295,85 @@ window.DADOS = {
       "coletado_em": "2026-11-13T15:23:25-03:00"
     },
     {
+      "id": "b50a01feb3a442c8",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Quinze desembargadores tomam posse em cerimônia no Palácio da Justiça",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116024&pagina=1",
+      "resumo": "Adequação à regulamento do CNJ.\n \n\t“São 15 magistrados e magistradas com histórias próprias e diferentes. Juntos, se agregam a um todo unitário que se vai",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "acao",
+        "posse"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "1b145b63976e7dbb",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF sedia encontro de cortes supremas na próxima segunda-feira (16)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-sedia-encontro-de-cortes-supremas-na-proxima-segunda-feira-16/",
+      "resumo": "Evento internacional busca fortalecer integração entre Judiciários dos países do Mercosul e associados; na programação, debates sobre democracia, inteligência artificial e sistema prisional",
+      "publicado_em": "2026-11-13T17:15:55-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "067fdb78eb7bb603",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF invalida emenda sobre eleição de dirigentes de Tribunais de Justiça",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-emenda-sobre-eleicao-de-dirigentes-de-tribunais-de-justica/",
+      "resumo": "Maioria considerou que norma violava a autonomia do Judiciário e estabelecia tratamento desigual entre tribunais",
+      "publicado_em": "2026-11-13T16:47:15-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "95068bbf93c39576",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Distribuidores de energia questionam norma do DF para protesto de dívidas de serviços públicos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/distribuidores-de-energia-questionam-norma-do-df-para-protesto-de-dividas-de-servicos-publicos/",
+      "resumo": "Para a associação, dispositivos invadem competências legislativas privativas da União sobre a matéria",
+      "publicado_em": "2026-11-13T16:26:55-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "886b001ae85aef06",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF suspende prazos em razão de instabilidade nos serviços de provedor externo",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-suspende-prazos-em-razao-de-instabilidade-nos-servicos-de-provedor-externo/",
+      "resumo": "Medida alcança os dias 12 e 13 de novembro; contagem dos prazos processuais será retomada na segunda-feira (16)",
+      "publicado_em": "2026-11-13T16:01:04-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
       "id": "03ecaaba7d89241a",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -307,6 +386,66 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "3e9d8a78b468799e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado tem o maior percentual já registrado de candidatos negros eleitos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-tem-o-maior-percentual-ja-registrado-de-candidatos-negros-eleitos",
+      "resumo": "",
+      "publicado_em": "2026-11-13T17:29:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "a5238a8247772ccc",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado celebra Dia da Consciência Negra em sessão especial na segunda-feira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senado-celebra-dia-da-consciencia-negra-em-sessao-especial-na-segunda-feira",
+      "resumo": "",
+      "publicado_em": "2026-11-13T16:40:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "6ad42e9e88ac7543",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAE: ministro da Fazenda debate alíquota da CBS na terça-feira",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/cae-ministro-da-fazenda-debate-aliquota-da-cbs-na-terca-feira",
+      "resumo": "",
+      "publicado_em": "2026-11-13T16:02:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "cbs"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "ff1f7ac079d71765",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Aprova:  Proteção de verbas para internet nas escolas",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/11/senado-aprova-protecao-de-verbas-para-internet-nas-escolas",
+      "resumo": "",
+      "publicado_em": "2026-11-13T15:33:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
     },
     {
       "id": "d358add3224f1a5a",
@@ -494,6 +633,24 @@ window.DADOS = {
       "coletado_em": "2026-11-13T15:23:25-03:00"
     },
     {
+      "id": "99b90b322cc29051",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Operação Fronteira: Receita Federal apreende drogas e cigarros contrabandeados em Corumbá e Mundo Novo",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/operacao-fronteira-receita-federal-apreende-drogas-e-cigarros-contrabandeados-em-corumba-e-mundo-novo",
+      "resumo": "",
+      "publicado_em": "2026-11-13T16:10:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 12,
+      "tags": [
+        "acao",
+        "apreende",
+        "droga"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
       "id": "757cc6f9a0fd79ed",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -540,6 +697,78 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "71adb9253bc466d3",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Montadoras podem reduzir imposto sobre carro zero km com reciclagem de veículos velhos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/mdic-incentiva-a-reciclagem-de-veiculos-com-reducao-de-ipi-para-carros-novos-elegiveis",
+      "resumo": "",
+      "publicado_em": "2026-11-13T16:42:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "41c8a7c88c1fcc3a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério facilita acesso a atendimento de saúde mental no aplicativo Meu SUS Digital",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-facilita-acesso-a-teleatendimento-de-saude-mental-no-meu-sus-digital",
+      "resumo": "",
+      "publicado_em": "2026-11-13T16:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "7106b827c865a08a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MTE resgata 45 trabalhadores em condições degradantes em garimpo na Bahia",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/mte-resgata-45-trabalhadores-submetidos-a-condicoes-degradantes-em-garimpo-de-quartzo-na-bahia",
+      "resumo": "",
+      "publicado_em": "2026-11-13T15:48:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "04e44e8d37f2c274",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Partiu São Paulo: Governo Federal garante verba para modernizar transporte",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/novo-pac-proposta-de-r-81-9-milhoes-visa-modernizar-transporte-publico-de-sao-paulo",
+      "resumo": "",
+      "publicado_em": "2026-11-13T15:34:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "5d1a5b88721ab0c3",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Leilões de Energia Existente geram R$ 14,25 bilhões em contratos de três anos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/leiloes-de-energia-existente-a-1-a-2-e-a-3-movimentam-cerca-de-r-14-25-bi-e-reforcam-a-atratividade-do-setor-eletrico",
+      "resumo": "",
+      "publicado_em": "2026-11-13T14:53:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
     },
     {
       "id": "f98da0cd2937a9ab",
@@ -764,6 +993,128 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "770ce1a6a274fa63",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Tesouro Nacional esclarece indisponibilidade temporária de sistemas e serviços",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/tesouro-nacional-esclarece-indisponibilidade-temporaria-de-sistemas-e-servicos",
+      "resumo": "",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "b748cef37a30e258",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Articulação da Transição Ecológica e Justiça Social é tema de mesa-redonda da Fazenda na Semana de Inovação 2026",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/articulacao-da-transicao-ecologica-e-justica-social-e-tema-de-mesa-redonda-da-fazenda-na-semana-de-inovacao-2026",
+      "resumo": "",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "6d2cdaa01f382471",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM revoga suspensão da oferta de CRI da B.SEC Companhia de Securitização",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-revoga-suspensao-da-oferta-de-cri-da-b-sec-companhia-de-securitizacao",
+      "resumo": "",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "d530ba402453aa62",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dias Toffoli dá 3 dias para Lula esclarecer contas da campanha",
+      "link": "https://www.congressoemfoco.com.br/noticia/131595/dias-toffoli-da-3-dias-para-lula-esclarecer-contas-da-campanha",
+      "resumo": "Área técnica do tribunal apontou pendências envolvendo despesas; despacho não significa, em um primeiro momento, irregularidades.",
+      "publicado_em": "2026-11-13T17:09:42-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "ff8003cb021c225e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Acesso a mercados continua sendo desafio para pequenos negócios",
+      "link": "https://www.congressoemfoco.com.br/artigo/131594/acesso-a-mercados-continua-sendo-desafio-para-pequenos-negocios",
+      "resumo": "Mudanças previstas para 2027 e 2028 permitem aumentar receitas e contratações, mas crescimento depende de gestão e competitividade.",
+      "publicado_em": "2026-11-13T15:59:15-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "49feedb9a2241ee2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara pede que STF barre decisão de Flávio Dino sobre escala 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/131593/camara-pede-que-stf-barre-decisao-de-flavio-dino-sobre-escala-6x1",
+      "resumo": "Manifestação contesta a possibilidade de jornada diária de até 8h24 sem instrumento coletivo e o afastamento de limites temporais para compensação dos dias de repouso.",
+      "publicado_em": "2026-11-13T15:49:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "03af1f4513498bf7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Regulação de mercados digitais: A votação não pode atropelar o debate",
+      "link": "https://www.congressoemfoco.com.br/artigo/131592/regulacao-de-mercados-digitais-a-votacao-nao-pode-atropelar-o-debate",
+      "resumo": "Com a urgência aprovada e o governo interessado em votar o projeto de lei 4.675/2025 ainda este ano, pontos centrais do texto seguem sem solução e o debate sobre seus impactos econômicos sequer começou.",
+      "publicado_em": "2026-11-13T15:34:26-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "9c8fcbac56c718c1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Marinho acusa Davi de submeter Senado às \"conveniências do Executivo\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131591/marinho-acusa-davi-de-submeter-senado-as-conveniencias-do-executivo",
+      "resumo": "Senador defendeu emenda que, segundo ele, poderia gerar um resultado de R$ 75 bilhões por meio da redução do ritmo de crescimento das despesas públicas.",
+      "publicado_em": "2026-11-13T14:58:08-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
     },
     {
       "id": "bf6362ea135a48db",
@@ -1089,7 +1440,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Conheça os finalistas do Prêmio Pena Justa/CNJ de Jornalismo e Comunicação",
       "link": "https://www.cnj.jus.br/conheca-os-finalistas-do-premio-pena-justa-cnj-de-jornalismo-e-comunicacao/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) anuncia os 70 trabalhos finalistas da primeira edição do Prêmio Pena Justa/CNJ de Jornalismo e Comunicação – são 10 finalistas em cada uma das sete categorias, citados em ordem alfabética ao final do texto. Os vencedores de cada categoria serão anunciados ainda e",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) anuncia os 70 trabalhos finalistas da primeira edição do Prêmio Pena Justa/CNJ de Jornalismo e Comunicação — são 10 finalistas em cada uma das sete categorias, citados em ordem alfabética ao final do texto. Os vencedores de cada categoria serão anunciados ainda e",
       "publicado_em": "2026-11-13T12:00:00-03:00",
       "dia": "2026-11-13",
       "data_estimada": true,
@@ -1115,6 +1466,71 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "26019ac8898ea161",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova proposta que transforma em lei a Política para a Primeira Infância",
+      "link": "https://www.camara.leg.br/noticias/1319429-comissao-aprova-proposta-que-transforma-em-lei-a-politica-para-a-primeira-infancia",
+      "resumo": "",
+      "publicado_em": "2026-11-13T17:34:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "5b5da820509e575f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova proposta para uso de títulos em concursos de PMs e bombeiros",
+      "link": "https://www.camara.leg.br/noticias/1319294-comissao-aprova-proposta-para-uso-de-titulos-em-concursos-de-pms-e-bombeiros",
+      "resumo": "",
+      "publicado_em": "2026-11-13T17:01:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "af3332792c417f49",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova proposta que aumenta penas para saque de cargas após acidentes de trânsito",
+      "link": "https://www.camara.leg.br/noticias/1319386-comissao-aprova-proposta-que-aumenta-penas-para-saque-de-cargas-apos-acidentes-de-transito",
+      "resumo": "",
+      "publicado_em": "2026-11-13T16:33:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
+    },
+    {
+      "id": "30b2e0d70ea1472d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova aumento de pena para quem usar inocente para dissimular tráfico de drogas",
+      "link": "https://www.camara.leg.br/noticias/1319417-comissao-aprova-aumento-de-pena-para-quem-usar-inocente-para-dissimular-trafico-de-drogas",
+      "resumo": "",
+      "publicado_em": "2026-11-13T15:44:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "aprova",
+        "droga"
+      ],
+      "coletado_em": "2026-11-13T17:41:06-03:00"
     },
     {
       "id": "2a8089cf74ab9e20",
@@ -3205,7 +3621,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Articulação interinstitucional fortalece procedimentos que evitem a revitimização de crianças",
       "link": "https://www.cnj.jus.br/articulacao-interinstitucional-fortalece-procedimentos-que-evitem-a-revitimizacao-de-criancas/",
-      "resumo": "A proteção de crianças e adolescentes vítimas ou testemunhas de violência exige atuação integrada das instituições do sistema de Justiça. Esse trabalho também engloba o planejamento e a adoção de procedimentos adequados para evitar a repetição de relatos e situações que possam provocar novas experiê",
+      "resumo": "A proteção de crianças e adolescentes vítimas ou testemunhas de violência exige atuação integrada das instituições do sistema de justiça. Esse trabalho também engloba o planejamento e a adoção de procedimentos adequados para evitar a repetição de relatos e situações que possam provocar novas experiê",
       "publicado_em": "2026-11-12T12:00:00-03:00",
       "dia": "2026-11-12",
       "data_estimada": true,
@@ -3221,7 +3637,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Diálogo sobre recuperação judicial rural destaca valor da cooperação",
       "link": "https://www.cnj.jus.br/dialogo-sobre-recuperacao-judicial-rural-destaca-valor-da-cooperacao/",
-      "resumo": "Compreender as divergências, identificar pontos de convergência e aproximar a realidade de quem produz e financia o agronegócio das decisões judiciais. Essa foi uma das principais contribuições do Diálogo Nacional do Fórum Nacional de Recuperação Empresarial e Falências (Fonaref), realizado nesta qu",
+      "resumo": "Compreender as divergências, identificar os pontos de convergência e aproximar a realidade de quem produz e financia o agronegócio das decisões judiciais. Essa foi uma das principais contribuições do Diálogo Nacional do Fórum Nacional de Recuperação Empresarial e Falências (Fonaref), realizado nesta",
       "publicado_em": "2026-11-12T12:00:00-03:00",
       "dia": "2026-11-12",
       "data_estimada": true,
