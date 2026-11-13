@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-12T19:01:56-03:00",
+  "gerado_em": "2026-11-12T21:48:45-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -279,6 +279,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-12T18:12:57-03:00"
+    },
+    {
+      "id": "a3c5a369203a5b44",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "2ª Região renova parceria para promover campanha de combate ao trabalho infantil durante preparativos para a São Silvestre",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/2a-regiao-renova-parceria-para-promover-campanha-de-combate-ao-trabalho-infantil-durante-preparativos-para-a-sao-silvestre",
+      "resumo": "",
+      "publicado_em": "2026-11-12T12:00:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-12T21:48:45-03:00"
     },
     {
       "id": "522a1e14bceb90ce",
@@ -379,6 +393,73 @@
       "coletado_em": "2026-11-12T19:01:56-03:00"
     },
     {
+      "id": "eb5611c99dd71a1c",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "APMTJ entrega Medalha Regente Feijó",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116020&pagina=1",
+      "resumo": "Honraria reconhece apoiadores do trabalho da PM no PJ.\n \n\tA Assessoria Policial Militar do Tribunal de Justiça de São Paulo (APMTJ) homenageou, no Palácio da",
+      "publicado_em": "2026-11-12T12:00:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": true,
+      "score": 22,
+      "tags": [
+        "medalha"
+      ],
+      "coletado_em": "2026-11-12T21:48:45-03:00"
+    },
+    {
+      "id": "b2813999a878d4bf",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF rejeita recursos contra decisão que homologou acordo dos planos econômicos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-rejeita-recursos-contra-decisao-que-homologou-acordo-dos-planos-economicos/",
+      "resumo": "Entidades não tinham legitimidade para recorrer",
+      "publicado_em": "2026-11-12T20:37:26-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "decisao",
+        "recurso"
+      ],
+      "coletado_em": "2026-11-12T21:48:45-03:00"
+    },
+    {
+      "id": "eae5c8706b42594c",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF tem unanimidade para afastar isenção de pena em crimes patrimoniais entre familiares",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-forma-unanimidade-para-afastar-isencao-de-pena-em-crimes-patrimoniais-entre-familiares/",
+      "resumo": "Corte ampliou entendimento para além da violência de gênero; efeitos da decisão serão definidos na próxima semana",
+      "publicado_em": "2026-11-12T20:08:29-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-11-12T21:48:45-03:00"
+    },
+    {
+      "id": "371062f53b3acaca",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Por questões processuais, relator nega pedido do PSD para realizar segundo turno das eleições no RJ",
+      "link": "https://noticias.stf.jus.br/postsnoticias/por-questoes-processuais-relator-nega-pedido-do-psd-para-realizar-segundo-turno-das-eleicoes-no-rj/",
+      "resumo": "Em análise preliminar do caso, ministro Cristiano Zanin considerou que ADPF foi utilizada em substituição a recurso",
+      "publicado_em": "2026-11-12T19:43:53-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "liminar",
+        "adpf",
+        "recurso"
+      ],
+      "coletado_em": "2026-11-12T21:48:45-03:00"
+    },
+    {
       "id": "5824bbca96f52569",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -475,6 +556,51 @@
         "adi"
       ],
       "coletado_em": "2026-11-12T15:41:42-03:00"
+    },
+    {
+      "id": "ffc4cd9885bdd4ce",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Texto principal do ajuste fiscal é aprovado pelo Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-12T21:35:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-12T21:48:45-03:00"
+    },
+    {
+      "id": "975f01dec3a0d565",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado celebra 100 anos de apoio pestalozziano a pessoas com deficiência",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-celebra-100-anos-de-apoio-pestalozziano-a-pessoas-com-deficiencia",
+      "resumo": "",
+      "publicado_em": "2026-11-12T19:54:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-12T21:48:45-03:00"
+    },
+    {
+      "id": "13beafc86f5179fe",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto de ajuste fiscal prevê economia de até R$ 60 bilhões em 2027",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-de-ajuste-fiscal-preve-economia-de-ate-r-60-bilhoes-em-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-12T19:54:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-12T21:48:45-03:00"
     },
     {
       "id": "b0344f47258911ab",
@@ -1051,7 +1177,7 @@
       "id": "ad52888a4054963f",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Antes de proibição, bets geraram aumento de 75% nos casos de violência doméstica",
+      "titulo": "Antes de proibição, presença de bets em casos de violência doméstica subiu 75%",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/violencia-domestica-associada-ao-vicio-em-apostas-cresce-75-em-um-ano-no-brasil",
       "resumo": "",
       "publicado_em": "2026-11-12T17:00:00-03:00",
@@ -1356,6 +1482,39 @@
         "acao"
       ],
       "coletado_em": "2026-11-12T18:12:57-03:00"
+    },
+    {
+      "id": "4e399411706aa81a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova ajuste fiscal e preserva Fundo Constitucional do DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/131566/senado-aprova-ajuste-fiscal-e-preserva-fundo-constitucional-do-df",
+      "resumo": "Projeto amplia bloqueios de despesas e restringe benefícios tributários para elevar o resultado das contas públicas em até R$ 56,1 bilhões.",
+      "publicado_em": "2026-11-12T20:36:36-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "tributario",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-12T21:48:45-03:00"
+    },
+    {
+      "id": "50660cf7d2553282",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Na academia, Marcos Pereira mostra \"musculatura do Republicanos\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131565/na-academia-marcos-pereira-mostra-musculatura-do-republicanos",
+      "resumo": "Presidente do Republicanos compartilhou nas redes sociais imagens de seu treino na academia e exibiu sua rotina de exercícios físicos.",
+      "publicado_em": "2026-11-12T20:10:15-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-11-12T21:48:45-03:00"
     },
     {
       "id": "7cc3e530300fc568",
@@ -1887,7 +2046,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Rede Nacional de Magistrados defende que Tribunal do Júri julgue homicídios ligados a facções criminosas",
       "link": "https://www.cnj.jus.br/rede-nacional-de-magistrados-com-competencia-em-criminalidade-organizada-defende-que-tribunal-do-juri-julgue-homicidios-ligados-a-faccoes-criminosas/",
-      "resumo": "A Rede Nacional de Magistrados com Competência em Criminalidade Organizada apresentou uma nota técnica sobre a inconstitucionalidade de dois dispositivos do Marco Legal do Combate ao Crime Organizado, conhecida como Lei Antifacção ou Lei Raul Jungmann (Lei n. 15.358/2026). O documento analisa o desl",
+      "resumo": "A Rede Nacional de Magistrados com Competência em Criminalidade Organizada apresentou uma nota técnica sobre a inconstitucionalidade de dois dispositivos do Marco Legal do Combate ao Crime Organizado, conhecida como Lei Antifacção ou Lei Raul Jungmann (Lei 15.358/2026). O documento analisa o desloca",
       "publicado_em": "2026-11-12T12:00:00-03:00",
       "dia": "2026-11-12",
       "data_estimada": true,
@@ -1960,6 +2119,40 @@
         "acao"
       ],
       "coletado_em": "2026-11-12T19:01:56-03:00"
+    },
+    {
+      "id": "5493bcdc3acbc46f",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara entrega Medalha Rei Pelé a pessoas e instituições ligadas ao esporte",
+      "link": "https://www.camara.leg.br/noticias/1319196-camara-entrega-medalha-rei-pele-a-pessoas-e-instituicoes-ligadas-ao-esporte",
+      "resumo": "",
+      "publicado_em": "2026-11-12T19:54:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "medalha"
+      ],
+      "coletado_em": "2026-11-12T21:48:45-03:00"
+    },
+    {
+      "id": "b93fb28f6174dede",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão de Finanças debate com Receita Federal regulamentação da reforma tributária",
+      "link": "https://www.camara.leg.br/noticias/1319043-comissao-de-financas-debate-com-receita-federal-regulamentacao-da-reforma-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-11-12T19:04:00-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 78,
+      "tags": [
+        "regulamenta",
+        "reforma tributaria",
+        "acao"
+      ],
+      "coletado_em": "2026-11-12T21:48:45-03:00"
     },
     {
       "id": "66185830d44155de",
