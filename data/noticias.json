@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-13T21:33:52-03:00",
+  "gerado_em": "2026-11-14T13:51:20-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 401 Client Error: Unauthorized for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -251,6 +251,162 @@
   ],
   "noticias": [
     {
+      "id": "7d2b832e83bec91d",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "EPM realizará curso sobre memória, escravidão e liberdade no Poder Judiciário",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116000&pagina=1",
+      "resumo": "Inscrições até 17/11.\n \n \n\tEstão abertas as inscrições para o curso Memória, Escravidão e Liberdade no Poder Judiciário, que será realizado pela EPM em parceria",
+      "publicado_em": "2026-11-14T12:00:00-03:00",
+      "dia": "2026-11-14",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "94cc0617b13877b7",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Campanha “24 Horas pelo Diabetes” alerta para riscos da doença à visão",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115995&pagina=1",
+      "resumo": "Campanha promove 24 dias de conscientização. \n \n\tO Tribunal de Justiça de São Paulo apoia a campanha “24 Horas pelo Diabetes (24 dias de cuidado e",
+      "publicado_em": "2026-11-14T12:00:00-03:00",
+      "dia": "2026-11-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "05ca86cc6f450041",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Supremo na Semana comenta fim da isenção de pena em crimes patrimoniais contra familiar",
+      "link": "https://noticias.stf.jus.br/postsnoticias/supremo-na-semana-comenta-fim-da-isencao-de-pena-em-crimes-patrimoniais-contra-familiar/",
+      "resumo": "Episódio #210 está disponível nas principais plataformas de áudio e no YouTube",
+      "publicado_em": "2026-11-14T12:00:00-03:00",
+      "dia": "2026-11-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "b25dfe53ba1cd0bd",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministro do Planejamento destaca que ajuste preserva políticas sociais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ministro-do-planejamento-afirma-que-ajuste-preserva-politicas-sociais",
+      "resumo": "",
+      "publicado_em": "2026-11-14T13:34:00-03:00",
+      "dia": "2026-11-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "deac76cd58c1d954",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Lula nas Filipinas: visita consolida aproximação com a Ásia e inaugura novo capítulo do relacionamento bilateral",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/lula-nas-filipinas-visita-consolida-aproximacao-com-a-asia-e-inaugura-novo-capitulo-do-relacionamento-bilateral",
+      "resumo": "",
+      "publicado_em": "2026-11-14T09:33:00-03:00",
+      "dia": "2026-11-14",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "9566f2d91eb9cbd5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino diz que decisão sobre 6x1 não abre exceções ou permite negociação",
+      "link": "https://www.congressoemfoco.com.br/noticia/131599/dino-diz-que-decisao-sobre-6x1-nao-abre-excecoes-ou-permite-negociacao",
+      "resumo": "Segundo Dino, eventuais adaptações para atividades específicas dependerão de negociação coletiva, com participação obrigatória dos sindicatos.",
+      "publicado_em": "2026-11-14T09:21:03-03:00",
+      "dia": "2026-11-14",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "affd1d8ce150eaf4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Janones acusa esquerda de boicote a Exército do Lula: \"não tenho medo\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131598/janones-acusa-esquerda-de-boicote-a-exercito-do-lula--nao-tenho-medo",
+      "resumo": "Deputado afirmou que os ataques partem de pessoas que, segundo ele, foram beneficiadas eleitoralmente pela associação com Lula.",
+      "publicado_em": "2026-11-14T08:52:10-03:00",
+      "dia": "2026-11-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "fb7789918ed3f874",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "STF tem quatro votos para manter decisão de Dino sobre fim da 6x1",
+      "link": "https://www.congressoemfoco.com.br/noticia/131597/stf-tem-quatro-votos-para-manter-decisao-de-dino-sobre-fim-da-6x1",
+      "resumo": "Acompanharam o relator os ministros Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes.",
+      "publicado_em": "2026-11-14T08:24:57-03:00",
+      "dia": "2026-11-14",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "9671409245c71b72",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Atuação de Moro na Lava Jato envergonha o Judiciário\", diz Gilmar",
+      "link": "https://www.congressoemfoco.com.br/noticia/131596/atuacao-de-moro-na-lava-jato-envergonha-o-judiciario--diz-gilmar",
+      "resumo": "Ministro destacou que o ex-magistrado foi declarado suspeito pelo Supremo e classificou sua condução no caso como uma \"fraude\".",
+      "publicado_em": "2026-11-14T07:47:49-03:00",
+      "dia": "2026-11-14",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "067a6d3e6a0a5c77",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Política Antimanicomial é tema de debate entre CNJ e Fiocruz",
+      "link": "https://www.cnj.jus.br/politica-antimanicomial-e-tema-de-debate-entre-cnj-e-fiocruz/",
+      "resumo": "Os caminhos para consolidar a Política Antimanicomial estiveram no centro dos debates do encontro Cuidado em Liberdade, Direitos Humanos e Justiça Desinstitucionalização: medidas de segurança e organização do cuidado no território, realizado nos dias 11 e 12 de novembro, na Fiocruz Brasília. Promovi",
+      "publicado_em": "2026-11-14T12:00:00-03:00",
+      "dia": "2026-11-14",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
       "id": "3227f09aa4310efe",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -370,6 +526,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-13T18:47:32-03:00"
+    },
+    {
+      "id": "e3784bf7c966db9b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Reconhecer papel do Judiciário na desigualdade racial é condição para superá-la, afirma Fachin",
+      "link": "https://noticias.stf.jus.br/postsnoticias/reconhecer-papel-do-judiciario-na-desigualdade-racial-e-condicao-para-supera-la-afirma-fachin/",
+      "resumo": "Presidente do STF e do CNJ participou do 9º Encontro Nacional de Juízas e Juízes Negros (Enajun), no Rio de Janeiro",
+      "publicado_em": "2026-11-13T21:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
     },
     {
       "id": "183044bfa1a6c557",
@@ -823,10 +993,38 @@
       "coletado_em": "2026-11-13T15:23:25-03:00"
     },
     {
+      "id": "24d245ab2e7b7974",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Presidente em exercício reafirma apoio do Governo Federal no combate às queimadas no Pará",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/presidente-em-exercicio-reafirma-apoio-do-governo-federal-no-combate-as-queimadas-no-para",
+      "resumo": "",
+      "publicado_em": "2026-11-13T19:47:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "4d9ca2bf7b9115e8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MinC abre consulta pública para construir regras da Lei Rouanet em 2027",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/minc-abre-consulta-publica-para-construir-regras-da-lei-rouanet-em-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-13T19:35:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
       "id": "18b883ec87483ceb",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "HU Brasil e Opas firmam compromisso de avançar no fortalecimento dos sistemas de saúde",
+      "titulo": "HU Brasil e Opas firmam compromisso de fortalecimento dos sistemas de saúde",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/hu-brasil-e-opas-assinam-a-carta-de-brasilia-e-firmam-compromisso-de-avancar-no-fortalecimento-dos-sistemas-de-saude",
       "resumo": "",
       "publicado_em": "2026-11-13T18:30:00-03:00",
@@ -1441,6 +1639,20 @@
       "coletado_em": "2026-11-13T15:23:25-03:00"
     },
     {
+      "id": "2286212f9fcff299",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Maioridade penal: Veja como são as regras no Brasil e em outros países",
+      "link": "https://www.congressoemfoco.com.br/noticia/131579/maioridade-penal-veja-como-sao-as-regras-no-brasil-e-em-outros-paises",
+      "resumo": "Levantamento do Unicef mostra que os 18 anos são a regra geral nos países do G20 e da América Latina, com exceção do Haiti. No Congresso, propostas de redução dividem parlamentares e o governo Lula.",
+      "publicado_em": "2026-11-13T11:12:39-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
       "id": "d8e5a614e766b4fa",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1486,6 +1698,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "8433a8ce23385939",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O indecifrável diálogo entre economia e política (II)",
+      "link": "https://www.congressoemfoco.com.br/coluna/131575/o-indecifravel-dialogo-entre-economia-e-politica-ii",
+      "resumo": "Proposta de André Lara Resende para reduzir os juros reacende o debate sobre equilíbrio fiscal, inflação e crescimento econômico.",
+      "publicado_em": "2026-11-13T10:10:31-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
     },
     {
       "id": "ce3b29820742d404",
@@ -1744,6 +1972,70 @@
         "prazo"
       ],
       "coletado_em": "2026-11-13T21:33:52-03:00"
+    },
+    {
+      "id": "8ca05835030902f0",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Reconhecer papel do Judiciário na desigualdade racial é condição para superá-la, afirma Fachin",
+      "link": "https://www.cnj.jus.br/reconhecer-papel-do-judiciario-na-desigualdade-racial-e-condicao-para-supera-la-afirma-fachin/",
+      "resumo": "“Para grande parte da população negra, a Justiça é a face mais visível do Estado quando este pune. Mas também a Justiça precisa ser a face que protege, que escuta e que repara.” A reflexão foi compartilhada pelo presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "5642561d5a497126",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Justiça Federal no Tocantins homologa mais de R$ 313 mil em acordos na 21ª Semana Nacional de Conciliação",
+      "link": "https://www.cnj.jus.br/justica-federal-no-tocantins-homologa-mais-de-r-313-mil-em-acordos-na-21a-semana-nacional-de-conciliacao/",
+      "resumo": "A Justiça Federal no Tocantins encerrou sua participação na 21ª Semana Nacional de Conciliação de 2026 com 44 acordos celebrados e R$ 313.100,12 em valores homologados. A mobilização, realizada entre os dias 3 e 6 de novembro, integra uma iniciativa do Conselho Nacional de Justiça (CNJ) voltada ao i",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "fea90b4463837064",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Projeto do TJMA supera 64% de acordos e amplia acesso à Justiça em Peritoró e Codó",
+      "link": "https://www.cnj.jus.br/projeto-do-tjma-supera-64-de-acordos-e-amplia-acesso-a-justica-em-peritoro-e-codo/",
+      "resumo": "A passagem do projeto Conciliação Itinerante por Peritoró e Codó reafirmou o papel da conciliação como instrumento de acesso à Justiça e de pacificação social. Em três dias de atendimentos, o projeto do Tribunal de Justiça do Maranhão (TJMA) realizou 424 audiências e formalizou 272 acordos, alcançan",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "e0f4eec8f06614d2",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Justiça baiana promove práticas restaurativas durante o mutirão PopRuaJud em Vitória da Conquista",
+      "link": "https://www.cnj.jus.br/justica-baiana-promove-praticas-restaurativas-durante-o-mutirao-popruajud-em-vitoria-da-conquista/",
+      "resumo": "O Núcleo de Justiça Restaurativa do 2º Grau do Tribunal de Justiça da Bahia (TJBA) participou, no dia 11 de novembro, do Mutirão PopRuaJud – Justiça em Território, em Vitória da Conquista. A ação fez parte da programação da Semana Nacional de Justiça Restaurativa e teve o tema “Conte sua",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
     },
     {
       "id": "7c31bab16ee63b68",
@@ -3321,6 +3613,20 @@
         "acao"
       ],
       "coletado_em": "2026-11-12T19:01:56-03:00"
+    },
+    {
+      "id": "49f112901572f679",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Amom defende critérios de transparência para licitações de eletrônicos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131563/amom-defende-criterios-de-transparencia-para-licitacoes-de-eletronicos",
+      "resumo": "Proposta exige justificativas sobre finalidade, quantidade, especificações, custos e substituição dos aparelhos usados por órgãos públicos.",
+      "publicado_em": "2026-11-12T18:23:46-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
     },
     {
       "id": "6ae8138e1df3f92e",
@@ -8703,6 +9009,23 @@
       "coletado_em": "2026-11-10T15:28:48-03:00"
     },
     {
+      "id": "b5c457fece3a445a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe doação de sangue como alternativa para reduzir penas",
+      "link": "https://www.congressoemfoco.com.br/noticia/131460/deputado-propoe-doacao-de-sangue-como-alternativa-para-reduzir-penas",
+      "resumo": "Projeto prevê remição de três dias a cada doação voluntária e estabelece limite de três ou quatro doações por ano, conforme o sexo do condenado.",
+      "publicado_em": "2026-11-10T12:49:57-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "condenado",
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
       "id": "b9e216f7cdf4489d",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -8749,6 +9072,22 @@
         "acao"
       ],
       "coletado_em": "2026-11-10T15:28:48-03:00"
+    },
+    {
+      "id": "d985a2d6e954128b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto cria política de apoio a aplicativos de transporte e entregas",
+      "link": "https://www.congressoemfoco.com.br/noticia/131455/projeto-cria-politica-de-apoio-a-aplicativos-de-transporte-e-entregas",
+      "resumo": "Proposta prevê crédito, assistência técnica e incentivos para plataformas coletivas, além de limite de 10% na taxa de intermediação.",
+      "publicado_em": "2026-11-10T12:15:29-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T13:51:20-03:00"
     },
     {
       "id": "b29fed5621ff8224",
@@ -123137,122 +123476,6 @@
       "resumo": "Após idas e vindas sobre a candidatura, senador oficializa entrada na disputa, expõe bens em vídeo e promete campanha de baixo custo.",
       "publicado_em": "2026-08-16T08:57:34-03:00",
       "dia": "2026-08-16",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "1c17c360e967ac12",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "TJSP participa neste fim de semana da Jornada do Patrimônio 2026",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115034&pagina=1",
-      "resumo": "Palácio da Justiça e Museu recebem visitantes.\n\n\n \n\n\n\tO Tribunal de Justiça de São Paulo participa, hoje (15) e amanhã (16), da Jornada do Patrimônio 2026.",
-      "publicado_em": "2026-08-15T12:00:00-03:00",
-      "dia": "2026-08-15",
-      "data_estimada": true,
-      "score": 28,
-      "tags": [
-        "visita"
-      ],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "0b9f6e105e9d88c3",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Jurado voluntário: abertas as inscrições para residentes na Comarca de Taubaté",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115001&pagina=1",
-      "resumo": "Cadastro até 26 de setembro.\n \n\tA Justiça de Taubaté abriu inscrições para pessoas interessadas em atuar como juradas nos Tribunais do Júri da Comarca. O",
-      "publicado_em": "2026-08-15T12:00:00-03:00",
-      "dia": "2026-08-15",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "35ab0d6226af5f29",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "Validade da Moratória da Soja é destaque no Supremo na Semana",
-      "link": "https://noticias.stf.jus.br/postsnoticias/validade-da-moratoria-da-soja-e-destaque-no-supremo-na-semana/",
-      "resumo": "O episódio #198 do podcast está disponível nas principais plataformas de áudio e no YouTube",
-      "publicado_em": "2026-08-15T12:14:41-03:00",
-      "dia": "2026-08-15",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "65e4dc3143c685df",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Banco do Nordeste contrata R$ 21,3 bilhões no 2º trimestre e registra avanços em microfinanças",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/banco-do-nordeste-contrata-r-21-3-bilhoes-no-2o-trimestre-e-registra-avancos-em-microfinancas",
-      "resumo": "",
-      "publicado_em": "2026-08-15T14:25:00-03:00",
-      "dia": "2026-08-15",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "3739027b9122c455",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Pré-natal: cuidados desde as primeiras semanas tornam a gestação mais segura",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/pre-natal-cuidados-desde-as-primeiras-semanas-tornam-a-gestacao-mais-segura",
-      "resumo": "",
-      "publicado_em": "2026-08-15T14:20:00-03:00",
-      "dia": "2026-08-15",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "ccfe7fca4e7fd0e5",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "SUS realiza consultas e procedimentos para indígenas no Ceará",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/sus-realiza-consultas-e-procedimentos-para-indigenas-no-ceara",
-      "resumo": "",
-      "publicado_em": "2026-08-15T10:50:00-03:00",
-      "dia": "2026-08-15",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "c03544409ae53ba6",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Homem é alvo de busca após ameaças a Flávio Bolsonaro nas redes",
-      "link": "https://www.congressoemfoco.com.br/noticia/121306/homem-e-alvo-de-busca-apos-ameacas-a-flavio-bolsonaro-nas-redes",
-      "resumo": "Investigado foi localizado em Juiz de Fora e teve dispositivos eletrônicos apreendidos.",
-      "publicado_em": "2026-08-15T18:07:17-03:00",
-      "dia": "2026-08-15",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "3c4ff7fef47a00f4",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Líder do PT na Câmara, Pedro Uczai deixa UTI após sofrer AVC",
-      "link": "https://www.congressoemfoco.com.br/noticia/121305/lider-do-pt-na-camara-pedro-uczai-deixa-uti-apos-sofrer-avc",
-      "resumo": "Parlamentar sofreu AVC após passar mal durante reunião da Câmara na terça-feira.",
-      "publicado_em": "2026-08-15T17:12:25-03:00",
-      "dia": "2026-08-15",
       "data_estimada": false,
       "score": 40,
       "tags": [],
