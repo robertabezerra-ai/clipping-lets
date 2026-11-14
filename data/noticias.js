@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-13T18:47:32-03:00",
+  "gerado_em": "2026-11-13T21:33:52-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "falhou após 3 tentativas: 401 Client Error: Unauthorized for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -267,6 +267,22 @@ window.DADOS = {
       "coletado_em": "2026-11-13T18:47:32-03:00"
     },
     {
+      "id": "457384e869012bee",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Ministro José Roberto Pimenta encerra correição ordinária no TRT-15 com reconhecimento de boas práticas e recomendações para aprimorar serviços",
+      "link": "https://trt15.jus.br/noticia/2026/ministro-jose-roberto-pimenta-encerra-correicao-ordinaria-no-trt-15-com-reconhecimento",
+      "resumo": "Ministro José Roberto Pimenta encerra correição ordinária no TRT-15 com reconhecimento de boas práticas e recomendações para aprimorar serviços anagatto Sex, 13/11/2026 - 17:24 Ministro José Roberto Pimenta encerra correição ordinária no TRT-15 com reconhecimento de boas práticas e recomendações par",
+      "publicado_em": "2026-11-13T17:24:06-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "comenda"
+      ],
+      "coletado_em": "2026-11-13T21:33:52-03:00"
+    },
+    {
       "id": "708eb10f0f4f6b4a",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -356,6 +372,38 @@ window.DADOS = {
       "coletado_em": "2026-11-13T18:47:32-03:00"
     },
     {
+      "id": "183044bfa1a6c557",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF vai ao território do povo Kumaruara para ouvir lideranças indígenas no Pará",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-vai-ao-territorio-do-povo-kumaruara-para-ouvir-liderancas-indigenas-no-para/",
+      "resumo": "Encontro na aldeia Solimões, na região de Santarém, reuniu representantes de dez aldeias, que apresentaram reivindicações sobre direitos territoriais, educação, saúde e acesso a serviços públicos",
+      "publicado_em": "2026-11-13T19:53:25-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T21:33:52-03:00"
+    },
+    {
+      "id": "e71583e63bddae73",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF invalida lei que dispensava pagamento de honorários a procuradores municipais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-invalida-lei-que-dispensava-pagamento-de-honorarios-a-procuradores-municipais/",
+      "resumo": "Por unanimidade, Plenário considerou inconstitucional a dispensa dos honorários a contribuintes que aderissem a programa de regularidade fiscal",
+      "publicado_em": "2026-11-13T18:54:34-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "inconstitucional"
+      ],
+      "coletado_em": "2026-11-13T21:33:52-03:00"
+    },
+    {
       "id": "1b145b63976e7dbb",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -435,7 +483,7 @@ window.DADOS = {
       "id": "749f736ec27d6328",
       "fonte_id": "senado",
       "fonte_nome": "Senado",
-      "titulo": "Senadoras acompanham investigação sobre crianças desaparecidas no Maranhão",
+      "titulo": "Senadoras acompanham investigação de crianças desaparecidas no Maranhão",
       "link": "https://www12.senado.leg.br/noticias/materias/2026/11/13/senadoras-acompanham-investigacao-sobre-criancas-desaparecidas-no-maranhao",
       "resumo": "",
       "publicado_em": "2026-11-13T18:17:00-03:00",
@@ -773,6 +821,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "18b883ec87483ceb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "HU Brasil e Opas firmam compromisso de avançar no fortalecimento dos sistemas de saúde",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/hu-brasil-e-opas-assinam-a-carta-de-brasilia-e-firmam-compromisso-de-avancar-no-fortalecimento-dos-sistemas-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-11-13T18:30:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T21:33:52-03:00"
     },
     {
       "id": "0e9e9ea4dc85dcc7",
@@ -1560,7 +1622,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Conheça os finalistas do Prêmio Pena Justa/CNJ de Jornalismo e Comunicação",
       "link": "https://www.cnj.jus.br/conheca-os-finalistas-do-premio-pena-justa-cnj-de-jornalismo-e-comunicacao/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) anuncia os 70 trabalhos finalistas da primeira edição do Prêmio Pena Justa/CNJ de Jornalismo e Comunicação – são 10 finalistas em cada uma das sete categorias, citados em ordem alfabética ao final do texto. Os vencedores de cada categoria serão anunciados ainda e",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) anuncia os 70 trabalhos finalistas da primeira edição do Prêmio Pena Justa/CNJ de Jornalismo e Comunicação — são 10 finalistas em cada uma das sete categorias, citados em ordem alfabética ao final do texto. Os vencedores de cada categoria serão anunciados ainda e",
       "publicado_em": "2026-11-13T12:00:00-03:00",
       "dia": "2026-11-13",
       "data_estimada": true,
@@ -1586,6 +1648,102 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "7621836f2497e76e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Gestores do Pacto pela Linguagem Simples definirão ações para 2027",
+      "link": "https://www.cnj.jus.br/gestores-do-pacto-pela-linguagem-simples-definirao-acoes-para-2027/",
+      "resumo": "Gestores do Pacto Nacional do Judiciário pela Linguagem Simples se encontrarão na próxima quarta-feira (18/11) para a 3ª Reunião de Planejamento da Linguagem Simples no Poder Judiciário. O encontro será na sede do Conselho Nacional de Justiça (CNJ), logo após a cerimônia de entrega do Selo Linguagem",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-13T21:33:52-03:00"
+    },
+    {
+      "id": "21fa8aaac82e4d63",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Semana Nacional de Conciliação mobiliza Judiciário e planos de saúde no Pará",
+      "link": "https://www.cnj.jus.br/semana-nacional-de-conciliacao-mobiliza-judiciario-e-planos-de-saude-no-para/",
+      "resumo": "Dificuldades para conseguir autorizações de procedimentos, negativas de cobertura e demora no atendimento estão entre as situações que podem levar beneficiários de planos de saúde a buscar a Justiça. Para fortalecer o diálogo entre o Judiciário e as operadoras e ampliar as possibilidades de solução ",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T21:33:52-03:00"
+    },
+    {
+      "id": "42ceb8d14cb4726b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "No Integrajus Mulher, do TJMS, medidas protetivas tramitam 100% em formato digital",
+      "link": "https://www.cnj.jus.br/no-integrajus-mulher-do-tjms-medidas-protetivas-tramitam-100-em-formato-digital/",
+      "resumo": "Durante a 16ª Sessão Virtual de 2026, o Conselho Nacional de Justiça (CNJ) aprovou a inclusão da iniciativa Integrajus Mulher, do Tribunal de Justiça do Mato Grosso do Sul (TJMS), no Portal CNJ de Boas Práticas do Poder Judiciário. A prática foi aprovada no Eixo Desburocratização. O programa interin",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T21:33:52-03:00"
+    },
+    {
+      "id": "29bf236f17ae28c9",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Justiça Militar lança solução tecnológica de apoio ao cálculo da pena em SP",
+      "link": "https://www.cnj.jus.br/justica-militar-lanca-solucao-tecnologica-de-apoio-ao-calculo-da-pena-em-sp/",
+      "resumo": "O Tribunal de Justiça Militar do Estado de São Paulo (TJMSP) lançou, no último dia 09, a ferramenta DosimetrIA Penal, solução tecnológica desenvolvida pelo tribunal para auxiliar magistrados(as) na realização da dosimetria da pena. O lançamento reuniu representantes dos tribunais parceiros, autorida",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T21:33:52-03:00"
+    },
+    {
+      "id": "10fe3c07b1f53efc",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Observatório de Causas de Grande Repercussão define prioridades para 2027",
+      "link": "https://www.cnj.jus.br/observatorio-de-causas-de-grande-repercussao-define-prioridades-para-2027/",
+      "resumo": "A proteção de povos indígenas ameaçados pela atuação de organizações criminosas e o acompanhamento de grandes desastres, inclusive ambientais, serão prioridades do Observatório de Causas de Grande Repercussão (OCGR) em 2027. As duas frentes foram definidas pelo colegiado formado pelo Conselho Nacion",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T21:33:52-03:00"
+    },
+    {
+      "id": "5e610c2afd02cd30",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ suspende prazos processuais por instabilidade na Microsoft 365",
+      "link": "https://www.cnj.jus.br/cnj-suspende-prazos-processuais-por-instabilidade-no-microsoft-365/",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ), ministro Edson Fachin, determinou a suspensão da contagem dos prazos processuais em todo o território nacional nos dias 12 e 13 de novembro de 2026. A medida consta da Portaria Presidência n. 551, assinada nesta sexta-feira (13/11), e se deve à ins",
+      "publicado_em": "2026-11-13T12:00:00-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": true,
+      "score": 62,
+      "tags": [
+        "portaria",
+        "prazo"
+      ],
+      "coletado_em": "2026-11-13T21:33:52-03:00"
     },
     {
       "id": "7c31bab16ee63b68",
@@ -3758,7 +3916,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Articulação interinstitucional fortalece procedimentos que evitem a revitimização de crianças",
       "link": "https://www.cnj.jus.br/articulacao-interinstitucional-fortalece-procedimentos-que-evitem-a-revitimizacao-de-criancas/",
-      "resumo": "A proteção de crianças e adolescentes vítimas ou testemunhas de violência exige atuação integrada das instituições do sistema de Justiça. Esse trabalho também engloba o planejamento e a adoção de procedimentos adequados para evitar a repetição de relatos e situações que possam provocar novas experiê",
+      "resumo": "A proteção de crianças e adolescentes vítimas ou testemunhas de violência exige atuação integrada das instituições do sistema de justiça. Esse trabalho também engloba o planejamento e a adoção de procedimentos adequados para evitar a repetição de relatos e situações que possam provocar novas experiê",
       "publicado_em": "2026-11-12T12:00:00-03:00",
       "dia": "2026-11-12",
       "data_estimada": true,
