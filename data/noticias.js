@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-14T15:53:06-03:00",
+  "gerado_em": "2026-11-14T17:24:10-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -9022,6 +9022,23 @@ window.DADOS = {
         "diploma"
       ],
       "coletado_em": "2026-11-10T15:28:48-03:00"
+    },
+    {
+      "id": "81013ff6bc3ff68e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê mais acessibilidade para candidatos com deficiência",
+      "link": "https://www.congressoemfoco.com.br/noticia/131462/projeto-preve-mais-acessibilidade-para-candidatos-com-deficiencia",
+      "resumo": "Texto prevê recursos de acessibilidade, assistência pessoal e condições iguais de participação para candidatos com deficiência.",
+      "publicado_em": "2026-11-10T13:21:56-03:00",
+      "dia": "2026-11-10",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T17:24:10-03:00"
     },
     {
       "id": "aaedf0dd209d5467",
