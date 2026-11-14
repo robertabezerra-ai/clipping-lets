@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-14T13:51:20-03:00",
+  "gerado_em": "2026-11-14T15:53:06-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -1829,6 +1829,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "8d3cc3d53075ca55",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Enccla: presidente do Coaf destaca importância de ter padrões no combate à corrupção e ao crime organizado",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/enccla-presidente-do-coaf-destaca-importancia-de-ter-padroes-no-combate-a-corrupcao-e-ao-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-11-13T14:55:39-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-14T15:53:06-03:00"
     },
     {
       "id": "e5c19666e59e26dc",
@@ -3999,7 +4013,7 @@ window.DADOS = {
       "titulo": "Coaf e USP firmam acordo para desenvolver pesquisas relacionadas ao combate à lavagem de dinheiro",
       "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-e-usp-firmam-acordo-para-desenvolver-pesquisas-relacionadas-ao-combate-a-lavagem-de-dinheiro",
       "resumo": "",
-      "publicado_em": "2026-11-12T13:44:25-03:00",
+      "publicado_em": "2026-11-12T20:16:02-03:00",
       "dia": "2026-11-12",
       "data_estimada": false,
       "score": 40,
@@ -6543,6 +6557,23 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-11T15:23:33-03:00"
+    },
+    {
+      "id": "34fedcf095529e62",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe multas para escolas omissas em casos de bullying",
+      "link": "https://www.congressoemfoco.com.br/noticia/131506/deputado-propoe-multas-para-escolas-omissas-em-casos-de-bullying",
+      "resumo": "Texto também estabelece atendimento psicológico gratuito às vítimas e medidas obrigatórias de proteção e responsabilização dos agressores.",
+      "publicado_em": "2026-11-11T12:42:57-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T15:53:06-03:00"
     },
     {
       "id": "f97aa076a9a36917",
