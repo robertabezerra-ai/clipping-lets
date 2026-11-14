@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-14T17:24:10-03:00",
+  "gerado_em": "2026-11-14T20:31:42-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -324,6 +324,20 @@
         "visita"
       ],
       "coletado_em": "2026-11-14T13:51:20-03:00"
+    },
+    {
+      "id": "88ab7f6b1170e88e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fux apresenta destaque e leva escala 6x1 ao plenário físico do STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/131600/fux-apresenta-destaque-e-leva-escala-6x1-ao-plenario-fisico-do-stf",
+      "resumo": "Caberá ao presidente da Corte, Edson Fachin, definir quando o tema será incluído na pauta.",
+      "publicado_em": "2026-11-14T17:21:48-03:00",
+      "dia": "2026-11-14",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-14T20:31:42-03:00"
     },
     {
       "id": "9566f2d91eb9cbd5",
@@ -6657,6 +6671,22 @@
         "aprova"
       ],
       "coletado_em": "2026-11-11T15:23:33-03:00"
+    },
+    {
+      "id": "6ee2291106968f8d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe sinalização ostensiva para radar de velocidade",
+      "link": "https://www.congressoemfoco.com.br/noticia/131500/deputado-propoe-sinalizacao-ostensiva-para-radar-de-velocidade",
+      "resumo": "Proposta estabelece que a falta de comprovação dos requisitos previstos na proposta poderá tornar irregular o auto de infração.",
+      "publicado_em": "2026-11-11T11:13:07-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-14T20:31:42-03:00"
     },
     {
       "id": "509fe955c05301dc",
