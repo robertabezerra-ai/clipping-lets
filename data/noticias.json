@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-15T14:34:16-03:00",
+  "gerado_em": "2026-11-15T16:29:39-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -285,6 +285,20 @@
         "acao"
       ],
       "coletado_em": "2026-11-15T14:34:16-03:00"
+    },
+    {
+      "id": "c377d529706cc40d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo faz 9ª entrega de certidões de óbito retificadas de vítimas da ditadura",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-do-brasil-realizara-9a-entrega-de-certidoes-de-obito-retificadas-de-vitimas-da-ditadura-em-porto-alegre-rs-na-segunda-feira-16",
+      "resumo": "",
+      "publicado_em": "2026-11-15T15:30:00-03:00",
+      "dia": "2026-11-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-15T16:29:39-03:00"
     },
     {
       "id": "0acc552ecfd94cea",
@@ -3798,6 +3812,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-12T18:12:57-03:00"
+    },
+    {
+      "id": "a7d2c176e6a818bc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika Hilton quer proibir uso de IA na publicidade de alimentos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131557/erika-hilton-quer-proibir-uso-de-ia-na-publicidade-de-alimentos",
+      "resumo": "Proposta altera o Código de Defesa do Consumidor e busca impedir imagens de alimentos que não correspondam aos produtos reais.",
+      "publicado_em": "2026-11-12T15:24:57-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-15T16:29:39-03:00"
     },
     {
       "id": "bf043501d655a219",
