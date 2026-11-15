@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-15T16:29:39-03:00",
+  "gerado_em": "2026-11-15T17:48:42-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -3782,6 +3782,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-12T18:12:57-03:00"
+    },
+    {
+      "id": "3b8e99a0eed448d1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe regras para redução da jornada em hospitais e UPAs",
+      "link": "https://www.congressoemfoco.com.br/noticia/131561/deputado-propoe-regras-para-reducao-da-jornada-em-hospitais-e-upas",
+      "resumo": "Projeto estabelece mecanismos de compensação de horas, descanso semanal e adaptação gradual à jornada de 40 horas.",
+      "publicado_em": "2026-11-12T16:35:45-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-15T17:48:42-03:00"
     },
     {
       "id": "09b117ae8ca8b0e5",
