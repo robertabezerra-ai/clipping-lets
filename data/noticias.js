@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-15T17:48:42-03:00",
+  "gerado_em": "2026-11-15T20:39:46-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -329,6 +329,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-15T14:34:16-03:00"
+    },
+    {
+      "id": "358c57ff4cf246e4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pauta do Senado inclui ajuste fiscal, aprendizes e combate à violência",
+      "link": "https://www.congressoemfoco.com.br/noticia/131601/pauta-do-senado-inclui-ajuste-fiscal-aprendizes-e-combate-a-violencia",
+      "resumo": "Senadores têm duas sessões deliberativas agendadas, nos dias 17 e 18 de novembro.",
+      "publicado_em": "2026-11-15T10:35:11-03:00",
+      "dia": "2026-11-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-15T20:39:46-03:00"
     },
     {
       "id": "7d2b832e83bec91d",
