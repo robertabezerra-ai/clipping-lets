@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-14T20:31:42-03:00",
+  "gerado_em": "2026-11-15T14:34:16-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -250,6 +250,72 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "cfdbda2bf88cc3e8",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Estado de São Paulo indenizará cidadão por violações de direitos durante ditadura militar",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116012&pagina=1",
+      "resumo": "Reparação majorada para R$ 75 mil.\n \n\tA 12ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve, em parte, decisão da 11ª",
+      "publicado_em": "2026-11-15T12:00:00-03:00",
+      "dia": "2026-11-15",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "indenizar",
+        "acao"
+      ],
+      "coletado_em": "2026-11-15T14:34:16-03:00"
+    },
+    {
+      "id": "84d666fceae454fd",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Disponível nova edição dos Cadernos Jurídicos sobre judicialização da saúde suplementar",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116015&pagina=1",
+      "resumo": "Prefácio do presidente Francisco Loureiro e 18 artigos inéditos.\n \n\tA Escola Paulista da Magistratura lançou a edição nº 71 dos Cadernos Jurídicos, intitulada “Debates atuais",
+      "publicado_em": "2026-11-15T12:00:00-03:00",
+      "dia": "2026-11-15",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "cade",
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-11-15T14:34:16-03:00"
+    },
+    {
+      "id": "0acc552ecfd94cea",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Natália Zuccala é a convidada do programa Conversa com o Autor, da Rádio MEC",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/natalia-zuccala-e-a-convidada-do-programa-conversa-com-o-autor-da-radio-mec",
+      "resumo": "",
+      "publicado_em": "2026-11-15T10:30:00-03:00",
+      "dia": "2026-11-15",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-11-15T14:34:16-03:00"
+    },
+    {
+      "id": "6da5917fbf39e308",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula diz que eleição brasileira impediu a \"volta do retrocesso\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131602/lula-diz-que-eleicao-brasileira-impediu-a-volta-do-retrocesso",
+      "resumo": "Ao fazer um balanço da viagem pela Ásia, Lula também defendeu que o Brasil amplie relações comerciais e investimentos.",
+      "publicado_em": "2026-11-15T11:17:10-03:00",
+      "dia": "2026-11-15",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-15T14:34:16-03:00"
+    },
     {
       "id": "7d2b832e83bec91d",
       "fonte_id": "tjsp",
@@ -1525,6 +1591,22 @@ window.DADOS = {
       "coletado_em": "2026-11-13T15:23:25-03:00"
     },
     {
+      "id": "99c8d6b2ec81243d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Entenda como a Proclamação da República fechou a Câmara e o Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/131589/entenda-como-a-proclamacao-da-republica-fechou-a-camara-e-o-senado",
+      "resumo": "Há 137 anos, deputados protestaram contra a queda da monarquia, senadores se reuniram após o fim do Império e o Brasil ficou um ano sem Congresso.",
+      "publicado_em": "2026-11-13T14:30:58-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-15T14:34:16-03:00"
+    },
+    {
       "id": "ddef23b164607d77",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1556,6 +1638,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "339e6b49c5c005e4",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe punir venda de dados de terceiros obtidos no trabalho",
+      "link": "https://www.congressoemfoco.com.br/noticia/131586/deputado-propoe-punir-venda-de-dados-de-terceiros-obtidos-no-trabalho",
+      "resumo": "Projeto cria crime específico para o uso indevido de acesso profissional a dados pessoais, com pena de dois a cinco anos de reclusão.",
+      "publicado_em": "2026-11-13T14:03:16-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-15T14:34:16-03:00"
     },
     {
       "id": "6c335adcc6135849",
@@ -6492,6 +6588,20 @@ window.DADOS = {
       "coletado_em": "2026-11-11T15:23:33-03:00"
     },
     {
+      "id": "a9a64e8738634fc1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe entrega domiciliar de remédios do Farmácia Popular",
+      "link": "https://www.congressoemfoco.com.br/noticia/131513/deputado-propoe-entrega-domiciliar-de-remedios-do-farmacia-popular",
+      "resumo": "Proposta permite que farmácias credenciadas e empresas de logística realizem entregas, respeitando as normas sanitárias.",
+      "publicado_em": "2026-11-11T14:09:11-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-15T14:34:16-03:00"
+    },
+    {
       "id": "89736cfdf6c78a52",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -6539,6 +6649,22 @@ window.DADOS = {
         "aprova"
       ],
       "coletado_em": "2026-11-11T15:23:33-03:00"
+    },
+    {
+      "id": "17c246324724615e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto proíbe veto de merenda a professores sem justificativa",
+      "link": "https://www.congressoemfoco.com.br/noticia/131509/projeto-proibe-veto-de-merenda-a-professores-sem-justificativa",
+      "resumo": "Texto permite restrições apenas para priorizar estudantes, cumprir normas sanitárias ou respeitar a destinação dos alimentos.",
+      "publicado_em": "2026-11-11T13:21:52-03:00",
+      "dia": "2026-11-11",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-15T14:34:16-03:00"
     },
     {
       "id": "6b6f6f8e0b946f1c",
@@ -123439,125 +123565,6 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-17T12:31:26-03:00"
-    },
-    {
-      "id": "e5b7bdd008cc10bc",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "TJSP disponibiliza acervo da Biblioteca \"Desembargador Marcos Nogueira Garcez\" para consulta",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115041&pagina=1",
-      "resumo": "Necessidade de agendamento prévio.\n \n\tO Tribunal de Justiça de São Paulo disponibiliza o acervo da Biblioteca “Desembargador Marcos Nogueira Garcez”, localizada no Gade MMDC, para",
-      "publicado_em": "2026-08-16T12:00:00-03:00",
-      "dia": "2026-08-16",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "ef0f39bbd9f67d8d",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Utilização de entrevista para tv aberta em documentário não gera dever de indenização",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115029&pagina=1",
-      "resumo": "Ausência de exploração comercial da imagem do autor.\n \n\tA 2ª Vara do Juizado Especial Cível Central que negou pedido de indenização por danos morais e",
-      "publicado_em": "2026-08-16T12:00:00-03:00",
-      "dia": "2026-08-16",
-      "data_estimada": true,
-      "score": 56,
-      "tags": [
-        "indenizacao",
-        "acao"
-      ],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "4c09b3dacd3efef1",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Cleitinho nega neutralidade e declara apoio a Flávio Bolsonaro",
-      "link": "https://www.congressoemfoco.com.br/noticia/121312/cleitinho-nega-neutralidade-e-declara-apoio-a-flavio-bolsonaro",
-      "resumo": "Senador atribui falta de palanque do PL em Minas à demora do Republicanos em confirmar sua candidatura.",
-      "publicado_em": "2026-08-16T21:53:33-03:00",
-      "dia": "2026-08-16",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "ee923ef7da9056e7",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Flávio Bolsonaro inicia corrida ao Planalto com ato em Copacabana",
-      "link": "https://www.congressoemfoco.com.br/noticia/121311/flavio-bolsonaro-inicia-corrida-ao-planalto-com-ato-em-copacabana",
-      "resumo": "Ao lado da esposa e usando colete à prova de balas, senador lançou campanha com críticas ao governo e defesa do combate mais rígido ao crime organizado.",
-      "publicado_em": "2026-08-16T14:14:00-03:00",
-      "dia": "2026-08-16",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "341ab0a04ebcda05",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Lula lança campanha de reeleição no ABC com discurso sobre soberania",
-      "link": "https://www.congressoemfoco.com.br/noticia/121310/lula-lanca-campanha-de-reeleicao-no-abc-com-discurso-sobre-soberania",
-      "resumo": "Petista retorna ao berço de sua trajetória política e abre campanha em busca do quarto mandato como presidente.",
-      "publicado_em": "2026-08-16T12:55:31-03:00",
-      "dia": "2026-08-16",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "5d6511eff3193da1",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Congresso reduz ritmo no plenário e concentra agenda em comissões",
-      "link": "https://www.congressoemfoco.com.br/noticia/121309/congresso-reduz-ritmo-no-plenario-e-concentra-agenda-em-comissoes",
-      "resumo": "Agenda inclui comissão de MP, debates sobre educação, apostas e segurança pública.",
-      "publicado_em": "2026-08-16T10:00:24-03:00",
-      "dia": "2026-08-16",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "ec56c1dfa7ca2c41",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Candidatos ao governo de Minas Gerais tem primeiro debate",
-      "link": "https://www.congressoemfoco.com.br/noticia/121308/candidatos-ao-governo-de-minas-gerais-tem-primeiro-debate",
-      "resumo": "Confronto da disputa mineira teve cobranças sobre propostas, alianças políticas e administração do estado.",
-      "publicado_em": "2026-08-16T09:37:18-03:00",
-      "dia": "2026-08-16",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
-    },
-    {
-      "id": "2b5c8490a8c48b97",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Cleitinho registra candidatura em MG e declara bens de R$ 956 mil",
-      "link": "https://www.congressoemfoco.com.br/noticia/121307/cleitinho-registra-candidatura-em-mg-e-declara-bens-de-r-956-mil",
-      "resumo": "Após idas e vindas sobre a candidatura, senador oficializa entrada na disputa, expõe bens em vídeo e promete campanha de baixo custo.",
-      "publicado_em": "2026-08-16T08:57:34-03:00",
-      "dia": "2026-08-16",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-17T08:30:27-03:00"
     }
   ]
 };
