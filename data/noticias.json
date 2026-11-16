@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-16T20:05:27-03:00",
+  "gerado_em": "2026-11-16T20:58:06-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -412,6 +412,23 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "f0e09cfb468fde97",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Fachin encerra encontro de cortes supremas do Mercosul com defesa da cooperação e da independência judicial",
+      "link": "https://noticias.stf.jus.br/postsnoticias/fachin-encerra-encontro-de-cortes-supremas-do-mercosul-com-defesa-da-cooperacao-e-da-independencia-judicial/",
+      "resumo": "Fachin encerra encontro de cortes supremas do Mercosul com defesa da cooperação e da independência judicial",
+      "publicado_em": "2026-11-16T20:17:50-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-11-16T20:58:06-03:00"
     },
     {
       "id": "01044e6e0cfae29d",
@@ -1932,6 +1949,20 @@
       "coletado_em": "2026-11-16T20:05:27-03:00"
     },
     {
+      "id": "8dbf1944a03d5f0a",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Unidos pelo Marajó: Justiça do Trabalho doa alimentos para famílias afetadas pelas queimadas na região",
+      "link": "https://www.cnj.jus.br/unidos-pelo-marajo-justica-do-trabalho-doa-alimentos-para-familias-afetadas-pelas-queimadas-na-regiao/",
+      "resumo": "A iniciativa “Unidos pelo Marajó”, do Tribunal Regional do Trabalho da 8ª Região (TRT-8), tem mobilizado os órgãos públicos, organizações e a sociedade civil com o intuito de realizar doações de alimentos, cestas básicas e água mineral para as famílias que estão vulneráveis, devido às fortes queimad",
+      "publicado_em": "2026-11-16T12:00:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-16T20:58:06-03:00"
+    },
+    {
       "id": "d426ec8c79e9bf7d",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -2217,6 +2248,40 @@
         "acao"
       ],
       "coletado_em": "2026-11-16T17:48:48-03:00"
+    },
+    {
+      "id": "8726aaa97ce16cc2",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD assina memorando de entendimento com autoridade de proteção de dados da Coreia do Sul",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-assina-memorando-de-entendimento-com-autoridade-de-protecao-de-dados-da-coreia-do-sul",
+      "resumo": "Parceria amplia a cooperação internacional em proteção de dados pessoais e prevê intercâmbio de experiências, capacitação e colaboração em atividades regulatórias e de fiscalização",
+      "publicado_em": "2026-11-16T20:15:08-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "protecao de dados",
+        "acao"
+      ],
+      "coletado_em": "2026-11-16T20:58:06-03:00"
+    },
+    {
+      "id": "4ef2bb5b3afac573",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD seleciona Cebraspe para organizar 1º concurso público da Agência",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-seleciona-cebraspe-para-organizar-1o-concurso-publico-da-agencia",
+      "resumo": "Certame prevê 50 vagas imediatas para Especialista em Regulação de Proteção de Dados e cadastro de reserva de até três vezes o número de vagas",
+      "publicado_em": "2026-11-16T20:08:55-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "protecao de dados",
+        "acao"
+      ],
+      "coletado_em": "2026-11-16T20:58:06-03:00"
     },
     {
       "id": "cfdbda2bf88cc3e8",
