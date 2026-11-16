@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-16T17:48:48-03:00",
+  "gerado_em": "2026-11-16T20:05:27-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -239,7 +239,7 @@ window.DADOS = {
     {
       "id": "governo_federal",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
@@ -309,6 +309,37 @@ window.DADOS = {
       "coletado_em": "2026-11-16T17:48:48-03:00"
     },
     {
+      "id": "50d87242808572b6",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Sistemas e serviços de TI podem apresentar instabilidade na sexta-feira (20/11)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/sistemas-e-servicos-de-ti-podem-apresentar-instabilidade-na-sexta-feira-20-11",
+      "resumo": "",
+      "publicado_em": "2026-11-16T12:00:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "e2aa70c89dfca47f",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 informa suspensão dos prazos processuais nos dias 12 e 13/11 por determinação do CNJ",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-informa-suspensao-dos-prazos-processuais-nos-dias-12-e-1311-por-determinacao-do",
+      "resumo": "TRT-15 informa suspensão dos prazos processuais nos dias 12 e 13/11 por determinação do CNJ anasiqueira Seg, 16/11/2026 - 17:39 TRT-15 informa suspensão dos prazos processuais nos dias 12 e 13/11 por determinação do CNJ Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região informa que a ",
+      "publicado_em": "2026-11-16T17:39:47-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
       "id": "3b4669cc2137e063",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -351,6 +382,52 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-16T17:48:48-03:00"
+    },
+    {
+      "id": "08d2d77f8a77a3b7",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "3ª Vara Cível de Pindamonhangaba realiza leilão de propriedades rurais",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115999&pagina=1",
+      "resumo": "Lances até 1º de fevereiro de 2027.\n \n\tA 3ª Vara Cível de Pindamonhangaba promove, por determinação do juiz Marcelo Soares Mendes, leilão de quatro imóveis",
+      "publicado_em": "2026-11-16T12:00:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "7c65e65dc3a05d23",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Agenda institucional_TJSP",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116044&pagina=1",
+      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, reuniu-se, hoje (16), com o",
+      "publicado_em": "2026-11-16T12:00:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "01044e6e0cfae29d",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "CNI aciona STF contra suspensão de registros de agrotóxicos e farmacêuticos pela Justiça do Trabalho",
+      "link": "https://noticias.stf.jus.br/postsnoticias/cni-aciona-stf-contra-suspensao-de-registros-de-agrotoxicos-e-farmaceuticos-pela-justica-do-trabalho/",
+      "resumo": "Entidade de classe alega que Justiça trabalhista não tem competência para contestar autorizações concedidas por agências e ministérios federais",
+      "publicado_em": "2026-11-16T19:37:51-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "trabalhista"
+      ],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
     },
     {
       "id": "79805e5dfcda86df",
@@ -837,6 +914,64 @@ window.DADOS = {
       "coletado_em": "2026-11-16T17:48:48-03:00"
     },
     {
+      "id": "50a3266c2e7dcdeb",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "EBC inaugura nova sede em São Paulo e amplia estrutura de produção na capital",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ebc-inaugura-nova-sede-em-sao-paulo-e-amplia-estrutura-de-producao-na-capital",
+      "resumo": "",
+      "publicado_em": "2026-11-16T18:16:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "79c42235de0dcede",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "CGU coordenará três ações nacionais de combate à corrupção e à lavagem de dinheiro em 2027",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/cgu-coordenara-tres-acoes-nacionais-de-combate-a-corrupcao-e-a-lavagem-de-dinheiro-em-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-16T17:45:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "7e6ba0ce9c17e150",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério da Saúde enviará doses adicionais de vacinas contra a Covid-19 aos estados",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-enviara-doses-adicionais-de-vacinas-contra-a-covid-19-aos-estados",
+      "resumo": "",
+      "publicado_em": "2026-11-16T17:38:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "c9a20f633a6efcf4",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Defesa Civil autoriza R$ 10,4 milhões para 28 cidades afetadas por desastres",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/autorizado-repasse-r-4-1-milhoes-para-13-cidades-gauchas-afetadas-por-desastres",
+      "resumo": "",
+      "publicado_em": "2026-11-16T17:05:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
       "id": "3d28add5af204886",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -865,6 +1000,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-16T17:48:48-03:00"
+    },
+    {
+      "id": "fdcd4f2af4c5c29b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Além da educação financeira, educação previdenciária também se aprende na escola",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/alem-da-educacao-financeira-aprender-valor-passa-a-ofertar-tambem-educacao-previdenciaria",
+      "resumo": "",
+      "publicado_em": "2026-11-16T16:05:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
     },
     {
       "id": "3b02e944a6bbd60e",
@@ -1172,6 +1323,37 @@ window.DADOS = {
       "coletado_em": "2026-11-16T17:48:48-03:00"
     },
     {
+      "id": "30a8b6198b54189c",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Operação Fronteira Receita Federal 2026 retira de circulação R$ 581 milhões em mercadorias ilícitas e drogas",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/operacao-fronteira-receita-federal-2026-retira-de-circulacao-r-581-milhoes-em-mercadorias-ilicitas-e-drogas",
+      "resumo": "",
+      "publicado_em": "2026-11-16T12:00:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": true,
+      "score": 26,
+      "tags": [
+        "acao",
+        "droga"
+      ],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "a1fced458df8ecbe",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Maior concorrência em plataformas digitais pode gerar mais de R$ 15 bilhões por ano em benefícios para consumidores e empresas brasileiras",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/maior-concorrencia-em-plataformas-digitais-pode-gerar-mais-de-r-15-bilhoes-por-ano-em-beneficios-para-consumidores-e-empresas-brasileiras",
+      "resumo": "",
+      "publicado_em": "2026-11-16T12:00:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
       "id": "105c2e841e6cda31",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -1231,6 +1413,80 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-16T17:48:48-03:00"
+    },
+    {
+      "id": "c1b488ade0f767ca",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM prorroga prazo para entrega de Formulários de Informações Trimestrais com vencimento em 16/11",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-prorroga-prazo-para-entrega-de-formularios-de-informacoes-trimestrais-com-vencimento-em-16-11",
+      "resumo": "",
+      "publicado_em": "2026-11-16T12:00:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "68d74cf4758034cf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Frentes do setor produtivo se opõem ao PL das big techs",
+      "link": "https://www.congressoemfoco.com.br/noticia/131639/frentes-do-livre-mercado-se-opoem-a-projeto-de-regulacao-das-big-techs",
+      "resumo": "Grupos sustentam que o endurecimento das regras pode encarecer serviços digitais utilizados diariamente por pequenos negócios.",
+      "publicado_em": "2026-11-16T19:26:42-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "9500b3c98ad1bf51",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pimenta critica comparações do pacote fiscal ao \"tesouraço\" de Flávio",
+      "link": "https://www.congressoemfoco.com.br/noticia/131638/pimenta-critica-comparacoes-do-pacote-fiscal-ao-tesouraco-de-flavio",
+      "resumo": "Líder do governo rejeita acusações de estelionato eleitoral e sustenta que o ajuste não prevê mudanças em investimentos sociais.",
+      "publicado_em": "2026-11-16T17:43:44-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "f6211d6ef60506ec",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula IV: A montagem do governo e o preço da governabilidade",
+      "link": "https://www.congressoemfoco.com.br/artigo/131637/lula-iv-a-montagem-do-governo-e-o-preco-da-governabilidade",
+      "resumo": "Com o avanço do PL e a disputa por ministérios, Lula tenta transformar acordos partidários em votos no Congresso.",
+      "publicado_em": "2026-11-16T17:40:18-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "f06a0bbc3f007f04",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sicx inaugura nova lógica de competição nas contratações públicas",
+      "link": "https://www.congressoemfoco.com.br/artigo/131636/sicx-inaugura-nova-logica-de-competicao-nas-contratacoes-publicas",
+      "resumo": "Plataforma digital prevê credenciamento permanente, atualização de preços e classificação automatizada de ofertas para compras do Estado.",
+      "publicado_em": "2026-11-16T17:29:45-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
     },
     {
       "id": "93f90b66eaa075cb",
@@ -1581,7 +1837,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "Capacitação em segurança cibernética reúne 700 profissionais da Justiça",
       "link": "https://www.cnj.jus.br/capacitacao-em-seguranca-cibernetica-reune-700-profissionais-da-justica/",
-      "resumo": "Cerca de 700 profissionais de tribunais brasileiros participaram, em 12 e 13 de novembro, do 1º Ciclo de Capacitação em Segurança Cibernética. Realizada pelo Conselho Nacional de Justiça (CNJ) por meio da Escola Nacional do Judiciário (Enaju) e do Programa Justiça [+Segura], a formação online aprese",
+      "resumo": "Cerca de 700 profissionais de tribunais brasileiros participaram, em 12 e 13 de novembro, do 1º Ciclo de Capacitação em Segurança Cibernética. Realizada pelo Conselho Nacional de Justiça (CNJ) por meio da Escola Nacional do Judiciário (Enaju) e do Programa Justiça [+Segura], a formação on-line apres",
       "publicado_em": "2026-11-16T12:00:00-03:00",
       "dia": "2026-11-16",
       "data_estimada": true,
@@ -1590,6 +1846,137 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-16T17:48:48-03:00"
+    },
+    {
+      "id": "05ffabdef7f44fb6",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Rede de assessores parlamentares do PJU, do MPU e da DPU se reúne no CNJ para alinhar atuação no Congresso",
+      "link": "https://www.cnj.jus.br/rede-de-assessores-parlamentares-do-pju-mpu-e-dpu-se-reune-no-cnj-para-alinhar-atuacao-no-congresso/",
+      "resumo": "Representantes das Assessorias Parlamentares do Poder Judiciário da União (PJU), do Ministério Público da União (MPU) e da Defensoria Pública da União (DPU) reuniram-se nesta segunda-feira (16/11), na sede do Conselho Nacional de Justiça (CNJ), em Brasília. A reunião teve como pauta o acompanhamento",
+      "publicado_em": "2026-11-16T12:00:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "7916186a68428bdc",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Saúde mental foi prioridade para 16 dos 27 grupos de fiscalização do socioeducativo em 2026",
+      "link": "https://www.cnj.jus.br/saude-mental-foi-prioridade-para-16-dos-27-grupos-de-fiscalizacao-do-socioeducativo-em-2026/",
+      "resumo": "A saúde mental de adolescentes e jovens em cumprimento de medidas socioeducativas foi apontada como prioridade por 16 dos 27 Grupos de Monitoramento e Fiscalização do Sistema Carcerário e do Sistema de Execução de Medidas Socioeducativas (GMFs) em 2026. Para 2027, os principais focos serão o aperfei",
+      "publicado_em": "2026-11-16T12:00:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "d323815b64424414",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ pauta precatórios e revisões disciplinares em sessão extraordinária",
+      "link": "https://www.cnj.jus.br/cnj-pauta-precatorios-e-revisoes-disciplinares-em-sessao-extraordinaria/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) realiza, nesta terça-feira (17/11), a 3ª Sessão Extraordinária de 2026. Entre os 11 itens pautados para julgamento, está a minuta que institui a Resolução Nacional sobre Precatórios e Requisições de Pequeno Valor (RPVs), destinada a uniformizar procedimentos rela",
+      "publicado_em": "2026-11-16T12:00:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": true,
+      "score": 84,
+      "tags": [
+        "julgamento",
+        "julga",
+        "resolucao",
+        "precatorio"
+      ],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "112361761b08c6c5",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Produção de alimentos une trabalho e segurança nas prisões",
+      "link": "https://www.cnj.jus.br/producao-de-alimentos-une-trabalho-e-seguranca-nas-prisoes/",
+      "resumo": "Produzir alimentos dentro do sistema prisional pode, ao mesmo tempo, ampliar a oferta de comida, gerar trabalho decente e remunerado e preparar pessoas privadas de liberdade para novas oportunidades de renda. No Pena Justa Segurança Alimentar, experiências avançam em diferentes estados a partir de a",
+      "publicado_em": "2026-11-16T12:00:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "86de60939f8e4224",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Grupos de responsabilização de homens autores de violência terão de seguir regras nacionais",
+      "link": "https://www.cnj.jus.br/grupos-de-responsabilizacao-de-homens-autores-de-violencia-terao-de-seguir-regras-nacionais/",
+      "resumo": "Os Grupos Reflexivos e Responsabilizantes para Homens Autores de Violência Doméstica e Familiar contra Mulheres passarão a seguir regras e diretrizes nacionais para o seu funcionamento no âmbito do Judiciário. A determinação foi aprovada pelo Conselho Nacional de Justiça (CNJ) durante julgamento oco",
+      "publicado_em": "2026-11-16T12:00:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": true,
+      "score": 76,
+      "tags": [
+        "julgamento",
+        "julga",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "d426ec8c79e9bf7d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova classificar Hamas e Hezbollah como grupos terroristas",
+      "link": "https://www.camara.leg.br/noticias/1319821-comissao-aprova-classificar-hamas-e-hezbollah-como-grupos-terroristas",
+      "resumo": "",
+      "publicado_em": "2026-11-16T19:19:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "35eed8d3fdc5c072",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto proíbe uso da imagem de empregado em redes sociais da empresa sem previsão contratual",
+      "link": "https://www.camara.leg.br/noticias/1313078-projeto-proibe-uso-da-imagem-de-empregado-em-redes-sociais-da-empresa-sem-previsao-contratual",
+      "resumo": "",
+      "publicado_em": "2026-11-16T18:35:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
+    },
+    {
+      "id": "56b780cc9d16bedd",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Líder do governo afirma que ajuste fiscal não retira recursos da saúde e da educação",
+      "link": "https://www.camara.leg.br/noticias/1319835-lider-do-governo-afirma-que-ajuste-fiscal-nao-retira-recursos-da-saude-e-da-educacao",
+      "resumo": "",
+      "publicado_em": "2026-11-16T18:15:00-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
     },
     {
       "id": "6e7b098e56666e0a",
@@ -2195,22 +2582,6 @@ window.DADOS = {
       "data_estimada": true,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-11-13T15:23:25-03:00"
-    },
-    {
-      "id": "08d2d77f8a77a3b7",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "3ª Vara Cível de Pindamonhangaba realiza leilão de propriedades rurais",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115999&pagina=1",
-      "resumo": "Lances até 1º de fevereiro de 2027.\n \n\tA 3ª Vara Cível de Pindamonhangaba promove, por determinação do juiz Marcelo Soares Mendes, leilão de quatro imóveis",
-      "publicado_em": "2026-11-13T12:00:00-03:00",
-      "dia": "2026-11-13",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
       "coletado_em": "2026-11-13T15:23:25-03:00"
     },
     {
