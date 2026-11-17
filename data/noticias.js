@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-17T16:38:16-03:00",
+  "gerado_em": "2026-11-17T18:57:03-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 16,
       "erro": null
     },
     {
@@ -341,6 +341,69 @@ window.DADOS = {
       "coletado_em": "2026-11-17T16:38:16-03:00"
     },
     {
+      "id": "4ee33a0845256d61",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP inaugura novo Fórum de Vinhedo",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116055&pagina=1",
+      "resumo": "Unidades judiciais reunidas em um único prédio. \n \n\tO Tribunal de Justiça de São Paulo (TJSP) inaugurou, nesta terça-feira (17), o novo Fórum de Vinhedo, em",
+      "publicado_em": "2026-11-17T12:00:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "f77991fc45a68822",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Emissoras e influenciadora indenizarão professor exposto em programa como abusador de crianças",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116051&pagina=1",
+      "resumo": "Decisão determina exclusão da reportagem e retratação pública.\n \n\tA 4ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo manteve decisão da 3ª",
+      "publicado_em": "2026-11-17T12:00:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "indenizar",
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "9bf9850c1f20b5b0",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Rede questiona no STF regras de Minas Gerais para contratação de artistas pela administração pública",
+      "link": "https://noticias.stf.jus.br/postsnoticias/rede-questiona-no-stf-regras-de-minas-gerais-para-contratacao-de-artistas-pela-administracao-publica/",
+      "resumo": "Partido alega que lei estadual interfere na autonomia dos municípios para administrar recursos próprios destinados a eventos culturais",
+      "publicado_em": "2026-11-17T18:20:28-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "e8641d324ccc2f24",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF valida lei que criou microrregião de água e esgoto no Pará",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-valida-lei-que-criou-microrregiao-de-agua-e-esgoto-no-para/",
+      "resumo": "Por unanimidade, Plenário entendeu que norma respeita competência da União e autonomia municipal",
+      "publicado_em": "2026-11-17T17:49:27-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
       "id": "6ce55ab5cf0c8a61",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -353,6 +416,158 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-17T16:38:16-03:00"
+    },
+    {
+      "id": "5fef1ae43bfee0fd",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Medida que amplia crédito a exportações segue para sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/medida-que-amplia-credito-a-exportacoes-segue-para-sancao",
+      "resumo": "",
+      "publicado_em": "2026-11-17T18:43:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "sancao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "c09903b4341f6c12",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CDH debate políticas de atenção a bebês prematuros no SUS",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cdh-debate-politicas-de-atencao-a-bebes-prematuros-no-sus",
+      "resumo": "",
+      "publicado_em": "2026-11-17T18:29:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "0844c31427030357",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Cid Gomes promete relatório do novo Desenrola para início de dezembro",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cid-gomes-promete-relatorio-do-novo-desenrola-para-inicio-de-dezembro",
+      "resumo": "",
+      "publicado_em": "2026-11-17T18:21:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "64df4b22fc28d3ef",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Instalada Comissão Mista da medida provisória que criou o Desenrola 3.0",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/instalada-comissao-mista-da-medida-provisoria-que-criou-o-desenrola-3.0",
+      "resumo": "",
+      "publicado_em": "2026-11-17T18:06:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "medida provisoria"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "72046567b92ee886",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Agosto será mês de combate à desigualdade e à pobreza, aprova Plenário",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/agosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:58:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "366f7d89d7f8ae50",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Debate na CE sugere valorização contínua do Sesc e do Senac",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/debate-na-ce-sugere-valorizacao-continua-do-sesc-e-do-senac",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:58:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "1a4f695bec807572",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Votação de destaques ao ajuste fiscal é remarcada para quarta",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/votacao-de-destaques-ao-ajuste-fiscal-e-remarcada-na-quarta-feira",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:57:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "b158b39ae429e73f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Novembro Roxo: CDH discute avanços e lacunas no cuidado a prematuros",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/novembro-roxo-cdh-discute-avancos-e-lacunas-no-cuidado-a-prematuros",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:47:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "8eaef90e1b7e2a93",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova regras de qualidade e segurança para implantes cirúrgicos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/senado-aprova-regras-de-qualidade-e-seguranca-para-implantes-cirurgicos",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:31:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "0f7b0210dfa760ac",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "No Senado, ministro da Fazenda defende novo tributo sobre o consumo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/no-senado-ministro-da-fazenda-defende-novo-tributo-sobre-o-consumo",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:01:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
     },
     {
       "id": "db6b4335aa0e9867",
@@ -621,15 +836,16 @@ window.DADOS = {
       "id": "d0ad4d2f22e13615",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
-      "titulo": "Virando a Chave para a Reforma Tributária - API para emissão do RAD já está disponível",
+      "titulo": "Virando a Chave na Reforma Tributária: API do RAD - documentação técnica já está disponível",
       "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/virando-a-chave-para-a-reforma-tributaria-api-para-emissao-do-rad-ja-esta-disponivel",
       "resumo": "",
       "publicado_em": "2026-11-17T11:16:00-03:00",
       "dia": "2026-11-17",
       "data_estimada": false,
-      "score": 58,
+      "score": 64,
       "tags": [
-        "reforma tributaria"
+        "reforma tributaria",
+        "acao"
       ],
       "coletado_em": "2026-11-17T16:38:16-03:00"
     },
@@ -646,6 +862,78 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-17T16:38:16-03:00"
+    },
+    {
+      "id": "5f5c56594a052198",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério quer aprimorar nexo técnico previdenciário e abre consulta pública",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-previdencia-social-apresenta-projeto-que-vai-aprimorar-o-ntep",
+      "resumo": "",
+      "publicado_em": "2026-11-17T18:07:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "8cddb266c1f74e71",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mutirão na Paraíba é o primeiro a colocar em prática o Programa Terras do Brasil",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/mutirao-em-assuncao-pb-e-o-primeiro-a-colocar-em-pratica-o-programa-terras-do-brasil",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:27:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "36cc6ff5834ddb41",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Rede Participa OSC: projeto busca fortalecer o diálogo entre sociedade civil e Governo Federal",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/rede-participa-osc-projeto-busca-fortalecer-o-dialogo-entre-sociedade-civil-e-governo-federal",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:19:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "dd8b9e2d2c6a15cc",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pesquisas sobre emendas parlamentares ajudam Portal da Transparência a bater recorde",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/portal-da-transparencia-do-governo-federal-bate-recorde-de-requisicoes-de-dados-abertos-para-consumo-automatizado-1",
+      "resumo": "",
+      "publicado_em": "2026-11-17T16:38:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "573127adb91b82d8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Gestão compartilhada com trabalhadores garante vitalidade ao FGTS, diz ministério",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/fgts-completa-60-anos-com-papel-estrategico-na-protecao-dos-trabalhadores-e-no-desenvolvimento-do-pais",
+      "resumo": "",
+      "publicado_em": "2026-11-17T16:01:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "fgts"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
     },
     {
       "id": "bc5e6bd23a81ba3a",
@@ -723,7 +1011,7 @@ window.DADOS = {
       "id": "9ce8d7b105760045",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Guia propõe alternativas para encerrar lixões urbanos e transformar resíduos em renda",
+      "titulo": "Guia propõe estratégias para encerrar lixões urbanos e transformar resíduos em renda",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/estudo-reune-subsidios-para-o-encerramento-humanizado-de-lixoes-e-a-transicao-para-a-economia-circular",
       "resumo": "",
       "publicado_em": "2026-11-17T11:40:00-03:00",
@@ -839,6 +1127,20 @@ window.DADOS = {
       "coletado_em": "2026-11-17T16:38:16-03:00"
     },
     {
+      "id": "51e1cfec6f06df55",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Prisma Fiscal de novembro projeta déficit de R$ 53,369 bilhões do Governo Central em 2026",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/prisma-fiscal-de-novembro-projeta-deficit-de-r-53-369-bilhoes-do-governo-central-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-11-17T12:00:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
       "id": "01392ee02fd91c17",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -887,6 +1189,185 @@ window.DADOS = {
       "coletado_em": "2026-11-17T16:38:16-03:00"
     },
     {
+      "id": "0d914358aa79a924",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM prorroga validade do Concurso Público 2024 até novembro de 2028",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-prorroga-validade-do-concurso-publico-2024-ate-novembro-de-2028",
+      "resumo": "",
+      "publicado_em": "2026-11-17T12:00:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "3aff9f6414d62d18",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas lança campanha à presidência da Câmara: \"marcaremos posição\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131671/nikolas-lanca-campanha-a-presidencia-da-camara--marcaremos-posicao",
+      "resumo": "Mesmo sem perspectiva de vitória, Nikolas Ferreira defende candidatura própria do PL para expressar oposição ao governo.",
+      "publicado_em": "2026-11-17T18:25:44-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "f60f37dcbd1683c8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas critica pregão para troca de carpete no Senado: \"tá lindo\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131670/nikolas-critica-pregao-para-troca-de-carpete-no-senado--ta-lindo",
+      "resumo": "Em vídeo gravado dentro do Senado, o parlamentar mostrou o revestimento atualmente instalado e afirmou que pretende acionar o TCU contra a medida.",
+      "publicado_em": "2026-11-17T18:05:35-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "0d4c7468148a9d49",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado adia votação de destaques do ajuste fiscal para quarta-feira",
+      "link": "https://www.congressoemfoco.com.br/noticia/131669/senado-adia-votacao-de-destaques-do-ajuste-fiscal-para-quarta-feira",
+      "resumo": "O texto-base aprovado na semana passada é um substitutivo do relator, senador Eduardo Braga.",
+      "publicado_em": "2026-11-17T17:30:48-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 72,
+      "tags": [
+        "adi",
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "ee3e1cc57f3125fc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cotado à Fazenda, Alckmin brinca: \"por que não presidente do Santos?\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131668/cotado-a-fazenda-alckmin-brinca--por-que-nao-presidente-do-santos",
+      "resumo": "Questionado sobre seu futuro no governo, vice-presidente brincou sobre assumir a presidência do Santos.",
+      "publicado_em": "2026-11-17T17:20:01-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "cefb3a16e810cf7c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fábio Felix propõe transformar posse de Lula em feriado no DF",
+      "link": "https://www.congressoemfoco.com.br/noticia/131667/fabio-felix-propoe-transformar-posse-de-lula-em-feriado-no-df",
+      "resumo": "Proposta prevê que o feriado seja extraordinário e ocorra a cada quatro anos, nas datas destinadas à posse presidencial.",
+      "publicado_em": "2026-11-17T17:19:44-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "91f74676c000b86f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "CCJ aprova prioridade da restituição do IR para vítimas de desastres",
+      "link": "https://www.congressoemfoco.com.br/noticia/131666/ccj-aprova-prioridade-da-restituicao-do-ir-para-vitimas-de-desastres",
+      "resumo": "Benefício alcançará moradores de áreas com calamidade pública reconhecida pelo governo federal, independentemente de perdas materiais.",
+      "publicado_em": "2026-11-17T17:07:27-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "cd1c47b856c42fc7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova projeto que torna agosto mês de combate à desigualdade",
+      "link": "https://www.congressoemfoco.com.br/noticia/131665/senado-aprova-projeto-que-torna-agosto-mes-de-combate-a-desigualdade",
+      "resumo": "Projeto já aprovado pela Câmara agora segue para sanção presidencial.",
+      "publicado_em": "2026-11-17T17:06:59-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "sancao",
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "45da8611e4b51029",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vai à sanção projeto que obriga notificação de falhas em implantes",
+      "link": "https://www.congressoemfoco.com.br/noticia/131664/vai-a-sancao-projeto-que-obriga-notificacao-de-falhas-em-implantes",
+      "resumo": "Projeto foi aprovado nesta terça-feira (17) em votação simbólica no Plenário do Senado.",
+      "publicado_em": "2026-11-17T16:58:47-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 84,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "5b655124711bd8e9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "CCJ aprova fortalecimento de inteligência contra o aliciamento digital",
+      "link": "https://www.congressoemfoco.com.br/noticia/131663/ccj-aprova-fortalecimento-de-inteligencia-contra-o-aliciamento-digital",
+      "resumo": "Projeto autoriza o uso do Fundo Nacional de Segurança Pública em ações de inteligência policial contra crimes promovidos na internet.",
+      "publicado_em": "2026-11-17T16:46:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "d1c505b65641a6ba",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova novo crédito a exportadores afetados por tarifas dos EUA",
+      "link": "https://www.congressoemfoco.com.br/noticia/131662/senado-aprova-novo-credito-a-exportadores-afetados-por-tarifas-dos-eua",
+      "resumo": "Medida precisava ser aprovada pelo Congresso até quarta-feira (18) para não perder a validade; texto vai à sanção.",
+      "publicado_em": "2026-11-17T16:45:12-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
       "id": "c2f518853e1662c3",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -903,6 +1384,20 @@ window.DADOS = {
       "coletado_em": "2026-11-17T16:38:16-03:00"
     },
     {
+      "id": "d3fdd2596a4d384c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O impacto da maioria democrata no desenvolvimento da IA nos EUA",
+      "link": "https://www.congressoemfoco.com.br/artigo/131660/o-impacto-da-maioria-democrata-no-desenvolvimento-da-ia-nos-eua",
+      "resumo": "As mudanças na Câmara e no Senado devem impulsionar os debates sobre a IA nos EUA, mas sem comprometer o avanço da tecnologia no país.",
+      "publicado_em": "2026-11-17T16:01:02-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
       "id": "11b975f8f5849943",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -915,6 +1410,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-17T16:38:16-03:00"
+    },
+    {
+      "id": "dbf98e4ad3713955",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Entre a legalidade e a moralidade no gasto público",
+      "link": "https://www.congressoemfoco.com.br/artigo/131658/entre-a-legalidade-e-a-moralidade-no-gasto-publico",
+      "resumo": "Os gastos do Congresso com celulares e tablets levantam questões sobre moralidade administrativa, prioridades institucionais e uso do dinheiro público.",
+      "publicado_em": "2026-11-17T15:13:30-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
     },
     {
       "id": "8192c5cb74673a3b",
@@ -1195,7 +1704,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "CNJ propõe regras nacionais para gestão e pagamento de precatórios para ampliar transparência",
       "link": "https://www.cnj.jus.br/cnj-propoe-regras-nacionais-para-gestao-e-pagamento-de-precatorios-para-ampliar-transparencia/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) propôs regras nacionais para organizar os procedimentos de gestão, processamento e pagamento de precatórios em todo o Judiciário. A proposta estabelece critérios para a atuação dos tribunais, planejamento de pagamentos e controle das dívidas judiciais do poder pú",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) propôs regras nacionais para organizar os procedimentos de gestão, processamento e pagamento de precatórios em todo o Judiciário. A proposta estabelece critérios para a atuação dos tribunais, o planejamento de pagamentos e o controle das dívidas judiciais do pode",
       "publicado_em": "2026-11-17T12:00:00-03:00",
       "dia": "2026-11-17",
       "data_estimada": true,
@@ -1235,6 +1744,264 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-17T16:38:16-03:00"
+    },
+    {
+      "id": "0a9a4006a090cd5e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Mês Nacional do Júri em 2026 tem número recorde de sessões agendadas",
+      "link": "https://www.cnj.jus.br/mes-nacional-do-juri-em-2026-tem-numero-recorde-de-sessoes-agendadas/",
+      "resumo": "Com 5.267 sessões do Tribunal do Júri agendadas, a edição de 2026 do Mês Nacional do Júri registra o melhor resultado desde o início da série histórica do painel do Conselho Nacional de Justiça (CNJ), em 2020. A ação busca ampliar os julgamentos de crimes dolosos contra a vida e",
+      "publicado_em": "2026-11-17T12:00:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "b8da7738da26524c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Maratona de inovação busca soluções para a Justiça",
+      "link": "https://www.cnj.jus.br/maratona-de-inovacao-busca-de-solucoes-inovadoras-para-a-justica/",
+      "resumo": "Transformar desafios em oportunidades, e ideias em soluções capazes de aprimorar os serviços prestados à sociedade: com esse propósito, a Escola Judicial de Pernambuco (Esmape) sediou, entre os dias 11 e 13 de novembro, a maratona de inovação “Criejam 2026: prevenir, conectar, entender”. O evento re",
+      "publicado_em": "2026-11-17T12:00:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "ea89686ae6688c7e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Saúde mental da população em situação de rua é tema de novo protocolo lançado pelo CNJ",
+      "link": "https://www.cnj.jus.br/saude-mental-da-populacao-em-situacao-de-rua-e-tema-de-novo-protocolo-lancado-pelo-cnj/",
+      "resumo": "O acompanhamento de casos de pessoas em situação de rua com questões de saúde mental deve estar alinhado à Reforma Psiquiátrica e à Política Antimanicomial do Poder Judiciário, conforme o Protocolo Orientativo para a Garantia de Direitos e Saúde Mental de Pessoas em Situação de Rua. O documento, lan",
+      "publicado_em": "2026-11-17T12:00:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "efb9c04daa78cb14",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Aplicação prática do Pena Justa mobiliza juízes do Nordeste em primeira edição de evento",
+      "link": "https://www.cnj.jus.br/aplicacao-pratica-do-pena-justa-mobiliza-juizes-do-nordeste-em-primeira-edicao-de-evento/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) iniciou na última segunda (16), em Fortaleza (CE), a primeira edição da Jornada Formativa Pena Justa, ciclo nacional de formação para juízes garantirem a execução do plano determinado em 2023 pelo Supremo Tribunal Federal (STF). Com a participação do professor Iñ",
+      "publicado_em": "2026-11-17T12:00:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "3ce7b3f0667ce35b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Painel que apresenta panorama de precatórios no Brasil é lançado durante sessão extraordinária do CNJ",
+      "link": "https://www.cnj.jus.br/painel-que-apresenta-panorama-de-precatorios-no-brasil-e-lancado-durante-sessao-extraordinaria-do-cnj/",
+      "resumo": "Dados nacionais sobre o fluxo de pagamento e a distribuição de precatórios são disponibilizados em uma única plataforma. Nesta terça-feira (17/11), durante a 3ª Sessão Extraordinária de 2026, o presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Edson Fachi",
+      "publicado_em": "2026-11-17T12:00:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "precatorio"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "3fac8b2a81dfef12",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Cortes superiores do Mercosul conhecem estratégia brasileira para enfrentar a crise prisional",
+      "link": "https://www.cnj.jus.br/cortes-superiores-do-mercosul-conhecem-estrategia-brasileira-para-enfrentar-a-crise-prisional/",
+      "resumo": "Estratégia brasileira para enfrentar questões de segurança pública a partir da transformação do sistema prisional, o plano Pena Justa foi detalhado para 16 juízes representantes de cortes superiores de nove países e o Tribunal de Revisão do Mercosul. A apresentação aconteceu durante o XI Encontro do",
+      "publicado_em": "2026-11-17T12:00:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "880bf04a47dc8909",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Votação do projeto de ajuste fiscal no Senado fica para esta quarta-feira",
+      "link": "https://www.camara.leg.br/noticias/1320416-votacao-do-projeto-de-ajuste-fiscal-no-senado-fica-para-esta-quarta-feira",
+      "resumo": "",
+      "publicado_em": "2026-11-17T18:30:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "8f1997adb2615581",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova reconhecimento da romaria do Divino Pai Eterno como cultura nacional",
+      "link": "https://www.camara.leg.br/noticias/1320358-camara-aprova-reconhecimento-da-romaria-do-divino-pai-eterno-como-cultura-nacional",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:55:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "00068d222e27c732",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova crédito extraordinário de R$ 300 milhões para combate a incêndios na Amazônia",
+      "link": "https://www.camara.leg.br/noticias/1320344-camara-aprova-credito-extraordinario-de-r-300-milhoes-para-combate-a-incendios-na-amazonia",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:45:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "2366871e29ecc104",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Relator defende aprovação do ajuste fiscal sem mudanças para evitar retorno ao Senado",
+      "link": "https://www.camara.leg.br/noticias/1320366-relator-defende-aprovacao-do-ajuste-fiscal-sem-mudancas-para-evitar-retorno-ao-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:43:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "c81d8075647f93ec",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova crédito de R$ 6,5 bi para ajudar exportadores atingidos pelo tarifaço dos EUA",
+      "link": "https://www.camara.leg.br/noticias/1320334-camara-aprova-credito-de-r-65-bi-para-ajudar-exportadores-atingidos-pelo-tarifaco-dos-eua",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:37:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "77e6379c66aa23e3",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados aprovam crédito extra para pagar subvenção aos combustíveis",
+      "link": "https://www.camara.leg.br/noticias/1320331-deputados-aprovam-credito-extra-para-pagar-subvencao-aos-combustiveis",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:31:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "7adea821f177b4f7",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Especialistas pedem mais atenção às políticas de prevenção de doenças cardiovasculares",
+      "link": "https://www.camara.leg.br/noticias/1320244-especialistas-pedem-mais-atencao-as-politicas-de-prevencao-de-doencas-cardiovasculares",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:21:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "99c2dd00475294da",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova crédito de R$ 925 milhões para prevenir efeitos do El Niño",
+      "link": "https://www.camara.leg.br/noticias/1320284-camara-aprova-credito-de-r-925-milhoes-para-prevenir-efeitos-do-el-nino",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:11:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "6f6c9833455782ee",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova crédito extra de R$ 360 milhões para ações de defesa civil",
+      "link": "https://www.camara.leg.br/noticias/1320263-camara-aprova-credito-extra-de-r-360-milhoes-para-acoes-de-defesa-civil",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:09:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "5aef0ab927d65f62",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Plenário da Câmara aprova regime de urgência para dez propostas",
+      "link": "https://www.camara.leg.br/noticias/1320139-plenario-da-camara-aprova-regime-de-urgencia-para-dez-propostas",
+      "resumo": "",
+      "publicado_em": "2026-11-17T16:55:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T18:57:03-03:00"
     },
     {
       "id": "2c477630ade39926",
