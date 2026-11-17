@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-17T18:57:03-03:00",
+  "gerado_em": "2026-11-17T20:19:25-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -416,6 +416,84 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-17T16:38:16-03:00"
+    },
+    {
+      "id": "bf82619c38a81452",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Teresa Leitão defende conclusão da votação de projeto do ajuste fiscal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/teresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal",
+      "resumo": "",
+      "publicado_em": "2026-11-17T19:40:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T20:19:25-03:00"
+    },
+    {
+      "id": "543350314e0fea1d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova agosto como mês de combate à desigualdade social",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-aprova-agosto-como-mes-de-combate-a-desigualdade",
+      "resumo": "",
+      "publicado_em": "2026-11-17T19:39:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T20:19:25-03:00"
+    },
+    {
+      "id": "dd2efe205b324684",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Marcelo Castro defende fim da reeleição para cargos executivos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/marcelo-castro-defende-fim-da-reeleicao-para-cargos-executivos",
+      "resumo": "",
+      "publicado_em": "2026-11-17T19:33:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T20:19:25-03:00"
+    },
+    {
+      "id": "07d74b692aabc619",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Criação do Dia Nacional de Valorização do Sesc e do Senac ganha apoio em debate",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/criacao-do-dia-nacional-de-valorizacao-do-sesc-e-do-senac-ganha-apoio-em-debate",
+      "resumo": "",
+      "publicado_em": "2026-11-17T19:25:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T20:19:25-03:00"
+    },
+    {
+      "id": "a2218d0e59091134",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Esperidião Amin homenageia sobrevivente de Hiroshima e Nagasaki",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/17/esperidiao-amin-homenageia-sobrevivente-de-hiroshima-e-nagasaki",
+      "resumo": "",
+      "publicado_em": "2026-11-17T19:04:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-11-17T20:19:25-03:00"
     },
     {
       "id": "5fef1ae43bfee0fd",
@@ -1203,6 +1281,37 @@
       "coletado_em": "2026-11-17T18:57:03-03:00"
     },
     {
+      "id": "8c2970b32312b217",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Líder do PT propõe maior incidência do IRPF sobre lucros e dividendos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131673/lider-do-pt-propoe-maior-incidencia-do-irpf-sobre-lucros-e-dividendos",
+      "resumo": "Texto substitui cobrança uniforme de 15% defendida anteriormente por Uczai por faixas progressivas, com teto de 25% para altas rendas.",
+      "publicado_em": "2026-11-17T20:01:36-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T20:19:25-03:00"
+    },
+    {
+      "id": "742d8785ffd4ca64",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bia Kicis elogia aprovação de projeto apresentado por Contarato na CCJ",
+      "link": "https://www.congressoemfoco.com.br/noticia/131672/bia-kicis-elogia-aprovacao-de-projeto-apresentado-por-contarato-na-ccj",
+      "resumo": "Deputada do PL celebrou a aprovação do texto do senador petista e o reforço à proteção dos agentes socioeducativos.",
+      "publicado_em": "2026-11-17T19:12:54-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T20:19:25-03:00"
+    },
+    {
       "id": "3aff9f6414d62d18",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1769,7 +1878,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Maratona de inovação busca soluções para a Justiça",
       "link": "https://www.cnj.jus.br/maratona-de-inovacao-busca-de-solucoes-inovadoras-para-a-justica/",
-      "resumo": "Transformar desafios em oportunidades, e ideias em soluções capazes de aprimorar os serviços prestados à sociedade: com esse propósito, a Escola Judicial de Pernambuco (Esmape) sediou, entre os dias 11 e 13 de novembro, a maratona de inovação “Criejam 2026: prevenir, conectar, entender”. O evento re",
+      "resumo": "Transformar desafios em oportunidades e ideias em soluções capazes de aprimorar os serviços prestados à sociedade. Com esse propósito, a Escola Judicial de Pernambuco (Esmape) sediou, entre os dias 11 e 13 de novembro, a maratona de inovação “CRIEJAM 2026: Prevenir. Conectar. Entender”. O evento reu",
       "publicado_em": "2026-11-17T12:00:00-03:00",
       "dia": "2026-11-17",
       "data_estimada": true,
@@ -1843,6 +1952,38 @@
         "acao"
       ],
       "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "b44df48b7a57fc26",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova prêmio para iniciativas em superdotação e dupla excepcionalidade",
+      "link": "https://www.camara.leg.br/noticias/1320407-camara-aprova-premio-para-iniciativas-em-superdotacao-e-dupla-excepcionalidade",
+      "resumo": "",
+      "publicado_em": "2026-11-17T19:07:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 42,
+      "tags": [
+        "aprova",
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-11-17T20:19:25-03:00"
+    },
+    {
+      "id": "8d3e6397ac5e0f52",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Relator admite atenuantes nas penas de jovens de 16 e 17 anos em caso de crimes violentos",
+      "link": "https://www.camara.leg.br/noticias/1320433-relator-admite-atenuantes-nas-penas-de-jovens-de-16-e-17-anos-em-caso-de-crimes-violentos",
+      "resumo": "",
+      "publicado_em": "2026-11-17T19:06:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-17T20:19:25-03:00"
     },
     {
       "id": "880bf04a47dc8909",
@@ -1940,6 +2081,22 @@
         "aprova"
       ],
       "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "9c060ba07ef87826",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados aprovam crédito de R$ 6,6 bi para pagar subvenção aos combustíveis",
+      "link": "https://www.camara.leg.br/noticias/1320331-deputados-aprovam-credito-de-r-66-bi-para-pagar-subvencao-aos-combustiveis",
+      "resumo": "",
+      "publicado_em": "2026-11-17T17:31:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-17T20:19:25-03:00"
     },
     {
       "id": "7adea821f177b4f7",
