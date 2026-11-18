@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-18T18:39:02-03:00",
+  "gerado_em": "2026-11-18T19:50:09-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 15,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -281,6 +281,54 @@
       "coletado_em": "2026-11-18T18:39:02-03:00"
     },
     {
+      "id": "4cadf109252f7378",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Presidência parabeniza equipe por prêmio nacional em projeto de IA ligado a contratações sustentáveis",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/presidencia-do-trt-2-parabeniza-equipe-por-premio-nacional-em-projeto-de-ia-ligado-a-contratacoes-sustentaveis",
+      "resumo": "",
+      "publicado_em": "2026-11-18T12:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
+    },
+    {
+      "id": "04884a329929a62a",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Presidente da Record faz visita de cortesia à presidente do TRT-2",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/presidente-da-record-faz-visita-de-cortesia-a-presidente-do-trt-2",
+      "resumo": "",
+      "publicado_em": "2026-11-18T12:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
+    },
+    {
+      "id": "7bac8506b62c992c",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT-2 integra ação conjunta para prevenir a violência no trabalho e o assédio eleitoral",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-2-integra-acao-conjunta-para-prevenir-a-violencia-no-trabalho-e-o-assedio-eleitoral",
+      "resumo": "",
+      "publicado_em": "2026-11-18T12:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
+    },
+    {
       "id": "e3c7c774c60cc8e0",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -344,6 +392,40 @@
         "seminario"
       ],
       "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "34a68a2ff8b2b55a",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Tribunal determina retirada de fios de alta tensão de terreno",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116072&pagina=1",
+      "resumo": "Limitação ao exercício do direito de propriedade.\n \n\tA 27ª Câmara de Direito Privado do Tribunal de Justiça do Estado de São Paulo manteve decisão da",
+      "publicado_em": "2026-11-18T12:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": true,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
+    },
+    {
+      "id": "94c93c40540c22b8",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Plenário do STF já julgou 100 processos em sessões presenciais em 2026",
+      "link": "https://noticias.stf.jus.br/postsnoticias/plenario-do-stf-ja-julgou-100-processos-em-sessoes-presenciais-em-2026/",
+      "resumo": "Volume é maior que o total julgado no Plenário físico em cada um dos cinco anos anteriores",
+      "publicado_em": "2026-11-18T19:37:48-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
     },
     {
       "id": "84482d4b8daa7b26",
@@ -443,6 +525,66 @@
         "falecimento"
       ],
       "coletado_em": "2026-11-18T16:14:33-03:00"
+    },
+    {
+      "id": "2b87a40ef70258f2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Debate na CAE aponta formas de reduzir alíquota de novo tributo, a CBS",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/debate-na-cae-aponta-formas-de-reduzir-aliquota-de-novo-tributo-a-cbs",
+      "resumo": "",
+      "publicado_em": "2026-11-18T19:36:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "cbs"
+      ],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
+    },
+    {
+      "id": "39330f0f4dd5b5ea",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "TCU identifica falhas que dificultam avaliar resultados de políticas públicas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/tcu-identifica-falhas-que-dificultam-avaliar-resultados-de-politicas-publicas",
+      "resumo": "",
+      "publicado_em": "2026-11-18T18:53:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
+    },
+    {
+      "id": "ab33e0966f2f9124",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CE aprova projeto que permite reconhecer línguas indígenas como co-oficiais",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/ce-aprova-projeto-que-permite-reconhecer-linguas-indigenas-como-co-oficiais",
+      "resumo": "",
+      "publicado_em": "2026-11-18T18:47:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
+    },
+    {
+      "id": "ae7e5bb73fe95e75",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lançado novo volume da coleção Arquivo S, com reportagens sobre história do país",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/lancado-novo-volume-da-colecao-arquivo-s-com-reportagens-sobre-historia-do-pais",
+      "resumo": "",
+      "publicado_em": "2026-11-18T18:44:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
     },
     {
       "id": "20f84e2bbb96689b",
@@ -955,6 +1097,23 @@
       "coletado_em": "2026-11-18T16:14:33-03:00"
     },
     {
+      "id": "be3390546487d8fd",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "RFB e CGIBS alinham próximos passos da implementação da Reforma e reforçam compromisso com a conformidade tributária",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/rfb-e-cgibs-alinham-proximos-passos-da-implementacao-da-reforma-e-reforcam-compromisso-com-a-conformidade-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-11-18T19:12:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "ibs",
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
+    },
+    {
       "id": "c9820271f833d3a2",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -1436,15 +1595,16 @@
       "id": "6b300e0ed9917ab5",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "AO VIVO: Senado retoma votação de destaques do ajuste fiscal",
+      "titulo": "Senado aprova ajuste fiscal em turno suplementar; texto vai à Câmara",
       "link": "https://www.congressoemfoco.com.br/noticia/131705/ao-vivo-senado-retoma-votacao-de-destaques-do-ajuste-fiscal",
-      "resumo": "Serão analisados quatro destaques que podem modificar pontos importantes da proposta antes de seu encaminhamento à Câmara dos Deputados.",
+      "resumo": "Texto final foi aprovado com 69 votos favoráveis contra dois contrários, tendo ainda uma abstenção.",
       "publicado_em": "2026-11-18T15:58:24-03:00",
       "dia": "2026-11-18",
       "data_estimada": false,
-      "score": 46,
+      "score": 56,
       "tags": [
-        "acao"
+        "aprovado",
+        "aprova"
       ],
       "coletado_em": "2026-11-18T18:39:02-03:00"
     },
@@ -1943,9 +2103,9 @@
       "id": "ea22794e9c81e258",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Seminário debate aperfeiçoamento da gestão de vagas no sistema socioeducativo",
+      "titulo": "Seminário debate aperfeiçoamento da gestão de vagas no Sistema Socioeducativo",
       "link": "https://www.cnj.jus.br/seminario-debate-aperfeicoamento-da-gestao-de-vagas-no-sistema-socioeducativo/",
-      "resumo": "O aprimoramento da gestão de vagas no sistema socioeducativo foi tema de seminário promovido, nesta segunda-feira (16/11), pelo Grupo de Monitoramento e Fiscalização do Sistema Carcerário e de Execução de Medidas Socioeducativas do Tribunal de Justiça do Ceará (GMF/TJCE). Durante o encontro, realiza",
+      "resumo": "O aprimoramento da gestão de vagas no Sistema Socioeducativo foi tema de seminário promovido, nesta segunda-feira (16/11), pelo Grupo de Monitoramento e Fiscalização do Sistema Carcerário e de Execução de Medidas Socioeducativas do Tribunal de Justiça do Ceará (GMF/TJCE). Durante o encontro, realiza",
       "publicado_em": "2026-11-18T12:00:00-03:00",
       "dia": "2026-11-18",
       "data_estimada": true,
@@ -1985,6 +2145,37 @@
         "acao"
       ],
       "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "70fc59fb0c8cf0ac",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Especialistas apresentam alertas a favor e contra a redução da maioridade penal",
+      "link": "https://www.camara.leg.br/noticias/1320869-especialistas-apresentam-alertas-a-favor-e-contra-a-reducao-da-maioridade-penal",
+      "resumo": "",
+      "publicado_em": "2026-11-18T19:40:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
+    },
+    {
+      "id": "498df74faa56152b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate recursos para ampliar castração e proteção de cães e gatos em todo o país",
+      "link": "https://www.camara.leg.br/noticias/1320874-comissao-debate-recursos-para-ampliar-castracao-e-protecao-de-caes-e-gatos-em-todo-o-pais",
+      "resumo": "",
+      "publicado_em": "2026-11-18T19:09:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
     },
     {
       "id": "b6870e79d70556aa",
@@ -2319,6 +2510,23 @@
       "coletado_em": "2026-11-18T16:14:33-03:00"
     },
     {
+      "id": "8c8349a0189ee694",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "Rede Ibero-Americana de Proteção de Dados, presidida pela ANPD, aprova padrões para uso de IA",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/rede-ibero-americana-de-protecao-de-dados-presidida-pela-anpd-aprova-padroes-para-uso-de-ia",
+      "resumo": "Documento traz orientações para uso responsável dos dados por sistemas de IA, incluindo regras sobre decisões automatizadas, IA generativa, biometria e transparência",
+      "publicado_em": "2026-11-18T19:27:38-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "protecao de dados",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
+    },
+    {
       "id": "51a36b5043a5344e",
       "fonte_id": "trt2",
       "fonte_nome": "TRT-2",
@@ -2347,6 +2555,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-17T16:38:16-03:00"
+    },
+    {
+      "id": "50d87242808572b6",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Sistemas e serviços de TI podem apresentar instabilidade na sexta-feira (20/11)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/sistemas-e-servicos-de-ti-podem-apresentar-instabilidade-na-sexta-feira-20-11",
+      "resumo": "",
+      "publicado_em": "2026-11-17T12:00:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-16T20:05:27-03:00"
     },
     {
       "id": "97131bf0dc516970",
@@ -4613,20 +4835,6 @@
         "judicial"
       ],
       "coletado_em": "2026-11-16T17:48:48-03:00"
-    },
-    {
-      "id": "50d87242808572b6",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Sistemas e serviços de TI podem apresentar instabilidade na sexta-feira (20/11)",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/sistemas-e-servicos-de-ti-podem-apresentar-instabilidade-na-sexta-feira-20-11",
-      "resumo": "",
-      "publicado_em": "2026-11-16T12:00:00-03:00",
-      "dia": "2026-11-16",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-11-16T20:05:27-03:00"
     },
     {
       "id": "e2aa70c89dfca47f",
