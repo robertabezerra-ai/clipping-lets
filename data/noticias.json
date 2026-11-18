@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-17T20:19:25-03:00",
+  "gerado_em": "2026-11-17T22:57:56-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -371,6 +371,55 @@
         "acao"
       ],
       "coletado_em": "2026-11-17T18:57:03-03:00"
+    },
+    {
+      "id": "fd3ee24b9070b943",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF inaugura escultura do Oxê de Xangô, símbolo da Justiça na tradição iorubá",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-inaugura-escultura-do-oxe-de-xango-simbolo-da-justica-na-tradicao-ioruba/",
+      "resumo": "Obra passa a integrar o acervo do Tribunal, que já reúne referências da mitologia clássica e da tradição cristã",
+      "publicado_em": "2026-11-17T21:24:03-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-11-17T22:57:56-03:00"
+    },
+    {
+      "id": "85ccb17209379ca9",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Rede questiona no STF regras de Minas Gerais para contratação de artistas pela administração pública",
+      "link": "https://noticias.stf.jus.br/postsnoticias/rede-questiona-no-stf-regras-de-minas-gerais-para-contratacao-de-artistas-pela-administracao-publica-2/",
+      "resumo": "Partido alega que lei estadual interfere na autonomia dos municípios para administrar recursos próprios destinados a eventos culturais",
+      "publicado_em": "2026-11-17T20:56:53-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T22:57:56-03:00"
+    },
+    {
+      "id": "859c0a52912c7e16",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Projeto ‘Diálogos Acadêmicos’ debate no STF proteção à liberdade religiosa e combate ao racismo",
+      "link": "https://noticias.stf.jus.br/postsnoticias/projeto-dialogos-academicos-debate-no-stf-protecao-a-liberdade-religiosa-e-combate-ao-racismo/",
+      "resumo": "Evento acadêmico reuniu professores e pesquisadores do tema",
+      "publicado_em": "2026-11-17T20:40:58-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-11-17T22:57:56-03:00"
     },
     {
       "id": "9bf9850c1f20b5b0",
@@ -1281,6 +1330,24 @@
       "coletado_em": "2026-11-17T18:57:03-03:00"
     },
     {
+      "id": "81f85fe28ef3f6a7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Votação do pacote fiscal foi adiada por falta de quórum, diz Randolfe",
+      "link": "https://www.congressoemfoco.com.br/noticia/131674/votacao-do-pacote-fiscal-foi-adiada-por-falta-de-quorum-diz-randolfe",
+      "resumo": "Falta de senadores aliados elevou o risco de derrota do governo nos destaques, após aprovação apertada do texto principal do ajuste.",
+      "publicado_em": "2026-11-17T20:32:15-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "adi",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-17T22:57:56-03:00"
+    },
+    {
       "id": "8c2970b32312b217",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1911,7 +1978,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Aplicação prática do Pena Justa mobiliza juízes do Nordeste em primeira edição de evento",
       "link": "https://www.cnj.jus.br/aplicacao-pratica-do-pena-justa-mobiliza-juizes-do-nordeste-em-primeira-edicao-de-evento/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) iniciou na última segunda (16), em Fortaleza (CE), a primeira edição da Jornada Formativa Pena Justa, ciclo nacional de formação para juízes garantirem a execução do plano determinado em 2023 pelo Supremo Tribunal Federal (STF). Com a participação do professor Iñ",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) iniciou segunda (16), em Fortaleza (CE), a primeira edição da Jornada Formativa Pena Justa, ciclo nacional de formação para juízes garantirem a execução do plano determinado em 2023 pelo Supremo Tribunal Federal. Com a participação do professor Iñaki Rivera Beira",
       "publicado_em": "2026-11-17T12:00:00-03:00",
       "dia": "2026-11-17",
       "data_estimada": true,
