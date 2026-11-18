@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-18T16:14:33-03:00",
+  "gerado_em": "2026-11-18T18:39:02-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -267,6 +267,20 @@
       "coletado_em": "2026-11-18T16:14:33-03:00"
     },
     {
+      "id": "b189b6320b4f89fe",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "TRT de São Paulo conquista o \"Selo Linguagem Simples\", do CNJ, pelo segundo ano consecutivo",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/trt-de-sao-paulo-conquista-o-selo-linguagem-simples-do-cnj-pelo-segundo-ano-consecutivo",
+      "resumo": "",
+      "publicado_em": "2026-11-18T12:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
       "id": "e3c7c774c60cc8e0",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -314,6 +328,57 @@
         "acao"
       ],
       "coletado_em": "2026-11-18T16:14:33-03:00"
+    },
+    {
+      "id": "6d6240c0857ac8c6",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "EPM realizará curso sobre perícias judiciais de engenharia e arquitetura",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116060&pagina=1",
+      "resumo": "Inscrições até 26 de novembro.\n \n\tA Escola Paulista da Magistratura promoverá, no dia 30 de novembro, o seminário Aspectos relevantes das perícias judiciais de engenharia",
+      "publicado_em": "2026-11-18T12:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "seminario"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "84482d4b8daa7b26",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF declara inconstitucional redução dos honorários de procuradores de Rondônia",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-declara-inconstitucional-reducao-dos-honorarios-de-procuradores-de-rondonia/",
+      "resumo": "Plenário entendeu que a norma viola regras sobre competência legislativa e irredutibilidade de vencimentos",
+      "publicado_em": "2026-11-18T18:04:25-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "inconstitucional"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "03a5241d4b213c71",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Fim da isenção de pena em crimes patrimoniais entre familiares vale a partir do julgamento, decide STF",
+      "link": "https://noticias.stf.jus.br/postsnoticias/fim-da-isencao-de-pena-em-crimes-patrimoniais-entre-familiares-vale-a-partir-do-julgamento-decide-stf/",
+      "resumo": "Decisão preserva condenações definitivas e ações penais em andamento nas quais a isenção já havia sido afastada por violência de gênero",
+      "publicado_em": "2026-11-18T17:35:11-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 86,
+      "tags": [
+        "decisao",
+        "decide",
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
     },
     {
       "id": "0fe5e3b173907c69",
@@ -378,6 +443,205 @@
         "falecimento"
       ],
       "coletado_em": "2026-11-18T16:14:33-03:00"
+    },
+    {
+      "id": "20f84e2bbb96689b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "No Senado, diretor da Polícia Federal nega interferência em relatórios sobre Master",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/no-senado-diretor-da-policia-federal-nega-interferencia-em-relatorios-sobre-master",
+      "resumo": "",
+      "publicado_em": "2026-11-18T18:28:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "60ed8205f1f7c4f3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Em audiência, chefe da PF e ministro negam interferência em investigações",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/em-audiencia-chefe-da-pf-e-ministro-negam-interferencia-em-investigacoes",
+      "resumo": "",
+      "publicado_em": "2026-11-18T18:27:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "3f02b89e7b608604",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão define próximos passos para análise da reforma do Código Civil",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/comissao-define-proximos-passos-para-analise-da-reforma-do-codigo-civil",
+      "resumo": "",
+      "publicado_em": "2026-11-18T18:24:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "codigo civil"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "c97f065e3457fe74",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Amin pede mais análise de projeto contra embalagens plásticas em livros",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/amin-pede-mais-analise-de-projeto-contra-embalagens-plasticas-em-livros",
+      "resumo": "",
+      "publicado_em": "2026-11-18T18:14:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "09e65d2848feb1d0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Agro pede menos contingenciamento de recursos no Orçamento de 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/agro-pede-menos-contingenciamento-de-recursos-no-orcamento-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-18T17:54:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "4dfaf4da8a324c45",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovada proposta que incentiva a criação de creches em universidades e faculdades",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/aprovada-proposta-que-incentiva-a-criacao-de-creches-em-universidades-e-faculdades",
+      "resumo": "",
+      "publicado_em": "2026-11-18T17:42:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "db0bed131c3b7acc",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CTFC vai apurar possíveis fraudes na Previdência e no crédito consignado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/ctfc-vai-apurar-possiveis-fraudes-na-previdencia-e-no-credito-consignado",
+      "resumo": "",
+      "publicado_em": "2026-11-18T17:30:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "d598df86dc63a799",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAE debate redução da sonegação como saída para baixar alíquota da futura CBS",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/cae-debate-reducao-da-sonegacao-como-saida-para-baixar-aliquota-da-futura-cbs",
+      "resumo": "",
+      "publicado_em": "2026-11-18T17:20:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "2a8598b8ddac3f71",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Humberto cobra decisão sobre trecho da Transnordestina em Pernambuco",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/humberto-cobra-decisao-sobre-trecho-da-transnordestina-em-pernambuco",
+      "resumo": "",
+      "publicado_em": "2026-11-18T17:03:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "e07f5708995cce88",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Moro critica projeto de ajuste fiscal e aponta perdas para os estados",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/moro-critica-projeto-de-ajuste-fiscal-e-aponta-perdas-para-os-estados",
+      "resumo": "",
+      "publicado_em": "2026-11-18T16:43:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "00c98f8e193f5e18",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissão do Senado vai fiscalizar atuação de órgãos reguladores no caso Master",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/comissao-do-senado-vai-fiscalizar-atuacao-de-orgaos-reguladores-no-caso-master",
+      "resumo": "",
+      "publicado_em": "2026-11-18T16:34:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "05cce13ef54ac201",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Chico Rodrigues defende aprovação de projeto do ajuste fiscal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/chico-rodrigues-defende-aprovacao-de-projeto-do-ajuste-fiscal",
+      "resumo": "",
+      "publicado_em": "2026-11-18T16:28:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "a52fe392d2fe5e02",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Paim celebra trajetória do Programa Jovem Senador",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/paim-celebra-trajetoria-do-programa-jovem-senador",
+      "resumo": "",
+      "publicado_em": "2026-11-18T16:26:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
     },
     {
       "id": "b672ad320538fca2",
@@ -691,6 +955,25 @@
       "coletado_em": "2026-11-18T16:14:33-03:00"
     },
     {
+      "id": "c9820271f833d3a2",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "A Receita Federal divulga a atualização dos números referentes às solicitações de opção pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/a-receita-federal-divulga-a-atualizacao-dos-numeros-referentes-as-solicitacoes-de-opcao-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-11-18T16:54:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 84,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs",
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
       "id": "c6fde57be9166c03",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -753,6 +1036,34 @@
       "coletado_em": "2026-11-18T16:14:33-03:00"
     },
     {
+      "id": "ac4248c2b386b129",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Com ajuda de parcerias, conta GOV.BR chega a 405 pontos de atendimento presencial",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/gov-br-chega-a-405-pontos-de-atendimento-presencial-no-pais",
+      "resumo": "",
+      "publicado_em": "2026-11-18T17:28:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "4939e33e1c96a449",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "MDIC e CNI avançam no diálogo sobre defesa comercial",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/mdic-e-cni-avancam-no-dialogo-sobre-defesa-comercial",
+      "resumo": "",
+      "publicado_em": "2026-11-18T17:10:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
       "id": "a2fad1749b36b8a5",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -809,6 +1120,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-18T16:14:33-03:00"
+    },
+    {
+      "id": "d9fd796d8508b128",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Queda média de 5,9% em feminicídios e de 19,5% onde têm operação Mulher Segura",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/feminicidios-reduzem-5-9-no-brasil-e-queda-e-quase-seis-vezes-maior-em-municipios-com-acoes-da-operacao-mulher-segura",
+      "resumo": "",
+      "publicado_em": "2026-11-18T13:56:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
     },
     {
       "id": "e1d9b128cbc4bb62",
@@ -993,6 +1320,24 @@
       "coletado_em": "2026-11-18T16:14:33-03:00"
     },
     {
+      "id": "6769e0a09d40cc52",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal divulga  quantidade de solicitações de opções pelo Simples Nacional e pelo regime regular do IBS e da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-divulga-quantidade-de-solicitacoes-de-opcoes-pelo-simples-nacional-e-pelo-regime-regular-do-ibs-e-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-11-18T12:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "simples nacional",
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
       "id": "3b5ee3b5cd92b51f",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -1008,6 +1353,114 @@
         "processo"
       ],
       "coletado_em": "2026-11-18T16:14:33-03:00"
+    },
+    {
+      "id": "13027c071dded154",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM participa de reunião plenária do Conselho de Estabilidade Financeira (FSB) na Suíça",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-participa-de-reuniao-plenaria-do-conselho-de-estabilidade-financeira-fsb-na-suica",
+      "resumo": "",
+      "publicado_em": "2026-11-18T12:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "b3b2d01f29a19bed",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cúpulas do PSB e PDT confirmam federação; grupo terá 21 deputados",
+      "link": "https://www.congressoemfoco.com.br/noticia/131709/cupulas-do-psb-e-pdt-confirmam-federacao-grupo-tera-21-deputados",
+      "resumo": "Composição abre caminho para candidaturas conjuntas nas próximas eleições e para a permanência do PDT no Fundo Partidário em 2027.",
+      "publicado_em": "2026-11-18T17:55:44-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "ebfdad9a12b053fa",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Imposto Seletivo: A corrida para viabilizar a cobrança em 2027",
+      "link": "https://www.congressoemfoco.com.br/artigo/131708/imposto-seletivo-a-corrida-para-viabilizar-a-cobranca-em-2027",
+      "resumo": "Medida provisória define alíquotas para 2027, mas prazo constitucional apertado pode comprometer a entrada em vigor do novo tributo.",
+      "publicado_em": "2026-11-18T17:04:47-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 74,
+      "tags": [
+        "medida provisoria",
+        "prazo",
+        "imposto"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "0ce7d6550b7bf18c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Da guerra aos juros: O que está em jogo para o Brasil em 2027",
+      "link": "https://www.congressoemfoco.com.br/artigo/131707/da-guerra-aos-juros-o-que-esta-em-jogo-para-o-brasil-em-2027",
+      "resumo": "A Economist reúne dez tendências para 2027, do conflito no Irã à inteligência artificial. No Brasil, os efeitos podem aparecer nos custos de produção, no financiamento e nos preços.",
+      "publicado_em": "2026-11-18T16:55:24-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "e818c1849435b118",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Diretor da PF nega punição a delegados por relatórios do caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/131706/diretor-da-pf-nega-punicao-a-delegados-por-relatorios-do-caso-master",
+      "resumo": "Andrei Rodrigues atribuiu a saída dos delegados dos cargos de chefia ao descumprimento de orientações para a elaboração de relatórios ao STF.",
+      "publicado_em": "2026-11-18T16:43:04-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "6b300e0ed9917ab5",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AO VIVO: Senado retoma votação de destaques do ajuste fiscal",
+      "link": "https://www.congressoemfoco.com.br/noticia/131705/ao-vivo-senado-retoma-votacao-de-destaques-do-ajuste-fiscal",
+      "resumo": "Serão analisados quatro destaques que podem modificar pontos importantes da proposta antes de seu encaminhamento à Câmara dos Deputados.",
+      "publicado_em": "2026-11-18T15:58:24-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "d0824baccf27a09f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Novo lança Paulo Martins como nome da oposição à presidência da Câmara",
+      "link": "https://www.congressoemfoco.com.br/noticia/131704/novo-lanca-paulo-martins-como-nome-da-oposicao-a-presidencia-da-camara",
+      "resumo": "Candidato afirmou durante entrevista coletiva que não representa uma divisão entre os partidos de oposição.",
+      "publicado_em": "2026-11-18T15:39:43-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
     },
     {
       "id": "d6c3a00d84374c48",
@@ -1027,9 +1480,9 @@
       "id": "8f611533e8da1880",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
-      "titulo": "AO VIVO: CCJ do Senado ouve ministro da Justiça e diretor da PF",
+      "titulo": "CCJ do Senado recebe ministro da Justiça e diretor da PF",
       "link": "https://www.congressoemfoco.com.br/noticia/131702/ao-vivo-ccj-do-senado-ouve-ministro-da-justica-e-diretor-da-pf",
-      "resumo": "Senadores cobram esclarecimentos sobre a troca de delegados da PF e a revisão de relatórios sobre ministros do STF no caso Master.",
+      "resumo": "Senadores cobraram esclarecimentos sobre a troca de delegados da PF e a revisão de relatórios sobre ministros do STF no caso Master.",
       "publicado_em": "2026-11-18T14:49:11-03:00",
       "dia": "2026-11-18",
       "data_estimada": false,
@@ -1467,6 +1920,177 @@
         "acao"
       ],
       "coletado_em": "2026-11-18T16:14:33-03:00"
+    },
+    {
+      "id": "58ba00ea066f5477",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ realiza visita técnica ao TJTO em projeto nacional que busca aprimorar julgamentos de crimes contra a vida",
+      "link": "https://www.cnj.jus.br/cnj-realiza-visita-tecnica-ao-tjto-em-projeto-nacional-que-busca-aprimorar-julgamentos-de-crimes-contra-a-vida/",
+      "resumo": "O Tribunal de Justiça do Estado do Tocantins (TJTO) recebe, nesta quarta-feira (18/11) e quinta-feira (19/11), uma comitiva do Conselho Nacional de Justiça (CNJ) para uma etapa de levantamento de dados e diálogo institucional do projeto Mapa Nacional do Tribunal do Júri. A visita técnica, que ocorre",
+      "publicado_em": "2026-11-18T12:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "julgamento",
+        "julga",
+        "visita"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "ea22794e9c81e258",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Seminário debate aperfeiçoamento da gestão de vagas no sistema socioeducativo",
+      "link": "https://www.cnj.jus.br/seminario-debate-aperfeicoamento-da-gestao-de-vagas-no-sistema-socioeducativo/",
+      "resumo": "O aprimoramento da gestão de vagas no sistema socioeducativo foi tema de seminário promovido, nesta segunda-feira (16/11), pelo Grupo de Monitoramento e Fiscalização do Sistema Carcerário e de Execução de Medidas Socioeducativas do Tribunal de Justiça do Ceará (GMF/TJCE). Durante o encontro, realiza",
+      "publicado_em": "2026-11-18T12:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": true,
+      "score": 36,
+      "tags": [
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "374ee893d9b4e65e",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Missões da Justiça e da Cidadania: mais de 350 pessoas são atendidas no primeiro dia de mutirão",
+      "link": "https://www.cnj.jus.br/missoes-da-justica-e-da-cidadania-mais-de-350-pessoas-sao-atendidas-no-primeiro-dia-de-mutirao/",
+      "resumo": "Nem mesmo a forte chuva que chegou a São Miguel das Missões, nesta terça-feira (17/11), impediu que centenas fossem ao Ginásio Municipal para buscar atendimentos no primeiro dia de mutirão das Missões da Justiça e Cidadania — iniciativa coordenada pelo Tribunal de Justiça do Rio Grande do Sul (TJRS)",
+      "publicado_em": "2026-11-18T12:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "84f4a9920a017c64",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Exame Nacional dos Cartórios será aplicado pela quarta vez",
+      "link": "https://www.cnj.jus.br/exame-nacional-dos-cartorios-sera-aplicado-pela-quarta-vez/",
+      "resumo": "A 4ª edição do Exame Nacional dos Cartórios (Enac) ocorre, neste domingo (22/11), nas 27 capitais do Brasil. Promovida pelo Conselho Nacional de Justiça (CNJ) em parceria com a Fundação Getúlio Vargas (FGV), a prova é pré-requisito para a participação em concursos públicos de cartórios promovidos pe",
+      "publicado_em": "2026-11-18T12:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "b6870e79d70556aa",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "TCU identifica falhas no monitoramento dos resultados das políticas públicas do governo",
+      "link": "https://www.camara.leg.br/noticias/1320816-tcu-identifica-falhas-no-monitoramento-dos-resultados-das-politicas-publicas-do-governo",
+      "resumo": "",
+      "publicado_em": "2026-11-18T17:55:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "ac35da4246798902",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto prevê parcelamento de dívidas e perdão de débitos para entidades sem fins lucrativos",
+      "link": "https://www.camara.leg.br/noticias/1311401-projeto-preve-parcelamento-de-dividas-e-perdao-de-debitos-para-entidades-sem-fins-lucrativos",
+      "resumo": "",
+      "publicado_em": "2026-11-18T17:54:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "91d2de071d214fa8",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que proíbe homenagens a condenados por violência contra mulheres",
+      "link": "https://www.camara.leg.br/noticias/1320630-comissao-aprova-projeto-que-proibe-homenagens-a-condenados-por-violencia-contra-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-11-18T17:48:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "condenado",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "637c47996595ab35",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova criação de selo de respeito à voz do cidadão",
+      "link": "https://www.camara.leg.br/noticias/1320807-camara-aprova-criacao-de-selo-de-respeito-a-voz-do-cidadao",
+      "resumo": "",
+      "publicado_em": "2026-11-18T17:15:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "bc59e0ffb6be4dcf",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova tratado de assistência penal entre Brasil e Japão",
+      "link": "https://www.camara.leg.br/noticias/1320788-camara-aprova-tratado-de-assistencia-penal-entre-brasil-e-japao",
+      "resumo": "",
+      "publicado_em": "2026-11-18T17:03:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "48e6c56e58e6b5e5",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara analisa tratado de assistência jurídica penal entre Brasil e Japão; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1320777-camara-analisa-tratado-de-assistencia-juridica-penal-entre-brasil-e-japao-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-18T16:41:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "6b334af9be01019d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto aumenta penas para crimes ligados ao não pagamento de dívidas e comissões",
+      "link": "https://www.camara.leg.br/noticias/1310607-projeto-aumenta-penas-para-crimes-ligados-ao-nao-pagamento-de-dividas-e-comissoes",
+      "resumo": "",
+      "publicado_em": "2026-11-18T16:37:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T18:39:02-03:00"
     },
     {
       "id": "b31579e84a510276",
