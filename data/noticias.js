@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-18T19:50:09-03:00",
+  "gerado_em": "2026-11-18T22:34:07-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 15,
+      "itens": 13,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -411,6 +411,56 @@ window.DADOS = {
       "coletado_em": "2026-11-18T19:50:09-03:00"
     },
     {
+      "id": "5bcba76efaec6440",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF derruba exigência de comunicação eletrônica de transferência de veículos no Ceará",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-derruba-exigencia-de-comunicacao-eletronica-de-transferencia-de-veiculos-no-ceara/",
+      "resumo": "Plenário entendeu que estado não poderia obrigar cartórios a informar eletronicamente operações ao Detran, criando exigência não prevista na legislação federal",
+      "publicado_em": "2026-11-18T20:57:08-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
+    },
+    {
+      "id": "bc18e89057bae48b",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Informe à Imprensa",
+      "link": "https://noticias.stf.jus.br/postsnoticias/informe-a-imprensa-2/",
+      "resumo": "Presidente do STF recebe diretor-geral da PF em reunião sobre Operação Compliance Zero",
+      "publicado_em": "2026-11-18T20:44:56-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "compliance",
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
+    },
+    {
+      "id": "95d4fd4537b9d669",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Relator extingue investigação contra Carla Zambelli por defender intervenção militar em redes sociais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/relator-extingue-investigacao-contra-carla-zambelli-por-defender-intervencao-militar-em-redes-sociais/",
+      "resumo": "Ministro Alexandre de Moraes acolheu manifestação da PGR, que apontou a prescrição no caso",
+      "publicado_em": "2026-11-18T20:37:40-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prescricao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
+    },
+    {
       "id": "94c93c40540c22b8",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -525,6 +575,124 @@ window.DADOS = {
         "falecimento"
       ],
       "coletado_em": "2026-11-18T16:14:33-03:00"
+    },
+    {
+      "id": "2a4adcc12a113c7c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Vai à sanção prazo maior para pedir reparação por crime sexual na infância",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/prazo-maior-para-pedir-reparacao-por-crime-sexual-na-infancia-vai-a-sancao",
+      "resumo": "",
+      "publicado_em": "2026-11-18T20:59:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
+    },
+    {
+      "id": "ad16ba7b34b9fa97",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senador Paulo Paim será homenageado em sessão especial",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/senador-paulo-paim-sera-homenageado-em-sessao-especial",
+      "resumo": "",
+      "publicado_em": "2026-11-18T20:56:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
+    },
+    {
+      "id": "965d8033a9f6e1c6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovadas regras de uso compartilhado de postes; texto vai à sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/aprovadas-regras-de-uso-compartilhado-de-postes-texto-vai-a-sancao",
+      "resumo": "",
+      "publicado_em": "2026-11-18T20:55:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
+    },
+    {
+      "id": "97a79e81f7b9b98d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova férias escolares flexíveis para Copa do Mundo de 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/senado-aprova-calendario-escolar-flexivel-para-copa-do-mundo-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-18T20:39:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
+    },
+    {
+      "id": "f5634e0866550f99",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Vai à sanção campanha anual pelo fim da violência e do racismo contra mulheres",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/vai-a-sancao-campanha-anual-pelo-fim-da-violencia-e-do-racismo-contra-mulheres",
+      "resumo": "",
+      "publicado_em": "2026-11-18T20:38:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "sancao",
+        "vai a sancao"
+      ],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
+    },
+    {
+      "id": "07d8792ea494806b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado completa votação, e ajuste fiscal segue para a Câmara",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/senado-completa-votacao-e-ajuste-fiscal-segue-para-a-camara",
+      "resumo": "",
+      "publicado_em": "2026-11-18T20:04:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
+    },
+    {
+      "id": "955f4f822c254797",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovado prazo maior para uso de verba de internet nas escolas públicas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/18/aprovado-prazo-maior-para-uso-de-verba-de-internet-nas-escolas-publicas",
+      "resumo": "",
+      "publicado_em": "2026-11-18T20:02:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "prazo",
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
     },
     {
       "id": "2b87a40ef70258f2",
@@ -1528,6 +1696,42 @@ window.DADOS = {
       "coletado_em": "2026-11-18T18:39:02-03:00"
     },
     {
+      "id": "781e53786b6cc0c1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pacote fiscal foi \"demonstração de força\" do governo, diz Pimenta",
+      "link": "https://www.congressoemfoco.com.br/noticia/131711/pacote-fiscal-foi-demonstracao-de-forca-do-governo-diz-pimenta",
+      "resumo": "Paulo Pimenta pretende negociar com as bancadas até terça-feira para viabilizar a aprovação do pacote fiscal sem novos adiamentos.",
+      "publicado_em": "2026-11-18T20:28:51-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "adi",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
+    },
+    {
+      "id": "b1ca0f95988bca5e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara aprova regras para transição entre mandatos do Executivo",
+      "link": "https://www.congressoemfoco.com.br/noticia/131710/camara-aprova-regras-para-transicao-entre-mandatos-do-executivo",
+      "resumo": "Proposta estabelece prazo de 72 horas para a formação das equipes de transição, com representação paritária e dois coordenadores.",
+      "publicado_em": "2026-11-18T19:37:23-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "prazo",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
+    },
+    {
       "id": "b3b2d01f29a19bed",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2145,6 +2349,48 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-18T18:39:02-03:00"
+    },
+    {
+      "id": "dedbc3a2eb657f64",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Proposta de ajuste fiscal entra na pauta de sessão extraordinária da Câmara na próxima segunda-feira",
+      "link": "https://www.camara.leg.br/noticias/1320935-proposta-de-ajuste-fiscal-entra-na-pauta-de-sessao-extraordinaria-da-camara-na-proxima-segunda-feira",
+      "resumo": "",
+      "publicado_em": "2026-11-18T21:50:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
+    },
+    {
+      "id": "79a55c35e381f9a2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Audiência aponta abandono e negligência como principais violências contra mulheres idosas no Brasil",
+      "link": "https://www.camara.leg.br/noticias/1320884-audiencia-aponta-abandono-e-negligencia-como-principais-violencias-contra-mulheres-idosas-no-brasil",
+      "resumo": "",
+      "publicado_em": "2026-11-18T20:24:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
+    },
+    {
+      "id": "7772eb451995362a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Atingidos por rompimento de barragem da Vale exigem retomada do auxílio emergencial",
+      "link": "https://www.camara.leg.br/noticias/1320885-atingidos-por-rompimento-de-barragem-da-vale-exigem-retomada-do-auxilio-emergencial",
+      "resumo": "",
+      "publicado_em": "2026-11-18T20:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-18T22:34:07-03:00"
     },
     {
       "id": "70fc59fb0c8cf0ac",
