@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-19T18:54:08-03:00",
+  "gerado_em": "2026-11-19T19:53:38-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -148,9 +148,9 @@
     },
     {
       "id": "tjsp",
-      "status": "ok",
-      "itens": 10,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.tjsp.jus.br', port=443): Max retries exceeded with url: /Noticias (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF oc"
     },
     {
       "id": "pgfn",
@@ -1772,7 +1772,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Comitê de Combate ao Trabalho Infantil lança cartilha sobre aprendizagem profissional",
       "link": "https://www.cnj.jus.br/comite-de-combate-ao-trabalho-infantil-lanca-cartilha-sobre-aprendizagem-profissional/",
-      "resumo": "O Comitê Regional de Combate ao Trabalho Infantil e de Estímulo à Aprendizagem do Tribunal Regional do Trabalho da 11ª Região (AM/RR) participou, nesta terça-feira (17/11), do Congresso Estadual de Enfrentamento ao Abuso e à Violência Sexual de Crianças e Adolescentes – Cedcar 2026, realizado em Boa",
+      "resumo": "O Comitê Regional de Combate ao Trabalho Infantil e de Estímulo à Aprendizagem do Tribunal Regional do Trabalho da 11ª Região (AM/RR) participou, nesta terça-feira (17/11), do Congresso Estadual de Enfrentamento ao Abuso e à Violência Sexual de Crianças e Adolescentes (Cedcar 2026), realizado em Boa",
       "publicado_em": "2026-11-19T12:00:00-03:00",
       "dia": "2026-11-19",
       "data_estimada": true,
@@ -1786,7 +1786,7 @@
       "fonte_nome": "CNJ",
       "titulo": "Julgamento com perspectiva racial: protocolo completa 2 anos e pode orientar mais de 17 mil processos pendentes",
       "link": "https://www.cnj.jus.br/julgamento-com-perspectiva-racial-protocolo-completa-2-anos-e-pode-orientar-mais-de-17-mil-processos-pendentes/",
-      "resumo": "Na véspera do Dia Nacional de Zumbi e da Consciência Negra, o Protocolo para Julgamento com Perspectiva Racial do Conselho Nacional de Justiça (CNJ) completa dois anos nesta quinta-feira (19). Aprovado em 2024, o documento estabelece orientação para que magistradas e magistrados considerem as desigu",
+      "resumo": "Na véspera do Dia Nacional de Zumbi e da Consciência Negra, o Protocolo para Julgamento com Perspectiva Racial do Conselho Nacional de Justiça (CNJ) completa dois anos nesta quinta-feira (19/11). Aprovado em 2024, o documento estabelece orientação para que magistradas e magistrados considerem as des",
       "publicado_em": "2026-11-19T12:00:00-03:00",
       "dia": "2026-11-19",
       "data_estimada": true,
@@ -1805,9 +1805,9 @@
       "id": "c5945f993973fc47",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Semana da Justiça Restaurativa: Justiça Federal debate sobre humanização e novas possibilidadesl",
+      "titulo": "Semana da Justiça Restaurativa: Justiça Federal debate sobre humanização e novas possibilidades",
       "link": "https://www.cnj.jus.br/semana-da-justica-restaurativa-justica-federal-debate-sobre-humanizacao-e-novas-possibilidadesl/",
-      "resumo": "O Tribunal Regional Federal da 6ª Região (TRF6) realizou, nesta segunda-feira (16/11), a cerimônia de abertura da Semana da Justiça Restaurativa, na sede do Tribunal, em Belo Horizonte. Com o tema “Justiça Restaurativa em Ação: caminhos e possibilidades na Justiça Federal”, a programação reúne magis",
+      "resumo": "O Tribunal Regional Federal da 6ª Região (TRF-6) realizou, nesta segunda-feira (16/11), a cerimônia de abertura da Semana da Justiça Restaurativa, na sede do tribunal, em Belo Horizonte. Com o tema “Justiça Restaurativa em Ação: caminhos e possibilidades na Justiça Federal”, a programação reúne magi",
       "publicado_em": "2026-11-19T12:00:00-03:00",
       "dia": "2026-11-19",
       "data_estimada": true,
@@ -1885,6 +1885,56 @@
         "comenda"
       ],
       "coletado_em": "2026-11-19T16:21:28-03:00"
+    },
+    {
+      "id": "d624ab4958aad256",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ anuncia vencedores do Prêmio Pena Justa de Jornalismo e Comunicação",
+      "link": "https://www.cnj.jus.br/cnj-anuncia-vencedores-do-premio-pena-justa-de-jornalismo-e-comunicacao/",
+      "resumo": "Sete produções que aprofundam o debate sobre o sistema prisional brasileiro são as vencedoras da primeira edição do Prêmio Pena Justa/CNJ de Jornalismo e Comunicação. Selecionados entre mais de 500 trabalhos inscritos, os premiados apresentam histórias, investigações e diferentes perspectivas sobre ",
+      "publicado_em": "2026-11-19T12:00:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-11-19T19:53:38-03:00"
+    },
+    {
+      "id": "dd9fd42fd1cdf74a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova proposta de política para pessoas com altas habilidades",
+      "link": "https://www.camara.leg.br/noticias/1321312-comissao-aprova-proposta-de-politica-para-pessoas-com-altas-habilidades",
+      "resumo": "",
+      "publicado_em": "2026-11-19T19:40:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-19T19:53:38-03:00"
+    },
+    {
+      "id": "7395966dd175d6fb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova proposta que proíbe inclusão do nome de novo cônjuge em anotação de divórcio na certidão de casamento anterior",
+      "link": "https://www.camara.leg.br/noticias/1321382-comissao-aprova-proposta-que-proibe-inclusao-do-nome-de-novo-conjuge-em-anotacao-de-divorcio-na-certidao-de-casamento-anterior",
+      "resumo": "",
+      "publicado_em": "2026-11-19T19:22:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-19T19:53:38-03:00"
     },
     {
       "id": "dcdfcdbfb8be3cd6",
