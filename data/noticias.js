@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-19T16:21:28-03:00",
+  "gerado_em": "2026-11-19T18:54:08-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -283,6 +283,69 @@ window.DADOS = {
       "coletado_em": "2026-11-19T16:21:28-03:00"
     },
     {
+      "id": "cd195079edbabfcc",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Assembleia discute participação de mulheres e pessoas pretas e pardas em chapas da AATSP",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/assembleia-discute-participacao-de-mulheres-e-pessoas-pretas-e-pardas-em-chapas-da-aatsp",
+      "resumo": "",
+      "publicado_em": "2026-11-19T12:00:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "809db9b15016225f",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 divulga plantão de feriado do Dia da Consciência Negra",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-divulga-plantao-de-feriado-do-dia-da-consciencia-negra",
+      "resumo": "TRT-15 divulga plantão de feriado do Dia da Consciência Negra anasiqueira Qui, 19/11/2026 - 18:37 TRT-15 divulga plantão de feriado do Dia da Consciência Negra Conteúdo da Notícia Conforme a Portaria GP-CR nº 16/2025, da Presidência e da Corregedoria Regional, a Justiça do Trabalho da 15ª Região não",
+      "publicado_em": "2026-11-19T18:37:42-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "portaria"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "71fbab6df7174c05",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 recebe Selo Linguagem Simples pelo segundo ano consecutivo",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-recebe-selo-linguagem-simples-pelo-segundo-ano-consecutivo",
+      "resumo": "TRT-15 recebe Selo Linguagem Simples pelo segundo ano consecutivo anasiqueira Qui, 19/11/2026 - 18:28 TRT-15 recebe Selo Linguagem Simples pelo segundo ano consecutivo Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região recebeu, nesta quarta-feira, 18/11, o Selo Linguagem Simples 2026,",
+      "publicado_em": "2026-11-19T18:28:37-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "550aa6633f280301",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Estudantes da FACIC e da FASC visitam sede judicial do TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/estudantes-da-facic-e-da-fasc-visitam-sede-judicial-do-trt-15",
+      "resumo": "Estudantes da FACIC e da FASC visitam sede judicial do TRT-15 anasiqueira Qui, 19/11/2026 - 18:19 Estudantes da FACIC e da FASC visitam sede judicial do TRT-15 Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região recebeu, na tarde desta quarta-feira, 18/11, a visita de 29 estudantes do ",
+      "publicado_em": "2026-11-19T18:19:53-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 36,
+      "tags": [
+        "judicial",
+        "visita"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
       "id": "3979ae7b8e905474",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -362,6 +425,98 @@ window.DADOS = {
       "coletado_em": "2026-11-19T16:21:28-03:00"
     },
     {
+      "id": "53491f22a5ecb5fd",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "APMTJ realiza cerimônia em comemoração ao Dia da Bandeira",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116086&pagina=1",
+      "resumo": "Hasteamento do Pavilhão Nacional no Palácio da Justiça.\n \n\tA Assessoria Policial Militar do Tribunal de Justiça de São Paulo (APMTJ) realizou, hoje (19), no Palácio",
+      "publicado_em": "2026-11-19T12:00:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": true,
+      "score": 30,
+      "tags": [
+        "acao",
+        "comemora"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "1a365fa005f19fda",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Caminhada no bairro da Liberdade valoriza história e protagonismo negro na Capital",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116081&pagina=1",
+      "resumo": "Iniciativa do Museu do TJSP e Memopatri.\n \n\tA Diretoria de Gestão da Memória e Patrimônio Cultural (Memopatri) e o Museu do Tribunal de Justiça de",
+      "publicado_em": "2026-11-19T12:00:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "9fecb11c16346b1a",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Nota do Gabinete do Ministro Alexandre de Moraes",
+      "link": "https://noticias.stf.jus.br/postsnoticias/nota-do-gabinete-do-ministro-alexandre-de-moraes-7/",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:25:45-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "12cc98beddb3a8b5",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF tem maioria a favor de honorários advocatícios em renegociações de dívidas com poder público",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-tem-maioria-a-favor-de-honorarios-advocaticios-em-renegociacoes-de-dividas-com-poder-publico/",
+      "resumo": "Julgamento foi suspenso e será concluído com votos dos ministros Nunes Marques e Gilmar Mendes",
+      "publicado_em": "2026-11-19T18:13:39-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "julgamento",
+        "julga"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "6afb6577862ceb52",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Consif questiona no STF entendimento do TST sobre prazo para ações sobre previdência privada",
+      "link": "https://noticias.stf.jus.br/postsnoticias/consif-questiona-no-stf-entendimento-do-tst-sobre-prazo-para-acoes-sobre-previdencia-privada/",
+      "resumo": "Entidade alega que decisões permitem ajuizar ações indenizatórias relacionadas a contratos de trabalho encerrados há anos ou décadas",
+      "publicado_em": "2026-11-19T17:54:09-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "e0bbe441b7b3096f",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Caso Master: STF mantém prisão preventiva de primo do banqueiro Daniel Vorcaro",
+      "link": "https://noticias.stf.jus.br/postsnoticias/caso-master-stf-mantem-prisao-preventiva-de-primo-do-banqueiro-daniel-vorcaro/",
+      "resumo": "Ministro Edson Fachin também autorizou PF a pedir informações sobre serviços de luxo oferecidos por Daniel Vorcaro a pessoas públicas",
+      "publicado_em": "2026-11-19T16:55:20-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
       "id": "5b762a2a606e26ff",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -427,6 +582,218 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-11-19T16:21:28-03:00"
+    },
+    {
+      "id": "0b7c2eda71eb462c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Desenvolvimento regional, cultura e cidadania contam com novos recursos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/desenvolvimento-regional-cultura-e-cidadania-contam-com-novos-recursos",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:35:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "2fbdcba0497a715f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissões aprovam emendas ao Orçamento de 2027",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/comissoes-aprovam-emendas-ao-orcamento-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:30:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "fd45bf47f4461894",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Congresso homenageia Embratur pelos 60 anos de promoção do turismo brasileiro",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/congresso-homenageia-embratur-pelos-60-anos-de-promocao-do-turismo-brasileiro",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:27:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenageia"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "2f6d8132c0856ad6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Damares defende protocolo nacional para desaparecimento de crianças",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/damares-defende-protocolo-nacional-para-desaparecimento-de-criancas",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:14:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "fc309549abb2fcaf",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Comissões propõem R$ 85,9 bilhões em emendas ao Orçamento de 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/comissoes-propoem-r-85-9-bilhoes-em-emendas-ao-orcamento-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:12:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "5fde537ea97e4731",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Em 2026, Senado registrou maior número de parlamentares negros eleitos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/em-2026-senado-registrou-maior-numero-de-parlamentares-negros-eleitos",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:10:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "5e9c82c266846eca",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Agências reguladoras terão créditos extras de R$ 24,4 milhões",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/agencias-reguladoras-terao-creditos-extras-de-r-24-4-milhoes",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:00:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "adf432d7811592ff",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Leis garantem R$ 714,8 milhões para segurança pública e sistema de Justiça",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/leis-garantem-r-714-8-milhoes-para-seguranca-publica-e-sistema-de-justica",
+      "resumo": "",
+      "publicado_em": "2026-11-19T17:59:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "2035a5463aa4e939",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pesquisa científica e datacenter do Serpro terão mais R$ 48,1 milhões",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/pesquisa-cientifica-e-datacenter-do-serpro-terao-mais-r-48-1-milhoes",
+      "resumo": "",
+      "publicado_em": "2026-11-19T17:39:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "5c6aaa683b006bb7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado Aprova: Ajuste fiscal para 2027",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/11/senado-aprova-ajuste-fiscal-para-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-19T17:36:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "50fef09127796459",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Agora é lei: mudanças no Orçamento incluem Copa Feminina e nomeações",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/agora-e-lei-mudancas-no-orcamento-incluem-copa-feminina-e-nomeacoes",
+      "resumo": "",
+      "publicado_em": "2026-11-19T17:10:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "95920fa1385cc80f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Uso de verba para internet nas escolas públicas terá prazo maior",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/uso-de-verba-para-internet-nas-escolas-publicas-tera-prazo-maior",
+      "resumo": "",
+      "publicado_em": "2026-11-19T16:51:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "cc2179c159ba7320",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Obras em presídios e combate ao crime na Amazônia terão mais recursos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/obras-em-presidios-e-combate-ao-crime-na-amazonia-legal-terao-mais-recursos",
+      "resumo": "",
+      "publicado_em": "2026-11-19T16:49:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "52b1705314be6258",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senadores comemoram assinatura de decreto que regulamenta escala 5x2",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/19/senadores-comemoram-assinatura-de-decreto-que-regulamenta-escala-5x2",
+      "resumo": "",
+      "publicado_em": "2026-11-19T16:26:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "decreto",
+        "regulamenta",
+        "comemora"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
     },
     {
       "id": "328fef868b551ff5",
@@ -737,6 +1104,39 @@ window.DADOS = {
       "coletado_em": "2026-11-19T16:21:28-03:00"
     },
     {
+      "id": "ae66df52225ddb48",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal, CGIBS e CFC vão orientar mais de 25 mil profissionais da contabilidade sobre destaque de CBS/IBS em documentos fiscais",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-cgibs-e-cfc-vao-orientar-mais-de-25-mil-profissionais-da-contabilidade-sobre-destaque-de-cbs-ibs-em-documentos-fiscais",
+      "resumo": "",
+      "publicado_em": "2026-11-19T16:56:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 64,
+      "tags": [
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "f19765b393a08f0f",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Atuação integrada da Alfândega de Viracopos garante entrega de insumos essenciais ao tratamento de idosa",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/atuacao-integrada-da-alfandega-de-viracopos-garante-entrega-de-insumos-essenciais-ao-tratamento-de-idosa",
+      "resumo": "",
+      "publicado_em": "2026-11-19T16:44:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
       "id": "56fa7b94fda3234b",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -749,6 +1149,52 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-19T16:21:28-03:00"
+    },
+    {
+      "id": "93bf9754804244e0",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "'Estamos humanizando o mundo do trabalho', diz Lula ao regulamentar escala 5x2",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/estamos-humanizanso-o-mundo-do-trabalho-diz-lula-ao-regulamentar-o-fim-da-escala-6x1",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:00:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "regulamenta"
+      ],
+      "coletado_em": "2026-11-19T16:21:28-03:00"
+    },
+    {
+      "id": "ecfe39b9459a59f8",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "País tem a maior redução de mortes violentas desde 2019, com destaque para 23 estados",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/reducao-em-23-estados-contribui-para-o-menor-numero-de-mortes-violentas-desde-2019",
+      "resumo": "",
+      "publicado_em": "2026-11-19T17:54:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "455c0c3a99697131",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministério das Cidades entrega 624 moradias do Minha Casa, Minha Vida em Botucatu (SP)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-das-cidades-entrega-624-moradias-do-minha-casa-minha-vida-em-botucatu-sp",
+      "resumo": "",
+      "publicado_em": "2026-11-19T16:41:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
     },
     {
       "id": "da0d2619fccbcf71",
@@ -836,22 +1282,6 @@ window.DADOS = {
       "data_estimada": false,
       "score": 40,
       "tags": [],
-      "coletado_em": "2026-11-19T16:21:28-03:00"
-    },
-    {
-      "id": "93bf9754804244e0",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "'Estamos humanizando o mundo do trabalho', diz Lula ao regulamentar o fim da escala 6x1",
-      "link": "https://agenciagov.ebc.com.br/noticias/202611/estamos-humanizanso-o-mundo-do-trabalho-diz-lula-ao-regulamentar-o-fim-da-escala-6x1",
-      "resumo": "",
-      "publicado_em": "2026-11-19T13:39:00-03:00",
-      "dia": "2026-11-19",
-      "data_estimada": false,
-      "score": 54,
-      "tags": [
-        "regulamenta"
-      ],
       "coletado_em": "2026-11-19T16:21:28-03:00"
     },
     {
@@ -967,6 +1397,23 @@ window.DADOS = {
       "coletado_em": "2026-11-19T16:21:28-03:00"
     },
     {
+      "id": "2de9707b1aadc402",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita, CGIBS e CFC vão orientar sobre destaque de CBS/IBS em documentos fiscais",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-cgibs-e-cfc-vao-orientar-sobre-destaque-de-cbs-ibs-em-documentos-fiscais",
+      "resumo": "",
+      "publicado_em": "2026-11-19T12:00:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": true,
+      "score": 64,
+      "tags": [
+        "ibs",
+        "cbs"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
       "id": "da1d3a2f58a01f94",
       "fonte_id": "cvm",
       "fonte_nome": "CVM",
@@ -983,6 +1430,101 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-19T16:21:28-03:00"
+    },
+    {
+      "id": "a5154df001b02160",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes libera processos da Lei da Dosimetria para julgamento",
+      "link": "https://www.congressoemfoco.com.br/noticia/131752/moraes-libera-processos-da-lei-da-dosimetria-para-julgamento",
+      "resumo": "Quatro ações contra a Lei da Dosimetria terão julgamento virtual em dezembro, com discussão sobre a revisão das penas por atos de 8 de janeiro.",
+      "publicado_em": "2026-11-19T18:33:01-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "b8c616645773db8a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem paga pelo que a inteligência artificial aprende?",
+      "link": "https://www.congressoemfoco.com.br/artigo/131748/quem-paga-pelo-que-a-inteligencia-artificial-aprende",
+      "resumo": "O capítulo de direitos autorais do projeto de lei 2.338/2023 e o risco para bancos e empresas que alimentam essas ferramentas com conteúdo de terceiros.",
+      "publicado_em": "2026-11-19T17:07:58-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "c78d33db7d5c12ca",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes autoriza Bolsonaro a receber visita de ministro do TCU",
+      "link": "https://www.congressoemfoco.com.br/noticia/131747/moraes-autoriza-bolsonaro-a-receber-visita-de-ministro-do-tcu",
+      "resumo": "Ministro Jorge Oliveira, indicado ao TCU pelo próprio Bolsonaro em 2020, poderá visitar o ex-presidente no dia 28.",
+      "publicado_em": "2026-11-19T16:52:06-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "cc965281d0ba1c1e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Donald Trump cochila durante discurso de Xi Jinping na cúpula da APEC",
+      "link": "https://www.congressoemfoco.com.br/noticia/131746/donald-trump-cochila-durante-discurso-de-xi-jinping-na-cupula-da-apec",
+      "resumo": "Vídeo mostra o presidente dos EUA de olhos fechados por cerca de dez segundos. Casa Branca afirma que ele lia papéis.",
+      "publicado_em": "2026-11-19T16:29:16-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "7dee477679aca92f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Van Hattem diz sofrer perseguição no STF por críticas a delegado da PF",
+      "link": "https://www.congressoemfoco.com.br/noticia/131745/van-hattem-diz-sofrer-perseguicao-no-stf-por-criticas-a-delegado-da-pf",
+      "resumo": "Parlamentar reivindica defesa oral em sessão presencial antes de decisão sobre recebimento da denúncia da PGR por discurso na Câmara.",
+      "publicado_em": "2026-11-19T16:23:24-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "2aab7ea9d32992fc",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O luxo dos iPhones em Brasília e a conta paga pelo trabalhador",
+      "link": "https://www.congressoemfoco.com.br/artigo/131743/o-luxo-dos-iphones-em-brasilia-e-a-conta-paga-pelo-trabalhador",
+      "resumo": "Enquanto o cidadão cruza a fronteira para comprar um celular sem impostos extorsivos, senadores, deputados e juízes torram milhões do pagador de impostos em aparelhos de última geração.",
+      "publicado_em": "2026-11-19T15:19:54-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "imposto",
+        "acao"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
     },
     {
       "id": "1a5871457da06701",
@@ -1194,6 +1736,20 @@ window.DADOS = {
       "coletado_em": "2026-11-19T16:21:28-03:00"
     },
     {
+      "id": "cfafe4e538af98b0",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Coaf participa de conferência em Buenos Aires sobre o combate ao financiamento de armas de destruição em massa",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-participa-de-conferencia-em-buenos-aires-sobre-o-combate-ao-financiamento-de-armas-de-destruicao-em-massa",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:52:27-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
       "id": "5295acf7efdd2087",
       "fonte_id": "coaf",
       "fonte_nome": "Coaf",
@@ -1329,6 +1885,104 @@ window.DADOS = {
         "comenda"
       ],
       "coletado_em": "2026-11-19T16:21:28-03:00"
+    },
+    {
+      "id": "dcdfcdbfb8be3cd6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara dos Deputados reconhece boas iniciativas na educação brasileira com Prêmio Darcy Ribeiro",
+      "link": "https://www.camara.leg.br/noticias/1321375-camara-dos-deputados-reconhece-boas-iniciativas-na-educacao-brasileira-com-premio-darcy-ribeiro",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:26:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 34,
+      "tags": [
+        "acao",
+        "premio"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "f0b9c25bcb9cfd02",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova fim de carência para salário-maternidade de três categorias",
+      "link": "https://www.camara.leg.br/noticias/1321151-comissao-aprova-fim-de-carencia-para-salario-maternidade-de-tres-categorias",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:23:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "161131d7320836ea",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova criação de centros de acolhimento de curta permanência para idosos",
+      "link": "https://www.camara.leg.br/noticias/1321363-comissao-aprova-criacao-de-centros-de-acolhimento-de-curta-permanencia-para-idosos",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:20:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "6148ea75ab8cbb23",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Participantes de audiência defendem ratificação de convenção sobre direitos das pessoas idosas",
+      "link": "https://www.camara.leg.br/noticias/1321321-participantes-de-audiencia-defendem-ratificacao-de-convencao-sobre-direitos-das-pessoas-idosas",
+      "resumo": "",
+      "publicado_em": "2026-11-19T17:29:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "b8c1be7432f89512",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova tarifa social de luz para idoso de baixa renda sem exigência de CadÚnico",
+      "link": "https://www.camara.leg.br/noticias/1321208-comissao-aprova-tarifa-social-de-luz-para-idoso-de-baixa-renda-sem-exigencia-de-cadunico",
+      "resumo": "",
+      "publicado_em": "2026-11-19T16:34:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "4371e33e8682c572",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Audiência discute a criação da Comissão Nacional Indígena da Verdade",
+      "link": "https://www.camara.leg.br/noticias/1321051-audiencia-discute-a-criacao-da-comissao-nacional-indigena-da-verdade",
+      "resumo": "",
+      "publicado_em": "2026-11-19T16:24:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
     },
     {
       "id": "30872e470c87dd4a",
@@ -1571,22 +2225,6 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-18T18:39:02-03:00"
-    },
-    {
-      "id": "4cadf109252f7378",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Presidência parabeniza equipe por prêmio nacional em projeto de IA ligado a contratações sustentáveis",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/presidencia-do-trt-2-parabeniza-equipe-por-premio-nacional-em-projeto-de-ia-ligado-a-contratacoes-sustentaveis",
-      "resumo": "",
-      "publicado_em": "2026-11-18T12:00:00-03:00",
-      "dia": "2026-11-18",
-      "data_estimada": true,
-      "score": 28,
-      "tags": [
-        "premio"
-      ],
-      "coletado_em": "2026-11-18T19:50:09-03:00"
     },
     {
       "id": "7bac8506b62c992c",
@@ -3715,6 +4353,20 @@ window.DADOS = {
       "coletado_em": "2026-11-19T16:21:28-03:00"
     },
     {
+      "id": "a8b0663abef21a13",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Selo Linguagem Simples: 74 órgãos do Judiciário recebem reconhecimento",
+      "link": "https://www.cnj.jus.br/selo-linguagem-simples-75-orgaos-do-judiciario-recebem-reconhecimento/",
+      "resumo": "O trabalho que a Justiça tem feito em prol da cidadania, a partir do uso de uma linguagem clara e acessível foi reconhecido nesta quarta-feira (18/11), com a cerimônia de entrega do Selo Linguagem Simples 2026. A honraria, concedida pelo Conselho Nacional de Justiça (CNJ), foi entregue a 74 órgãos.",
+      "publicado_em": "2026-11-18T12:00:00-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
       "id": "dedbc3a2eb657f64",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -4167,6 +4819,22 @@ window.DADOS = {
       "tags": [
         "protecao de dados",
         "aprova"
+      ],
+      "coletado_em": "2026-11-18T19:50:09-03:00"
+    },
+    {
+      "id": "4cadf109252f7378",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Presidência parabeniza equipe por prêmio nacional em projeto de IA ligado a contratações sustentáveis",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/presidencia-do-trt-2-parabeniza-equipe-por-premio-nacional-em-projeto-de-ia-ligado-a-contratacoes-sustentaveis",
+      "resumo": "",
+      "publicado_em": "2026-11-17T12:00:00-03:00",
+      "dia": "2026-11-17",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "premio"
       ],
       "coletado_em": "2026-11-18T19:50:09-03:00"
     },
