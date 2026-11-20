@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-20T15:57:50-03:00",
+  "gerado_em": "2026-11-20T18:36:28-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,9 +154,9 @@
     },
     {
       "id": "pgfn",
-      "status": "ok",
-      "itens": 28,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "senado",
@@ -172,21 +172,21 @@
     },
     {
       "id": "receita_federal",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "fazenda",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "anpd",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@
     },
     {
       "id": "cvm",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "bacen",
@@ -210,13 +210,13 @@
       "id": "coaf",
       "status": "falhou",
       "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "cade",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "cnj",
@@ -228,13 +228,13 @@
       "id": "mjsp",
       "status": "falhou",
       "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "carf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/carf/pt-br/assuntos/novas-noticias"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "governo_federal",
@@ -323,6 +323,20 @@
         "cbs"
       ],
       "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "408498d20623504a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Combate ao crime reduz em 22% os roubos de veículos no Brasil em 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/roubo-de-veiculos-cai-22-no-brasil-e-atinge-menor-numero-de-ocorrencias-desde-2019",
+      "resumo": "",
+      "publicado_em": "2026-11-20T14:31:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T18:36:28-03:00"
     },
     {
       "id": "a183f32df531dade",
@@ -483,6 +497,36 @@
         "acao"
       ],
       "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "d8e26034bf5d31bf",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "21 Dias de Ativismo: CNJ lança campanha com três eixos de combate à violência contra a mulher",
+      "link": "https://www.cnj.jus.br/21-dias-de-ativismo-cnj-lanca-campanha-com-tres-eixos-de-combate-a-violencia-contra-a-mulher/",
+      "resumo": "Nem toda violência deixa marcas visíveis. Algumas começam com o controle, o isolamento, as ameaças e a tentativa de limitar a liberdade das mulheres. Para chamar a atenção para esses sinais e fortalecer a prevenção, o Conselho Nacional de Justiça (CNJ) inicia, nesta sexta-feira (20/11), a mobilizaçã",
+      "publicado_em": "2026-11-20T12:00:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T18:36:28-03:00"
+    },
+    {
+      "id": "f39880376d398cec",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Justiça brasileira recebe mais de 8 mil processos sobre racismo até setembro de 2026",
+      "link": "https://www.cnj.jus.br/justica-brasileira-recebe-mais-de-8-mil-processos-sobre-racismo-ate-setembro-de-2026/",
+      "resumo": "A Justiça brasileira registrou 8.801 novos processos relacionados a crimes de racismo entre janeiro e setembro de 2026, segundo dados do DataJud, do Conselho Nacional de Justiça (CNJ). O número equivale a 83,8% dos 10.499 casos novos registrados em todo o ano de 2025. No mesmo período, o Poder Judic",
+      "publicado_em": "2026-11-20T12:00:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-11-20T18:36:28-03:00"
     },
     {
       "id": "1cd58df8ee35b028",
@@ -2126,6 +2170,20 @@
       "coletado_em": "2026-11-20T15:57:50-03:00"
     },
     {
+      "id": "665fd2ec8983b3eb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Tabata apresenta projeto contra o uso de vapes entre crianças e jovens",
+      "link": "https://www.congressoemfoco.com.br/noticia/131717/tabata-apresenta-projeto-contra-o-uso-de-vapes-entre-criancas-e-jovens",
+      "resumo": "Texto busca reforçar a prevenção e integrar o tratamento da dependência de nicotina aos serviços do SUS.",
+      "publicado_em": "2026-11-19T07:50:07-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T18:36:28-03:00"
+    },
+    {
       "id": "1e3770e173856cef",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2340,6 +2398,38 @@
         "premio"
       ],
       "coletado_em": "2026-11-19T19:53:38-03:00"
+    },
+    {
+      "id": "888aa5fb1d93ee50",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Diagnóstico da Justiça Restaurativa será desenvolvido por instituto de pesquisa paulista",
+      "link": "https://www.cnj.jus.br/diagnostico-da-justica-restaurativa-sera-desenvolvido-por-instituto-de-pesquisa-paulista/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) divulgou o resultado final da avaliação da 8ª edição da série “Justiça Pesquisa”, na categoria “Justiça Restaurativa”. O estudo será desenvolvido pelo Instituto Aburá, de São Paulo. O diagnóstico deverá contribuir para o aprimoramento das práticas restaurativas n",
+      "publicado_em": "2026-11-19T12:00:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-20T18:36:28-03:00"
+    },
+    {
+      "id": "00f543c1c17f0966",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Justiça Restaurativa terá foco em mulheres e meninas entre ações previstas para 2027",
+      "link": "https://www.cnj.jus.br/justica-restaurativa-tera-foco-em-mulheres-e-meninas-entre-acoes-previstas-para-2027/",
+      "resumo": "Ampliar a participação das mulheres, fortalecer o atendimento a meninas e mulheres em situação de vulnerabilidade e conhecer melhor os resultados das práticas desenvolvidas pelos tribunais. Essas são algumas das prioridades do Conselho Nacional de Justiça (CNJ) para uma nova etapa da Política Nacion",
+      "publicado_em": "2026-11-19T12:00:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-20T18:36:28-03:00"
     },
     {
       "id": "dd9fd42fd1cdf74a",
