@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-19T19:53:38-03:00",
+  "gerado_em": "2026-11-19T22:33:26-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -148,9 +148,9 @@ window.DADOS = {
     },
     {
       "id": "tjsp",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: HTTPSConnectionPool(host='www.tjsp.jus.br', port=443): Max retries exceeded with url: /Noticias (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF oc"
+      "status": "ok",
+      "itens": 10,
+      "erro": null
     },
     {
       "id": "pgfn",
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 18,
       "erro": null
     },
     {
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -454,6 +454,73 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "c6e1b3da0feefd52",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF não terá expediente nesta sexta (20), Dia da Consciência Negra",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-nao-tera-expediente-nesta-sexta-20-dia-da-consciencia-negra/",
+      "resumo": "Prazos processuais seguem regras do CPC e do CPP",
+      "publicado_em": "2026-11-19T20:24:20-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-11-19T22:33:26-03:00"
+    },
+    {
+      "id": "5315176e87ca974c",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF tem cinco votos para anular condenação de TV por críticas a policial acusado de homicídio",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-tem-cinco-votos-para-anular-condenacao-de-tv-por-criticas-a-policial-acusado-de-homicidio/",
+      "resumo": "Rádio e Televisão Iguaçu busca reverter decisão que determinou pagamento de indenização de R$ 15 mil por reportagem com críticas ao policial",
+      "publicado_em": "2026-11-19T20:16:41-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 88,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "indenizacao",
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-11-19T22:33:26-03:00"
+    },
+    {
+      "id": "7e4a15e25d35edca",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Presidente do STF recebe representantes da Comissão Interamericana de Direitos Humanos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-recebe-representantes-da-comissao-interamericana-de-direitos-humanos/",
+      "resumo": "Encontro com o presidente Edson Fachin ocorre nesta quinta-feira (19), em Brasília",
+      "publicado_em": "2026-11-19T20:13:23-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-19T22:33:26-03:00"
+    },
+    {
+      "id": "ef713c1e76159fb1",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Relator determina ajustes em plano de médio prazo da União para reestruturação da CVM",
+      "link": "https://noticias.stf.jus.br/postsnoticias/relator-determina-ajustes-em-plano-de-medio-prazo-da-uniao-para-reestruturacao-da-cvm/",
+      "resumo": "Ministro Flávio Dino homologou parcialmente proposta da União e estabeleceu prazo de 20 dias para adequações no orçamento e nas medidas de fiscalização da autarquia",
+      "publicado_em": "2026-11-19T20:07:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-19T22:33:26-03:00"
     },
     {
       "id": "9fecb11c16346b1a",
@@ -1430,6 +1497,39 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-19T16:21:28-03:00"
+    },
+    {
+      "id": "b3053203f8a93d31",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Mauro Benevides publica parecer pela aprovação do ajuste fiscal",
+      "link": "https://www.congressoemfoco.com.br/noticia/131755/mauro-benevides-publica-parecer-pela-aprovacao-do-ajuste-fiscal",
+      "resumo": "Relator recomendou a aprovação integral da versão do Senado e encaminhou parecer acompanhado de pedido de urgência.",
+      "publicado_em": "2026-11-19T20:28:45-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-19T22:33:26-03:00"
+    },
+    {
+      "id": "6650cf73ac92be1e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vereadora em SC afirma que não atirou em Moraes \"porque ia ser presa\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131754/vereadora-em-sc-afirma-que-nao-atirou-em-moraes-porque-ia-ser-presa",
+      "resumo": "Em discurso na Câmara Municipal, vereadora disse que não atirou em Alexandre de Moraes ao visitar o STF por medo de prisão.",
+      "publicado_em": "2026-11-19T19:51:15-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-11-19T22:33:26-03:00"
     },
     {
       "id": "a5154df001b02160",
