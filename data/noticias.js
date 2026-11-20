@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-19T22:33:26-03:00",
+  "gerado_em": "2026-11-20T15:57:50-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -250,6 +250,240 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "6d72b702429bf620",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP condena homem por injúria racial contra porteiro de hospital",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116062&pagina=1",
+      "resumo": "Pena fixada em mais de dois anos de reclusão.\n \n\tA 14ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo condenou homem por",
+      "publicado_em": "2026-11-20T12:00:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "0b9f816a27121fa1",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira os destaques do Plenário Virtual desta semana",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-desta-semana-9/",
+      "resumo": "Sessão virtual começou às 11h desta sexta-feira (20) e vai até 30 de novembro",
+      "publicado_em": "2026-11-20T11:10:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "aec440c7bc114665",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "‘Direito sem juridiquês’: o que são decisões monocráticas e colegiadas?",
+      "link": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-o-que-sao-decisoes-monocraticas-e-colegiadas/",
+      "resumo": "",
+      "publicado_em": "2026-11-20T09:55:13-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "1e253cb15431f4a5",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Dia da Consciência Negra: confira decisões e ações do STF em favor da equidade racial",
+      "link": "https://noticias.stf.jus.br/postsnoticias/dia-da-consciencia-negra-confira-decisoes-e-acoes-do-stf-em-favor-da-equidade-racial/",
+      "resumo": "De políticas de cotas ao combate à intolerância religiosa, decisões do Supremo reforçam a proteção dos direitos da população negra e o enfrentamento do racismo estrutural",
+      "publicado_em": "2026-11-20T09:00:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "d543e22e9603d06b",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal amplia acesso ao Ambiente de Produção Restrita do Piloto da CBS",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-11-20T11:05:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "cbs"
+      ],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "a183f32df531dade",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Novas histórias: a igualdade racial pelo olhar de quem faz o serviço público",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/a-igualdade-racial-pelo-olhar-de-quem-faz-o-servico-publico",
+      "resumo": "",
+      "publicado_em": "2026-11-20T10:29:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "505d24f91dabde7a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil tem 15,8 milhões de pessoas negras à frente do empreendedorismo",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/brasil-tem-15-8-milhoes-de-empreendedores-negros-a-frente-de-pequenos-negocios",
+      "resumo": "",
+      "publicado_em": "2026-11-20T10:15:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "52e2983a19380776",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Consciência Negra e crise climática: como o Brasil busca enfrentar o racismo ambiental",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/consciencia-negra-e-crise-climatica-como-o-brasil-busca-enfrentar-o-racismo-ambiental-nas-cidades",
+      "resumo": "",
+      "publicado_em": "2026-11-20T09:50:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "4a00bd02a005fdea",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pessoas negras somam 45% dos servidores federais contratados nos últimos quatro anos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/pessoas-negras-somam-45-dos-servidores-federais-contratados-nos-ultimos-quatro-anos",
+      "resumo": "",
+      "publicado_em": "2026-11-20T09:27:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "a46142be3efde273",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Desde 2023, Incra consolida 91 títulos de territórios quilombolas e reconhece outros 109",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/avancos-na-regularizacao-de-territorios-quilombolas-ganham-destaque-no-dia-da-consciencia-negra",
+      "resumo": "",
+      "publicado_em": "2026-11-20T05:58:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "4127788a8878656b",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "HU Brasil quer consolidar o conceito e a prática de 'hospitais antirracistas'",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/hospitais-da-hu-brasil-abrem-espacos-para-debate-sobre-representatividade-acoes-afirmativas-e-equidade-nas-instituicoes-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-11-20T04:35:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "22f1eee72c50ee19",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes vota por manter apreensão dos passaportes de Flávio Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/131760/moraes-vota-por-manter-apreensao-dos-passaportes-de-flavio-bolsonaro",
+      "resumo": "Descumprimento da ordem judicial de entrega dos passaportes pesou na decisão de Moraes de manter as restrições de viagem ao senador.",
+      "publicado_em": "2026-11-20T15:04:41-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "decisao",
+        "judicial",
+        "apreensao"
+      ],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "776dcd0906b0c1d0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado italiano pede inquérito sobre cidadania dos irmãos Bolsonaro",
+      "link": "https://www.congressoemfoco.com.br/noticia/131759/deputado-italiano-pede-inquerito-sobre-cidadania-dos-irmaos-bolsonaro",
+      "resumo": "Angelo Bonelli encaminhou denúncia sobre concessão acelerada de passaportes italianos a Flávio Bolsonaro e irmãos.",
+      "publicado_em": "2026-11-20T10:23:50-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "053231cfe0100301",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senador Cleitinho chora durante entrevista ao revelar áudio da mãe",
+      "link": "https://www.congressoemfoco.com.br/noticia/131758/senador-cleitinho-chora-durante-entrevista-ao-revelar-audio-da-mae",
+      "resumo": "Governador eleito de Minas Gerais se emocionou com as lembranças da mãe sobre as dificuldades financeiras enfrentadas pela família.",
+      "publicado_em": "2026-11-20T09:53:12-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "0f04625ef1ef1247",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fachin autoriza retirada de sigilo de André Mendonça no caso Master",
+      "link": "https://www.congressoemfoco.com.br/noticia/131757/fachin-autoriza-retirada-de-sigilo-de-andre-mendonca-no-caso-master",
+      "resumo": "Presidente do STF determinou acesso público à íntegra da petição com referências ao ministro, após renúncia expressa à confidencialidade.",
+      "publicado_em": "2026-11-20T09:24:26-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "1ffac9252385a9b7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "André Mendonça pede publicidade de relatório da PF que cita seu nome",
+      "link": "https://www.congressoemfoco.com.br/noticia/131756/andre-mendonca-pede-publicidade-de-relatorio-da-pf-que-cita-seu-nome",
+      "resumo": "Ministro solicitou a divulgação integral dos documentos relacionados a seu nome, reunidos pela PF em petição sob grau máximo de sigilo.",
+      "publicado_em": "2026-11-20T08:37:19-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
     {
       "id": "1cd58df8ee35b028",
       "fonte_id": "trt2",
@@ -1218,6 +1452,20 @@ window.DADOS = {
       "coletado_em": "2026-11-19T16:21:28-03:00"
     },
     {
+      "id": "5f84436244860d50",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "21 Dias de Ativismo pelo Fim da Violência e do Racismo contra as Mulheres começa nesta sexta (20)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/internet-deve-ser-um-espaco-de-acesso-a-direitos-e-nao-de-ameacas-defende-marcia-lopes-no-lancamento-dos-21-dias-de-ativismo",
+      "resumo": "",
+      "publicado_em": "2026-11-19T23:31:00-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
       "id": "93bf9754804244e0",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1532,6 +1780,20 @@ window.DADOS = {
       "coletado_em": "2026-11-19T22:33:26-03:00"
     },
     {
+      "id": "4063318298b7f75f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Os pioneiros negros que abriram caminho no Congresso brasileiro",
+      "link": "https://www.congressoemfoco.com.br/noticia/131753/os-pioneiros-negros-que-abriram-caminho-no-congresso-brasileiro",
+      "resumo": "Trajetórias de resistência atravessaram o Império e a ditadura até a chegada de lideranças negras à Constituinte de 1988.",
+      "publicado_em": "2026-11-19T18:56:09-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
       "id": "a5154df001b02160",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1641,6 +1903,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-19T16:21:28-03:00"
+    },
+    {
+      "id": "583d2b6273d64a1f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Líder do PT propõe aumento do IR para juros sobre capital próprio",
+      "link": "https://www.congressoemfoco.com.br/noticia/131739/lider-do-pt-propoe-aumento-do-ir-para-juros-sobre-capital-proprio",
+      "resumo": "Texto aumenta em 2,5 pontos percentuais a alíquota cobrada na fonte sobre rendimentos pagos pelas empresas a sócios e acionistas.",
+      "publicado_em": "2026-11-19T13:43:35-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
     },
     {
       "id": "60a278c9d91ed350",
@@ -1754,6 +2030,22 @@ window.DADOS = {
       "coletado_em": "2026-11-19T16:21:28-03:00"
     },
     {
+      "id": "ac9cf7a915e969e3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O racismo brasileiro e a permanência das estruturas de desigualdade",
+      "link": "https://www.congressoemfoco.com.br/artigo/131730/o-racismo-brasileiro-e-a-permanencia-das-estruturas-de-desigualdade",
+      "resumo": "Desigualdades de renda, violência e representação mostram que o enfrentamento ao racismo depende de mudanças nas instituições e políticas públicas.",
+      "publicado_em": "2026-11-19T10:40:48-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
       "id": "c5a2409ec6c936a5",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1768,6 +2060,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-19T16:21:28-03:00"
+    },
+    {
+      "id": "f6a2a65f1138787d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Paim e Benedita: Como duas vozes negras ajudaram a ampliar direitos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131727/paim-e-benedita-como-duas-vozes-negras-ajudaram-a-ampliar-direitos",
+      "resumo": "Vídeos e documentos históricos revelam a atuação dos dois parlamentares contra o racismo e por direitos sociais. Quase 40 anos depois de chegarem a Brasília como constituintes, eles se despedem do Congresso.",
+      "publicado_em": "2026-11-19T10:13:22-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
     },
     {
       "id": "5eca3a917f1a6956",
@@ -1802,6 +2110,22 @@ window.DADOS = {
       "coletado_em": "2026-11-19T16:21:28-03:00"
     },
     {
+      "id": "cb83f29b25a9047e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Proposta limita gastos com shows a 0,5% da receita municipal",
+      "link": "https://www.congressoemfoco.com.br/noticia/131718/proposta-limita-gastos-com-shows-a-0-5-da-receita-municipal",
+      "resumo": "Proposta estabelece teto para gastos com eventos e proíbe despesas em municípios com salários atrasados ou pendências em saúde e educação.",
+      "publicado_em": "2026-11-19T07:52:36-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
       "id": "1e3770e173856cef",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1817,6 +2141,20 @@ window.DADOS = {
         "julga"
       ],
       "coletado_em": "2026-11-19T16:21:28-03:00"
+    },
+    {
+      "id": "5682b027d0af3d9c",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika propõe facilitar acesso à pensão para órfãos do feminicídio",
+      "link": "https://www.congressoemfoco.com.br/noticia/131714/erika-propoe-facilitar-acesso-a-pensao-para-orfaos-do-feminicidio",
+      "resumo": "Texto busca reduzir obstáculos enfrentados por familiares de crianças e adolescentes que perderam as mães para a violência de gênero.",
+      "publicado_em": "2026-11-19T07:21:23-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
     },
     {
       "id": "89d94f602e0737ae",
@@ -3978,6 +4316,22 @@ window.DADOS = {
         "oab"
       ],
       "coletado_em": "2026-11-18T16:14:33-03:00"
+    },
+    {
+      "id": "a7d0df25ea82076a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Conheça as mulheres negras que estarão no Congresso a partir de 2027",
+      "link": "https://www.congressoemfoco.com.br/noticia/131700/conheca-as-mulheres-negras-que-estarao-no-congresso-a-partir-de-2027",
+      "resumo": "Com 109 deputadas federais e 18 senadoras, Congresso registra maior bancada feminina, mas mantém desigualdade racial na representação.",
+      "publicado_em": "2026-11-18T13:27:14-03:00",
+      "dia": "2026-11-18",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
     },
     {
       "id": "b577f8d0b8c60476",
@@ -8653,6 +9007,24 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-16T17:48:48-03:00"
+    },
+    {
+      "id": "b823b72c0d249972",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputado propõe suspender jogadores por violência contra mulheres",
+      "link": "https://www.congressoemfoco.com.br/noticia/131624/deputado-propoe-suspender-jogadores-por-violencia-contra-mulheres",
+      "resumo": "Texto permite sanções disciplinares antes de condenação definitiva, mas exige direito de defesa e decisão fundamentada.",
+      "publicado_em": "2026-11-16T14:31:33-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "decisao",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-20T15:57:50-03:00"
     },
     {
       "id": "f050f3faf3acf726",
@@ -123536,1760 +123908,6 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "d4db17f82cc4c952",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Átrio do Ed. Sede do TRT-2 recebe o nome do desembargador Pedro Paulo Teixeira Manus",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/atrio-do-ed-sede-do-trt-2-recebe-o-nome-do-desembargador-pedro-paulo-teixeira-manus",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "090c6f1b27a2b509",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Justiça do Trabalho informa acesso não autorizado ao DEJT; veja as providências e orientações",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/justica-do-trabalho-informa-acesso-nao-autorizado-ao-dejt",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "09f8e4aa1cc82513",
-      "fonte_id": "trt2",
-      "fonte_nome": "TRT-2",
-      "titulo": "Seminário reúne TRT-2 e trabalhadores do setor rodoviário de cargas",
-      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/seminario-reune-trt-2-e-trabalhadores-do-setor-rodoviario-de-cargas",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 30,
-      "tags": [
-        "seminario"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "dbe16e15cc63c7f3",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Painel aponta tecnologia e saúde mental como novas pautas do sindicalismo",
-      "link": "https://trt15.jus.br/noticia/2026/painel-aponta-tecnologia-e-saude-mental-como-novas-pautas-do-sindicalismo",
-      "resumo": "Painel aponta tecnologia e saúde mental como novas pautas do sindicalismo anasiqueira Sex, 21/08/2026 - 19:14 Painel aponta tecnologia e saúde mental como novas pautas do sindicalismo Conteúdo da Notícia O futuro do sindicalismo passa pela capacidade de representar trabalhadores em relações de traba",
-      "publicado_em": "2026-08-21T19:14:12-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "c8f5ede711af7e85",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Justiça do Trabalho informa acesso indevido ao DEJT",
-      "link": "https://trt15.jus.br/noticia/2026/justica-do-trabalho-informa-acesso-indevido-ao-dejt",
-      "resumo": "Justiça do Trabalho informa acesso indevido ao DEJT anasiqueira Sex, 21/08/2026 - 13:21 Justiça do Trabalho informa acesso indevido ao DEJT Conteúdo da Notícia O Conselho Superior da Justiça do Trabalho (CSJT) e o Tribunal Superior do Trabalho (TST) informam que foi detectado, no dia 19/08/2026, ace",
-      "publicado_em": "2026-08-21T13:21:27-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "3f056c7281480977",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Riscos psicossociais e saúde mental pautam 4º painel do Congresso do TRT-15",
-      "link": "https://trt15.jus.br/noticia/2026/riscos-psicossociais-e-saude-mental-pautam-4o-painel-do-congresso-do-trt-15",
-      "resumo": "Riscos psicossociais e saúde mental pautam 4º painel do Congresso do TRT-15 marianaaassuncao Sex, 21/08/2026 - 12:05 Riscos psicossociais e saúde mental pautam 4º painel do Congresso do TRT-15 Conteúdo da Notícia Com o tema “Meio Ambiente do Trabalho com enfoque na NR-1”, o 4º painel do 26º Congress",
-      "publicado_em": "2026-08-21T12:05:17-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "cc3f327c68b97b95",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Riscos psicossociais e saúde mental pautam quarto painel do Congresso do TRT-15",
-      "link": "https://trt15.jus.br/noticia/2026/riscos-psicossociais-e-saude-mental-pautam-quarto-painel-do-congresso-do-trt-15",
-      "resumo": "Riscos psicossociais e saúde mental pautam quarto painel do Congresso do TRT-15 marianaaassuncao Sex, 21/08/2026 - 12:05 Riscos psicossociais e saúde mental pautam quarto painel do Congresso do TRT-15 Conteúdo da Notícia Com o tema “Meio Ambiente do Trabalho com enfoque na NR-1”, o quarto painel do ",
-      "publicado_em": "2026-08-21T12:05:17-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "2b604a4f80ec3d8c",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "“Decifra-me ou te devoro” é o desafio do terceiro painel, que discute a validade da prova testemunhal",
-      "link": "https://trt15.jus.br/noticia/2026/decifra-me-ou-te-devoro-e-o-desafio-do-terceiro-painel-que-discute-validade-da-prova",
-      "resumo": "“Decifra-me ou te devoro” é o desafio do terceiro painel, que discute a validade da prova testemunhal anasiqueira Sex, 21/08/2026 - 11:14 “Decifra-me ou te devoro” é o desafio do terceiro painel, que discute a validade da prova testemunhal Conteúdo da Notícia O terceiro painel, sob o tema “Prova tes",
-      "publicado_em": "2026-08-21T11:14:06-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "e658839488c91ef8",
-      "fonte_id": "trt15",
-      "fonte_nome": "TRT-15",
-      "titulo": "Admissibilidade do recurso de revista é tema do segundo painel do 26º Congresso do TRT-15",
-      "link": "https://trt15.jus.br/noticia/2026/admissibilidade-do-recurso-de-revista-e-tema-do-segundo-painel-do-26o-congresso-do-trt",
-      "resumo": "Admissibilidade do recurso de revista é tema do segundo painel do 26º Congresso do TRT-15 nelipimenta Sex, 21/08/2026 - 10:15 Admissibilidade do recurso de revista é tema do segundo painel do 26º Congresso do TRT-15 Conteúdo da Notícia “Admissibilidade do recurso de revista e seu julgamento” foi o t",
-      "publicado_em": "2026-08-21T10:15:32-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 70,
-      "tags": [
-        "julgamento",
-        "julga",
-        "recurso"
-      ],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "d6406565e3505fc7",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Município deve regularizar restos mortais retirados de túmulo sem conhecimento da família",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115092&pagina=1",
-      "resumo": "Reparação por danos morais fixada em R$ 15 mil.\n \n\tA 1ª Câmara de Direito Público do Tribunal de Justiça de São Paulo manteve decisão da",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 58,
-      "tags": [
-        "decisao",
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "c65a3b13505946a5",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Cadicrim lança publicação sobre a Lei nº 15.425/26",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115046&pagina=1",
-      "resumo": "Criminalização do exercício ilegal da medicina veterinária.\n \n\tO Centro de Apoio da Seção de Direito Criminal do Tribunal de Justiça de São Paulo (Cadicrim) disponibilizou",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 56,
-      "tags": [
-        "adi",
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "33346cef9245a31c",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Tribunal recebe exposição itinerante “Arte Sacra Para Ver e Sentir”",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115094&pagina=1",
-      "resumo": "Exposição sensorial com réplicas do Museu de Arte Sacra.\n \n\tO Tribunal de Justiça de São Paulo inaugurou, ontem (20), no Palácio da Justiça, a exposição",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 24,
-      "tags": [
-        "exposicao"
-      ],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "f716e1b3685dc033",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "TJSP inicia 3º ciclo de implementação do eproc nesta segunda-feira",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115095&pagina=1",
-      "resumo": "Unidades-piloto: Fazenda Pública, Jefaz e Acidentes do Trabalho.\n \n\tO Tribunal de Justiça de São Paulo inicia, nesta segunda-feira (24), o terceiro ciclo de implementação do",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "dd4887c4f82782e5",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Agenda institucional_TJSP",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115100&pagina=1",
-      "resumo": "Compromissos internos e externos do Poder Judiciário.\n \n\tO presidente do Tribunal de Justiça de São Paulo, desembargador Francisco Eduardo Loureiro, participou, hoje (21), na Universidade",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "56c1f2ce95fc19b8",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Magistradas do TJSP participam de encontro do STF sobre equidade de gênero",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115101&pagina=1",
-      "resumo": "Reunião realizada ontem (20).\n \n\tMagistradas do Tribunal de Justiça de São Paulo estiveram presentes, ontem (20), no I Encontro de Juízas, realizado pelo Supremo Tribunal",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "f5a21934b3d6bff9",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "‘STF Escuta’ debate desafios para proteger crianças e adolescentes no ambiente digital",
-      "link": "https://noticias.stf.jus.br/postsnoticias/stf-escuta-debate-desafios-para-proteger-criancas-e-adolescentes-no-ambiente-digital-2/",
-      "resumo": "Especialistas discutiram apostas on-line, inteligência artificial, predadores digitais, exposição nas redes sociais e os limites do ECA Digital",
-      "publicado_em": "2026-08-21T20:24:03-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 24,
-      "tags": [
-        "exposicao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "11e41bbbb8bd4424",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "STF publica acórdão sobre restrições à compra de terras por empresas brasileiras controladas por estrangeiros",
-      "link": "https://noticias.stf.jus.br/postsnoticias/stf-publica-acordao-sobre-restricoes-a-compra-de-terras-por-empresas-brasileiras-controladas-por-estrangeiros/",
-      "resumo": "DJe desta sexta (21) traz o inteiro teor da decisão do Plenário sobre a matéria",
-      "publicado_em": "2026-08-21T19:14:17-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 62,
-      "tags": [
-        "decisao",
-        "acordao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "d58e2d1f2ad6ad00",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "STF mantém norma que obriga transportador a contratar seguro de carga",
-      "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-norma-que-obriga-transportador-a-contratar-seguro-de-carga/",
-      "resumo": "Por unanimidade, Plenário entendeu que a regra corrige desequilíbrios do modelo anterior e reduz insegurança jurídica",
-      "publicado_em": "2026-08-21T18:54:52-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "817a3fdb7b5d3b77",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "União e Axia Energia fecham acordo de R$ 2,6 bilhões com Piauí por atraso na privatização da Cepisa",
-      "link": "https://noticias.stf.jus.br/postsnoticias/uniao-e-axia-energia-fecham-acordo-de-r-26-bilhoes-com-piaui-por-atraso-na-privatizacao-da-cepisa/",
-      "resumo": "Ministro Luiz Fux homologou acordo que definiu valor e prazos de pagamento da indenização",
-      "publicado_em": "2026-08-21T18:23:47-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 68,
-      "tags": [
-        "indenizacao",
-        "prazo",
-        "acao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "a5555945d11ec416",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "Lei de Sorocaba (SP) que proíbe menores de 18 anos em Parada do Orgulho LGBT+ é questionada no STF",
-      "link": "https://noticias.stf.jus.br/postsnoticias/lei-de-sorocaba-sp-que-proibe-menores-de-18-anos-em-parada-do-orgulho-lgbt-e-questionada-no-stf/",
-      "resumo": "Associações alegam discriminação e invasão da competência da União",
-      "publicado_em": "2026-08-21T16:46:38-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "c2536633634070fa",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "Presidente do STF destaca papel da Corte na transformação do direito de famílias",
-      "link": "https://noticias.stf.jus.br/postsnoticias/presidente-do-stf-destaca-papel-da-corte-na-transformacao-do-direito-de-familias/",
-      "resumo": "Ministro Edson Fachin abriu evento que reuniu representantes da academia e especialistas para discutir o tema",
-      "publicado_em": "2026-08-21T15:17:36-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 56,
-      "tags": [
-        "cade",
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "214cf206666875aa",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "‘Direito sem juridiquês’: entenda o que é súmula vinculante",
-      "link": "https://noticias.stf.jus.br/postsnoticias/direito-sem-juridiques-entenda-o-que-e-sumula-vinculante/",
-      "resumo": "Novo episódio trata desse instrumento jurídico, previsto na Constituição, que deve ser obrigatoriamente observado pelos órgãos do Judiciário e pela administração pública",
-      "publicado_em": "2026-08-21T10:00:48-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 60,
-      "tags": [
-        "sumula",
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "8b867d22259cfccd",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "PECs do fim da escala 6x1 e da segurança pública chegam à CCJ do Senado",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/21/pecs-do-fim-da-escala-6x1-e-da-seguranca-publica-chegam-a-ccj-do-senado",
-      "resumo": "",
-      "publicado_em": "2026-08-21T17:58:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "43a8cefe9c3f79cf",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "Mudança nas regras de exclusividade sobre plantas modificadas volta ao Senado",
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/mudanca-nas-regras-de-exclusividade-sobre-plantas-modificadas-volta-ao-senado",
-      "resumo": "",
-      "publicado_em": "2026-08-21T16:55:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "e646c464a13ab866",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "Morte de Juscelino Kubitschek completa 50 anos",
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/morte-de-juscelino-kubitschek-completa-50-anos",
-      "resumo": "",
-      "publicado_em": "2026-08-21T16:13:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "735bcae43925ca66",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "Proposta agrava penas quando motorista tiver consumido álcool ou drogas",
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/proposta-agrava-penas-quando-motorista-tiver-consumido-alcool-ou-drogas",
-      "resumo": "",
-      "publicado_em": "2026-08-21T16:07:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 20,
-      "tags": [
-        "droga"
-      ],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "e95ea80839f06f15",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "Jovens Senadores e Senadoras aprovam projetos de apoio a migrantes e mulheres",
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/jovens-senadores-e-senadoras-aprovam-projetos-de-apoio-a-migrantes-e-mulheres",
-      "resumo": "",
-      "publicado_em": "2026-08-21T15:46:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 48,
-      "tags": [
-        "aprova"
-      ],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "b0f2e3c80ae628fb",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "Jovem Senador 2026 termina com projetos aprovados e relatos emocionantes",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/21/jovem-senador-2026-termina-com-projetos-aprovados-e-relatos-emocionantes",
-      "resumo": "",
-      "publicado_em": "2026-08-21T15:14:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 56,
-      "tags": [
-        "aprovado",
-        "aprova"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "0c6f0a9cec279452",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "Debatedoras na CDH cobram apoio em casos de implante contraceptivo banido",
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/mulheres-com-implante-contraceptivo-banido-cobram-politica-de-assistencia",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:51:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "1ac5d8399332fc94",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "Mulheres com implante contraceptivo banido pedem política de assistência",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/21/mulheres-com-implante-contraceptivo-banido-pedem-politica-de-assistencia",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:41:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "d2c6151bc181d5e8",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "Treze senadores não disputarão eleições e deixarão a casa em 2027",
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/08/21/senadores-que-nao-disputarao-eleicoes-e-deixarao-a-casa-em-2027-sao-13",
-      "resumo": "",
-      "publicado_em": "2026-08-21T10:26:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "9edd172aa714c27f",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "CDH recebe propostas voltadas ao tratamento de doença pulmonar rara",
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/cdh-recebe-propostas-voltadas-ao-tratamento-de-doenca-pulmonar-rara",
-      "resumo": "",
-      "publicado_em": "2026-08-21T10:04:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "e131cb78a1f82121",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "MEC reconhece excelência do Instituto Legislativo Brasileiro",
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/mec-reconhece-excelencia-do-instituto-legislativo-brasileiro",
-      "resumo": "",
-      "publicado_em": "2026-08-21T09:01:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "b2cbf2e7f218566b",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "Fim da contribuição previdenciária de aposentados será discutido na CDH",
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/fim-da-contribuicao-previdenciaria-de-aposentados-sera-discutido-na-cdh",
-      "resumo": "",
-      "publicado_em": "2026-08-21T09:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "d0ddff2ed8ae8eaf",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "Em outubro, o eleitor vota em dois candidatos ao Senado",
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/08/em-outubro-o-eleitor-vota-em-dois-candidatos-ao-senado",
-      "resumo": "",
-      "publicado_em": "2026-08-21T08:33:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "148eac8b627565d5",
-      "fonte_id": "senado",
-      "fonte_nome": "Senado",
-      "titulo": "IFI: receitas federais aumentaram, mas gastos a longo prazo preocupam",
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/08/ifi-receitas-federais-aumentaram-mas-gastos-a-longo-prazo-preocupam",
-      "resumo": "",
-      "publicado_em": "2026-08-21T08:25:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 52,
-      "tags": [
-        "prazo"
-      ],
-      "coletado_em": "2026-08-21T08:31:31-03:00"
-    },
-    {
-      "id": "01ee248b7cfedbbc",
-      "fonte_id": "mjsp",
-      "fonte_nome": "MJSP",
-      "titulo": "Número de feminicídios cai no Brasil nos primeiros sete meses de 2026",
-      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/numero-de-feminicidios-cai-no-brasil-nos-primeiros-sete-meses-de-2026",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "422f87e880f75cdd",
-      "fonte_id": "mjsp",
-      "fonte_nome": "MJSP",
-      "titulo": "Operação Desarme registra apreensões de armas e prisões no Nordeste",
-      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/operacao-desarme-registra-apreensoes-de-armas-e-prisoes-no-nordeste",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "462c17c694634bef",
-      "fonte_id": "mjsp",
-      "fonte_nome": "MJSP",
-      "titulo": "Forças de segurança apreendem mais de 4,2 toneladas de drogas no Paraná",
-      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/forcas-de-seguranca-apreendem-mais-de-4-2-toneladas-de-drogas-no-parana",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 6,
-      "tags": [
-        "apreende",
-        "droga"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "705c96e3cc1ee3e2",
-      "fonte_id": "mjsp",
-      "fonte_nome": "MJSP",
-      "titulo": "Familiares de pessoas desaparecidas podem doar DNA para auxiliar em buscas",
-      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/familiares-de-pessoas-desaparecidas-podem-doar-dna-para-auxiliar-em-buscas",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "1f4d2d69b9f21361",
-      "fonte_id": "mjsp",
-      "fonte_nome": "MJSP",
-      "titulo": "Senajus acompanha Operação Acolhida e atendimento a refugiados em missão em Roraima",
-      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/senajus-acompanha-operacao-acolhida-e-atendimento-a-refugiados-em-missao-em-roraima",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "da6583b2e950b65b",
-      "fonte_id": "mjsp",
-      "fonte_nome": "MJSP",
-      "titulo": "Conferência de Recuperação de Ativos fortalece integração entre Judiciário e forças policiais no Acre",
-      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias-1/conferencia-de-recuperacao-de-ativos-fortalece-integracao-entre-judiciario-e-forcas-policiais-no-acre",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "3617a8fc85dfb1b6",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Receita Federal abre consulta ao quarto lote de restituição do IRPF 2026 nesta segunda-feira (24)",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/receita-federal-abre-consulta-ao-quarto-lote-de-restituicao-do-irpf-2026-nesta-segunda-feira-24",
-      "resumo": "",
-      "publicado_em": "2026-08-21T15:09:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "77f73a70df860fda",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Dia D de vacinação contra 20 doenças acontece neste sábado (22) em todo o Brasil",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/dia-d-de-vacinacao-contra-20-doencas-acontece-neste-sabado-22-no-parana",
-      "resumo": "",
-      "publicado_em": "2026-08-21T14:35:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "2804678ecae930a1",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Capes abre 4 mil vagas de mestrado para educadores da rede pública; confira",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/formacao-oferece-mais-de-4-mil-vagas-em-mestrado-profissional",
-      "resumo": "",
-      "publicado_em": "2026-08-21T11:52:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "d2fbee50e88d6c6f",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Brasil avança em infraestrutura própria para IA com supercomputador e nuvem nacional",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/brasil-avanca-em-infraestrutura-propria-para-inteligencia-artificial-com-supercomputacao-e-nuvem-nacional",
-      "resumo": "",
-      "publicado_em": "2026-08-21T11:25:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "38707a4ee8db3b8f",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "ECA Digital: conheça as regras de proteção de crianças e adolescentes no ambiente online",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/eca-digital-conheca-as-regras-de-protecao-de-criancas-e-adolescentes-no-ambiente-online",
-      "resumo": "",
-      "publicado_em": "2026-08-21T10:59:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "ba715927f70b31da",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Resultados do Ideb orientam ações nas redes de ensino com a estratégia Brasil Aprende+",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/resultados-do-ideb-orientam-acoes-nas-redes-de-ensino",
-      "resumo": "",
-      "publicado_em": "2026-08-21T09:13:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "98ed7163ff142319",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Dia Nacional da Habitação: conheça os direitos das mulheres no Minha Casa, Minha Vida",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/dia-nacional-da-habitacao-conheca-os-direitos-das-mulheres-no-minha-casa-minha-vida",
-      "resumo": "",
-      "publicado_em": "2026-08-21T08:30:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "2e206252e2239882",
-      "fonte_id": "fazenda",
-      "fonte_nome": "Ministério da Fazenda",
-      "titulo": "Evento no STF debate consensualidade na solução de contenciosos tributários",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/evento-no-stf-debate-consensualidade-na-solucao-de-contenciosos-tributarios",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 52,
-      "tags": [
-        "tributario"
-      ],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "4002b4de6a64f73b",
-      "fonte_id": "fazenda",
-      "fonte_nome": "Ministério da Fazenda",
-      "titulo": "Sistema e-Editais é reconhecido como plataforma oficial de publicações da Receita Federal",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/sistema-e-editais-e-reconhecido-como-plataforma-oficial-de-publicacoes-da-receita-federal",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "7239d5815b537cc8",
-      "fonte_id": "fazenda",
-      "fonte_nome": "Ministério da Fazenda",
-      "titulo": "Receita Federal abre consulta ao quarto lote de restituição do IRPF 2026 nesta segunda-feira (24/8)",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/receita-federal-abre-consulta-ao-quarto-lote-de-restituicao-do-irpf-2026-nesta-segunda-feira-24",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "16f1044ab33fdb61",
-      "fonte_id": "fazenda",
-      "fonte_nome": "Ministério da Fazenda",
-      "titulo": "Ministério da Fazenda e Enap firmam parceria para impulsionar lideranças femininas no setor financeiro",
-      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/agosto/ministerio-da-fazenda-e-enap-firmam-parceria-para-impulsionar-liderancas-femininas-no-setor-financeiro",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "5213cd2317d2ca12",
-      "fonte_id": "cvm",
-      "fonte_nome": "CVM",
-      "titulo": "Área técnica da CVM confirma ampliação da lista de mercados admitidos em parcerias com intermediários estrangeiros",
-      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/area-tecnica-da-cvm-confirma-ampliacao-da-lista-de-mercados-admitidos-em-parcerias-com-intermediarios-estrangeiros",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-09-08T11:12:24-03:00"
-    },
-    {
-      "id": "96b6349c7182a4fb",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Gilmar libera julgamento de ação sobre regras da Lei da Ficha Limpa",
-      "link": "https://www.congressoemfoco.com.br/noticia/121561/gilmar-libera-julgamento-de-acao-sobre-regras-da-lei-da-ficha-limpa",
-      "resumo": "Julgamento pode redefinir prazos de inelegibilidade e afetar candidaturas já registradas para as eleições de outubro.",
-      "publicado_em": "2026-08-21T16:42:43-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 80,
-      "tags": [
-        "julgamento",
-        "julga",
-        "prazo",
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "6e3a1fecef2013ba",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Carlos Henrique Gaguim é eleito melhor deputado do Tocantins",
-      "link": "https://www.congressoemfoco.com.br/noticia/121558/carlos-henrique-gaguim-e-eleito-melhor-deputado-do-tocantins",
-      "resumo": "Desde 2015, atua como deputado federal e atualmente cumpre o terceiro mandato consecutivo.",
-      "publicado_em": "2026-08-21T16:26:43-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-26T08:34:10-03:00"
-    },
-    {
-      "id": "537304e63c02316d",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Julia Zanatta é agraciada com prêmio de melhor deputada de SC",
-      "link": "https://www.congressoemfoco.com.br/noticia/121556/julia-zanatta-e-agraciada-com-premio-de-melhor-deputada-de-sc",
-      "resumo": "Parlamentar está em primeiro mandato, com pautas ligadas ao conservadorismo.",
-      "publicado_em": "2026-08-21T16:11:19-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 28,
-      "tags": [
-        "premio"
-      ],
-      "coletado_em": "2026-08-26T08:34:10-03:00"
-    },
-    {
-      "id": "deb8d69ffdfc9ce9",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Moraes autoriza retorno de visitas de Carlos e Jair Renan a Bolsonaro",
-      "link": "https://www.congressoemfoco.com.br/noticia/121553/moraes-autoriza-retorno-de-visitas-de-carlos-e-jair-renan-a-bolsonaro",
-      "resumo": "Decisão decorre do fim do prazo de 30 dias da suspensão inicial, determinada após divulgação de carta do ex-presidente.",
-      "publicado_em": "2026-08-21T15:46:28-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 58,
-      "tags": [
-        "decisao",
-        "prazo",
-        "acao",
-        "visita"
-      ],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "7a64d38e76b0cdb6",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Benedita da Silva é eleita melhor deputada federal do Rio de Janeiro",
-      "link": "https://www.congressoemfoco.com.br/noticia/121552/benedita-da-silva-e-eleita-melhor-deputada-federal-do-rio-de-janeiro",
-      "resumo": "Figura tradicional da Câmara, parlamentar é pioneira na liderança de mulheres negras.",
-      "publicado_em": "2026-08-21T15:33:22-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 50,
-      "tags": [
-        "adi"
-      ],
-      "coletado_em": "2026-08-26T08:34:10-03:00"
-    },
-    {
-      "id": "47556657ab10aadc",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "TRE-SP libera divulgação de vídeo que retrata Tarcísio como \"Chucky\"",
-      "link": "https://www.congressoemfoco.com.br/noticia/121551/tre-sp-libera-divulgacao-de-video-que-retrata-tarcisio-como-chucky",
-      "resumo": "Corte acatou recurso contra decisão que havia retirado das redes sociais um vídeo equiparando o governador ao boneco de filme de terror.",
-      "publicado_em": "2026-08-21T15:26:29-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 66,
-      "tags": [
-        "decisao",
-        "recurso",
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "48d70cd12345297b",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Júri popular elege Gleisi Hoffmann melhor deputada federal do Paraná",
-      "link": "https://www.congressoemfoco.com.br/noticia/121550/juri-popular-elege-gleisi-hoffmann-melhor-deputada-federal-do-parana",
-      "resumo": "Como parlamentar, participou de debates relacionados à economia, às políticas sociais e aos direitos dos trabalhadores.",
-      "publicado_em": "2026-08-21T15:17:06-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-26T08:34:10-03:00"
-    },
-    {
-      "id": "0f26a9050b9721e8",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Ibrachina e Ibrawork apoiam Prêmio Congresso em Foco 2026",
-      "link": "https://www.congressoemfoco.com.br/noticia/121549/ibrachina-e-ibrawork-apoiam-premio-congresso-em-foco-2026",
-      "resumo": "Instituições destacam papel do Parlamento no desenvolvimento do país e na construção de pontes entre sociedade, academia e iniciativa privada.",
-      "publicado_em": "2026-08-21T15:08:16-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 38,
-      "tags": [
-        "cade",
-        "premio"
-      ],
-      "coletado_em": "2026-08-24T12:46:32-03:00"
-    },
-    {
-      "id": "b153c7741c90ef6c",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Fernanda Melchionna conquista prêmio de melhor deputada do RS",
-      "link": "https://www.congressoemfoco.com.br/noticia/121547/fernanda-melchionna-conquista-premio-de-melhor-deputada-do-rs",
-      "resumo": "Em segundo mandato, é ativa  em pautas como educação, moradia, transporte público, direitos das mulheres e defesa dos serviços públicos.",
-      "publicado_em": "2026-08-21T14:48:31-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 44,
-      "tags": [
-        "adi",
-        "acao",
-        "premio"
-      ],
-      "coletado_em": "2026-08-26T08:34:10-03:00"
-    },
-    {
-      "id": "cacbc229f63264b4",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "TSE mantém elegibilidade provisória de Crivella em campanha ao Senado",
-      "link": "https://www.congressoemfoco.com.br/noticia/121546/tse-mantem-elegibilidade-provisoria-de-crivella-em-campanha-ao-senado",
-      "resumo": "Marcelo Crivella segue apto para concorrer ao Senado enquanto aguarda análise do mérito sobre condenação no TRE-RJ.",
-      "publicado_em": "2026-08-21T14:41:25-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 56,
-      "tags": [
-        "condenacao",
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "51ab73bf620d70a1",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Motoristas poderão consultar pedágios eletrônicos pela CNH do Brasil",
-      "link": "https://www.congressoemfoco.com.br/noticia/121544/motoristas-poderao-consultar-pedagios-eletronicos-pela-cnh-do-brasil",
-      "resumo": "Nova função permitirá consultar passagens em free flow, identificar concessionárias e acessar canais para pagamento.",
-      "publicado_em": "2026-08-21T14:36:20-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "a926028b9f9c4ec3",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "88% dos deputados federais de SE buscam reeleição entre 139 candidatos",
-      "link": "https://www.congressoemfoco.com.br/noticia/121541/88-dos-deputados-federais-de-se-buscam-reeleicao-entre-139-candidatos",
-      "resumo": "Menor Estado no país, Sergipe possui oito vagas na Câmara dos Deputados.",
-      "publicado_em": "2026-08-21T14:08:12-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "96d331edce65196b",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Todos os deputados federais do RN tentam reeleição entre 111 nomes",
-      "link": "https://www.congressoemfoco.com.br/noticia/121540/todos-os-deputados-federais-do-rn-tentam-reeleicao-entre-111-nomes",
-      "resumo": "Rio Grande do Norte possui oito vagas na Câmara dos Deputados.",
-      "publicado_em": "2026-08-21T13:53:31-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "2dba9b25001b0413",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "90% dos deputados federais do PI buscam reeleição entre 162 candidatos",
-      "link": "https://www.congressoemfoco.com.br/noticia/121539/90-dos-deputados-federais-do-pi-buscam-reeleicao-entre-162-candidatos",
-      "resumo": "Piauí possui dez vagas na Câmara dos Deputados.",
-      "publicado_em": "2026-08-21T13:36:51-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "86267c42a8cd820e",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Lula e Trump discutem tarifas e combinam nova rodada de negociações",
-      "link": "https://www.congressoemfoco.com.br/noticia/121538/lula-e-trump-discutem-tarifas-e-combinam-nova-rodada-de-negociacoes",
-      "resumo": "Presidente brasileiro contestou as justificativas dos EUA para as sobretaxas, e Trump propôs que equipes dos dois países voltem a se reunir. Conversa por telefone de 1h20 também abordou facções criminosas, Ucrânia e Irã.",
-      "publicado_em": "2026-08-21T13:22:56-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "026f2c101bad1109",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Pernambuco tem 307 candidatos à Câmara; 18 tentam reeleição",
-      "link": "https://www.congressoemfoco.com.br/noticia/121537/pernambuco-tem-307-candidatos-a-camara-18-tentam-reeleicao",
-      "resumo": "O Estado de Pernambuco possui 25 vagas na Câmara dos Deputados.",
-      "publicado_em": "2026-08-21T13:22:24-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "a5eb8876eef7bde0",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "A ONU e os desafios da governança global da inteligência artificial",
-      "link": "https://www.congressoemfoco.com.br/artigo/121536/a-onu-e-os-desafios-da-governanca-global-da-inteligencia-artificial",
-      "resumo": "Debate na ONU reforça necessidade de cooperação internacional para limitar riscos, garantir direitos e evitar concentração de poder tecnológico.",
-      "publicado_em": "2026-08-21T12:47:40-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-24T15:22:08-03:00"
-    },
-    {
-      "id": "85255a89d254be2d",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Reeleições marcam disputa de 105 candidatos à Câmara em Roraima",
-      "link": "https://www.congressoemfoco.com.br/noticia/121535/reeleicoes-marcam-disputa-de-105-candidatos-a-camara-em-roraima",
-      "resumo": "Duas cadeiras já não terão seus atuais titulares, que trocaram a Câmara pela disputa ao Senado.",
-      "publicado_em": "2026-08-21T12:31:53-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 50,
-      "tags": [
-        "cade"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "6f43e39d808b7012",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Mato Grosso do Sul tem 122 candidatos a Câmara; 7 buscam reeleição",
-      "link": "https://www.congressoemfoco.com.br/noticia/121534/mato-grosso-do-sul-tem-122-candidatos-a-camara-7-buscam-reeleicao",
-      "resumo": "Candidatos a deputado federal do Estado estão distribuídos em 19 partidos.",
-      "publicado_em": "2026-08-21T12:31:37-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "4da34d7998802ff4",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Lula pede \"limpeza no Congresso\" a eleitores em ato de campanha no RN",
-      "link": "https://www.congressoemfoco.com.br/noticia/121533/lula-pede-limpeza-no-congresso-a-eleitores-em-ato-de-campanha-no-rn",
-      "resumo": "Presidente citou fim da escala 6x1 e MP da Taxa das Blusinhas como pautas que seriam impulsionadas por uma bancada favorável.",
-      "publicado_em": "2026-08-21T12:12:44-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "9d8842d7cc5a8b0e",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "A IA levou a tecnologia para fora da TI; e o contrato de trabalho?",
-      "link": "https://www.congressoemfoco.com.br/artigo/121532/a-ia-levou-a-tecnologia-para-fora-da-ti-e-o-contrato-de-trabalho",
-      "resumo": "A inteligência artificial permite que profissionais de qualquer área desenvolvam automações e sistemas antes restritos às equipes técnicas. Sem regras claras, ganhos de produtividade podem se transformar em disputas sobre função, remuneração, direitos sobre as criações e passivo trabalhista.",
-      "publicado_em": "2026-08-21T12:09:53-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 56,
-      "tags": [
-        "trabalhista",
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "7966a7fadff2417f",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "83% dos deputados federais do PR buscam reeleição entre 419 candidatos",
-      "link": "https://www.congressoemfoco.com.br/noticia/121531/83-dos-deputados-federais-do-pr-buscam-reeleicao-entre-419-candidatos",
-      "resumo": "Maior colégio eleitoral do Sul, Paraná possui 30 vagas na Câmara dos Deputados.",
-      "publicado_em": "2026-08-21T11:50:50-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "873641e0bb729024",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Flávio reclama de ataques da centro-direita: \"estou sozinho de novo\"",
-      "link": "https://www.congressoemfoco.com.br/noticia/121530/flavio-reclama-de-ataques-da-centro-direita--estou-sozinho-de-novo",
-      "resumo": "Presidenciável reclama da postura de concorrentes da centro-direita e cita falta de unidade contra o PT.",
-      "publicado_em": "2026-08-21T11:46:24-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "12262e01a6885060",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Missão aciona STF contra licença remunerada em mandato sindical",
-      "link": "https://www.congressoemfoco.com.br/noticia/121529/missao-aciona-stf-contra-licenca-remunerada-em-mandato-sindical",
-      "resumo": "Partido defende que salário de diretores sindicais seja pago pela própria entidade, e não pelos governos estaduais.",
-      "publicado_em": "2026-08-21T11:18:48-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "8634522a3c31260c",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Número de candidatos à Câmara  em Rondônia cai e chega a 131 em 2026",
-      "link": "https://www.congressoemfoco.com.br/noticia/121528/numero-de-candidatos-a-camara-em-rondonia-cai-e-chega-a-131-em-2026",
-      "resumo": "Pelo menos dois novos nomes representarão Rondônia na Câmara a partir de 2027.",
-      "publicado_em": "2026-08-21T11:16:24-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "ad4d5d88021123b1",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Mendonça manda PF preservar jornalistas e sigilo de fonte em apuração",
-      "link": "https://www.congressoemfoco.com.br/noticia/121527/mendonca-manda-pf-preservar-jornalistas-e-sigilo-de-fonte-em-apuracao",
-      "resumo": "Manifestação ocorre poucos dias depois de uma controvérsia no próprio Supremo envolvendo a quebra de sigilo do jornalista maranhense Luís Pablo.",
-      "publicado_em": "2026-08-21T11:04:43-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "219ac113bd5f0dd4",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Estamos vendo o futuro ficar cada dia mais distante",
-      "link": "https://www.congressoemfoco.com.br/artigo/121526/estamos-vendo-o-futuro-ficar-cada-dia-mais-distante",
-      "resumo": "Desinteresse dos jovens pelos estudos, avanço de modelos educacionais controversos e falta de investimento são obstáculos ao desenvolvimento do país.",
-      "publicado_em": "2026-08-21T11:04:21-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "fc57132cb41b1edf",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Militar pode se candidatar a cargo político?",
-      "link": "https://www.congressoemfoco.com.br/artigo/121525/militar-pode-se-candidatar-a-cargo-politico",
-      "resumo": "Tempo de serviço e situação funcional determinam as regras de afastamento e os efeitos de uma candidatura sobre a carreira.",
-      "publicado_em": "2026-08-21T10:52:59-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "edb4e2a15e63315a",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Mendonça manda apurar vazamento de dados em inquérito contra Lulinha",
-      "link": "https://www.congressoemfoco.com.br/noticia/121524/mendonca-manda-apurar-vazamento-de-dados-em-inquerito-contra-lulinha",
-      "resumo": "Investigação ocorre no âmbito do inquérito já aberto para investigar vazamentos da Operação Sem Desconto.",
-      "publicado_em": "2026-08-21T10:49:48-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "69e60bd60b0a482e",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Com 260 candidatos, Pará terá mais de 15 nomes por vaga na Câmara",
-      "link": "https://www.congressoemfoco.com.br/noticia/121523/com-260-candidatos-para-tera-mais-de-15-nomes-por-vaga-na-camara",
-      "resumo": "Mudanças partidárias redesenharam a bancada paraense antes da eleição.",
-      "publicado_em": "2026-08-21T10:41:56-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "5d862a774f21496b",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Santa Catarina tem 230 candidatos à Câmara; 14 buscam reeleição",
-      "link": "https://www.congressoemfoco.com.br/noticia/121522/santa-catarina-tem-230-candidatos-a-camara-14-buscam-reeleicao",
-      "resumo": "Santa Catarina possui 16 vagas na Câmara dos Deputados.",
-      "publicado_em": "2026-08-21T10:40:47-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "b1d6956811db8695",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Em meio a 254 candidatos, 15 deputados federais de GO tentam reeleição",
-      "link": "https://www.congressoemfoco.com.br/noticia/121521/em-meio-a-254-candidatos-15-deputados-federais-de-go-tentam-reeleicao",
-      "resumo": "Bancada do Estado tem 17 vagas na Câmara, maioria dos partidos chegam ao limite de 18 candidatos.",
-      "publicado_em": "2026-08-21T10:37:23-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "5ed780a8a638d4f0",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Nas eleições, é possível enganar o eleitor dizendo apenas a verdade",
-      "link": "https://www.congressoemfoco.com.br/coluna/121519/nas-eleicoes-e-possivel-enganar-o-eleitor-dizendo-apenas-a-verdade",
-      "resumo": "Informações verdadeiras, quando selecionadas ou apresentadas fora de contexto, podem induzir o público a conclusões falsas.",
-      "publicado_em": "2026-08-21T10:23:24-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "eca04117db558b5c",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "84% dos deputados federais do RS buscam reeleição entre 455 candidatos",
-      "link": "https://www.congressoemfoco.com.br/noticia/121518/84-dos-deputados-federais-do-rs-buscam-reeleicao-entre-455-candidatos",
-      "resumo": "Rio Grande do Sul possui 31 vagas na Câmara dos Deputados, a maioria com planos de permanecer no cargo.",
-      "publicado_em": "2026-08-21T10:21:29-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "2dae3c9e8a8c3bd5",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Com 157 candidatos, DF tem maior competitividade por vagas a Câmara",
-      "link": "https://www.congressoemfoco.com.br/noticia/121517/com-157-candidatos-df-tem-maior-competitividade-por-vagas-a-camara",
-      "resumo": "Seis dos oito parlamentares em exercício buscam reeleição, enquanto duas tentam vaga no Senado.",
-      "publicado_em": "2026-08-21T10:06:26-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "9b0a5be7230a5f2d",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Amazonas tem 137 candidatos em disputa por oito vagas na Câmara",
-      "link": "https://www.congressoemfoco.com.br/noticia/121516/amazonas-tem-137-candidatos-em-disputa-por-oito-vagas-na-camara",
-      "resumo": "Candidaturas femininas superam 30%, mas bancada atual é formada só por homens.",
-      "publicado_em": "2026-08-21T09:48:37-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "4a9ac99baf937405",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Manoel Gomes propõe salário de R$ 2,5 mil e \"Bolsa Caneta Azul\"",
-      "link": "https://www.congressoemfoco.com.br/noticia/121515/manoel-gomes-propoe-salario-de-r-2-5-mil-e-bolsa-caneta-azul",
-      "resumo": "O cantor e candidato a deputado federal também defendeu o fim da escala 6x1 em vídeo publicado nas redes sociais.",
-      "publicado_em": "2026-08-21T09:32:32-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "079bfd7e5b85d3d9",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Doação de sangue terá novas regras para tatuagem, câncer e Ozempic",
-      "link": "https://www.congressoemfoco.com.br/noticia/121514/doacao-de-sangue-tera-novas-regras-para-tatuagem-cancer-e-ozempic",
-      "resumo": "Prazo após tatuagem poderá cair para sete dias; mudanças também alcançam pessoas com mais de 70 anos e quem teve tuberculose.",
-      "publicado_em": "2026-08-21T09:12:34-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 72,
-      "tags": [
-        "novas regras",
-        "prazo",
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "380ee8208f6a3e49",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Dois votos, 54 vagas: Veja as disputas pelo Senado em todo o país",
-      "link": "https://www.congressoemfoco.com.br/noticia/121512/dois-votos-54-vagas-veja-as-disputas-pelo-senado-em-todo-o-pais",
-      "resumo": "Eleitores escolherão dois senadores por unidade da Federação em outubro; corrida reúne atuais congressistas, ex-governadores, ministros, primeiras-damas e nomes que trocaram de estado para tentar uma vaga.",
-      "publicado_em": "2026-08-21T08:48:24-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "e5eae11605d21a60",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Alagoas tem 108 candidatos à Câmara; sete deputados buscam reeleição",
-      "link": "https://www.congressoemfoco.com.br/noticia/121511/alagoas-tem-108-candidatos-a-camara-sete-deputados-buscam-reeleicao",
-      "resumo": "Ex-presidente da Câmara disputa o Senado, enquanto Alfredo Gaspar concorre a vice-presidente. Bancada terá ao menos dois novos nomes em 2027. Veja lista completa de candidatos a deputado federal pelo Estado.",
-      "publicado_em": "2026-08-21T08:46:31-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "e36619e244447f5c",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Maranhão tem 272 candidatos à Câmara; 14 deputados tentam a reeleição",
-      "link": "https://www.congressoemfoco.com.br/noticia/121510/maranhao-tem-272-candidatos-a-camara-14-deputados-tentam-a-reeleicao",
-      "resumo": "André Fufuca e Roseana Sarney concorrem ao Senado, Detinha busca vaga na Assembleia e Josimar Maranhãozinho está inelegível.",
-      "publicado_em": "2026-08-21T08:36:05-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "2def57000adb6d33",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Ceará tem 291 candidatos à Câmara e 19 deputados buscam reeleição",
-      "link": "https://www.congressoemfoco.com.br/noticia/121509/ceara-tem-291-candidatos-a-camara-e-19-deputados-buscam-reeleicao",
-      "resumo": "Luizianne Lins disputa o Senado, Júnior Mano será suplente de Cid Gomes e Eunício Oliveira desistiu de disputar as eleições deste ano. Veja a lista completa dos candidatos pelo Estado.",
-      "publicado_em": "2026-08-21T08:19:10-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "f6502cf6a43484d5",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Bahia: 95% dos deputados federais tentam a reeleição para a Câmara",
-      "link": "https://www.congressoemfoco.com.br/noticia/121508/bahia-95-dos-deputados-federais-tentam-a-reeleicao-para-a-camara",
-      "resumo": "Estado tem uma das maiores taxas de recandidatura do país; apenas dois integrantes da bancada atual ficaram fora da disputa por novo mandato. Veja lista com os mais de 500 candidatos a deputado federal pela Bahia.",
-      "publicado_em": "2026-08-21T08:10:34-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "991958d7d40a24c2",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Lulinha aciona TSE por vídeo de IA de Flávio o ligando a roubo do INSS",
-      "link": "https://www.congressoemfoco.com.br/noticia/121507/lulinha-aciona-tse-por-video-de-ia-de-flavio-o-ligando-a-roubo-do-inss",
-      "resumo": "Ação contra Flávio se soma a processo movido contra Zema por conteúdo semelhante.",
-      "publicado_em": "2026-08-21T08:10:10-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 52,
-      "tags": [
-        "processo",
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "9b758fbc4f0db0c6",
-      "fonte_id": "congresso_em_foco",
-      "fonte_nome": "Congresso em Foco",
-      "titulo": "Lula marca reunião com Motta e Alcolumbre sobre taxa das blusinhas",
-      "link": "https://www.congressoemfoco.com.br/noticia/121502/lula-marca-reuniao-com-motta-e-alcolumbre-sobre-taxa-das-blusinhas",
-      "resumo": "Presidente se reúne na quarta-feira (26) com os presidentes da Câmara e do Senado para discutir a MP que permite zerar o imposto de importação sobre compras internacionais de até US$ 50.",
-      "publicado_em": "2026-08-21T07:20:58-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 56,
-      "tags": [
-        "imposto",
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T08:31:31-03:00"
-    },
-    {
-      "id": "d9bccc578a723f3b",
-      "fonte_id": "cnj",
-      "fonte_nome": "CNJ",
-      "titulo": "Observatório de Causas de Grande Repercussão faz reunião para debater casos no Pará",
-      "link": "https://www.cnj.jus.br/observatorio-de-causas-de-grande-repercussao-faz-reuniao-para-debater-casos-no-para/",
-      "resumo": "O Observatório de Causas de Grande Repercussão (OCGR) do Conselho Nacional de Justiça (CNJ) esteve, nesta quinta-feira (21), reunido no estado no Pará para alinhar estratégias e monitorar processos judiciais de grande impacto, incluindo questões ambientais, direitos indígenas e segurança pública. O ",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "processo"
-      ],
-      "coletado_em": "2026-08-21T12:40:08-03:00"
-    },
-    {
-      "id": "71f8077a2570b0c3",
-      "fonte_id": "cnj",
-      "fonte_nome": "CNJ",
-      "titulo": "Carta de Teresina aponta avanços na minuta de resolução do CNJ sobre precatórios",
-      "link": "https://www.cnj.jus.br/carta-de-teresina-aponta-avancos-na-minuta-de-resolucao-do-cnj-sobre-precatorios/",
-      "resumo": "Reunidos em Teresina durante o 23º Encontro da Câmara Nacional de Gestores de Precatórios, magistrados de todo o país reforçaram, por meio da Carta de Teresina, o compromisso com a modernização da gestão dos precatórios e com a construção da nova regulamentação nacional conduzida pelo Conselho Nacio",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 82,
-      "tags": [
-        "resolucao",
-        "regulamenta",
-        "precatorio",
-        "acao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "e81d291c98d991de",
-      "fonte_id": "cnj",
-      "fonte_nome": "CNJ",
-      "titulo": "Ação promove simulação de votação em unidades socioeducativas de João Pessoa (PB)",
-      "link": "https://www.cnj.jus.br/acao-promove-simulacao-de-votacao-em-unidades-socioeducativas-de-joao-pessoa-pb/",
-      "resumo": "Atividades de educação política estão sendo realizadas nas unidades socioeducativas da Paraíba. Os trabalhos tiveram início nesta terça e quarta-feira (18 e 19/8), com ações na Semiliberdade, no Centro de Atendimento Socioeducativo Rita Gadelha, no Centro Educacional do Adolescente (CEA/JP) e no Cen",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "783debf78c9bedb2",
-      "fonte_id": "cnj",
-      "fonte_nome": "CNJ",
-      "titulo": "Tribunais debatem prioridades da Justiça em 2ª Preparatória para Encontro Nacional do Judiciário",
-      "link": "https://www.cnj.jus.br/tribunais-debatem-prioridades-da-justica-em-2a-preparatoria-para-encontro-nacional-do-judiciario/",
-      "resumo": "O Conselho Nacional de Justiça (CNJ) realizará, na segunda-feira (24/8), a 2ª Reunião Preparatória para o 20º Encontro Nacional do Poder Judiciário (ENPJ). O encontro será na sede do Tribunal Superior Eleitoral (TSE), em Brasília (DF). Será a última reunião preparatória antes do evento nacional, que",
-      "publicado_em": "2026-08-21T12:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": true,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "d9fa5d6caa609d18",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Projeto exige estudo de impacto socioeconômico para mudança em cartórios",
-      "link": "https://www.camara.leg.br/noticias/1299479-projeto-exige-estudo-de-impacto-socioeconomico-para-mudanca-em-cartorios",
-      "resumo": "",
-      "publicado_em": "2026-08-21T19:32:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "c65cf121fed99b7f",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Campanha de candidatos a deputado federal se concentra no Instagram",
-      "link": "https://www.camara.leg.br/noticias/1299588-campanha-de-candidatos-a-deputado-federal-se-concentra-no-instagram",
-      "resumo": "",
-      "publicado_em": "2026-08-21T18:00:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "4ca9f778f3f29c2d",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Comissão aprova incentivos para empresa em área de fronteira que contratar jovens ou indígenas",
-      "link": "https://www.camara.leg.br/noticias/1299161-comissao-aprova-incentivos-para-empresa-em-area-de-fronteira-que-contratar-jovens-ou-indigenas",
-      "resumo": "",
-      "publicado_em": "2026-08-21T17:04:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 48,
-      "tags": [
-        "aprova"
-      ],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "b296daa727fd2461",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Projeto proíbe apostas em bets e prevê multas de até R$ 2 bilhões",
-      "link": "https://www.camara.leg.br/noticias/1299433-projeto-proibe-apostas-em-bets-e-preve-multas-de-ate-r-2-bilhoes",
-      "resumo": "",
-      "publicado_em": "2026-08-21T16:09:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 50,
-      "tags": [
-        "multa"
-      ],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "fe122f14328a0d76",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Comissão aprova proposta que obriga restaurantes a oferecerem cardápios impressos",
-      "link": "https://www.camara.leg.br/noticias/1298988-comissao-aprova-proposta-que-obriga-restaurantes-a-oferecerem-cardapios-impressos",
-      "resumo": "",
-      "publicado_em": "2026-08-21T15:13:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 48,
-      "tags": [
-        "aprova"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "2f67eb0fb5ca41ba",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Projeto cria programa nacional de autoestima para mulheres em situação de vulnerabilidade",
-      "link": "https://www.camara.leg.br/noticias/1299440-projeto-cria-programa-nacional-de-autoestima-para-mulheres-em-situacao-de-vulnerabilidade",
-      "resumo": "",
-      "publicado_em": "2026-08-21T14:07:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "59a5105a9d1b886f",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Comissão aprova projeto que estende o Garantia-Safra para indígenas e povos tradicionais",
-      "link": "https://www.camara.leg.br/noticias/1298980-comissao-aprova-projeto-que-estende-o-garantia-safra-para-indigenas-e-povos-tradicionais",
-      "resumo": "",
-      "publicado_em": "2026-08-21T13:06:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 58,
-      "tags": [
-        "adi",
-        "aprova"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "f80c2ec3bfbffbc2",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Comissão aprova projeto que cria sistema de incentivo à produção sustentável na Amazônia",
-      "link": "https://www.camara.leg.br/noticias/1299108-comissao-aprova-projeto-que-cria-sistema-de-incentivo-a-producao-sustentavel-na-amazonia",
-      "resumo": "",
-      "publicado_em": "2026-08-21T12:16:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 48,
-      "tags": [
-        "aprova"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "18a40113b2f4c061",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Deputado defende diálogo antes da aplicação de tarifas de reciprocidade; assista a entrevista",
-      "link": "https://www.camara.leg.br/noticias/1299387-deputado-defende-dialogo-antes-da-aplicacao-de-tarifas-de-reciprocidade-assista-a-entrevista",
-      "resumo": "",
-      "publicado_em": "2026-08-21T10:39:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "5c926eeba4899049",
-      "fonte_id": "camara",
-      "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Comissão aprova projeto que proíbe cobrança de taxas por atividades em parques públicos concedidos",
-      "link": "https://www.camara.leg.br/noticias/1298871-comissao-aprova-projeto-que-proibe-cobranca-de-taxas-por-atividades-em-parques-publicos-concedidos",
-      "resumo": "",
-      "publicado_em": "2026-08-21T09:19:00-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 48,
-      "tags": [
-        "aprova"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
-    },
-    {
-      "id": "b229dd9974babf60",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "ANPD avalia como plataformas digitais atuam para prevenir conteúdos criminosos e proteger crianças e mulheres na internet",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-avalia-como-plataformas-digitais-atuam-para-prevenir-conteudos-criminosos-e-proteger-criancas-e-mulheres-na-internet",
-      "resumo": "Monitoramento faz parte do planejamento anunciado pela Agência em junho, para avaliar ações para efetivação da atualização do Marco Civil da Internet e do ECA Digital",
-      "publicado_em": "2026-08-21T16:34:08-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-21T17:16:45-03:00"
-    },
-    {
-      "id": "8a6280b1e9f364fb",
-      "fonte_id": "anpd",
-      "fonte_nome": "ANPD",
-      "titulo": "ANPD e PNUD divulgam resultado da seleção de consultores que vão elaborar estudos sobre IA e proteção de dados",
-      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-publica-resultado-da-selecao-para-consultores-que-vao-elaborar-relatorios-em-protecao-de-dados",
-      "resumo": "Aprovados serão comunicados por e-mail, mas também podem acessar a página do projeto e conferir o resultado",
-      "publicado_em": "2026-08-21T13:29:29-03:00",
-      "dia": "2026-08-21",
-      "data_estimada": false,
-      "score": 70,
-      "tags": [
-        "protecao de dados",
-        "aprovado",
-        "aprova"
-      ],
-      "coletado_em": "2026-08-21T15:19:47-03:00"
     }
   ]
 };
