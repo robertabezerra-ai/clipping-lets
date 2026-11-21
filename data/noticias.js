@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-20T21:59:37-03:00",
+  "gerado_em": "2026-11-21T14:52:32-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,9 +154,9 @@ window.DADOS = {
     },
     {
       "id": "pgfn",
-      "status": "ok",
-      "itens": 28,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "senado",
@@ -172,21 +172,21 @@ window.DADOS = {
     },
     {
       "id": "receita_federal",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "fazenda",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "anpd",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@ window.DADOS = {
     },
     {
       "id": "cvm",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "bacen",
@@ -210,13 +210,13 @@ window.DADOS = {
       "id": "coaf",
       "status": "falhou",
       "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "cade",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "cnj",
@@ -228,13 +228,13 @@ window.DADOS = {
       "id": "mjsp",
       "status": "falhou",
       "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "carf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/carf/pt-br/assuntos/novas-noticias"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "governo_federal",
@@ -250,6 +250,177 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "fd5af2de1fb8b8a6",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Palácio da Justiça recebe estudantes da Faap para simulação de julgamento em 2º Grau",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116079&pagina=1",
+      "resumo": "Atividade conduzida pela desembargadora Ana Paula Corrêa Patiño.\n \n\tO Tribunal de Justiça de São Paulo recebeu, na quinta-feira (19), no Salão do Júri do Palácio",
+      "publicado_em": "2026-11-21T12:00:00-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
+      "id": "515e92aeb2659dbb",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Efeitos da decisão sobre crimes patrimoniais em família é destaque no Supremo na Semana",
+      "link": "https://noticias.stf.jus.br/postsnoticias/efeitos-da-decisao-sobre-crimes-patrimoniais-em-familia-e-destaque-no-supremo-na-semana/",
+      "resumo": "Episódio #211 está disponível nas principais plataformas de áudio e no YouTube",
+      "publicado_em": "2026-11-21T12:00:00-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "decisao"
+      ],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
+      "id": "a4f5af28d794d9f9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Força Nacional do SUS segue para Tupanciretã (RS) para assistência à população",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/forca-nacional-do-sus-segue-para-tupancireta-rs-para-assistencia-a-populacao-atingida-por-tempestade",
+      "resumo": "",
+      "publicado_em": "2026-11-21T11:00:00-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
+      "id": "8a8c819845d7b4f1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo mobiliza resposta imediata a Tupanciretã (RS) por determinação do presidente Lula",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-mobiliza-resposta-imediata-a-tupancireta-rs-por-determinacao-do-presidente-lula",
+      "resumo": "",
+      "publicado_em": "2026-11-21T11:00:00-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
+      "id": "4dd2ad5e4f2cc3b0",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "PF inaugura delegacia em Tefé e fortalece atuação no interior do Amazonas",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/pf-inaugura-delegacia-em-tefe-e-fortalece-atuacao-no-interior-do-amazonas",
+      "resumo": "",
+      "publicado_em": "2026-11-21T10:55:00-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
+      "id": "98c13efb5a0e6181",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Com laser e IA, tecnologia da Embrapa e da UFSCar vai analisar esgoto de São Carlos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/tecnica-usada-no-agro-vai-analisar-o-esgoto-urbano-de-sao-carlos",
+      "resumo": "",
+      "publicado_em": "2026-11-21T10:50:00-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
+      "id": "bb75226e28109eaf",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Patrimônio público a serviço da memória, da cultura e da igualdade racial",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/patrimonio-publico-a-servico-da-memoria-da-cultura-e-da-igualdade-racial",
+      "resumo": "",
+      "publicado_em": "2026-11-21T10:45:00-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
+      "id": "fcdc85f1b0daac0d",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Programa Semana Gov  destaca o início da escala 5x2 e a devolução de impostos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/programa-semana-gov-destaca-o-inicio-da-escala-5x2-e-a-devolucao-de-impostos",
+      "resumo": "",
+      "publicado_em": "2026-11-21T09:15:00-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
+      "id": "84df5e159a816ec8",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Se eu perdesse as eleições, eu iria entregar a faixa\", diz Lula",
+      "link": "https://www.congressoemfoco.com.br/noticia/131764/se-eu-perdesse-as-eleicoes-eu-iria-entregar-a-faixa--diz-lula",
+      "resumo": "Durante transmissão com André Janones, presidente disse que respeitaria o resultado das urnas mesmo diante de derrota eleitoral.",
+      "publicado_em": "2026-11-21T12:23:01-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
+      "id": "e09789d6d9069557",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Erika Hilton aparece em transmissão ao vivo jogando GTA VI",
+      "link": "https://www.congressoemfoco.com.br/noticia/131763/erika-hilton-aparece-em-transmissao-ao-vivo-jogando-gta-vi",
+      "resumo": "Transmissão pelo TikTok repercutiu nas redes sociais após o lançamento do jogo, na quinta-feira, e reuniu milhares de espectadores.",
+      "publicado_em": "2026-11-21T09:44:28-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
+      "id": "34f7c31149ab9d84",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Carlos publica foto de Bolsonaro com sonda nasal durante internação",
+      "link": "https://www.congressoemfoco.com.br/noticia/131762/carlos-publica-foto-de-bolsonaro-com-sonda-nasal-durante-internacao",
+      "resumo": "Segundo Carlos, sonda retirou quase um litro de resíduos do estômago de Bolsonaro, que permanece internado por obstrução intestinal.",
+      "publicado_em": "2026-11-21T08:41:51-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "itr",
+        "acao"
+      ],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
     {
       "id": "6d72b702429bf620",
       "fonte_id": "tjsp",
@@ -559,6 +730,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-20T21:59:37-03:00"
+    },
+    {
+      "id": "7bc812aab076caa1",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Mulheres negras ocupam apenas 5,5% dos cargos da magistratura, aponta relatório do CNJ",
+      "link": "https://www.cnj.jus.br/mulheres-negras-ocupam-apenas-55-dos-cargos-da-magistratura-aponta-relatorio-do-cnj/",
+      "resumo": "As mulheres negras representam 28% da população brasileira, segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE), mas ocupam apenas 5,5% dos cargos da magistratura nacional. A desigualdade é ainda maior nos postos mais elevados da carreira, com somente 2,4% de mulheres negras ocup",
+      "publicado_em": "2026-11-20T12:00:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
     },
     {
       "id": "1cd58df8ee35b028",
@@ -1981,6 +2168,22 @@ window.DADOS = {
       "coletado_em": "2026-11-19T16:21:28-03:00"
     },
     {
+      "id": "be427ef703b9e325",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Capitão Alden defende quarentena eleitoral para professores públicos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131740/capitao-alden-defende-quarentena-eleitoral-para-professores-publicos",
+      "resumo": "Projeto amplia de três meses para dois anos o prazo de afastamento exigido de docentes da rede pública que pretendem disputar eleições.",
+      "publicado_em": "2026-11-19T14:11:46-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
       "id": "583d2b6273d64a1f",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2106,6 +2309,20 @@ window.DADOS = {
       "coletado_em": "2026-11-19T16:21:28-03:00"
     },
     {
+      "id": "ebe191774592036a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Política fiscal e o papel das IFI's",
+      "link": "https://www.congressoemfoco.com.br/coluna/131731/politica-fiscal-e-o-papel-das-ifi-s",
+      "resumo": "Criada pelo Senado em 2016, a IFI desempenha papel fundamental na transparência das contas públicas e no acompanhamento da política fiscal.",
+      "publicado_em": "2026-11-19T10:52:48-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
       "id": "ac9cf7a915e969e3",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2154,6 +2371,40 @@ window.DADOS = {
       "coletado_em": "2026-11-20T15:57:50-03:00"
     },
     {
+      "id": "e9cc10f5dcca34e7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Deputada propõe estabilidade e plano de carreira para agentes de saúde",
+      "link": "https://www.congressoemfoco.com.br/noticia/131724/deputada-propoe-estabilidade-e-plano-de-carreira-para-agentes-de-saude",
+      "resumo": "Texto prevê adicional de insalubridade, qualificação profissional e jornadas adaptadas às condições climáticas.",
+      "publicado_em": "2026-11-19T08:52:05-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
+      "id": "db9a5c73166256eb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Duda Ramos propõe prazo para planos pagarem serviços de saúde",
+      "link": "https://www.congressoemfoco.com.br/noticia/131723/duda-ramos-propoe-prazo-para-planos-pagarem-servicos-de-saude",
+      "resumo": "Projeto de Duda Ramos prevê prazo de cinco dias úteis para cobranças eletrônicas que atendam aos critérios de validação.",
+      "publicado_em": "2026-11-19T08:35:28-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "prazo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
       "id": "5eca3a917f1a6956",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2198,6 +2449,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-19T16:21:28-03:00"
+    },
+    {
+      "id": "cacd4d8176c5a1b0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê preferência de assento para mulheres que viajam sozinhas",
+      "link": "https://www.congressoemfoco.com.br/noticia/131719/projeto-preve-preferencia-de-assento-para-mulheres-que-viajam-sozinhas",
+      "resumo": "Texto prevê medidas de proteção para passageiras e proíbe cobranças adicionais pela escolha do assento.",
+      "publicado_em": "2026-11-19T08:10:54-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-11-21T14:52:32-03:00"
     },
     {
       "id": "cb83f29b25a9047e",
@@ -123930,117 +124197,6 @@ window.DADOS = {
       "tags": [
         "julgamento",
         "julga",
-        "acao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "2455dfd1465bb880",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Mantida condenação de três homens por golpe do bilhete premiado",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115063&pagina=1",
-      "resumo": "Idoso entregou R$ 7,5 mil.\n \n\tA 7ª Câmara de Direito Criminal do Tribunal de Justiça de São Paulo manteve, em parte, decisão da 2ª Vara",
-      "publicado_em": "2026-08-22T12:00:00-03:00",
-      "dia": "2026-08-22",
-      "data_estimada": true,
-      "score": 68,
-      "tags": [
-        "decisao",
-        "condenacao",
-        "acao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "2c2b686cc55cbc6f",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Siga o TJSP nas redes sociais",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=114667&pagina=1",
-      "resumo": "Plataformas informam serviços para a população. \n \n\tPara facilitar o acesso a informações e promover a interação da população, o Tribunal de Justiça de São Paulo",
-      "publicado_em": "2026-08-22T12:00:00-03:00",
-      "dia": "2026-08-22",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "cbc4176db4d32ed7",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "Aplicação da Lei Maria da Penha a todos os casos de violência de gênero é destaque no Supremo na Semana",
-      "link": "https://noticias.stf.jus.br/postsnoticias/aplicacao-da-lei-maria-da-penha-a-todos-os-casos-de-violencia-de-genero-e-destaque-no-supremo-na-semana/",
-      "resumo": "Episódio #199 está disponível nas principais plataformas de áudio e no YouTube",
-      "publicado_em": "2026-08-22T12:00:00-03:00",
-      "dia": "2026-08-22",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "3be64ed86b730c3d",
-      "fonte_id": "stf",
-      "fonte_nome": "STF",
-      "titulo": "Confira todos os detalhes da audiência pública sobre a Lei Antifacção",
-      "link": "https://noticias.stf.jus.br/postsnoticias/confira-todos-os-detalhes-da-audiencia-publica-sobre-a-lei-antifaccao/",
-      "resumo": "Sob a condução do ministro Alexandre de Moraes, relator de quatro ações que questionam a norma no STF, serão ouvidos 48 expositores a partir de segunda (24)",
-      "publicado_em": "2026-08-22T09:00:00-03:00",
-      "dia": "2026-08-22",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "2ff6debec8773bbb",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Encceja: provas vão ser aplicadas neste domingo (23)",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/encceja-2026-provas-serao-aplicadas-neste-domingo-23-8",
-      "resumo": "",
-      "publicado_em": "2026-08-22T13:50:00-03:00",
-      "dia": "2026-08-22",
-      "data_estimada": false,
-      "score": 40,
-      "tags": [],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "8c9a6946650a652f",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Dengue, zika, chikungunya e Oropouche: saiba diferenças e riscos da automedicação",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/dengue-zika-chikungunya-e-oropouche-infectologista-da-hu-brasil-explica-diferencas-e-alerta-para-riscos-da-automedicacao",
-      "resumo": "",
-      "publicado_em": "2026-08-22T12:35:00-03:00",
-      "dia": "2026-08-22",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "37ab6d921920be2c",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Dia D mobiliza crianças e adolescentes para atualizar caderneta de vacinação",
-      "link": "https://agenciagov.ebc.com.br/noticias/202608/dia-d-mobiliza-criancas-e-adolescentes-para-atualizar-a-caderneta-de-vacinacao",
-      "resumo": "",
-      "publicado_em": "2026-08-22T12:33:00-03:00",
-      "dia": "2026-08-22",
-      "data_estimada": false,
-      "score": 56,
-      "tags": [
-        "cade",
         "acao"
       ],
       "coletado_em": "2026-08-24T08:33:43-03:00"
