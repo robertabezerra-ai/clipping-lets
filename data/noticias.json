@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-21T14:52:32-03:00",
+  "gerado_em": "2026-11-21T17:17:35-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -2075,6 +2075,22 @@
       "coletado_em": "2026-11-19T18:54:08-03:00"
     },
     {
+      "id": "cd3d7e47a4ee92c0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Rubens Pereira propõe proteção a vítimas de falsificação de boletos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131749/rubens-pereira-propoe-protecao-a-vitimas-de-falsificacao-de-boletos",
+      "resumo": "Projeto obriga plataformas de pagamento a ressarcir consumidores lesados por boletos falsos emitidos em seus próprios sistemas.",
+      "publicado_em": "2026-11-19T17:08:44-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-21T17:17:35-03:00"
+    },
+    {
       "id": "b8c616645773db8a",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2369,6 +2385,23 @@
         "acao"
       ],
       "coletado_em": "2026-11-20T15:57:50-03:00"
+    },
+    {
+      "id": "35d5e476da399dc0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Caso Suzane von Richthofen inspira projeto que proíbe lucro com crimes",
+      "link": "https://www.congressoemfoco.com.br/noticia/131726/caso-suzane-von-richthofen-inspira-projeto-que-proibe-lucro-com-crimes",
+      "resumo": "Texto apresentado após estreia de documentário na Netflix prevê prisão, multa e medidas de reparação às vítimas.",
+      "publicado_em": "2026-11-19T09:33:47-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "multa",
+        "acao"
+      ],
+      "coletado_em": "2026-11-21T17:17:35-03:00"
     },
     {
       "id": "e9cc10f5dcca34e7",
