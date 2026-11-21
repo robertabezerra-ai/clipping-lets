@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-20T19:29:12-03:00",
+  "gerado_em": "2026-11-20T21:59:37-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -543,6 +543,22 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-11-20T18:36:28-03:00"
+    },
+    {
+      "id": "d61729c8d3ac162f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Nota pelo Dia Nacional de Zumbi e da Consciência Negra",
+      "link": "https://www.cnj.jus.br/nota-pelo-dia-nacional-de-zumbi-e-da-consciencia-negra/",
+      "resumo": "O 20 de novembro é uma data que nos convida à memória, à reflexão e, sobretudo, à ação. Ao reverenciarmos Zumbi dos Palmares e a trajetória de resistência do povo negro brasileiro, reafirmamos a importância de reconhecer nossa história, valorizar nossa ancestralidade e enfrentar as desigualdades que",
+      "publicado_em": "2026-11-20T12:00:00-03:00",
+      "dia": "2026-11-20",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-20T21:59:37-03:00"
     },
     {
       "id": "1cd58df8ee35b028",
