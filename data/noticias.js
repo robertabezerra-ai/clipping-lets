@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-22T17:30:07-03:00",
+  "gerado_em": "2026-11-22T18:31:03-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
