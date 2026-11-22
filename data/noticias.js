@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-21T20:59:33-03:00",
+  "gerado_em": "2026-11-22T15:14:45-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,9 +154,9 @@ window.DADOS = {
     },
     {
       "id": "pgfn",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 28,
+      "erro": null
     },
     {
       "id": "senado",
@@ -172,21 +172,21 @@ window.DADOS = {
     },
     {
       "id": "receita_federal",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "fazenda",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anpd",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@ window.DADOS = {
     },
     {
       "id": "cvm",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "bacen",
@@ -208,15 +208,15 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "cnj",
@@ -228,13 +228,13 @@ window.DADOS = {
       "id": "mjsp",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "carf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/carf/pt-br/assuntos/novas-noticias"
     },
     {
       "id": "governo_federal",
@@ -250,6 +250,34 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "3a50031b81d63e62",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP participa da 34ª Semana da Justiça pela Paz em Casa",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116084&pagina=1",
+      "resumo": "Iniciativas de combate à violência doméstica.\n \n\tO Tribunal de Justiça de São Paulo participa, entre os dias 23 e 27 de novembro, da 34ª edição",
+      "publicado_em": "2026-11-22T12:00:00-03:00",
+      "dia": "2026-11-22",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-22T15:14:45-03:00"
+    },
+    {
+      "id": "a0f373719509e9c7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cleitinho se emociona ao falar da vitória eleitoral de Ana Elisa",
+      "link": "https://www.congressoemfoco.com.br/noticia/131766/cleitinho-se-emociona-ao-falar-da-vitoria-eleitoral-de-ana-elisa",
+      "resumo": "Senador ofereceu apoio à futura deputada federal, também natural de Divinópolis, apesar das diferenças partidárias entre os dois.",
+      "publicado_em": "2026-11-22T09:08:55-03:00",
+      "dia": "2026-11-22",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-22T15:14:45-03:00"
+    },
     {
       "id": "fd5af2de1fb8b8a6",
       "fonte_id": "tjsp",
@@ -302,7 +330,7 @@ window.DADOS = {
       "id": "20bc2c50f1cba05e",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Força Nacional do SUS mobiliza equipes para atender população atingida por temporal no RS",
+      "titulo": "Força Nacional do SUS mobiliza equipes para atender população no RS",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/forca-nacional-do-sus-mobiliza-equipes-para-atender-populacao-atingida-por-temporal-no-rio-grande-do-sul",
       "resumo": "",
       "publicado_em": "2026-11-21T15:15:00-03:00",
@@ -318,7 +346,7 @@ window.DADOS = {
       "id": "56ba693d8a21b5c7",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "128 brasileiros repatriados são recepcionados em Confins (MG)",
+      "titulo": "128 brasileiros repatriados são recepcionados no aeroporto de Confins (MG)",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/aqui-e-brasil-128-brasileiros-repatriados-sao-recepcionados-em-confins-mg",
       "resumo": "",
       "publicado_em": "2026-11-21T14:24:00-03:00",
@@ -2119,6 +2147,22 @@ window.DADOS = {
       "coletado_em": "2026-11-19T18:54:08-03:00"
     },
     {
+      "id": "b2ec3fc7a3a42ea3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto de Kataguiri autoriza pedidos de busca por guardas municipais",
+      "link": "https://www.congressoemfoco.com.br/noticia/131750/projeto-de-kataguiri-autoriza-pedidos-de-busca-por-guardas-municipais",
+      "resumo": "Proposta prevê análise judicial em até 12 horas quando houver indícios de que aparelho eletrônico está em imóvel identificado pela polícia.",
+      "publicado_em": "2026-11-19T17:30:19-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "judicial"
+      ],
+      "coletado_em": "2026-11-22T15:14:45-03:00"
+    },
+    {
       "id": "cd3d7e47a4ee92c0",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2195,6 +2239,23 @@ window.DADOS = {
       "coletado_em": "2026-11-19T18:54:08-03:00"
     },
     {
+      "id": "9ab4fc32a5fe25df",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ajuste fiscal na Câmara: Veja o que está em jogo e como será a votação",
+      "link": "https://www.congressoemfoco.com.br/noticia/131744/ajuste-fiscal-na-camara-veja-o-que-esta-em-jogo-e-como-sera-a-votacao",
+      "resumo": "Hugo Motta quer acelerar análise a partir de segunda-feira (23). Entenda as principais medidas, as resistências e quantos votos são necessários para aprovar o pacote.",
+      "publicado_em": "2026-11-19T15:37:55-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-22T15:14:45-03:00"
+    },
+    {
       "id": "2aab7ea9d32992fc",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2226,6 +2287,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-19T16:21:28-03:00"
+    },
+    {
+      "id": "421bd587c4018efa",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Sargento Isidório quer incluir \"Justiça Social\" na bandeira do Brasil",
+      "link": "https://www.congressoemfoco.com.br/noticia/131741/sargento-isidorio-quer-incluir-justica-social-na-bandeira-do-brasil",
+      "resumo": "Texto busca incorporar ao símbolo nacional os princípios de igualdade e justiça previstos na Constituição.",
+      "publicado_em": "2026-11-19T14:32:55-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-22T15:14:45-03:00"
     },
     {
       "id": "be427ef703b9e325",
@@ -124259,42 +124334,6 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-08-24T12:46:32-03:00"
-    },
-    {
-      "id": "a89cbef5388f8db4",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Teses de repercussão geral do STF, provimentos do CNJ e jurisprudência aplicados nas varas de Família e Sucessões serão debatidos na EPM",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115099&pagina=1",
-      "resumo": "Inscrições até 21 de setembro.\n \n\tA Escola Paulista da Magistratura (EPM), em parceria com a Associação de Direito de Família e das Sucessões (ADFAS), promove,",
-      "publicado_em": "2026-08-23T12:00:00-03:00",
-      "dia": "2026-08-23",
-      "data_estimada": true,
-      "score": 78,
-      "tags": [
-        "tese",
-        "repercussao geral",
-        "acao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
-    },
-    {
-      "id": "2f0260d171b94041",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "Jurado voluntário: Comarca de Matão abre inscrições",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115083&pagina=1",
-      "resumo": "Atuação em julgamentos realizados em 2027.\n \n\tA Justiça de Matão abriu inscrições para voluntários que queiram atuar nos Tribunais do Júri realizados na Comarca em",
-      "publicado_em": "2026-08-23T12:00:00-03:00",
-      "dia": "2026-08-23",
-      "data_estimada": true,
-      "score": 68,
-      "tags": [
-        "julgamento",
-        "julga",
-        "acao"
-      ],
-      "coletado_em": "2026-08-24T08:33:43-03:00"
     }
   ]
 };
