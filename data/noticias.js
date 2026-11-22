@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-22T15:14:45-03:00",
+  "gerado_em": "2026-11-22T17:30:07-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,9 +154,9 @@ window.DADOS = {
     },
     {
       "id": "pgfn",
-      "status": "ok",
-      "itens": 28,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "senado",
@@ -172,21 +172,21 @@ window.DADOS = {
     },
     {
       "id": "receita_federal",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "fazenda",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "anpd",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "anbima",
@@ -196,9 +196,9 @@ window.DADOS = {
     },
     {
       "id": "cvm",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "bacen",
@@ -208,15 +208,15 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "cade",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "cnj",
@@ -228,13 +228,13 @@ window.DADOS = {
       "id": "mjsp",
       "status": "falhou",
       "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "carf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/carf/pt-br/assuntos/novas-noticias"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "governo_federal",
@@ -2145,6 +2145,23 @@ window.DADOS = {
         "processo"
       ],
       "coletado_em": "2026-11-19T18:54:08-03:00"
+    },
+    {
+      "id": "26df7b82d7c31922",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto prevê novas formas de comprovação de assédio moral na Justiça",
+      "link": "https://www.congressoemfoco.com.br/noticia/131751/projeto-preve-novas-formas-de-comprovacao-de-assedio-moral-na-justica",
+      "resumo": "Empregadores terão de demonstrar ações de prevenção ou ausência de nexo ocupacional nos processos com denúncia e afastamento pelo INSS.",
+      "publicado_em": "2026-11-19T18:00:59-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-22T17:30:07-03:00"
     },
     {
       "id": "b2ec3fc7a3a42ea3",
