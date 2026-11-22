@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-21T18:26:29-03:00",
+  "gerado_em": "2026-11-21T20:59:33-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -283,6 +283,50 @@ window.DADOS = {
         "decisao"
       ],
       "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
+      "id": "206c7bd7fa9dc7f9",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo reforça assistência social às famílias atingidas por tempestade no RS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-reforca-assistencia-social-as-familias-atingidas-por-tempestade-no-rs",
+      "resumo": "",
+      "publicado_em": "2026-11-21T18:50:00-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-21T20:59:33-03:00"
+    },
+    {
+      "id": "20bc2c50f1cba05e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Força Nacional do SUS mobiliza equipes para atender população atingida por temporal no RS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/forca-nacional-do-sus-mobiliza-equipes-para-atender-populacao-atingida-por-temporal-no-rio-grande-do-sul",
+      "resumo": "",
+      "publicado_em": "2026-11-21T15:15:00-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-21T20:59:33-03:00"
+    },
+    {
+      "id": "56ba693d8a21b5c7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "128 brasileiros repatriados são recepcionados em Confins (MG)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/aqui-e-brasil-128-brasileiros-repatriados-sao-recepcionados-em-confins-mg",
+      "resumo": "",
+      "publicado_em": "2026-11-21T14:24:00-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-21T20:59:33-03:00"
     },
     {
       "id": "a4f5af28d794d9f9",
@@ -2402,6 +2446,24 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-21T17:17:35-03:00"
+    },
+    {
+      "id": "5fd026df4ba9a033",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto torna inelegíveis condenados por crimes contra mulheres",
+      "link": "https://www.congressoemfoco.com.br/noticia/131725/projeto-torna-inelegiveis-condenados-por-crimes-contra-mulheres",
+      "resumo": "Proposta prevê impedimento eleitoral desde a condenação por órgão colegiado até oito anos após o cumprimento da pena.",
+      "publicado_em": "2026-11-19T08:57:21-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "condenado",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-21T20:59:33-03:00"
     },
     {
       "id": "e9cc10f5dcca34e7",
