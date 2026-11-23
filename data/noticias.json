@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-22T18:31:03-03:00",
+  "gerado_em": "2026-11-22T21:32:10-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -265,6 +265,22 @@
       "coletado_em": "2026-11-22T15:14:45-03:00"
     },
     {
+      "id": "381ad47bf56ed976",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pauta do Senado tem Estatuto do Aprendiz e Plano Nacional de Cultura",
+      "link": "https://www.congressoemfoco.com.br/noticia/131767/pauta-do-senado-tem-estatuto-do-aprendiz-e-plano-nacional-de-cultura",
+      "resumo": "Votações previstas para terça e quarta-feira incluem novas regras para aprendizes, políticas culturais e propostas de saúde pública.",
+      "publicado_em": "2026-11-22T16:52:19-03:00",
+      "dia": "2026-11-22",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "novas regras"
+      ],
+      "coletado_em": "2026-11-22T21:32:10-03:00"
+    },
+    {
       "id": "a0f373719509e9c7",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -447,6 +463,22 @@
         "imposto"
       ],
       "coletado_em": "2026-11-21T14:52:32-03:00"
+    },
+    {
+      "id": "10b49c14e118bcc3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Pauta da Câmara tem ajuste fiscal e políticas de igualdade racial",
+      "link": "https://www.congressoemfoco.com.br/noticia/131765/pauta-da-camara-tem-ajuste-fiscal-e-politicas-de-igualdade-racial",
+      "resumo": "Deputados iniciam análise do ajuste fiscal na segunda-feira e têm na pauta projetos sobre saúde da população negra e combate ao racismo",
+      "publicado_em": "2026-11-21T18:04:56-03:00",
+      "dia": "2026-11-21",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-22T21:32:10-03:00"
     },
     {
       "id": "84df5e159a816ec8",
