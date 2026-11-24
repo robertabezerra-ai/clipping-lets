@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-23T22:19:23-03:00",
+  "gerado_em": "2026-11-23T23:44:14-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 401 Client Error: Unauthorized for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -154,9 +154,9 @@ window.DADOS = {
     },
     {
       "id": "pgfn",
-      "status": "ok",
-      "itens": 28,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "senado",
@@ -172,21 +172,21 @@ window.DADOS = {
     },
     {
       "id": "receita_federal",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "fazenda",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "anpd",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "anbima",
@@ -198,7 +198,7 @@ window.DADOS = {
       "id": "cvm",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 404 Client Error:  for url: https://www.gov.br/cvm/pt-br/assuntos/noticias/RSS"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "bacen",
@@ -210,13 +210,13 @@ window.DADOS = {
       "id": "coaf",
       "status": "falhou",
       "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "cade",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "cnj",
@@ -228,13 +228,13 @@ window.DADOS = {
       "id": "mjsp",
       "status": "falhou",
       "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "carf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/carf/pt-br/assuntos/novas-noticias"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "governo_federal",
@@ -1284,6 +1284,24 @@ window.DADOS = {
       "coletado_em": "2026-11-23T22:19:23-03:00"
     },
     {
+      "id": "0cf3c837edeb2dd7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Plenário da Câmara aprova texto-base do projeto de ajuste fiscal",
+      "link": "https://www.congressoemfoco.com.br/noticia/131811/plenario-da-camara-aprova-texto-base-do-projeto-de-ajuste-fiscal",
+      "resumo": "Proposta amplia as possibilidades de contingenciamento de despesas federais, com novas restrições à utilização de créditos tributários.",
+      "publicado_em": "2026-11-23T20:38:03-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "tributario",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-23T23:44:14-03:00"
+    },
+    {
       "id": "8d2d997dd4bd2c2a",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1717,6 +1735,54 @@ window.DADOS = {
         "portaria"
       ],
       "coletado_em": "2026-11-23T19:27:29-03:00"
+    },
+    {
+      "id": "035e05f8c15e3c8b",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pena Justa: atividades de leitura para reduzir tempo na prisão aumentaram 15%",
+      "link": "https://www.cnj.jus.br/pena-justa-atividades-de-leitura-para-reduzir-tempo-na-prisao-aumentaram-15/",
+      "resumo": "No primeiro ano do Pena Justa, plano nacional criado para enfrentar a situação de calamidade e as violações sistemáticas de direitos humanos no sistema prisional brasileiro, bibliotecas em unidades penais receberam quase 40 mil livros doados, novas iniciativas culturais foram implementadas e mais pe",
+      "publicado_em": "2026-11-23T12:00:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-23T23:44:14-03:00"
+    },
+    {
+      "id": "2d9e2023d0c75e3c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Conselheiro Marcello Terto defende que metas do Judiciário devem medir impacto real na vida do cidadão",
+      "link": "https://www.cnj.jus.br/conselheiro-marcello-terto-defende-que-metas-do-judiciario-devem-medir-impacto-real-na-vida-do-cidadao/",
+      "resumo": "A tecnologia multiplicou a capacidade de processamento das ações judiciais, mas não atacou a raiz da litigiosidade. A afirmação foi feita pelo ouvidor nacional de justiça, conselheiro Marcello Terto, durante a 25ª Conferência Nacional da Advocacia Brasileira (CNAB), realizada nesta segunda-feira (23",
+      "publicado_em": "2026-11-23T12:00:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-23T23:44:14-03:00"
+    },
+    {
+      "id": "080f91912b5f3d57",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova texto-base do projeto de ajuste fiscal; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1322146-camara-aprova-texto-base-do-projeto-de-ajuste-fiscal-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-23T22:41:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-23T23:44:14-03:00"
     },
     {
       "id": "5e0e621e7c82a018",
