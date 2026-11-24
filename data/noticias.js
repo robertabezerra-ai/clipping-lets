@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-24T17:59:32-03:00",
+  "gerado_em": "2026-11-24T20:17:55-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 400 Client Error: Bad Request for url: https://www.stj.jus.br/sites/portalp/Inicio"
+      "erro": "'padrao_link'"
     },
     {
       "id": "tst",
@@ -161,7 +161,7 @@ window.DADOS = {
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 17,
       "erro": null
     },
     {
@@ -311,6 +311,20 @@ window.DADOS = {
       "coletado_em": "2026-11-24T17:59:32-03:00"
     },
     {
+      "id": "bc97f05922255514",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Segundo volume do livro Palavras do Presidente, de autoria do desembargador Valdir Florindo, será lançado na próxima quinta (26/11)",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/segundo-volume-do-livro-palavras-do-presidente-de-autoria-do-desembargador-valdir-florindo-sera-lancado-na-proxima-quinta-26-11",
+      "resumo": "",
+      "publicado_em": "2026-11-24T12:00:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
       "id": "39f0b17b18685106",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -407,6 +421,53 @@ window.DADOS = {
       "coletado_em": "2026-11-24T17:59:32-03:00"
     },
     {
+      "id": "647338ba5e493677",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Biblioteca do TJSP recebe doação de exemplares do acervo do ministro Sidnei Beneti",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116122&pagina=1",
+      "resumo": "Obras com valor jurídico e histórico.\n \n\n\n\n\tA Biblioteca do Tribunal de Justiça de São Paulo “Desembargador Marcos Nogueira Garcez”, localizada no Gade MMDC, recebeu, hoje (24),",
+      "publicado_em": "2026-11-24T12:00:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "114f7573771f3cfd",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF homologa acordo para regularizar terras em benefício de mais de duas mil famílias no Pará",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-homologa-acordo-para-regularizar-terras-em-beneficio-de-mais-de-duas-mil-familias-no-para/",
+      "resumo": "Construído a partir de negociações entre União e estado, acordo busca pôr fim a disputa que dura quase cinco décadas; solução foi homologada pelo ministro Nunes Marques, relator do caso",
+      "publicado_em": "2026-11-24T18:28:14-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "3be36b637dcbf5d6",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF revoga prisão de investigados na Operação Sem Desconto",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-revoga-prisao-deinvestigados-na-operacao-sem-desconto/",
+      "resumo": "Por decisão do ministro André Mendonça, eles continuam monitorados por tornozeleira eletrônica e não podem sair do país nem manter contato entre si",
+      "publicado_em": "2026-11-24T18:01:47-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
       "id": "d4e09e4e701c2243",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -454,6 +515,147 @@ window.DADOS = {
         "falecimento"
       ],
       "coletado_em": "2026-11-24T17:59:32-03:00"
+    },
+    {
+      "id": "050957b74894fa7f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Participantes de audiência pública pedem atenção ao ensino para quilombolas",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/participantes-de-audiencia-publica-pedem-atencao-ao-ensino-para-quilombolas",
+      "resumo": "",
+      "publicado_em": "2026-11-24T19:53:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "243d12a1c1feab4f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Rádio Senado conquista terceiro lugar em premiação de direitos humanos",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/radio-senado-conquista-terceiro-lugar-em-premiacao-de-direitos-humanos",
+      "resumo": "",
+      "publicado_em": "2026-11-24T19:32:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "73c8e6aeb5778b7b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado remarca para terça-feira votação do Estatuto do Aprendiz",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-remarca-para-terca-feira-votacao-do-estatuto-do-aprendiz",
+      "resumo": "",
+      "publicado_em": "2026-11-24T19:26:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "8cabb60833802c0a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado fará sessão especial em homenagem a Paulo Paim",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-fara-sessao-especial-em-homenagem-a-paulo-paim",
+      "resumo": "",
+      "publicado_em": "2026-11-24T19:21:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 20,
+      "tags": [
+        "homenagem"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "04c29789efd5ef47",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sargento Reginauro cobra apuração de assassinato de ex-policial no Ceará",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/sargento-reginauro-cobra-apuracao-de-assassinato-de-ex-policial-no-ceara",
+      "resumo": "",
+      "publicado_em": "2026-11-24T19:17:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "a7348a34e1fa14d9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Cadastro de condenados por violência contra mulher pode ser ampliado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/cadastro-de-condenados-por-violencia-contra-mulher-pode-ser-ampliado",
+      "resumo": "",
+      "publicado_em": "2026-11-24T19:02:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "condenado"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "758a72a580b01dec",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Confúcio Moura propõe ajuste no Orçamento de 2027 para ampliar investimento",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/confucio-moura-propoe-ajuste-no-orcamento-de-2027-para-ampliar-investimento",
+      "resumo": "",
+      "publicado_em": "2026-11-24T18:10:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "3fe85ad9160d9dce",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Escola de qualidade para os quilombolas é reparação histórica, dizem debatedores",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/escola-de-qualidade-para-os-quilombolas-e-reparacao-historica-dizem-debatedores",
+      "resumo": "",
+      "publicado_em": "2026-11-24T18:09:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "bdee2b828702c7e4",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi autoriza atuação da Advocacia do Senado em prol da imunidade parlamentar",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/davi-autoriza-atuacao-da-advocacia-do-senado-em-prol-da-imunidade-parlamentar",
+      "resumo": "",
+      "publicado_em": "2026-11-24T17:58:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
     },
     {
       "id": "aa141e1e90a7a2e9",
@@ -1011,6 +1213,119 @@ window.DADOS = {
       "coletado_em": "2026-11-24T17:59:32-03:00"
     },
     {
+      "id": "5022134baf741684",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino foi \"atacado de maneira injusta\" em ação sobre PEC 6x1, diz Aliel",
+      "link": "https://www.congressoemfoco.com.br/noticia/131855/dino-foi-atacado-de-maneira-injusta-em-acao-sobre-pec-6x1-diz-aliel",
+      "resumo": "Deputado sustentou que a decisão do ministro preservou os direitos conquistados pelos trabalhadores com a aprovação da redução da jornada.",
+      "publicado_em": "2026-11-24T20:03:10-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "decisao",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "f45fd674d40ec3cd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em sessão temática, Câmara aprova projetos voltados à igualdade racial",
+      "link": "https://www.congressoemfoco.com.br/noticia/131854/em-sessao-tematica-camara-aprova-projetos-voltados-a-igualdade-racial",
+      "resumo": "Sob a presidência de Benedita da Silva, deputados aprovaram propostas nas áreas de saúde pública e reparação histórica à população negra.",
+      "publicado_em": "2026-11-24T19:18:07-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "0b4de0f00479d092",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Aliel e Motta fecham acordo para votar PL das Big Techs na terça-feira",
+      "link": "https://www.congressoemfoco.com.br/noticia/131853/aliel-e-motta-fecham-acordo-para-votar-pl-das-big-techs-na-terca-feira",
+      "resumo": "Relator negocia a aprovação de novas regras de concorrência nos mercados digitais diante da resistência de representantes do setor.",
+      "publicado_em": "2026-11-24T18:54:10-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "novas regras",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "0bc6c520f729e89b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cleitinho e Renan Santos se reúnem no Missão: \"em breve novidades\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131852/cleitinho-e-renan-santos-se-reunem-no-missao--em-breve-novidades",
+      "resumo": "Encontro ocorreu nesta terça-feira na sede do Partido Missão, legenda ligada ao MBL.",
+      "publicado_em": "2026-11-24T18:18:06-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "43a27a14ad2b29c3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Orlando e Zanatta batem boca em Plenário: \"cuide do seu partido\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131851/orlando-e-zanatta-batem-boca-em-plenario--cuide-do-seu-partido",
+      "resumo": "Parlamentares trocaram provocações após questionamento sobre a legitimidade da orientação de voto contrário à proposta legislativa.",
+      "publicado_em": "2026-11-24T18:17:31-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "5154d00813e2cdbf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Senado aprova Plano Nacional de Cultura para os próximos dez anos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131850/senado-aprova-plano-nacional-de-cultura-para-os-proximos-dez-anos",
+      "resumo": "Texto foi relatado pelo senador Humberto Costa, que apresentou parecer favorável à matéria.",
+      "publicado_em": "2026-11-24T18:05:12-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "897e36b27253d9a1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Você não vai se aposentar, pelo menos não como imagina",
+      "link": "https://www.congressoemfoco.com.br/artigo/131849/voce-nao-vai-se-aposentar-pelo-menos-nao-como-imagina",
+      "resumo": "Com menos trabalhadores para cada idoso e benefícios atrelados ao salário mínimo, a Previdência promete mais do que a demografia e a renda do país conseguem sustentar.",
+      "publicado_em": "2026-11-24T17:59:23-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
       "id": "638e98974161f109",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1025,6 +1340,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-24T17:59:32-03:00"
+    },
+    {
+      "id": "2960ffa100c5fa2f",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PISA 2025: Brasil não sai do lugar, e a conta chega ao Congresso",
+      "link": "https://www.congressoemfoco.com.br/artigo/131847/pisa-2025-brasil-nao-sai-do-lugar-e-a-conta-chega-ao-congresso",
+      "resumo": "Notas estáveis há uma década e distância persistente para os países ricos mostram que a crise da educação depende de decisões de financiamento e de políticas que passam pelo Legislativo.",
+      "publicado_em": "2026-11-24T17:35:34-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
     },
     {
       "id": "17405187e7c1b764",
@@ -1387,6 +1718,143 @@ window.DADOS = {
       "coletado_em": "2026-11-24T17:59:32-03:00"
     },
     {
+      "id": "1eef3a8299941d4f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Seminário aproxima práticas de Justiça Restaurativa do conhecimento científico",
+      "link": "https://www.cnj.jus.br/seminario-aproxima-praticas-de-justica-restaurativa-do-conhecimento-cientifico/",
+      "resumo": "A Justiça Restaurativa continua em destaque na agenda do Conselho Nacional de Justiça (CNJ). Após uma semana dedicada à divulgação e à reflexão sobre a metodologia, entre 16 e 21 de novembro, o Conselho promove, nesta quinta-feira (26/11), das 17h às 19h, o Seminário de Pesquisas Empíricas Aplicadas",
+      "publicado_em": "2026-11-24T12:00:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": true,
+      "score": 36,
+      "tags": [
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "e1c442c1182d6159",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "4º Fórum Nacional da Infância e da Juventude tem início nesta quarta-feira (25/11)",
+      "link": "https://www.cnj.jus.br/4a-forum-nacional-da-infancia-e-da-juventude-tem-inicio-nesta-quarta-feira-25-11/",
+      "resumo": "Os desafios contemporâneos da Justiça voltada à proteção dos direitos de crianças e adolescentes serão o foco do 4º Fórum Nacional da Infância e da Juventude (Foninj) e do II Encontro Nacional dos Magistrados e Magistradas da Infância e Juventude. Promovido pelo Conselho Nacional de Justiça (CNJ), e",
+      "publicado_em": "2026-11-24T12:00:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "e2d0487d3f8e67f8",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados retomam nesta quarta-feira votação de projetos em defesa da população negra",
+      "link": "https://www.camara.leg.br/noticias/1322627-deputados-retomam-nesta-quarta-feira-votacao-de-projetos-em-defesa-da-populacao-negra",
+      "resumo": "",
+      "publicado_em": "2026-11-24T20:10:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "34ddb9f5ffd317cb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova projeto que autoriza parlamentares a exercer advocacia com restrições",
+      "link": "https://www.camara.leg.br/noticias/1322507-comissao-aprova-projeto-que-autoriza-parlamentares-a-exercer-advocacia-com-restricoes",
+      "resumo": "",
+      "publicado_em": "2026-11-24T19:27:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "e73b73e5f5ab7380",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissões debatem futuro do esporte na era da inteligência artificial",
+      "link": "https://www.camara.leg.br/noticias/1322597-comissoes-debatem-futuro-do-esporte-na-era-da-inteligencia-artificial",
+      "resumo": "",
+      "publicado_em": "2026-11-24T19:24:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "7dbcfbba0f706a9d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Cancelada audiência sobre violência sexual facilitada por tecnologia",
+      "link": "https://www.camara.leg.br/noticias/1321180-cancelada-audiencia-sobre-violencia-sexual-facilitada-por-tecnologia",
+      "resumo": "",
+      "publicado_em": "2026-11-24T19:23:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "bbf6bc5cdcb5608d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Especialistas defendem aumento do número de mulheres em cargos de direção do sistema de previdência",
+      "link": "https://www.camara.leg.br/noticias/1322513-especialistas-defendem-aumento-do-numero-de-mulheres-em-cargos-de-direcao-do-sistema-de-previdencia",
+      "resumo": "",
+      "publicado_em": "2026-11-24T18:59:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "98968ba5a3af7e87",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Lei do ajuste fiscal é sancionada sem vetos e já está em vigor",
+      "link": "https://www.camara.leg.br/noticias/1322586-lei-do-ajuste-fiscal-e-sancionada-sem-vetos-e-ja-esta-em-vigor",
+      "resumo": "",
+      "publicado_em": "2026-11-24T18:58:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "sancionada"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "90b0d18987deb7c2",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova pensão especial para parentes das vítimas da chacina de Acari",
+      "link": "https://www.camara.leg.br/noticias/1322494-camara-aprova-pensao-especial-para-parentes-das-vitimas-da-chacina-de-acari",
+      "resumo": "",
+      "publicado_em": "2026-11-24T18:16:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
       "id": "0643a07df7b3f5d8",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1404,6 +1872,23 @@ window.DADOS = {
       "coletado_em": "2026-11-24T17:59:32-03:00"
     },
     {
+      "id": "774a9fd49de53c60",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova medidas para garantir igualdade à população negra em emergências de saúde",
+      "link": "https://www.camara.leg.br/noticias/1322489-camara-aprova-medidas-para-garantir-igualdade-a-populacao-negra-em-emergencias-de-saude",
+      "resumo": "",
+      "publicado_em": "2026-11-24T17:27:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
       "id": "f23b32ca3e736215",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1418,6 +1903,22 @@ window.DADOS = {
         "aprova"
       ],
       "coletado_em": "2026-11-24T17:59:32-03:00"
+    },
+    {
+      "id": "c45bb52537ed1a58",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova inclusão de dados sobre raça ou cor nos prontuários do SUS",
+      "link": "https://www.camara.leg.br/noticias/1322481-camara-aprova-inclusao-de-dados-sobre-raca-ou-cor-nos-prontuarios-do-sus",
+      "resumo": "",
+      "publicado_em": "2026-11-24T17:04:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-24T20:17:55-03:00"
     },
     {
       "id": "4d31f4109af76975",
@@ -1926,7 +2427,7 @@ window.DADOS = {
       "fonte_nome": "STF",
       "titulo": "STF autoriza retomada de auxílio emergencial a vítimas de Brumadinho (MG)",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-autoriza-retomada-de-auxilio-emergencial-a-vitimas-de-brumadinho-mg/",
-      "resumo": "Presidente do Corte, ministro Edson Fachin, suspendeu decisão do STJ que impedia o repasse de recursos às famílias afetadas pelo desastre de 2019",
+      "resumo": "Presidente da Corte, ministro Edson Fachin, suspendeu decisão do STJ que impedia o repasse de recursos às famílias afetadas pelo desastre de 2019",
       "publicado_em": "2026-11-23T16:46:32-03:00",
       "dia": "2026-11-23",
       "data_estimada": false,
