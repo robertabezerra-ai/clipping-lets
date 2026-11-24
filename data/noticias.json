@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-23T19:27:29-03:00",
+  "gerado_em": "2026-11-23T22:19:23-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 401 Client Error: Unauthorized for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -154,9 +154,9 @@
     },
     {
       "id": "pgfn",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 28,
+      "erro": null
     },
     {
       "id": "senado",
@@ -172,21 +172,21 @@
     },
     {
       "id": "receita_federal",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "fazenda",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anpd",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anbima",
@@ -198,7 +198,7 @@
       "id": "cvm",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "erro": "falhou após 3 tentativas: 404 Client Error:  for url: https://www.gov.br/cvm/pt-br/assuntos/noticias/RSS"
     },
     {
       "id": "bacen",
@@ -210,13 +210,13 @@
       "id": "coaf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "cnj",
@@ -228,13 +228,13 @@
       "id": "mjsp",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "carf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/carf/pt-br/assuntos/novas-noticias"
     },
     {
       "id": "governo_federal",
@@ -343,6 +343,54 @@
       "coletado_em": "2026-11-23T19:27:29-03:00"
     },
     {
+      "id": "10b2692a4df4976a",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Presidente Ana Paula Lockmann empossa dois novos juízes titulares de Vara do Trabalho",
+      "link": "https://trt15.jus.br/noticia/2026/presidente-ana-paula-lockmann-empossa-dois-novos-juizes-titulares-de-vara-do-trabalho",
+      "resumo": "Presidente Ana Paula Lockmann empossa dois novos juízes titulares de Vara do Trabalho anasiqueira Seg, 23/11/2026 - 18:19 Presidente Ana Paula Lockmann empossa dois novos juízes titulares de Vara do Trabalho Conteúdo da Notícia Tomaram posse nesta segunda-feira, 23/11, como titulares de Vara do Trab",
+      "publicado_em": "2026-11-23T18:19:32-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "posse"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "0ba185ef4f5618b3",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Cejusc de São José dos Campos homologa acordo de R$ 7 milhões em ação coletiva de metalúrgicos",
+      "link": "https://trt15.jus.br/noticia/2026/cejusc-de-sao-jose-dos-campos-homologa-acordo-de-r-7-milhoes-em-acao-coletiva-de",
+      "resumo": "Cejusc de São José dos Campos homologa acordo de R$ 7 milhões em ação coletiva de metalúrgicos anasiqueira Seg, 23/11/2026 - 18:15 Cejusc de São José dos Campos homologa acordo de R$ 7 milhões em ação coletiva de metalúrgicos Conteúdo da Notícia O Centro Judiciário de Métodos Consensuais de Solução ",
+      "publicado_em": "2026-11-23T18:15:51-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "971957784de58819",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 lamenta falecimento do desembargador Antonio Francisco Montanagna",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-lamenta-falecimento-do-desembargador-antonio-francisco-montanagna",
+      "resumo": "TRT-15 lamenta falecimento do desembargador Antonio Francisco Montanagna anasiqueira Seg, 23/11/2026 - 18:12 TRT-15 lamenta falecimento do desembargador Antonio Francisco Montanagna Conteúdo da Notícia O Tribunal Regional do Trabalho da 15ª Região lamenta profundamente o falecimento do desembargador",
+      "publicado_em": "2026-11-23T18:12:44-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "falecimento"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
       "id": "7b38968e70f320e3",
       "fonte_id": "trt15",
       "fonte_nome": "TRT-15",
@@ -435,6 +483,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-23T19:27:29-03:00"
+    },
+    {
+      "id": "01b82eddd75f4fee",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF vai definir alcance de regra do Código Florestal para proteção de entorno de reservatórios antigos",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-vai-definir-alcance-de-regra-do-codigo-florestal-para-protecao-de-entorno-de-reservatorios-antigos/",
+      "resumo": "Corte decidirá se regra que estabelece limites das áreas protegidas vale apenas para a consolidação de ocupações ocorridas até julho de 2008",
+      "publicado_em": "2026-11-23T20:29:25-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
     },
     {
       "id": "1ee34abeb552fed0",
@@ -799,6 +863,112 @@
       "coletado_em": "2026-11-23T19:27:29-03:00"
     },
     {
+      "id": "b66108a25cb934dc",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal e Polícia Federal apreendem medicamentos ocultos em veículo no norte do Paraná",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-policia-federal-apreendem-medicamentos-ocultos-em-veiculo-no-norte-do-parana",
+      "resumo": "",
+      "publicado_em": "2026-11-23T16:02:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "8f2c47d1eacf0c47",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende mais de 25 kg de cabelos humanos na Aduana da Ponte da Amizade",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-apreende-mais-de-25-kg-de-cabelos-humanos-na-aduana-da-ponte-da-amizade",
+      "resumo": "",
+      "publicado_em": "2026-11-23T15:19:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "9533a429af6bf258",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal apreende mais de 700 ampolas de medicamentos emagrecedores em motocicleta na Aduana da Ponte da Amizade",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-apreende-mais-de-700-ampolas-de-medicamentos-emagrecedores-em-motocicleta-na-aduana-da-ponte-da-amizade",
+      "resumo": "",
+      "publicado_em": "2026-11-23T14:17:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "apreende"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "fdaf3bab03e93e15",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal comenta nesta terça-feira (24/11) a arrecadação do mês de outubro",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-comenta-nesta-terca-feira-24-11-a-arrecadacao-do-mes-de-outubro",
+      "resumo": "",
+      "publicado_em": "2026-11-23T13:42:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "54e3103bcc9dde61",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal retém 1 tonelada de maconha oculta em carga de milho em Ponta Grossa",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-retem-1-tonelada-de-maconha-oculta-em-carga-de-milho-em-ponta-grossa",
+      "resumo": "",
+      "publicado_em": "2026-11-23T08:47:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "d224800051aaf771",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal abre consulta ao lote residual de restituição do IRPF 2026 nesta segunda-feira (23)",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-abre-consulta-ao-lote-residual-de-restituicao-do-irpf-2026-nesta-segunda-feira-23",
+      "resumo": "",
+      "publicado_em": "2026-11-23T07:22:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "84bf671cf4b22063",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "Atendimento suspenso na unidade da PGFN em Alagoas",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/atendimento-suspenso-na-unidade-da-pgfn-em-alagoas",
+      "resumo": "",
+      "publicado_em": "2026-11-23T12:00:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
       "id": "522671318682fe8f",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1038,6 +1208,82 @@
       "coletado_em": "2026-11-23T19:27:29-03:00"
     },
     {
+      "id": "a5e9261e9bebe9d8",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Secretaria de Reformas Econômicas e Cade formalizam parceria para fortalecer a defesa da concorrência",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/secretaria-de-reformas-economicas-e-cade-formalizam-parceria-para-fortalecer-a-defesa-da-concorrencia",
+      "resumo": "",
+      "publicado_em": "2026-11-23T12:00:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "3929b6ec968e77f7",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Unidade da PGFN em Maceió (AL)  tem atendimento presencial  suspenso por causa de incêndio",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/unidade-da-pgfn-em-maceio-al-tem-atendimento-presencial-suspenso-por-causa-de-incendio",
+      "resumo": "",
+      "publicado_em": "2026-11-23T12:00:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "a8e70f1b49b2e493",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal amplia acesso ao ambiente de produção restrita do Piloto da CBS",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-amplia-acesso-ao-ambiente-de-producao-restrita-do-piloto-da-cbs",
+      "resumo": "",
+      "publicado_em": "2026-11-23T12:00:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "cbs"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "2141fe2b8c466b8f",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "OLITEF reúne mais de 2 milhões de estudantes em 2026 e abre inscrições para quarta edição",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/olitef-reune-mais-de-2-milhoes-de-estudantes-em-2026-e-abre-inscricoes-para-quarta-edicao",
+      "resumo": "",
+      "publicado_em": "2026-11-23T12:00:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "b5faf1c875b73162",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal abriu consulta ao lote residual de restituição do Imposto de Renda 2026 nesta segunda-feira (23/11)",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-abriu-consulta-ao-lote-residual-de-restituicao-do-imposto-de-renda-2026-nesta-segunda-feira-23-11",
+      "resumo": "",
+      "publicado_em": "2026-11-23T12:00:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "imposto"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
       "id": "8d2d997dd4bd2c2a",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1067,6 +1313,24 @@
         "acao"
       ],
       "coletado_em": "2026-11-23T19:27:29-03:00"
+    },
+    {
+      "id": "efe4e635133cb2ce",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "AO VIVO: Câmara aprova urgência para projeto de ajuste fiscal",
+      "link": "https://www.congressoemfoco.com.br/noticia/131808/ao-vivo-camara-aprova-urgencia-para-projeto-de-ajuste-fiscal",
+      "resumo": "Votação ocorre sob pressão do governo, que pretende evitar contingenciamento maior de recursos antes de anúncio previsto para terça-feira.",
+      "publicado_em": "2026-11-23T17:40:26-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "aprova",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
     },
     {
       "id": "4009584fe74c55a7",
@@ -1455,6 +1719,94 @@
       "coletado_em": "2026-11-23T19:27:29-03:00"
     },
     {
+      "id": "5e0e621e7c82a018",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Relator defende ajuste fiscal e garante proteção a benefícios sociais; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1322102-relator-defende-ajuste-fiscal-e-garante-protecao-a-beneficios-sociais-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-23T20:46:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "72e21bb946961be0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Hugo Motta destaca pluralidade e independência do Legislativo ao receber novos deputados",
+      "link": "https://www.camara.leg.br/noticias/1322114-hugo-motta-destaca-pluralidade-e-independencia-do-legislativo-ao-receber-novos-deputados",
+      "resumo": "",
+      "publicado_em": "2026-11-23T20:38:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "b9ff96f435bb8d1a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova auditoria de licitações com inteligência artificial",
+      "link": "https://www.camara.leg.br/noticias/1322046-comissao-aprova-auditoria-de-licitacoes-com-inteligencia-artificial",
+      "resumo": "",
+      "publicado_em": "2026-11-23T20:23:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "cbd2f20a968e1904",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados analisam proposta de ajuste fiscal; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1322109-deputados-analisam-proposta-de-ajuste-fiscal-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-23T19:57:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "4ac33b82d64d0e4d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados aprovam urgência para projeto do ajuste fiscal; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1322096-deputados-aprovam-urgencia-para-projeto-do-ajuste-fiscal-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-23T19:52:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "46d9779578477c78",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara analisa urgência da proposta de ajuste fiscal do governo; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1322069-camara-analisa-urgencia-da-proposta-de-ajuste-fiscal-do-governo-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-23T19:28:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
       "id": "3d151dfcadb94750",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -1615,6 +1967,22 @@
       "coletado_em": "2026-11-23T19:27:29-03:00"
     },
     {
+      "id": "ad68a95ed00df2e4",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade atualiza Sistema Eletrônico de Informações (SEI) para reforçar segurança e estabilidade",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-atualiza-sistema-eletronico-de-informacoes-sei-para-reforcar-seguranca-e-estabilidade",
+      "resumo": "",
+      "publicado_em": "2026-11-23T12:00:00-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
       "id": "247b8dc3fd57d50c",
       "fonte_id": "bacen",
       "fonte_nome": "Bacen",
@@ -1629,6 +1997,38 @@
         "acao"
       ],
       "coletado_em": "2026-11-23T19:27:29-03:00"
+    },
+    {
+      "id": "f95b88f0494e7c2c",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD amplia cooperação internacional durante a 48ª Assembleia Global de Privacidade, em Bruxelas",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-amplia-cooperacao-internacional-durante-a-48a-assembleia-global-de-privacidade-em-bruxelas",
+      "resumo": "Delegação da Agência participou de debates sobre IA, interoperabilidade regulatória, reuniões com autoridades e empresas de tecnologia, além de premiação internacional",
+      "publicado_em": "2026-11-23T18:52:45-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
+    },
+    {
+      "id": "d550b729296643f7",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD lança programa para intercâmbio de estudantes na Agência",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-lanca-programa-para-intercambio-de-estudantes-na-agencia",
+      "resumo": "Inscrições para alunos de mestrado e doutorado abrem nesta segunda (23). Objetivo é o desenvolvimento de soluções inovadoras voltadas aos desafios da proteção de dados e IA",
+      "publicado_em": "2026-11-23T08:51:32-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "protecao de dados"
+      ],
+      "coletado_em": "2026-11-23T22:19:23-03:00"
     },
     {
       "id": "3a50031b81d63e62",
