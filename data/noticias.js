@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-25T17:22:49-03:00",
+  "gerado_em": "2026-11-25T19:51:17-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -126,7 +126,7 @@ window.DADOS = {
       "id": "stj",
       "status": "falhou",
       "itens": 0,
-      "erro": "'padrao_link'"
+      "erro": "falhou após 3 tentativas: 403 Client Error: Forbidden for url: https://www.stj.jus.br/sites/portalp/Inicio"
     },
     {
       "id": "tst",
@@ -154,14 +154,14 @@ window.DADOS = {
     },
     {
       "id": "pgfn",
-      "status": "ok",
-      "itens": 28,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "senado",
       "status": "ok",
-      "itens": 19,
+      "itens": 20,
       "erro": null
     },
     {
@@ -172,21 +172,21 @@ window.DADOS = {
     },
     {
       "id": "receita_federal",
-      "status": "ok",
-      "itens": 29,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "fazenda",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "anpd",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "anbima",
@@ -198,7 +198,7 @@ window.DADOS = {
       "id": "cvm",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 404 Client Error:  for url: https://www.gov.br/cvm/pt-br/assuntos/noticias/RSS"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "bacen",
@@ -210,13 +210,13 @@ window.DADOS = {
       "id": "coaf",
       "status": "falhou",
       "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "cade",
-      "status": "ok",
-      "itens": 30,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "cnj",
@@ -228,13 +228,13 @@ window.DADOS = {
       "id": "mjsp",
       "status": "falhou",
       "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "carf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/carf/pt-br/assuntos/novas-noticias"
+      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "id": "governo_federal",
@@ -359,6 +359,39 @@ window.DADOS = {
       "coletado_em": "2026-11-25T17:22:49-03:00"
     },
     {
+      "id": "b239ccf114674228",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "TJSP promove lançamento de coletânea de artigos sobre os 20 anos da Lei Maria da Penha",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116133&pagina=1",
+      "resumo": "Obra idealizada pelo Fovid-SP, em parceria com a EPM.\n \n\tNeste 25 de novembro, Dia Internacional pela Eliminação da Violência contra a Mulher, o Palácio da",
+      "publicado_em": "2026-11-25T12:00:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "33b4306d13ad5ab1",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF valida exigência de indicação de valor em ações trabalhistas",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-valida-exigencia-de-indicacao-de-valor-em-acoes-trabalhistas/",
+      "resumo": "Para o Plenário, regra da Reforma Trabalhista não restringe o acesso à Justiça",
+      "publicado_em": "2026-11-25T19:38:16-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "trabalhista",
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
       "id": "07b16305fae926cf",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -422,6 +455,319 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-11-25T17:22:49-03:00"
+    },
+    {
+      "id": "ffbc284dee1d0e5b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova formalização da Força Nacional do SUS",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-aprova-formalizacao-da-forca-nacional-do-sus",
+      "resumo": "",
+      "publicado_em": "2026-11-25T19:30:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "a527338ae4bb8a5b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCT aprova 39 concessões e renovações para emissoras de rádio",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cct-aprova-39-concessoes-e-renovacoes-para-emissoras-de-radio",
+      "resumo": "",
+      "publicado_em": "2026-11-25T19:24:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "adi",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "6d1d90a336f4840d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Randolfe faz balanço de gestão no Conselho Editorial do Senado",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/randolfe-faz-balanco-de-gestao-no-conselho-editorial-do-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-25T19:20:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "8c7ce9a0f1c5e946",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovado relatório sobre diligência de subcomissão no território ianomâmi",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/aprovado-relatorio-sobre-diligencia-de-subcomissao-no-territorio-ianomami",
+      "resumo": "",
+      "publicado_em": "2026-11-25T19:20:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 44,
+      "tags": [
+        "aprovado",
+        "aprova",
+        "diligencia"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "0696bcd7817dd5ba",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "'Lei Benício', contra erros no atendimento pediátrico, avança na CAS",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/lei-benicio-contra-erros-no-atendimento-pediatrico-avanca-na-cas",
+      "resumo": "",
+      "publicado_em": "2026-11-25T18:54:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "61dbea12086c0187",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CRA aprova projeto que diferencia aquicultura da pesca extrativa",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cra-aprova-projeto-que-diferencia-aquicultura-da-pesca-extrativa",
+      "resumo": "",
+      "publicado_em": "2026-11-25T18:51:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "abfcfd126e5fdb2e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CRA aprova ampliação do prazo de proteção de novas variedades de plantas",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cra-aprova-ampliacao-do-prazo-de-protecao-de-novas-variedades-de-plantas",
+      "resumo": "",
+      "publicado_em": "2026-11-25T18:50:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 66,
+      "tags": [
+        "prazo",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "6909bde2969d16d0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado celebra 40 anos da Associação Brasileira das Empresas de Software",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-celebra-40-anos-da-associacao-brasileira-das-empresas-de-software",
+      "resumo": "",
+      "publicado_em": "2026-11-25T18:43:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "9d5f5e9579fd01c5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Previsão de receita para 2027 sobe R$ 37,1 bilhões no Orçamento",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/previsao-de-receita-para-2027-sobe-r-37-1-bilhoes-no-orcamento",
+      "resumo": "",
+      "publicado_em": "2026-11-25T18:36:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "7aeee24b9d90925f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Municípios que comprarem da agricultura familiar podem ter bônus para merenda",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/municipios-que-comprarem-da-agricultura-familiar-podem-ter-bonus-para-merenda",
+      "resumo": "",
+      "publicado_em": "2026-11-25T18:27:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "67ceea72acb53a4b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Plenário aprova calendário especial para PEC do Fundo Constitucional do DF",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/plenario-aprova-calendario-especial-para-pec-do-fundo-constitucional-do-df",
+      "resumo": "",
+      "publicado_em": "2026-11-25T18:26:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "09ed4ac7cfee48c2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Relatório eleva em R$ 37,1 bilhões a previsão de receita para 2027",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-eleva-em-r-37-1-bilhoes-a-previsao-de-receita-para-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-25T18:11:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "3838a89cf1a4225a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova estímulo à inclusão digital de idosos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/senado-aprova-estimulo-a-inclusao-digital-de-idosos",
+      "resumo": "",
+      "publicado_em": "2026-11-25T18:02:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "08a4ee322408183a",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Prevenção ao feminicídio chega a 600 escolas da Paraíba, relata Daniella",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/prevencao-ao-feminicidio-chega-a-600-escolas-da-paraiba-relata-daniella",
+      "resumo": "",
+      "publicado_em": "2026-11-25T18:02:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "95384b5699d61ff5",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CRA aprova destinar verba de fundo federal para saneamento no campo",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cra-aprova-destinar-verba-de-fundo-federal-para-saneamento-no-campo",
+      "resumo": "",
+      "publicado_em": "2026-11-25T17:58:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "97bbbc4cc4f65272",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Fim do trabalho intermitente recebe parecer contrário na CDH",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/fim-do-trabalho-intermitente-recebe-parecer-contrario-na-cdh",
+      "resumo": "",
+      "publicado_em": "2026-11-25T17:44:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "c29ce845868d4777",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Subcomissão Yanomami aprova relatório que propõe plano decenal de proteção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/subcomissao-yanomami-aprova-relatorio-que-propoe-plano-decenal-de-protecao",
+      "resumo": "",
+      "publicado_em": "2026-11-25T17:37:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "cd635eb2397d4556",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CCT aprova proibição de embalagens plásticas em livros; texto vai à CMA",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cct-aprova-proibicao-de-embalagens-plasticas-em-livros-texto-vai-a-cma",
+      "resumo": "",
+      "publicado_em": "2026-11-25T17:32:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "9042b2e3ac2d9bd0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Força Nacional do SUS ganha respaldo em lei e texto vai à sanção",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/forca-nacional-do-sus-ganha-respaldo-em-lei-e-texto-vai-a-sancao",
+      "resumo": "",
+      "publicado_em": "2026-11-25T17:23:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "sancao",
+        "vai a sancao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "71829aab5fa8cdb2",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Criação da Lei da Dignidade Sexual vai ao Plenário com urgência",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/criacao-da-lei-da-dignidade-sexual-vai-ao-plenario-com-urgencia",
+      "resumo": "",
+      "publicado_em": "2026-11-25T17:19:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
     },
     {
       "id": "ca9b52a8224669d5",
@@ -779,6 +1125,67 @@ window.DADOS = {
       "coletado_em": "2026-11-25T17:22:49-03:00"
     },
     {
+      "id": "996a1cb8b7018162",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Em nota, Governo do Brasil manifesta 'indignação' com novas tarifas dos Estados Unidos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/nota-a-imprensa-sobre-as-tarifas-dos-estados-unidos-para-aeronaves-e-acucar-brasileiro",
+      "resumo": "",
+      "publicado_em": "2026-11-25T17:55:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "6a9fb1efb4f46e82",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Gestão lança novo guia com cenários práticos para uso da IA no serviço público",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/inteligencia-artificial-no-servico-publico-mgi-divulga-guia-com-10-cenarios-praticos-para-uso-no-dia-a-dia-dos-servidores",
+      "resumo": "",
+      "publicado_em": "2026-11-25T17:47:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "533a39a882435cfa",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Fazenda adia por 90 dias quitação de dívidas renegociadas em Tupanciretã",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/pgfn-prorroga-vencimentos-de-dividas-e-suspende-cobrancas-em-tupancireta-rs-por-calamidade-publica",
+      "resumo": "",
+      "publicado_em": "2026-11-25T17:30:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "c713f49d69ef1280",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Lula sanciona lei de ajuste fiscal e medidas entram em vigor. Veja resumo",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-lula-sanciona-lei-que-combate-privilegios-tributarios-e-fortalece-o-equilibrio-das-contas-publicas",
+      "resumo": "",
+      "publicado_em": "2026-11-25T17:17:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
       "id": "b808bb59be4c5bdd",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1027,6 +1434,162 @@ window.DADOS = {
       "coletado_em": "2026-11-25T17:22:49-03:00"
     },
     {
+      "id": "6ddaee96891ce299",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cabo Gilberto ecoa Van Hattem e chama Andrei de \"criminoso\" na tribuna",
+      "link": "https://www.congressoemfoco.com.br/noticia/131898/cabo-gilberto-ecoa-van-hattem-e-chama-andrei-de-criminoso-na-tribuna",
+      "resumo": "Deputado reproduziu acusações de Marcel van Hattem, alvo de denúncia da PGR por calúnia e injúria contra delegado da Polícia Federal.",
+      "publicado_em": "2026-11-25T19:20:56-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "3510d5e7feeab6fe",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Otoni tenta presentear Cabo Gilberto com \"peru do Lula\" no plenário",
+      "link": "https://www.congressoemfoco.com.br/noticia/131897/otoni-tenta-presentear-cabo-gilberto-com-peru-do-lula-no-plenario",
+      "resumo": "Deputado afirmou que \"peru do Lula é mais barato que peru do Bolsonaro\" e tentou presentear líder da oposição com a ave.",
+      "publicado_em": "2026-11-25T19:08:35-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "b65c85e237ddaccd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Trump concede perdão a dois perus em tradição do Dia de Ação de Graças",
+      "link": "https://www.congressoemfoco.com.br/noticia/131896/trump-concede-perdao-a-dois-perus-em-tradicao-do-dia-de-acao-de-gracas",
+      "resumo": "Cerimônia tradicional da Casa Branca poupou as aves Freedom e Feathers do abate e serviu de palco para o presidente destacar obras na sede do governo.",
+      "publicado_em": "2026-11-25T18:44:46-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "adi",
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "41763264b38e94ab",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vai ao Senado projeto que proíbe acordo penal em crimes de racismo",
+      "link": "https://www.congressoemfoco.com.br/noticia/131895/vai-ao-senado-projeto-que-proibe-acordo-penal-em-crimes-de-racismo",
+      "resumo": "Proposta de Benedita da Silva altera o Código de Processo Penal e abrange casos de injúria racial, homofobia e transfobia.",
+      "publicado_em": "2026-11-25T17:49:37-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "6cb8bb2049a687f9",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bilynskyj diz que vai disputar presidência da Comissão da Mulher",
+      "link": "https://www.congressoemfoco.com.br/noticia/131894/bilynskyj-diz-que-vai-disputar-presidencia-da-comissao-da-mulher",
+      "resumo": "Deputado do PL fez o anúncio após passar à suplência no colegiado.",
+      "publicado_em": "2026-11-25T17:49:16-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "7310bf155875a7cf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "TCU arquiva processo contra Dilma, Guido Mantega e Miriam Belchior",
+      "link": "https://www.congressoemfoco.com.br/noticia/131893/tcu-arquiva-processo-contra-dilma-guido-mantega-e-miriam-belchior",
+      "resumo": "Julgamento encerra um processo instaurado em dezembro de 2014 que apurava as chamadas pedaladas fiscais.",
+      "publicado_em": "2026-11-25T17:45:58-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "processo"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "e0577534bfe45e60",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "\"Chacota\": Daniella Ribeiro rebate fala de Rogério Marinho no Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/131892/chacota--daniella-ribeiro-rebate-fala-de-rogerio-marinho-no-senado",
+      "resumo": "Senadora também associou as críticas de Marinho a disputa política com a presidência do Senado e afirmou que ele não teria mais idade para agir dessa forma.",
+      "publicado_em": "2026-11-25T17:37:03-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "1fdefca4639b9954",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Hildo Rocha propõe PEC para garantir paridade de gênero no STF",
+      "link": "https://www.congressoemfoco.com.br/noticia/131891/hildo-rocha-propoe-pec-para-garantir-paridade-de-genero-no-stf",
+      "resumo": "Deputado defende alternância entre homens e mulheres nas indicações à Corte e mandato de dez anos para os ministros.",
+      "publicado_em": "2026-11-25T17:26:02-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "2fc141984a39aeea",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Proteção em até 24h em casos de tentativa de feminicídio avança",
+      "link": "https://www.congressoemfoco.com.br/noticia/131890/protecao-em-ate-24h-em-casos-de-tentativa-de-feminicidio-avanca",
+      "resumo": "Prazo cai pela metade quando a tentativa constar dos documentos recebidos pela Justiça. Projeto segue para a CCJ da Câmara.",
+      "publicado_em": "2026-11-25T17:23:34-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "prazo"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "fc03bed37ee41c72",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto que garante a idosos acesso a tecnologias vai à sanção",
+      "link": "https://www.congressoemfoco.com.br/noticia/131889/projeto-que-garante-a-idosos-acesso-a-tecnologias-vai-a-sancao",
+      "resumo": "Proposta altera o Estatuto da Pessoa Idosa e prevê o acesso a recursos tecnológicos que estimulem a memória, a aprendizagem e a participação social.",
+      "publicado_em": "2026-11-25T17:22:45-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 76,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
       "id": "d8d7ee640ec3b4fa",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -1058,6 +1621,22 @@ window.DADOS = {
         "aprova"
       ],
       "coletado_em": "2026-11-25T17:22:49-03:00"
+    },
+    {
+      "id": "22595ab9101da0cf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Uma missão nacional pelo direito de crescer com cuidado",
+      "link": "https://www.congressoemfoco.com.br/coluna/131886/uma-missao-nacional-pelo-direito-de-crescer-com-cuidado",
+      "resumo": "Filiação, sustento e convivência deveriam prioridades do próximo mandato.",
+      "publicado_em": "2026-11-25T15:28:46-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
     },
     {
       "id": "9d05196d4198b928",
@@ -1450,6 +2029,215 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-25T17:22:49-03:00"
+    },
+    {
+      "id": "d1bf0b9da32f1116",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Comitê Nacional PopRuaJud reforça ações implantadas em 2026",
+      "link": "https://www.cnj.jus.br/comite-nacional-popruajud-reforca-acoes-implantadas-em-2026/",
+      "resumo": "A operacionalização dos mutirões voltados para o atendimento de pessoas em situação de rua, a estruturação de protocolos e os estudos produzidos sobre a subnotificação de pessoas egressas do sistema prisional que vivem nas ruas foram o destaque dos debates realizado no 3º Encontro Nacional PopRuaJud",
+      "publicado_em": "2026-11-25T12:00:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "580323c8970ed392",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ capacita defensores públicos sobre resoluções das áreas penal e socioeducativa",
+      "link": "https://www.cnj.jus.br/cnj-capacita-defensores-publicos-sobre-resolucoes-das-areas-penal-e-socioeducativa/",
+      "resumo": "A aplicação das normativas do Conselho Nacional de Justiça (CNJ) na rotina dos sistemas penal e socioeducativo esteve no centro da 3ª edição do curso “Justiça Penal e Justiça Juvenil Atualizadas: resoluções do CNJ na prática”. A formação reuniu 320 integrantes de defensorias públicas de diferentes r",
+      "publicado_em": "2026-11-25T12:00:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "c3ec4ae6e29b0f31",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Corregedoria do TJRJ autoriza a coleta de biometria em recém-nascidos",
+      "link": "https://www.cnj.jus.br/corregedoria-do-tjrj-autoriza-a-coleta-de-biometria-em-recem-nascidos/",
+      "resumo": "Certidão de nascimento com as biometrias dos bebês recém-nascidos e das mães já é realidade. A Corregedoria Geral da Justiça do Rio de Janeiro autorizou os cartórios do estado a realizarem registros de nascimento com coleta de dados biométricos de mães e recém-nascidos em hospitais públicos e privad",
+      "publicado_em": "2026-11-25T12:00:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "a30b442938d6e03f",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pena Justa: presidente do CNJ visita presidente da CNBB para fortalecer cooperação",
+      "link": "https://www.cnj.jus.br/pena-justa-presidente-do-cnj-visita-presidente-da-cnbb-para-fortalecer-cooperacao/",
+      "resumo": "O presidente do Conselho Nacional de Justiça (CNJ) e do Supremo Tribunal Federal (STF), ministro Edson Fachin, fez uma visita institucional, na manhã desta quarta-feira (25/11), ao presidente da Conferência Nacional dos Bispos do Brasil (CNBB), cardeal dom Jaime Spengler, na sede da entidade, em Bra",
+      "publicado_em": "2026-11-25T12:00:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": true,
+      "score": 34,
+      "tags": [
+        "acao",
+        "visita"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "7c0946d2cc2cf944",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Corregedoria Nacional abre atividades da inspeção de rotina no TJAP",
+      "link": "https://www.cnj.jus.br/corregedoria-nacional-abre-atividades-da-inspecao-de-rotina-no-tjap/",
+      "resumo": "A Corregedoria Nacional de Justiça abriu, nesta quarta-feira (25/11), em cerimônia oficial realizada no plenário do Tribunal de Justiça do Amapá (TJAP), as atividades da inspeção ordinária no Judiciário estadual amapaense. O evento contou com a participação do corregedor nacional de justiça, ministr",
+      "publicado_em": "2026-11-25T12:00:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "115b7f06a00f2db4",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Nova política propõe incorporar o cuidado à rotina dos tribunais e às decisões judiciais",
+      "link": "https://www.cnj.jus.br/nova-politica-propoe-incorporar-o-cuidado-a-rotina-dos-tribunais-e-as-decisoes-judiciais/",
+      "resumo": "O cuidado deve integrar a própria compreensão do que é a Justiça. A partir desse entendimento foi estruturada a proposta de criação da Política Judiciária Nacional de Cuidados. O texto aprimora a maneira como o Poder Judiciário organiza o trabalho, atende a população e conduz os processos judiciais.",
+      "publicado_em": "2026-11-25T12:00:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "a59d92eb967b6a9c",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "21 Dias de Ativismo: sinais de violência contra a mulher podem aparecer muito antes da agressão física",
+      "link": "https://www.cnj.jus.br/21-dias-de-ativismo-sinais-de-violencia-contra-a-mulher-podem-aparecer-muito-antes-da-agressao-fisica/",
+      "resumo": "Ela deixa de usar uma roupa porque sabe que ele não gosta. Evita encontrar amigas para não provocar uma discussão. Apaga mensagens, muda o jeito de falar e começa a pensar duas vezes antes de expressar uma opinião. Aos poucos, decisões que antes eram suas passam a depender da reação",
+      "publicado_em": "2026-11-25T12:00:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "a28ea38107f0d33e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Criação da Comissão Nacional Indígena da Verdade recebe apoio unânime em audiência na Câmara",
+      "link": "https://www.camara.leg.br/noticias/1323062-criacao-da-comissao-nacional-indigena-da-verdade-recebe-apoio-unanime-em-audiencia-na-camara",
+      "resumo": "",
+      "publicado_em": "2026-11-25T19:42:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "195de2aa6121b22b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Especialistas divergem sobre proposta de redução da maioridade penal durante debate na Câmara",
+      "link": "https://www.camara.leg.br/noticias/1323059-especialistas-divergem-sobre-proposta-de-reducao-da-maioridade-penal-durante-debate-na-camara",
+      "resumo": "",
+      "publicado_em": "2026-11-25T19:37:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "513130ac594f59fe",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova marco regulatório da educação em tempo integral",
+      "link": "https://www.camara.leg.br/noticias/1322878-camara-aprova-marco-regulatorio-da-educacao-em-tempo-integral",
+      "resumo": "",
+      "publicado_em": "2026-11-25T19:11:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "818bb7dad1b32e0a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova projeto que proíbe acordo de não persecução penal em crimes de racismo",
+      "link": "https://www.camara.leg.br/noticias/1323068-camara-aprova-projeto-que-proibe-acordo-de-nao-persecucao-penal-em-crimes-de-racismo",
+      "resumo": "",
+      "publicado_em": "2026-11-25T18:50:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "99459aca2283e34c",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova protocolo contra discriminação racial nas escolas",
+      "link": "https://www.camara.leg.br/noticias/1323029-camara-aprova-protocolo-contra-discriminacao-racial-nas-escolas",
+      "resumo": "",
+      "publicado_em": "2026-11-25T18:44:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "10333e3ec168d8e0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova alerta automático para mulher monitorar aproximação de agressor",
+      "link": "https://www.camara.leg.br/noticias/1322986-camara-aprova-alerta-automatico-para-mulher-monitorar-aproximacao-de-agressor",
+      "resumo": "",
+      "publicado_em": "2026-11-25T17:35:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T19:51:17-03:00"
     },
     {
       "id": "2e15a3e1c1df2df8",
