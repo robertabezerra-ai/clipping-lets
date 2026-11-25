@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-24T20:17:55-03:00",
+  "gerado_em": "2026-11-24T21:19:15-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 17,
+      "itens": 16,
       "erro": null
     },
     {
@@ -437,6 +437,24 @@
       "coletado_em": "2026-11-24T20:17:55-03:00"
     },
     {
+      "id": "5915cf208d9011c3",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF recebe mais uma ação sobre distribuição de sobras eleitorais",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-recebe-mais-uma-acao-sobre-distribuicao-de-sobras-eleitorais/",
+      "resumo": "Apresentada pelo Solidariedade, ADI se soma a outra ação sobre o tema; ambas são relatadas pelo ministro Gilmar Mendes",
+      "publicado_em": "2026-11-24T20:19:24-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 42,
+      "tags": [
+        "adi",
+        "acao",
+        "solidariedade"
+      ],
+      "coletado_em": "2026-11-24T21:19:15-03:00"
+    },
+    {
       "id": "114f7573771f3cfd",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -515,6 +533,84 @@
         "falecimento"
       ],
       "coletado_em": "2026-11-24T17:59:32-03:00"
+    },
+    {
+      "id": "f6adf38403b148c9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova Plano Nacional de Cultura para os próximos 10 anos",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-aprova-plano-nacional-de-cultura-para-os-proximos-10-anos",
+      "resumo": "",
+      "publicado_em": "2026-11-24T20:56:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-24T21:19:15-03:00"
+    },
+    {
+      "id": "f951a460720fa566",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Participantes de oficina legislativa serão premiados em sessão especial",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/participantes-de-oficina-legislativa-serao-premiados-em-sessao-especial",
+      "resumo": "",
+      "publicado_em": "2026-11-24T20:49:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-24T21:19:15-03:00"
+    },
+    {
+      "id": "14c58ecb1d1d9f39",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado vai analisar uso mais amplo da linguagem braile no cotidiano",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/senado-vai-analisar-uso-mais-amplo-da-linguagem-braile-no-cotidiano",
+      "resumo": "",
+      "publicado_em": "2026-11-24T20:33:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-24T21:19:15-03:00"
+    },
+    {
+      "id": "723160c58caa90ff",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovado projeto que tipifica crime de tráfico de animais silvestres",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/aprovado-projeto-que-tipifica-crime-de-trafico-de-animais-silvestres",
+      "resumo": "",
+      "publicado_em": "2026-11-24T20:31:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-24T21:19:15-03:00"
+    },
+    {
+      "id": "4cbd1ba761a26126",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Aprovados pelo Senado 4 cargos de desembargador no TRT de Goiás",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/24/aprovados-pelo-senado-4-cargos-de-desembargador-no-trt-de-goias",
+      "resumo": "",
+      "publicado_em": "2026-11-24T20:27:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprovado",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-24T21:19:15-03:00"
     },
     {
       "id": "050957b74894fa7f",
@@ -1077,6 +1173,22 @@
       "coletado_em": "2026-11-24T17:59:32-03:00"
     },
     {
+      "id": "707d20658ff94b8a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo, FIFA, CBF e cidades-sede avançam na preparação da Copa do Mundo Feminina",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-do-brasil-reune-em-brasilia-fifa-cbf-e-cidades-sede-para-avancar-na-preparacao-da-copa-do-mundo-feminina-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-24T13:05:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-24T17:59:32-03:00"
+    },
+    {
       "id": "b8b64d91e4daab36",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1211,6 +1323,22 @@
         "acao"
       ],
       "coletado_em": "2026-11-24T17:59:32-03:00"
+    },
+    {
+      "id": "5d7b2583eb0d82fe",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Missão entrega a Cleitinho projeto que restringe emendas a shows em MG",
+      "link": "https://www.congressoemfoco.com.br/noticia/131856/missao-entrega-a-cleitinho-projeto-que-restringe-emendas-a-shows-em-mg",
+      "resumo": "Proposta apresentada por Renan Santos condiciona a disponibilidade de recursos públicos para shows ao desempenho das prefeituras.",
+      "publicado_em": "2026-11-24T20:31:47-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-24T21:19:15-03:00"
     },
     {
       "id": "5022134baf741684",
@@ -1747,6 +1875,25 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-24T20:17:55-03:00"
+    },
+    {
+      "id": "5da9d2b8c8854014",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova recomendações de fiscalização dos crimes de Mariana e Brumadinho",
+      "link": "https://www.camara.leg.br/noticias/1322628-comissao-aprova-recomendacoes-de-fiscalizacao-dos-crimes-de-mariana-e-brumadinho",
+      "resumo": "",
+      "publicado_em": "2026-11-24T20:26:00-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 44,
+      "tags": [
+        "adi",
+        "aprova",
+        "acao",
+        "comenda"
+      ],
+      "coletado_em": "2026-11-24T21:19:15-03:00"
     },
     {
       "id": "e2d0487d3f8e67f8",
@@ -2858,22 +3005,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-23T22:19:23-03:00"
-    },
-    {
-      "id": "707d20658ff94b8a",
-      "fonte_id": "governo_federal",
-      "fonte_nome": "Governo Federal",
-      "titulo": "Governo, FIFA, CBF e cidades-sede avançam na preparação da Copa do Mundo Feminina",
-      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-do-brasil-reune-em-brasilia-fifa-cbf-e-cidades-sede-para-avancar-na-preparacao-da-copa-do-mundo-feminina-de-2027",
-      "resumo": "",
-      "publicado_em": "2026-11-23T23:35:00-03:00",
-      "dia": "2026-11-23",
-      "data_estimada": false,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-11-24T17:59:32-03:00"
     },
     {
       "id": "522671318682fe8f",
