@@ -5,9 +5,9 @@
 Options -Indexes
 DirectoryIndex index.html
 
-RedirectMatch 404 "^/(coletor|referencia)(/|$)"
+RedirectMatch 404 "^/(coletor|referencia|hostinger)(/|$)"
 RedirectMatch 404 "/\.(git|github|claude|impeccable|gitignore|gitattributes)"
-RedirectMatch 404 "\.(py|ya?ml|md|bat|txt|pdf|eml)$"
+RedirectMatch 404 "\.(py|ya?ml|md|bat|txt|pdf|eml|sh)$"
 RedirectMatch 404 "^/data/(?!noticias\.js$)"
 
 # index.html sempre revalidado: e ele que carrega o ?v= novo de cada coleta,
