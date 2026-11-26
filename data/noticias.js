@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-26T08:28:59-03:00",
+  "gerado_em": "2026-11-26T11:00:04-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "respondeu, mas 0 itens reconhecidos"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
@@ -250,6 +250,40 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "fc0f1d5769de419d",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "5º Fórum Nacional das Corregedorias Regionais ocorrerá em 10 de dezembro",
+      "link": "https://www.tst.jus.br/-/5-forum-nacional-das-corregedorias-regionais-ocorrera-em-10-de-dezembro",
+      "resumo": "Encontro no TST vai reunir servidores para promover o aprimoramento da atividade correcional na Justiça do Trabalho Imprimir 26/11/2026 – A Corregedoria-Geral da Justiça do Trabalho realizará, no dia 10 de dezembro, a quinta edição do Fórum Nacional das Corregedorias Regionais dos Tribunais Regionai",
+      "publicado_em": "2026-11-26T10:23:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "114b242c159f536a",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "TST faz audiência pública na sexta-feira (27) sobre insalubridade em coleta de lixo em condomínio residencial",
+      "link": "https://www.tst.jus.br/-/tst-faz-audiencia-publica-na-sexta-feira-27-sobre-insalubridade-em-coleta-de-lixo-em-condominio-residencial",
+      "resumo": "Objetivo é reunir subsídios para julgamento de recurso repetitivo sobre o tema Imprimir 23/11/2026 - O Tribunal Superior do Trabalho realizará, na próxima sexta-feira (27), às 14h, uma audiência pública para debater o direito ao adicional de insalubridade na atividade de coleta de lixo em condomínio",
+      "publicado_em": "2026-11-26T08:42:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 96,
+      "tags": [
+        "julgamento",
+        "julga",
+        "repetitivo",
+        "adi",
+        "recurso"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
     {
       "id": "4da7961806bbfafa",
       "fonte_id": "tst",
@@ -291,7 +325,7 @@ window.DADOS = {
       "fonte_nome": "TJSP",
       "titulo": "TJSP inaugura nova etapa no julgamento de recursos da área de Família e Sucessões",
       "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116131&pagina=1",
-      "resumo": "Quatro câmaras especializadas na matéria.\n \n\n\n\tSeção de Direito Privado do Tribunal de Justiça de São Paulo deu início, na quinta-feira (19), aos trabalhos das Câmaras",
+      "resumo": "Quatro câmaras especializadas na matéria.\n \n\n\n\tA Seção de Direito Privado do Tribunal de Justiça de São Paulo deu início, na quinta-feira (19), aos trabalhos das",
       "publicado_em": "2026-11-26T12:00:00-03:00",
       "dia": "2026-11-26",
       "data_estimada": true,
@@ -302,6 +336,164 @@ window.DADOS = {
         "recurso"
       ],
       "coletado_em": "2026-11-26T08:26:48-03:00"
+    },
+    {
+      "id": "9b643241c76810dd",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira a pauta do STF desta quinta-feira (26)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quinta-feira-26-3/",
+      "resumo": "Sessão começa às 14h e será transmitida ao vivo pela Rádio e TV Justiça e pelo canal do STF no YouTube",
+      "publicado_em": "2026-11-26T09:30:19-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "adi"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "b31a6fbbfebf20f5",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF reconhece validade de resolução que criou Gaeco Nacional",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-reconhece-validade-de-resolucao-que-criou-gaeco-nacional/",
+      "resumo": "Para o Tribunal, norma trata de organização administrativa e está dentro dos limites da competência normativa e da autonomia do MPF",
+      "publicado_em": "2026-11-26T09:05:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "resolucao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "2a34a75c70c425eb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CRA aprova recursos para ampliar saneamento em áreas rurais",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cra-aprova-recursos-para-ampliar-saneamento-em-areas-rurais",
+      "resumo": "",
+      "publicado_em": "2026-11-26T10:47:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "aprova",
+        "recurso"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "cacd4ba03d9442a6",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Incentivo à inclusão digital de idosos em tratamento de saúde mental vai à sanção",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/11/incentivo-a-inclusao-digital-de-idosos-em-tratamento-de-saude-mental-vai-a-sancao",
+      "resumo": "",
+      "publicado_em": "2026-11-26T10:47:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "sancao",
+        "vai a sancao"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "24cbe45094e4828f",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Proposta garante à mulher que viaja sozinha assento ao lado de outra mulher",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/proposta-garante-a-mulher-que-viaja-sozinha-assento-ao-lado-de-outra-mulher",
+      "resumo": "",
+      "publicado_em": "2026-11-26T10:40:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "d9b6131e90ab5b0c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Instituições católicas de ensino superior na Amazônia são tema de debate na CE",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/instituicoes-catolicas-de-ensino-superior-na-amazonia-sao-tema-de-debate-na-ce",
+      "resumo": "",
+      "publicado_em": "2026-11-26T10:08:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "9407f12c275b550e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto que amplia proteção de cultivares vai a Plenário",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-que-amplia-protecao-de-cultivares-vai-a-plenario",
+      "resumo": "",
+      "publicado_em": "2026-11-26T09:45:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "ccc20a115fd41139",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado aprova acesso à tecnologia como direito da pessoa idosa: texto vai à sanção",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-aprova-acesso-a-tecnologia-como-direito-da-pessoa-idosa-texto-vai-a-sancao",
+      "resumo": "",
+      "publicado_em": "2026-11-26T09:22:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "sancao",
+        "vai a sancao",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "8a4e3c865f36acba",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAS aprova programa de prevenção de erros de medicação e fará nova votação",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cas-aprova-programa-de-prevencao-de-erros-de-medicacao-e-fara-nova-votacao",
+      "resumo": "",
+      "publicado_em": "2026-11-26T09:10:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "e04b96e8d5b56df3",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado votará mudanças nas regras de quarentena para estatais e agências",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-votara-mudancas-nas-regras-de-quarentena-para-estatais-e-agencias",
+      "resumo": "",
+      "publicado_em": "2026-11-26T08:40:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
     },
     {
       "id": "e65b513c1a7c93e4",
@@ -318,6 +510,158 @@ window.DADOS = {
       "coletado_em": "2026-11-26T08:26:48-03:00"
     },
     {
+      "id": "75045bf2e1fcc3e9",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon determina que Google amplie informações sobre anúncios pagos",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias/senacon-determina-que-google-amplie-informacoes-sobre-anuncios-pagos",
+      "resumo": "",
+      "publicado_em": "2026-11-26T12:00:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "09cfc778220df34a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "IBGE: inflação perde ritmo na prévia de novembro, o IPCA-15",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ibge-inflacao-perde-ritmo-na-previa-de-novembro",
+      "resumo": "",
+      "publicado_em": "2026-11-26T10:34:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "6d21b0ef1bd71470",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Senacon determina que Google amplie informações sobre anúncios pagos",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/senacon-determina-que-google-amplie-informacoes-sobre-anuncios-pagos",
+      "resumo": "",
+      "publicado_em": "2026-11-26T10:23:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "fe0e5bdac6c6be32",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Lançada nova Política de Saúde Indígena com inclusão de atenção psicossocial pelo SUS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/ministerio-da-saude-lanca-nova-politica-nacional-de-saude-indigena-e-inclui-pela-primeira-vez-atencao-psicossocial-no-atendimento-pelo-sus",
+      "resumo": "",
+      "publicado_em": "2026-11-26T09:16:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "e82c430348a16fd1",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Comitiva do Governo Federal volta a Tupanciretã nesta quinta (26)",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/comitiva-do-governo-federal-volta-a-tupancireta-nesta-quinta-feira-26-11",
+      "resumo": "",
+      "publicado_em": "2026-11-26T07:34:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "520d76cd2e231373",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "PGR denuncia Gustavo Gayer ao STF por desvio de cota parlamentar",
+      "link": "https://www.congressoemfoco.com.br/noticia/131907/pgr-denuncia-gustavo-gayer-ao-stf-por-desvio-de-cota-parlamentar",
+      "resumo": "Deputado e senador eleito por Goiás é acusado de associação criminosa, peculato e uso de documento falso. Outras 24 pessoas foram denunciadas.",
+      "publicado_em": "2026-11-26T10:02:36-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "842a2df47cddcc7b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Comissões pedem R$ 223,6 bi em emendas; limite é de R$ 12,7 bi",
+      "link": "https://www.congressoemfoco.com.br/noticia/131905/comissoes-pedem-r-223-6-bi-em-emendas-limite-e-de-r-12-7-bi",
+      "resumo": "Pedidos dos colegiados cresceram 14,6% em relação ao Orçamento de 2026 e equivalem a 17,6 vezes o limite legal. Seis comissões solicitam, individualmente, mais do que o teto global.",
+      "publicado_em": "2026-11-26T09:06:44-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "7af0c4735e076022",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vereadora diz que jovem é \"negro de alma branca\" durante sessão em GO",
+      "link": "https://www.congressoemfoco.com.br/noticia/131904/vereadora-diz-que-jovem-e-negro-de-alma-branca-durante-sessao-em-go",
+      "resumo": "Declaração ocorreu durante homenagem ao Dia da Consciência Negra; parlamentar reconheceu o erro e pediu desculpas.",
+      "publicado_em": "2026-11-26T08:42:15-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "acao",
+        "homenagem"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "d635c9d9b4496e07",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Câmara aprova marco regulatório da educação em tempo integral",
+      "link": "https://www.congressoemfoco.com.br/noticia/131903/camara-aprova-marco-regulatorio-da-educacao-em-tempo-integral",
+      "resumo": "Texto prevê jornada mínima de 35 horas semanais e prioriza investimentos em regiões de maior vulnerabilidade.",
+      "publicado_em": "2026-11-26T08:07:42-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "6ba73c33e819a8ce",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Relator propõe cortar R$ 2,1 bi do Orçamento para atender emendas",
+      "link": "https://www.congressoemfoco.com.br/noticia/131901/relator-propoe-cortar-r-2-1-bi-do-orcamento-para-atender-emendas",
+      "resumo": "Fundo Nacional de Saúde concentra R$ 658 milhões dos cancelamentos previstos pelo relator. Emendas parlamentares podem alcançar R$ 57,5 bilhões em 2027. Parecer será analisado nesta quinta-feira por comissão.",
+      "publicado_em": "2026-11-26T07:53:16-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
       "id": "a13a3a650c3f4a01",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -332,6 +676,55 @@ window.DADOS = {
         "condenada"
       ],
       "coletado_em": "2026-11-26T08:26:48-03:00"
+    },
+    {
+      "id": "81eff52147bf9b68",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Da documentação ao emprego: Pena Justa amplia oportunidades para quem deixa as prisões",
+      "link": "https://www.cnj.jus.br/da-documentacao-ao-emprego-pena-justa-amplia-oportunidades-para-quem-deixa-as-prisoes/",
+      "resumo": "A oportunidade de regularizar documentos, obter acesso a cursos e conseguir um emprego pode representar o começo de uma nova trajetória para quem deixa o sistema prisional. Em 2025, primeiro ano de execução do plano Pena Justa, 32 mil pessoas egressas e seus familiares foram acompanhados por serviço",
+      "publicado_em": "2026-11-26T12:00:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "577593edbc60ae14",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ analisa uso do Protocolo de Gênero e prepara capacitação para profissionais da Justiça",
+      "link": "https://www.cnj.jus.br/cnj-analisa-uso-do-protocolo-de-genero-e-prepara-capacitacao-para-profissionais-da-justica/",
+      "resumo": "Durante um julgamento em Minas Gerais, a palavra de uma mulher que sofreu violência doméstica, confirmada por outras provas, ajudou a manter uma condenação. Na Justiça Federal, uma trabalhadora rural teve reconhecido o direito ao salário-maternidade mesmo sem documentos em nome próprio, a partir de ",
+      "publicado_em": "2026-11-26T12:00:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "julgamento",
+        "julga",
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "c08206008372e620",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara pode votar seis propostas nesta quinta-feira",
+      "link": "https://www.camara.leg.br/noticias/1323169-camara-pode-votar-seis-propostas-nesta-quinta-feira",
+      "resumo": "",
+      "publicado_em": "2026-11-26T09:26:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
     },
     {
       "id": "c4544a9096e6bf5b",
@@ -1575,6 +1968,48 @@ window.DADOS = {
       "coletado_em": "2026-11-26T08:26:48-03:00"
     },
     {
+      "id": "25d55191421de53c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mais dois bens são reconhecidos como patrimônio cultural: Cerro de Porongos e Cocos do Nordeste",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/iphan-reconhece-mais-dois-novos-bens-como-patrimonio-cultural-do-brasil-1",
+      "resumo": "",
+      "publicado_em": "2026-11-25T21:52:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "d79c51fbd3851c0a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo libera R$ 8 milhões para socorro e restabelecimento em Tupanciretã",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/liberados-r-8-milhoes-para-socorro-e-restabelecimento-em-tupancireta-rs",
+      "resumo": "",
+      "publicado_em": "2026-11-25T21:28:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "137b0e9b8bbb3697",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo anuncia R$ 120 milhões para ampliar pesquisas clínicas e novos tratamentos para o SUS",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-do-brasil-anuncia-r-120-milhoes-para-ampliar-pesquisas-clinicas-e-acelerar-o-desenvolvimento-de-novos-tratamentos-para-o-sus",
+      "resumo": "",
+      "publicado_em": "2026-11-25T18:36:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
       "id": "996a1cb8b7018162",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -2642,6 +3077,24 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "a423a3d836cc383d",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ celebra os cinco anos do Protocolo para Julgamento com Perspectiva de Gênero",
+      "link": "https://www.cnj.jus.br/cnj-celebra-os-cinco-anos-do-protocolo-para-julgamento-com-perspectiva-de-genero/",
+      "resumo": "Julgamentos mais igualitários e atentos às desigualdades históricas e sociais. Esse tem sido um dos resultados da aplicação Protocolo para Julgamento com Perspectiva de Gênero, implantado pelo Conselho Nacional de Justiça (CNJ) há cinco anos. As mudanças trazidas pelo protocolo foram celebradas nest",
+      "publicado_em": "2026-11-25T12:00:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": true,
+      "score": 68,
+      "tags": [
+        "julgamento",
+        "julga",
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T11:00:04-03:00"
     },
     {
       "id": "ef3682313566fec8",
