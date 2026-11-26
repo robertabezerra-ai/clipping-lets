@@ -396,7 +396,9 @@ def p_sitemap(f):
     return saida
 
 
-JSON_POR_ID = {"stf": p_json_stf, "anpd": p_json_anpd, "bacen": p_json_bacen}
+# cvm e carf usam a mesma REST API do Plone (portal gov.br novo) que a anpd
+JSON_POR_ID = {"stf": p_json_stf, "anpd": p_json_anpd, "cvm": p_json_anpd,
+               "carf": p_json_anpd, "bacen": p_json_bacen}
 
 POR_ESTRATEGIA = {"rss": p_rss, "gov_br_rss": p_gov_br_rss, "scrape": p_scrape,
                    "sitemap": p_sitemap}

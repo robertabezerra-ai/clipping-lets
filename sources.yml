@@ -159,19 +159,17 @@
 - id: cvm
   nome: "CVM"
   ordem: 14
-  estrategia: scrape
-  url: "https://www.gov.br/cvm/pt-br/assuntos/noticias"
-  url_fallback: "https://www.gov.br/cvm/pt-br/assuntos/noticias/RSS"
-  padrao_link: "/cvm/pt-br/assuntos/noticias/\\d{4}/[a-z0-9-]{5,}$"
+  estrategia: json_api
+  url: "https://www.gov.br/cvm/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effective&sort_order=descending"
+  url_fallback: null
   alerta: false
   status_validacao: ok
   observacao: >
-    Corrigido em 08/09/2026, mesmo motivo da Receita Federal: o RSS/RDF só
-    trazia 1 item, com semanas de atraso. A própria página de notícias
-    (sem precisar de /ultimas-noticias, que não existe pra CVM) já é HTML
-    com a listagem completa — trocado para scrape, ~29 itens atualizados
-    por coleta. A CVM não expõe hora, só o dia (item entra com hora
-    estimada 12h, igual às outras fontes em scrape sem horário).
+    Corrigido em 26/11/2026: a CVM migrou para o portal gov.br novo
+    (Volto/React), a página de notícias passou a carregar a lista por
+    JavaScript ("Carregando…") e o scrape ficou com 0 itens; o /RSS
+    antigo dá 404. Trocado para a mesma REST API do Plone usada na ANPD
+    (++api++/.../@search), que traz data e hora de publicação.
 
 - id: fazenda
   nome: "Ministério da Fazenda"
@@ -286,9 +284,9 @@
   nome: "MJSP"
   ordem: 19
   estrategia: scrape
-  url: "https://www.gov.br/mj/pt-br/assuntos/noticias-1"
+  url: "https://www.gov.br/mj/pt-br/assuntos/noticias"
   url_fallback: null
-  padrao_link: "/mj/pt-br/assuntos/noticias-1/[a-z0-9-]{10,}$"
+  padrao_link: "/mj/pt-br/assuntos/noticias/[a-z0-9-]{10,}$"
   alerta: false
   status_validacao: ok
   observacao: >
@@ -297,23 +295,22 @@
     de notícias também não se chama "noticias" e sim "noticias-1".
     /assuntos/noticias/RSS (o nome óbvio) redireciona para tela de login;
     a página HTML normal funciona.
+    Atualizado em 26/11/2026: "noticias-1" passou a pedir login; as
+    notícias voltaram para /assuntos/noticias (HTML normal, com links).
 
 - id: carf
   nome: "CARF"
   ordem: 20
-  estrategia: scrape
-  url: "https://www.gov.br/carf/pt-br/assuntos/novas-noticias"
+  estrategia: json_api
+  url: "https://www.gov.br/carf/++api++/pt-br/assuntos/noticias/@search?portal_type=News+Item&b_size=30&sort_on=effective&sort_order=descending"
   url_fallback: null
-  padrao_link: "/carf/pt-br/assuntos/novas-noticias/[a-z0-9-]{10,}$"
   alerta: false
   status_validacao: ok
   observacao: >
-    Slug de notícias é "novas-noticias", não "noticias" (/RSS no caminho
-    óbvio dá 404). Publica pouco — só 2 itens na listagem no momento desta
-    validação (jan/2026 e dez/2024). Isso é o site real, não um bug do
-    coletor: CARF divulga a maior parte da atividade em "avisos e
-    comunicados" (pautas de julgamento), que não é notícia editorial e
-    fica de fora por não ter valor de pauta para escritórios.
+    Corrigido em 26/11/2026: "novas-noticias" passou a pedir login (401)
+    e as notícias voltaram para /assuntos/noticias, agora no portal gov.br
+    novo (lista carregada por JavaScript). Usa a REST API do Plone, igual
+    à ANPD e à CVM.
 
 - id: governo_federal
   nome: "Governo Federal"
