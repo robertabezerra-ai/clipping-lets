@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-26T11:00:04-03:00",
+  "gerado_em": "2026-11-26T13:00:03-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -320,6 +320,20 @@
       "coletado_em": "2026-11-26T08:26:48-03:00"
     },
     {
+      "id": "0e149769218a3319",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Falta de sanitários no trajeto do caminhão de lixo gera danos morais a gari",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/falta-de-sanitarios-no-trajeto-do-caminhao-de-lixo-gera-danos-morais-a-gari",
+      "resumo": "",
+      "publicado_em": "2026-11-26T12:00:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
       "id": "acaf9f9504b219c1",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -336,6 +350,38 @@
         "recurso"
       ],
       "coletado_em": "2026-11-26T08:26:48-03:00"
+    },
+    {
+      "id": "ef2c42dfbe898856",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Juridiquês Não Tem Vez aborda proteção de marcas e limites entre inspiração e cópia",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116146&pagina=1",
+      "resumo": "Juiz Luís Felipe Ferrari Bedendi explica propriedade intelectual.\n \n\tUma embalagem que lembra a de outro produto, empresas que usam o mesmo nome, roupas que seguem",
+      "publicado_em": "2026-11-26T12:00:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "1e28cbf413f4e042",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "PPA Novos Tempos aborda sonhos e gestão da emoção em encontro virtual",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116093&pagina=1",
+      "resumo": "Palestra com o médico e professor Augusto Cury.\n \n\tO Programa Novos Tempos - Preparação à Aposentadoria de Magistrados(as) e Valorização dos(as) Aposentados (as) do Tribunal",
+      "publicado_em": "2026-11-26T12:00:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
     },
     {
       "id": "9b643241c76810dd",
@@ -369,6 +415,53 @@
         "acao"
       ],
       "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "abc8f8a51ac7f17d",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Tipificação de fraude no mercado de capitais segue para a Câmara",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/tipificacao-de-fraude-no-mercado-de-capitais-segue-para-a-camara",
+      "resumo": "",
+      "publicado_em": "2026-11-26T12:00:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "60cd93a653f4c5f1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sessão especial prestou homenagem à Associação Brasileira das Empresas de Software",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/11/sessao-especial-presta-homenagem-a-associacao-brasileira-das-empresas-de-software",
+      "resumo": "",
+      "publicado_em": "2026-11-26T11:11:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 26,
+      "tags": [
+        "acao",
+        "homenagem"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "fe68b0756632df7e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Quarentena para cargos em estatais e agências reguladoras pode ser votada na próxima semana",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/11/quarentena-para-cargos-em-estatais-e-agencias-reguladoras-pode-ser-votada-na-proxima-semana",
+      "resumo": "",
+      "publicado_em": "2026-11-26T10:56:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
     },
     {
       "id": "2a34a75c70c425eb",
@@ -510,6 +603,20 @@
       "coletado_em": "2026-11-26T08:26:48-03:00"
     },
     {
+      "id": "bba45866ac55a6fb",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal e Polícia Militar de Minas Gerais flagram fábrica clandestina de cigarros em Capinópolis/MG",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-policia-militar-de-minas-gerais-flagram-fabrica-clandestina-de-cigarros-em-capinopolis-mg",
+      "resumo": "",
+      "publicado_em": "2026-11-26T12:09:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
       "id": "75045bf2e1fcc3e9",
       "fonte_id": "mjsp",
       "fonte_nome": "MJSP",
@@ -524,10 +631,70 @@
       "coletado_em": "2026-11-26T11:00:04-03:00"
     },
     {
+      "id": "5881c405514904dc",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senajus lança guia para fortalecer políticas públicas locais para pessoas refugiadas, migrantes e apátridas em parceria com a ACNUR",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias/senajus-lanca-guia-para-fortalecer-politicas-publicas-locais-para-pessoas-refugiadas-migrantes-e-apatridas-em-parceria-com-a-acnur",
+      "resumo": "",
+      "publicado_em": "2026-11-26T12:00:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "2399232835876f91",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Selo Nacional Compromisso com a Alfabetização bate recorde de inscritos em 2026",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/selo-nacional-compromisso-com-a-alfabetizacao-bate-recorde-de-inscritos-em-2026",
+      "resumo": "",
+      "publicado_em": "2026-11-26T11:53:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "0e829ecc55cdce10",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Ministro Edipo Araújo celebra bom momento do setor de pescados e exportação recorde",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/201ca-gente-nao-cansa-de-bater-recordes-nesta-gestao201d-afirma-ministro-da-pesca-e-aquicultura",
+      "resumo": "",
+      "publicado_em": "2026-11-26T11:38:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "c7c3ad272151022a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil tem o maior número de estudantes cursando ensino superior em sua história",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/brasil-tem-recorde-de-estudantes-na-graduacao",
+      "resumo": "",
+      "publicado_em": "2026-11-26T10:55:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
       "id": "09cfc778220df34a",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "IBGE: inflação perde ritmo na prévia de novembro, o IPCA-15",
+      "titulo": "IBGE: após pico em setembro, inflação perde ritmo de novo, na prévia de novembro",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/ibge-inflacao-perde-ritmo-na-previa-de-novembro",
       "resumo": "",
       "publicado_em": "2026-11-26T10:34:00-03:00",
@@ -580,6 +747,177 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "c864017bbb9f1e86",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "Colegiado da CVM rejeita proposta conjunta de Termo de Compromisso com representantes da Azevedo e Travassos S.A.",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/colegiado-da-cvm-rejeita-proposta-conjunta-de-termo-de-compromisso-com-representantes-da-azevedo-e-travassos-s-a",
+      "resumo": "Reunião, realizada em 24/11/2026, também rejeitou proposta com MAM Asset Management Gestora de Recursos LTDA.",
+      "publicado_em": "2026-11-26T11:24:53-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "recurso"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "f55a39ac461c567e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Comissão aprova relatório do Orçamento; Braga promete recompor verbas",
+      "link": "https://www.congressoemfoco.com.br/noticia/131919/comissao-aprova-relatorio-do-orcamento-braga-promete-recompor-verbas",
+      "resumo": "Parecer preliminar prevê R$ 2,09 bilhões em cortes para atender emendas parlamentares. Relator assume compromisso de preservar programas sociais, universidades e institutos federais. Texto vai orientar relatórios temáticos.",
+      "publicado_em": "2026-11-26T12:29:42-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "liminar",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "529e495e1eacc7bd",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Marcelo Bechara lança livro sobre poder dos algoritmos na era digital",
+      "link": "https://www.congressoemfoco.com.br/noticia/131918/marcelo-bechara-lanca-livro-sobre-poder-dos-algoritmos-na-era-digital",
+      "resumo": "Especialista em regulação digital propõe uma reflexão sobre quem controla as decisões que moldam a vida.",
+      "publicado_em": "2026-11-26T12:23:10-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "38ea5a483e912592",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Cleitinho e Gleidson Azevedo anunciam doação do auxílio-mudança",
+      "link": "https://www.congressoemfoco.com.br/noticia/131916/cleitinho-e-gleidson-azevedo-anunciam-doacao-do-auxilio-mudanca",
+      "resumo": "Irmãos desafiam outros congressistas a fazer o mesmo e criticam o pagamento de duas parcelas do benefício a parlamentares reeleitos.",
+      "publicado_em": "2026-11-26T11:57:24-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "f89475ad601b0fc1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Estela Aranha relata ataques misóginos e critica silêncio de ministros",
+      "link": "https://www.congressoemfoco.com.br/noticia/131915/estela-aranha-relata-ataques-misoginos-e-critica-silencio-de-ministros",
+      "resumo": "Única ministra titular do tribunal, magistrada questiona a distância entre o discurso e a prática na defesa das mulheres em espaços de poder.",
+      "publicado_em": "2026-11-26T11:39:14-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "fc7913cf8667574a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula recebe governador eleito Cleitinho Azevedo nesta quinta",
+      "link": "https://www.congressoemfoco.com.br/noticia/131913/lula-recebe-governador-eleito-cleitinho-azevedo-nesta-quinta",
+      "resumo": "Reunião consta da agenda oficial da presidência da República e marca uma aproximação institucional políticos que estiveram em campos opostos durante as eleições.",
+      "publicado_em": "2026-11-26T11:20:21-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "a0b6ee1c20f862d7",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem controla a torneira",
+      "link": "https://www.congressoemfoco.com.br/coluna/131912/quem-controla-a-torneira",
+      "resumo": "Os monopolistas, mantendo o mercado sempre desabastecido, nunca atendendo plenamente à demanda efetiva, vendem suas mercadorias muito acima do preço natural.",
+      "publicado_em": "2026-11-26T11:03:15-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "ee190c7d248af045",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ex-CEO da Hurb finge colaborar com a polícia, tropeça e acaba preso",
+      "link": "https://www.congressoemfoco.com.br/noticia/131911/ex-ceo-da-hurb-finge-colaborar-com-a-policia-tropeca-e-acaba-preso",
+      "resumo": "Segundo a Polícia Civil, o empresário inicialmente demonstrou disposição para colaborar com os agentes, mas saiu correndo quando estava prestes a entrar na viatura.",
+      "publicado_em": "2026-11-26T11:00:58-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "4eb1778f67890599",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A lição das urnas para as marcas: a força da narrativa compartilhada",
+      "link": "https://www.congressoemfoco.com.br/artigo/131910/a-licao-das-urnas-para-as-marcas-a-forca-da-narrativa-compartilhada",
+      "resumo": "Estratégias adotadas nas eleições de 2026 revelam diferentes formas de conquistar audiência, mobilizar pessoas e construir relações de confiança.",
+      "publicado_em": "2026-11-26T10:38:59-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "4e37952c96572b72",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Polícia investiga grupo que tentou comprar o Master por suposta fraude",
+      "link": "https://www.congressoemfoco.com.br/noticia/131909/policia-investiga-grupo-que-tentou-comprar-o-master-por-suposta-fraude",
+      "resumo": "Operação cumpre 12 mandados de busca e apreensão em São Paulo; bloqueio patrimonial atinge 233 investigados.",
+      "publicado_em": "2026-11-26T10:36:21-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 32,
+      "tags": [
+        "acao",
+        "apreensao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "c3537a6d4c3826bb",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Há um mês nos EUA, Flávio Bolsonaro indica R$ 79,4 milhões em emendas",
+      "link": "https://www.congressoemfoco.com.br/noticia/131908/ha-um-mes-nos-eua-flavio-bolsonaro-indica-r-79-4-milhoes-em-emendas",
+      "resumo": "Senador apresentou 14 emendas ao Orçamento de 2027 após fugir do Brasil. Recursos poderão ser liberados quando ele já estiver sem mandato. Veja a destinação prevista do dinheiro.",
+      "publicado_em": "2026-11-26T10:30:02-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
     },
     {
       "id": "520d76cd2e231373",
@@ -711,6 +1049,88 @@
         "acao"
       ],
       "coletado_em": "2026-11-26T11:00:04-03:00"
+    },
+    {
+      "id": "0ff4f617c0fc49ed",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "CNJ aprova política para promover trabalho digno dentro e fora dos tribunais",
+      "link": "https://www.cnj.jus.br/cnj-aprova-politica-para-promover-trabalho-digno-dentro-e-fora-dos-tribunais/",
+      "resumo": "O combate ao trabalho escravo e infantil, à discriminação, ao assédio e às condições precárias de trabalho serão tratadas em nova política aprovada pelo Conselho Nacional de Justiça (CNJ). Com medidas voltadas tanto às pessoas que procuram a Justiça quanto para os profissionais que trabalham nos tri",
+      "publicado_em": "2026-11-26T12:00:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": true,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "32f0271da95dbbee",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados aprovam acordo de cooperação jurídica na área penal entre Brasil e Guiana",
+      "link": "https://www.camara.leg.br/noticias/1323264-deputados-aprovam-acordo-de-cooperacao-juridica-na-area-penal-entre-brasil-e-guiana",
+      "resumo": "",
+      "publicado_em": "2026-11-26T12:00:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "d5db7ef7a0b7eca4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Cancelada votação do parecer sobre mudanças no Código de Trânsito",
+      "link": "https://www.camara.leg.br/noticias/1323183-cancelada-votacao-do-parecer-sobre-mudancas-no-codigo-de-transito",
+      "resumo": "",
+      "publicado_em": "2026-11-26T11:53:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "f0d6f4409a38f063",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Câmara aprova acordo de cooperação jurídica entre Brasil e Guiana em processos civis",
+      "link": "https://www.camara.leg.br/noticias/1323254-camara-aprova-acordo-de-cooperacao-juridica-entre-brasil-e-guiana-em-processos-civis",
+      "resumo": "",
+      "publicado_em": "2026-11-26T11:49:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "aprova",
+        "processo",
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
+      "id": "8140c983792ce5cb",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Deputados iniciam sessão de votações desta quinta-feira; acompanhe",
+      "link": "https://www.camara.leg.br/noticias/1323085-deputados-iniciam-sessao-de-votacoes-desta-quinta-feira-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-26T11:41:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
     },
     {
       "id": "c08206008372e620",
@@ -961,6 +1381,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-25T17:22:49-03:00"
+    },
+    {
+      "id": "29d2b87a02d99657",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "TRT-15 leva Justiça Itinerante à comunidade quilombola de Salto de Pirapora nesta sexta-feira; lançamento do projeto será no Co.Labora 15",
+      "link": "https://trt15.jus.br/noticia/2026/trt-15-leva-justica-itinerante-comunidade-quilombola-de-salto-de-pirapora-nesta-sexta",
+      "resumo": "TRT-15 leva Justiça Itinerante à comunidade quilombola de Salto de Pirapora nesta sexta-feira; lançamento do projeto será no Co.Labora 15 anasiqueira Qua, 25/11/2026 - 18:04 TRT-15 leva Justiça Itinerante à comunidade quilombola de Salto de Pirapora nesta sexta-feira; lançamento do projeto será no C",
+      "publicado_em": "2026-11-25T18:04:05-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
     },
     {
       "id": "e0dbdcbed4272618",
@@ -5263,6 +5697,20 @@
       "coletado_em": "2026-11-25T20:58:44-03:00"
     },
     {
+      "id": "14e3bc6b20d9f25f",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Estamos em manutenção",
+      "link": "http://www.gov.br/coafhttps://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-realiza-15a-reuniao-com-reguladores-dos-setores-nao-financeiros",
+      "resumo": "",
+      "publicado_em": "2026-11-24T18:43:16-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
       "id": "4cc65e11bdb5dd1e",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
@@ -7443,6 +7891,20 @@
         "acao"
       ],
       "coletado_em": "2026-11-25T20:58:44-03:00"
+    },
+    {
+      "id": "fcfbf8593edb8ca5",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Estamos em manutenção",
+      "link": "http://www.gov.br/coafhttps://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/ministerio-publico-do-estado-do-rio-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-11-23T16:39:54-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
     },
     {
       "id": "1ef167e24d0f24e1",
@@ -10589,6 +11051,20 @@
       "coletado_em": "2026-11-19T18:54:08-03:00"
     },
     {
+      "id": "ebd940713578980f",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Estamos em manutenção",
+      "link": "http://www.gov.br/coafhttps://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-participa-de-conferencia-em-buenos-aires-sobre-o-combate-ao-financiamento-de-armas-de-destruicao-em-massa",
+      "resumo": "",
+      "publicado_em": "2026-11-19T18:52:27-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
       "id": "5295acf7efdd2087",
       "fonte_id": "coaf",
       "fonte_nome": "Coaf",
@@ -10604,6 +11080,20 @@
         "droga"
       ],
       "coletado_em": "2026-11-19T16:21:28-03:00"
+    },
+    {
+      "id": "db50d48c34f23ce2",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Estamos em manutenção",
+      "link": "http://www.gov.br/coafhttps://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/na-oea-presidente-do-coaf-destaca-importancia-da-investigacao-financeira-paralela-no-combate-ao-trafico-de-drogas",
+      "resumo": "",
+      "publicado_em": "2026-11-19T12:51:15-03:00",
+      "dia": "2026-11-19",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
     },
     {
       "id": "265247e9625b2961",
@@ -17699,6 +18189,20 @@
       "coletado_em": "2026-11-16T17:48:48-03:00"
     },
     {
+      "id": "8db2a626e6d33f67",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Estamos em manutenção",
+      "link": "http://www.gov.br/coafhttps://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-firma-parceria-com-a-usp-e-recebe-propostas-sobre-o-uso-de-inteligencia-financeira",
+      "resumo": "",
+      "publicado_em": "2026-11-16T16:03:04-03:00",
+      "dia": "2026-11-16",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
       "id": "3849ff244ff0c015",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
@@ -19921,6 +20425,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-14T15:53:06-03:00"
+    },
+    {
+      "id": "fa9b42d6d0e242fb",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Estamos em manutenção",
+      "link": "http://www.gov.br/coafhttps://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/enccla-presidente-do-coaf-destaca-importancia-de-ter-padroes-no-combate-a-corrupcao-e-ao-crime-organizado",
+      "resumo": "",
+      "publicado_em": "2026-11-13T14:55:39-03:00",
+      "dia": "2026-11-13",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
     },
     {
       "id": "e5c19666e59e26dc",
@@ -22189,6 +22707,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-12T15:41:42-03:00"
+    },
+    {
+      "id": "b7ff34bf3432f86c",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Estamos em manutenção",
+      "link": "http://www.gov.br/coafhttps://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-e-usp-firmam-acordo-para-desenvolver-pesquisas-relacionadas-ao-combate-a-lavagem-de-dinheiro",
+      "resumo": "",
+      "publicado_em": "2026-11-12T20:16:02-03:00",
+      "dia": "2026-11-12",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
     },
     {
       "id": "9cd752f126b672d3",
@@ -29850,6 +30382,20 @@
       "coletado_em": "2026-11-09T23:27:45-03:00"
     },
     {
+      "id": "135d04ad854b657c",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Estamos em manutenção",
+      "link": "http://www.gov.br/coafhttps://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/equipe-do-coaf-participa-de-encontro-da-enccla-no-rio-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-11-09T21:27:15-03:00",
+      "dia": "2026-11-09",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
       "id": "5b98e9092b14e04f",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
@@ -36838,6 +37384,20 @@
       "coletado_em": "2026-11-03T21:17:52-03:00"
     },
     {
+      "id": "9deabfd34a770812",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Estamos em manutenção",
+      "link": "http://www.gov.br/coafhttps://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/do-processo-fisico-ao-online-coaf-realiza-100a-sessao-de-julgamento-1",
+      "resumo": "",
+      "publicado_em": "2026-11-04T10:55:56-03:00",
+      "dia": "2026-11-04",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
+    },
+    {
       "id": "276833d78c70d69e",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
@@ -39398,6 +39958,20 @@
         "acao"
       ],
       "coletado_em": "2026-10-31T16:42:23-03:00"
+    },
+    {
+      "id": "2a423acd090d5135",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Estamos em manutenção",
+      "link": "http://www.gov.br/coafhttps://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/plenaria-do-gafi-coaf-lidera-delegacao-brasileira-em-paris",
+      "resumo": "",
+      "publicado_em": "2026-11-03T11:16:49-03:00",
+      "dia": "2026-11-03",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
     },
     {
       "id": "e2dab09913d3b238",
@@ -43855,6 +44429,20 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-10-29T17:51:32-03:00"
+    },
+    {
+      "id": "0b82c4b0158d1b24",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Estamos em manutenção",
+      "link": "http://www.gov.br/coafhttps://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/dia-nacional-de-prevencao-a-lavagem-de-dinheiro-1",
+      "resumo": "",
+      "publicado_em": "2026-10-29T19:39:05-03:00",
+      "dia": "2026-10-29",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-26T13:00:03-03:00"
     },
     {
       "id": "c2b9d23f42008d6e",
