@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-26T08:26:48-03:00",
+  "gerado_em": "2026-11-26T08:28:59-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -391,6 +391,24 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-25T17:22:49-03:00"
+    },
+    {
+      "id": "9683fcc7a62b532a",
+      "fonte_id": "anpd",
+      "fonte_nome": "ANPD",
+      "titulo": "ANPD e reguladores de outros 11 países firmam compromisso contra abuso sexual infantil e imagens íntimas geradas por IA",
+      "link": "https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-e-reguladores-de-outros-11-paises-firmam-compromisso-contra-abuso-sexual-infantil-e-imagens-intimas-geradas-por-ia",
+      "resumo": "Posicionamento conjunto aprovado pela Rede GOSRN defende maior responsabilização das empresas de tecnologia e ação coordenada entre autoridades",
+      "publicado_em": "2026-11-26T08:28:41-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "aprovado",
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-26T08:28:59-03:00"
     },
     {
       "id": "5e5053fb30c1ec04",
@@ -2535,7 +2553,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "CNJ capacita defensores públicos sobre resoluções das áreas penal e socioeducativa",
       "link": "https://www.cnj.jus.br/cnj-capacita-defensores-publicos-sobre-resolucoes-das-areas-penal-e-socioeducativa/",
-      "resumo": "A aplicação das normativas do Conselho Nacional de Justiça (CNJ) na rotina dos sistemas penal e socioeducativo esteve no centro da 3ª edição do curso Justiça Penal e Justiça Juvenil Atualizadas: Resoluções do CNJ na prática. A formação reuniu 320 integrantes de Defensorias Públicas de diferentes reg",
+      "resumo": "A aplicação das normativas do Conselho Nacional de Justiça (CNJ) na rotina dos sistemas penal e socioeducativo esteve no centro da 3ª edição do curso “Justiça Penal e Justiça Juvenil Atualizadas: resoluções do CNJ na prática”. A formação reuniu 320 integrantes de defensorias públicas de diferentes r",
       "publicado_em": "2026-11-25T12:00:00-03:00",
       "dia": "2026-11-25",
       "data_estimada": true,
@@ -2902,7 +2920,7 @@ window.DADOS = {
       "id": "628f1237809b6dce",
       "fonte_id": "cade",
       "fonte_nome": "Cade",
-      "titulo": "Cade está com duas vagas de estágio aberta na CGAA7",
+      "titulo": "Cade está com duas vagas de estágio abertas na CGAA7",
       "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-esta-com-duas-vagas-de-estagio-aberta-na-cgaa7",
       "resumo": "",
       "publicado_em": "2026-11-25T12:00:00-03:00",
