@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-25T19:51:17-03:00",
+  "gerado_em": "2026-11-25T20:58:44-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -154,14 +154,14 @@ window.DADOS = {
     },
     {
       "id": "pgfn",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 28,
+      "erro": null
     },
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 19,
       "erro": null
     },
     {
@@ -172,21 +172,21 @@ window.DADOS = {
     },
     {
       "id": "receita_federal",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 29,
+      "erro": null
     },
     {
       "id": "fazenda",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anpd",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "anbima",
@@ -198,7 +198,7 @@ window.DADOS = {
       "id": "cvm",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "erro": "falhou após 3 tentativas: 404 Client Error:  for url: https://www.gov.br/cvm/pt-br/assuntos/noticias/RSS"
     },
     {
       "id": "bacen",
@@ -208,15 +208,15 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 20,
+      "erro": null
     },
     {
       "id": "cade",
-      "status": "falhou",
-      "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "status": "ok",
+      "itens": 30,
+      "erro": null
     },
     {
       "id": "cnj",
@@ -228,13 +228,13 @@ window.DADOS = {
       "id": "mjsp",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "carf",
       "status": "falhou",
       "itens": 0,
-      "erro": "falhou após 3 tentativas: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "erro": "falhou após 3 tentativas: 401 Client Error:  for url: https://www.gov.br/carf/pt-br/assuntos/novas-noticias"
     },
     {
       "id": "governo_federal",
@@ -380,12 +380,13 @@ window.DADOS = {
       "fonte_nome": "STF",
       "titulo": "STF valida exigência de indicação de valor em ações trabalhistas",
       "link": "https://noticias.stf.jus.br/postsnoticias/stf-valida-exigencia-de-indicacao-de-valor-em-acoes-trabalhistas/",
-      "resumo": "Para o Plenário, regra da Reforma Trabalhista não restringe o acesso à Justiça",
+      "resumo": "Decisão, no entanto, admite estimativas quando o trabalhador ainda não dispõe de elementos para calcular o valor exato do pedido",
       "publicado_em": "2026-11-25T19:38:16-03:00",
       "dia": "2026-11-25",
       "data_estimada": false,
-      "score": 56,
+      "score": 68,
       "tags": [
+        "decisao",
         "trabalhista",
         "acao"
       ],
@@ -455,6 +456,22 @@ window.DADOS = {
         "adi"
       ],
       "coletado_em": "2026-11-25T17:22:49-03:00"
+    },
+    {
+      "id": "d57f06fb0150936e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Relatório destaca importância da educação superior católica para a Amazônia",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-destaca-importancia-da-educacao-superior-catolica-para-a-amazonia",
+      "resumo": "",
+      "publicado_em": "2026-11-25T19:49:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T20:58:44-03:00"
     },
     {
       "id": "ffbc284dee1d0e5b",
@@ -1125,6 +1142,20 @@ window.DADOS = {
       "coletado_em": "2026-11-25T17:22:49-03:00"
     },
     {
+      "id": "9494116a0a59006c",
+      "fonte_id": "pgfn",
+      "fonte_nome": "PGFN",
+      "titulo": "PGFN prorroga vencimentos de dívidas e suspende cobranças em Tupanciretã (RS) por calamidade pública",
+      "link": "https://www.gov.br/pgfn/pt-br/assuntos/noticias/2026/pgfn-prorroga-vencimentos-de-dividas-e-suspende-cobrancas-em-tupancireta-rs-por-calamidade-publica",
+      "resumo": "",
+      "publicado_em": "2026-11-25T12:00:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T20:58:44-03:00"
+    },
+    {
       "id": "996a1cb8b7018162",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -1432,6 +1463,38 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-25T17:22:49-03:00"
+    },
+    {
+      "id": "275e429c95b6173f",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal realiza live sobre o novo Programa Gerador do Documento de Arrecadação do Simples Nacional (PGDAS) no contexto da Reforma Tributária",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-realiza-live-sobre-o-novo-programa-gerador-do-documento-de-arrecadacao-do-simples-nacional-pgdas-no-contexto-da-reforma-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-11-25T12:00:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": true,
+      "score": 78,
+      "tags": [
+        "reforma tributaria",
+        "simples nacional",
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T20:58:44-03:00"
+    },
+    {
+      "id": "85bacc22143d19d0",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "PGFN prorroga vencimentos de dívidas e suspende cobranças em Tupanciretã/RS por calamidade pública",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/pgfn-prorroga-vencimentos-de-dividas-e-suspende-cobrancas-em-tupancireta-rs-por-calamidade-publica",
+      "resumo": "",
+      "publicado_em": "2026-11-25T12:00:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T20:58:44-03:00"
     },
     {
       "id": "6ddaee96891ce299",
@@ -2052,7 +2115,7 @@ window.DADOS = {
       "fonte_nome": "CNJ",
       "titulo": "CNJ capacita defensores públicos sobre resoluções das áreas penal e socioeducativa",
       "link": "https://www.cnj.jus.br/cnj-capacita-defensores-publicos-sobre-resolucoes-das-areas-penal-e-socioeducativa/",
-      "resumo": "A aplicação das normativas do Conselho Nacional de Justiça (CNJ) na rotina dos sistemas penal e socioeducativo esteve no centro da 3ª edição do curso “Justiça Penal e Justiça Juvenil Atualizadas: resoluções do CNJ na prática”. A formação reuniu 320 integrantes de defensorias públicas de diferentes r",
+      "resumo": "A aplicação das normativas do Conselho Nacional de Justiça (CNJ) na rotina dos sistemas penal e socioeducativo esteve no centro da 3ª edição do curso Justiça Penal e Justiça Juvenil Atualizadas: Resoluções do CNJ na prática. A formação reuniu 320 integrantes de Defensorias Públicas de diferentes reg",
       "publicado_em": "2026-11-25T12:00:00-03:00",
       "dia": "2026-11-25",
       "data_estimada": true,
@@ -2141,6 +2204,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-25T19:51:17-03:00"
+    },
+    {
+      "id": "ef3682313566fec8",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Brasil tem déficit de 110 mil cisternas e de mais de 1,3 milhão de banheiros, diz Funasa",
+      "link": "https://www.camara.leg.br/noticias/1323123-brasil-tem-deficit-de-110-mil-cisternas-e-de-mais-de-13-milhao-de-banheiros-diz-funasa",
+      "resumo": "",
+      "publicado_em": "2026-11-25T20:14:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T20:58:44-03:00"
     },
     {
       "id": "a28ea38107f0d33e",
@@ -2447,6 +2524,25 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-25T17:22:49-03:00"
+    },
+    {
+      "id": "bc34a4fbfa0083da",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade recomenda a condenação de empresas por conduta anticompetitiva no mercado de trabalho",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-recomenda-a-condenacao-de-empresas-por-conduta-anticompetitiva-no-mercado-de-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-11-25T12:00:00-03:00",
+      "dia": "2026-11-25",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "condenacao",
+        "cade",
+        "acao",
+        "comenda"
+      ],
+      "coletado_em": "2026-11-25T20:58:44-03:00"
     },
     {
       "id": "16bf630ab5489200",
@@ -4136,6 +4232,20 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-24T17:59:32-03:00"
+    },
+    {
+      "id": "e8debbd19619e864",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Coaf realiza 15ª Reunião com Reguladores dos Setores Não financeiros",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/coaf-realiza-15a-reuniao-com-reguladores-dos-setores-nao-financeiros",
+      "resumo": "",
+      "publicado_em": "2026-11-24T18:43:16-03:00",
+      "dia": "2026-11-24",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-25T20:58:44-03:00"
     },
     {
       "id": "4cc65e11bdb5dd1e",
@@ -6134,6 +6244,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-23T19:27:29-03:00"
+    },
+    {
+      "id": "6519a201a3ba2b43",
+      "fonte_id": "coaf",
+      "fonte_nome": "Coaf",
+      "titulo": "Coaf participa do I Fórum Estadual de Recuperação de Ativos no Rio de Janeiro",
+      "link": "https://www.gov.br/coaf/pt-br/assuntos/noticias/ultimas-noticias/ministerio-publico-do-estado-do-rio-de-janeiro",
+      "resumo": "",
+      "publicado_em": "2026-11-23T16:39:54-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-25T20:58:44-03:00"
     },
     {
       "id": "1ef167e24d0f24e1",
