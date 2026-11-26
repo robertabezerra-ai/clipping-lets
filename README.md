@@ -107,6 +107,26 @@ python -m coletor.alerta_rfb --dry-run
 
 ## Rodar sozinho todo dia
 
+**Como está em produção hoje (desde 26/11/2026):** a coleta roda no
+servidor da Hostinger, que fica no Brasil. O TST e os sites do gov.br
+passaram a recusar conexões vindas do GitHub Actions (servidores nos EUA),
+por isso o workflow `.github/workflows/coletar.yml` foi **desativado** na
+aba Actions do GitHub. Ele continua no repositório e pode ser religado em
+*Actions → Coleta diária Clipping LETS → Enable workflow*.
+
+- Script: [`hostinger/coletar.sh`](hostinger/coletar.sh), em
+  `~/clipping-coletor` no servidor (fora do `public_html`).
+- Agendamento: hPanel → Avançado → Cron Jobs, de hora em hora; o script
+  só coleta às 08h, 11h, 13h e 17h de Brasília.
+- Publicação: o servidor envia os dados ao GitHub pela deploy key
+  "Hostinger - coletor do clipping" (Settings → Deploy keys), o que
+  dispara a implantação automática em clipping.letsite.com.br.
+- Log: `~/clipping-coletor.log` no servidor.
+- Coletar na hora, fora do horário: pelo SSH,
+  `bash ~/clipping-coletor/hostinger/coletar.sh agora`.
+
+As opções abaixo servem para rodar no seu próprio computador.
+
 **Windows** — Agendador de Tarefas: nova tarefa básica, ação
 “Iniciar um programa”, programa `.venv\Scripts\python.exe`,
 argumentos `-m coletor.fetch`, “Iniciar em” = a pasta do projeto
