@@ -1,5 +1,5 @@
 window.DADOS = {
-  "gerado_em": "2026-11-27T11:00:04-03:00",
+  "gerado_em": "2026-11-27T13:00:03-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -208,9 +208,9 @@ window.DADOS = {
     },
     {
       "id": "coaf",
-      "status": "ok",
-      "itens": 20,
-      "erro": null
+      "status": "falhou",
+      "itens": 0,
+      "erro": "respondeu, mas 0 itens reconhecidos"
     },
     {
       "id": "cade",
@@ -250,6 +250,41 @@ window.DADOS = {
     }
   ],
   "noticias": [
+    {
+      "id": "be9e12cd66471865",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Sindicato poderá calcular dívida trabalhista da Infraero antes do fim do processo",
+      "link": "https://www.tst.jus.br/-/sindicato-podera-calcular-divida-trabalhista-da-infraero-antes-do-fim-do-processo",
+      "resumo": "Decisão permite antecipar os cálculos, mas pagamento só ocorrerá após encerramento definitivo do processo, por precatório Imprimir Resumo: Uma sentença coletiva garantiu aos empregados da Infraero diferenças salariais por anuênios e progressões, além de contribuições à Infraprev. A primeira e a segu",
+      "publicado_em": "2026-11-27T11:24:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 80,
+      "tags": [
+        "decisao",
+        "trabalhista",
+        "precatorio",
+        "processo"
+      ],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "87a85fa97627cfb4",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Mulher trans tratada como homem será indenizada por rede de lojas",
+      "link": "https://www.tst.jus.br/-/mulher-trans-tratada-como-homem-sera-indenizada-por-rede-de-lojas",
+      "resumo": "Desrespeito a nome social e restrição a uso de banheiro feminino eram constantes Imprimir Resumo: Uma mulher trans será indenizada por sofrer discriminação e assédio moral por sete anos em uma rede de lojas. Ela não era tratada pelo nome social, não podia usar o banheiro feminino e tinha de usar uni",
+      "publicado_em": "2026-11-27T11:09:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
     {
       "id": "500fdea61a79e5d4",
       "fonte_id": "tst",
@@ -363,6 +398,36 @@ window.DADOS = {
       "coletado_em": "2026-11-27T11:00:04-03:00"
     },
     {
+      "id": "769c5655e5403988",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Boas Práticas: TJSP e Unicamp disponibilizam acervo histórico da Vara do Júri de Campinas",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116149&pagina=1",
+      "resumo": "Cerca de 4 mil processos criminais digitalizados.\n \n\tO Tribunal de Justiça de São Paulo e a Universidade Estadual de Campinas (Unicamp), com apoio da Secretaria",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "processo"
+      ],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "5d086e94cffd5c4e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Confira os destaques do Plenário Virtual desta semana",
+      "link": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-desta-semana-10/",
+      "resumo": "Sessão virtual começou às 11h desta sexta-feira (27) e vai até as 23h59 de 4 de dezembro",
+      "publicado_em": "2026-11-27T11:22:40-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
       "id": "929761139f8ef21e",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -377,6 +442,65 @@ window.DADOS = {
         "cade"
       ],
       "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "2270b7dd2e0cc501",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto permite que estados e municípios exijam programas de integridade em licitações",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-permite-que-estados-e-municipios-exijam-programas-de-integridade-em-licitacoes",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:46:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "dc0c0df9d07cc83b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Nova agência poderá coordenar prevenção a ataques digitais",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/nova-agencia-podera-coordenar-prevencao-a-ataques-digitais",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:05:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "93c0d8c460f1e58b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Sancionada lei que atualiza ECA para garantir educação básica obrigatória",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/sancionada-lei-que-atualiza-eca-para-garantir-educacao-basica-obrigatoria",
+      "resumo": "",
+      "publicado_em": "2026-11-27T11:43:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "sancionada",
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "1d0f2024353fbe57",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Lei autoriza crédito de R$ 21,5 milhões para as Justiças Federal e do Trabalho",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/lei-autoriza-credito-de-r-21-5-milhoes-para-as-justicas-federal-e-do-trabalho",
+      "resumo": "",
+      "publicado_em": "2026-11-27T11:12:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
     },
     {
       "id": "35c95b50a3f9d04c",
@@ -549,6 +673,20 @@ window.DADOS = {
       "coletado_em": "2026-11-27T11:00:04-03:00"
     },
     {
+      "id": "a084ef05e72c3895",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "COMUNICADO -  Receita Federal divulga versões provisórias dos conteúdos programáticos do concurso público",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/comunicado-receita-federal-divulga-versoes-provisorias-dos-conteudos-programaticos-do-concurso-publico",
+      "resumo": "",
+      "publicado_em": "2026-11-27T11:11:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
       "id": "be57b18e3cb939fc",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -569,12 +707,70 @@ window.DADOS = {
       "titulo": "Brasil reduz trabalho infantil em 9,2% e alcança menor taxa da série histórica",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-trabalho-infantil-em-9-2-e-alcanca-menor-taxa-da-serie-historica",
       "resumo": "",
-      "publicado_em": "2026-11-27T10:31:00-03:00",
+      "publicado_em": "2026-11-27T12:20:00-03:00",
       "dia": "2026-11-27",
       "data_estimada": false,
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "c3188d3e594e593c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Presidente Lula se reúne com juventude no Rio de Janeiro. Acompanhe",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/presidente-lula-se-reune-com-juventude-no-rio-de-janeiro-acompanhe",
+      "resumo": "",
+      "publicado_em": "2026-11-27T11:53:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "014a28242d5b1e2e",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo Federal derruba mais de 86 mil sites e perfis de apostas ilegais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-derruba-mais-de-86-mil-sites-e-perfis-de-apostas-ilegais",
+      "resumo": "",
+      "publicado_em": "2026-11-27T11:47:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "8fe56b325a9a6e49",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Expectativa de vida no Brasil alcança 76,9 anos e bate recorde histórico",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/expectativa-de-vida-no-brasil-alcanca-76-9-anos-e-bate-recorde-historico",
+      "resumo": "",
+      "publicado_em": "2026-11-27T11:39:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "264e14fb8c45a033",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Enem 2026: resultados dos pedidos de reaplicação estão disponíveis",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/enem-2026-resultados-dos-pedidos-de-reaplicacao-estao-disponiveis",
+      "resumo": "",
+      "publicado_em": "2026-11-27T11:37:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
     },
     {
       "id": "646e6bceeb45a792",
@@ -594,7 +790,7 @@ window.DADOS = {
       "id": "c326cdfb76eea8b4",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Desemprego cai no País e iguala menor patamar da série",
+      "titulo": "Desemprego cai no País e iguala menor patamar da série histórica",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/desemprego-cai-no-pais-e-iguala-menor-patamar-da-serie",
       "resumo": "",
       "publicado_em": "2026-11-27T09:36:00-03:00",
@@ -619,6 +815,53 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "8fd5927d1a004f32",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes autoriza visita de ministro do TCU a Bolsonaro no hospital",
+      "link": "https://www.congressoemfoco.com.br/noticia/131954/moraes-autoriza-visita-de-ministro-do-tcu-a-bolsonaro-no-hospital",
+      "resumo": "Encontro com Jorge Oliveira está previsto para este sábado (28) e deverá respeitar as orientações médicas e as regras de segurança.",
+      "publicado_em": "2026-11-27T12:09:09-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "b9cd8a0e6f891db1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Nikolas anuncia projeto para proibir voos de ministros do STF pela FAB",
+      "link": "https://www.congressoemfoco.com.br/noticia/131953/nikolas-anuncia-projeto-para-proibir-voos-de-ministros-do-stf-pela-fab",
+      "resumo": "Deputado pretende restringir o transporte aéreo militar de magistrados a situações de emergência médica ou ameaças comprovadas à segurança.",
+      "publicado_em": "2026-11-27T10:57:06-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "a2aed6febdf83143",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Edson Fachin prorroga investigações sobre Dark Horse por 60 dias",
+      "link": "https://www.congressoemfoco.com.br/noticia/131952/edson-fachin-prorroga-investigacoes-sobre-dark-horse-por-60-dias",
+      "resumo": "Decisão atende parcialmente a um pedido da PF, que havia solicitado prorrogação por 90 dias.",
+      "publicado_em": "2026-11-27T10:36:13-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
     },
     {
       "id": "5d2588c2e02cf54b",
@@ -651,6 +894,22 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "36d947796c7c5ea2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Quem é Luiz Carlos Trabuco, o indicado de Lula à Fazenda",
+      "link": "https://www.congressoemfoco.com.br/noticia/131949/quem-e-luiz-carlos-trabuco-o-indicado-de-lula-a-fazenda",
+      "resumo": "De auxiliar de tecelão ao comando do Bradesco, banqueiro que recusou convite de Dilma há 12 anos defende responsabilidade fiscal, crescimento econômico e preservação dos investimentos sociais.",
+      "publicado_em": "2026-11-27T10:04:54-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
     },
     {
       "id": "f0978ebf0bd5463d",
@@ -807,6 +1066,80 @@ window.DADOS = {
       "coletado_em": "2026-11-27T11:00:04-03:00"
     },
     {
+      "id": "f893df1f336382a1",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate financiamento do Programa Nacional de Infraestrutura Escolar",
+      "link": "https://www.camara.leg.br/noticias/1323188-comissao-debate-financiamento-do-programa-nacional-de-infraestrutura-escolar",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:53:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "8f6283229c2c60f4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate perseguição a ativistas pró-Palestina; participe",
+      "link": "https://www.camara.leg.br/noticias/1323179-comissao-debate-perseguicao-a-ativistas-pro-palestina-participe",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:50:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "2f297490d74b3724",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate aumento da violência sexual contra crianças e adolescentes",
+      "link": "https://www.camara.leg.br/noticias/1323193-comissao-debate-aumento-da-violencia-sexual-contra-criancas-e-adolescentes",
+      "resumo": "",
+      "publicado_em": "2026-11-27T11:43:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "169225528c04db3a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova diretriz para estimular telefonia móvel na área rural",
+      "link": "https://www.camara.leg.br/noticias/1323328-comissao-aprova-diretriz-para-estimular-telefonia-movel-na-area-rural",
+      "resumo": "",
+      "publicado_em": "2026-11-27T11:19:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
+      "id": "f93d0ccdf1ad875b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova exigência de comando manual de acelerador em veículos adaptados de locadoras",
+      "link": "https://www.camara.leg.br/noticias/1323513-comissao-aprova-exigencia-de-comando-manual-de-acelerador-em-veiculos-adaptados-de-locadoras",
+      "resumo": "",
+      "publicado_em": "2026-11-27T11:15:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
+    },
+    {
       "id": "f01aded341b2c3c6",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
@@ -821,6 +1154,20 @@ window.DADOS = {
         "acao"
       ],
       "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "e967ac4d94785c4b",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Motta elogia escolha de Luiz Carlos Trabuco para o Ministério da Fazenda",
+      "link": "https://www.camara.leg.br/noticias/1323682-motta-elogia-escolha-de-luiz-carlos-trabuco-para-o-ministerio-da-fazenda",
+      "resumo": "",
+      "publicado_em": "2026-11-27T08:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
     },
     {
       "id": "b2f2105b8d8aaf01",
@@ -852,6 +1199,22 @@ window.DADOS = {
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "02a5d68dac1a6121",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Cade realiza manutenção programada em sistemas e alerta para possíveis instabilidades",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/cade-realiza-manutencao-programada-em-sistemas-e-alerta-para-possiveis-instabilidades",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-11-27T13:00:03-03:00"
     },
     {
       "id": "57544a0a575d252a",
@@ -2919,9 +3282,9 @@ window.DADOS = {
       "id": "133ce65adcdf4104",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Inovação em comunicação pública: iniciativas do CNJ e do PNUD são destaque em atlas global",
+      "titulo": "Inovação em comunicação pública: iniciativas do CNJ e do Pnud são destaque em atlas global",
       "link": "https://www.cnj.jus.br/inovacao-em-comunicacao-publica-iniciativas-do-cnj-e-do-pnud-sao-destaque-em-atlas-global/",
-      "resumo": "Experiências inovadoras na área de comunicação voltadas à transparência, à participação social e à inclusão foram reunidas em uma nova ferramenta do PNUD global. Lançado em novembro, o Atlas da Inovação em Comunicação Pública, reúne 173 experiências inovadoras de comunicação pública de 50 países. O ",
+      "resumo": "Experiências inovadoras na área de comunicação voltadas à transparência, à participação social e à inclusão foram reunidas em uma nova ferramenta do Pnud global. Lançado em novembro, o Atlas da Inovação em Comunicação Pública reúne 173 experiências inovadoras de comunicação pública de 50 países. O B",
       "publicado_em": "2026-11-26T12:00:00-03:00",
       "dia": "2026-11-26",
       "data_estimada": true,
