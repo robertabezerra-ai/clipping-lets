@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-27T08:00:03-03:00",
+  "gerado_em": "2026-11-27T11:00:04-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -251,6 +251,502 @@
   ],
   "noticias": [
     {
+      "id": "500fdea61a79e5d4",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "TST e STM firmam acordo para ampliar ações de prevenção e enfrentamento ao assédio",
+      "link": "https://www.tst.jus.br/-/tst-e-stm-firmam-acordo-para-ampliar-acoes-de-prevencao-e-enfrentamento-ao-assedio",
+      "resumo": "Parceria prevê acesso a jogo virtual educativo e compartilhamento de cursos e palestras sobre assédio, violência e discriminação Imprimir 27/11/2026 – O Tribunal Superior do Trabalho (TST) e o Superior Tribunal Militar (STM) firmaram, nessa quinta-feira (26), um Acordo de Cooperação Técnica para amp",
+      "publicado_em": "2026-11-27T10:55:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "5c8861f4e2092e25",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Justiça do Trabalho mantém condenação e Volkswagen deve pagar R$ 2 milhões a trabalhador escravizado",
+      "link": "https://www.tst.jus.br/noticias?p_p_id=89Dk&p_p_lifecycle=0&refererPlid=10730&_89Dk_articleId=37608107&_89Dk_groupId=10157",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume Em sessão da 3ª Turma do Tribunal Regional do Trabalho da 8ª Região (PA/AP), realizada na manhã desta terça-feira (24), foi mantida a condenação da Volkswagen em ação individual por trabalho análogo à escravidão na F",
+      "publicado_em": "2026-11-27T10:08:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "3636516a99344d73",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Juiz reconhece feminicídio no local de trabalho como acidente laboral e concede indenização aos filhos da vítima",
+      "link": "https://www.tst.jus.br/noticias?p_p_id=89Dk&p_p_lifecycle=0&refererPlid=10730&_89Dk_articleId=37608058&_89Dk_groupId=10157",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume O juiz Mateus Hassen Jesus, da Vara do Trabalho de Vacaria, condenou uma agropecuária a pagar indenização por danos morais e pensão aos dois filhos de uma trabalhadora rural assassinada por um colega de trabalho em 2",
+      "publicado_em": "2026-11-27T09:59:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "indenizacao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "5f99e4d91c1a3d82",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Justiça do Trabalho mantém condenação e Volkswagen deve pagar R$ 2 milhões a trabalhador escravizado",
+      "link": "https://www.tst.jus.br/noticias?p_p_id=89Dk&p_p_lifecycle=0&refererPlid=10730&_89Dk_articleId=37607896&_89Dk_groupId=10157",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume Em sessão da 3ª Turma do Tribunal Regional do Trabalho da 8ª Região (PA/AP), realizada na manhã desta terça-feira (24), foi mantida a condenação da Volkswagen em ação individual por trabalho análogo à escravidão na F",
+      "publicado_em": "2026-11-27T09:49:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "condenacao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "58c9c59ac1fcbc9a",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "TST recebe III Encontro Nacional PopRuaJud para debater trabalho decente e inclusão de pessoas em situação de rua",
+      "link": "https://www.tst.jus.br/noticias?p_p_id=89Dk&p_p_lifecycle=0&refererPlid=10730&_89Dk_articleId=37607855&_89Dk_groupId=10157",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume 27/11/2026 - O Tribunal Superior do Trabalho (TST) sediará, nos dias 23 e 24 de novembro, o III Encontro Nacional PopRuaJud , que reunirá representantes do sistema de Justiça, de órgãos públicos, da academia e da soc",
+      "publicado_em": "2026-11-27T09:40:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "7de15e4283e66c29",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Feriados de dezembro suspendem atendimento em unidades da 2ª Região",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/feriados-de-dezembro-suspendem-atendimento-em-unidades-da-2a-regiao",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "30becd3dddc44698",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Palestra da Daps reflete sobre racismo e igualdade",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116160&pagina=1",
+      "resumo": "Iniciativa no mês da Consciência Negra.\n \n\tO Tribunal de Justiça de São Paulo, por meio da Diretoria de Apoio aos Servidores (Daps), realizou, na terça-feira",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "929761139f8ef21e",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "Centro de Estudos Constitucionais do STF fará audiência acadêmica em São Paulo na segunda (30)",
+      "link": "https://noticias.stf.jus.br/postsnoticias/centro-de-estudos-constitucionais-do-stf-fara-audiencia-academica-em-sao-paulo-na-segunda-30/",
+      "resumo": "Encontro na Faculdade de Direito da USP será o sexto realizado pelo CESTF para discutir os desafios do ensino constitucional no país",
+      "publicado_em": "2026-11-27T10:26:50-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 50,
+      "tags": [
+        "cade"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "35c95b50a3f9d04c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "IFI analisa cenários para alíquota da CBS e impacto de isenções fiscais no tributo",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/ifi-analisa-cenarios-para-aliquota-da-cbs-e-impacto-de-isencoes-fiscais-no-tributo",
+      "resumo": "",
+      "publicado_em": "2026-11-27T09:52:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "cbs"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "6c42f233af8d926c",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado homenageia a Academia Brasileira William Shakespeare",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-homenageia-a-academia-brasileira-william-shakespeare",
+      "resumo": "",
+      "publicado_em": "2026-11-27T09:50:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 30,
+      "tags": [
+        "cade",
+        "homenageia"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "b498d5622d725e2b",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CRA aprova novas regras para aquicultura em áreas privadas; texto vai a Plenário",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cra-aprova-novas-regras-para-aquicultura-em-areas-privadas-texto-vai-a-plenario",
+      "resumo": "",
+      "publicado_em": "2026-11-27T09:33:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 62,
+      "tags": [
+        "novas regras",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "a6abb9b283cef385",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Acesso a remédios contra obesidade e diabetes pode ser ampliado pelo Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/acesso-a-remedios-contra-obesidade-e-diabetes-pode-ser-ampliado-pelo-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-27T09:29:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "19e9b42a8bc81765",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "IFI apresenta projeções para cálculo da alíquota da CBS na reforma tributária",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/11/ifi-apresenta-projecoes-para-calculo-da-aliquota-da-cbs-na-reforma-tributaria",
+      "resumo": "",
+      "publicado_em": "2026-11-27T09:10:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "reforma tributaria",
+        "cbs"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "2da1f44d41a5c260",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Apoio emocional a jovens com deficiência vai a Plenário",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/apoio-emocional-a-jovens-com-deficiencia-vai-a-plenario",
+      "resumo": "",
+      "publicado_em": "2026-11-27T09:05:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "1c767007f5d4e397",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Orçamento 2027: relator defende novo ajuste fiscal para queda de juros",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/11/orcamento-2027-relator-defende-novo-ajuste-fiscal-para-queda-de-juros",
+      "resumo": "",
+      "publicado_em": "2026-11-27T09:01:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "814371807d730e39",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Bancada Feminina reivindica mais espaço nas decisões do Senado",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/bancada-feminina-reivindica-mais-espaco-nas-decisoes-do-senado",
+      "resumo": "",
+      "publicado_em": "2026-11-27T08:51:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "fa45cf17542db9f7",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CMO aprova relatório preliminar do Orçamento de 2027",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cmo-aprova-relatorio-preliminar-do-orcamento-de-2027",
+      "resumo": "",
+      "publicado_em": "2026-11-27T08:43:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 60,
+      "tags": [
+        "liminar",
+        "aprova"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "cd040f4faf41ad75",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Davi destaca trajetória de Trabuco e elogia indicação para a Fazenda",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/11/davi-destaca-trajetoria-de-trabuco-e-elogia-indicacao-para-a-fazenda",
+      "resumo": "",
+      "publicado_em": "2026-11-27T08:36:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "f303bc3fc8c969e1",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado avalia diretrizes para uso da inteligência artificial na saúde",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-avalia-diretrizes-para-uso-da-inteligencia-artificial-na-saude",
+      "resumo": "",
+      "publicado_em": "2026-11-27T08:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "be57b18e3cb939fc",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal e Força Nacional retêm mais de 200 kg de maconha na Ponte da Amizade",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-forca-nacional-retem-mais-de-200-kg-de-maconha-na-ponte-da-amizade",
+      "resumo": "",
+      "publicado_em": "2026-11-27T10:15:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "d3b7a8bafc7f6e47",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Brasil reduz trabalho infantil em 9,2% e alcança menor taxa da série histórica",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/brasil-reduz-trabalho-infantil-em-9-2-e-alcanca-menor-taxa-da-serie-historica",
+      "resumo": "",
+      "publicado_em": "2026-11-27T10:31:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "646e6bceeb45a792",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Pretos, pardos e indígenas são maioria em universidades federais",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/pretos-pardos-e-indigenas-sao-maioria-em-universidades-federais",
+      "resumo": "",
+      "publicado_em": "2026-11-27T10:05:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "c326cdfb76eea8b4",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Desemprego cai no País e iguala menor patamar da série",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/desemprego-cai-no-pais-e-iguala-menor-patamar-da-serie",
+      "resumo": "",
+      "publicado_em": "2026-11-27T09:36:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "161fec4af20c52c7",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Indústria nacional de telecomunicações terá R$ 184,5 milhões para inovação",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-destina-r-184-5-milhoes-para-inovacao-na-industria-nacional-de-telecomunicacoes",
+      "resumo": "",
+      "publicado_em": "2026-11-27T09:19:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "5d2588c2e02cf54b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Bradesco informa acionistas sobre indicação de Trabuco à Fazenda",
+      "link": "https://www.congressoemfoco.com.br/noticia/131951/bradesco-informa-acionistas-sobre-indicacao-de-trabuco-a-fazenda",
+      "resumo": "Banco formalizou a comunicação ao mercado sobre a futura saída do executivo responsável por seu conselho de administração desde 2018.",
+      "publicado_em": "2026-11-27T10:20:05-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "bf189f23e56d242b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Vereadora no PR sugere que aviões estão provocando tempestades no Sul",
+      "link": "https://www.congressoemfoco.com.br/noticia/131950/vereadora-no-pr-sugere-que-avioes-estao-provocando-tempestades-no-sul",
+      "resumo": "Giselli Bianchini, de Maringá, relacionou a passagem das aeronaves ao surgimento de nuvens escuras e disse não se tratar de uma teoria da conspiração.",
+      "publicado_em": "2026-11-27T10:16:27-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "f0978ebf0bd5463d",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Antes do anúncio, Trabuco defendeu educação e compromisso social",
+      "link": "https://www.congressoemfoco.com.br/noticia/131947/antes-do-anuncio-trabuco-defendeu-educacao-e-compromisso-social",
+      "resumo": "Na véspera de ser confirmado como futuro ministro da Fazenda, banqueiro exaltou a democracia e defendeu a conciliação entre solidez financeira e investimento social em discurso na Câmara. Veja os vídeos.",
+      "publicado_em": "2026-11-27T09:06:35-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "f0de54abb8d486d2",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Parlamentares e autoridades reagem à escolha de Trabuco para a Fazenda",
+      "link": "https://www.congressoemfoco.com.br/noticia/131946/parlamentares-e-autoridades-reagem-a-escolha-de-trabuco-para-a-fazenda",
+      "resumo": "Indicação do banqueiro provoca comparações com a gestão de Joaquim Levy, críticas à política fiscal e manifestações de apoio ao futuro ministro.",
+      "publicado_em": "2026-11-27T08:39:52-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "d149a57065cc2675",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Trabuco estava em alta na Bolsa da Transição; faça o seu ministério",
+      "link": "https://www.congressoemfoco.com.br/noticia/131945/trabuco-estava-em-alta-na-bolsa-da-transicao-faca-o-seu-ministerio",
+      "resumo": "Com a escolha do futuro titular da Fazenda, leitores podem montar a composição dos demais ministérios do quarto mandato de Lula.",
+      "publicado_em": "2026-11-27T08:12:55-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "832f72b03d6b98d0",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Flávio ironiza escolha de Trabuco: \"Lula assumindo que é Faria Limer\"",
+      "link": "https://www.congressoemfoco.com.br/noticia/131944/flavio-ironiza-escolha-de-trabuco--lula-assumindo-que-e-faria-limer",
+      "resumo": "Em vídeo, senador questiona indicação de banqueiro para a Fazenda, defende autonomia para o futuro ministro e volta a falar em impeachment de Lula.",
+      "publicado_em": "2026-11-27T08:04:04-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "d642e7a0e4ff9ee1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Fin elogia Trabuco e aponta desafios para a nova gestão da Fazenda",
+      "link": "https://www.congressoemfoco.com.br/noticia/131942/fin-elogia-trabuco-e-aponta-desafios-para-a-nova-gestao-da-fazenda",
+      "resumo": "Em nota, confederação que o banqueiro presidiu entre 2011 e 2017 defende responsabilidade fiscal, estabilidade econômica e diálogo com o setor financeiro.",
+      "publicado_em": "2026-11-27T07:40:51-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "8a8773a88e80f7e1",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Ana Elisa defende mulheres negras ao receber medalha Chiquinha Gonzaga",
+      "link": "https://www.congressoemfoco.com.br/noticia/131941/ana-elisa-defende-mulheres-negras-ao-receber-medalha-chiquinha-gonzaga",
+      "resumo": "Deputada federal eleita pelo PT de Minas Gerais criticou o neoliberalismo e reafirmou compromissos para seu futuro mandato.",
+      "publicado_em": "2026-11-27T07:40:44-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "medalha"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
       "id": "5ea3e1f4d2e90348",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -265,6 +761,97 @@
         "acao"
       ],
       "coletado_em": "2026-11-27T08:00:03-03:00"
+    },
+    {
+      "id": "7435a9c0b35c0556",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Novembro Alerta: novas publicações ajudam a Justiça a se proteger de golpes digitais",
+      "link": "https://www.cnj.jus.br/novembro-alerta-novas-publicacoes-ajudam-a-justica-a-se-proteger-de-golpes-digitais/",
+      "resumo": "Uma série de publicações de orientação sobre segurança cibernética estão disponíveis para profissionais de toda a Justiça brasileira. Cartilhas, guias práticos, glossário e boletim informativo integraram as ações da campanha Novembro Alerta, iniciativa do programa Justiça [+Segura] para conscientiza",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "acb8df2a3622e2a9",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Pena Justa inicia novo ciclo de monitoramento com lançamento de painel interativo",
+      "link": "https://www.cnj.jus.br/pena-justa-inicia-novo-ciclo-de-monitoramento-com-lancamento-de-painel-interativo/",
+      "resumo": "O Conselho Nacional de Justiça (CNJ) e o Ministério da Justiça e da Segurança Pública (MJSP) iniciaram um novo ciclo semestral de monitoramento do Pena Justa. Até 18 de dezembro, os comitês de políticas penais dos estados, as instituições federais, os órgãos do sistema de justiça e os representantes",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "8bb3d03f750d92b7",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Monitor da Violência Contra a Mulher de Mato Grosso do Sul passa a integrar as boas práticas do Poder Judiciário",
+      "link": "https://www.cnj.jus.br/monitor-da-violencia-contra-a-mulher-de-mato-grosso-do-sul-passa-a-integrar-as-boas-praticas-do-poder-judiciario/",
+      "resumo": "Reunindo dez anos de dados sobre feminicídios, estupros, violência doméstica e medidas protetivas de urgência nos 79 municípios de Mato Grosso do Sul, o Monitor da Violência Contra a Mulher, plataforma digital do Tribunal de Justiça de Mato Grosso do Sul (TJMS), passou a integrar o Portal CNJ de Boa",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "f01aded341b2c3c6",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Projeto estabelece normas de segurança para trabalhadores da saúde e da educação",
+      "link": "https://www.camara.leg.br/noticias/1312313-projeto-estabelece-normas-de-seguranca-para-trabalhadores-da-saude-e-da-educacao",
+      "resumo": "",
+      "publicado_em": "2026-11-27T09:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "b2f2105b8d8aaf01",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Black Friday: como a atuação do Cade afeta os consumidores",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/black-friday-como-a-atuacao-do-cade-afeta-os-consumidores",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 56,
+      "tags": [
+        "cade",
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "179887aa81310845",
+      "fonte_id": "cade",
+      "fonte_nome": "Cade",
+      "titulo": "Direito do consumidor ou defesa da concorrência? Saiba a quem recorrer",
+      "link": "https://www.gov.br/cade/pt-br/assuntos/noticias/direito-do-consumidor-ou-defesa-da-concorrencia-saiba-a-quem-recorrer",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
     },
     {
       "id": "57544a0a575d252a",
@@ -1263,6 +1850,20 @@
         "acao"
       ],
       "coletado_em": "2026-11-27T08:00:03-03:00"
+    },
+    {
+      "id": "11fce9ff7a5ff845",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo destina R$ 16,6 milhões para restabelecimento e reconstrução de Tupanciretã",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-federal-destina-r-16-6-milhoes-para-restabelecimento-e-reconstrucao-de-tupancireta",
+      "resumo": "",
+      "publicado_em": "2026-11-26T22:01:00-03:00",
+      "dia": "2026-11-26",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T11:00:04-03:00"
     },
     {
       "id": "c7c3ad272151022a",
@@ -2462,7 +3063,7 @@
       "id": "fad8f49cb99146c9",
       "fonte_id": "camara",
       "fonte_nome": "Câmara dos Deputados",
-      "titulo": "Comissão Mista aprova relatório preliminar do Orçamento de 2027",
+      "titulo": "Comissão mista aprova relatório preliminar do Orçamento de 2027",
       "link": "https://www.camara.leg.br/noticias/1323430-comissao-mista-aprova-relatorio-preliminar-do-orcamento-de-2027",
       "resumo": "",
       "publicado_em": "2026-11-26T16:44:00-03:00",
