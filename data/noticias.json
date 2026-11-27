@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-27T13:00:03-03:00",
+  "gerado_em": "2026-11-27T17:00:03-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -161,7 +161,7 @@
     {
       "id": "senado",
       "status": "ok",
-      "itens": 20,
+      "itens": 18,
       "erro": null
     },
     {
@@ -250,6 +250,71 @@
     }
   ],
   "noticias": [
+    {
+      "id": "efd973f6c8d74d97",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Lei do Vale-Pedágio garante antecipação de valor a ser gasto com tarifa em rodovias",
+      "link": "https://www.tst.jus.br/-/lei-do-vale-pedagio-garante-antecipacao-de-valor-a-ser-gasto-com-tarifa-em-rodovias",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume 23/11/2026 - No quadro Papo de Ofício, Vanderlei relata ter feito uma entrega intermunicipal e que precisou pagar os pedágios com o próprio dinheiro. A empresa afirmou que iria ressarci-lo após dois meses, mas ele nã",
+      "publicado_em": "2026-11-27T16:27:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "abded51c20ae3527",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Empresas respondem por atos de intolerância de fé e de crença no ambiente de trabalho",
+      "link": "https://www.tst.jus.br/-/empresas-respondem-por-atos-de-intolerancia-de-fe-e-de-crenca-no-ambiente-de-trabalho",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume 23/11/2026 - A juíza Ananda Tostes, do Tribunal Regional do Trabalho da 10ª Região (Distrito Federal e Tocantins), explica que as empresas podem ser responsabilizadas por atos de discriminação religiosa praticados no",
+      "publicado_em": "2026-11-27T16:21:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "da4cbd5a6a04a9d9",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Intolerância religiosa no ambiente de trabalho: o que diz a lei?",
+      "link": "https://www.tst.jus.br/-/intolerancia-religiosa-no-ambiente-de-trabalho-o-que-diz-a-lei-",
+      "resumo": "Baixe o áudio Reproduzir o áudio Pausar o áudio Aumentar o volume Diminuir o volume 23/11/2026 - Nesta edição do Conexão Trabalho, o destaque é para a liberdade religiosa e o combate à intolerância no ambiente profissional. O programa apresenta relatos de trabalhadores que enfrentaram preconceito po",
+      "publicado_em": "2026-11-27T14:22:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "5f5f2d1a5567d740",
+      "fonte_id": "tst",
+      "fonte_nome": "TST",
+      "titulo": "Nova versão do PJe da Justiça do Trabalho permitirá assinatura conjunta de documentos",
+      "link": "https://www.tst.jus.br/-/nova-versao-do-pje-da-justica-do-trabalho-permitira-assinatura-conjunta-de-documentos",
+      "resumo": "A partir de 12 de dezembro, a atualização também permitirá protocolar petições iniciais pelo Portal de Serviços do Poder Judiciário Imprimir 27/11/2026 – Dois ou mais advogados poderão assinar o mesmo documento no Processo Judicial Eletrônico (PJe) da Justiça do Trabalho. A novidade faz parte da ver",
+      "publicado_em": "2026-11-27T14:10:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 70,
+      "tags": [
+        "judicial",
+        "processo",
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
     {
       "id": "be9e12cd66471865",
       "fonte_id": "tst",
@@ -384,6 +449,52 @@
       "coletado_em": "2026-11-27T11:00:04-03:00"
     },
     {
+      "id": "45c233b9cc72f673",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Integrantes do TRT-2 participam de fórum de mediação e conciliação realizado na Bahia",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/integrantes-do-trt-2-participam-de-forum-de-mediacao-e-conciliacao-realizado-na-bahia",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "c8514fad81d5cfd6",
+      "fonte_id": "trt2",
+      "fonte_nome": "TRT-2",
+      "titulo": "Nova edição da Revista do TRT-2 já está disponível",
+      "link": "https://ww2.trt2.jus.br/noticias/noticias/noticia/nova-edicao-da-revista-do-trt-2-ja-esta-disponivel",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "1c88e5e963a1e02b",
+      "fonte_id": "trt15",
+      "fonte_nome": "TRT-15",
+      "titulo": "Palestra de Leandro Karnal sobre “Protagonismo Humano e IA” marca encerramento das comemorações dos 40 anos do TRT-15",
+      "link": "https://trt15.jus.br/noticia/2026/palestra-de-leandro-karnal-sobre-protagonismo-humano-e-ia-marca-encerramento-das",
+      "resumo": "Palestra de Leandro Karnal sobre “Protagonismo Humano e IA” marca encerramento das comemorações dos 40 anos do TRT-15 marianaaassuncao Sex, 27/11/2026 - 14:29 Palestra de Leandro Karnal sobre “Protagonismo Humano e IA” marca encerramento das comemorações dos 40 anos do TRT-15 Conteúdo da Notícia Enc",
+      "publicado_em": "2026-11-27T14:29:31-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 24,
+      "tags": [
+        "comemora"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
       "id": "30becd3dddc44698",
       "fonte_id": "tjsp",
       "fonte_nome": "TJSP",
@@ -414,6 +525,53 @@
       "coletado_em": "2026-11-27T13:00:03-03:00"
     },
     {
+      "id": "08d2d77f8a77a3b7",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "3ª Vara Cível de Pindamonhangaba realiza leilão de propriedades rurais",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115999&pagina=1",
+      "resumo": "Lances até 1º de fevereiro de 2027.\n \n\tA 3ª Vara Cível de Pindamonhangaba promove, por determinação do juiz Marcelo Soares Mendes, leilão de quatro imóveis",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-13T15:23:25-03:00"
+    },
+    {
+      "id": "26a15fec24c18b23",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "Entre roda de conversa e música, 3º Simpósio Consciência Negra debate equidade racial",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116171&pagina=1",
+      "resumo": "Discussões sobre avanços e desafios da representatividade racial.\n \n\tO debate sobre igualdade racial e representatividade nas instituições ocupou espaço no Palácio da Justiça, sede do",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "701dcd0a5f303ec8",
+      "fonte_id": "stf",
+      "fonte_nome": "STF",
+      "titulo": "STF mantém prisões de ex-presidente do BRB e de advogado investigados no caso Master",
+      "link": "https://noticias.stf.jus.br/postsnoticias/stf-mantem-prisoes-de-ex-presidente-do-brb-e-de-advogado-investigados-no-caso-master/",
+      "resumo": "Ministro Edson Fachin considerou que não há fatos novos que justifiquem a revogação das prisões preventivas de Paulo Henrique Costa e do advogado Daniel Monteiro",
+      "publicado_em": "2026-11-27T13:55:30-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 56,
+      "tags": [
+        "acao",
+        "advogado"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
       "id": "5d086e94cffd5c4e",
       "fonte_id": "stf",
       "fonte_nome": "STF",
@@ -442,6 +600,108 @@
         "cade"
       ],
       "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "8ff60cc15fff1f4e",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Pesquisa do Senado sobre violência contra a mulher ganha prêmio de design",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/pesquisa-do-senado-sobre-violencia-contra-a-mulher-ganha-premio-de-design",
+      "resumo": "",
+      "publicado_em": "2026-11-27T16:36:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 28,
+      "tags": [
+        "premio"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "acc2c6b9c1ca89eb",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senadores destacam qualidades de indicado à Fazenda e apontam desafios",
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/11/senadores-destacam-qualidades-de-indicado-a-fazenda-e-apontam-desafios",
+      "resumo": "",
+      "publicado_em": "2026-11-27T16:05:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "531efc6beff775b9",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Emendas à LDO de 2027 tentam proteger programas e mudar a meta fiscal",
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/11/27/emendas-a-ldo-de-2027-tentam-proteger-programas-e-mudar-a-meta-fiscal",
+      "resumo": "",
+      "publicado_em": "2026-11-27T15:06:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "9e891ea6ea189dd0",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Proposta determina que haja pontos de apoio para trabalhadores da limpeza urbana",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/proposta-determina-que-haja-pontos-de-apoio-para-trabalhadores-da-limpeza-urbana",
+      "resumo": "",
+      "publicado_em": "2026-11-27T14:55:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "7b3a10c8c0263166",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Senado pode votar alteração das regras de gerenciamento do Fundo Constitucional do DF",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-pode-votar-alteracao-das-regras-de-gerenciamento-do-fundo-constitucional-do-df",
+      "resumo": "",
+      "publicado_em": "2026-11-27T14:18:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "3c5132ec8b964033",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "CAE analisa projeto que torna obrigatória remoção de veículos abandonados",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/cae-analisa-projeto-que-torna-obrigatoria-remocao-de-veiculos-abandonados",
+      "resumo": "",
+      "publicado_em": "2026-11-27T13:16:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "d3982a93dfc8de07",
+      "fonte_id": "senado",
+      "fonte_nome": "Senado",
+      "titulo": "Projeto incentiva compra de alimentos da agricultura familiar para merenda",
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-incentiva-compra-de-alimentos-da-agricultura-familiar-para-merenda",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:53:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
     },
     {
       "id": "2270b7dd2e0cc501",
@@ -673,6 +933,22 @@
       "coletado_em": "2026-11-27T11:00:04-03:00"
     },
     {
+      "id": "3eea5fd783e92d42",
+      "fonte_id": "receita_federal",
+      "fonte_nome": "Receita Federal",
+      "titulo": "Receita Federal e CGIBS esclarecem emissão de documento fiscal por condomínios",
+      "link": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-cgibs-esclarecem-emissao-de-documento-fiscal-por-condominios",
+      "resumo": "",
+      "publicado_em": "2026-11-27T13:39:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 52,
+      "tags": [
+        "ibs"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
       "id": "a084ef05e72c3895",
       "fonte_id": "receita_federal",
       "fonte_nome": "Receita Federal",
@@ -701,6 +977,66 @@
       "coletado_em": "2026-11-27T11:00:04-03:00"
     },
     {
+      "id": "d1fe0db5af7db380",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon aplica multa de R$ 14,6 milhões ao BRB por infrações ao Código de Defesa do Consumidor",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias/senacon-aplica-multa-de-r-14-6-milhoes-ao-brb-por-infracoes-ao-codigo-de-defesa-do-consumidor",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 50,
+      "tags": [
+        "multa"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "865a9657b17227cd",
+      "fonte_id": "mjsp",
+      "fonte_nome": "MJSP",
+      "titulo": "Senacon amplia diálogo com órgãos de defesa do consumidor em Mato Grosso do Sul",
+      "link": "https://www.gov.br/mj/pt-br/assuntos/noticias/senacon-amplia-dialogo-com-orgaos-de-defesa-do-consumidor-em-mato-grosso-do-sul",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "14c5259aef53b93c",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Após 29 encontros regionais, populações de rua formulam propostas para o governo",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/etapas-livres-do-encontro-nacional-de-politicas-para-a-poprua-reunem-participantes-de-12-estados-e-somam-515-recomendacoes",
+      "resumo": "",
+      "publicado_em": "2026-11-27T14:11:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "9acdb590b056ab8a",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Com Interpol, ação da PF busca vítimas de abuso sexual infantojuvenil no mundo digital",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/pf-e-interpol-reunem-policiais-em-forca-tarefa-para-identificar-vitimas-de-abuso-sexual-infantojuvenil-no-ambiente-digital",
+      "resumo": "",
+      "publicado_em": "2026-11-27T13:44:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
       "id": "d3b7a8bafc7f6e47",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -718,7 +1054,7 @@
       "id": "c3188d3e594e593c",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
-      "titulo": "Presidente Lula se reúne com juventude no Rio de Janeiro. Acompanhe",
+      "titulo": "Presidente Lula se reúne com juventude no Rio de Janeiro",
       "link": "https://agenciagov.ebc.com.br/noticias/202611/presidente-lula-se-reune-com-juventude-no-rio-de-janeiro-acompanhe",
       "resumo": "",
       "publicado_em": "2026-11-27T11:53:00-03:00",
@@ -773,6 +1109,22 @@
       "coletado_em": "2026-11-27T13:00:03-03:00"
     },
     {
+      "id": "f5ea87180bfbe562",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Alunos e professores recebem medalhas da Olimpíada Brasileira de Astronomia e Astronáutica",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/alunos-e-professores-recebem-medalhas-da-olimpiada-brasileira-de-astronomia-e-astronautica-1",
+      "resumo": "",
+      "publicado_em": "2026-11-27T10:55:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 22,
+      "tags": [
+        "medalha"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
       "id": "646e6bceeb45a792",
       "fonte_id": "governo_federal",
       "fonte_nome": "Governo Federal",
@@ -815,6 +1167,188 @@
         "acao"
       ],
       "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "d52f88654535a6b4",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Governo Central registra superávit primário de R$ 52,3 bilhões em outubro",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/governo-central-registra-superavit-primario-de-r-52-3-bilhoes-em-outubro",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "cac7602f157c3224",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal e CGIBS esclarecem sobre emissão de documento fiscal por condomínios",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-e-cgibs-esclarecem-sobre-emissao-de-documento-fiscal-por-condominios",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 52,
+      "tags": [
+        "ibs"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "2af64dd0db37b719",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Receita Federal publica quadro de bagagem e de limite de compras para o Guia do Viajante",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-quadro-de-bagagem-e-de-limite-de-compras-para-o-guia-do-viajante",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "340cceccf08a9fc1",
+      "fonte_id": "fazenda",
+      "fonte_nome": "Ministério da Fazenda",
+      "titulo": "Investimentos no Tesouro Direto somam R$ 10,56 bilhões em outubro, aponta balanço divulgado nesta sexta, 27/11",
+      "link": "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/novembro/investimentos-no-tesouro-direto-somam-r-10-56-bilhoes-em-outubro-aponta-balanco-divulgado-nesta-sexta-feira",
+      "resumo": "",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "aff3d26cafd64916",
+      "fonte_id": "cvm",
+      "fonte_nome": "CVM",
+      "titulo": "CVM e SNA debatem Agenda do Mercado de Capitais 2027 para o Agro em evento no Rio de Janeiro",
+      "link": "https://www.gov.br/cvm/pt-br/assuntos/noticias/2026/cvm-e-sna-debatem-agenda-do-mercado-de-capitais-2027-para-o-agro-em-evento-no-rio-de-janeiro",
+      "resumo": "Encontro reúne especialistas na busca por alternativas que contribuam para o desenvolvimento econômico do setor rural no Brasil",
+      "publicado_em": "2026-11-27T16:52:42-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "ecf909d8e2996649",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Dino suspende emendas de Flávio Bolsonaro e cobra explicação do Senado",
+      "link": "https://www.congressoemfoco.com.br/noticia/131964/dino-suspende-emendas-de-flavio-bolsonaro-e-cobra-explicacao-do-senado",
+      "resumo": "Decisão atende parcialmente a um pedido do deputado federal Alencar Santana; indicações aconteceram entre 6 e 23 de novembro.",
+      "publicado_em": "2026-11-27T16:21:04-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 58,
+      "tags": [
+        "decisao",
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "42430affc8cd52a3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Moraes autoriza Mauro Cid a se mudar para o Rio de Janeiro",
+      "link": "https://www.congressoemfoco.com.br/noticia/131963/moraes-autoriza-mauro-cid-a-se-mudar-para-o-rio-de-janeiro",
+      "resumo": "Militar obteve autorização judicial para cumprir o restante da pena próximo à família após alegar dificuldades financeiras em Brasília.",
+      "publicado_em": "2026-11-27T15:32:50-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "judicial",
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "8eec028cfec5e34b",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Direita se tornou \"fenômeno de massa\" no Brasil, afirma Elias Jabbour",
+      "link": "https://www.congressoemfoco.com.br/noticia/131959/direita-se-tornou-fenomeno-de-massa-no-brasil-afirma-elias-jabbour",
+      "resumo": "Deputado eleito atribui a expansão da direita à desindustrialização brasileira e à perda de oportunidades de ascensão social nas periferias.",
+      "publicado_em": "2026-11-27T13:35:21-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "8ce129b3f7a1acc3",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Lula precisará preservar postura se Trump perder, diz Elias Jabbour",
+      "link": "https://www.congressoemfoco.com.br/noticia/131958/lula-precisara-preservar-postura-se-trump-perder-diz-elias-jabbour",
+      "resumo": "Deputado eleito defende continuidade do discurso de enfrentamento mesmo em caso de vitória do Partido Democrata nos Estados Unidos.",
+      "publicado_em": "2026-11-27T13:09:47-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "2fb8c37a6c1e03cf",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "O medo venceu a esperança",
+      "link": "https://www.congressoemfoco.com.br/artigo/131957/o-medo-venceu-a-esperanca",
+      "resumo": "A vitória de Flávio no primeiro turno aterrorizou milhões de jovens antibolsonaristas, que sentiram que precisavam fazer alguma coisa.",
+      "publicado_em": "2026-11-27T12:55:04-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "4e671a0354a45945",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Brasil enfrenta risco de apagão logístico, alerta Elias Jabbour",
+      "link": "https://www.congressoemfoco.com.br/noticia/131956/brasil-enfrenta-risco-de-apagao-logistico-alerta-elias-jabbour",
+      "resumo": "Economista defende a expansão dos investimentos em infraestrutura como instrumento de recuperação da capacidade produtiva da engenharia nacional.",
+      "publicado_em": "2026-11-27T12:53:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "b6bfa5a1c6ca5962",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Em Niterói, Lula admite erro na campanha e nega corte a benefícios",
+      "link": "https://www.congressoemfoco.com.br/noticia/131955/em-niteroi-lula-admite-erro-na-campanha-e-nega-corte-a-beneficios",
+      "resumo": "Após polêmica do ajuste fiscal, o petista prometeu preservar os benefícios destinados à população mais pobre e a educação.",
+      "publicado_em": "2026-11-27T12:39:50-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
     },
     {
       "id": "8fd5927d1a004f32",
@@ -1064,6 +1598,131 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-27T11:00:04-03:00"
+    },
+    {
+      "id": "35894dc3f4b44d0d",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Seminário debaterá atuação da Comissão da Amazônia em defesa dos povos originários e tradicionais",
+      "link": "https://www.camara.leg.br/noticias/1323195-seminario-debatera-atuacao-da-comissao-da-amazonia-em-defesa-dos-povos-originarios-e-tradicionais",
+      "resumo": "",
+      "publicado_em": "2026-11-27T16:36:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 46,
+      "tags": [
+        "adi",
+        "acao",
+        "seminario"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "45047a275deccca0",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate mortandade de peixes em rios no sul do Pará",
+      "link": "https://www.camara.leg.br/noticias/1323205-comissao-debate-mortandade-de-peixes-em-rios-no-sul-do-para",
+      "resumo": "",
+      "publicado_em": "2026-11-27T15:53:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "4e028a00ddb90a47",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova gratuidade de 20 minutos em áreas de embarque de aeroportos",
+      "link": "https://www.camara.leg.br/noticias/1323758-comissao-aprova-gratuidade-de-20-minutos-em-areas-de-embarque-de-aeroportos",
+      "resumo": "",
+      "publicado_em": "2026-11-27T15:51:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "b778dcf52ea4c31e",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova criação de corredores exclusivos para motos e regras para circulação entre faixas",
+      "link": "https://www.camara.leg.br/noticias/1323756-comissao-aprova-criacao-de-corredores-exclusivos-para-motos-e-regras-para-circulacao-entre-faixas",
+      "resumo": "",
+      "publicado_em": "2026-11-27T15:47:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 54,
+      "tags": [
+        "aprova",
+        "acao"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "ef1bfa0c38c5f7aa",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova direito de associações rurais contestarem dispensa de compra para merenda",
+      "link": "https://www.camara.leg.br/noticias/1323754-comissao-aprova-direito-de-associacoes-rurais-contestarem-dispensa-de-compra-para-merenda",
+      "resumo": "",
+      "publicado_em": "2026-11-27T15:44:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "4097286cb2e410d4",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão aprova gratuidade de até 30 minutos para veículos em área de embarque e desembarque dos aeroportos",
+      "link": "https://www.camara.leg.br/noticias/1323760-comissao-aprova-gratuidade-de-ate-30-minutos-para-veiculos-em-area-de-embarque-e-desembarque-dos-aeroportos",
+      "resumo": "",
+      "publicado_em": "2026-11-27T15:40:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 48,
+      "tags": [
+        "aprova"
+      ],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "a5724213c8ce074a",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão debate riscos de aposentados e pensionistas em face da portabilidade digital",
+      "link": "https://www.camara.leg.br/noticias/1323174-comissao-debate-riscos-de-aposentados-e-pensionistas-em-face-da-portabilidade-digital",
+      "resumo": "",
+      "publicado_em": "2026-11-27T15:39:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
+    },
+    {
+      "id": "b53280c9b6799bba",
+      "fonte_id": "camara",
+      "fonte_nome": "Câmara dos Deputados",
+      "titulo": "Comissão especial pode votar parecer sobre maioridade penal na terça-feira",
+      "link": "https://www.camara.leg.br/noticias/1323243-comissao-especial-pode-votar-parecer-sobre-maioridade-penal-na-terca-feira",
+      "resumo": "",
+      "publicado_em": "2026-11-27T15:38:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-27T17:00:03-03:00"
     },
     {
       "id": "f893df1f336382a1",
@@ -3282,9 +3941,9 @@
       "id": "133ce65adcdf4104",
       "fonte_id": "cnj",
       "fonte_nome": "CNJ",
-      "titulo": "Inovação em comunicação pública: iniciativas do CNJ e do Pnud são destaque em atlas global",
+      "titulo": "Inovação em comunicação pública: iniciativas do CNJ e do PNUD são destaque em atlas global",
       "link": "https://www.cnj.jus.br/inovacao-em-comunicacao-publica-iniciativas-do-cnj-e-do-pnud-sao-destaque-em-atlas-global/",
-      "resumo": "Experiências inovadoras na área de comunicação voltadas à transparência, à participação social e à inclusão foram reunidas em uma nova ferramenta do Pnud global. Lançado em novembro, o Atlas da Inovação em Comunicação Pública reúne 173 experiências inovadoras de comunicação pública de 50 países. O B",
+      "resumo": "Experiências inovadoras na área de comunicação voltadas à transparência, à participação social e à inclusão foram reunidas em uma nova ferramenta do PNUD global. Lançado em novembro, o Atlas da Inovação em Comunicação Pública, reúne 173 experiências inovadoras de comunicação pública de 50 países. O ",
       "publicado_em": "2026-11-26T12:00:00-03:00",
       "dia": "2026-11-26",
       "data_estimada": true,
@@ -3984,7 +4643,7 @@
       "fonte_nome": "STF",
       "titulo": "Ministra Cármen Lúcia alerta para gravidade da violência contra mulheres no Brasil",
       "link": "https://noticias.stf.jus.br/postsnoticias/ministra-carmen-lucia-alerta-para-gravidade-da-violencia-contra-mulheres-no-brasil/",
-      "resumo": "No Dia Internacional pela Eliminação da Violência contra as Mulheres, ministra destacou a necessidade de mobilização da sociedade e o papel do Judiciário no enfrentamento à violência de gênero",
+      "resumo": "No Dia Internacional pela Eliminação da Violência contra as Mulheres, ministra destacou a necessidade de mobilização da sociedade e o papel do Judiciário no enfrentamento da violência de gênero",
       "publicado_em": "2026-11-25T17:04:11-03:00",
       "dia": "2026-11-25",
       "data_estimada": false,
@@ -19123,22 +19782,6 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-16T17:48:48-03:00"
-    },
-    {
-      "id": "08d2d77f8a77a3b7",
-      "fonte_id": "tjsp",
-      "fonte_nome": "TJSP",
-      "titulo": "3ª Vara Cível de Pindamonhangaba realiza leilão de propriedades rurais",
-      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=115999&pagina=1",
-      "resumo": "Lances até 1º de fevereiro de 2027.\n \n\tA 3ª Vara Cível de Pindamonhangaba promove, por determinação do juiz Marcelo Soares Mendes, leilão de quatro imóveis",
-      "publicado_em": "2026-11-16T12:00:00-03:00",
-      "dia": "2026-11-16",
-      "data_estimada": true,
-      "score": 46,
-      "tags": [
-        "acao"
-      ],
-      "coletado_em": "2026-11-13T15:23:25-03:00"
     },
     {
       "id": "7c65e65dc3a05d23",
