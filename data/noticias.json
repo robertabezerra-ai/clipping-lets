@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-28T08:00:03-03:00",
+  "gerado_em": "2026-11-28T11:00:03-03:00",
   "modo": "22 de 22 fontes",
   "limite_alta_relevancia": 50,
   "base_relevancia": 40,
@@ -173,7 +173,7 @@
     {
       "id": "receita_federal",
       "status": "ok",
-      "itens": 29,
+      "itens": 28,
       "erro": null
     },
     {
@@ -251,6 +251,64 @@
   ],
   "noticias": [
     {
+      "id": "1196551013a43945",
+      "fonte_id": "tjsp",
+      "fonte_nome": "TJSP",
+      "titulo": "3ª CJ - Santo André encerra 4ª temporada da visita telepresencial “Memória TJSP”",
+      "link": "https://www.tjsp.jus.br/Noticias/Noticia?codigoNoticia=116172&pagina=1",
+      "resumo": "Difusão do patrimônio histórico e cultural do Judiciário.\n\n\n \n\n\n\tA 3ª Circunscrição Judiciária (CJ), com sede em Santo André, recebeu, ontem (27), o último evento da",
+      "publicado_em": "2026-11-28T12:00:00-03:00",
+      "dia": "2026-11-28",
+      "data_estimada": true,
+      "score": 28,
+      "tags": [
+        "visita"
+      ],
+      "coletado_em": "2026-11-28T11:00:03-03:00"
+    },
+    {
+      "id": "93981d52ae2663e2",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Semana Gov de recordes: mais estudantes nas universidades, menor desemprego, mais longevidade",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/semana-gov-de-recordes-mais-estudantes-nas-universidades-menor-desemprego-mais-longevidade",
+      "resumo": "",
+      "publicado_em": "2026-11-28T10:30:00-03:00",
+      "dia": "2026-11-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-28T11:00:03-03:00"
+    },
+    {
+      "id": "bdd53eb61ceba649",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Governo do Brasil extingue mais de 630 incêndios florestais no Amazonas e Pará",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/governo-do-brasil-extingue-mais-de-630-incendios-florestais-no-amazonas-e-para",
+      "resumo": "",
+      "publicado_em": "2026-11-28T07:30:00-03:00",
+      "dia": "2026-11-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-28T11:00:03-03:00"
+    },
+    {
+      "id": "2170b94202cd4e75",
+      "fonte_id": "governo_federal",
+      "fonte_nome": "Governo Federal",
+      "titulo": "Mutirão de atendimentos do INSS oferece 18 mil vagas neste fim de semana",
+      "link": "https://agenciagov.ebc.com.br/noticias/202611/mutirao-de-atendimentos-do-inss-oferece-mais-de-18-mil-vagas-neste-fim-de-semana-28-e-29-de-novembro",
+      "resumo": "",
+      "publicado_em": "2026-11-28T07:25:00-03:00",
+      "dia": "2026-11-28",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-28T11:00:03-03:00"
+    },
+    {
       "id": "14313fe69c467cfa",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -270,6 +328,27 @@
         "acao"
       ],
       "coletado_em": "2026-11-28T08:00:03-03:00"
+    },
+    {
+      "id": "8661bb352f254d8e",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "STF define data de julgamento sobre responsabilização das big techs",
+      "link": "https://www.congressoemfoco.com.br/noticia/131974/stf-define-data-de-julgamento-sobre-responsabilizacao-das-big-techs",
+      "resumo": "Corte analisa recursos contra decisão de 2025 que estabeleceu novas regras para a responsabilização das plataformas por conteúdos de terceiros.",
+      "publicado_em": "2026-11-28T07:19:53-03:00",
+      "dia": "2026-11-28",
+      "data_estimada": false,
+      "score": 100,
+      "tags": [
+        "decisao",
+        "julgamento",
+        "julga",
+        "novas regras",
+        "recurso",
+        "acao"
+      ],
+      "coletado_em": "2026-11-28T11:00:03-03:00"
     },
     {
       "id": "d0c36e896b11965b",
@@ -1739,6 +1818,20 @@
       "coletado_em": "2026-11-28T08:00:03-03:00"
     },
     {
+      "id": "89f8888958ff4078",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "A Torre de Babel e o debate econômico",
+      "link": "https://www.congressoemfoco.com.br/coluna/131965/a-torre-de-babel-e-o-debate-economico",
+      "resumo": "Equilíbrio fiscal não é uma bandeira de direita nem de esquerda.",
+      "publicado_em": "2026-11-27T16:28:36-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-28T11:00:03-03:00"
+    },
+    {
       "id": "ecf909d8e2996649",
       "fonte_id": "congresso_em_foco",
       "fonte_nome": "Congresso em Foco",
@@ -2133,7 +2226,7 @@
       "fonte_nome": "CNJ",
       "titulo": "CNJ reúne tribunais para discutir fortalecimento do primeiro grau de jurisdição",
       "link": "https://www.cnj.jus.br/cnj-reune-tribunais-para-discutir-fortalecimento-do-primeiro-grau-de-jurisdicao/",
-      "resumo": "A busca por soluções para os desafios enfrentados pelo primeiro grau de jurisdição no Brasil vai pautar a 5ª Reunião da Política Nacional de Atenção Prioritária ao Primeiro Grau de Jurisdição. A atividade acontece na segunda-feira (31/11), em Fortaleza (CE), paralelamente ao 20º Encontro Nacional do",
+      "resumo": "A busca por soluções para os desafios enfrentados pelo primeiro grau de jurisdição no Brasil vai pautar a 5ª Reunião da Política Nacional de Atenção Prioritária ao Primeiro Grau de Jurisdição. A atividade acontece na segunda-feira (30/11), em Fortaleza (CE), paralelamente ao 20º Encontro Nacional do",
       "publicado_em": "2026-11-27T12:00:00-03:00",
       "dia": "2026-11-27",
       "data_estimada": true,
@@ -2170,6 +2263,22 @@
       "score": 40,
       "tags": [],
       "coletado_em": "2026-11-28T08:00:03-03:00"
+    },
+    {
+      "id": "85cdf21fc625024d",
+      "fonte_id": "cnj",
+      "fonte_nome": "CNJ",
+      "titulo": "Justiça do Amapá adere a acordo para enfrentamento à violência contra a mulher no Judiciário",
+      "link": "https://www.cnj.jus.br/justica-do-amapa-adere-a-acordo-para-enfrentamento-a-violencia-contra-a-mulher-no-judiciario/",
+      "resumo": "O Tribunal de Justiça do Estado do Amapá (TJAP) aderiu, nesta sexta-feira (27), ao acordo de cooperação técnica que prevê a implementação de medidas de prevenção e enfrentamento à violência contra a mulher no âmbito das corregedorias de Justiça. A assinatura ocorreu durante o encerramento da inspeçã",
+      "publicado_em": "2026-11-27T12:00:00-03:00",
+      "dia": "2026-11-27",
+      "data_estimada": true,
+      "score": 46,
+      "tags": [
+        "acao"
+      ],
+      "coletado_em": "2026-11-28T11:00:03-03:00"
     },
     {
       "id": "bd7ffef257889807",
@@ -11510,6 +11619,20 @@
         "julga"
       ],
       "coletado_em": "2026-11-23T19:27:29-03:00"
+    },
+    {
+      "id": "72d4d2b105c5760a",
+      "fonte_id": "congresso_em_foco",
+      "fonte_nome": "Congresso em Foco",
+      "titulo": "Projeto inclui mortes por embriaguez ao volante entre crimes hediondos",
+      "link": "https://www.congressoemfoco.com.br/noticia/131791/projeto-inclui-mortes-por-embriaguez-ao-volante-entre-crimes-hediondos",
+      "resumo": "Proposta de Silvye Alves inclui mortes causadas por embriaguez ou rachas na Lei dos Crimes Hediondos e restringe benefícios penais.",
+      "publicado_em": "2026-11-23T13:27:09-03:00",
+      "dia": "2026-11-23",
+      "data_estimada": false,
+      "score": 40,
+      "tags": [],
+      "coletado_em": "2026-11-28T11:00:03-03:00"
     },
     {
       "id": "4d4d3f177a47a40f",
